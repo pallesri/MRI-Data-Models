@@ -1,0 +1,17 @@
+T1	Disease 141 149	diabetes
+T2	Disease 158 172	cardiomyopathy
+T3	Disease 368 376	diabetes
+T4	Disease 399 430	Cardiac contractile dysfunction
+T5	Disease 968 976	diabetes
+T6	Disease 985 1005	cardiac dysfunctions
+T7	Disease 1162 1170	diabetes
+T8	Disease 1179 1193	cardiomyopathy
+T9	Plant 37 43	garlic
+T11	Plant 121 127	garlic
+T13	Plant 252 258	garlic
+T16	Plant 1050 1056	garlic
+T18	Plant 1092 1098	garlic
+T10	Treatment_of_disease 1139 1149	protecting
+E1	Treatment_of_disease:T10 Cause:T18 Theme:T7 Theme2:T8
+T12	Treatment_of_disease 1035 1046	ameliorated
+E2	Treatment_of_disease:T12 Cause:T16 Theme:T6 Theme2:T5

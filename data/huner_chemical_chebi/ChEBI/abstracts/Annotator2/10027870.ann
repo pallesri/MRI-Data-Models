@@ -1,0 +1,79 @@
+T1	Biological_Activity 11 20	analgesic
+T2	Chemical 33 42	ketorolac
+T3	Biological_Activity 85 102	anti-inflammatory
+T4	Species 46 51	human
+T5	Biological_Activity 209 218	analgesic
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T2 Arg2:T5	
+T6	Chemical 275 290	(R,S)-ketorolac
+T7	Biological_Activity 385 394	inhibitor
+T8	Protein 364 378	cyclooxygenase
+T9	Protein 380 383	COX
+T12	Chemical 397 409	indomethacin
+T13	Chemical 411 415	INDO
+T14	Chemical 421 438	diclofenac sodium
+T17	Chemical 440 442	DS
+R3	Associated_With Arg1:T12 Arg2:T7	
+R4	Associated_With Arg1:T13 Arg2:T7	
+R5	Associated_With Arg1:T14 Arg2:T7	
+R6	Associated_With Arg1:T17 Arg2:T7	
+T18	Biological_Activity 476 485	inhibitor
+T19	Protein 470 475	COX-2
+T21	Chemical 487 496	celecoxib
+R15	Associated_With Arg1:T21 Arg2:T18	
+T22	Chemical 536 551	(R,S)-ketorolac
+T24	Biological_Activity 630 642	hyperalgesia
+T25	Chemical 576 587	acetic acid
+T27	Species 688 692	rats
+T28	Chemical 751 766	(R,S)-ketorolac
+T29	Chemical 804 817	(S)-ketorolac
+T30	Biological_Activity 893 902	analgesic
+T31	Chemical 917 922;927 928;936 949	(R,S) S (R)-ketorolac
+T32	Chemical 951 955	INDO
+T33	Chemical 961 963	DS
+R20	Associated_With Arg1:T31 Arg2:T30	
+R21	Associated_With Arg1:T32 Arg2:T30	
+R22	Associated_With Arg1:T33 Arg2:T30	
+T35	Biological_Activity 998 1015	anti-inflammatory
+R23	Associated_With Arg1:T33 Arg2:T35	
+R24	Associated_With Arg1:T32 Arg2:T35	
+R25	Associated_With Arg1:T31 Arg2:T35	
+T34	Chemical 1058 1073	(R,S)-ketorolac
+T36	Chemical 1109 1113	INDO
+T37	Chemical 1117 1119	DS
+T38	Biological_Activity 1175 1185	inhibition
+T40	Protein 1171 1174	COX
+T41	Chemical 1190 1205	(R,S)-ketorolac
+T42	Chemical 1211 1215	INDO
+T43	Chemical 1220 1222	DS
+T44	Chemical 1239 1252	(S)-ketorolac
+T45	Protein 1274 1281	enzymes
+T46	Protein 1283 1291	channels
+T47	Protein 1296 1305	receptors
+R26	Associated_With Arg1:T41 Arg2:T38	
+R29	Associated_With Arg1:T42 Arg2:T38	
+R31	Associated_With Arg1:T43 Arg2:T38	
+T48	Chemical 1395 1410	(R,S)-ketorolac
+T49	Chemical 1451 1453	DS
+T50	Chemical 1457 1461	INDO
+T51	Chemical 1479 1494	(R,S)-ketorolac
+T52	Chemical 1530 1535	NSAID
+T53	Chemical 1604 1619	(R,S)-ketorolac
+T54	Chemical 1655 1668	(S)-ketorolac
+T15	Chemical 72 108	nonsteroidal anti-inflammatory drugs
+T16	Chemical 110 115	NSAID
+R7	Binds_With Arg1:T12 Arg2:T9	
+R8	Binds_With Arg1:T12 Arg2:T8	
+R9	Binds_With Arg1:T13 Arg2:T9	
+R10	Binds_With Arg1:T13 Arg2:T8	
+R11	Binds_With Arg1:T14 Arg2:T9	
+R12	Binds_With Arg1:T14 Arg2:T8	
+R13	Binds_With Arg1:T17 Arg2:T9	
+R14	Binds_With Arg1:T17 Arg2:T8	
+R16	Binds_With Arg1:T21 Arg2:T19	
+R17	Associated_With Arg1:T22 Arg2:T24	
+T10	Chemical 606 617	carrageenan
+T11	Chemical 648 659	carrageenan
+R18	Binds_With Arg1:T41 Arg2:T40	
+R19	Binds_With Arg1:T42 Arg2:T40	
+R27	Binds_With Arg1:T44 Arg2:T40	

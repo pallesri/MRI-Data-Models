@@ -1,0 +1,18 @@
+T1	Protein 0 25	Lactosylceramide synthase
+T2	Protein 32 38	enzyme
+T3	Chemical 70 79	galactose
+T4	Chemical 85 92	UDP-Gal
+T5	Chemical 96 112	glucosylceramide
+T8	Chemical 164 175	glycolipids
+T9	Metabolite 164 175	glycolipids
+T11	Species 243 248	human
+T12	Protein 249 274	lactosylceramide synthase
+T13	Chemical 288 298	amino acid
+T14	Species 316 321	human
+T15	Protein 322 347	lactosylceramide synthase
+T16	Species 375 378	rat
+T17	Protein 379 404	lactosylceramide synthase
+T18	Protein 447 472	lactosylceramide synthase
+T10	Species 179 186	mammals
+R1	Isolated_From Arg1:T9 Arg2:T10	
+T6	Biological_Activity 143 155	biosynthesis

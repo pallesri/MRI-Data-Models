@@ -1,0 +1,18 @@
+T1	Disease 161 167	cancer
+T2	Disease 169 182	female cancer
+T3	Disease 184 221	chronic obstructive pulmonary disease
+T4	Disease 226 251	ischemic vascular disease
+T5	Disease 602 615	female cancer
+T6	Disease 619 644	ischemic vascular disease
+T7	Disease 1094 1100	cancer
+T8	Disease 1102 1115	female cancer
+T9	Disease 1117 1154	chronic obstructive pulmonary disease
+T10	Disease 1159 1184	ischemic vascular disease
+T11	Plant 145 152	tobacco
+T12	Plant 336 343	tobacco
+T13	Plant 428 435	tobacco
+T14	Plant 1078 1085	tobacco
+T15	Cause_of_disease 153 160	related
+E1	Cause_of_disease:T15 Theme:T1 Theme2:T2 Theme3:T3 Theme4:T4 Cause:T11
+T16	Cause_of_disease 1086 1093	related
+E2	Cause_of_disease:T16 Theme:T7 Theme2:T8 Theme3:T9 Theme4:T10 Cause:T14

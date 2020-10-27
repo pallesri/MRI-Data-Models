@@ -1,0 +1,19 @@
+T1	Disease 0 17	Cerebral ischemia
+T2	Disease 38 50	brain damage
+T3	Disease 216 228	brain damage
+T4	Disease 413 425	brain damage
+T5	Disease 430 442	brain damage
+T6	Disease 447 461	memory deficit
+T7	Disease 479 496	cerebral ischemia
+T8	Disease 1516 1533	cerebral ischemia
+T10	Plant 306 325	Zingiber officinale
+T12	Plant 579 585	ginger
+T13	Plant 860 871	hippocampus
+T14	Plant 1057 1068	hippocampus
+T15	Plant 1181 1192	hippocampus
+T16	Plant 1211 1217	ginger
+T17	Plant 1476 1482	ginger
+T9	Treatment_of_disease 1494 1501	protect
+E1	Treatment_of_disease:T9 Theme:T8 Cause:T17
+T11	Treatment_of_disease 357 379	neuroprotective effect
+E2	Treatment_of_disease:T11 Cause:T10 Theme:T4 Theme2:T5 Theme3:T6 Theme4:T7

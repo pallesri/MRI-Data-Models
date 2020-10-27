@@ -1,0 +1,19 @@
+T2	Disease 57 67	malignancy
+T3	Disease 115 122	cancers
+T4	Disease 212 217	tumor
+T5	Disease 319 333	oral carcinoma
+T8	Plant 0 7	Tobacco
+T9	Plant 179 186	tobacco
+T10	Plant 494 501	tobacco
+T11	Plant 1462 1469	tobacco
+T13	Cause_of_disease 205 211	induce
+E2	Cause_of_disease:T13 Cause:T9 Theme:T4
+T6	Disease 510 525	oral carcinomas
+T14	Cause_of_disease 502 509	related
+E3	Cause_of_disease:T14 Cause:T10 Theme:T6
+T1	Disease 16 44	oral squamous cell carcinoma
+T12	Cause_of_disease 8 15	related
+E1	Cause_of_disease:T12 Cause:T8 Theme:T1
+T7	Disease 1478 1506	oral squamous cell carcinoma
+T15	Cause_of_disease 1470 1477	related
+E4	Cause_of_disease:T15 Cause:T11 Theme:T7

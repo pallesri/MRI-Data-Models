@@ -1,0 +1,425 @@
+T1	Species 1 18	Trypanosoma cruzi
+T2	Species 267 276	mammalian
+T3	Protein 456 463	enzymes
+T4	Species 471 477	insect
+T5	Species 255 262	insects
+T6	Chemical 905 914	molecules
+T7	Species 918 926	T. cruzi
+T8	Chemical 1135 1143	antigens
+T9	Chemical 1175 1184	molecules
+T10	Species 1188 1196	T. cruzi
+T11	Species 1473 1490	Trypanosoma cruzi
+T12	Species 1898 1906	T. cruzi
+T13	Species 2551 2568	Trypanosoma cruzi
+T14	Species 7888 7896	T. cruzi
+T15	Species 8420 8428	T. cruzi
+T16	Species 15248 15256	T. cruzi
+T17	Species 16844 16852	T. cruzi
+T18	Species 17568 17576	T. cruzi
+T19	Species 17993 18001	T. cruzi
+T20	Species 18927 18935	T. cruzi
+T21	Protein 1236 1251	trans-sialidase
+T22	Protein 1258 1263	mucin
+T23	Protein 1269 1282	glycoproteins
+T24	Chemical 1289 1316	glycoinositol phospholipids
+T25	Chemical 1323 1348	inositol phosphoceramides
+T26	Chemical 1359 1377	glycosphingolipids
+T27	Metabolite 1289 1316	glycoinositol phospholipids
+T28	Metabolite 1323 1348	inositol phosphoceramides
+T29	Metabolite 1359 1377	glycosphingolipids
+T30	Chemical 1456 1469	phospholipids
+T31	Metabolite 1456 1469	phospholipids
+T32	Chemical 1549 1555	lipids
+T33	Chemical 1729 1744	diacylglycerols
+T34	Metabolite 1549 1555	lipids
+T35	Chemical 1746 1772	platelet activating factor
+T36	Metabolite 1746 1772	platelet activating factor
+T37	Metabolite 1729 1744	diacylglycerols
+T38	Chemical 1774 1777	PAF
+T39	Metabolite 1774 1777	PAF
+T40	Chemical 1784 1795	eicosanoids
+T41	Metabolite 1784 1795	eicosanoids
+T42	Chemical 1860 1872	phospholipid
+T44	Species 1882 1906	Dm 28c clone of T. cruzi
+T45	Spectral_Data 1944 1980	gas-chromatography mass spectrometry
+T46	Spectral_Data 1982 1987	GC/MS
+T47	Spectral_Data 1990 2029	fast atom bombardment mass spectrometry
+T48	Spectral_Data 2031 2037	FAB MS
+T49	Spectral_Data 2043 2069	nuclear magnetic resonance
+T50	Spectral_Data 2071 2074	NMR
+T51	Spectral_Data 2043 2069;2076 2088	nuclear magnetic resonance spectroscopy
+T52	Spectral_Data 2071 2074;2076 2088	NMR spectroscopy
+T53	Chemical 2222 2234	Phospholipid
+T54	Protein 2249 2265	phospholipase A2
+T55	Chemical 2294 2307	Silica gel 60
+T56	Species 2396 2401	Human
+T57	Species 2535 2567	Dm 28c clone of Trypanosoma cruz
+T58	Species 2778 2782	calf
+T59	Chemical 2828 2834	haemin
+T60	Chemical 2968 2974	saline
+T61	Chemical 3032 3045	phospholipids
+T63	Chemical 3202 3212	chloroform
+T64	Chemical 3213 3221	methanol
+T65	Chemical 3247 3252	lipid
+T66	Chemical 3417 3430	silica gel 60
+T67	Chemical 3460 3465;3478 3483	glyco lipid
+T68	Chemical 3471 3483	phospholipid
+T71	Chemical 3539 3552	phospholipids
+T73	Chemical 3581 3594	silica gel 60
+T74	Chemical 3629 3639	chloroform
+T75	Chemical 3640 3648	methanol
+T76	Chemical 3703 3711	methanol
+T77	Chemical 3717 3725	methanol
+T78	Chemical 3789 3802	silica gel 60
+T79	Chemical 3871 3881	chloroform
+T80	Chemical 3882 3890	methanol
+T81	Chemical 3929 3937	methanol
+T82	Chemical 4003 4015	phospholipid
+T84	Chemical 4087 4097	chloroform
+T85	Chemical 4098 4106	methanol
+T86	Chemical 4178 4190	silica gel G
+T87	Chemical 4242 4252	chloroform
+T88	Chemical 4253 4261	methanol
+T89	Chemical 4262 4267	water
+T90	Chemical 4332 4338	iodine
+T91	Chemical 4347 4356	ninhydrin
+T92	Chemical 4368 4386	ammonium molybdate
+T93	Chemical 4465 4475	chloroform
+T94	Chemical 4476 4484	methanol
+T95	Chemical 4489 4507	ammonium hydroxide
+T96	Chemical 4545 4555	chloroform
+T97	Chemical 4556 4563	acetone
+T98	Chemical 4564 4572	methanol
+T99	Chemical 4573 4584	acetic acid
+T100	Chemical 4586 4591	water
+T101	Chemical 4638 4651	phospholipids
+T103	Chemical 4685 4703	ammonium molybdate
+T104	Chemical 4778 4783	lipid
+T105	Chemical 4822 4832	chloroform
+T106	Chemical 4833 4841	methanol
+T107	Chemical 4842 4847	water
+T108	Chemical 4922 4938	polymethacrylate
+T109	Chemical 4942 4955	diethyl ether
+T110	Species 4998 5023	phosphate-buffered saline
+T111	Chemical 5017 5023	saline
+T112	Species 5079 5087	patients
+T113	Species 5099 5109	volunteers
+T114	Protein 5149 5159	peroxidase
+T115	Species 5171 5175	goat
+T116	Protein 5176 5190	anti-human IgG
+T117	Chemical 5201 5217	diaminobenzidine
+T118	Chemical 5322 5327	water
+T119	Chemical 5424 5428	Acid
+T121	Chemical 5455 5467	phospholipid
+T120	Chemical 5510 5518	methanol
+T123	Chemical 5520 5523	HCl
+T124	Chemical 5550 5555	water
+T125	Chemical 5614 5620	hexane
+T126	Chemical 5635 5641	hexane
+T127	Spectral_Data 5678 5683	GC/MS
+T128	Protein 5690 5706	Phospholipase A2
+T129	Chemical 5732 5744	phospholipid
+T43	Chemical 5780 5793	diethyl ether
+T62	Chemical 5794 5802	methanol
+T69	Species 5826 5840	Crotalus atrox
+T70	Protein 5841 5857	phospholipase A2
+T72	Protein 5826 5857	Crotalus atrox phospholipase A2
+T83	Chemical 5886 5899	borate buffer
+T102	Chemical 5924 5960	Dipalmitoyl phosphatidylethanolamine
+T122	Chemical 6047 6052	ether
+T130	Spectral_Data 6174 6180	FAB MS
+T131	Spectral_Data 6187 6223	Gas chromatography mass spectrometry
+T132	Spectral_Data 6224 6229	GC/MS
+T133	Chemical 6370 6382	fused silica
+T134	Chemical 6432 6438	Helium
+T135	Spectral_Data 6530 6557	Electron ionization spectra
+T136	Spectral_Data 6663 6690	Chemical ionization spectra
+T137	Chemical 6711 6720	isobutane
+T138	Spectral_Data 6773 6812	Fast atom bombardment-mass spectrometry
+T139	Spectral_Data 6813 6834;6841 6848	Fast atom bombardment spectra
+T140	Spectral_Data 6836 6839;6841 6848	FAB spectra
+T141	Chemical 7002 7007	xenon
+T142	Chemical 7059 7080	3-nitrobenzyl alcohol
+T143	Chemical 7146 7152	helium
+T144	Spectral_Data 7394 7433	Nuclear magnetic resonance spectroscopy
+T145	Spectral_Data 7434 7440;7466 7477	Proton NMR spectra
+T146	Spectral_Data 7461 7477	13 C NMR spectra
+T147	Chemical 7624 7631	CDCl3  
+T148	Chemical 7653 7659	CD3 OD
+T149	Chemical 7663 7670	CDCl3  
+T150	Chemical 7674 7680	CD3 OD
+T151	Chemical 7746 7763	tetramethylsilane
+T152	Chemical 7803 7816	phospholipids
+T153	Chemical 7817 7830	Phospholipids
+T154	Species 7872 7896	Dm 28c clone of T. cruzi
+T155	Chemical 7903 7913	chloroform
+T156	Chemical 7914 7922	methanol
+T157	Chemical 7965 7971	silica
+T158	Chemical 8089 8101	phospholipid
+T159	Chemical 8151 8175	phosphatidylethanolamine
+T160	Chemical 8177 8179	PE
+T161	Chemical 8236 8245	ninhydrin
+T162	Chemical 8247 8253	iodine
+T163	Chemical 8259 8277	ammonium molybdate
+T164	Chemical 8345 8369	phosphatidylethanolamine
+T165	Chemical 8386 8398	phospholipid
+T167	Chemical 8588 8600	phospholipid
+T168	Chemical 8575 8600	methanolysed phospholipid
+T169	Chemical 8605 8617	phospholipid
+T170	Chemical 8641 8645	acid
+T172	Chemical 9030 9081	methyl esters of unsaturated long chain fatty acids
+T173	Spectral_Data 8522 8558	Gas chromotography mass spectrometry
+T166	Spectral_Data 8692 8697	GC/MS
+T171	Chemical 9413 9433	octadecadienoic acid
+T174	Metabolite 9413 9433	octadecadienoic acid
+T175	Metabolite 9638 9655	octadecenoic acid
+T176	Chemical 9638 9655	octadecenoic acid
+T177	Chemical 9711 9723	double bonds
+T178	Chemical 9792 9830	methyl ester of a saturated fatty acid
+T179	Chemical 9926 9946	methyl hexadecanoate
+T180	Metabolite 9926 9946	methyl hexadecanoate
+T181	Chemical 10038 10048	fatty acid
+T182	Chemical 10075 10094	long chain aldehyde
+T183	Chemical 10218 10229	hexadecanal
+T184	Chemical 10300 10302	H2
+T185	Chemical 10303 10304	O
+T186	Chemical 10306 10308	CO
+T187	Chemical 10314 10320	CH3 CO
+T188	Chemical 10383 10402	aliphatic aldehydes
+T189	Chemical 10545 10556	hexadecanal
+T190	Chemical 10640 10652	tetradecanal
+T191	Spectral_Data 9952 9965	mass spectrum
+T192	Spectral_Data 10431 10459	chemical ionization spectrum
+T193	Spectral_Data 10573 10592;10616 10623	electron ionization spectra
+T194	Spectral_Data 10597 10623	chemical ionizaton spectra
+T195	Chemical 11160 11178	carboxylate anions
+T196	Chemical 11192 11211	octadecenoic (18:1)
+T197	Chemical 11216 11251	octadecadienoic (18:2) substituents
+T198	Chemical 11160 11211;11239 11251	carboxylate anions derived from octadecenoic (18:1) substituents
+T199	Chemical 11160 11191;11216 11251	carboxylate anions derived from octadecadienoic (18:2) substituents
+T200	Spectral_Data 11260 11285	positive ion FAB spectrum
+T201	Chemical 11545 11567	ethanolamine phosphate
+T202	Chemical 11593 11613	protonated molecules
+T203	Spectral_Data 11638 11664	constant neutral loss scan
+T204	Chemical 11760 11780	protonated molecules
+T205	Chemical 11847 11920	phosphoethanolamine and hydroxyester-linked C18:1  and C18:2  fatty acids
+T206	Chemical 11978 12003	phosphatidyl ethanolamine
+T207	Chemical 12121 12143	plasmenyl ethanolamine
+T208	Chemical 12166 12199	sn -glycero-3-phosphoethanolamine
+T209	Chemical 12209 12235	O -(1-hexadecenyl) residue
+T210	Chemical 12292 12304;12325 12329	octadecenoic acid
+T211	Chemical 12309 12329	octadecadienoic acid
+T212	Chemical 12397 12408	hexadecanal
+T213	Chemical 12410 12423	octadecanoate
+T214	Chemical 12429 12450	octadecadienoate acid
+T215	Spectral_Data 12489 12506	GC/MS experiments
+T216	Chemical 12564 12577	alkylglycerol
+T217	Chemical 12512 12516	acid
+T218	Chemical 12618 12622	acid
+T219	Protein 12690 12706	phospholipase A2
+T220	Spectral_Data 12727 12746	negative ion FAB MS
+T221	Chemical 12863 12876	octadecanoate
+T222	Chemical 12881 12897	octadecadienoate
+T223	Chemical 12920 12944	sn -1,2-diradyl glycerol
+T224	Chemical 13019 13025	helium
+T225	Spectral_Data 13019 13057	helium collisional activation spectrum
+T226	Chemical 13065 13085	protonated molecules
+T227	Chemical 13321 13340	phosphoethanolamine
+T228	Chemical 13464 13479	sn -1 O-CH bond
+T229	Chemical 13486 13494	hydrogen
+T230	Chemical 13507 13515	glycerol
+T231	Chemical 13539 13561	ethanolamine phosphate
+T232	Chemical 13618 13630	plasmalogens
+T233	Spectral_Data 13603 13614	FAB spectra
+T234	Chemical 13677 13696	phosphoethanolamine
+T235	Chemical 13749 13774	phosphatidylethanolamines
+T236	Spectral_Data 13790 13825	Nuclear magnetic resonance analysis
+T237	Chemical 13833 13845	phospholipid
+T238	Spectral_Data 13846 13871	Proton and carbon spectra
+T239	Spectral_Data 13892 13911	two-dimensional NMR
+T240	Spectral_Data 13924 13972	double quantum filtered correlation spectroscopy
+T241	Spectral_Data 13974 13980	DQCOSY
+T242	Spectral_Data 13986 14016	total correlation spectroscopy
+T243	Spectral_Data 14018 14023	TOCSY
+T244	Spectral_Data 14050 14104	heteronuclear multiple quantum correlated spectroscopy
+T245	Spectral_Data 14106 14110	HMQC
+T246	Spectral_Data 14033 14045	1 H spectrum
+T247	Spectral_Data 14120 14133	13 C spectrum
+T248	Chemical 14192 14199	CDCl3  
+T249	Spectral_Data 14217 14237	1 H and 13 C spectra
+T250	Spectral_Data 14289 14316	mass spectrometric analysis
+T251	Chemical 14400 14416	plasmenylcholine
+T252	Chemical 14494 14513;14543 14559	phosphoethanolamine polar head group
+T253	Chemical 14528 14559	phosphocholine polar head group
+T254	Chemical 14591 14603	double bonds
+T255	Chemical 14607 14626	octadecadienoic aci
+T256	Chemical 14699 14705	carbon
+T257	Chemical 14679 14686	protons
+T258	Chemical 14760 14780	bisallylic methylene
+T259	Chemical 14842 14849	methine
+T260	Spectral_Data 14648 14662	chemical shift
+T261	Spectral_Data 14806 14810	COSY
+T262	Chemical 14981 14986	lipid
+T263	Chemical 15042 15064	plasmenyl ethanolamine
+T264	Species 15093 15101	patients
+T265	Species 15248 15271	T. cruzi  strain Dm 28c
+T266	Spectral_Data 15290 15296	FAB MS
+T267	Spectral_Data 15301 15304	NMR
+T268	Chemical 15310 15331	plasmenylethanolamine
+T269	Chemical 15339 15359	hexadec-1-enyl group
+T270	Chemical 15424 15437	octadecenoate
+T271	Chemical 15442 15458	octadecadienoate
+T272	Chemical 15477 15490	sn -2 hydroxy
+T273	Chemical 15310 15491	plasmenylethanolamine with a hexadec-1-enyl group in the sn -1 position and an approximately equimolar mixture of octadecenoate and octadecadienoate esterified to the sn -2 hydroxyl
+T274	Metabolite 15310 15491	plasmenylethanolamine with a hexadec-1-enyl group in the sn -1 position and an approximately equimolar mixture of octadecenoate and octadecadienoate esterified to the sn -2 hydroxyl
+T275	Chemical 15230 15242	phospholipid
+R1	Isolated_From Arg1:T274 Arg2:T265	
+T276	Chemical 15493 15505	Plasmalogens
+T277	Chemical 15528 15548	glycerophospholipids
+T278	Chemical 15557 15585	alk-1-enyl ether substituent
+T279	Chemical 15593 15619	sn -1 position of glycerol
+T280	Chemical 15657 15681	alk-1-enyl ether linkage
+T281	Chemical 15726 15746	diacyl phospholipids
+T282	Chemical 15788 15793	lipid
+R2	Associated_With Arg1:T174 Arg2:T166	
+R3	Associated_With Arg1:T171 Arg2:T166	
+R4	Associated_With Arg1:T174 Arg2:T173	
+R5	Associated_With Arg1:T171 Arg2:T173	
+R6	Associated_With Arg1:T175 Arg2:T166	
+R7	Associated_With Arg1:T176 Arg2:T166	
+R8	Associated_With Arg1:T175 Arg2:T166	
+R9	Associated_With Arg1:T176 Arg2:T166	
+R10	Associated_With Arg1:T175 Arg2:T173	
+R11	Associated_With Arg1:T176 Arg2:T173	
+R12	Associated_With Arg1:T180 Arg2:T173	
+R13	Associated_With Arg1:T180 Arg2:T166	
+R14	Associated_With Arg1:T179 Arg2:T166	
+R15	Associated_With Arg1:T179 Arg2:T173	
+T283	Chemical 16044 16055	Plasmalogen
+T284	Metabolite 16044 16055	Plasmalogen
+T285	Chemical 15972 15998	platelet activating factor
+T286	Metabolite 15972 15998	platelet activating factor
+T287	Chemical 15902 15923	plasmenylethanolamine
+T288	Metabolite 15902 15923	plasmenylethanolamine
+T289	Biological_Activity 15924 15934	catabolism
+T290	Biological_Activity 16056 16066	catabolism
+T292	Chemical 16000 16003	PAF
+T293	Metabolite 16000 16003	PAF
+T294	Chemical 16143 16168	plasmenyl analogue of PAF
+T295	Metabolite 16143 16168	plasmenyl analogue of PAF
+T291	Chemical 16245 16248	PAF
+T296	Metabolite 16245 16248	PAF
+T297	Chemical 16295 16307	Plasmalogens
+T298	Metabolite 16295 16307	Plasmalogens
+T299	Species 16341 16355	rumen protozoa
+T300	Species 16377 16392	trypanosomatids
+T301	Species 16393 16416	Blastocrithidia culicis
+T302	Species 16424 16434	Leishmania
+T303	Species 16446 16464	Trypanosoma brucei
+T304	Chemical 16507 16533	glycerophosphoethanolamine
+T305	Chemical 16559 16576	alk-1-enyl-2-acyl
+T306	Metabolite 16559 16576	alk-1-enyl-2-acyl
+T307	Metabolite 16507 16533	glycerophosphoethanolamine
+T308	Chemical 16616 16637;16686 16788	plasmenylethanolamine substituted with octadecanoic and octadecadienoic acids in the sn -1 and sn -2 positions, respectively
+T309	Metabolite 16616 16637;16686 16788	plasmenylethanolamine substituted with octadecanoic and octadecadienoic acids in the sn -1 and sn -2 positions, respectively
+T310	Chemical 16616 16637	plasmenylethanolamine
+T311	Metabolite 16616 16637	plasmenylethanolamine
+T312	Chemical 16703 16715;16736 16740	octadecanoic acid
+T313	Metabolite 16703 16715;16736 16740	octadecanoic acid
+T314	Chemical 16720 16740	octadecadienoic acid
+T315	Metabolite 16720 16740	octadecadienoic acid
+T316	Chemical 16816 16828	phospholipid
+T317	Metabolite 16816 16828	phospholipid
+T318	Chemical 16878 16890	plasmalogens
+T319	Metabolite 16878 16890	plasmalogens
+T320	Chemical 16970 16991	plasmenylethanolamine
+T321	Metabolite 16970 16991	plasmenylethanolamine
+T322	Species 16844 16852;16999 17014	T. cruzi Tulahuen strain
+R16	Isolated_From Arg1:T321 Arg2:T322	
+T323	Chemical 17113 17125	plasmalogens
+T324	Metabolite 17113 17125	plasmalogens
+T325	Chemical 17198 17210	plasmalogens
+T326	Metabolite 17198 17210	plasmalogens
+T327	Species 17214 17222	protozoa
+R17	Isolated_From Arg1:T324 Arg2:T17	
+T328	Species 17239 17248	mammalian
+T329	Chemical 17249 17261	plasmalogens
+T330	Metabolite 17249 17261	plasmalogens
+T331	Species 17272 17280	protozoa
+T332	Chemical 17309 17321	arachidonate
+T333	Metabolite 17309 17321	arachidonate
+T334	Chemical 17402 17413	eicosanoids
+T335	Metabolite 17402 17413	eicosanoids
+T336	Chemical 17450 17471	plasmenylethanolamine
+T337	Metabolite 17450 17471	plasmenylethanolamine
+T338	Chemical 17484 17487	PAF
+T339	Metabolite 17484 17487	PAF
+T340	Chemical 17529 17532	PAF
+T341	Metabolite 17529 17532	PAF
+T342	Species 17568 17590	T. cruzi  strain Dm28c
+T343	Species 17604 17625	Herpetomonas muscarum
+T344	Protein 17671 17680	receptors
+T345	Chemical 17685 17688	PAF
+T346	Metabolite 17685 17688	PAF
+T347	Chemical 17719 17731	plasmalogens
+T348	Metabolite 17719 17731	plasmalogens
+T349	Biological_Activity 17739 17749	protective
+T350	Biological_Activity 17803 17813	scavengers
+T351	Chemical 17817 17840	reactive oxygen species
+T352	Chemical 17949 17970	plasmenylethanolamine
+T353	Metabolite 17949 17970	plasmenylethanolamine
+T354	Species 17978 18001	Dm28c clone of T. cruzi
+T355	Protein 18020 18030	antibodies
+T356	Species 18034 18039	human
+T357	Species 18086 18094	patients
+T358	Chemical 18130 18142	phospholipid
+T359	Metabolite 18143 18153	antibodies
+T360	Protein 18297 18307	antibodies
+T361	Chemical 18329 18340	cardiolipin
+T362	Chemical 18357 18376	phosphatidylcholine
+T363	Metabolite 18329 18340	cardiolipin
+T364	Metabolite 18357 18376	phosphatidylcholine
+T365	Chemical 18451 18472	plasmenylethanolamine
+T366	Metabolite 18451 18472	plasmenylethanolamine
+T367	Protein 18473 18483	antibodies
+T368	Species 18661 18669	patients
+T369	Protein 18888 18898	antibodies
+T370	Chemical 18937 18945	epitopes
+T371	Protein 18966 18973	protein
+T372	Protein 18981 18988	laminin
+T373	Protein 18996 19003	tubulin
+T374	Chemical 19043 19050	antigen
+T375	Protein 19058 19076	ribosomal proteins
+T376	Chemical 19084 19092	antigens
+T377	Chemical 19118 19138	cholesterol sulphate
+T378	Chemical 19154 19172	glycosphingolipids
+T379	Metabolite 19154 19172	glycosphingolipids
+T380	Chemical 19188 19194	AAALDK
+T381	Protein 19212 19218	myosin
+T382	Chemical 19388 19395	antigen
+T383	Chemical 19448 19456	antigens
+T384	Chemical 19536 19557	plasmenylethanolamine
+T385	Metabolite 19536 19557	plasmenylethanolamine
+T386	Chemical 19648 19660	plasmalogens
+T387	Metabolite 19648 19660	plasmalogens
+T388	Species 19703 19712	mammalian
+T389	Species 19847 19856	mammalian
+T390	Chemical 19902 19914	plasmalogens
+T391	Metabolite 19902 19914	plasmalogens
+T392	Chemical 19935 19947	phospholipid
+T393	Metabolite 19935 19947	phospholipid
+T394	Species 19951 19953	ox
+T395	Species 19955 19961	rabbit
+T396	Species 19963 19966	dog
+T397	Species 19972 19978	humans
+T398	Species 19990 19995	human
+T399	Chemical 20020 20031	plasmalogen
+T400	Metabolite 20020 20031	plasmalogen
+T401	Chemical 20044 20066	plasmenylethanolamines
+T402	Metabolite 20044 20066	plasmenylethanolamines
+T403	Chemical 20086 20100	hexadec-1-enyl
+T404	Chemical 20153 20165	octadecenoyl
+T405	Chemical 20167 20177	eicosenoyl
+T406	Chemical 20183 20195	arachidonoyl
+T407	Chemical 20196 20207	acyl groups
+T408	Chemical 20240 20248	epitopes

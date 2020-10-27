@@ -1,0 +1,19 @@
+T1	Disease 0 13	Hyperglycemia
+T2	Disease 135 155	diabetic retinopathy
+T3	Disease 388 400	eye diseases
+T4	Disease 477 496	retinal abnormality
+T5	Disease 519 534	type 2 diabetes
+T7	Plant 313 322	Wolfberry
+T8	Plant 449 458	wolfberry
+T9	Plant 632 641	wolfberry
+T10	Plant 667 676	wolfberry
+T11	Plant 959 968	wolfberry
+T12	Plant 1397 1406	wolfberry
+T13	Plant 1584 1593	wolfberry
+T14	Plant 1777 1784	glucose
+T15	Plant 2078 2087	wolfberry
+T16	Plant 2142 2151	wolfberry
+T17	Treatment_of_disease 459 470	ameliorated
+E1	Treatment_of_disease:T17 Theme:T4 Cause:T8 Theme2:T5
+T18	Treatment_of_disease 374 381	prevent
+E2	Treatment_of_disease:T18 Theme:T3 Cause:T7

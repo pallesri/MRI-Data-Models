@@ -1,0 +1,11 @@
+T1	Disease 103 110	cancers
+T2	Disease 159 165	cancer
+T3	Disease 219 225	cancer
+T4	Disease 300 306	cancer
+T5	Disease 448 460	colon cancer
+T6	Disease 664 676	colon cancer
+T7	Disease 1579 1584	tumor
+T8	Plant 411 418	ginseng
+T9	Disease 1709 1723	carcinogenesis
+T10	Treatment_of_disease 428 434	causes
+E1	Treatment_of_disease:T10 Theme:T5 Cause:T8

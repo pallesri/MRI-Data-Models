@@ -1,0 +1,10 @@
+T1	Disease 176 184	diabetes
+T2	Disease 1299 1312	breast cancer
+T4	Plant 113 122	Fenugreek
+T5	Plant 257 266	Fenugreek
+T3	Plant 86 111	Trigonella foenum graecum
+T6	Disease 230 255	gastrointestinal ailments
+T7	Disease 212 224	inflammation
+T8	Disease 186 202	high cholesterol
+T9	Treatment_of_disease 152 157	treat
+E1	Treatment_of_disease:T9 Theme:T1 Theme2:T8 Theme3:T7 Theme4:T6 Cause:T4 Cause2:T3

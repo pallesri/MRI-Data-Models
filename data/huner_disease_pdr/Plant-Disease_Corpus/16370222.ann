@@ -1,0 +1,16 @@
+T1	Disease 345 351	cancer
+T2	Disease 363 380	colorectal cancer
+T3	Disease 737 754	colorectal cancer
+T4	Plant 0 5	Olive
+T5	Plant 206 211	olive
+T6	Plant 411 416	olive
+T7	Plant 606 611	olive
+T8	Plant 713 718	olive
+T9	Plant 887 892	olive
+T11	Disease 629 643	carcinogenesis
+T10	Treatment_of_disease 598 602	role
+E1	Treatment_of_disease:T10 Cause:T7 Theme:T11
+T12	Treatment_of_disease 297 307	associated
+E2	Treatment_of_disease:T12 Cause:T5 Theme:T1 Theme2:T2
+T13	Treatment_of_disease 692 704	relationship
+E3	Treatment_of_disease:T13 Cause:T8 Theme:T3

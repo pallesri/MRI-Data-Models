@@ -1,0 +1,19 @@
+T8	Disease 867 890	goblet cell hyperplasia
+T13	Disease 1538 1549	lung injury
+T14	Plant 141 150	green tea
+T15	Plant 330 339	green tea
+T16	Plant 977 986	green tea
+T17	Plant 1248 1257	green tea
+T18	Plant 1439 1448	green tea
+T1	Plant 190 199	cigarette
+T2	Disease 490 501	lung damage
+T3	Disease 842 862	Airspace enlargement
+T4	Treatment_of_disease 948 957	abolished
+E1	Treatment_of_disease:T4 Theme:T8 Theme2:T3 Cause:T16
+T5	Disease 1418 1429	lung damage
+T6	Disease 1340 1356	oxidative stress
+T7	Disease 1493 1509	oxidative stress
+T9	Treatment_of_disease 1473 1481	suppress
+E2	Treatment_of_disease:T9 Cause:T18 Theme:T7
+T10	Plant 351 354	tea
+T11	Plant 612 615	tea

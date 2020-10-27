@@ -1,0 +1,20 @@
+T1	Disease 12 32	Periodontal diseases
+T2	Disease 537 573	dental plaque, gingival inflammation
+T3	Disease 989 995	plaque
+T4	Disease 1391 1397	plaque
+T5	Disease 1402 1412	gingivitis
+T6	Disease 1505 1511	plaque
+T7	Disease 1788 1794	plaque
+T8	Disease 1809 1830	gingival inflammation
+T10	Plant 331 345	Ocimum sanctum
+T12	Plant 519 533	Ocimum sanctum
+T14	Plant 822 836	Ocimum sanctum
+T16	Plant 1332 1346	Ocimum sanctum
+T18	Plant 1656 1670	Ocimum sanctum
+T9	Treatment_of_disease 502 515	effectiveness
+E1	Treatment_of_disease:T9 Cause:T12 Theme:T2
+T11	Treatment_of_disease 1382 1390	reducing
+E2	Treatment_of_disease:T11 Theme:T4 Theme2:T5 Cause:T16
+T13	Treatment_of_disease 1779 1787	reducing
+E3	Treatment_of_disease:T13 Cause:T18 Theme:T7 Theme2:T8 Theme3:T15
+T15	Disease 1835 1843	bleeding

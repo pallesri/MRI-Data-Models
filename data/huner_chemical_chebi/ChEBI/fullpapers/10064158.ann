@@ -1,0 +1,656 @@
+T1	Chemical 27 34	glucose
+T2	Protein 116 135	glucose transporter
+T3	Chemical 89 92	Na+
+T4	Protein 147 151	Glut
+T5	Protein 274 294	glucose transporters
+T6	Protein 296 317	glucose transporter-1
+T7	Chemical 610 617	glucose
+T8	Species 663 666	rat
+T9	Protein 703 724	glucose transporter-1
+T10	Biological_Activity 771 781	inhibition
+T11	Biological_Activity 795 810	phosphorylation
+T12	Chemical 814 826	sodium azide
+T13	Chemical 830 837	cyanide
+R1	Associated_With Arg1:T12 Arg2:T10	
+R2	Associated_With Arg1:T13 Arg2:T10	
+T14	Chemical 968 973	azide
+T15	Biological_Activity 984 994	inhibitors
+T16	Biological_Activity 1008 1023	phosphorylation
+R3	Associated_With Arg1:T14 Arg2:T15	
+T17	Chemical 1033 1045	nitric oxide
+T18	Chemical 1047 1049	NO
+T19	Chemical 1088 1090	NO
+T20	Chemical 1107 1127	sodium nitroprusside
+T21	Chemical 1173 1180	glucose
+T22	Chemical 1289 1296	glucose
+T23	Biological_Activity 1322 1332	inhibition
+T24	Biological_Activity 1346 1361	phosphorylation
+T25	Chemical 1382 1384	NO
+T26	Biological_Activity 1385 1395	signalling
+T27	Species 631 638	Clone 9
+T28	Species 1438 1445	Clone 9
+T29	Chemical 1467 1474	glucose
+T30	Chemical 1514 1534	sodium nitroprusside
+T31	Chemical 1621 1623	NO
+T32	Chemical 1669 1671	NO
+T33	Protein 1703 1719	guanylyl cyclase
+T34	Biological_Activity 1703 1719	guanylyl cyclase
+T35	Chemical 1752 1756	cGMP
+T36	Chemical 1789 1797	LY-83583
+T37	Biological_Activity 1829 1838	inhibitor
+T38	Protein 1842 1858	guanylyl cyclase
+T39	Biological_Activity 1851 1858	cyclase
+R4	Associated_With Arg1:T36 Arg2:T37	
+R5	Binds_With Arg1:T36 Arg2:T38	
+T40	Chemical 1941 1948	glucose
+T41	Chemical 1974 1994	sodium nitroprusside
+T42	Chemical 2076 2084	LY-83583
+T43	Biological_Activity 1181 1190	transport
+R6	Associated_With Arg1:T20 Arg2:T43	
+T44	Biological_Activity 1297 1306	transport
+T45	Species 428 433	human
+T46	Biological_Activity 618 627	transport
+T47	Biological_Activity 1949 1958	transport
+T48	Chemical 2137 2144	glucose
+T49	Biological_Activity 2145 2154	transport
+T50	Biological_Activity 2122 2133	stimulation
+R7	Associated_With Arg1:T42 Arg2:T50	
+T51	Biological_Activity 1926 1937	stimulation
+R8	Associated_With Arg1:T42 Arg2:T49	
+T52	Chemical 2213 2220	glucose
+T53	Biological_Activity 2221 2230	transport
+T54	Chemical 2243 2251	LY-83583
+T55	Species 2398 2405	NIH 3T3
+T56	Species 2380 2387	Clone 9
+T57	Species 2389 2395	C2 C12
+T58	Species 2411 2417	3T3-L1
+T59	Chemical 2497 2531	Dulbecco's modified Eagle's medium
+T60	Chemical 2533 2537	DMEM
+T61	Chemical 2540 2569	Hank's balanced salt solution
+T62	Chemical 2571 2575	HBSS
+T63	Species 2578 2582	calf
+T64	Species 2600 2606	bovine
+T65	Chemical 2741 2771	3-O -Methyl-d -[3 H  ] glucose
+T66	Chemical 2773 2799	[3 H  ]3-O -methyl glucose
+T67	Chemical 2824 2846	sn -1,2-diacylglycerol
+T68	Chemical 2911 2924	[32 P  ]γ-ATP
+T69	Chemical 2993 3001	LY-83583
+T70	Chemical 3006 3012	U73122
+T71	Chemical 3025 3037	dipyridamole
+T72	Chemical 3039 3048	zaprinast
+T73	Chemical 3050 3062	8-bromo-cGMP
+T74	Chemical 3068 3099	phorbol-12-myristate 13-acetate
+T75	Chemical 3101 3104	PMA
+T76	Chemical 3153 3160	Lactate
+T77	Chemical 3172 3184	sodium azide
+T78	Chemical 3186 3200	cytochalasin-B
+T79	Chemical 3202 3222	sodium nitroprusside
+T80	Chemical 3224 3244	trichloroacetic acid
+T81	Protein 3246 3260	gamma globulin
+T82	Chemical 3262 3274	thapsigargin
+T83	Chemical 3276 3285	phloretin
+T84	Chemical 3321 3331	silica gel
+T85	Species 3409 3414	Horse
+T86	Protein 3415 3433	anti-cGMP antibody
+T87	Chemical 3438 3451	[125 I  ]cGMP
+T88	Chemical 3525 3543	Dimethyl sulfoxide
+T89	Chemical 3545 3549	DMSO
+T90	Chemical 3556 3573	hydrochloric acid
+T91	Species 3646 3653	Clone 9
+T92	Chemical 3679 3711	Dulbecco's modified eagle medium
+T93	Chemical 3713 3717	DMEM
+T94	Species 3750 3754	calf
+T95	Chemical 3777 3780	CO2
+T96	Species 3864 3871	NIH-3T3
+T97	Species 3879 3885	3T3-L1
+T98	Species 3897 3903	C2 C12
+T99	Chemical 3925 3929	DMEM
+T100	Species 3951 3957	bovine
+T101	Chemical 4023 4027	DMEM
+T102	Chemical 4073 4085	Sodium azide
+T103	Chemical 4090 4102	8-bromo-cGMP
+T104	Chemical 4125 4129	DMEM
+T105	Chemical 4135 4143	LY-83583
+T106	Chemical 4145 4157	thapsigargin
+T107	Chemical 4163 4169	U73122
+T108	Chemical 4189 4193	DMSO
+T109	Chemical 4274 4298	[3 H ]3-O-methyl glucose
+T110	Chemical 4488 4502	cytochalasin B
+T111	Chemical 4528 4542	Cytochalasin B
+T112	Chemical 4555 4584	[3 H  ]3-O -methyl-d -glucose
+T113	Chemical 4586 4598	[3 H  ]3-OMG
+T114	Chemical 4681 4695	cytochalasin B
+T115	Chemical 4737 4741	cGMP
+T116	Chemical 4857 4869	dipyridamole
+T117	Protein 4873 4895	cGMP phosphodiesterase
+T118	Biological_Activity 4896 4905	inhibitor
+R9	Associated_With Arg1:T116 Arg2:T118	
+R10	Binds_With Arg1:T116 Arg2:T117	
+T119	Chemical 5059 5084	phosphate-buffered saline
+T120	Chemical 5138 5158	trichloroacetic acid
+T121	Chemical 5388 5391	HCl
+T122	Chemical 5424 5431	aqueous
+T123	Chemical 5473 5484	ethyl ether
+T124	Chemical 5490 5497	aqueous
+T125	Chemical 5585 5590	ether
+T126	Chemical 5624 5638	sodium acetate
+T127	Chemical 5653 5657	NaOH
+T128	Chemical 5672 5687	triethanolamine
+T129	Chemical 5688 5704	acetic anhydride
+T130	Protein 5802 5810	antibody
+T131	Chemical 5819 5823	cGMP
+T132	Chemical 5838 5852	[125 I  ] cGMP
+T133	Species 5928 5934	rabbit
+T134	Protein 5941 5949	globulin
+T135	Chemical 6007 6018	isopropanol
+T136	Chemical 6217 6221	cGMP
+T137	Chemical 6262 6266	cGMP
+T138	Chemical 6342 6349	lactate
+T139	Chemical 6350 6357	Lactate
+T140	Chemical 6469 6498	Hank's balanced salt solution
+T141	Chemical 6540 6544	DMEM
+T142	Chemical 6583 6595	sodium azide
+T143	Chemical 6599 6607	LY-83583
+T144	Chemical 6649 6656	lactate
+T145	Chemical 6754 6775	sn-1,2-diacylglycerol
+T146	Chemical 6866 6891	phosphate-buffered saline
+T147	Chemical 6893 6896	PBS
+T148	Chemical 6929 6932	PBS
+T149	Chemical 7056 7060	NaCl
+T150	Chemical 7075 7085	chloroform
+T151	Chemical 7086 7094	methanol
+T152	Chemical 7173 7177	NaCl
+T153	Chemical 7190 7200	chloroform
+T154	Chemical 7305 7315	chloroform
+T155	Chemical 7469 7483	diacylglycerol
+T156	Chemical 7518 7543	[32 P  ]phosphatidic acid
+T157	Chemical 7563 7577	[32 P  ]-γ-ATP
+T158	Chemical 7688 7705	phosphatidic acid
+T159	Chemical 7808 7833	[32 P  ]phosphatidic acid
+T160	Chemical 7890 7904	Diacylglycerol
+T161	Chemical 7946 7960	diacylglycerol
+T162	Chemical 8218 8225	glucose
+T163	Biological_Activity 8226 8235	transport
+T164	Chemical 8278 8286	LY-83583
+T165	Species 8239 8246	Clone 9
+T166	Species 8299 8306	Clone 9
+T167	Chemical 8322 8330	LY-83583
+T168	Chemical 8362 8376	cytochalasin B
+T169	Chemical 8389 8408	3-O -methyl glucose
+T170	Biological_Activity 8409 8418	transport
+T171	Chemical 8491 8503	sodium azide
+T172	Biological_Activity 8516 8525	inhibitor
+R11	Associated_With Arg1:T171 Arg2:T172	
+T173	Biological_Activity 8539 8554	phosphorylation
+T174	Biological_Activity 8564 8573	stimulate
+T175	Biological_Activity 8582 8591	transport
+R12	Associated_With Arg1:T171 Arg2:T174	
+R13	Associated_With Arg1:T171 Arg2:T175	
+T176	Chemical 8680 8687	glucose
+T177	Chemical 8752 8760	LY-83583
+T178	Species 8762 8769	Clone 9
+T179	Chemical 8815 8823	LY-83583
+T180	Chemical 8856 8870	cytochalasin B
+T181	Chemical 8883 8912	[3 H  ]3-O -methyl-d -glucose
+T182	Chemical 8914 8926	[3 H  ]3-OMG
+T183	Chemical 9016 9024	LY-83583
+T184	Chemical 9097 9105	LY-83583
+T185	Biological_Activity 9075 9086	stimulatory
+R14	Associated_With Arg1:T184 Arg2:T185	
+T186	Biological_Activity 9117 9126	transport
+R15	Associated_With Arg1:T184 Arg2:T186	
+T187	Chemical 9167 9179	[3 H  ]3-OMG
+T188	Chemical 9247 9255	LY-83583
+T189	Biological_Activity 9357 9366	transport
+T190	Biological_Activity 9334 9345	stimulation
+T191	Species 9406 9419	Clone 9 cells
+T192	Chemical 9382 9390	LY-83583
+R16	Associated_With Arg1:T192 Arg2:T190	
+R17	Associated_With Arg1:T192 Arg2:T189	
+T193	Chemical 9447 9455	LY-83583
+T194	Chemical 9471 9483	[3 H  ]3-OMG
+T195	Protein 9553 9574	glucose transporter-1
+T196	Chemical 9744 9752	LY-83583
+T197	Chemical 9754 9768	cytochalasin B
+T198	Chemical 9781 9793	[3 H  ]3-OMG
+T199	Species 9844 9851	NIH 3T3
+T200	Species 9865 9871	3T3-L1
+T201	Species 9891 9897	C2 C12
+T202	Biological_Activity 9999 10010	stimulation
+T203	Biological_Activity 10022 10031	transport
+T204	Chemical 9964 9972	LY-83583
+R18	Associated_With Arg1:T204 Arg2:T202	
+R19	Associated_With Arg1:T204 Arg2:T203	
+T205	Chemical 10014 10021	glucose
+T206	Chemical 9349 9356	glucose
+T207	Chemical 9109 9116	glucose
+T208	Chemical 8574 8581	glucose
+T209	Chemical 10103 10111	LY-83583
+T210	Chemical 10129 10133	cGMP
+T211	Chemical 10145 10152	glucose
+T212	Biological_Activity 10153 10162	transport
+T213	Biological_Activity 10176 10187	stimulatory
+T214	Chemical 10198 10206	LY-83583
+T215	Chemical 10222 10229	glucose
+T216	Biological_Activity 10230 10239	transport
+R22	Associated_With Arg1:T214 Arg2:T216	
+R20	Associated_With Arg1:T214 Arg2:T213	
+T217	Biological_Activity 10270 10280	inhibitory
+T218	Protein 10291 10307	guanylyl cyclase
+T219	Biological_Activity 10300 10307	cyclase
+R21	Associated_With Arg1:T214 Arg2:T217	
+R23	Binds_With Arg1:T214 Arg2:T218	
+T220	Chemical 10352 10356	cGMP
+T221	Chemical 10460 10464	cGMP
+T222	Biological_Activity 10508 10517	transport
+T223	Chemical 10500 10507	glucose
+T224	Biological_Activity 10485 10496	enhancement
+T225	Chemical 10571 10575	cGMP
+T226	Chemical 10603 10610	glucose
+T227	Biological_Activity 10611 10620	transport
+T228	Chemical 10633 10641	LY-83583
+T229	Species 10669 10676	Clone 9
+T230	Chemical 10721 10725	cGMP
+T231	Chemical 10734 10746	8-bromo-cGMP
+T232	Chemical 10779 10787	LY-83583
+T233	Chemical 10874 10882	LY-83583
+T234	Chemical 10946 10958	[3 H  ]3-OMG
+T235	Chemical 10973 10981	LY-83583
+T236	Chemical 11007 11019	8-bromo-cGMP
+T237	Chemical 11108 11120	8-bromo-cGMP
+T238	Chemical 11156 11163	glucose
+T239	Biological_Activity 11164 11173	transport
+T240	Chemical 11227 11239	8-bromo-cGMP
+T241	Chemical 11277 11285	LY-83583
+T242	Chemical 11305 11312	glucose
+T243	Biological_Activity 11313 11322	transport
+T244	Chemical 11389 11393	cGMP
+T245	Chemical 11402 11411	zaprinast
+T246	Chemical 11415 11427	dipyridamole
+T247	Protein 11429 11451	cGMP phosphodiesterase
+T248	Biological_Activity 11452 11462	inhibitors
+R24	Associated_With Arg1:T245 Arg2:T248	
+R25	Associated_With Arg1:T246 Arg2:T248	
+T249	Chemical 11541 11549	LY-83583
+T250	Biological_Activity 11513 11524	stimulatory
+R26	Associated_With Arg1:T249 Arg2:T250	
+T251	Chemical 11592 11601	zaprinast
+T252	Chemical 11605 11617	dipyridamole
+T253	Chemical 11623 11632	zaprinast
+T254	Chemical 11637 11649	dipyridamole
+T255	Chemical 11703 11710	glucose
+T256	Chemical 11756 11768	8-bromo-cGMP
+T257	Chemical 11826 11830	cGMP
+T258	Chemical 11844 11848	cGMP
+T259	Chemical 11933 11937	cGMP
+T260	Chemical 11971 11983	dipyridamole
+T261	Chemical 12042 12054	8-bromo-cGMP
+T262	Chemical 12092 12096	cGMP
+T263	Species 12108 12121	Clone 9 cells
+T264	Chemical 12210 12222	8-bromo-cGMP
+T265	Chemical 12293 12297	cGMP
+T266	Chemical 12367 12371	cGMP
+T267	Chemical 12423 12431	LY-83583
+T268	Chemical 12452 12464	dipyridamole
+T269	Chemical 12515 12535	sodium nitroprusside
+T270	Chemical 12574 12585	cGMP levels
+T271	Chemical 12628 12636	LY-83583
+T272	Biological_Activity 12691 12702	stimulation
+T273	Chemical 12706 12713	glucose
+T274	Biological_Activity 12714 12723	transport
+T275	Chemical 12739 12747	LY-83583
+T276	Chemical 12791 12795	cGMP
+R27	Associated_With Arg1:T275 Arg2:T274	
+R28	Associated_With Arg1:T275 Arg2:T272	
+T277	Chemical 12819 12827	LY-83583
+T278	Chemical 12831 12838	lactate
+T279	Species 12853 12860	Clone 9
+T280	Chemical 12915 12922	glucose
+T281	Biological_Activity 13101 13110	transport
+T282	Chemical 12945 12953	LY-83583
+T283	Biological_Activity 12999 13009	inhibition
+T284	Biological_Activity 13023 13038	phosphorylation
+T285	Chemical 13042 13049	cyanide
+T286	Chemical 13053 13058	azide
+R29	Associated_With Arg1:T285 Arg2:T283	
+R30	Associated_With Arg1:T286 Arg2:T283	
+T287	Biological_Activity 13078 13089	stimulation
+T288	Chemical 13093 13100	glucose
+T289	Biological_Activity 13093 13110	glucose transport
+R31	Associated_With Arg1:T285 Arg2:T287	
+R32	Associated_With Arg1:T286 Arg2:T287	
+T290	Biological_Activity 13208 13218	inhibition
+T291	Biological_Activity 13232 13247	phosphorylation
+T292	Chemical 13282 13286	NADH
+T293	Chemical 13287 13291	NAD+
+T294	Chemical 13297 13304	lactate
+T295	Chemical 13305 13313	pyruvate
+T296	Chemical 13369 13376	lactate
+T297	Chemical 13462 13470	LY-83583
+T298	Biological_Activity 13473 13484	stimulatory
+R33	Associated_With Arg1:T297 Arg2:T298	
+T299	Biological_Activity 13503 13512	transport
+T300	Chemical 13495 13502	glucose
+T301	Biological_Activity 13543 13553	inhibition
+T302	Biological_Activity 13567 13582	phosphorylation
+T303	Chemical 13621 13628	lactate
+T304	Species 13643 13650	Clone 9
+T305	Chemical 13668 13676	LY-83583
+T306	Chemical 13690 13697	lactate
+T307	Chemical 13729 13734	azide
+T308	Chemical 13793 13801	LY-83583
+T309	Chemical 13823 13830	lactate
+T311	Protein 13969 13984	phospholipase C
+T312	Chemical 14007 14014	glucose
+T313	Biological_Activity 14015 14024	transport
+T314	Chemical 14040 14048	LY-83583
+T310	Biological_Activity 13992 14003	stimulation
+T315	Protein 14084 14099	phospholipase C
+T316	Biological_Activity 14148 14158	signalling
+T317	Chemical 14184 14192	LY-83583
+T318	Chemical 14210 14217	glucose
+T319	Biological_Activity 14218 14227	transport
+T320	Biological_Activity 14195 14206	stimulation
+R34	Associated_With Arg1:T317 Arg2:T320	
+R35	Associated_With Arg1:T317 Arg2:T319	
+T321	Chemical 14278 14284	U73122
+T322	Chemical 14292 14299	glucose
+T323	Biological_Activity 14300 14309	transport
+T324	Chemical 14322 14330	LY-83583
+T325	Chemical 14332 14338	U73122
+T326	Biological_Activity 14351 14360	inhibitor
+R36	Associated_With Arg1:T325 Arg2:T326	
+T327	Protein 14364 14379	phospholipase C
+R37	Binds_With Arg1:T325 Arg2:T327	
+T328	Protein 14408 14423	phospholipase C
+T329	Chemical 14588 14594	U73122
+T330	Chemical 14622 14630	LY-83583
+T331	Biological_Activity 14600 14611	stimulatory
+T332	Chemical 14634 14641	glucose
+T333	Biological_Activity 14642 14651	transport
+T334	Species 14655 14662	Clone 9
+T335	Chemical 14725 14731	U73122
+T336	Protein 14848 14863	phospholipase C
+T337	Biological_Activity 14848 14861	phospholipase
+T338	Chemical 14876 14884	LY-83583
+T339	Chemical 14935 14957	sn -1,2-diacylglycerol
+T340	Protein 14998 15013	phospholipase C
+T341	Chemical 15029 15037	LY-83583
+T342	Chemical 15050 15064	diacylglycerol
+T343	Chemical 15122 15148	[32 P  ] phosphatidic acid
+T344	Chemical 15186 15204	32 P  -labeled ATP
+T345	Protein 15209 15230	diacylglycerol kinase
+T346	Species 15247 15254	Clone 9
+T347	Chemical 15278 15286	LY-83583
+T348	Chemical 15333 15347	diacylglycerol
+T349	Chemical 15489 15495	U73122
+T350	Chemical 15539 15547	LY-83583
+T351	Chemical 15589 15603	diacylglycerol
+T352	Chemical 15631 15637	U73122
+T353	Chemical 15664 15678	diacylglycerol
+T354	Chemical 15819 15847	inositol 1,4,5-trisphosphate
+T355	Chemical 15867 15871	Ca2+
+T356	Chemical 15931 15935	Ca2+
+T357	Chemical 15948 15956	LY-83583
+T358	Chemical 15980 15988	LY-83583
+T359	Chemical 16012 16019	glucose
+T360	Biological_Activity 16020 16029	transport
+T361	Biological_Activity 15997 16008	stimulation
+R38	Associated_With Arg1:T358 Arg2:T361	
+R39	Associated_With Arg1:T358 Arg2:T360	
+T362	Chemical 16072 16084	thapsigargin
+T363	Biological_Activity 16095 16104	inhibitor
+R40	Associated_With Arg1:T362 Arg2:T363	
+T364	Protein 16119 16131	Ca2+ -ATPase
+R41	Binds_With Arg1:T362 Arg2:T364	
+T365	Chemical 16199 16203	Ca2+
+T366	Biological_Activity 16290 16308	stimulatory effect
+T367	Chemical 16312 16320	LY-83583
+T368	Chemical 16324 16331	glucose
+T369	Biological_Activity 16332 16341	transport
+R42	Associated_With Arg1:T367 Arg2:T366	
+R43	Associated_With Arg1:T367 Arg2:T369	
+T370	Chemical 16406 16418	thapsigargin
+T371	Chemical 16437 16449	thapsigargin
+T372	Protein 16560 16576	protein kinase C
+T373	Biological_Activity 16560 16574	protein kinase
+T374	Protein 16608 16623	phospholipase C
+T375	Chemical 16649 16656	glucose
+T376	Biological_Activity 16657 16666	transport
+T377	Chemical 16679 16687	LY-83583
+T378	Chemical 16763 16767	DMSO
+T379	Chemical 16779 16810	phorbol-12-myristate 13-acetate
+T380	Chemical 16812 16815	PMA
+T381	Protein 16836 16852	protein kinase C
+T382	Biological_Activity 16836 16850	protein kinase
+R44	Associated_With Arg1:T379 Arg2:T382	
+R45	Associated_With Arg1:T380 Arg2:T382	
+T383	Chemical 16926 16929	PMA
+T384	Chemical 16934 16942	LY-83583
+T385	Chemical 16991 16999	LY-83583
+T386	Biological_Activity 17028 17039	stimulation
+T387	Chemical 17043 17050	glucose
+T388	Biological_Activity 17051 17060	transport
+R46	Associated_With Arg1:T385 Arg2:T386	
+R47	Associated_With Arg1:T385 Arg2:T388	
+T389	Chemical 17219 17227	LY-83583
+T390	Chemical 17274 17281	glucose
+T391	Biological_Activity 17282 17291	transport
+R48	Associated_With Arg1:T389 Arg2:T391	
+T392	Chemical 17366 17374	LY-83583
+T393	Chemical 17387 17394	glucose
+T394	Biological_Activity 17395 17404	transport
+T395	Biological_Activity 17439 17449	inhibitory
+R49	Associated_With Arg1:T392 Arg2:T395	
+T396	Protein 17461 17477	guanylyl cyclase
+R50	Binds_With Arg1:T392 Arg2:T396	
+T397	Chemical 17505 17509	cGMP
+T398	Biological_Activity 17576 17587	stimulatory
+T399	Chemical 17598 17606	LY-83583
+R51	Associated_With Arg1:T399 Arg2:T398	
+T400	Chemical 17610 17617	glucose
+T401	Biological_Activity 17618 17627	transport
+R52	Associated_With Arg1:T399 Arg2:T401	
+T402	Chemical 17660 17672	8-bromo-cGMP
+T403	Chemical 17696 17708	8-bromo-cGMP
+T404	Chemical 17775 17783	LY-83583
+T405	Chemical 17796 17803	glucose
+T406	Biological_Activity 17804 17813	transport
+T407	Biological_Activity 17847 17857	inhibition
+T408	Biological_Activity 17871 17886	phosphorylation
+T409	Chemical 17970 17978	LY-83583
+T410	Protein 18027 18042	phospholipase C
+T411	Biological_Activity 18013 18023	activation
+R53	Associated_With Arg1:T409 Arg2:T411	
+T412	Biological_Activity 18145 18154	transport
+T413	Biological_Activity 18122 18133	stimulation
+T414	Biological_Activity 18170 18180	inhibition
+T415	Biological_Activity 18194 18209	phosphorylation
+T416	Chemical 18213 18218	azide
+R54	Associated_With Arg1:T416 Arg2:T414	
+T417	Biological_Activity 18253 18263	signalling
+T418	Chemical 18305 18317	nitric oxide
+T419	Chemical 18359 18364	azide
+T420	Chemical 18393 18395	NO
+T421	Chemical 18435 18437	NO
+T422	Chemical 18481 18488	glucose
+T423	Biological_Activity 18489 18498	transport
+T424	Biological_Activity 18383 18392	stimulate
+R55	Associated_With Arg1:T419 Arg2:T424	
+T425	Biological_Activity 18459 18468	stimulate
+R56	Associated_With Arg1:T421 Arg2:T425	
+T426	Protein 18591 18607	guanylyl cyclase
+T427	Biological_Activity 18600 18607	cyclase
+T428	Chemical 18645 18652	glucose
+T429	Biological_Activity 18653 18662	transport
+T430	Chemical 18678 18686	LY-83583
+T431	Biological_Activity 18722 18731	inhibitor
+T432	Biological_Activity 18744 18751	cyclase
+T433	Protein 18735 18751	guanylyl cyclase
+T434	Chemical 18762 18770	LY-83583
+R57	Associated_With Arg1:T434 Arg2:T431	
+T435	Chemical 18775 18795	sodium nitroprusside
+T436	Chemical 18819 18826	glucose
+T437	Biological_Activity 18827 18836	transport
+T438	Chemical 18931 18939	LY-83583
+T439	Chemical 18984 18991	glucose
+T440	Biological_Activity 18992 19001	transport
+T441	Biological_Activity 18969 18980	stimulation
+R58	Associated_With Arg1:T438 Arg2:T441	
+R59	Associated_With Arg1:T438 Arg2:T440	
+T442	Chemical 19030 19038	LY-83583
+T443	Biological_Activity 19064 19073	inhibitor
+T444	Protein 19077 19093	guanylyl cyclase
+R60	Binds_With Arg1:T442 Arg2:T444	
+R61	Associated_With Arg1:T442 Arg2:T443	
+T445	Chemical 19216 19220	cGMP
+T446	Chemical 19262 19270	LY-83583
+T447	Chemical 19290 19294	cGMP
+T448	Chemical 19317 19329	8-bromo-cGMP
+T449	Chemical 19382 19386	cGMP
+T450	Chemical 19401 19405	cGMP
+T451	Protein 19415 19432	phosphodiesterase
+T452	Biological_Activity 19433 19442	inhibitor
+T453	Chemical 19453 19462	zaprinast
+T454	Chemical 19466 19478	dipyridamole
+R62	Associated_With Arg1:T453 Arg2:T452	
+R63	Associated_With Arg1:T454 Arg2:T452	
+R64	Binds_With Arg1:T453 Arg2:T451	
+R65	Binds_With Arg1:T454 Arg2:T451	
+T455	Chemical 19590 19602	8-bromo-cGMP
+T456	Chemical 19621 19630	zaprinast
+T457	Chemical 19634 19646	dipyridamole
+T458	Biological_Activity 19655 19662	inhibit
+T459	Chemical 19667 19674	glucose
+T460	Biological_Activity 19675 19684	transport
+T461	Chemical 19697 19705	LY-83583
+R66	Associated_With Arg1:T461 Arg2:T460	
+T462	Chemical 19738 19750	8-bromo-cGMP
+T463	Chemical 19787 19791	cGMP
+T464	Chemical 19833 19837	cGMP
+T465	Chemical 19900 19912	8-bromo-cGMP
+T466	Chemical 19939 19951	8-bromo-cGMP
+T467	Chemical 20061 20065	cGMP
+T468	Chemical 20092 20100	LY-83583
+T469	Chemical 20191 20203	dipyridamole
+T470	Protein 20207 20229	cGMP phosphodiesterase
+T471	Biological_Activity 20230 20239	inhibitor
+R67	Associated_With Arg1:T469 Arg2:T471	
+R68	Binds_With Arg1:T469 Arg2:T470	
+T472	Chemical 20262 20270	LY-83583
+T473	Chemical 20328 20332	cGMP
+T474	Chemical 20372 20376	cGMP
+T475	Chemical 20427 20439	dipyridamole
+T476	Chemical 20546 20553	glucose
+T477	Biological_Activity 20554 20563	transport
+T478	Chemical 20567 20575	LY-83583
+T479	Biological_Activity 20531 20542	stimulation
+R69	Associated_With Arg1:T478 Arg2:T477	
+R70	Associated_With Arg1:T478 Arg2:T479	
+T480	Chemical 20619 20623	cGMP
+T481	Chemical 20680 20688	LY-83583
+T482	Biological_Activity 20702 20712	inhibitory
+R71	Associated_With Arg1:T481 Arg2:T482	
+T483	Protein 20724 20740	guanylyl cyclase
+T484	Biological_Activity 20733 20740	cyclase
+R72	Binds_With Arg1:T481 Arg2:T483	
+T485	Chemical 20751 20759	LY-83583
+T486	Chemical 20790 20800	superoxide
+T487	Chemical 20835 20858	Reactive oxygen species
+T488	Chemical 20867 20877	superoxide
+T489	Chemical 20882 20899	hydrogen peroxide
+T490	Chemical 20938 20945	glucose
+T491	Biological_Activity 20946 20955	transport
+T492	Biological_Activity 20928 20937	stimulate
+R73	Associated_With Arg1:T487 Arg2:T492	
+R74	Associated_With Arg1:T488 Arg2:T492	
+R75	Associated_With Arg1:T489 Arg2:T492	
+R76	Associated_With Arg1:T487 Arg2:T491	
+R77	Associated_With Arg1:T488 Arg2:T491	
+R78	Associated_With Arg1:T489 Arg2:T491	
+T493	Protein 21026 21041	phospholipase C
+T494	Biological_Activity 21026 21039	phospholipase
+R79	Associated_With Arg1:T487 Arg2:T494	
+R80	Associated_With Arg1:T488 Arg2:T494	
+R81	Associated_With Arg1:T489 Arg2:T494	
+T495	Biological_Activity 21120 21131	stimulatory
+T496	Chemical 21142 21150	LY-83583
+R82	Associated_With Arg1:T496 Arg2:T495	
+T497	Chemical 21154 21161	glucose
+T498	Biological_Activity 21162 21171	transport
+R83	Associated_With Arg1:T496 Arg2:T498	
+T499	Protein 21206 21221	phospholipase C
+T500	Biological_Activity 21192 21202	activation
+T501	Chemical 21325 21333	LY-83583
+T502	Chemical 21373 21387	diacylglycerol
+T503	Chemical 21417 21431	diacylglycerol
+T504	Chemical 21450 21456	U73122
+T505	Biological_Activity 21461 21470	inhibitor
+R84	Associated_With Arg1:T504 Arg2:T505	
+T506	Protein 21474 21489	phospholipase C
+T507	Biological_Activity 21474 21487	phospholipase
+R85	Binds_With Arg1:T504 Arg2:T506	
+T508	Chemical 21505 21511	U73122
+T509	Chemical 21527 21534	glucose
+T510	Biological_Activity 21535 21544	transport
+T511	Chemical 21557 21565	LY-83583
+T512	Biological_Activity 21581 21592	stimulatory
+T513	Chemical 21603 21611	LY-83583
+T514	Chemical 21615 21622	glucose
+T515	Biological_Activity 21623 21632	transport
+R86	Associated_With Arg1:T513 Arg2:T512	
+R87	Associated_With Arg1:T513 Arg2:T515	
+T516	Chemical 21662 21674	thapsigargin
+T517	Biological_Activity 21687 21696	inhibitor
+R88	Associated_With Arg1:T516 Arg2:T517	
+T518	Protein 21711 21723	Ca2+ -ATPase
+R89	Binds_With Arg1:T516 Arg2:T518	
+T519	Chemical 21755 21759	Ca2+
+T520	Protein 21895 21910	phospholipase C
+T521	Biological_Activity 21911 21921	activation
+T522	Chemical 21957 21984	inositol-1,4,5-triphosphate
+T523	Chemical 22034 22041	calcium
+T524	Chemical 22099 22111	thapsigargin
+T525	Chemical 22142 22149	glucose
+T526	Biological_Activity 22150 22159	transport
+T527	Chemical 22172 22180	LY-83583
+T528	Chemical 22212 22219	calcium
+T529	Chemical 22377 22384	calcium
+T530	Chemical 22415 22422	glucose
+T531	Biological_Activity 22423 22432	transport
+T532	Chemical 22436 22444	LY-83583
+T533	Biological_Activity 22400 22411	stimulation
+R90	Associated_With Arg1:T532 Arg2:T533	
+R91	Associated_With Arg1:T532 Arg2:T531	
+T534	Chemical 22461 22476	phospholipase C
+T535	Biological_Activity 22461 22474	phospholipase
+T536	Chemical 22516 22530	diacylglycerol
+T537	Chemical 22549 22553	Ca2+
+T538	Protein 22599 22615	protein kinase C
+T539	Biological_Activity 22599 22613	protein kinase
+T540	Biological_Activity 22446 22457	Stimulation
+T541	Biological_Activity 22584 22595	stimulation
+T542	Chemical 22690 22704	phorbol esters
+T543	Chemical 22714 22717	PMA
+T544	Protein 22751 22767	protein kinase C
+T545	Biological_Activity 22751 22765	protein kinase
+T546	Chemical 22886 22894	LY-83583
+T547	Biological_Activity 22907 22916	stimulate
+T548	Chemical 22917 22924	glucose
+T549	Biological_Activity 23350 23359	transport
+R92	Associated_With Arg1:T546 Arg2:T547	
+R93	Associated_With Arg1:T546 Arg2:T549	
+T550	Chemical 22973 22976	PMA
+T551	Protein 23001 23017	protein kinase C
+T552	Protein 23155 23170	phospholipase C
+T553	Chemical 23192 23206	diacylglycerol
+T554	Protein 23219 23235	protein kinase C
+T555	Protein 23311 23326	phospholipase C
+T556	Chemical 23342 23349	glucose
+T557	Biological_Activity 23342 23359	glucose transport
+T558	Chemical 23372 23380	LY-83583
+T559	Protein 23430 23445	phospholipase C
+T560	Biological_Activity 23473 23484	stimulation
+T561	Biological_Activity 23496 23505	transport
+T562	Chemical 23488 23495	glucose
+T563	Biological_Activity 1475 1484	transport

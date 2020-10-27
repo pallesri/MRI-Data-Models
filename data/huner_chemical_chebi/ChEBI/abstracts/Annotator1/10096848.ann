@@ -1,0 +1,39 @@
+T1	Chemical 12 25	sesquiterpene
+#1	AnnotatorNotes T1	Class of chemicals
+T2	Chemical 26 53	esters of aristolochic acid
+#2	AnnotatorNotes T2	Class of chemicals
+T6	Chemical 124 143	aristoloterpenate-I
+T11	Species 208 233	Aristolochia heterophylla
+T12	Metabolite 55 75	aristoloterpenate-II
+T16	Metabolite 100 101	4
+T17	Metabolite 124 143	aristoloterpenate-I
+T19	Spectral_Data 271 292	spectroscopic methods
+T20	Biological_Activity 421 433	cytotoxicity
+T3	Chemical 55 75	aristoloterpenate-II
+T4	Chemical 55 72;82 86	aristoloterpenate -III
+T5	Metabolite 55 72;82 86	aristoloterpenate -III
+T7	Chemical 55 72;95 98	aristoloterpenate -IV
+T8	Metabolite 55 72;95 98	aristoloterpenate -IV
+R1	Isolated_From Arg1:T17 Arg2:T11	
+R2	Isolated_From Arg1:T12 Arg2:T11	
+R3	Isolated_From Arg1:T5 Arg2:T11	
+R4	Isolated_From Arg1:T8 Arg2:T11	
+R5	Associated_With Arg1:T12 Arg2:T19	
+R6	Associated_With Arg1:T3 Arg2:T19	
+R7	Associated_With Arg1:T8 Arg2:T19	
+R8	Associated_With Arg1:T5 Arg2:T19	
+R9	Associated_With Arg1:T4 Arg2:T19	
+R10	Associated_With Arg1:T7 Arg2:T19	
+T9	Spectral_Data 371 396	circular dichroic studies
+R11	Associated_With Arg1:T3 Arg2:T9	
+R12	Associated_With Arg1:T12 Arg2:T9	
+R13	Associated_With Arg1:T7 Arg2:T9	
+R14	Associated_With Arg1:T4 Arg2:T9	
+R15	Associated_With Arg1:T5 Arg2:T9	
+R16	Associated_With Arg1:T8 Arg2:T9	
+R17	Associated_With Arg1:T3 Arg2:T20	
+R18	Associated_With Arg1:T12 Arg2:T20	
+R19	Associated_With Arg1:T7 Arg2:T20	
+R20	Associated_With Arg1:T4 Arg2:T20	
+R21	Associated_With Arg1:T5 Arg2:T20	
+R22	Associated_With Arg1:T8 Arg2:T20	

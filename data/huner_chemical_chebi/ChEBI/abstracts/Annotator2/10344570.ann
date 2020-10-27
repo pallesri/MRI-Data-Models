@@ -1,0 +1,56 @@
+T1	Species 33 39	fungal
+T2	Chemical 40 51	azaphilones
+T3	Chemical 73 87	6-iso-chromane
+T4	Protein 113 147	cholesteryl ester transfer protein
+T5	Protein 149 153	CETP
+T8	Metabolite 40 51	azaphilones
+T9	Chemical 174 189	Chaetoviridin B
+T10	Metabolite 174 189	Chaetoviridin B
+T11	Biological_Activity 213 223	inhibitory
+T12	Chemical 281 293	sclerotiorin
+T13	Metabolite 281 293	sclerotiorin
+T16	Chemical 329 337	Rotiorin
+T17	Metabolite 329 337	Rotiorin
+T18	Chemical 339 354	chaetoviridin A
+T19	Chemical 359 372	rubrorotiorin
+T20	Biological_Activity 386 396	inhibitory
+T21	Metabolite 339 354	chaetoviridin A
+T22	Metabolite 359 372	rubrorotiorin
+T23	Biological_Activity 548 558	inhibitory
+T24	Chemical 616 622	ketone
+T25	Chemical 633 638	enone
+T26	Chemical 679 690	isochromane
+T27	Protein 728 732	CETP
+T29	Biological_Activity 733 743	inhibitory
+T31	Chemical 811 823	sclerotiorin
+T32	Chemical 940 952	sclerotiorin
+R1	Binds_With Arg1:T13 Arg2:T5	
+R2	Binds_With Arg1:T12 Arg2:T4	
+R3	Binds_With Arg1:T13 Arg2:T5	
+R4	Binds_With Arg1:T13 Arg2:T4	
+R5	Binds_With Arg1:T10 Arg2:T5	
+R6	Binds_With Arg1:T10 Arg2:T4	
+R7	Binds_With Arg1:T9 Arg2:T5	
+R8	Binds_With Arg1:T9 Arg2:T4	
+R9	Binds_With Arg1:T22 Arg2:T5	
+R10	Binds_With Arg1:T22 Arg2:T4	
+R11	Binds_With Arg1:T19 Arg2:T5	
+R12	Binds_With Arg1:T19 Arg2:T4	
+R13	Binds_With Arg1:T21 Arg2:T5	
+R14	Binds_With Arg1:T21 Arg2:T4	
+R15	Binds_With Arg1:T18 Arg2:T5	
+R16	Binds_With Arg1:T18 Arg2:T4	
+R17	Binds_With Arg1:T17 Arg2:T5	
+R18	Binds_With Arg1:T17 Arg2:T4	
+R19	Binds_With Arg1:T16 Arg2:T5	
+R20	Binds_With Arg1:T16 Arg2:T4	
+R21	Associated_With Arg1:T10 Arg2:T11	
+R22	Associated_With Arg1:T9 Arg2:T11	
+R23	Associated_With Arg1:T13 Arg2:T11	
+R24	Associated_With Arg1:T12 Arg2:T11	
+R25	Associated_With Arg1:T22 Arg2:T20	
+R26	Associated_With Arg1:T19 Arg2:T20	
+R27	Associated_With Arg1:T21 Arg2:T20	
+R28	Associated_With Arg1:T18 Arg2:T20	
+R29	Associated_With Arg1:T17 Arg2:T20	
+R30	Associated_With Arg1:T16 Arg2:T20	

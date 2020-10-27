@@ -1,0 +1,415 @@
+T1	Chemical 1 8	Proline
+T2	Chemical 10 13	Pro
+T3	Chemical 19 33	hydroxyproline
+T4	Chemical 35 38	Hyp
+T5	Metabolite 19 33	hydroxyproline
+T6	Metabolite 35 38	Hyp
+R1	Metabolite_Of Arg1:T5 Arg2:T1	
+R2	Metabolite_Of Arg1:T5 Arg2:T2	
+R3	Metabolite_Of Arg1:T6 Arg2:T1	
+R4	Metabolite_Of Arg1:T6 Arg2:T2	
+T7	Chemical 67 70	Pro
+T8	Protein 78 86	collagen
+T9	Protein 122 148	connective tissue proteins
+T10	Protein 157 165	collagen
+T11	Chemical 196 207	amino acids
+T12	Protein 242 250	collagen
+T13	Chemical 278 289	amino acids
+T14	Chemical 291 305	small peptides
+T15	Chemical 310 324	large peptides
+T16	Chemical 370 373	Hyp
+T17	Metabolite 370 373	Hyp
+T18	Chemical 413 427	small peptides
+T19	Chemical 442 445	Hyp
+T20	Metabolite 442 445	Hyp
+T21	Chemical 456 463	peptide
+T22	Chemical 475 478	Hyp
+T23	Metabolite 475 478	Hyp
+T24	Chemical 483 503	prolylhydroxyproline
+T25	Metabolite 483 503	prolylhydroxyproline
+T26	Chemical 505 512	Pro–Hyp
+T27	Chemical 555 558	Hyp
+T28	Metabolite 555 558	Hyp
+T29	Chemical 583 586	Hyp
+T30	Metabolite 583 586	Hyp
+T31	Metabolite 505 512	Pro–Hyp
+T32	Metabolite 1 8	Proline
+T33	Metabolite 10 13	Pro
+T34	Metabolite 67 70	Pro
+T35	Chemical 630 633	Pro
+T36	Metabolite 630 633	Pro
+T37	Chemical 638 641	Hyp
+T38	Metabolite 638 641	Hyp
+T39	Chemical 754 764	dipeptides
+T40	Chemical 754 779	dipeptides containing Pro
+T41	Metabolite 754 779	dipeptides containing Pro
+T42	Chemical 754 775;783 786	dipeptides containing Hyp
+T43	Metabolite 754 775;783 786	dipeptides containing Hyp
+T44	Species 800 808	patients
+T45	Protein 834 842	collagen
+T46	Biological_Activity 843 853	metabolism
+T47	Species 937 942	human
+T48	Chemical 1050 1060	dipeptides
+T49	Chemical 1074 1077	Pro
+T50	Metabolite 1074 1077	Pro
+T51	Chemical 1081 1084	Hyp
+T52	Metabolite 1081 1084	Hyp
+T53	Chemical 1483 1493	dipeptides
+T54	Metabolite 1483 1493	dipeptides
+T55	Metabolite 1050 1060	dipeptides
+T56	Chemical 1613 1641	4-chloro-7-nitrobenzofurazan
+T57	Chemical 1760 1777	prolyl dipeptides
+T58	Species 1760 1777	prolyl dipeptides
+T59	Chemical 1856 1923	4-(5,6-dimethoxy-2-phthalimidinyl)-2-methoxyphenylsulfonyl chloride
+T60	Chemical 1925 1931	DMS-Cl
+T61	Chemical 1967 1978	amino acids
+T62	Metabolite 1967 1978	amino acids
+T63	Chemical 1999 2011	sulfonamides
+T64	Chemical 2139 2142	Hyp
+T65	Metabolite 2139 2142	Hyp
+T66	Chemical 2209 2215	DMS-Cl
+T67	Chemical 2229 2246	prolyl dipeptides
+T68	Metabolite 2229 2246	prolyl dipeptides
+T69	Chemical 2358 2375	prolyl dipeptides
+T70	Metabolite 2358 2375	prolyl dipeptides
+T71	Chemical 2377 2380	Pro
+T72	Metabolite 2377 2380	Pro
+T73	Chemical 2385 2388	Hyp
+T74	Metabolite 2385 2388	Hyp
+T75	Chemical 2461 2467	DMS-Cl
+T76	Chemical 2601 2607	DMS-Cl
+T77	Chemical 2652 2669	o -Phthalaldehyde
+T78	Chemical 2671 2674	OPA
+T79	Chemical 2677 2689	acetonitrile
+T80	Chemical 2783 2790	Pro–Asp
+T81	Chemical 2792 2799	Pro–Gln
+T82	Chemical 2801 2808	Pro–Glu
+T83	Chemical 2810 2817	Pro–Leu
+T84	Chemical 2819 2826	Pro–Pro
+T85	Chemical 2831 2838	Pro–Ser
+T86	Chemical 2901 2908	Pro–Ala
+T87	Chemical 2910 2917	Pro–Asn
+T88	Chemical 2919 2926	Pro–Gly
+T89	Chemical 2928 2935	Pro–Hyp
+T90	Chemical 2937 2944	Pro–Ile
+T91	Chemical 2946 2953	Pro–Met
+T92	Chemical 2955 2962	Pro–Phe
+T93	Chemical 2964 2971	Pro–Trp
+T94	Chemical 2973 2980	Pro–Tyr
+T95	Chemical 2982 2989	Pro–Val
+T96	Chemical 2994 3017	3,4-dehydro-dl -proline
+T97	Chemical 3082 3096	l -Amino acids
+T98	Chemical 3104 3107	Asn
+T99	Chemical 3109 3112	Hyp
+T100	Chemical 3117 3120	Ser
+T101	Chemical 3224 3236	acetonitrile
+T102	Chemical 3292 3305	Bond Elut C18
+T103	Chemical 3367 3375	methanol
+T104	Chemical 3396 3401	water
+T105	Chemical 3414 3422	Na2 HPO4
+T106	Chemical 4016 4035	aqueous acetic acid
+T107	Chemical 4049 4061	acetonitrile
+T108	Chemical 4062 4081	aqueous acetic acid
+T109	Chemical 4540 4557	prolyl dipeptides
+T110	Chemical 4559 4562	Pro
+T111	Chemical 4564 4567	Hyp
+T112	Chemical 4623 4631	Na2 HPO4
+T113	Chemical 4654 4660	DMS-Cl
+T114	Chemical 4671 4678	acetone
+T115	Chemical 4827 4842	dichloromethane
+T116	Chemical 4856 4863	Na2 CO3
+T117	Chemical 5030 5047	prolyl dipeptides
+T118	Chemical 5049 5052	Pro
+T119	Chemical 5057 5060	Hyp
+T120	Species 5131 5136	human
+T121	Chemical 5184 5192	Na2 HPO4
+T122	Chemical 5215 5218	OPA
+T123	Chemical 5232 5244	acetonitrile
+T124	Chemical 5245 5253	Na2 HPO4
+T125	Chemical 5314 5317	OPA
+T126	Chemical 5422 5434	acetonitrile
+T127	Chemical 5364 5377	Bond Elut C18
+T128	Chemical 5435 5443	Na2 HPO4
+T129	Chemical 5496 5499	OPA
+T130	Chemical 5583 5589	DMS-Cl
+T131	Chemical 5600 5607	acetone
+T132	Chemical 5673 5688	dichloromethane
+T133	Chemical 5702 5709	Na2 CO3
+T134	Chemical 5773 5780	aqueous
+T135	Chemical 5822 5835	Bond Elut C18
+T136	Chemical 5906 5914	methanol
+T137	Chemical 5919 5924	water
+T138	Species 6009 6014	human
+T139	Chemical 6062 6070	Na2 HPO4
+T140	Chemical 6093 6096	OPA
+T141	Chemical 6153 6159	DMS-Cl
+T142	Chemical 6170 6177	acetone
+T143	Chemical 6329 6332	HCl
+T144	Chemical 6363 6367	NaCl
+T145	Chemical 6405 6420	dichloromethane
+T146	Chemical 6469 6476	Na2 CO3
+T147	Chemical 6541 6548	aqueous
+T148	Chemical 6645 6651	DMS-Cl
+T149	Chemical 6665 6682	prolyl dipeptides
+T150	Chemical 6800 6817	prolyl dipeptides
+T151	Chemical 6832 6835	Pro
+T152	Chemical 6837 6840	Hyp
+T153	Chemical 6864 6870	DMS-Cl
+T154	Chemical 6110 6117	acetone
+T155	Chemical 7070 7087	prolyl dipeptides
+T156	Chemical 7105 7112	Pro–Asn
+T157	Chemical 7105 7108;7120 7124	Pro –Gln
+T158	Chemical 7105 7109;7133 7136	Pro– Hyp
+T159	Chemical 7105 7108;7144 7148	Pro –Glu
+T160	Chemical 7105 7108;7156 7160	Pro –Gly
+T161	Chemical 7105 7108;7168 7172	Pro –Ala
+T162	Chemical 7105 7108;7180 7184	Pro –Pro
+T163	Chemical 7105 7108;7192 7196	Pro –Tyr
+T164	Chemical 7105 7108;7204 7208	Pro –Met
+T165	Chemical 7105 7108;7216 7220	Pro –Val
+T166	Chemical 7105 7108;7228 7232	Pro –Trp
+T167	Chemical 7105 7108;7240 7244	Pro –Phe
+T168	Chemical 7257 7260	Pro
+T169	Chemical 7273 7276	Hyp
+T170	Chemical 7292 7296	I.S.
+T171	Chemical 3018 3036	(internal standard
+T172	Chemical 3038 3042	I.S.
+T173	Chemical 5162 5166	I.S.
+T174	Chemical 4576 4580	I.S.
+T175	Chemical 6040 6044	I.S.
+T176	Chemical 7398 7405	Pro–Asp
+T177	Chemical 7421 7428	Pro–Ser
+T178	Chemical 7457 7464	Pro–Ile
+T179	Chemical 7480 7487	Pro–Leu
+T180	Chemical 7548 7551	DMS
+T181	Chemical 7548 7584	DMS derivatives of prolyl dipeptides
+T182	Chemical 7586 7589	Pro
+T183	Chemical 7591 7594	Hyp
+T184	Chemical 7599 7603	I.S.
+T185	Chemical 7688 7702	acetate buffer
+T186	Chemical 7788 7799	acetic acid
+T187	Chemical 7897 7913	prolyl dipeptide
+T188	Chemical 7968 7979	acetic acid
+T189	Chemical 8078 8095	prolyl dipeptides
+T190	Chemical 8097 8100	Pro
+T191	Chemical 8105 8108	Hyp
+T192	Chemical 8195 8198	Hyp
+T193	Chemical 8204 8210	DMS-Cl
+T194	Chemical 8335 8352	prolyl dipeptides
+T195	Chemical 8358 8364	DMS-Cl
+T196	Chemical 8432 8435	Pro
+T197	Chemical 8440 8444	I.S.
+T198	Chemical 8450 8456	DMS-Cl
+T199	Chemical 8481 8484	Hyp
+T200	Chemical 8618 8625	Pro–Hyp
+T201	Chemical 8781 8798	prolyl dipeptides
+T202	Chemical 8849 8866	prolyl dipeptides
+T203	Chemical 8868 8871	Pro
+T204	Chemical 8873 8876	Hyp
+T205	Chemical 8881 8885	I.S.
+T206	Chemical 8891 8897	DMS-Cl
+T207	Chemical 9035 9052	prolyl dipeptides
+T208	Chemical 9054 9057	Pro
+T209	Chemical 9059 9062	Hyp
+T210	Chemical 9067 9071	I.S.
+T211	Chemical 9077 9083	DMS-Cl
+T212	Chemical 9137 9153	phosphate buffer
+T213	Chemical 9219 9226	Pro–Hyp
+T214	Chemical 9228 9235	Pro–Gly
+T215	Chemical 9237 9244	Pro–Pro
+T216	Chemical 9249 9253	I.S.
+T217	Chemical 9391 9408	prolyl dipeptides
+T218	Chemical 9410 9413	Pro
+T219	Chemical 9418 9421	Hyp
+T220	Chemical 9506 9513;9536 9542	acetate buffer
+T221	Chemical 9515 9521;9536 9542	borate buffer
+T222	Chemical 9526 9542	phosphate buffer
+T223	Chemical 9585 9602	prolyl dipeptides
+T224	Chemical 9620 9636	phosphate buffer
+T225	Chemical 9660 9676	phosphate buffer
+T226	Chemical 9678 9693	acetate buffer,
+T227	Chemical 9702 9715	borate buffer
+T228	Chemical 9740 9747	Pro–Tyr
+T229	Chemical 9761 9769	Na2 HPO4
+T230	Chemical 9845 9853	Na2 HPO4
+T231	Chemical 9993 9999	DMS-Cl
+T232	Chemical 10041 10057	rolyl dipeptides
+T233	Chemical 10059 10062	Pro
+T234	Chemical 10067 10070	Hyp
+T235	Chemical 10145 10151	DMS-Cl
+T236	Chemical 10153 10168	Dichloromethane
+T237	Chemical 10213 10219	DMS-Cl
+T238	Chemical 10327 10334	Na2 CO3
+T239	Chemical 10373 10405	derivatives of prolyl dipeptides
+T240	Chemical 10388 10405	prolyl dipeptides
+T241	Chemical 10428 10450	derivatives of Pro–Ala
+T242	Chemical 10443 10450	Pro–Ala
+T243	Chemical 10485 10500	dichloromethane
+T244	Chemical 10520 10527	Na2 CO3
+T245	Chemical 10624 10641	prolyl dipeptides
+T246	Chemical 10643 10646	Pro
+T247	Chemical 10651 10654	Hyp
+T248	Chemical 10723 10727	I.S.
+T249	Chemical 10980 10997	prolyl dipeptides
+T250	Chemical 11102 11119	prolyl dipeptides
+T251	Metabolite 11102 11119	prolyl dipeptides
+T252	Chemical 11121 11124	Pro
+T253	Metabolite 11121 11124	Pro
+T254	Chemical 11129 11132	Hyp
+T255	Metabolite 11129 11132	Hyp
+T256	Chemical 11153 11156	OPA
+T257	Chemical 11199 11222	primary amino compounds
+T258	Chemical 11302 11305	OPA
+T259	Chemical 11540 11553	Bond Elut C18
+T260	Chemical 11602 11617	dichloromethane
+T261	Chemical 11850 11866	prolyldipeptides
+T262	Chemical 11868 11875	Pro–Tyr
+T263	Chemical 11868 11871;11877 11881	Pro –Val
+T264	Chemical 11868 11871;11883 11887	Pro –Met
+T265	Chemical 11868 11871;11889 11893	Pro –Trp
+T266	Chemical 11868 11871;11895 11899	Pro –Ile
+T267	Chemical 11868 11871;11901 11905	Pro –Leu
+T268	Chemical 11868 11871;11910 11914	Pro –Phe
+T269	Chemical 11970 11978	peptides
+T270	Chemical 12000 12013	Bond Elut C18
+T271	Chemical 12099 12106	Pro–Hyp
+T272	Chemical 12108 12115	Pro–Gly
+T273	Chemical 12117 12124	Pro–Pro
+T274	Chemical 12126 12129	Pro
+T275	Chemical 12134 12137	Hyp
+T276	Chemical 12268 12285	prolyl dipeptides
+T277	Chemical 12354 12371	prolyl dipeptides
+T278	Chemical 12471 12488	prolyl dipeptides
+T279	Chemical 12561 12568	Pro–Hyp
+T280	Chemical 12570 12577	Pro–Gly
+T281	Chemical 12579 12586	Pro–Pro
+T282	Chemical 12588 12591	Pro
+T283	Chemical 12593 12596	Hyp
+T284	Chemical 12601 12605	I.S.
+T285	Chemical 13010 13017	Pro–Hyp
+T286	Chemical 13073 13080	Pro–Gly
+T287	Chemical 13082 13089	Pro–Pro
+T288	Chemical 13091 13094	Hyp
+T289	Chemical 13130 13133	Pro
+T290	Chemical 13222 13226	I.S.
+T291	Chemical 13400 13407	Pro–Hyp
+T292	Chemical 13444 13451	Pro–Gly
+T293	Chemical 13488 13495	Pro–Pro
+T294	Chemical 13532 13535	Pro
+T295	Chemical 13575 13578	Hyp
+T296	Chemical 13626 13630	I.S.
+T297	Chemical 13919 13926	Pro–Gly
+T298	Chemical 14039 14049	chloroform
+T299	Chemical 14051 14058	benzene
+T300	Chemical 14060 14073	ethyl acetate
+T301	Chemical 14078 14091	diethyl ether
+T302	Chemical 14103 14118	dichloromethane
+T303	Chemical 14170 14173	DMS
+T304	Chemical 14170 14185	DMS-derivatives
+T305	Chemical 14212 14227	dichloromethane
+T306	Chemical 14268 14275	Na2 CO3
+T307	Chemical 14320 14352	derivatives of prolyl dipeptides
+T308	Chemical 14335 14352	prolyl dipeptides
+T309	Chemical 14426 14433	Na2 CO3
+T310	Chemical 14520 14537	prolyl dipeptides
+T311	Chemical 14585 14602	prolyl dipeptides
+T312	Chemical 14604 14607	Pro
+T313	Chemical 14609 14612	Hyp
+T314	Chemical 14649 14653	I.S.
+T315	Chemical 14659 14672	Bond Elut C18
+T316	Chemical 14747 14764	prolyl dipeptides
+T317	Chemical 14823 14840	prolyl dipeptides
+T318	Chemical 14842 14845	Pro
+T319	Chemical 14850 14853	Hyp
+T320	Chemical 14909 14914	water
+T321	Chemical 14983 14990	Pro–Gly
+T322	Chemical 15545 15566	secondary amino acids
+T323	Chemical 15605 15609	I.S.
+T324	Chemical 15636 15666	l -azetidine-2-calboxylic acid
+T325	Chemical 15668 15682	l -thioproline
+T326	Chemical 15684 15701	isonipecotic acid
+T327	Chemical 15703 15717	nipecotic acid
+T328	Chemical 15722 15740	dl -pipecolic acid
+T329	Chemical 15884 15907	3,4-dehydro-dl -proline
+T330	Chemical 15998 16009	amino acids
+T331	Chemical 16027 16038	amino acids
+T332	Chemical 16059 16076	prolyl dipeptides
+T333	Chemical 16078 16081	Pro
+T334	Chemical 16086 16089	Hyp
+T335	Chemical 16152 16171	primary amino acids
+T336	Chemical 16173 16176	Ala
+T337	Chemical 16178 16181	Arg
+T338	Chemical 16183 16186	Asp
+T339	Chemical 16188 16191	Asn
+T340	Chemical 16193 16196	Cit
+T341	Chemical 16198 16201	Cys
+T342	Chemical 16203 16210	Cys–Cys
+T343	Chemical 16212 16215	Glu
+T344	Chemical 16217 16220	Gln
+T345	Chemical 16222 16225	Gly
+T346	Chemical 16227 16230	His
+T347	Chemical 16232 16235	Hse
+T348	Chemical 16237 16240	Ile
+T349	Chemical 16242 16245	Leu
+T350	Chemical 16247 16250	Lys
+T351	Chemical 16252 16255	Met
+T352	Chemical 16257 16260	Orn
+T353	Chemical 16262 16265	Phe
+T354	Chemical 16267 16270	Ser
+T355	Chemical 16272 16275	Thr
+T356	Chemical 16277 16280	Trp
+T357	Chemical 16282 16285	Tyr
+T358	Chemical 16287 16290	Val
+T359	Chemical 16292 16311	γ-aminobutyric acid
+T360	Chemical 16316 16335	ϵ-aminocaproic acid
+T361	Chemical 16357 16368	amino acids
+T362	Chemical 16413 16420	Pro–Hyp
+T363	Chemical 16422 16429	Pro–Gly
+T364	Chemical 16431 16438	Pro–Pro
+T365	Chemical 16440 16443	Pro
+T366	Chemical 16448 16451	Hyp
+T367	Chemical 16483 16500	prolyl dipeptides
+T368	Chemical 16502 16505	Pro
+T369	Chemical 16510 16513	Hyp
+T370	Chemical 16536 16553	prolyl dipeptides
+T371	Chemical 16555 16558	Pro
+T372	Chemical 16563 16566	Hyp
+T373	Species 16593 16603	volunteers
+T374	Species 16614 16619	staff
+T375	Species 16624 16632	students
+T376	Chemical 16827 16844	prolyl dipeptides
+T377	Metabolite 16827 16844	prolyl dipeptides
+T378	Chemical 16846 16849	Pro
+T379	Metabolite 16846 16849	Pro
+T380	Chemical 16854 16857	Hyp
+T381	Metabolite 16854 16857	Hyp
+T382	Chemical 16919 16926	Pro–Hyp
+T383	Metabolite 16919 16926	Pro–Hyp
+T384	Chemical 16928 16935	Pro–Gly
+T385	Metabolite 16928 16935	Pro–Gly
+T386	Chemical 16937 16944	Pro–Pro
+T387	Metabolite 16937 16944	Pro–Pro
+T388	Chemical 16946 16949	Pro
+T389	Metabolite 16946 16949	Pro
+T390	Chemical 16954 16957	Hyp
+T391	Metabolite 16954 16957	Hyp
+T392	Chemical 17028 17038	creatinine
+T393	Metabolite 17028 17038	creatinine
+R5	Isolated_From Arg1:T383 Arg2:T373	
+R6	Isolated_From Arg1:T385 Arg2:T373	
+R7	Isolated_From Arg1:T387 Arg2:T373	
+R8	Isolated_From Arg1:T389 Arg2:T373	
+R9	Isolated_From Arg1:T391 Arg2:T373	
+R10	Isolated_From Arg1:T393 Arg2:T373	
+T394	Chemical 17080 17083	Hyp
+T395	Chemical 17111 17114	Hyp
+T396	Chemical 17221 17228	Pro–Hyp
+T397	Chemical 17238 17241	Hyp
+T398	Chemical 17251 17254	Hyp
+T399	Chemical 17438 17455	prolyl dipeptides
+T400	Metabolite 17438 17455	prolyl dipeptides
+T401	Chemical 17457 17460	Pro
+T402	Metabolite 17457 17460	Pro
+T403	Chemical 17465 17468	Hyp
+T404	Metabolite 17465 17468	Hyp
+T405	Species 17809 17817	patients

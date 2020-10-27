@@ -1,0 +1,371 @@
+T1	Chemical 53 65	nitric oxide
+T2	Chemical 67 69	NO
+T3	Chemical 183 185	NO
+T4	Biological_Activity 190 199	cytotoxic
+R1	Associated_With Arg1:T3 Arg2:T4	
+T5	Chemical 250 252	NO
+T6	Chemical 387 389	NO
+T7	Biological_Activity 405 416	transducing
+R2	Associated_With Arg1:T6 Arg2:T7	
+T8	Biological_Activity 450 462	cytotoxicity
+T9	Biological_Activity 491 501	protection
+R3	Associated_With Arg1:T6 Arg2:T9	
+T10	Chemical 566 568	NO
+T11	Biological_Activity 585 595	signalling
+R4	Associated_With Arg1:T10 Arg2:T11	
+T12	Chemical 746 756	cyclic GMP
+T13	Biological_Activity 776 786	activation
+T14	Protein 798 815	guanylate cyclase
+T15	Protein 817 820	SGC
+T16	Chemical 912 914	NO
+R5	Associated_With Arg1:T16 Arg2:T13	
+R6	Binds_With Arg1:T16 Arg2:T15	
+R7	Binds_With Arg1:T16 Arg2:T14	
+T17	Chemical 982 984	NO
+T18	Biological_Activity 1019 1034	neuroprotective
+T19	Biological_Activity 1049 1061	anti-oxidant
+R8	Associated_With Arg1:T17 Arg2:T18	
+R9	Associated_With Arg1:T17 Arg2:T19	
+T20	Chemical 1150 1160	cyclic GMP
+T21	Biological_Activity 1175 1190	neuroprotective
+R10	Associated_With Arg1:T20 Arg2:T21	
+T22	Protein 1427 1447	superoxide dismutase
+T23	Protein 1449 1452	SOD
+T24	Chemical 1504 1506	NO
+T25	Chemical 1511 1513	O2
+T26	Chemical 1559 1561	NO
+T27	Biological_Activity 1562 1571	scavenger
+T28	Chemical 1572 1576	HbO2
+R11	Associated_With Arg1:T28 Arg2:T27	
+T29	Protein 1592 1600	catalase
+T30	Chemical 1637 1642	H2 O2
+T31	Chemical 1666 1689	reactive oxygen species
+T32	Chemical 1691 1694	ROS
+T33	Biological_Activity 1714 1723	enhancing
+R12	Associated_With Arg1:T30 Arg2:T33	
+T34	Chemical 1780 1782	NO
+T35	Chemical 1817 1827	cyclic GMP
+T36	Biological_Activity 1857 1871	cytoprotection
+R13	Associated_With Arg1:T34 Arg2:T36	
+T37	Chemical 1980 1982	NO
+T38	Biological_Activity 1983 1988	donor
+T39	Chemical 1990 2002	DETA-NONOate
+R14	Associated_With Arg1:T39 Arg2:T38	
+T40	Chemical 2006 2011	H2 O2
+T41	Biological_Activity 2013 2020	induced
+R15	Associated_With Arg1:T40 Arg2:T41	
+T42	Species 2046 2049	rat
+T43	Chemical 2124 2126	NO
+T44	Biological_Activity 2132 2147	neuroprotective
+T45	Chemical 2198 2243	1H -[1,2,4]oxadiazolo[4,3-a ]quinoxalin-1-one
+T46	Chemical 2245 2248	ODQ
+T47	Biological_Activity 2276 2285	inhibitor
+T48	Protein 2289 2292	SGC
+R16	Associated_With Arg1:T46 Arg2:T47	
+R17	Associated_With Arg1:T45 Arg2:T47	
+R19	Binds_With Arg1:T46 Arg2:T48	
+R18	Binds_With Arg1:T45 Arg2:T48	
+T49	Chemical 2344 2413	8-(4-chlorophenylthio)guanosine-3′,5′-monophosphorothioate, Rp-isomer
+T50	Chemical 2415 2431	Rp-8-pCPT-cGMPS)
+T51	Biological_Activity 2447 2456	inhibitor
+T52	Protein 2460 2496	cyclic GMP-dependent protein kinases
+R20	Associated_With Arg1:T50 Arg2:T51	
+R21	Binds_With Arg1:T50 Arg2:T52	
+R22	Associated_With Arg1:T49 Arg2:T51	
+R23	Binds_With Arg1:T49 Arg2:T52	
+T53	Chemical 2570 2572	NO
+T54	Chemical 2598 2608	cyclic GMP
+T55	Protein 2613 2649	cyclic GMP-dependent protein kinases
+T56	Species 2699 2702	rat
+T57	Chemical 2953 2961	selenite
+T58	Protein 2971 2978	insulin
+T59	Species 2984 2990	bovine
+T60	Protein 3009 3020	transferrin
+T61	Chemical 3028 3040	progesterone
+T62	Chemical 3052 3062	putrescine
+T63	Chemical 3066 3069	MEM
+T64	Chemical 3249 3255	agents
+T65	Chemical 3288 3291	MEM
+T66	Chemical 3315 3322	glucose
+T67	Chemical 3331 3340	glutamine
+T68	Chemical 3353 3363	gentamicin
+T69	Chemical 3498 3503	H2 O2
+T70	Chemical 3747 3764	hydrogen peroxide
+T71	Chemical 3766 3771	H2 O2
+T72	Protein 3862 3865	SGC
+T73	Biological_Activity 3866 3875	inhibitor
+T74	Chemical 3876 3879	ODQ
+T75	Chemical 3891 3895	DMSO
+T76	Chemical 3899 3915	hydroxyl radical
+T77	Biological_Activity 3916 3925	scavenger
+R24	Associated_With Arg1:T75 Arg2:T77	
+T78	Protein 3951 3986	cyclic GMP-dependent protein kinase
+T79	Biological_Activity 3938 3947	inhibitor
+T80	Chemical 3987 4002	Rp-8-pCPT-cGMPS
+T81	Chemical 4076 4081	H2 O2
+T82	Chemical 4099 4111	DETA-NONOate
+T83	Chemical 4147 4152	H2 O2
+T84	Chemical 4211 4216	H2 O2
+T85	Chemical 4279 4284	H2 O2
+T86	Chemical 4348 4369	analogue of cyclic GM
+T87	Chemical 4371 4414	8-bromoguanosine 3′:5′-cyclic monophosphate
+T88	Chemical 4416 4432	8-Br-cyclic GMP,
+T89	Protein 4447 4475	cyclic GMP phosphodiesterase
+T90	Biological_Activity 4476 4485	inhibitor
+T91	Chemical 4486 4513	3-isobutyl-1-methylxanthine
+T92	Chemical 4515 4519	IBMX
+R25	Associated_With Arg1:T91 Arg2:T90	
+R26	Binds_With Arg1:T91 Arg2:T89	
+R27	Associated_With Arg1:T92 Arg2:T90	
+R28	Binds_With Arg1:T92 Arg2:T89	
+T93	Chemical 4705 4708	MTT
+T94	Chemical 4710 4771	3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide
+T95	Chemical 4942 4945	MTT
+T96	Chemical 4960 4968	formazan
+T97	Chemical 5188 5191	MTT
+T98	Chemical 5332 5343	Trypan Blue
+T99	Chemical 5494 5504	Cyclic GMP
+T100	Chemical 5716 5719	ODQ
+T101	Chemical 5736 5739	MEM
+T102	Chemical 5751 5755	IBMX
+T103	Chemical 5825 5830	H2 O2
+T104	Chemical 5840 5852	DETA-NONOate
+T105	Chemical 5998 6001	ice
+T106	Chemical 6007 6014	ethanol
+T107	Chemical 6020 6030	cyclic GMP
+T108	Protein 6065 6071	enzyme
+T109	Chemical 6089 6099	cyclic GMP
+T110	Chemical 6242 6245	ODQ
+T111	Chemical 6263 6275	DETA-NONOate
+T112	Chemical 6293 6308	Rp-8-pCPT-cGMPS
+T113	Chemical 6326 6336	cyclic GMP
+T114	Protein 6337 6343	enzyme
+T115	Chemical 6805 6810	H2 O2
+T116	Biological_Activity 6812 6819	induced
+T117	Biological_Activity 6820 6833	neurotoxicity
+R29	Associated_With Arg1:T115 Arg2:T116	
+R30	Associated_With Arg1:T115 Arg2:T117	
+T118	Chemical 6915 6920	H2 O2
+T119	Biological_Activity 7039 7044	toxic
+T120	Chemical 7137 7142	H2 O2
+T121	Biological_Activity 7311 7324	neurotoxicity
+T122	Biological_Activity 7325 7332	induced
+T123	Chemical 7342 7347	H2 O2
+T124	Chemical 7381 7385	DMSO
+T125	Chemical 7450 7452	NO
+T126	Biological_Activity 7453 7458	donor
+T127	Chemical 7459 7471	DETA-NONOate
+T128	Chemical 7475 7480	H2 O2
+T129	Biological_Activity 7482 7489	induced
+T130	Chemical 7533 7535	NO
+T131	Biological_Activity 7536 7541	donor
+T132	Chemical 7542 7554	DETA-NONOate
+T133	Chemical 7558 7563	H2 O2
+T134	Biological_Activity 7573 7586	neurotoxicity
+T135	Biological_Activity 7565 7572	induced
+T136	Chemical 7610 7615	H2 O2
+T137	Chemical 7665 7677	DETA-NONOate
+T138	Chemical 7784 7789	H2 O2
+T139	Biological_Activity 7791 7798	induced
+T140	Chemical 7839 7851	DETA-NONOate
+T141	Chemical 7936 7939	ODQ
+T142	Chemical 7944 7959	Rp-8-pCPT-cGMPS
+T143	Biological_Activity 7967 7982	neuroprotection
+T144	Chemical 7993 8005	DETA-NONOate
+R31	Associated_With Arg1:T144 Arg2:T143	
+R32	Associated_With Arg1:T142 Arg2:T143	
+R33	Associated_With Arg1:T141 Arg2:T143	
+T145	Chemical 8009 8014	H2 O2
+T146	Biological_Activity 8016 8023	induced
+T147	Biological_Activity 8024 8037	neurotoxicity
+T148	Chemical 8062 8065	ODQ
+T149	Chemical 8070 8085	Rp-8-pCPT-cGMPS
+T150	Chemical 8089 8101	DETA-NONOate
+T151	Biological_Activity 8110 8125	neuroprotective
+T152	Biological_Activity 8102 8109	induced
+T153	Chemical 8156 8161	H2 O2
+T154	Chemical 8179 8182	ODQ
+T155	Biological_Activity 7924 7932	Reversal
+R34	Associated_With Arg1:T141 Arg2:T155	
+R35	Associated_With Arg1:T142 Arg2:T155	
+T156	Biological_Activity 8206 8221	neuroprotective
+T157	Chemical 8239 8251	DETA-NONOate
+T158	Chemical 8265 8270	H2 O2
+T159	Biological_Activity 8272 8279	induced
+T160	Chemical 8343 8358	Rp-8-pCPT-cGMPS
+T161	Biological_Activity 8373 8381	reversed
+T162	Biological_Activity 8193 8201	reversed
+T163	Biological_Activity 8386 8401	neuroprotective
+T164	Biological_Activity 8409 8416	induced
+T165	Chemical 8426 8438	DETA-NONOate
+T166	Chemical 8442 8447	H2 O2
+T167	Biological_Activity 8449 8456	induced
+T168	Biological_Activity 8457 8470	neurotoxicity
+T169	Chemical 8522 8525	ODQ
+T170	Chemical 8529 8544	Rp-8-pCPT-cGMPS
+T171	Chemical 8622 8637	8-Br-cyclic GMP
+T172	Chemical 8641 8646	H2 O2
+T173	Biological_Activity 8648 8655	induced
+T174	Chemical 8725 8730	H2 O2
+T175	Chemical 8807 8822	8-Br-cyclic GMP
+T176	Chemical 8940 8943	ODQ
+T177	Chemical 8948 8953	H2 O2
+T178	Chemical 8958 8970	DETA-NONOate
+T179	Biological_Activity 8971 8978	induced
+T180	Chemical 8991 9001	cyclic GMP
+T181	Chemical 9012 9022	cyclic GMP
+T182	Biological_Activity 9112 9121	inhibited
+T183	Chemical 9125 9128	ODQ
+T184	Chemical 9224 9236	DETA-NONOate
+T185	Chemical 9251 9261	cyclic GMP
+T186	Biological_Activity 9372 9381	inhibited
+T187	Chemical 9385 9388	ODQ
+T188	Chemical 9425 9430	H2 O2
+T189	Chemical 9496 9506	cyclic GMP
+T190	Chemical 9577 9582	H2 O2
+T191	Biological_Activity 9591 9604	neurotoxicity
+T192	Species 9619 9622	rat
+T193	Chemical 9673 9675	NO
+T194	Biological_Activity 9676 9681	donor
+T195	Chemical 9682 9694	DETA-NONOate
+T196	Chemical 9778 9790	DETA-NONOate
+T197	Chemical 9810 9820	cyclic GMP
+T198	Chemical 9830 9845	8-Br-cyclic GMP
+T199	Biological_Activity 9850 9858	reversed
+T200	Biological_Activity 9876 9885	inhibitor
+T201	Protein 9889 9892	SGC
+T202	Chemical 9893 9896	ODQ
+T203	Biological_Activity 9914 9923	inhibitor
+T204	Protein 9931 9966	cyclic GMP-dependent protein kinase
+T205	Biological_Activity 9967 9976	inhibitor
+T206	Chemical 9977 9992	Rp-8-pCPT-cGMPS
+T207	Chemical 10009 10012	ODQ
+T208	Biological_Activity 10032 10042	inhibition
+T209	Chemical 10050 10062	DETA-NONOate
+T210	Biological_Activity 10063 10070	induced
+T211	Chemical 10083 10093	cyclic GMP
+T212	Biological_Activity 10116 10124	reversed
+T213	Chemical 10144 10159	8-Br-cyclic GMP
+R36	Associated_With Arg1:T213 Arg2:T212	
+T214	Chemical 10189 10199	cyclic GMP
+T215	Chemical 10201 10206	H2 O2
+T216	Biological_Activity 10241 10254	neurotoxicity
+T217	Species 10258 10261	rat
+T218	Biological_Activity 10354 10362	reversed
+T219	Chemical 10382 10386	DMSO
+T220	Chemical 10404 10420	hydroxyl radical
+T221	Chemical 10446 10451	H2 O2
+T222	Biological_Activity 10453 10460	induced
+T223	Biological_Activity 10461 10474	neurotoxicity
+T224	Chemical 10480 10482	NO
+T225	Biological_Activity 10483 10488	donor
+T226	Chemical 10489 10501	DETA-NONOate
+T227	Biological_Activity 10509 10524	neuroprotection
+T228	Chemical 10530 10535	H2 O2
+T229	Biological_Activity 10560 10568	toxicity
+T230	Biological_Activity 10604 10615	antioxidant
+T231	Chemical 10631 10633	NO
+T232	Biological_Activity 10666 10681	neuroprotective
+T233	Biological_Activity 10727 10740	neurotoxicity
+T234	Chemical 10762 10768	agents
+T235	Chemical 10782 10798	hydroxyl radical
+T236	Biological_Activity 10915 10925	inhibition
+T237	Protein 10929 10932	SGC
+T238	Chemical 10938 10941	ODQ
+T239	Biological_Activity 10942 10950	reverses
+T240	Chemical 10951 10963	DETA-NONOate
+T241	Biological_Activity 10964 10974	protective
+T242	Chemical 10986 10991	H2 O2
+T243	Biological_Activity 10993 11000	induced
+T244	Chemical 11028 11030	NO
+T245	Biological_Activity 11031 11038	induced
+T246	Chemical 11039 11049	cyclic GMP
+T247	Biological_Activity 11068 11078	protective
+R37	Associated_With Arg1:T246 Arg2:T247	
+T248	Chemical 11198 11201	ODQ
+T249	Biological_Activity 11202 11210	inhibits
+T250	Chemical 11228 11238	cyclic GMP
+T251	Biological_Activity 11239 11246	induced
+T252	Chemical 11250 11262	DETA-NONOate
+T253	Chemical 11337 11352	8-Br-cyclic GMP
+T254	Chemical 11374 11384	cyclic GMP
+T255	Biological_Activity 11409 11417	inhibits
+T256	Chemical 11418 11423	H2 O2
+T257	Biological_Activity 11425 11432	induced
+T258	Biological_Activity 11433 11446	neurotoxicity
+R38	Associated_With Arg1:T253 Arg2:T255	
+R39	Associated_With Arg1:T253 Arg2:T258	
+T259	Chemical 11512 11517	H2 O2
+T260	Chemical 11574 11581	calcium
+T261	Chemical 11666 11679	DETA-NONOate-
+T262	Biological_Activity 11679 11686	induced
+T263	Biological_Activity 11687 11702	neuroprotective
+T264	Chemical 11714 11717	ODQ
+T265	Chemical 11756 11766	cyclic GMP
+T266	Protein 11789 11817	GMP-dependent protein kinase
+T267	Biological_Activity 11964 11972	reversal
+T268	Chemical 11976 11979	ODQ
+T269	Chemical 11983 11995	DETA-NONOate
+T270	Biological_Activity 11996 12003	induced
+T271	Biological_Activity 12004 12014	inhibition
+T272	Biological_Activity 12022 12030	toxicity
+T273	Chemical 12041 12046	H2 O2
+T274	Chemical 12111 12126	Rp-8-pCPT-cGMPS
+T275	Protein 12144 12179	cyclic GMP-dependent protein kinase
+T276	Biological_Activity 12131 12140	inhibitor
+T277	Biological_Activity 12219 12229	protection
+T278	Biological_Activity 12239 12249	activation
+T279	Protein 12258 12264	kinase
+T280	Chemical 12347 12357	cyclic GMP
+T281	Chemical 12361 12381	cyclic GMP analogues
+T282	Chemical 9810 9829	cyclic GMP analogue
+T283	Chemical 11374 11394	cyclic GMP analogue,
+T284	Biological_Activity 12386 12393	protect
+T285	Biological_Activity 12411 12420	metabolic
+T286	Biological_Activity 12422 12433	excitotoxic
+T287	Chemical 12487 12491	Ca2+
+T288	Chemical 12531 12533	K+
+T289	Protein 12531 12543	K+  channels
+T290	Biological_Activity 12517 12527	activation
+T291	Biological_Activity 12333 12343	activation
+T292	Protein 12568 12603	cyclic GMP-dependent protein kinase
+T293	Biological_Activity 12726 12741	neuroprotective
+T294	Chemical 12752 12764	somatostatin
+R40	Associated_With Arg1:T294 Arg2:T293	
+T295	Chemical 12768 12772	NMDA
+T296	Biological_Activity 12773 12780	induced
+T297	Protein 12816 12852	cyclic GMP-dependent protein kinase,
+T298	Chemical 12899 12906	calcium
+T299	Chemical 12963 12975	DETA-NONOate
+T300	Biological_Activity 13003 13013	protection
+T301	Chemical 13071 13087	hydroxyl radical
+T302	Chemical 13125 13127	NO
+T303	Chemical 13132 13137	H2 O2
+T304	Biological_Activity 13194 13209	neuroprotective
+T305	Protein 13283 13286	SGC
+T306	Chemical 13325 13327	NO
+T307	Biological_Activity 13269 13279	activation
+T308	Chemical 13383 13385	NO
+T309	Chemical 13400 13412	DETA-NONOate
+T310	Chemical 13445 13455	cyclic GMP
+T311	Chemical 13481 13486	H2 O2
+T312	Biological_Activity 13572 13582	activation
+T313	Protein 13586 13589	SGC
+T314	Chemical 13610 13620	cyclic GMP
+R41	Associated_With Arg1:T311 Arg2:T312	
+R42	Binds_With Arg1:T311 Arg2:T313	
+T315	Chemical 13659 13664	H2 O2
+T316	Chemical 13694 13704	cyclic GMP
+T317	Chemical 13758 13763	H2 O2
+T318	Biological_Activity 13772 13785	neurotoxicity
+T319	Chemical 13795 13797	NO
+T320	Biological_Activity 13798 13805	induced
+T321	Biological_Activity 13806 13816	cyclic GMP
+T322	Biological_Activity 13836 13851	neuroprotective
+T323	Species 13900 13903	rat
+T324	Chemical 13972 13974	NO
+T325	Chemical 13975 13985	cyclic GMP
+T326	Biological_Activity 14020 14037	neurodegenerative
+T327	Biological_Activity 14205 14219	excitotoxicity
+T328	Biological_Activity 14191 14200	ischaemia
+T329	Biological_Activity 14008 14015	therapy

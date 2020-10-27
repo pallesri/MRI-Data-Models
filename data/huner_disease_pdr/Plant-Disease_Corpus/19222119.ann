@@ -1,0 +1,11 @@
+T1	Disease 90 103	breast cancer
+T2	Disease 217 230	breast cancer
+T3	Disease 646 662	breast carcinoma
+T4	Plant 63 66	yam
+T5	Plant 456 459	yam
+T6	Plant 474 477	yam
+T7	Plant 561 564	yam
+T8	Treatment_of_disease 48 54	effect
+E1	Treatment_of_disease:T8 Cause:T4 Theme:T1
+T9	Treatment_of_disease 573 577	acts
+E2	Treatment_of_disease:T9 Theme:T3 Cause:T7

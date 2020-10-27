@@ -1,0 +1,35 @@
+T1	Species 34 43	Rauwolfia
+T2	Protein 94 128	raucaffricine-O-beta-D-glucosidase
+T3	Protein 347 358	glucosidase
+T4	Chemical 158 163	anion
+T5	Chemical 207 222	hydroxylapatite
+T6	Chemical 387 401	DEAE sepharose
+T7	Chemical 403 415	TSK 55 S gel
+T8	Chemical 451 457	Mono Q
+T9	Protein 480 491	glucosidase
+T10	Chemical 267 273	Mono Q
+T11	Chemical 278 284	Mono P
+T12	Protein 550 556	enzyme
+T13	Protein 572 578	enzyme
+T14	Chemical 648 658	vomilenine
+T15	Chemical 682 690	alkaloid
+T16	Metabolite 648 658	vomilenine
+T17	Metabolite 682 690	alkaloid
+T18	Chemical 701 718	aqueous solutions
+T19	Chemical 740 746;757 767	21(R)- vomilenine
+T20	Chemical 751 767	21(S)-vomilenine
+T21	Protein 813 819	enzyme
+T22	Protein 825 845	endoproteinase Lys C
+T23	Chemical 859 866	peptide
+T24	Chemical 887 898	amino acids
+T25	Chemical 984 1003	Val-Thr-Glu-Asn-Gly
+T26	Protein 1019 1036	beta-glucosidases
+T27	Protein 1108 1118	linamarase
+T28	Species 1124 1141	Manihot esculenta
+T29	Protein 1163 1179	beta-glucosidase
+T30	Species 1185 1197	Prunus avium
+T31	Protein 1214 1248	Raucaffricine-O-beta-D-glucosidase
+T32	Protein 1293 1312	glycosyl hydrolases
+R1	Isolated_From Arg1:T16 Arg2:T1	
+R2	Isolated_From Arg1:T19 Arg2:T1	
+R3	Isolated_From Arg1:T20 Arg2:T1	

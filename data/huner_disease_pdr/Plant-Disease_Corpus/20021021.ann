@@ -1,0 +1,14 @@
+T1	Disease 0 17	Colorectal cancer
+T2	Disease 115 121	cancer
+T4	Disease 292 304	colon cancer
+T5	Disease 1495 1507	colon cancer
+T6	Plant 228 234	ginger
+T7	Plant 438 444	Ginger
+T8	Plant 1059 1065	ginger
+T9	Plant 1440 1446	ginger
+T3	Treatment_of_disease 218 224	effect
+E1	Treatment_of_disease:T3 Cause:T6 Theme:T4
+T10	Disease 542 556	carcinogenesis
+T11	Disease 1125 1145	colon carcinogenesis
+T12	Treatment_of_disease 1476 1482	reduce
+E2	Treatment_of_disease:T12 Cause:T9 Theme:T5

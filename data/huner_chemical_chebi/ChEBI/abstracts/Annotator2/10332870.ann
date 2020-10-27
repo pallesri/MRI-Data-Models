@@ -1,0 +1,36 @@
+T1	Spectral_Data 10 51	1H NMR homonuclear J editing spectroscopy
+T2	Chemical 93 108	2-pyrrolidinone
+T3	Chemical 110 114	PRDN
+T4	Species 123 128	human
+T6	Species 177 185	subjects
+T7	Chemical 193 203	vigabatrin
+T8	Chemical 205 209	PRDN
+T9	Chemical 215 221	lactam
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T3 Arg2:T1	
+T11	Metabolite 93 108	2-pyrrolidinone
+T12	Metabolite 110 114	PRDN
+R3	Associated_With Arg1:T11 Arg2:T1	
+R4	Associated_With Arg1:T12 Arg2:T1	
+T13	Metabolite 205 209	PRDN
+T14	Chemical 245 268	gamma-aminobutyric acid
+T15	Chemical 270 274	GABA
+R5	Metabolite_Of Arg1:T13 Arg2:T14	
+R6	Metabolite_Of Arg1:T13 Arg2:T15	
+T16	Chemical 359 363	PRDN
+T17	Metabolite 359 363	PRDN
+T18	Species 408 416	subjects
+T20	Species 439 447	subjects
+T21	Chemical 451 461	vigabatrin
+T22	Chemical 462 466	PRDN
+T23	Chemical 520 524	PRDN
+T24	Metabolite 520 524	PRDN
+T25	Species 528 536	patients
+T26	Chemical 540 550	vigabatrin
+T27	Chemical 577 581	GABA
+T29	Spectral_Data 612 618	1H NMR
+T30	Chemical 635 639	PRDN
+T31	Metabolite 635 639	PRDN
+T32	Metabolite 692 702	metabolite
+R7	Associated_With Arg1:T31 Arg2:T29	
+R8	Associated_With Arg1:T30 Arg2:T29	

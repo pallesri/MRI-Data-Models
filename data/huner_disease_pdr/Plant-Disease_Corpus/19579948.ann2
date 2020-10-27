@@ -1,0 +1,11 @@
+T1	Disease 126 139	neurotoxicity
+T4	Disease 2069 2077	toxicity
+T5	Plant 60 66	ginger
+T7	Plant 68 87	Zingiber officinale
+T10	Plant 998 1004	Ginger
+T11	Plant 1006 1014	Zingiber
+T15	Plant 1672 1678	ginger
+T16	Plant 1864 1870	ginger
+T17	Plant 1998 2004	ginger
+T2	Treatment_of_disease 2035 2039	role
+E1	Treatment_of_disease:T2 Cause:T17 Theme:T4

@@ -1,0 +1,14 @@
+T1	Disease 349 355	tumors
+T2	Disease 426 431	tumor
+T3	Disease 481 486	tumor
+T4	Disease 536 541	tumor
+T5	Disease 612 617	tumor
+T6	Disease 739 744	tumor
+T8	Plant 0 17	Lonicera caerulea
+T10	Plant 274 291	Lonicera caerulea
+T7	Plant 386 404	Lonicera caerulaea
+T9	Plant 656 680	Lonicera caerulaea berry
+T11	Treatment_of_disease 690 697	induced
+E1	Treatment_of_disease:T11 Theme:T6 Cause:T9
+T12	Treatment_of_disease 414 421	reduced
+E2	Treatment_of_disease:T12 Theme:T2 Cause:T7

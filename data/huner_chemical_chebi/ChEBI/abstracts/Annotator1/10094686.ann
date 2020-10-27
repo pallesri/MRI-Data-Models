@@ -1,0 +1,58 @@
+T3	Protein 29 32	GST
+T4	Chemical 55 83	1, 2-epoxy-2-methyl-3-butene
+T5	Chemical 85 102	isoprene monoxide
+T6	Chemical 108 136	cis-1, 2-dichloroepoxyethane
+T7	Chemical 159 167	isoprene
+T8	Species 188 215	Rhodococcus sp. strain AD45
+T9	Protein 233 239	enzyme
+T10	Chemical 284 295	glutathione
+T11	Chemical 297 300	GSH
+T13	Chemical 336 344	epoxides
+T14	Chemical 354 357	GSH
+T15	Chemical 409 426	isoprene monoxide
+T16	Chemical 431 459	cis-1, 2-dichloroepoxyethane
+T17	Chemical 559 576	isoprene monoxide
+T18	Chemical 581 608	cis-1,2-dichloroepoxyethane
+T19	Spectral_Data 694 736	1H nuclear magnetic resonance spectroscopy
+T20	Chemical 765 768	GSH
+T21	Chemical 784 801	isoprene monoxide
+T22	Chemical 806 848	1-hydroxy-2-glutathionyl-2-methyl-3-butene
+T23	Chemical 850 854	HGMB
+R1	Associated_With Arg1:T22 Arg2:T19	
+R2	Associated_With Arg1:T23 Arg2:T19	
+T24	Chemical 886 889	GSH
+T25	Chemical 934 946	epoxide ring
+#1	AnnotatorNotes T25	part of a molecule
+T26	Chemical 948 952	HGMB
+T27	Chemical 981 985	NAD+
+T28	Protein 981 1009	NAD+-dependent dehydrogenase
+T29	Protein 1020 1026	enzyme
+T30	Chemical 1050 1058	isoprene
+T31	Protein 1088 1094	enzyme
+T32	Chemical 1152 1156	HGMB
+T33	Chemical 1185 1203	secondary alcohols
+#2	AnnotatorNotes T33	Class of chemicals
+T34	Chemical 1166 1180;1195 1203	simple primary alcohols
+T35	Protein 2 27	glutathione S-transferase
+T36	Protein 1227 1233	enzyme
+T37	Chemical 1276 1292	alcohol function
+#3	AnnotatorNotes T37	a chemical functional group
+T38	Chemical 1314 1322	aldehyde
+#4	AnnotatorNotes T38	a chemical functional group
+T39	Chemical 1327 1342	carboxylic acid
+#5	AnnotatorNotes T39	a chemical functional group
+T40	Protein 1544 1547	GST
+T41	Chemical 1573 1577	HGMB
+T42	Protein 1585 1598	dehydrogenase
+T43	Chemical 1631 1671	2-glutathionyl-2-methyl-3-butenoic  acid
+T44	Chemical 1459 1467	isoprene
+T45	Protein 1485 1498	monooxygenase
+T46	Chemical 1523 1540	isoprene monoxide
+T47	Metabolite 1523 1540	isoprene monoxide
+T48	Metabolite 1573 1577	HGMB
+T50	Metabolite 1631 1671	2-glutathionyl-2-methyl-3-butenoic  acid
+R3	Metabolite_Of Arg1:T47 Arg2:T44	
+R4	Metabolite_Of Arg1:T48 Arg2:T46	
+R5	Metabolite_Of Arg1:T50 Arg2:T41	
+R6	Metabolite_Of Arg1:T50 Arg2:T22	
+T1	Biological_Activity 1468 1478	metabolism

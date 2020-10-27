@@ -1,0 +1,11 @@
+T1	Disease 123 147	type 1 diabetes mellitus
+T2	Disease 177 198	neurological diseases
+T3	Disease 382 406	type 1 diabetes mellitus
+T4	Disease 441 465	type 1 diabetes mellitus
+T5	Disease 729 753	type 1 diabetes mellitus
+T6	Disease 893 912	autoimmune diabetes
+T9	Plant 833 838	wheat
+T12	Plant 842 849	soybean
+T10	Cause_of_disease 871 876	cause
+E1	Cause_of_disease:T10 Cause:T12 Cause2:T9 Theme:T6
+T7	Disease 1379 1403	type 1 diabetes mellitus

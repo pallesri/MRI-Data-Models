@@ -1,0 +1,40 @@
+T2	Chemical 55 75	3-methylcholanthrene
+T3	Chemical 77 80	MCA
+T4	Chemical 83 97	benzo[a]pyrene
+T5	Chemical 99 101	BP
+T6	Chemical 108 138	7,12-dimethylbenz[a]anthracene
+T7	Chemical 140 144	DMBA
+T8	Species 245 249	mice
+T9	Chemical 346 357	trioctanoin
+T10	Biological_Activity 316 326	carcinogen
+T11	Biological_Activity 425 435	carcinogen
+T12	Chemical 364 371	beeswax
+#1	AnnotatorNotes T12	A chemical mixture
+T13	Chemical 373 384	trioctanoin
+T14	Species 536 540	mice
+T15	Species 568 572	mice
+T16	Chemical 574 576	BP
+T17	Species 619 623	mice
+T18	Chemical 652 655	MCA
+T19	Chemical 657 659	BP
+T20	Chemical 664 668	DMBA
+T21	Species 688 692	mice
+T22	Species 753 757	mice
+T23	Chemical 724 728	DMBA
+T24	Chemical 732 735	MCA
+T25	Chemical 786 788	BP
+T26	Chemical 792 795	MCA
+T27	Biological_Activity 969 979	carcinogen
+T28	Biological_Activity 855 870	tumor induction
+T29	Chemical 386 389	B:T
+T30	Chemical 672 675	B:T
+T31	Chemical 739 742	B:T
+T32	Chemical 799 802	B:T
+T33	Chemical 893 896	B:T
+R1	Associated_With Arg1:T2 Arg2:T10	
+R2	Associated_With Arg1:T3 Arg2:T10	
+R3	Associated_With Arg1:T4 Arg2:T10	
+R4	Associated_With Arg1:T5 Arg2:T10	
+R5	Associated_With Arg1:T6 Arg2:T10	
+R6	Associated_With Arg1:T7 Arg2:T10	
+T1	Biological_Activity 13 28	tumor induction

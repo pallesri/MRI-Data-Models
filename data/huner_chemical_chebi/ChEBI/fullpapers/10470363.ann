@@ -1,0 +1,423 @@
+T1	Protein 1 25	Ribonucleotide reductase
+T2	Protein 27 38	EC 1.17.4.1
+T3	Protein 40 42	RR
+T4	Chemical 94 114	deoxyribonucleotides
+T5	Biological_Activity 128 131;148 154	DNA repair
+T6	Biological_Activity 224 230	enzyme
+T7	Protein 224 230	enzyme
+T8	Protein 286 288	RR
+T9	Biological_Activity 333 343	neoplastic
+T10	Species 396 405	mammalian
+T11	Protein 406 412	enzyme
+T12	Protein 432 439	protein
+T13	Protein 471 473	M1
+T14	Protein 478 480	M2
+T15	Protein 508 510	M2
+T16	Chemical 530 550	tyrosyl free radical
+T17	Chemical 579 583	heme
+T18	Chemical 584 588	iron
+T19	Chemical 611 615	iron
+T20	Chemical 624 637	tyrosyl group
+T21	Chemical 741 745	iron
+T22	Biological_Activity 761 773	inactivating
+T23	Protein 778 784	enzyme
+T24	Chemical 786 797	Hydroxyurea
+T25	Chemical 799 802	HUr
+T26	Chemical 829 835	agents
+R1	Associated_With Arg1:T24 Arg2:T22	
+R2	Associated_With Arg1:T25 Arg2:T22	
+R3	Binds_With Arg1:T24 Arg2:T1	
+R4	Binds_With Arg1:T24 Arg2:T2	
+R5	Binds_With Arg1:T24 Arg2:T3	
+R6	Binds_With Arg1:T25 Arg2:T1	
+R7	Binds_With Arg1:T25 Arg2:T2	
+R8	Binds_With Arg1:T25 Arg2:T3	
+T27	Chemical 878 881	HUr
+T28	Protein 909 915	enzyme
+T29	Species 943 946	man
+T30	Chemical 981 984	HUr
+T31	Protein 1130 1132	RR
+T32	Biological_Activity 1167 1177	Inhibitors
+T33	Protein 1181 1183	RR
+T34	Chemical 1230 1233	HUr
+T35	Biological_Activity 1284 1296	chemotherapy
+T36	Chemical 1311 1363	α-(N)-heterocyclic carboxaldehyde thiosemicarbazones
+T37	Chemical 1365 1368	HCT
+T38	Biological_Activity 1439 1449	inhibitors
+T39	Biological_Activity 1453 1455	RR
+T40	Protein 1453 1455	RR
+R9	Associated_With Arg1:T37 Arg2:T38	
+R10	Associated_With Arg1:T36 Arg2:T38	
+R11	Binds_With Arg1:T37 Arg2:T40	
+R12	Binds_With Arg1:T36 Arg2:T40	
+T41	Biological_Activity 1516 1526	anticancer
+T42	Chemical 1539 1543	HCTs
+R13	Associated_With Arg1:T42 Arg2:T41	
+R14	Associated_With Arg1:T36 Arg2:T41	
+T43	Chemical 1626 1669	pyridine-2-carboxaldehyde thiosemicarbazone
+R15	Associated_With Arg1:T43 Arg2:T41	
+T44	Species 1707 1711	mice
+R16	Associated_With Arg1:T43 Arg2:T38	
+R17	Binds_With Arg1:T43 Arg2:T40	
+T45	Chemical 1767 1770	HCT
+T46	Chemical 1861 1878	thiosemicarbazone
+T47	Species 2052 2058	murine
+T48	Chemical 2089 2093	HCTs
+T49	Species 2167 2173	humans
+T50	Chemical 2177 2222	5-hydroxy-2-formyl pyridine thiosemicarbazone
+T51	Chemical 2224 2228	5-HP
+T52	Chemical 2237 2243	agents
+T53	Chemical 2287 2291	iron
+T54	Chemical 2293 2299	copper
+T55	Species 2305 2309	zinc
+T56	Chemical 2319 2323	HCTs
+T57	Chemical 2352 2356	iron
+T58	Protein 2362 2370	ferritin
+T59	Biological_Activity 2386 2395	chelation
+R18	Associated_With Arg1:T56 Arg2:T59	
+T60	Biological_Activity 2450 2457	chelate
+T61	Chemical 2458 2462	iron
+T62	Chemical 2507 2522	tyrosyl radical
+T63	Protein 2549 2551	M2
+T64	Protein 2563 2565	RR
+T65	Biological_Activity 2591 2601	inhibitory
+T66	Protein 2618 2624	enzyme
+T67	Biological_Activity 2626 2636	Inhibition
+T68	Biological_Activity 2659 2671	coordination
+T69	Chemical 2675 2679	iron
+T70	Chemical 2687 2692	metal
+T71	Biological_Activity 2693 2698	bound
+T72	Protein 2699 2705	enzyme
+T73	Chemical 2739 2747	iron-HCT
+T74	Chemical 2739 2743	iron
+T75	Chemical 2744 2747	HCT
+T76	Biological_Activity 2748 2755	chelate
+T77	Protein 2786 2792	enzyme
+T78	Chemical 2821 2825	iron
+T79	Chemical 2826 2843	thiosemicarbazone
+T80	Chemical 2821 2843	iron-thiosemicarbazone
+T81	Biological_Activity 2866 2876	inhibitory
+R19	Associated_With Arg1:T80 Arg2:T81	
+T82	Chemical 2969 2973	HCTs
+T83	Chemical 3024 3027	HUr
+T84	Biological_Activity 3031 3041	inhibitors
+T85	Protein 3045 3047	RR
+T86	Biological_Activity 3136 3146	inhibitors
+T87	Protein 3150 3152	RR
+T88	Biological_Activity 3150 3152	RR
+T89	Species 3197 3203	animal
+T90	Chemical 3226 3230	5-HP
+T91	Chemical 3312 3317	agent
+T92	Chemical 3365 3369	5-HP
+T93	Species 3395 3398	man
+T94	Chemical 3365 3369;3443 3457	5-HP O -glucuronide
+T95	Metabolite 3365 3369;3443 3457	5-HP O -glucuronide
+R20	Metabolite_Of Arg1:T95 Arg2:T92	
+T96	Chemical 3505 3510	drugs
+T97	Biological_Activity 3606 3615	antitumor
+T98	Chemical 3616 3622	agents
+T99	Chemical 3679 3685	agents
+T100	Chemical 3716 3764	3-aminopyridine carboxaldehyde thiosemicarbazone
+T101	Chemical 3766 3770	3-AP
+T102	Chemical 3874 3878	3-AP
+T103	Chemical 3879 3883	3-AP
+T104	Chemical 3981 3999	3-nitro-2-picoline
+T105	Chemical 4001 4002	1
+T106	Chemical 4011 4027	selenium dioxide
+T107	Chemical 4041 4048	dioxane
+T108	Chemical 4054 4086	3-nitropyridine-2-carboxaldehyde
+T109	Chemical 4088 4089	2
+T110	Chemical 4098 4109	nitro group
+T111	Chemical 4129 4143	amino function
+T112	Chemical 4162 4170	aldehyde
+T113	Chemical 4192 4214	cyclic ethylene acetal
+T114	Chemical 4216 4217	3
+T115	Chemical 4258 4266	hydrogen
+T116	Chemical 4278 4282	Pd/C
+T117	Chemical 4310 4322	amino acetal
+T118	Chemical 4324 4325	4
+T119	Chemical 4336 4346	Compound 4
+T120	Chemical 4371 4388	thiosemicarbazide
+T121	Chemical 4392 4399	ethanol
+T122	Chemical 4428 4445	hydrochloric acid
+T123	Chemical 4454 4518	3-aminopyridine-2-carboxaldehyde thiosemicarbazone hydrochloride
+T124	Chemical 4520 4524	3-AP
+T125	Chemical 4526 4527	5
+T126	Chemical 4576 4594	sodium bicarbonate
+T127	Species 4612 4619	Animals
+T128	Species 4630 4636;4639 4643	CD2 F1 mice
+T129	Chemical 4738 4742	mice
+T130	Chemical 4782 4786	3-AP
+T131	Chemical 4795 4799	NaCl
+T132	Species 4838 4843	mouse
+T133	Species 4891 4910	Female CD2 F1  mice
+T134	Species 4961 4967	murine
+T135	Species 5153 5159	murine
+T136	Chemical 5269 5274	CO2  
+T137	Species 5316 5321	horse
+T138	Chemical 5358 5361	HUr
+T139	Chemical 5510 5513	HUr
+T140	Biological_Activity 5617 5627	inhibition
+T141	Protein 5657 5681	Ribonucleotide reductase
+T142	Chemical 5696 5700	heme
+T143	Chemical 5701 5705	iron
+T144	Biological_Activity 5719 5726	binding
+T145	Protein 5739 5741	RR
+T146	Protein 5824 5837	CDP reductase
+T147	Biological_Activity 5824 5837	CDP reductase
+T148	Chemical 5941 5950	[14 C]CDP
+T149	Chemical 5972 5986	dithiothreitol
+T150	Chemical 5997 6000	ATP
+T151	Chemical 6026 6030	heme
+T152	Chemical 6031 6035	iron
+T153	Biological_Activity 6049 6056	binding
+T154	Protein 6078 6080	RR
+T155	Protein 6147 6160	CDP reductase
+T156	Chemical 6197 6202	water
+T157	Chemical 6213 6224	nucleotides
+T158	Chemical 6243 6254	nucleosides
+T159	Species 6258 6263	snake
+T160	Protein 6258 6269	snake venom
+T161	Chemical 6289 6302	deoxycytidine
+T162	Chemical 6322 6330	cytidine
+T163	Chemical 6379 6393	[3 H]Thymidine
+T164	Chemical 6398 6410	[3 H]uridine
+T165	Chemical 6440 6444	3-AP
+T167	Chemical 6545 6554	thymidine
+T168	Chemical 6520 6532;6545 6554	radiolabeled thymidine
+T166	Chemical 6520 6540	radiolabeled uridine
+T169	Chemical 6533 6540	uridine
+T170	Chemical 6638 6642	drug
+T171	Chemical 6684 6698	[3 H]thymidine
+T172	Chemical 6723 6735	[3 H]uridine
+T173	Chemical 6785 6788	ice
+T174	Chemical 6794 6797	PBS
+T175	Chemical 6840 6843	ice
+T176	Chemical 6853 6873	trichloroacetic acid
+T177	Chemical 6875 6878	TCA
+T178	Chemical 6969 6972	ice
+T179	Chemical 6982 6985	TCA
+T180	Chemical 7016 7023	ethanol
+T181	Chemical 7065 7068	HCl
+T182	Chemical 7152 7156	NaOH
+T183	Biological_Activity 7319 7329	inhibitory
+T184	Chemical 7342 7346	3-AP
+T185	Chemical 7364 7367	HUr
+T186	Chemical 7431 7435	3-AP
+T187	Biological_Activity 7442 7451	inhibitor
+R21	Associated_With Arg1:T186 Arg2:T187	
+T188	Chemical 7482 7485	HUr
+T189	Chemical 7613 7616	HUr
+T190	Chemical 7676 7680	3-AP
+T191	Chemical 7682 7686	3-AP
+T192	Chemical 7731 7734	HUr
+T193	Chemical 7783 7787	3-AP
+T194	Species 7843 7851	patients
+T195	Protein 7877 7879	RR
+T196	Biological_Activity 7880 7889	inhibitor
+T197	Chemical 7920 7924	3-AP
+T198	Chemical 7944 7947	HUr
+T199	Chemical 7985 7988	HUr
+T200	Chemical 8056 8059	HUr
+T201	Biological_Activity 8095 8109	antineoplastic
+T202	Chemical 8110 8115	agent
+T203	Chemical 344 350	agents
+T204	Biological_Activity 8132 8144	antileukemic
+T205	Chemical 8157 8161	3-AP
+T206	Chemical 8167 8171	3-AP
+T207	Species 8229 8233	mice
+T208	Chemical 8400 8404	drug
+T209	Chemical 8590 8594	3-AP
+T210	Chemical 8607 8612	agent
+T211	Biological_Activity 8689 8697	curative
+T212	Species 8707 8711	mice
+T213	Chemical 8731 8736	agent
+T214	Biological_Activity 8767 8778	therapeutic
+T215	Biological_Activity 8819 8829	Inhibition
+T216	Protein 8833 8835	RR
+T217	Biological_Activity 8833 8835	RR
+T218	Chemical 8848 8852	3-AP
+R22	Associated_With Arg1:T205 Arg2:T204	
+R23	Associated_With Arg1:T218 Arg2:T215	
+R24	Binds_With Arg1:T218 Arg2:T216	
+T219	Chemical 8870 8873	CDP
+T220	Chemical 8877 8881	dCDP
+T221	Protein 8894 8896	RR
+T222	Biological_Activity 8940 8949	inhibited
+T223	Chemical 8953 8957	3-AP
+T224	Chemical 8989 8993	3-AP
+T225	Biological_Activity 9025 9034	inhibitor
+T226	Species 9038 9047	mammalian
+T227	Protein 9048 9050	RR
+T228	Chemical 9078 9081	HUr
+T229	Chemical 9119 9123	HCTs
+T230	Chemical 9171 9175	5-HP
+T231	Chemical 9195 9199	3-AP
+T232	Chemical 9226 9230	3-AP
+T233	Biological_Activity 9243 9252	inhibited
+T234	Chemical 9274 9296	radiolabeled thymidine
+T235	Chemical 9306 9310	acid
+T236	Chemical 9378 9398	radiolabeled uridine
+T237	Biological_Activity 9203 9225	nucleic acid synthesis
+T238	Biological_Activity 9439 9449	inhibition
+T239	Biological_Activity 9453 9466	DNA synthesis
+T240	Chemical 9492 9496	3-AP
+T241	Biological_Activity 9500 9522	nucleic acid synthesis
+R25	Associated_With Arg1:T240 Arg2:T239	
+R26	Associated_With Arg1:T240 Arg2:T241	
+T242	Biological_Activity 9551 9561	inhibitory
+T243	Chemical 9574 9578	3-AP
+T244	Chemical 9609 9613	iron
+T245	Chemical 9625 9640	tyrosyl radical
+T246	Chemical 9670 9673	HUr
+T247	Chemical 9709 9713	3-AP
+T248	Protein 9717 9719	RR
+T249	Chemical 9801 9805	iron
+T250	Biological_Activity 9806 9814	chelator
+T251	Chemical 9815 9823	Desferal
+R27	Associated_With Arg1:T251 Arg2:T250	
+T252	Biological_Activity 9835 9839	3-AP
+T253	Biological_Activity 9848 9858	inhibition
+T254	Protein 9862 9864	RR
+T255	Chemical 9898 9906	Desferal
+T256	Biological_Activity 9957 9967	inhibition
+R28	Associated_With Arg1:T209 Arg2:T211	
+R29	Associated_With Arg1:T209 Arg2:T214	
+T257	Biological_Activity 9971 9984	DNA synthesis
+T258	Chemical 10008 10011	HUr
+T259	Biological_Activity 10032 10042	inhibition
+T260	Protein 10046 10048	RR
+T261	Chemical 10052 10056	3-AP
+T262	Chemical 10092 10100	Desferal
+T263	Chemical 10137 10142	metal
+T264	Biological_Activity 10143 10151	chelates
+T265	Chemical 10155 10159	3-AP
+T266	Chemical 10194 10198	iron
+T267	Chemical 10200 10206	copper
+T268	Chemical 10211 10215	zinc
+T269	Biological_Activity 10236 10246	inhibitors
+T270	Chemical 10137 10159	metal chelates of 3-AP
+T271	Protein 10250 10263	CDP reductase
+T272	Chemical 10269 10273	3-AP
+R30	Associated_With Arg1:T270 Arg2:T269	
+R31	Binds_With Arg1:T270 Arg2:T271	
+R32	Associated_With Arg1:T272 Arg2:T269	
+R33	Binds_With Arg1:T272 Arg2:T271	
+T273	Biological_Activity 10325 10332	chelate
+T274	Chemical 10312 10332	3-AP-Cu (II) chelate
+T275	Chemical 10312 10316	3-AP
+T276	Chemical 10317 10324	Cu (II)
+T277	Chemical 10359 10363	3-AP
+T278	Biological_Activity 10372 10373	i
+T279	Chemical 10435 10442	Fe (II)
+T280	Chemical 10447 10455	Fe (III)
+T281	Chemical 10469 10473	3-AP
+T282	Chemical 10435 10442;10456 10463;10466 10473	Fe (II) complex of 3-AP
+T283	Chemical 10447 10463;10466 10473	Fe (III) complex of 3-AP
+T284	Chemical 10507 10522	Zn (II) chelate
+T285	Chemical 10495 10502	Cu (II)
+T286	Chemical 10507 10514	Zn (II)
+T287	Chemical 10495 10502;10515 10522	Cu (II) chelate
+T288	Biological_Activity 10515 10523	chelates
+T289	Biological_Activity 10606 10616	inhibitory
+T290	Chemical 10632 10648	iron-HCT complex
+T291	Chemical 10670 10673	HCT
+R34	Associated_With Arg1:T282 Arg2:T269	
+R35	Binds_With Arg1:T282 Arg2:T271	
+R36	Associated_With Arg1:T283 Arg2:T269	
+R37	Binds_With Arg1:T283 Arg2:T271	
+R38	Associated_With Arg1:T284 Arg2:T269	
+R39	Binds_With Arg1:T284 Arg2:T271	
+R40	Associated_With Arg1:T287 Arg2:T269	
+R41	Binds_With Arg1:T287 Arg2:T271	
+R42	Associated_With Arg1:T290 Arg2:T289	
+T292	Chemical 10680 10683	HUr
+T293	Chemical 10704 10708	HCTs
+T294	Biological_Activity 10721 10734	proliferation
+T295	Biological_Activity 10838 10847	cytotoxic
+T296	Chemical 10858 10862	3-AP
+R43	Associated_With Arg1:T296 Arg2:T295	
+T297	Chemical 11026 11030	3-AP
+T298	Biological_Activity 11152 11168	chemotherapeutic
+T299	Chemical 11212 11216	3-AP
+R44	Associated_With Arg1:T299 Arg2:T298	
+T300	Chemical 11235 11240	drugs
+T301	Chemical 11296 11300	3-AP
+T302	Biological_Activity 11304 11311	inhibit
+T303	Biological_Activity 11316 11325;11337 11340	repair of DNA
+R45	Associated_With Arg1:T301 Arg2:T302	
+R46	Associated_With Arg1:T301 Arg2:T303	
+T304	Chemical 11394 11398	3-AP
+T305	Biological_Activity 11419 11428	synergize
+R47	Associated_With Arg1:T304 Arg2:T305	
+T306	Chemical 11434 11493	1-acetyl-1,2-bis(methylsulfonyl)-2-(2-chloroethyl)hydrazine
+R48	Associated_With Arg1:T306 Arg2:T305	
+T307	Chemical 11501 11511	cis-platin
+T308	Chemical 11517 11526	etoposide
+T309	Species 11557 11561	mice
+R49	Associated_With Arg1:T307 Arg2:T305	
+R50	Associated_With Arg1:T308 Arg2:T305	
+T310	Chemical 11622 11626	3-AP
+T311	Chemical 11632 11638	single
+T312	Biological_Activity 11664 11677	repair of DNA
+T313	Chemical 11689 11693	3-AP
+T314	Chemical 11721 11725	drug
+T315	Biological_Activity 11751 11752	t
+T316	Biological_Activity 11812 11825	repair of DNA
+T317	Chemical 11865 11870	agent
+T318	Protein 11974 11976	RR
+T319	Biological_Activity 11977 11986	inhibitor
+T320	Chemical 12033 12038	agent
+T321	Protein 12058 12060	RR
+T322	Biological_Activity 12078 12079	f
+T323	Biological_Activity 12142 12152	inhibitors
+T324	Chemical 12216 12220	HCTs
+T325	Chemical 12230 12234	3-AP
+T326	Biological_Activity 12317 12327	anticancer
+T327	Species 12337 12343	humans
+T328	Chemical 12347 12351	5-HP
+T329	Biological_Activity 12371 12382	therapeutic
+T330	Chemical 12433 12437	3-AP
+T331	Chemical 12481 12485	HCTs
+T332	Biological_Activity 12579 12588	treatment
+R51	Associated_With Arg1:T325 Arg2:T326	
+R52	Associated_With Arg1:T205 Arg2:T201	
+T333	Protein 12677 12683	enzyme
+T334	Protein 12684 12686	RR
+T335	Chemical 12715 12742	ribonucleoside diphosphates
+T336	Chemical 12752 12771	deoxyribonucleotide
+T337	Protein 12786 12788	RR
+T338	Chemical 12827 12835	cytosine
+T339	Chemical 12837 12844	adenine
+T340	Chemical 12850 12857	guanine
+T341	Chemical 12858 12893	deoxyribonucleotide 5′-triphosphate
+T342	Chemical 12850 12857;12878 12893	guanine 5′-triphosphate
+T343	Chemical 12837 12844;12878 12893	adenine 5′-triphosphate
+T344	Chemical 12827 12835;12878 12893	cytosine 5′-triphosphate
+T345	Biological_Activity 12998 13010	interference
+T346	Protein 13032 13034	RR
+T347	Chemical 13059 13064	agent
+T348	Biological_Activity 13082 13096	antineoplastic
+T349	Biological_Activity 13136 13149	proliferating
+T350	Chemical 13163 13166	HUr
+T351	Biological_Activity 13179 13188	inhibitor
+T352	Chemical 13219 13224	agent
+T353	Biological_Activity 13256 13265	inhibitor
+T354	Protein 13273 13279	enzyme
+T355	Chemical 13327 13330	HUr
+T356	Biological_Activity 13352 13362	anticancer
+R53	Associated_With Arg1:T355 Arg2:T356	
+T357	Biological_Activity 13408 13417	inhibitor
+T358	Protein 13421 13423	RR
+T359	Biological_Activity 13443 13453	anticancer
+T360	Chemical 13481 13485	3-AP
+T361	Biological_Activity 13514 13524	inhibition
+T362	Biological_Activity 13564 13572	curative
+T363	Species 13586 13590	mice
+T364	Biological_Activity 13630 13640	inhibition
+T365	Protein 13644 13646	RR
+T366	Chemical 13671 13674	HUr
+T367	Chemical 13694 13698	3-AP
+T368	Chemical 13766 13770	3-AP
+T369	Biological_Activity 13777 13791	antineoplastic
+T370	Chemical 13792 13797	agent

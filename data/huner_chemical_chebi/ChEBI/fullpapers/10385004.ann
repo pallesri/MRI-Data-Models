@@ -1,0 +1,399 @@
+T1	Chemical 1 28	Dinucleoside polyphosphates
+T2	Chemical 30 35	Npn N
+T3	Biological_Activity 75 84	metabolic
+T4	Biological_Activity 105 114	signaling
+T5	Chemical 123 149	Diadenosine tetraphosphate
+T6	Metabolite 123 149	Diadenosine tetraphosphate
+T7	Chemical 151 156	Ap4 A
+T8	Metabolite 151 156	Ap4 A
+T9	Species 213 224	prokaryotic
+T10	Species 229 239	eukaryotic
+R1	Isolated_From Arg1:T8 Arg2:T9	
+R2	Isolated_From Arg1:T8 Arg2:T10	
+R3	Isolated_From Arg1:T6 Arg2:T9	
+R4	Isolated_From Arg1:T6 Arg2:T10	
+T11	Chemical 281 286	Ap4 A
+T12	Metabolite 281 286	Ap4 A
+T13	Chemical 288 293	Ap5 A
+T14	Metabolite 288 293	Ap5 A
+T15	Chemical 298 303	Ap6 A
+T16	Metabolite 298 303	Ap6 A
+T17	Species 347 352	human
+T18	Species 385 388	rat
+T19	Species 452 458	bovine
+R5	Isolated_From Arg1:T16 Arg2:T17	
+R6	Isolated_From Arg1:T16 Arg2:T18	
+R7	Isolated_From Arg1:T16 Arg2:T19	
+R8	Isolated_From Arg1:T14 Arg2:T17	
+R9	Isolated_From Arg1:T14 Arg2:T18	
+R10	Isolated_From Arg1:T14 Arg2:T19	
+R11	Isolated_From Arg1:T12 Arg2:T17	
+R12	Isolated_From Arg1:T12 Arg2:T18	
+R13	Isolated_From Arg1:T12 Arg2:T19	
+T20	Chemical 514 517	ATP
+T21	Metabolite 514 517	ATP
+T22	Chemical 637 642	Ap4 A
+T23	Metabolite 637 642	Ap4 A
+T24	Biological_Activity 713 721	stimulus
+T25	Chemical 762 765	ATP
+T26	Metabolite 762 765	ATP
+T27	Chemical 806 809	ATP
+T28	Metabolite 806 809	ATP
+T29	Chemical 832 837	Ap4 A
+T30	Metabolite 832 837	Ap4 A
+T31	Biological_Activity 853 861	degraded
+T32	Chemical 909 912	ATP
+T33	Metabolite 909 912	ATP
+T34	Chemical 917 922	Ap4 A
+T35	Metabolite 917 922	Ap4 A
+T36	Biological_Activity 927 937	hydrolyzed
+T37	Protein 941 959	phosphodiesterases
+T38	Protein 974 986	phosphatases
+T39	Protein 991 1004	nucleotidases
+T40	Chemical 1009 1012	ATP
+T41	Metabolite 1009 1012	ATP
+T42	Chemical 1075 1078	ATP
+T43	Metabolite 1075 1078	ATP
+T44	Biological_Activity 1109 1118	inhibitor
+T45	Biological_Activity 1126 1137	degradation
+T46	Chemical 1141 1146	Ap4 A
+T47	Metabolite 1141 1146	Ap4 A
+R14	Associated_With Arg1:T43 Arg2:T44	
+R15	Associated_With Arg1:T42 Arg2:T44	
+T48	Chemical 1209 1214	Ap4 A
+T49	Metabolite 1209 1214	Ap4 A
+T50	Chemical 1323 1326	ATP
+T51	Metabolite 1323 1326	ATP
+T52	Chemical 1332 1358	diadenosine polyphosphates
+T53	Chemical 1370 1392	products of hydrolysis
+T54	Protein 1432 1448	purine receptors
+T55	Protein 1450 1453	P2X
+T56	Protein 1456 1459	P2Y
+T57	Protein 1462 1465	P2D
+T58	Protein 1468 1470	P4
+T59	Protein 1476 1478	P1
+T60	Biological_Activity 1615 1632	neurotransmission
+T61	Biological_Activity 1644 1664	platelet aggregation
+T62	Chemical 1672 1679	glucose
+T63	Biological_Activity 1680 1691	metabolism 
+T64	Chemical 1780 1807	dinucleoside polyphosphates
+T65	Metabolite 1332 1358	diadenosine polyphosphates
+T66	Metabolite 1370 1392	products of hydrolysis
+T67	Metabolite 1780 1807	dinucleoside polyphosphates
+T68	Biological_Activity 1815 1827	pathogenesis
+T69	Chemical 1942 1945	ATP
+T70	Metabolite 1942 1945	ATP
+T71	Chemical 2017 2035	chemical analogues
+T72	Biological_Activity 2103 2118	vasoconstrictor
+T73	Chemical 2139 2164	diadenosine hexaphosphate
+T74	Metabolite 2139 2164	diadenosine hexaphosphate
+T75	Chemical 2166 2171	Ap6 A
+T76	Metabolite 2166 2171	Ap6 A
+T77	Chemical 2177 2203	diadenosine pentaphosphate
+T78	Metabolite 2177 2203	diadenosine pentaphosphate
+T79	Species 2237 2240	rat
+T80	Chemical 2205 2210	Ap5 A
+T81	Metabolite 2205 2210	Ap5 A
+R16	Associated_With Arg1:T74 Arg2:T72	
+R17	Associated_With Arg1:T73 Arg2:T72	
+R18	Associated_With Arg1:T76 Arg2:T72	
+R19	Associated_With Arg1:T75 Arg2:T72	
+R20	Associated_With Arg1:T78 Arg2:T72	
+R21	Associated_With Arg1:T77 Arg2:T72	
+R22	Associated_With Arg1:T81 Arg2:T72	
+R23	Associated_With Arg1:T80 Arg2:T72	
+T82	Chemical 2309 2314	Ap6 A
+T83	Metabolite 2309 2314	Ap6 A
+T84	Chemical 2319 2324	Ap5 A
+T85	Metabolite 2319 2324	Ap5 A
+T87	Species 2338 2345	firefly
+T88	Protein 2346 2356	luciferase
+T89	Protein 2407 2413	enzyme
+T90	Species 2456 2465	fireflies
+T91	Species 2477 2484	mammals
+T92	Chemical 2516 2521;2528 2552	mono- nucleoside polyphosphate
+T93	Chemical 2526 2552	dinucleoside polyphosphate
+T94	Chemical 2565 2589	adenosine tetraphosphate
+T95	Chemical 2591 2595	p4 A
+T96	Chemical 2598 2622	adenosine pentaphosphate
+T97	Chemical 2624 2628	p5 A
+T98	Chemical 2631 2636	Ap4 A
+T99	Metabolite 2631 2636	Ap4 A
+T100	Metabolite 2638 2643	Ap5 A
+T101	Chemical 2638 2643	Ap5 A
+T102	Chemical 2657 2691	heterodinucleoside tetraphosphates
+T103	Chemical 2693 2698	Ap4 N
+T104	Protein 2703 2722	acyl-CoA synthetase
+T105	Species 2728 2745	Pseudomonas fragi
+T106	Protein 2839 2845	enzyme
+T107	Biological_Activity 2889 2899	vasoactive
+T108	Chemical 2900 2925	diadenosine hexaphosphate
+T109	Metabolite 2900 2925	diadenosine hexaphosphate
+T110	Chemical 2927 2932	Ap6 A
+T111	Metabolite 2927 2932	Ap6 A
+R24	Associated_With Arg1:T109 Arg2:T107	
+R25	Associated_With Arg1:T108 Arg2:T107	
+R26	Associated_With Arg1:T111 Arg2:T107	
+R27	Associated_With Arg1:T110 Arg2:T107	
+T112	Species 3004 3021	Pseudomonas fragi
+T113	Protein 3023 3042	acyl-CoA synthetase
+T114	Chemical 3173 3178	Hepes
+T115	Chemical 3179 3182	KOH
+T116	Chemical 3200 3214	dithiothreitol
+T117	Chemical 3219 3227	glycerol
+T118	Species 3237 3243	bovine
+T119	Protein 3237 3257	bovine serum albumin
+T120	Chemical 3259 3273	Dithiothreitol
+T121	Chemical 3275 3302	ammonium tetrapolyphosphate
+T122	Chemical 3304 3306	P4
+T123	Chemical 3313 3324	nucleotides
+T124	Species 3342 3348	Bovine
+T125	Protein 3342 3362	Bovine serum albumin
+T126	Protein 3395 3412	phosphodiesterase
+T127	Species 3418 3435	Crotalus durissus
+T128	Protein 3461 3481	alkaline phosphatase
+T129	Species 3500 3504	calf
+T130	Chemical 3542 3567	inorganic pyrophosphatase
+T131	Species 3586 3591	yeast
+T132	Protein 3669 3698	dinucleoside tetraphosphatase
+T133	Species 3717 3720	rat
+T134	Protein 3765 3780	Pyrophosphatase
+T135	Chemical 3959 3964	Water
+T136	Chemical 4134 4139	Ap6 A
+T137	Metabolite 4134 4139	Ap6 A
+T138	Chemical 4146 4149	ATP
+T139	Chemical 4154 4156	P4
+T140	Protein 4175 4194	acyl-CoA synthetase
+T141	Chemical 4241 4244	MES
+T142	Chemical 4245 4248	KOH
+T143	Chemical 4266 4280	dithiothreitol
+T144	Chemical 4288 4293	MgCl2
+T145	Chemical 4303 4306	ATP
+T146	Chemical 4313 4315	P4
+T147	Protein 4318 4337	acyl-CoA synthetase
+T148	Species 4343 4360	Pseudomonas fragi
+T149	Chemical 4388 4412	desalted pyrophosphatase
+T150	Chemical 4520 4525	water
+T151	Chemical 4744 4760	sodium phosphate
+T152	Chemical 4779 4805	tetrabutylammonium bromide
+T153	Chemical 4810 4818	methanol
+T154	Chemical 4883 4899	sodium phosphate
+T155	Chemical 4959 4964	Ap6 A
+T156	Metabolite 4959 4964	Ap6 A
+T157	Chemical 5130 5135	HEPES
+T158	Chemical 5136 5139	KOH
+T159	Protein 5169 5176	protein
+T160	Chemical 5180 5200	alkaline phosphatase
+T161	Chemical 5419 5427	NH4 HCO3
+T162	Chemical 5489 5494	Ap6 A
+T163	Metabolite 5489 5494	Ap6 A
+T164	Chemical 5687 5692	Ap6 A
+T165	Metabolite 5687 5692	Ap6 A
+T166	Protein 5694 5711	Phosphodiesterase
+T167	Chemical 5781 5787	Ap6 A,
+T168	Metabolite 5781 5786	Ap6 A
+T169	Chemical 5794 5799	HEPES
+T170	Chemical 5800 5803	KOH
+T171	Protein 5828 5845	phosphodiesterase
+T172	Species 5849 5866	Crotalus durissus
+T173	Protein 5905 5934	dinucleoside tetraphosphatase
+T174	Chemical 6005 6010	Ap6 A
+T175	Metabolite 6005 6010	Ap6 A
+T176	Chemical 6018 6022	Tris
+T177	Chemical 6023 6026	HCl
+T178	Chemical 6042 6047	MgCl2
+T179	Species 6053 6056	rat
+T180	Protein 6076 6105	dinucleoside tetraphosphatase
+T181	Chemical 6262 6278	sodium phosphate
+T182	Chemical 6297 6323	tetrabutylammonium bromide
+T183	Chemical 6328 6336	methanol
+T184	Protein 6491 6510	acyl-CoA synthetase
+T185	Chemical 6585 6590	Ap4 N
+T186	Chemical 6660 6670	fatty acid
+T187	Protein 6707 6713	enzyme
+T188	Chemical 6799 6804	RCOOH
+T189	Chemical 6807 6811	ATP 
+T190	Chemical 6813 6822	E.RCO-AMP
+T191	Chemical 6825 6828	Ppi
+T192	Chemical 6833 6842	E.RCO-AMP
+T193	Chemical 6845 6849	NTP 
+T194	Chemical 6855 6860	RCOOH
+T195	Chemical 6863 6868	Ap4 N
+T196	Chemical 6873 6876	ATP
+T197	Metabolite 6873 6876	ATP
+T198	Metabolite 6807 6810	ATP
+T199	Protein 6977 7001	nucleoside triphosphates
+T200	Chemical 7031 7034	AMP
+T201	Chemical 7098 7131	heterodinucleoside polyphosphates
+T202	Chemical 7133 7138	Ap4 N
+T203	Chemical 7147 7151;7161 7175	Tri- polyphosphates
+T204	Chemical 7156 7175	tetrapolyphosphates
+T205	Chemical 7177 7179	P3
+T206	Chemical 7185 7187	P4
+T207	Biological_Activity 7199 7207	acceptor
+T208	Chemical 7240 7244	p4 A
+T209	Chemical 7249 7253	p5 A
+R28	Associated_With Arg1:T206 Arg2:T207	
+R29	Associated_With Arg1:T205 Arg2:T207	
+R30	Associated_With Arg1:T203 Arg2:T207	
+R31	Associated_With Arg1:T204 Arg2:T207	
+T210	Chemical 7292 7297	Ap6 A
+T211	Metabolite 7292 7297	Ap6 A
+T212	Chemical 7324 7327	ATP
+T213	Chemical 7332 7336	p5 A
+T214	Biological_Activity 7340 7345	donor
+T215	Biological_Activity 7350 7358	acceptor
+T216	Chemical 7362 7365	AMP
+R32	Associated_With Arg1:T212 Arg2:T214	
+R33	Associated_With Arg1:T213 Arg2:T215	
+T217	Chemical 7396 7400	p5 A
+T218	Protein 7448 7454	enzyme
+T219	Chemical 7467 7471	p5 A
+T220	Chemical 7477 7480	ATP
+T221	Metabolite 7477 7480	ATP
+T222	Chemical 7485 7487	P4
+T223	Chemical 7526 7529	ATP
+T224	Metabolite 7526 7529	ATP
+T225	Chemical 7534 7536	P4
+T226	Chemical 7689 7693	p5 A
+T227	Chemical 7873 7877	p5 A
+T228	Chemical 8031 8036	Ap6 A
+T229	Metabolite 8031 8036	Ap6 A
+T230	Chemical 8151 8156	Ap6 A
+T231	Metabolite 8151 8156	Ap6 A
+T232	Protein 8175 8182	protein
+T233	Chemical 8267 8272	Ap4 A
+T234	Metabolite 8267 8272	Ap4 A
+T235	Chemical 8325 8328	ATP
+T236	Metabolite 8325 8328	ATP
+T237	Biological_Activity 8332 8337	donor
+T238	Biological_Activity 8342 8350	acceptor
+T239	Chemical 8354 8363	adenylate
+T240	Chemical 8377 8381	p4 A
+T241	Chemical 8395 8400;8402 8404	Ap5 A d5
+T242	Chemical 8439 8441	P3
+T243	Chemical 8497 8499	P4
+T244	Protein 8548 8554	enzyme
+T245	Chemical 8584 8587	ATP
+T246	Metabolite 8584 8587	ATP
+T247	Chemical 8593 8596	ADP
+T248	Chemical 8610 8613	AMP
+T249	Chemical 8673 8678	Ap6 A
+T250	Metabolite 8673 8678	Ap6 A
+T251	Chemical 8744 8749	Ap6 A
+T252	Metabolite 8744 8749	Ap6 A
+T253	Protein 8783 8790	enzymes
+T254	Protein 8872 8892	alkaline phosphatase
+T255	Chemical 8988 8997	adenosine
+T256	Chemical 8999 9004	Ap4 A
+T257	Metabolite 8999 9004	Ap4 A
+T258	Chemical 9006 9011	Ap5 A
+T259	Metabolite 9006 9011	Ap5 A
+T260	Chemical 9016 9021	Ap6 A
+T261	Metabolite 9016 9021	Ap6 A
+T262	Chemical 9084 9089	Ap6 A
+T263	Metabolite 9084 9089	Ap6 A
+T264	Chemical 9266 9271	Ap6 A
+T265	Metabolite 9266 9271	Ap6 A
+T266	Chemical 9299 9304	Ap6 A
+T267	Metabolite 9299 9304	Ap6 A
+T268	Protein 9333 9350	phosphodiesterase
+T269	Species 9356 9373	Crotalus durissus
+T270	Protein 9396 9425	dinucleoside tetraphosphatase
+T271	Protein 9461 9478	phosphodiesterase
+T272	Chemical 9502 9505	AMP
+T273	Chemical 9510 9514	p5 A
+T274	Protein 9558 9587	dinucleoside tetraphosphatase
+T275	Chemical 9633 9636	ATP
+T276	Metabolite 9633 9636	ATP
+T277	Protein 9675 9694	acyl-CoA synthetase
+T278	Species 9700 9717	Pseudomonas fragi
+T279	Chemical 9757 9762	Ap6 A
+T280	Metabolite 9757 9762	Ap6 A
+T281	Chemical 9764 9769	Ap5 A
+T282	Metabolite 9764 9769	Ap5 A
+T283	Chemical 9774 9779	Ap4 A
+T284	Metabolite 9774 9779	Ap4 A
+T285	Protein 9815 9822	enzymes
+T286	Protein 9831 9842	synthetases
+T287	Protein 9852 9864	transferases
+T288	Chemical 9882 9890	adenylyl
+T289	Chemical 9936 9939	PPi
+T290	Protein 9961 9967	enzyme
+T291	Chemical 10006 10011	Ap4 N
+T292	Protein 10035 10042	enzymes
+T293	Chemical 10111 10115	p4 A
+T294	Chemical 10117 10121	p5 A
+T295	Chemical 10123 10128	Ap5 A
+T296	Metabolite 10123 10128	Ap5 A
+T297	Chemical 10133 10138	Ap6 A
+T298	Metabolite 10133 10138	Ap6 A
+T299	Protein 10176 10202	aminoacyl-tRNA synthetases
+T300	Chemical 10229 10234	Ap4 A
+T301	Metabolite 10229 10234	Ap4 A
+T302	Chemical 10241 10244	ATP
+T303	Metabolite 10241 10244	ATP
+T304	Chemical 10248 10256	adenylyl
+T305	Biological_Activity 10257 10262	donor
+T306	Biological_Activity 10267 10275	acceptor
+T307	Chemical 10333 10336	ATP
+T308	Metabolite 10333 10336	ATP
+T309	Chemical 10341 10343	P3
+T310	Protein 10345 10366	lysil-tRNA synthetase
+T311	Species 10372 10379	E. coli
+T312	Chemical 10411 10415	p4 A
+T313	Chemical 10440 10444	p4 A
+T314	Chemical 10448 10452	p5 A
+T315	Chemical 10458 10461	ATP
+T316	Metabolite 10458 10461	ATP
+T317	Chemical 10466 10468	P3
+T318	Chemical 10473 10475	P4
+T319	Species 10526 10531	yeast
+T320	Protein 10532 10553	acetyl-CoA synthetase
+T321	Protein 10572 10582	luciferase
+T86	Species 10564 10571	firefly
+T322	Chemical 10638 10643	Ap5 A
+T323	Metabolite 10638 10643	Ap5 A
+T324	Chemical 10648 10653	Ap6 A
+T325	Metabolite 10648 10653	Ap6 A
+T326	Protein 10814 10821	enzymes
+T327	Chemical 10836 10844	adenylyl
+T328	Biological_Activity 10845 10850	donor
+T329	Chemical 10851 10854	ATP
+T330	Metabolite 10851 10854	ATP
+T331	Chemical 10871 10879	adenylyl
+T332	Chemical 10890 10894	p4 A
+T333	Chemical 10899 10903	p5 A
+T334	Chemical 10907 10909	P3
+T335	Chemical 10915 10917	P4
+T336	Chemical 10976 10980	p4 A
+T337	Metabolite 10976 10980	p4 A
+T338	Species 10995 11000	horse
+T339	Species 11005 11011	rabbit
+R34	Isolated_From Arg1:T337 Arg2:T338	
+R35	Isolated_From Arg1:T337 Arg2:T339	
+T340	Chemical 11081 11095	polyphosphates
+T341	Metabolite 11081 11095	polyphosphates
+T342	Species 11099 11108	mammalian
+R36	Isolated_From Arg1:T341 Arg2:T342	
+T343	Chemical 11206 11211	Ap6 A
+T344	Metabolite 11206 11211	Ap6 A
+T345	Protein 11229 11236	enzymes
+T346	Protein 11277 11304	dinucleoside polyphosphates
+T347	Chemical 11454 11459	Ap6 A
+T348	Metabolite 11454 11459	Ap6 A
+T349	Protein 11473 11492	acyl-CoA synthetase
+T350	Species 11498 11515	Pseudomonas fragi
+T351	Chemical 11600 11613	palmitoyl-CoA
+T352	Chemical 11664 11669	Ap4 A
+T353	Metabolite 11664 11669	Ap4 A
+T354	Chemical 11690 11704	aminoacyl-tRNA
+T355	Protein 11754 11779	methionyl-tRNA synthetase
+T356	Protein 11744 11749;11763 11779	valyl -tRNA synthetase
+T357	Species 11786 11793	E. coli
+T358	Chemical 11896 11901	Ap4 N
+T359	Protein 11930 11937	enzymes
+T360	Protein 11945 11965	Acyl-CoA synthetases
+T361	Protein 12097 12117	acyl-CoA synthetases
+T362	Protein 12179 12186	enzymes
+T363	Chemical 12225 12251	diadenosine polyphosphates

@@ -1,0 +1,99 @@
+T1	Chemical 83 92	verapamil
+T2	Chemical 97 109	norverapamil
+T5	Protein 133 148	cytochrome P450
+T3	Chemical 68 91	enantiomers of verapami
+T4	Chemical 68 82;97 109	enantiomers of norverapamil
+T7	Biological_Activity 50 60	metabolism
+T8	Protein 222 237	Cytochrome P450
+T9	Protein 281 285	P450
+T10	Chemical 369 371;377 386	R- verapamil
+T11	Chemical 375 386	S-verapamil
+T12	Chemical 391 393;400 412	R- norverapamil
+T13	Chemical 398 412	S-norverapamil
+T15	Metabolite 417 427	metabolite
+T16	Chemical 417 427	metabolite
+T19	Metabolite 648 658	metabolite
+T20	Chemical 648 658	metabolite
+T21	Protein 679 683;685 688	P450 3A4
+T22	Protein 679 683;690 693	P450 3A5
+T23	Protein 679 683;695 698	P450 2C8
+T24	Protein 679 683;722 725	P450 2E1
+T25	Biological_Activity 747 757	metabolism
+T26	Chemical 833 838	D-617
+T27	Metabolite 833 838	D-617
+T28	Chemical 843 855	norverapamil
+T29	Metabolite 843 855	norverapamil
+T30	Protein 859 863;866 869	P450 3A4
+T31	Protein 859 863;874 877	P450 3A5
+T32	Chemical 932 955	enantiomer of verapamil
+T33	Chemical 946 955	verapamil
+T34	Protein 1036 1040	P450
+R1	Metabolite_Of Arg1:T27 Arg2:T33	
+R2	Metabolite_Of Arg1:T29 Arg2:T33	
+T35	Chemical 1070 1075	D-620
+T36	Metabolite 1070 1075	D-620
+T37	Protein 1120 1128	P450 2C8
+T38	Biological_Activity 1137 1148	metabolized
+T39	Chemical 1154 1156;1163 1172	S- verapamil
+T40	Chemical 1161 1172	R-verapamil
+T41	Chemical 1176 1181	D-617
+T42	Metabolite 1176 1181	D-617
+T43	Chemical 1183 1195	norverapamil
+T44	Metabolite 1183 1195	norverapamil
+T45	Chemical 1200 1205	PR-22
+T46	Metabolite 1200 1205	PR-22
+T47	Protein 1257 1261;1263 1266	P450 3A4
+T48	Protein 1257 1261;1271 1274	P450 3A5
+R3	Metabolite_Of Arg1:T36 Arg2:T33	
+R4	Metabolite_Of Arg1:T42 Arg2:T40	
+R5	Metabolite_Of Arg1:T42 Arg2:T39	
+R6	Metabolite_Of Arg1:T44 Arg2:T40	
+R7	Metabolite_Of Arg1:T44 Arg2:T39	
+R8	Metabolite_Of Arg1:T46 Arg2:T40	
+R9	Metabolite_Of Arg1:T46 Arg2:T39	
+T49	Protein 1308 1316	P450 2C8
+T50	Biological_Activity 1317 1327	metabolism
+T51	Chemical 1331 1333;1340 1349	S- verapamil
+T52	Chemical 1338 1349	R-verapamil
+T53	Protein 1404 1408	P450
+T54	Protein 1431 1435;1438 1441	P450 3A4
+T55	Protein 1431 1435;1446 1449	P450 3A5
+T56	Chemical 1494 1506	S-enantiomer
+T57	Biological_Activity 1476 1486	metabolism
+T58	Protein 1519 1523;1526 1529	P450 3A4
+T59	Protein 1519 1523;1531 1534	P450 3A5
+T60	Protein 1519 1523;1539 1542	P450 2C8
+T61	Biological_Activity 1561 1571	metabolism
+T62	Protein 1636 1640;1643 1646	P450 2D6
+T63	Protein 1636 1640;1651 1654	P450 2E1
+T64	Chemical 1595 1607	norverapamil
+T65	Protein 1656 1660;1662 1665	P450 3A4
+T66	Protein 1656 1660;1670 1673	P450 3A5
+T67	Chemical 1693 1709	D-620 metabolite
+T68	Metabolite 1693 1709	D-620 metabolite
+T69	Chemical 1756 1769	S-norverapami
+T70	Chemical 1784 1797	R-enantiomer.
+T71	Chemical 566 575	substrate
+R10	Metabolite_Of Arg1:T68 Arg2:T69	
+R11	Metabolite_Of Arg1:T68 Arg2:T70	
+T72	Protein 1811 1819	P450 2C8
+T73	Chemical 1838 1843;1854 1865	D-620 metabolites
+T74	Metabolite 1838 1843;1854 1864	D-620 metabolite
+T75	Chemical 1848 1864	PR-22 metabolite
+T76	Metabolite 1848 1864	PR-22 metabolite
+T77	Chemical 1890 1902	norverapamil
+T78	Chemical 1875 1902	enantiomers of norverapamil
+T79	Chemical 1955 1967	S-enantiomer
+R12	Metabolite_Of Arg1:T76 Arg2:T78	
+R13	Metabolite_Of Arg1:T74 Arg2:T78	
+T80	Protein 2009 2013;2015 2018	P450 3A4
+T81	Protein 2009 2013;2020 2023	P450 3A5
+T82	Protein 2009 2013;2028 2031	P450 2C8
+T83	Chemical 2054 2063	verapamil
+T84	Biological_Activity 2064 2074	metabolism
+T85	Chemical 2096 2108	norverapamil
+T86	Biological_Activity 2129 2140	metabolized
+T87	Protein 2148 2153	P450s
+T6	Chemical 780 789	verapamil
+T14	Chemical 765 789	enantiomers of verapamil
+T17	Chemical 1580 1606	enantiomers of norverapami

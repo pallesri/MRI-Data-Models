@@ -1,0 +1,504 @@
+T1	Chemical 6 20	d -amino acids
+T2	Species 92 99	mammals
+T3	Species 124 130	humans
+T4	Metabolite 154 166	d -aspartate
+T5	Chemical 257 271	d -amino acids
+T6	Chemical 359 371	d -aspartate
+T7	Chemical 399 411	d -aspartate
+T8	Species 446 453	mammals
+T9	Chemical 520 532	d -aspartate
+T10	Chemical 639 653	d -amino acids
+T11	Chemical 701 713	d -aspartate
+T12	Chemical 762 784	N -methyl-d -aspartate
+T13	Chemical 154 166	d -aspartate
+T14	Metabolite 359 371	d -aspartate
+T15	Metabolite 399 411	d -aspartate
+R1	Isolated_From Arg1:T15 Arg2:T8	
+T16	Metabolite 520 532	d -aspartate
+T17	Metabolite 701 713	d -aspartate
+T18	Biological_Activity 805 813	agonists
+T19	Biological_Activity 817 828	antagonists
+T20	Chemical 1025 1037	d -aspartate
+T21	Metabolite 1025 1037	d -aspartate
+T22	Biological_Activity 1076 1086	metabolism
+T23	Species 1090 1097	mammals
+T24	Protein 1117 1129	flavoprotein
+T25	Protein 1135 1155	d -aspartate oxidase
+T26	Biological_Activity 1148 1155	oxidase
+T27	Species 1214 1218	beef
+T28	Species 1267 1272	human
+T29	Species 1302 1306	beef
+T30	Protein 1290 1296	enzyme
+T31	Protein 1322 1328	bDASPO
+T32	Chemical 1411 1414	FAD
+T33	Biological_Activity 1415 1422	binding
+T34	Protein 1481 1487	enzyme
+T35	Protein 1563 1574	apo-protein
+T36	Chemical 1603 1609	flavin
+T37	Chemical 1668 1671	FAD
+T38	Protein 1673 1683	FAD-bDASPO
+T39	Chemical 1755 1763	6-OH-FAD
+T40	Protein 1765 1780	6-OH-FAD-bDASPO
+T41	Protein 1787 1793	enzyme
+T42	Chemical 1833 1860	dicarboxylic d -amino acids
+T43	Chemical 1864 1868	O2  
+T44	Chemical 1891 1893	H2
+T45	Chemical 1894 1896	O2
+T46	Chemical 1899 1904	NH3  
+T47	Chemical 1926 1938	α-keto acids
+T48	Protein 1976 1982	enzyme
+T49	Protein 2066 2073	protein
+T50	Chemical 2137 2164	dicarboxylic d -amino acids
+T51	Protein 2241 2273	recombinant d -aspartate oxidase
+T52	Protein 2275 2281	rDASPO
+T53	Species 2286 2302	Escherichia coli
+T54	Protein 2492 2498	rDASPO
+T55	Protein 2540 2558	recombinant enzyme
+T56	Protein 2570 2576	rDASPO
+T57	Protein 2620 2626	bDASPO
+T58	Protein 2696 2701	DASPO
+T59	Protein 2804 2809	DASPO
+T60	Biological_Activity 2893 2901	agonists
+T61	Biological_Activity 2905 2916	antagonists
+T62	Protein 3009 3015	rDASPO
+T63	Species 3016 3030	E. coli  GI724
+T64	Species 3227 3233	bovine
+T65	Protein 3227 3261	bovine kidney d -aspartate oxidase
+T66	Chemical 3331 3339	Na2 HPO4
+T67	Chemical 3346 3353	KH2 PO4
+T68	Chemical 3362 3366	NaCl
+T69	Chemical 3372 3378	NH4 Cl
+T70	Chemical 3389 3394	MgCl2
+T71	Chemical 3402 3416	casamino acids
+T72	Chemical 3424 3432	glycerol
+T73	Chemical 3459 3469	ampicillin
+T74	Species 3528 3533	GI724
+T75	Chemical 3650 3658	Na2 HPO4
+T76	Chemical 3665 3672	KH2 PO4
+T77	Chemical 3681 3685	NaCl
+T78	Chemical 3691 3697	NH4 Cl
+T79	Chemical 3708 3713	MgCl2
+T80	Chemical 3720 3734	casamino acids
+T81	Chemical 3740 3747	glucose
+T82	Chemical 3775 3785	ampicillin
+T83	Chemical 3926 3936	tryptophan
+T84	Chemical 4114 4118	NaCl
+T85	Chemical 4255 4259	EDTA
+T86	Chemical 4269 4294	sodium potassium tartrate
+T87	Chemical 4367 4371	NaPi
+T88	Chemical 4386 4415	phenylmethylsulfonyl fluoride
+T89	Chemical 4423 4426	FAD
+T90	Chemical 4479 4496	Protamine sulfate
+T91	Chemical 4709 4713	NaPi
+T92	Chemical 4739 4761	Phenyl-Sepharose CL-4B
+T93	Species 4739 4761	Phenyl-Sepharose CL-4B
+T94	Chemical 3316 3325	RM medium
+T95	Chemical 4901 4905	NaPi
+T96	Chemical 4985 4988	FAD
+T97	Chemical 4996 4999	MES
+T98	Chemical 5199 5202	MES
+T100	Chemical 5317 5321	NaCl
+T101	Chemical 5400 5405	HEPES
+T102	Chemical 5421 5445	odium potassium tartrate
+T103	Chemical 5454 5458	EDTA
+T104	Chemical 5466 5469	FAD
+T99	Protein 5511 5517	enzyme
+T105	Chemical 5583 5586	FAD
+T106	Chemical 5591 5599	tartrate
+T107	Chemical 5657 5662	PD-10
+T108	Chemical 5711 5716	HEPES
+T109	Chemical 5737 5740	KPi
+T110	Protein 5769 5788	recombinant protein
+T111	Protein 5883 5889	enzyme
+T112	Species 5895 5899	beef
+T113	Chemical 5959 5965	Mono Q
+T114	Chemical 6105 6111	Mono S
+T115	Biological_Activity 6332 6339	oxidase
+T116	Chemical 6445 6462	hydrogen peroxide
+T117	Protein 6470 6475	DASPO
+T118	Chemical 6517 6531	o -dianisidine
+T119	Protein 6535 6557	horseradish peroxidase
+T120	Chemical 6622 6642	o -dianisidine-2 HCl
+T121	Chemical 6652 6655	FAD
+T122	Protein 6663 6685	horseradish peroxidase
+T123	Chemical 6737 6749	d -aspartate
+T124	Metabolite 6737 6749	d -aspartate
+T125	Chemical 6768 6771	KPi
+T126	Protein 6850 6856	rDASPO
+T127	Protein 6912 6918	enzyme
+T128	Protein 7029 7035	rDASPO
+T129	Biological_Activity 7056 7065	inhibitor
+T130	Chemical 7120 7132	d -aspartate
+T131	Metabolite 7120 7132	d -aspartate
+T132	Biological_Activity 7168 7177	inhibitor
+T133	Protein 7185 7192	Protein
+T134	Protein 7201 7208	Protein
+T135	Protein 7316 7323	protein
+T136	Protein 7347 7353	enzyme
+T137	Protein 7442 7448	enzyme
+T138	Chemical 7489 7492	FAD
+T139	Protein 7493 7499	bDASPO
+R2	Binds_With Arg1:T138 Arg2:T139	
+T140	Protein 7484 7499	holo-FAD-bDASPO
+T141	Chemical 7532 7547	l -(+)-tartrate
+T142	Protein 7548 7554	bDASPO
+R3	Binds_With Arg1:T141 Arg2:T142	
+T143	Protein 7532 7554	l -(+)-tartrate-bDASPO
+T144	Protein 7728 7739	holo-enzyme
+T145	Chemical 7796 7799	KPi
+T146	Chemical 7816 7820	EDTA
+T147	Chemical 7836 7839	KBr
+T148	Chemical 7849 7857	charcoal
+T149	Chemical 7924 7927	KBr
+T150	Chemical 7932 7940	charcoal
+T151	Protein 7970 7990	d -aspartate oxidase
+T152	Chemical 7970 7982	d -aspartate
+T153	Metabolite 7970 7982	d -aspartate
+T154	Protein 8014 8020	rDASPO
+T155	Chemical 8052 8055	KPi
+T156	Chemical 8109 8121	(+)-tartrate
+T157	Chemical 8191 8196	argon
+T158	Chemical 8221 8227	oxygen
+T159	Protein 8360 8367	protein
+T160	Chemical 8423 8427	EDTA
+T161	Chemical 8436 8461	5-deazaflavin-3-sulfonate
+T162	Chemical 8483 8497	benzylviologen
+T163	Protein 8642 8648	rDASPO
+T164	Protein 8675 8681	enzyme
+T165	Protein 8751 8767	xanthine oxidase
+T166	Chemical 8795 8803	xanthine
+T167	Chemical 8808 8822	benzylviologen
+T169	Protein 8988 8994	enzyme
+T170	Protein 9057 9063	enzyme
+T171	Protein 9149 9155	enzyme
+T172	Chemical 9183 9198	l -(+)-tartrate
+T173	Protein 9381 9387	enzyme
+T168	Chemical 9492 9498	enzyme
+T174	Protein 9562 9580	semiquinone rDASPO
+T175	Protein 9574 9580	rDASPO
+T176	Protein 9681 9687	rDASPO
+T177	Chemical 9697 9700	KPi
+T178	Chemical 9717 9742	5-deazaflavin-3-sulfonate
+T179	Chemical 9750 9754	EDTA
+T180	Chemical 9764 9778	benzylviologen
+T181	Protein 9891 9906	oxidized enzyme
+T182	Protein 10079 10087;10113 10119	oxidized enzyme
+T183	Protein 10089 10100;10113 10119	semiquinone enzyme
+T184	Protein 10105 10119	reduced enzyme
+T185	Protein 10232 10238	rDASPO
+T186	Chemical 10316 10324	xanthine
+T187	Protein 10326 10342	xanthine oxidase
+T188	Chemical 10375 10389	benzylviologen
+T189	Protein 10488 10494	enzyme
+T190	Chemical 10654 10657	ITS
+#1	AnnotatorNotes T190	indigotrisulfonate
+T191	Chemical 10698 10701	ITS
+T192	Chemical 10708 10711	IDS
+T193	Chemical 10780 10783	IDS
+T194	Protein 10720 10727	+rDASPO
+T195	Chemical 10790 10793	IDS
+T196	Protein 10803 10818	l -(+)-tartrate
+T197	Protein 10666 10673	+rDASPO
+T198	Protein 10819 10825	rDASPO
+T199	Chemical 10840 10843	HNQ
+T200	Chemical 10853 10868	l -(+)-tartrate
+T201	Protein 10869 10875	rDASPO
+T202	Chemical 11151 11172	N-Terminal amino acid
+T203	Chemical 11296 11299	FAD
+T204	Protein 11358 11374	Xanthine oxidase
+T205	Protein 11401 11407	bDASPO
+T206	Species 11426 11430	beef
+T207	Chemical 11468 11493	5-Deazaflavin-3-sulfonate
+T208	Protein 11701 11707	rDASPO
+T209	Protein 11712 11718	bDASPO
+T210	Protein 11769 11775	rDASPO
+T211	Species 11802 11809	E. coli
+T212	Protein 11824 11830	rDASPO
+T213	Chemical 11891 11894	FAD
+T214	Protein 11914 11920	bDASPO
+T215	Chemical 11959 11962	FAD
+T216	Chemical 11990 11998	6-OH-FAD
+T217	Protein 12041 12047	rDASPO
+T218	Protein 12095 12101	bDASPO
+T219	Protein 12167 12173	rDASPO
+T220	Protein 12211 12217	bDASPO
+T221	Protein 12285 12291	rDASPO
+T222	Protein 12346 12352	bDASPO
+T223	Chemical 12253 12271	N-terminal residue
+T224	Chemical 12388 12410	N-terminal Met residue
+T225	Protein 12414 12420	rDASPO
+T226	Protein 12457 12463	bDASPO
+T227	Protein 12505 12511	rDASPO
+T228	Protein 12516 12522	bDASPO
+T229	Spectral_Data 12475 12501	visible absorption spectra
+T230	Protein 12763 12769	bDASPO
+T231	Spectral_Data 12949 12976	visible absorption spectrum
+T232	Protein 12980 12986	rDASPO
+T233	Chemical 12910 12918	6-OH-FAD
+T234	Protein 12922 12928	bDASPO
+T235	Spectral_Data 12631 12738	long wavelength absorption (centered around 610 nm) and the pronounced shoulders around 440, 360 and 340 nm
+R4	Associated_With Arg1:T233 Arg2:T235	
+T236	Protein 13005 13015	apo-bDASPO
+T237	Chemical 13035 13038	FAD
+T238	Chemical 13250 13258	6-OH-FAD
+T239	Protein 13280 13286	rDASPO
+T240	Chemical 13369 13372	FAD
+T241	Chemical 13385 13393	6-OH-FAD
+T242	Protein 13400 13406	bDASPO
+T243	Chemical 13478 13481	FAD
+T244	Chemical 13514 13522	6-OH-FAD
+T245	Protein 13531 13537	rDASPO
+T246	Protein 13682 13688	enzyme
+T247	Protein 13737 13747	FAD-bDASPO
+T248	Chemical 13737 13740	FAD
+T249	Protein 13741 13747	bDASPO
+T250	Protein 13749 13755	rDASPO
+T251	Chemical 13762 13768	flavin
+T252	Biological_Activity 13783 13790	Binding
+T253	Protein 13794 13804	apo-rDASPO
+T254	Chemical 13808 13811	FAD
+R5	Associated_With Arg1:T254 Arg2:T252	
+R6	Binds_With Arg1:T254 Arg2:T253	
+T255	Chemical 13919 13922	FAD
+T256	Protein 13923 13929	bDASPO
+T257	Protein 13919 13929	FAD-bDASPO
+R7	Binds_With Arg1:T255 Arg2:T256	
+T259	Protein 13956 13962	rDASPO
+T258	Chemical 13968 13983	l -(+)-tartrate
+T260	Chemical 13998 14005	sulfite
+T261	Chemical 14063 14066	FAD
+T262	Protein 14067 14073	bDASPO
+T263	Protein 14063 14073	FAD-bDASPO
+R8	Binds_With Arg1:T261 Arg2:T262	
+T264	Protein 14137 14156	recombinant protein
+T265	Chemical 14191 14194	FAD
+T266	Protein 14218 14224	enzyme
+T267	Protein 14323 14329	rDASPO
+T268	Chemical 14334 14349	l -(+)-tartrate
+T269	Chemical 14353 14360	sulfite
+T270	Chemical 14458 14461	FAD
+T271	Protein 14462 14468	bDASPO
+T272	Protein 14458 14468	FAD-bDASPO
+T273	Protein 14527 14538	Apo-protein
+T274	Protein 14555 14566	holo-enzyme
+T275	Chemical 14636 14639	FAD
+T276	Protein 14645 14651	rDASPO
+T277	Protein 14672 14683	apo-protein
+T278	Protein 14752 14763	holo-enzyme
+T279	Chemical 14779 14782	FAD
+T280	Protein 14852 14858	rDASPO
+T281	Protein 14955 14961	bDASPO
+T282	Chemical 15019 15027	6-OH-FAD
+T283	Protein 15033 15039	bDASPO
+T284	Protein 15071 15077	rDASPO
+T285	Protein 15127 15133	enzyme
+T286	Protein 15350 15356	rDASPO
+T287	Chemical 15397 15412	l -(+)-tartrate
+T288	Protein 15451 15457	rDASPO
+T289	Chemical 15468 15476	xanthine
+T290	Protein 15477 15493	xanthine oxidase
+T292	Chemical 15303 15314	semiquinone
+T293	Chemical 15548 15567	anionic semiquinone
+T294	Protein 15662 15668	enzyme
+T296	Chemical 15837 15848	semiquinone
+T297	Protein 15950 15956	enzyme
+T298	Chemical 16038 16049	semiquinone
+T299	Chemical 16161 16172	semiquinone
+T300	Chemical 16278 16285	radical
+T301	Protein 16387 16393	enzyme
+T302	Chemical 16462 16476	benzylviologen
+T303	Chemical 16555 16566	semiquinone
+T304	Chemical 16620 16631	semiquinone
+T305	Protein 16829 16835	enzyme
+T306	Chemical 16968 16983	l -(+)-tartrate
+T307	Chemical 17039 17047	xanthine
+T308	Protein 17048 17064	xanthine oxidase
+T309	Chemical 17072 17076	EDTA
+T291	Chemical 17198 17213	l -(+)-tartrate
+T295	Protein 17214 17220	rDASPO
+T310	Chemical 17263 17271	xanthine
+T311	Protein 17272 17288	xanthine oxidase
+T312	Protein 17372 17378	rDASPO
+T313	Chemical 17383 17398	l -(+)-tartrate
+T314	Protein 17399 17405	rDASPO
+T315	Chemical 17423 17426	KPi
+T316	Protein 17474 17480	enzyme
+T317	Chemical 17502 17505	ITS
+T318	Chemical 17510 17513	IDS
+T319	Chemical 17566 17577	semiquinone
+T320	Chemical 17736 17739	IDS
+T321	Chemical 17764 17775	semiquinone
+T322	Chemical 18133 18136	ITS
+T323	Chemical 18225 18236	semiquinone
+T324	Chemical 18308 18311	FAD
+T325	Protein 18346 18352	rDASPO
+T326	Biological_Activity 18335 18342	binding
+T327	Chemical 17548 17551	ITS
+R9	Associated_With Arg1:T324 Arg2:T326	
+R10	Binds_With Arg1:T324 Arg2:T325	
+R11	Binds_With Arg1:T291 Arg2:T295	
+R12	Binds_With Arg1:T313 Arg2:T314	
+R13	Binds_With Arg1:T268 Arg2:T267	
+R14	Binds_With Arg1:T269 Arg2:T267	
+R15	Binds_With Arg1:T270 Arg2:T271	
+T328	Chemical 16426 16432	EFADH−
+T329	Chemical 16438 16442	EFAD
+T330	Chemical 18401 18404	FAD
+T331	Protein 18422 18429	protein
+T332	Chemical 18649 18664	l -(+)-tartrate
+T333	Protein 18760 18766	enzyme
+T334	Chemical 18856 18871	l -(+)-tartrate
+T335	Protein 18872 18878	rDASPO
+R16	Binds_With Arg1:T334 Arg2:T335	
+T336	Chemical 18901 18904	HNQ
+T337	Chemical 18893 18896	IDS
+T338	Chemical 19075 19090	l -(+)-tartrate
+T339	Protein 19103 19109	rDASPO
+T340	Chemical 19336 19351	l -(+)-tartrate
+T341	Protein 19365 19371	rDASPO
+T342	Protein 19095 19109	reduced rDASPO
+T343	Protein 19357 19371	reduced rDASPO
+T344	Protein 19456 19462	enzyme
+T345	Protein 19447 19462	oxidized enzyme
+T346	Chemical 19526 19541	l -(+)-tartrate
+T347	Chemical 19573 19588	l -(+)-tartrate
+T348	Chemical 15274 15278	EFAD
+T349	Chemical 15316 15321	EFAD−
+T350	Chemical 15358 15364	EFADH−
+T351	Chemical 16844 16849	EFAD−
+T352	Chemical 16852 16858	EFADH−
+T353	Chemical 19603 19609	EFADH−
+T354	Chemical 19663 19667	EFAD
+T355	Biological_Activity 19589 19594	binds
+T356	Protein 15264 15272;15350 15356	oxidized rDASPO
+T357	Protein 15281 15301;15350 15356	one-electron reduced rDASPO
+T358	Protein 15329 15356	two-electron reduced rDASPO
+T359	Chemical 16896 16900	EFAD
+T360	Chemical 16901 16906	EFAD−
+T361	Chemical 19725 19737	oxaloacetate
+T362	Chemical 19762 19774	d -aspartate
+T363	Biological_Activity 19811 19827	Oxidase activity
+T364	Biological_Activity 19853 19860	agonist
+T365	Protein 19862 19867	DASPO
+T366	Chemical 19893 19907	d -amino acids
+T367	Chemical 19914 19928	l -amino acids
+T368	Chemical 20010 20022	d -aspartate
+T369	Chemical 20069 20083	d -amino acids
+T370	Protein 20191 20197	enzyme
+T371	Protein 20268 20273	DASPO
+T372	Chemical 20295 20309	d -amino acids
+T373	Biological_Activity 20382 20389	agonist
+T374	Protein 20475 20480	DASPO
+T375	Chemical 20532 20544	d -aspartate
+T376	Protein 20802 20807	DASPO
+T377	Protein 20965 20970	DASPO
+T378	Biological_Activity 21010 21019	inhibitor
+T379	Chemical 21042 21054	d -aspartate
+T380	Chemical 21059 21081	N -methyl-d -aspartate
+T381	Chemical 21337 21345;21421 21426	sulfonic group
+T382	Chemical 21369 21379;21421 21426	phosphonic group
+T383	Chemical 21347 21364	d,l -cysteic acid
+T384	Chemical 21382 21419	,l -2-amino-3-phosphonopropanoic acid
+T385	Chemical 21435 21469	β-carboxylic group of d -aspartate
+T386	Chemical 21457 21469	d -aspartate
+T387	Chemical 21607 21633	d -aspartate-β-hydroxamate
+T388	Chemical 21665 21675	d -proline
+T389	Protein 21708 21714	bDASPO
+T390	Chemical 21777 21790	d -asparagine
+T391	Chemical 21795 21807	d -glutamine
+T392	Protein 21812 21817	DASPO
+T393	Species 21823 21832	Octopus  
+T394	Protein 21844 21850	bDASPO
+T395	Chemical 21891 21903	carbon chain
+T396	Chemical 21963 21975	d -glutamate
+T397	Chemical 21977 21996	d -homocysteic acid
+T398	Chemical 22026 22063	d,l -2-amino-4-phosphonobutanoic acid
+T399	Chemical 22177 22201	C6-dicarboxylic compound
+T400	Chemical 22202 22223	d -α-aminoadipic acid
+T401	Chemical 22282 22306	2,3-diaminosuccinic acid
+T402	Chemical 22315 22344	threo -β-hydroxy-d -aspartate
+T403	Protein 22368 22373	DASPO
+T404	Biological_Activity 22101 22110	inhibitor
+T405	Biological_Activity 22402 22411	inhibitor
+T406	Biological_Activity 22417 22426	oxidative
+T407	Protein 22439 22444	DASPO
+T408	Chemical 22453 22472	glycyl-d -aspartate
+T409	Protein 22664 22670	rDASPO
+T410	Protein 22760 22766	rDASPO
+T411	Species 22781 22788	E. coli
+T412	Protein 22797 22803	rDASPO
+T413	Protein 22873 22879	bDASPO
+T414	Chemical 22918 22921	FAD
+T415	Chemical 22992 22995	FAD
+T416	Chemical 23027 23035	6-OH-FAD
+T417	Protein 23122 23128	enzyme
+T418	Protein 23286 23292	bDASPO
+T419	Species 23318 23322	beef
+T420	Protein 23339 23345	rDASPO
+T421	Protein 23388 23394	bDASPO
+T422	Protein 23396 23407	apo-protein
+T423	Protein 23495 23506	holo-enzyme
+T424	Chemical 23654 23657	FAD
+T425	Protein 23732 23738	enzyme
+T426	Protein 23821 23826	DASPO
+T427	Protein 23853 23858	DASPO
+T428	Chemical 23868 23871	KPi
+T429	Protein 23922 23932	apo-enzyme
+T430	Chemical 23970 23976	flavin
+T431	Chemical 24007 24010	FAD
+T432	Protein 24061 24067	enzyme
+T433	Protein 24073 24086	dehydrogenase
+T434	Protein 24087 24094	oxidase
+T435	Protein 24187 24193	enzyme
+T436	Protein 24194 24215	d -amino acid oxidase
+T437	Protein 24264 24269	DASPO
+T438	Chemical 24356 24370	d -amino acids
+T439	Protein 24412 24419	enzymes
+T440	Protein 24626 24647	d -amino acid oxidase
+T441	Chemical 24713 24724	semiquinone
+T442	Protein 24825 24830	DASPO
+T443	Biological_Activity 24891 24900	inhibitor
+T444	Protein 24966 24973	enzymes
+T445	Protein 24996 25017	d -amino acid oxidase
+T446	Chemical 25023 25031	benzoate
+T447	Protein 25043 25048	DASPO
+T448	Chemical 25068 25083	l -(+)-tartrate
+R17	Associated_With Arg1:T446 Arg2:T443	
+R18	Binds_With Arg1:T446 Arg2:T445	
+R19	Associated_With Arg1:T448 Arg2:T443	
+R20	Binds_With Arg1:T448 Arg2:T447	
+T449	Protein 25125 25130	DASPO
+T450	Protein 25171 25191	flavoprotein oxidase
+T451	Species 25258 25265	E. coli
+T452	Protein 25258 25286	E. coli l -aspartate oxidase
+T453	Protein 25266 25286	l -aspartate oxidase
+T454	Protein 25290 25301	flavoenzyme
+T455	Chemical 25335 25347	l -aspartate
+T456	Chemical 25351 25355	O2  
+T457	Chemical 25370 25382	d -aspartate
+T458	Chemical 25467 25470	FAD
+T459	Protein 25575 25580	DASPO
+T460	Protein 25585 25605	l -aspartate oxidase
+T461	Protein 25902 25907	DASPO
+T462	Protein 25962 25982	l -aspartate oxidase
+T463	Chemical 26073 26094	pyridinic nucleotides
+T464	Species 26106 26120	microorganisms
+T465	Species 26125 26131	plants
+T466	Protein 26169 26174	DASPO
+T467	Biological_Activity 26057 26069	biosynthesis
+T468	Protein 26220 26225	DASPO
+T469	Chemical 26230 26252	dicarboxylic compounds
+T470	Biological_Activity 26310 26318	agonists
+T471	Biological_Activity 26319 26330	antagonists
+T472	Protein 26335 26366	excitatory amino acid receptors
+T473	Chemical 26431 26457	d -aspartate-β-hydroxamate
+T474	Chemical 26462 26481	glycyl-d -aspartate
+T475	Chemical 26653 26665	d -aspartate
+T476	Chemical 26667 26679	d -glutamate
+T477	Chemical 26681 26703	N -methyl-d -aspartate
+T478	Chemical 26708 26727	glycyl-d -aspartate
+T479	Biological_Activity 26883 26891	agonists
+T480	Biological_Activity 26892 26903	antagonists
+T481	Protein 26908 26939	excitatory amino acid receptors
+T482	Protein 27016 27021	DASPO
+T483	Protein 27193 27198	DASPO

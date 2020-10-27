@@ -1,0 +1,9 @@
+T1	Disease 43 76	cutaneous squamous cell carcinoma
+T2	Plant 24 31	tobacco
+T3	Plant 305 312	tobacco
+T4	Plant 517 524	tobacco
+T6	Disease 551 555	CSCC
+T7	Disease 466 470	CSCC
+T8	Disease 321 325	CSCC
+T10	Disease 78 82	CSCC
+*	Equiv T1 T10

@@ -1,0 +1,834 @@
+T1	Species 129 136	animals
+T2	Species 141 144	man
+T3	Protein 152 161	receptors
+T4	Protein 191 218	G protein-coupled receptors
+T5	Protein 259 267	proteins
+T6	Protein 436 453	odorant receptors
+T7	Protein 509 529	homologous receptors
+T8	Protein 637 646	receptors
+T9	Biological_Activity 741 748	binding
+T10	Protein 870 878	receptor
+T11	Protein 985 1002	odorant receptors
+T12	Species 1006 1012	insect
+T13	Species 1157 1166	mammalian
+T14	Protein 1167 1175	receptor
+T15	Species 1207 1210	rat
+T16	Protein 1240 1256	carrier proteins
+T17	Species 1285 1292	insects
+T18	Species 1297 1304	mammals
+T19	Protein 1377 1385	receptor
+T20	Protein 1454 1462	proteins
+T21	Chemical 1 9	Odorants
+T22	Chemical 1337 1346	pheromone
+T23	Biological_Activity 1337 1346	pheromone
+T24	Protein 1474 1481;1494 1511	odorant -binding proteins
+T25	Protein 1485 1511	pheromone-binding proteins
+T26	Protein 1513 1516	OBP
+T27	Protein 1518 1521	PBP
+T28	Species 1527 1534	insects
+T29	Protein 1540 1543	PBP
+T30	Chemical 1544 1553	pheromone
+T31	Biological_Activity 1544 1553	pheromone
+T32	Protein 1627 1635	proteins
+T33	Species 1657 1664	mammals
+T34	Protein 1666 1670	OBPs
+T35	Biological_Activity 1751 1755	bind
+T36	Chemical 1785 1799	odor molecules
+R1	Associated_With Arg1:T36 Arg2:T35	
+R2	Binds_With Arg1:T36 Arg2:T34	
+T37	Protein 1865 1869	OBPs
+T38	Protein 1982 1992	Antibodies
+T39	Protein 2045 2053	receptor
+T40	Protein 2241 2248	protein
+T41	Protein 2319 2327	receptor
+T42	Protein 2343 2353	antibodies
+T43	Chemical 2444 2452	odorants
+T44	Chemical 2502 2509	odorant
+T45	Protein 2532 2539	protein
+T46	Chemical 2612 2619	odorant
+T47	Chemical 2620 2630	traseolide
+T48	Chemical 2632 2679	6-acetyl-1-isopropyl-2,3,3,5-tetramethyl-indane
+T49	Species 2780 2787	Moschus
+T50	Species 2795 2815	Moschus moschiferus,
+T51	Species 2770 2774	deer
+T52	Species 2788 2794	animal
+T53	Chemical 3090 3098	cosmetic
+T54	Chemical 3075 3085	fragrances
+T55	Protein 3190 3200	antibodies
+T56	Chemical 3209 3219	traseolide
+T57	Chemical 3252 3259	analogs
+T58	Chemical 3379 3389	traseolide
+T59	Chemical 3477 3487	traseolide
+T60	Biological_Activity 3488 3494	immune
+T61	Species 3525 3541	Escherichia coli
+T62	Species 3702 3706	Mice
+T63	Biological_Activity 3712 3721	immunized
+T64	Chemical 3731 3753;3758 3768	succinyl derivative of traseolide
+T65	Chemical 3769 3775	hapten
+T66	Protein 3788 3814	keyhole limpet haemocyanin
+T67	Protein 3816 3819	KLH
+T68	Protein 3929 3950	monoclonal antibodies
+T69	Chemical 3981 3991	traseolide
+T70	Protein 4052 4056	IgG1
+T71	Protein 4100 4108	Antibody
+T72	Protein 4153 4161	antibody
+T73	Biological_Activity 4294 4301	binding
+T74	Chemical 4477 4487	amino acid
+T75	Chemical 4510 4520	traseolide
+T76	Protein 4505 4531	anti-traseolide antibodies
+T77	Protein 4947 4951	scFv
+T78	Protein 4963 4972	M02/01/01
+T79	Protein 4974 4983	M02/11/01
+T80	Protein 4988 4997	M03/01/01
+T81	Protein 5020 5024	scFv
+T82	Protein 5061 5070	M02/01/01
+T83	Protein 5072 5083	scFv Tras-X
+T84	Protein 5085 5094	M03/01/01
+T85	Protein 5096 5107	scFv Tras-S
+T86	Chemical 5117 5123	serine
+T87	Protein 5187 5196	M02/11/01
+T88	Protein 5198 5209	scFv Tras-L
+T89	Protein 5265 5294	monoclonal antibody M02/05/01
+T90	Protein 5308 5315	protein
+T91	Protein 5361 5370	M02/01/01
+T92	Protein 3350 3362	Fab fragment
+T93	Protein 5396 5405	M02/05/01
+T94	Protein 5450 5462	Fab fragment
+T95	Protein 5492 5512	antibodies M02/01/01
+T96	Protein 5492 5502;5517 5526	antibodies M02/05/01
+T97	Chemical 5541 5551	amino acid
+T98	Protein 5583 5592	M02/05/01
+T99	Biological_Activity 5638 5645	binding
+T100	Chemical 5654 5657	Ala
+T101	Chemical 5662 5665	Val
+T102	Spectral_Data 5695 5710	X-ray structure
+T103	Chemical 5777 5780	Ala
+T104	Protein 5855 5863	antibody
+T105	Biological_Activity 6035 6042	binding
+T106	Chemical 6082 6089	antigen
+T107	Protein 6187 6191	scFv
+T108	Protein 6239 6243	scFv
+T109	Chemical 6320 6323	His
+T110	Protein 6372 6376	scFv
+T111	Species 6422 6429	E. coli
+T112	Protein 6469 6480	scFv Tras-S
+T113	Protein 6491 6504	mAb M03/01/01
+T114	Protein 6510 6521	scFv Tras-L
+T115	Protein 6532 6545	mAb M02/11/01
+T116	Species 6594 6601	E. coli
+T117	Protein 6634 6645	scFv Tras-X
+T118	Protein 6656 6669	mAb M02/01/01
+T119	Protein 6742 6753	scFv Tras-X
+T120	Chemical 6822 6832	amino acid
+T121	Protein 6845 6856	scFv Tras-X
+T122	Protein 7098 7104	Tras-P
+T123	Chemical 7156 7167	amino acids
+T124	Chemical 7169 7172	Arg
+T125	Chemical 7179 7182	Leu
+T126	Chemical 7187 7190	Lys
+T127	Chemical 7197 7200	Gln
+T128	Protein 7285 7293	antibody
+T129	Protein 7588 7592	scFv
+T130	Protein 7632 7638	Tras-P
+T131	Protein 7647 7653	Tras-X
+T132	Protein 7689 7699	antibodies
+T133	Chemical 7725 7728	His
+T134	Protein 7764 7775	scFv Tras-X
+T135	Protein 7864 7875	scFv Tras-P
+T136	Protein 7912 7924	scFv protein
+T137	Protein 8052 8062	antibodies
+T138	Protein 8267 8285	anti-FLAG antibody
+T139	Protein 8291 8297	Tras-X
+T140	Biological_Activity 8428 8437	transport
+T141	Protein 8653 8660	protein
+T142	Biological_Activity 8725 8734	transport
+T143	Protein 8801 8809	protease
+T144	Protein 8917 8924	protein
+T145	Protein 8980 8991	scFv Tras-P
+T146	Protein 8980 8984;8993 8999	scFv Tras-L
+T147	Protein 8980 8984;9004 9010	scFv Tras-S
+T148	Chemical 9174 9192	traseolide antigen
+T149	Biological_Activity 9202 9212	inhibition
+T150	Chemical 9224 9234	traseolide
+R3	Associated_With Arg1:T150 Arg2:T149	
+T151	Biological_Activity 9405 9412	binding
+T152	Protein 9431 9439	antibody
+T153	Protein 9469 9480	scFv Tras-X
+T154	Protein 9469 9473;9496 9502	scFv Tras-P
+T155	Species 9610 9617	E. coli
+T156	Chemical 9678 9684	hapten
+T157	Chemical 9685 9695	traseolide
+T158	Protein 9776 9780	scFv
+T159	Biological_Activity 9795 9802	binding
+T160	Protein 9850 9857	protein
+T161	Chemical 9899 9905	hapten
+T162	Protein 9951 9962	scFv Tras-X
+T163	Protein 9999 10010	scFv Tras-P
+T164	Protein 10124 10132	antibody
+T165	Biological_Activity 10147 10154	Binding
+T166	Protein 10236 10245	M02/05/01
+T167	Protein 10250 10259	M02/01/01
+T168	Protein 10319 10322	mAb
+T169	Protein 10331 10342	scFv Tras-X
+T170	Protein 10355 10364	M02/01/01
+T171	Protein 10373 10376	mAb
+T172	Protein 10381 10393	Fab fragment
+T173	Protein 10398 10407	M02/05/01
+T174	Protein 10409 10418	M02/05/01
+T175	Protein 10426 10434	antibody
+T176	Spectral_Data 10449 10464	X-ray structure
+T177	Protein 10472 10484	Fab fragment
+T178	Protein 10517 10526	M02/01/01
+T179	Chemical 10583 10586	Ala
+T180	Biological_Activity 10598 10605	binding
+T181	Biological_Activity 10618 10625	binding
+T182	Protein 10645 10655	antibodies
+T183	Protein 10656 10674	M02/05/01(Val H93)
+T184	Protein 10679 10697	M02/01/01(Ala H93)
+T185	Biological_Activity 10749 10756	binding
+T186	Chemical 10797 10807	traseolide
+T187	Chemical 10797 10816	traseolide variants
+T188	Chemical 10822 10832	traseolide
+T189	Chemical 10822 10841	traseolide variants
+T190	Chemical 10856 10875;10877 10882;10885 10887	succinyl derivative of T+ T−
+T191	Chemical 10856 10875;10877 10879;10893 10897	succinyl derivative of Teth
+T192	Chemical 10856 10875;10877 10879	succinyl derivative of
+T193	Biological_Activity 10933 10940	binding
+T194	Protein 10976 10986	antibodies
+T195	Protein 10987 10996	M02/05/01
+T196	Protein 11001 11010	M02/01/01
+T197	Biological_Activity 11027 11034	binding
+T198	Chemical 11051 11057	hapten
+T199	Protein 11097 11125	antibody M02/05/01 (Val H93)
+T200	Protein 11154 11182	antibody M02/01/01 (Ala H93)
+T201	Chemical 11226 11232	hapten
+T202	Protein 11366 11385	M02/01/01 (Ala H93)
+T203	Biological_Activity 11427 11434	binding
+T204	Chemical 11478 11497	traseolide variants
+T205	Chemical 11478 11488	traseolide
+T206	Protein 11503 11522	M02/05/01 (Val H93)
+T207	Chemical 11554 11556	T−
+T208	Chemical 11647 11657	T+  hapten
+T209	Chemical 11571 11583	methyl group
+T210	Chemical 11663 11676	Teth  variant
+T211	Chemical 11647 11649	T+
+T212	Chemical 11663 11667	Teth
+T213	Chemical 11691 11702	ethyl group
+T214	Chemical 11716 11728	methyl group
+T215	Biological_Activity 11759 11764	bound
+T216	Chemical 11810 11819	hapten T+
+T217	Chemical 11817 11819	T+
+T218	Protein 11839 11851	Fab fragment
+T219	Protein 11855 11864	M02/05/01
+T220	Protein 11873 11896;11914 11922	recombinant scFv Tras-X fragment
+T221	Protein 11903 11912	M02/01/01
+T222	Biological_Activity 11941 11948	binding
+T223	Protein 11974 11977	mAb
+T224	Chemical 11999 12005	hapten
+T225	Protein 12119 12128	M02/11/01
+T226	Protein 12133 12142	M03/01/01
+T227	Protein 12152 12173	monoclonal antibodies
+T228	Protein 12174 12183	M02/11/01
+T229	Protein 12188 12197	M03/01/01
+T230	Protein 12210 12214	mAbs
+T231	Protein 12218 12229	scFv Tras-L
+T232	Protein 12218 12222;12234 12240	scFv Tras-S
+T233	Protein 12404 12423	monoclonal antibody
+T234	Chemical 12455 12488	succinyl derivative of traseolide
+T235	Protein 12560 12563	BSA
+T236	Chemical 12564 12574	traseolide
+R4	Binds_With Arg1:T236 Arg2:T235	
+T237	Protein 12612 12620	antibody
+T238	Chemical 12630 12636	hapten
+T239	Biological_Activity 12637 12642	bound
+T240	Protein 12643 12651	antibody
+T241	Biological_Activity 12657 12661	bind
+T242	Chemical 12665 12671	hapten
+T243	Protein 12834 12842	antibody
+T244	Chemical 12872 12878	hapten
+T245	Biological_Activity 13099 13106	binding
+T246	Chemical 13168 13174	hapten
+T247	Protein 13276 13285	M02/11/01
+T248	Protein 13330 13339	M03/01/01
+T249	Spectral_Data 13371 13386	X-ray structure
+T250	Biological_Activity 13390 13395	bound
+T251	Protein 13408 13421	Fab M02/05/01
+T252	Protein 13458 13471	Fab M02/05/01
+T253	Chemical 13491 13513;13518 13528	succinyl derivative of traseolide
+T254	Chemical 13518 13535	traseolide hapten
+R5	Binds_With Arg1:T253 Arg2:T252	
+T255	Protein 13587 13597	Fab-hapten
+T256	Protein 13958 13961	Fab
+T257	Chemical 14031 14036	water
+T258	Protein 14066 14076	Fab-hapten
+T259	Biological_Activity 14127 14132	bound
+T260	Chemical 14133 14151	(S ,S )-traseolide
+T261	Chemical 14296 14314	(R ,R )-traseolide
+T262	Biological_Activity 14322 14329	binding
+T263	Chemical 14367 14373	hapten
+T264	Chemical 14466 14472	hapten
+T265	Chemical 14849 14866	traseolide hapten
+T266	Chemical 14849 14859	traseolide
+T267	Biological_Activity 15037 15044	binding
+T268	Chemical 15151 15156	water
+T269	Chemical 15184 15194	traseolide
+T270	Chemical 15260 15266	hapten
+T271	Chemical 15409 15424	succinyl moiety
+T272	Chemical 15464 15472	hydrogen
+T273	Chemical 15487 15492	water
+T274	Chemical 15587 15604	aromatic residues
+T275	Chemical 15641 15644	Trp
+T276	Chemical 15650 15653	Tyr
+T277	Chemical 15659 15662	Trp
+T278	Chemical 15694 15697	Tyr
+T279	Chemical 15703 15706	Tyr
+T280	Chemical 15712 15715	Phe
+T281	Chemical 15721 15724	Phe
+T282	Chemical 15730 15733	Phe
+T283	Chemical 15766 15775;15847 15865	aliphatic amino acid residue
+T284	Chemical 15829 15866	polar non-charged amino acid residues
+T285	Chemical 15777 15780	Ile
+T286	Chemical 15786 15789	Val
+T287	Chemical 15795 15798	Leu
+T288	Chemical 15804 15807	Leu
+T289	Chemical 15816 15819	Val
+T290	Chemical 15868 15871	Asn
+T291	Chemical 15878 15881	Thr
+T292	Chemical 15887 15890	Ser
+T293	Chemical 15896 15899	Ser
+T294	Chemical 15909 15912	Gly
+T295	Chemical 15960 15976	charged residues
+T296	Chemical 16010 16016	hapten
+T297	Chemical 16018 16021	Lys
+T298	Chemical 16057 16068	carboxylate
+T299	Chemical 16076 16091	succinyl moiety
+T300	Chemical 16099 16102	Glu
+T301	Chemical 16168 16180	methyl group
+T302	Chemical 16188 16197	isopropyl
+T303	Chemical 16211 16217	hapten
+T304	Chemical 16276 16279	Glu
+T305	Chemical 16302 16305	Arg
+T306	Chemical 16316 16319	Lys
+T307	Chemical 16451 16463	cyclopentane
+T308	Protein 16498 16508	antibodies
+T309	Chemical 16529 16535	hapten
+T310	Chemical 16557 16567	amino acid
+T311	Protein 16609 16635	anti-traseolide antibodies
+T312	Chemical 16614 16624	traseolide
+T313	Protein 16660 16670	antibodies
+T314	Protein 16716 16726	antibodies
+T315	Protein 16774 16783	M02/11/01
+T316	Chemical 16816 16825	M03/01/01
+T317	Protein 16876 16885	M03/01/01
+T318	Chemical 16942 16945	Cys
+T319	Chemical 16971 16974	Ser
+T320	Chemical 16997 17006	disulfide
+T321	Chemical 17260 17266	hapten
+T322	Protein 17302 17306	mAbs
+T323	Chemical 17346 17354	arsonate
+T324	Chemical 17381 17389	morphine
+T325	Chemical 17415 17427	cyclosporine
+T326	Chemical 17456 17465	oxazolone
+T327	Chemical 17493 17505	progesterone
+T328	Chemical 17627 17637	antibodies
+T329	Chemical 17663 17669	hapten
+T330	Chemical 17670 17680	traseolide
+T331	Chemical 17756 17762	dioxin
+T332	Chemical 17796 17856	N -(p -cyanophenyl)-N ′-(diphenylmethyl)guanidineacetic acid
+T333	Biological_Activity 18055 18061	immune
+T334	Protein 18122 18132	antibodies
+T335	Chemical 18175 18192	traseolide hapten
+T336	Chemical 18175 18185	traseolide
+T337	Protein 18491 18500	M02/05/01
+T338	Protein 18505 18514	M02/11/01
+T339	Biological_Activity 18515 18519	bind
+T340	Chemical 18527 18533	hapten
+R6	Binds_With Arg1:T340 Arg2:T338	
+R7	Binds_With Arg1:T340 Arg2:T337	
+T341	Protein 18566 18575	M02/01/01
+T342	Protein 18580 18589	M03/01/01
+T343	Biological_Activity 18667 18674	Binding
+T344	Chemical 18743 18750	antigen
+T345	Biological_Activity 18743 18750	antigen
+T346	Chemical 18817 18822	water
+T347	Protein 18845 18852	protein
+T348	Protein 18934 18944	Antibodies
+T349	Protein 19132 19142	antibodies
+T350	Biological_Activity 19185 19192	binding
+T351	Chemical 19232 19240	hydrogen
+T352	Biological_Activity 19279 19286	Binding
+T353	Chemical 19308 19315	haptens
+T354	Protein 19319 19329	antibodies
+T355	Protein 19382 19390	antibody
+T356	Chemical 19477 19493	charged residues
+T357	Chemical 19498 19506	hydrogen
+T358	Chemical 19556 19572	steroid hormones
+T359	Biological_Activity 19564 19572	hormones
+T360	Chemical 19622 19633	fluorescein
+T361	Chemical 19710 19717	binding
+T362	Biological_Activity 19778 19785	binding
+T363	Protein 19789 19803	antibody 26-10
+T364	Chemical 19808 19815	digoxin
+R8	Binds_With Arg1:T364 Arg2:T363	
+T365	Chemical 19891 19908	traseolide hapten
+T366	Chemical 19891 19901	traseolide
+T367	Biological_Activity 19951 19958	binding
+T368	Chemical 20043 20054	keto moiety
+T369	Chemical 20063 20074	carboxylate
+T370	Chemical 20087 20097	traseolide
+T371	Chemical 20136 20144	hydrogen
+T372	Chemical 20178 20181	Lys
+T373	Chemical 20236 20253	carboxylate group
+T374	Chemical 20257 20267	traseolide
+T375	Chemical 20306 20324	carboxylate moiety
+T376	Biological_Activity 20341 20353	immunization
+T377	Protein 20399 20402	KLH
+T378	Biological_Activity 20405 20412	Binding
+T379	Chemical 20447 20453	hapten
+T380	Protein 20493 20506	Fab M02/05/01
+T381	Chemical 20523 20529	hapten
+T382	Protein 20530 20538	antibody
+T383	Chemical 20585 20602	traseolide hapten
+T384	Chemical 20585 20595	traseolide
+T385	Chemical 20663 20680	aromatic residues
+T386	Biological_Activity 20795 20802	binding
+T387	Chemical 20829 20835	hapten
+T388	Chemical 20910 20916	hapten
+T389	Chemical 21036 21041	ethyl
+T390	Chemical 21046 21052	methyl
+T391	Chemical 21126 21129	Leu
+T392	Chemical 21138 21141	Trp
+T393	Chemical 21163 21175	methyl group
+T394	Chemical 21182 21190	hydrogen
+T395	Chemical 21338 21344	hapten
+T396	Biological_Activity 21449 21456	binding
+T397	Biological_Activity 21517 21524	binding
+T398	Chemical 21549 21561	methyl group
+T399	Chemical 21578 21588	piperidine
+T400	Chemical 21597 21619	3-amidinophenylalanine
+T401	Biological_Activity 21628 21638	inhibitors
+T402	Protein 21642 21650	thrombin
+T403	Biological_Activity 21681 21688	binding
+T404	Biological_Activity 21822 21829	binding
+T405	Biological_Activity 21913 21920	binding
+T406	Protein 21937 21955	scFv antibody NC10
+T407	Biological_Activity 21964 21978	anti-influenza
+T408	Chemical 21985 21992	antigen
+T409	Biological_Activity 21985 21992	antigen
+T410	Biological_Activity 22010 22017	binding
+T411	Protein 22053 22061	antibody
+T412	Chemical 22102 22105	Leu
+T413	Chemical 22115 22118	Tyr
+T414	Chemical 22122 22125	Trp
+T415	Biological_Activity 22136 22143	binding
+T416	Chemical 22153 22159	valine
+T417	Chemical 22260 22263	Leu
+T418	Chemical 22268 22271	Ala
+T419	Protein 22335 22344	M02/05/01
+T420	Protein 22373 22394	monoclonal antibodies
+T421	Protein 22395 22404	M02/01/01
+T422	Protein 22409 22418	M02/05/01
+T423	Chemical 22433 22443	amino acid
+T424	Protein 22455 22464	M02/05/01
+T425	Chemical 22542 22559	traseolide hapten
+T426	Chemical 22542 22552	traseolide
+T427	Chemical 22561 22564	Ala
+T428	Chemical 22569 22572	Val
+T429	Biological_Activity 22611 22618	binding
+T430	Protein 22629 22638	M02/05/01
+T431	Protein 22651 22660	M02/01/01
+T432	Chemical 22665 22675	traseolide
+R9	Binds_With Arg1:T432 Arg2:T431	
+R10	Binds_With Arg1:T432 Arg2:T430	
+T433	Protein 22681 22689	antibody
+T434	Biological_Activity 22714 22721	binding
+T435	Chemical 22754 22764	traseolide
+T436	Protein 22934 22943	M02/05/01
+T437	Chemical 22949 22952	Ala
+T438	Chemical 22957 22960	Val
+T439	Chemical 23028 23031	Ala
+T440	Protein 23039 23048	M02/01/01
+T441	Chemical 23089 23092	Val
+T442	Protein 23117 23126	M02/05/01
+T443	Chemical 23196 23215	traseolide variants
+T444	Chemical 23196 23206	traseolide
+T445	Protein 23217 23226	M02/05/01
+T446	Chemical 23228 23231	Val
+T447	Chemical 23272 23278	Teth  
+T448	Chemical 23287 23289	T+
+T449	Chemical 23298 23300	T−
+T450	Biological_Activity 23302 23307	binds
+R11	Binds_With Arg1:T447 Arg2:T445	
+R12	Binds_With Arg1:T448 Arg2:T445	
+R13	Binds_With Arg1:T449 Arg2:T445	
+T451	Protein 23370 23389	M02/01/01 (Ala H93)
+T452	Biological_Activity 23420 23427	binding
+T453	Chemical 23466 23485	traseolide variants
+R14	Binds_With Arg1:T443 Arg2:T445	
+T454	Chemical 23466 23476	traseolide
+R15	Binds_With Arg1:T453 Arg2:T451	
+R16	Binds_With Arg1:T447 Arg2:T451	
+R17	Binds_With Arg1:T448 Arg2:T451	
+R18	Binds_With Arg1:T449 Arg2:T451	
+T455	Chemical 23528 23531	Val
+T456	Chemical 23574 23591	traseolide hapten
+T457	Chemical 23574 23584	traseolide
+T458	Biological_Activity 23611 23618	binding
+T459	Chemical 23655 23674	traseolide variants
+T460	Chemical 23655 23665	traseolide
+T461	Biological_Activity 23694 23701	binding
+T462	Chemical 23776 23779	Val
+T463	Chemical 23804 23816	methyl group
+T464	Chemical 23827 23837	traseolide
+T465	Biological_Activity 23872 23879	binding
+T466	Protein 23973 23990	VH Ox1 antibodies
+T467	Chemical 23998 24001	Ala
+T468	Biological_Activity 24069 24076	binding
+T469	Chemical 24228 24235	antigen
+T470	Biological_Activity 24228 24235	antigen
+T471	Protein 24251 24261	antibodies
+T472	Chemical 24284 24295	fluorescein
+T473	Biological_Activity 24296 24303	binding
+T474	Protein 24304 24307	Fab
+T475	Protein 24317 24321	4fab
+R19	Binds_With Arg1:T472 Arg2:T474	
+R20	Binds_With Arg1:T472 Arg2:T475	
+T476	Biological_Activity 24361 24368	binding
+T477	Chemical 24388 24395	haptens
+T478	Chemical 24471 24478	Ala-Val
+T479	Biological_Activity 24495 24502	binding
+T480	Protein 24513 24522	M02/05/01
+T481	Protein 24677 24683	enzyme
+T482	Biological_Activity 24765 24772	binding
+T483	Chemical 24823 24838	methylene group
+T484	Chemical 24901 24916	methylene group
+T485	Protein 24920 24927	protein
+T486	Biological_Activity 25273 25280	binding
+T487	Chemical 25284 25294	dipeptides
+T488	Chemical 25298 25318	p -guanidinobenzoate
+T489	Protein 25319 25330	trypsinogen
+R21	Binds_With Arg1:T487 Arg2:T489	
+R22	Binds_With Arg1:T488 Arg2:T489	
+T490	Chemical 25352 25355	Val
+T491	Chemical 25363 25366	Ala
+T492	Chemical 25374 25383	dipeptide
+T493	Biological_Activity 25462 25469	binding
+T494	Biological_Activity 25593 25600	binding
+T495	Protein 25633 25643	antibodies
+T496	Protein 25644 25663	M02/01/01 (Ala H93)
+T497	Protein 25668 25687	M02/05/01 (Val H93)
+T498	Biological_Activity 25761 25768	binding
+T499	Protein 25781 25800	M02/05/01 (Val H93)
+T500	Protein 25805 25824	M02/01/01 (Ala H93)
+T501	Chemical 25832 25851	traseolide variants
+T502	Chemical 25832 25842	traseolide
+T503	Chemical 25852 25854	T+
+T504	Chemical 25860 25862	T−
+T505	Biological_Activity 26142 26149	binding
+T506	Protein 26256 26264	Receptor
+T507	Protein 26317 26327	antibodies
+T508	Protein 26332 26341	receptors
+T509	Protein 26388 26396	proteins
+T510	Biological_Activity 26480 26487	binding
+T511	Protein 26585 26589	mAbs
+T512	Protein 26604 26613	receptors
+T513	Protein 26717 26727	antibodies
+T514	Protein 26743 26751	receptor
+T515	Biological_Activity 26775 26782	binding
+T516	Protein 26803 26812	receptors
+T517	Biological_Activity 26863 26870	binding
+T518	Protein 26894 26919	monoclonal antibody NC6.8
+T519	Protein 27039 27051	antibody 1B7
+T520	Protein 27071 27092	β-adrenergic receptor
+T521	Chemical 27100 27110	alprenolol
+R23	Binds_With Arg1:T521 Arg2:T520	
+T522	Biological_Activity 27169 27190	β-adrenergic agonists
+T523	Biological_Activity 27169 27181;27195 27206	β-adrenergic antagonists
+T524	Protein 27245 27253	receptor
+T525	Biological_Activity 27256 27263	binding
+T526	Protein 27304 27319	Tras antibodies
+T527	Protein 27415 27431	odorant receptor
+T528	Protein 27441 27470	monoclonal antibody M02/05/01
+T529	Chemical 27521 27523	T+
+T530	Biological_Activity 27525 27530	binds
+T531	Chemical 27556 27558	T−
+T532	Protein 27601 27614	Fab M02/05/01
+T533	Chemical 27634 27646	methyl group
+T534	Chemical 27664 27670	indane
+T535	Chemical 27679 27689	traseolide
+T536	Chemical 27749 27753	Teth
+T537	Protein 27839 27847	antibody
+T538	Protein 27859 27868	M02/05/01
+T539	Chemical 27875 27879	Teth
+T540	Chemical 27885 27887	T+
+T541	Protein 28047 28063	odorant receptor
+T542	Chemical 28138 28148	traseolide
+T543	Biological_Activity 28149 28156	binding
+T544	Biological_Activity 28188 28192	bind
+T545	Biological_Activity 28205 28212	binding
+T546	Protein 28441 28458	odorant receptors
+T547	Species 28495 28500	mouse
+T548	Protein 28501 28512	17 receptor
+T549	Species 28543 28546	rat
+T550	Protein 28547 28558	17 receptor
+T551	Chemical 28568 28576	heptanal
+T552	Chemical 28588 28595	octanal
+T553	Protein 28495 28512	mouse 17 receptor
+T554	Protein 28543 28558	rat 17 receptor
+R24	Binds_With Arg1:T551 Arg2:T553	
+R25	Binds_With Arg1:T551 Arg2:T554	
+R26	Binds_With Arg1:T552 Arg2:T554	
+T555	Protein 28602 28611	receptors
+T556	Chemical 28631 28637	valine
+T557	Chemical 28641 28651	isoleucine
+T558	Protein 28698 28714	odorant receptor
+T559	Protein 28777 28785	receptor
+T560	Chemical 28872 28878	hapten
+T561	Chemical 28901 28911	traseolide
+T562	Protein 28933 28941	antibody
+T563	Species 28992 28997	mouse
+T564	Biological_Activity 29010 29017	binding
+T565	Protein 29037 29044	protein
+T566	Biological_Activity 29068 29075	binding
+T567	Protein 29105 29124	monoclonal antibody
+T568	Chemical 29146 29156	traseolide
+T569	Chemical 29328 29336	hydrogen
+T570	Biological_Activity 29375 29382	binding
+T571	Biological_Activity 29465 29472	binding
+T572	Protein 29483 29492	M02/05/01
+T573	Chemical 29537 29547	traseolide
+T574	Chemical 29537 29554	traseolide hapten
+R27	Binds_With Arg1:T573 Arg2:T572	
+T575	Chemical 29607 29614	Ala-Val
+T576	Chemical 29652 29658	hapten
+T577	Chemical 29686 29696	traseolide
+T578	Chemical 29715 29727	methyl group
+T579	Biological_Activity 29732 29739	binding
+T580	Chemical 29789 29799	traseolide
+T581	Chemical 609 616	odorant
+T582	Chemical 656 663	odorant
+T583	Chemical 27513 27520	odorant
+T584	Chemical 28164 28171	odorant
+T585	Chemical 28829 28836	odorant
+T586	Chemical 28893 28900	odorant
+T587	Chemical 29024 29031	odorant
+R28	Binds_With Arg1:T587 Arg2:T565	
+T588	Chemical 29138 29145	odorant
+T589	Chemical 29697 29704	odorant
+T590	Chemical 30357 30364	odorant
+T591	Chemical 27970 27978	odorants
+T592	Chemical 44953 44961	odorants
+T593	Species 29878 29902	E. coli  K12 strain JM83
+T594	Protein 30007 30020	scFv proteins
+T595	Chemical 30365 30375	traseolide
+T596	Biological_Activity 30301 30313	Immunization
+T597	Chemical 30427 30433	hapten
+T598	Biological_Activity 30447 30459	Immunization
+T599	Protein 30475 30496	monoclonal antibodies
+T600	Chemical 30512 30518	hapten
+T601	Protein 30618 30626	Antibody
+T602	Protein 31289 31298	M02/05/01
+T603	Protein 31443 31452	M02/05/01
+T604	Protein 31512 31522	antibodies
+T605	Chemical 31610 31613	Gly
+T606	Chemical 31615 31618	Ser
+T607	Protein 31763 31767	scFv
+T608	Chemical 31829 31832	Myc
+T609	Chemical 31837 31840	His
+T610	Protein 32225 32233	antibody
+T611	Protein 32243 32249	Tras-P
+T612	Biological_Activity 32283 32294	mutagenesis
+T613	Protein 32458 32462	scFv
+T614	Chemical 32531 32541	ampicillin
+T615	Biological_Activity 32546 32556	inoculated
+T616	Species 32565 32572	E. coli
+T617	Protein 32638 32646	antibody
+T618	Chemical 32754 32758	IPTG
+T619	Chemical 32760 32796	isopropyl β-d -thiogalactopyranoside
+T620	Species 32965 32972	E. coli
+T621	Chemical 33314 33323	Tris-HCl,
+T622	Chemical 33331 33335	EDTA
+T623	Chemical 33343 33350	sucrose
+T624	Chemical 33430 33433	ice
+T625	Protein 33780 33784	scFv
+T626	Protein 33811 33818	protein
+T627	Protein 33976 33983	protein
+T628	Chemical 34083 34092	disulfide
+T629	Chemical 34145 34152;34173 34184	reduced glutathione
+T630	Chemical 34164 34184	oxidized glutathione
+T631	Chemical 34293 34299	hapten
+T632	Chemical 34318 34324	Hapten
+T633	Protein 34370 34377	protein
+T634	Chemical 34452 34458	acidic
+T635	Chemical 34474 34481	glycine
+T636	Chemical 34551 34555	Tris
+T637	Protein 34607 34614	protein
+T638	Protein 34687 34691	scFv
+T639	Protein 34897 34904	Protein
+T640	Protein 34947 34955	antibody
+T641	Protein 35103 35111	proteins
+T642	Chemical 35165 35179	Polyacrylamide
+T643	Protein 35319 35340	anti-FLAG antibody M1
+T644	Protein 35383 35404	anti-His tag antibody
+T645	Protein 35443 35451	antibody
+T646	Species 35487 35492	mouse
+T647	Protein 35517 35539	horseradish peroxidase
+T648	Protein 35541 35544	HRP
+T649	Protein 35556 35564	antibody
+T650	Protein 35667 35677	peroxidase
+T651	Protein 35936 35939	BSA
+T652	Chemical 35940 35950	traseolide
+T653	Protein 35974 35977	BSA
+T654	Protein 36010 36013	BSA
+T655	Chemical 36072 36093	N -hydroxysuccinimide
+T656	Chemical 36095 36098	NHS
+T657	Chemical 36117 36179	N -(3-dimethylaminopropyl)-N ′-ethylcarbodiimide hydrochloride
+T658	Chemical 36181 36184	EDC
+T659	Chemical 36236 36260	carboxmethylated dextran
+T660	Protein 36297 36300	BSA
+T661	Chemical 36301 36311	traseolide
+T662	Protein 36316 36319	BSA
+T663	Chemical 36336 36342	NH4 Ac
+T664	Protein 36418 36425	protein
+T665	Chemical 36494 36497	NHS
+T666	Chemical 36498 36504	esters
+T667	Chemical 36527 36539	ethanolamine
+T668	Biological_Activity 36546 36553	binding
+T669	Chemical 36664 36668	NaCl
+T670	Chemical 36684 36692	Tween-20
+T671	Chemical 36694 36698	HBST
+T672	Protein 36723 36731	antibody
+T673	Chemical 36735 36739	HBST
+T674	Chemical 36771 36794;36799 36809	succinyl derivatives of traseolide
+T675	Chemical 36799 36809	traseolide
+T676	Chemical 36810 36816	hapten
+T677	Chemical 36799 36816	traseolide hapten
+T678	Chemical 36987 36994	glycine
+T679	Chemical 37206 37212	hapten
+T680	Chemical 37322 37326	Tris
+T681	Chemical 37335 37339	NaCl
+T682	Protein 37379 37388	scFv Tras
+T683	Chemical 37488 37498	traseolide
+T684	Spectral_Data 37722 37751	Fluorescence emission spectra
+T685	Protein 37755 37764	scFv Tras
+T686	Protein 37839 37848	scFv Tras
+T687	Chemical 37865 37875	traseolide
+R29	Binds_With Arg1:T687 Arg2:T686	
+T688	Chemical 37858 37875	hapten traseolide
+T689	Chemical 37979 37989	traseolide
+T690	Chemical 38081 38087	hapten
+T691	Protein 38130 38136	Papain
+T692	Biological_Activity 38137 38146	digestion
+T693	Protein 38167 38180	Fab fragments
+T694	Species 38181 38186	Mouse
+T695	Protein 38187 38206	monoclonal antibody
+T696	Protein 38207 38216	M02/05/01
+T697	Protein 38319 38326	Protein
+T698	Chemical 38404 38407	PBS
+T699	Protein 38433 38442	M02/05/01
+T700	Chemical 38466 38469	PBS
+T701	Chemical 38488 38503	l -cysteine-HCl
+T702	Chemical 38548 38552	NaOH
+T703	Chemical 38571 38575	EDTA
+T704	Protein 38614 38620	papain
+T705	Protein 38652 38658	Papain
+T706	Biological_Activity 38659 38668	digestion
+T707	Chemical 38797 38809	iodacetamide
+T708	Protein 38851 38864	Fab fragments
+T709	Biological_Activity 38915 38923	digested
+T710	Biological_Activity 38924 38932	antibody
+T711	Chemical 38983 38991	Tris-HCl
+T712	Chemical 39037 39046	Sepharose
+T713	Chemical 39127 39131	salt
+T714	Protein 39170 39183	Fab fragments
+T715	Biological_Activity 39193 39201	digested
+T716	Protein 39202 39212	antibodies
+T717	Protein 39217 39229	Fc fragments
+T718	Chemical 39246 39250	NaCl
+T719	Chemical 39263 39271	Tris-HCl
+T720	Protein 39299 39312	Fab fragments
+T721	Protein 39340 39347	protein
+T722	Protein 39360 39365	Fab-1
+T723	Protein 39370 39375	Fab-2
+T724	Protein 39458 39463	Fab-1
+T725	Protein 39468 39473	Fab-2
+T726	Protein 39564 39577	Fab fractions
+T727	Chemical 39715 39719	salt
+T728	Protein 39751 39756	Fab-1
+T729	Protein 39761 39766	Fab-2
+T730	Chemical 39791 39795	NaCl
+T731	Protein 39826 39838	Fab fraction
+T732	Protein 39880 39885	Fab-1
+T733	Protein 39898 39903	Fab-2
+T734	Protein 39958 39963	Fab-2
+T735	Protein 39965 39971	Fab-2′
+T736	Protein 39976 39982	Fab-2″
+T737	Protein 40007 40020	Fab fractions
+T738	Protein 40074 40082	Tris-HCl
+T739	Chemical 40091 40095	NaCl
+T740	Protein 40133 40146	Fab fractions
+T741	Chemical 40194 40204	traseolide
+T742	Spectral_Data 40215 40238	Crystallization studies
+T743	Protein 40284 40297	Fab fragments
+T744	Protein 40307 40312	Fab-1
+T745	Spectral_Data 40380 40395;40400 40404	Crystallization data
+T746	Protein 40534 40541	protein
+T747	Chemical 40567 40573	hapten
+T748	Chemical 40580 40586	hapten
+T749	Protein 40597 40600	Fab
+T750	Chemical 40618 40622	Tris
+T751	Chemical 40689 40696	PEG8000
+T752	Chemical 40708 40722	sodium acetate
+T753	Protein 40932 40939	protein
+T754	Chemical 40992 40999	solvent
+T755	Protein 41456 41468	Fab fragment
+T756	Protein 41722 41744	anti-arsonate antibody
+T757	Protein 41817 41840	anti-oxazolone antibody
+T758	Chemical 41727 41735	arsonate
+T759	Chemical 41822 41831	oxazolone
+T760	Chemical 42411 42421	traseolide
+T761	Protein 42406 42425	anti-traseolide Fab
+T762	Protein 42518 42527	M02/05/01
+T763	Protein 42514 42517	Fab
+T764	Chemical 42544 42554	traseolide
+T765	Chemical 42826 42833	solvent
+T766	Chemical 43127 43134	odorant
+T767	Chemical 43160 43167	odorant
+T768	Chemical 43168 43178	traseolide
+T769	Chemical 43180 43226	6-acetyl-1-isopropyl-2,3,3,5-tetramethylindane
+T770	Chemical 43243 43250	odorant
+T771	Chemical 43366 43384	traseolide analogs
+T772	Chemical 43366 43376	traseolide
+T773	Chemical 43451 43458	analogs
+T774	Protein 43537 43547	antibodies
+T775	Chemical 43556 43566	traseolide
+T776	Chemical 43658 43665	odorant
+T777	Protein 43696 43711	carrier protein
+T778	Chemical 45022 45053	traseolide succinyl derivatives
+T779	Chemical 45022 45032	traseolide
+T780	Spectral_Data 45074 45077	NMR
+T781	Spectral_Data 45082 45105	absorption spectroscopy
+T782	Chemical 45125 45131	Teth  
+T783	Chemical 45142 45144	T−
+R31	Associated_With Arg1:T778 Arg2:T780	
+R30	Associated_With Arg1:T778 Arg2:T781	
+R32	Associated_With Arg1:T782 Arg2:T781	
+R33	Associated_With Arg1:T782 Arg2:T780	
+R34	Associated_With Arg1:T783 Arg2:T781	
+R35	Associated_With Arg1:T783 Arg2:T780	
+T784	Spectral_Data 45176 45187	NMR spectra
+T785	Chemical 45191 45201	traseolide
+R36	Associated_With Arg1:T785 Arg2:T784	
+T786	Protein 45388 45391	Fab
+T787	Protein 45392 45401	M02/05/01
+T788	Chemical 45421 45438	traseolide hapten
+T789	Chemical 45421 45431	traseolide
+T790	Chemical 45444 45462	(S ,S ) enantiomer
+T791	Biological_Activity 45494 45501	binding
+T792	Chemical 45546 45564	(R ,R ) enantiomer
+T793	Protein 45647 45650	Fab
+T794	Protein 45651 45660	M05/01/01
+T795	Chemical 45816 45849	succinyl derivative of traseolide
+T796	Protein 45881 45902	monoclonal antibodies
+T797	Protein 45969 45975	Tras-P
+T798	Biological_Activity 46037 46044	binding

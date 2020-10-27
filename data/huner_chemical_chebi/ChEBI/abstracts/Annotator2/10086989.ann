@@ -1,0 +1,52 @@
+T1	Species 0 13	Rhus javanica
+T2	Species 120 124	mice
+T3	Biological_Activity 76 101	anti-herpes simplex virus
+T4	Biological_Activity 148 156	anti-HSV
+T5	Chemical 169 181	moronic acid
+T6	Chemical 186 200	betulonic acid
+T7	Biological_Activity 328 336	anti-HSV
+T8	Metabolite 169 181	moronic acid
+T9	Metabolite 186 200	betulonic acid
+R1	Associated_With Arg1:T5 Arg2:T4	
+R2	Associated_With Arg1:T6 Arg2:T4	
+T10	Chemical 368 380	Moronic acid
+T11	Metabolite 368 380	Moronic acid
+T12	Biological_Activity 408 416	anti-HSV
+R3	Associated_With Arg1:T10 Arg2:T12	
+T13	Chemical 245 258	ethyl acetate
+T14	Chemical 433 446	ethyl acetate
+T15	Chemical 522 534	moronic acid
+T16	Chemical 539 553	betulonic acid
+T17	Metabolite 522 534	moronic acid
+T18	Metabolite 539 553	betulonic acid
+T21	Chemical 657 669	moronic acid
+T22	Metabolite 657 669	moronic acid
+T23	Chemical 706 720	betulonic acid
+T24	Metabolite 706 720	betulonic acid
+T29	Protein 794 810	thymidine kinase
+T32	Chemical 856 868	moronic acid
+T33	Metabolite 856 868	moronic acid
+T35	Species 959 963	mice
+T38	Species 1127 1131	mice
+T39	Biological_Activity 1140 1148	toxicity
+T40	Chemical 1176 1188	Moronic acid
+T41	Metabolite 1176 1188	Moronic acid
+T42	Metabolite 1340 1352	moronic acid
+T43	Chemical 1340 1352	moronic acid
+T44	Biological_Activity 1377 1385	anti-HSV
+T46	Species 1422 1435	Rhus javanica
+R12	Isolated_From Arg1:T42 Arg2:T46	
+R13	Associated_With Arg1:T43 Arg2:T44	
+T47	Biological_Activity 1449 1457	anti-HSV
+T49	Chemical 1499 1511	Moronic acid
+T50	Metabolite 1499 1511	Moronic acid
+T51	Biological_Activity 1587 1595	anti-HSV
+R16	Associated_With Arg1:T49 Arg2:T51	
+R18	Isolated_From Arg1:T8 Arg2:T1	
+R19	Isolated_From Arg1:T9 Arg2:T1	
+R20	Associated_With Arg1:T11 Arg2:T12	
+R27	Associated_With Arg1:T42 Arg2:T44	
+T26	Chemical 1494 1497	ACV
+T27	Species 1561 1565	mice
+R29	Associated_With Arg1:T50 Arg2:T51	
+T28	Biological_Activity 103 107;76 80	HSV) anti

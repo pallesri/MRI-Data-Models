@@ -1,0 +1,12 @@
+T2	Disease 528 545	urine proteinuria
+T4	Plant 46 61	Lespedeza Michx
+T6	Plant 235 250	Lespedeza Michx
+T8	Plant 481 496	Lespedeza Michx
+T10	Plant 664 679	Lespedeza Michx
+T1	Disease 91 117	minimal change nephropathy
+T3	Disease 119 122	MCN
+*	Equiv T1 T3
+T5	Treatment_of_disease 24 45	therapeutic effect of
+E1	Treatment_of_disease:T5 Cause:T4 Theme:T1
+T7	Treatment_of_disease 503 511	decrease
+E2	Treatment_of_disease:T7 Theme:T2 Cause:T8

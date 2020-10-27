@@ -1,0 +1,174 @@
+T1	Biological_Activity 34 44	estrogenic
+T2	Chemical 45 53	hormones
+T3	Species 190 193	rat
+T4	Species 325 329	rats
+T5	Chemical 359 367	estrogen
+T6	Species 393 399	humans
+T7	Species 518 523	women
+T8	Chemical 646 654	estrogen
+T9	Chemical 950 958	estrogen
+T10	Chemical 1249 1257	estrogen
+T11	Chemical 1454 1464	Raloxifene
+T12	Chemical 1470 1484	benzothiophene
+T13	Chemical 1527 1565	selective estrogen receptor modulators
+T14	Protein 1537 1554	estrogen receptor
+T15	Biological_Activity 1573 1577	bind
+T16	Biological_Activity 1555 1564	modulator
+T17	Chemical 1604 1612	estrogen
+T18	Protein 1604 1621	estrogen receptor
+R1	Associated_With Arg1:T11 Arg2:T16	
+R2	Associated_With Arg1:T11 Arg2:T15	
+R3	Binds_With Arg1:T11 Arg2:T18	
+T19	Biological_Activity 1644 1651	agonist
+T20	Biological_Activity 1655 1665	antagonist
+T21	Species 1741 1748	animals
+T22	Species 1810 1815	women
+T23	Chemical 1903 1913	raloxifene
+T24	Chemical 1962 1970	estrogen
+T25	Metabolite 1962 1970	estrogen
+T26	Chemical 1999 2004	lipid
+T27	Chemical 2112 2122	raloxifene
+T28	Chemical 2235 2245	raloxifene
+T29	Species 2254 2259	human
+T30	Chemical 2348 2358	raloxifene
+T31	Species 2421 2426	women
+T32	Chemical 2561 2571	raloxifene
+T33	Chemical 2739 2749	raloxifene
+T34	Chemical 2785 2793	estrogen
+T35	Chemical 3259 3267	estrogen
+T36	Chemical 3580 3590	raloxifene
+T37	Species 3662 3669	Patient
+T38	Species 3716 3721	women
+T39	Chemical 4105 4112	calcium
+T40	Biological_Activity 4113 4123	metabolism
+T41	Species 4186 4191	women
+T42	Chemical 4227 4236	estradiol
+T43	Metabolite 4227 4236	estradiol
+T44	Protein 4252 4280	follicle stimulating hormone
+T45	Species 4504 4509	women
+T46	Species 4511 4519	Patients
+T47	Chemical 4943 4951	estrogen
+T48	Chemical 4953 4962	progestin
+T49	Chemical 4964 4974	calcitonin
+T50	Chemical 4976 4984	androgen
+T51	Chemical 4998 5012	corticosteroid
+T52	Species 5509 5517	Patients
+T53	Chemical 5584 5594	raloxifene
+T54	Chemical 5609 5619	raloxifene
+T55	Species 6280 6287	patient
+T56	Chemical 7815 7820	drugs
+T57	Species 8509 8515	adults
+T58	Chemical 8583 8587	drug
+T59	Chemical 8864 8874	raloxifene
+T60	Chemical 8972 8980	diazepam
+T61	Chemical 9331 9339	diazepam
+T62	Chemical 9467 9475	diazepam
+T63	Chemical 9537 9545	diazepam
+T64	Chemical 9569 9577	Diazepam
+T65	Chemical 9848 9852	drug
+T66	Chemical 9925 9929	drug
+T67	Species 10305 10313	patients
+T68	Species 10408 10416	patients
+T69	Species 10690 10698	patients
+T70	Chemical 10744 10758	raloxifene HCl
+T71	Chemical 10782 10796	raloxifene HCl
+T72	Chemical 10809 10819	raloxifene
+T73	Chemical 11166 11181	benzodiazepines
+T74	Chemical 11183 11208	tricyclic antidepressants
+T75	Chemical 11210 11224	antipsychotics
+T76	Chemical 11230 11269	selective serotonin reuptake inhibitors
+T77	Biological_Activity 11193 11207	antidepressant
+R4	Associated_With Arg1:T74 Arg2:T77	
+T78	Biological_Activity 11259 11268	inhibitor
+R5	Associated_With Arg1:T76 Arg2:T78	
+T79	Biological_Activity 11210 11223	antipsychotic
+R6	Associated_With Arg1:T75 Arg2:T79	
+T80	Species 11289 11294	women
+T81	Chemical 11308 11315	alcohol
+T82	Chemical 11454 11464	raloxifene
+T83	Chemical 11476 11486	raloxifene
+T84	Species 11528 11536	patients
+T85	Species 11798 11803	women
+T86	Chemical 11811 11821	raloxifene
+T87	Biological_Activity 11960 11974	adverse events
+T88	Chemical 12126 12136	raloxifene
+T89	Biological_Activity 12024 12037	adverse event
+T90	Chemical 12148 12158	raloxifene
+T91	Chemical 12424 12434	raloxifene
+T92	Chemical 12470 12480	raloxifene
+T93	Chemical 12686 12696	raloxifene
+T94	Chemical 12784 12794	raloxifene
+T95	Chemical 13058 13068	raloxifene
+T96	Chemical 13252 13262	raloxifene
+T97	Species 13271 13278	Patient
+T98	Chemical 13421 13431	raloxifene
+T100	Chemical 13883 13893	raloxifene
+T101	Chemical 13905 13915	raloxifene
+T102	Chemical 14046 14056	raloxifene
+T103	Species 13785 13790	women
+T99	Chemical 14782 14792	raloxifene
+T104	Chemical 14840 14850	raloxifene
+T105	Chemical 15242 15252	raloxifene
+T106	Chemical 15892 15902	raloxifene
+T107	Chemical 16435 16445	raloxifene
+T108	Chemical 16506 16516	raloxifene
+T109	Chemical 16764 16774	raloxifene
+T110	Chemical 16959 16969	raloxifene
+T111	Chemical 17142 17152	raloxifene
+T112	Chemical 17369 17379	raloxifene
+T113	Chemical 17409 17419	raloxifene
+T115	Chemical 18120 18130	raloxifene
+T116	Chemical 17763 17773	raloxifene
+T117	Chemical 18200 18210	raloxifene
+T118	Chemical 18316 18326	raloxifene
+T119	Chemical 18383 18393	raloxifene
+T120	Chemical 18527 18537	raloxifene
+T121	Chemical 20025 20035	raloxifene
+T122	Chemical 19108 19116	estrogen
+T123	Species 14082 14087	women
+T124	Chemical 14927 14931	drug
+T125	Chemical 16141 16149	diazepam
+T126	Species 16231 16238	patient
+T127	Chemical 16352 16356	drug
+T128	Biological_Activity 16401 16408	agonist
+T129	Biological_Activity 16413 16423	antagonist
+T130	Chemical 16392 16400	estrogen
+R7	Associated_With Arg1:T107 Arg2:T128	
+R8	Associated_With Arg1:T107 Arg2:T129	
+T131	Species 16500 16504	rats
+T132	Biological_Activity 16517 16528	antagonized
+R9	Associated_With Arg1:T108 Arg2:T132	
+T133	Chemical 16534 16542	estrogen
+T134	Protein 16568 16587	luteinizing hormone
+T135	Protein 16589 16591	LH
+T136	Chemical 16628 16636	estrogen
+T137	Chemical 16675 16687	progesterone
+T138	Metabolite 16675 16687	progesterone
+T139	Protein 16675 16696	progesterone receptor
+T140	Biological_Activity 16784 16798	antiestrogenic
+R10	Associated_With Arg1:T109 Arg2:T140	
+T141	Species 16865 16868	rat
+T142	Species 16911 16917	humans
+T143	Species 16952 16957	women
+T144	Protein 16980 16992	gonadotropin
+T145	Protein 17014 17023	prolactin
+T146	Chemical 17071 17079	estrogen
+T147	Biological_Activity 17080 17090	antagonist
+R11	Associated_With Arg1:T110 Arg2:T147	
+T148	Protein 17519 17521	LH
+T149	Protein 17463 17491	follicle stimulating hormone
+T114	Biological_Activity 17346 17358	antiestrogen
+T150	Protein 17525 17534	prolactin
+T151	Species 17560 17565	women
+T152	Chemical 17625 17633	estrogen
+T153	Biological_Activity 17634 17641	agonist
+T154	Chemical 17731 17745	benzothiophene
+T156	Chemical 17746 17751	SERMs
+T155	Protein 17801 17805	trkA
+T157	Protein 17809 17837	nerve growth factor receptor
+T158	Chemical 17859 17867	estrogen
+T159	Chemical 19242 19250	estrogen
+T160	Chemical 19603 19611	estrogen
+T161	Species 19185 19190	women
+T162	Chemical 19730 19738	estrogen
+T163	Species 19890 19897	patient

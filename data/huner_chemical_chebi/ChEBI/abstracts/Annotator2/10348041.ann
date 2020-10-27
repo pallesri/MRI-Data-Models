@@ -1,0 +1,23 @@
+T1	Biological_Activity 6 15	antitumor
+T2	Chemical 27 38	gilvusmycin
+T3	Metabolite 27 38	gilvusmycin
+T5	Spectral_Data 171 192	NMR spectral analysis
+T4	Species 78 99	Streptomyces sp. QM16
+R1	Isolated_From Arg1:T3 Arg2:T4	
+R3	Associated_With Arg1:T3 Arg2:T1	
+R2	Associated_With Arg1:T2 Arg2:T1	
+T6	Chemical 118 129	gilvusmycin
+T7	Metabolite 118 129	gilvusmycin
+T8	Chemical 145 152	CC-1065
+R4	Associated_With Arg1:T7 Arg2:T5	
+R5	Associated_With Arg1:T6 Arg2:T5	
+T9	Chemical 194 205	Gilvusmycin
+T10	Biological_Activity 216 225	antitumor
+T11	Species 243 249	murine
+T12	Metabolite 194 205	Gilvusmycin
+R6	Associated_With Arg1:T12 Arg2:T10	
+R7	Associated_With Arg1:T9 Arg2:T10	
+T13	Chemical 16 26	antibiotic
+T14	Biological_Activity 16 26	antibiotic
+R8	Associated_With Arg1:T3 Arg2:T14	
+R9	Associated_With Arg1:T2 Arg2:T14	

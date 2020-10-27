@@ -1,0 +1,32 @@
+T1	Disease 11 25	Stomach cancer
+T2	Disease 174 188	stomach cancer
+T3	Disease 349 363	stomach cancer
+T4	Disease 488 502	stomach cancer
+T5	Disease 539 545	cancer
+T6	Disease 550 566	stomach diseases
+T7	Disease 685 691	cancer
+T8	Disease 1161 1167	cancer
+T9	Disease 1200 1214	stomach cancer
+T10	Disease 1698 1712	stomach cancer
+T11	Disease 1890 1904	stomach cancer
+T13	Plant 1071 1077	coffee
+T14	Plant 1079 1088	green tea
+T16	Plant 1288 1295	cabbage
+T17	Plant 1365 1372	carrots
+T18	Plant 1438 1444	garlic
+T20	Plant 1557 1565	broccoli
+T21	Plant 1737 1743	citrus
+T23	Plant 1822 1829	cabbage
+T24	Plant 1831 1838	carrots
+T26	Plant 1840 1846	garlic
+T27	Plant 1858 1866	broccoli
+T28	Plant 1924 1930	citrus
+T29	Plant 315 325	vegetables
+T30	Plant 330 336	fruits
+T31	Plant 973 983	vegetables
+T32	Plant 985 991	fruits
+T12	Plant 1269 1279	vegetables
+T15	Plant 1754 1760	fruits
+T19	Plant 1803 1813	vegetables
+T22	Treatment_of_disease 1871 1879	decrease
+E1	Treatment_of_disease:T22 Cause:T19 Theme:T11 Cause2:T23 Cause3:T24 Cause4:T26 Cause5:T27

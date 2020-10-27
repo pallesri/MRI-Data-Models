@@ -1,0 +1,31 @@
+T1	Species 39 52	chrysanthemum
+T3	Species 7 14	persons
+T4	Chemical 101 122	sequiterpene lactones
+#1	AnnotatorNotes T4	Chemical class
+T6	Chemical 163 171	lactones
+#3	AnnotatorNotes T6	Chemical class
+T7	Chemical 232 245	alantolactone
+T8	Chemical 277 289	arbusculin A
+T9	Chemical 291 307	8-deoxycumambrin
+T10	Chemical 309 317	ambrosin
+T11	Chemical 319 325	damsin
+T12	Chemical 330 344	psilostachynin
+T17	Biological_Activity 484 494	allergenic
+T21	Chemical 507 530	sesquiterpene lactones.
+#7	AnnotatorNotes T21	Chemical class
+R8	Associated_With Arg1:T21 Arg2:T17	
+T22	Species 531 540	Pyrethrum
+T23	Chemical 594 604	pyrethrins
+#8	AnnotatorNotes T23	Chemical class
+T24	Species 649 662	chrysanthemum
+T25	Chemical 701 711	turpentine
+T26	Chemical 716 725	colophony
+T27	Species 733 739	garlic
+T28	Chemical 741 747	primin
+T29	Chemical 752 756	tars
+#9	AnnotatorNotes T29	Chemical class
+T5	Species 56 64	florists
+T13	Chemical 394 450	alpha-methylene group attached to the gamma-lactone ring
+R9	Associated_With Arg1:T13 Arg2:T17	
+T14	Species 584 592	patients
+T18	Species 663 671	patients

@@ -1,0 +1,112 @@
+T1	Chemical 28 38	diclofenac
+T2	Species 58 62	rats
+T3	Chemical 75 94	benzoquinone imines
+T4	Metabolite 75 94	benzoquinone imines
+#1	AnnotatorNotes T4	A group of compounds (produced by metabolism of the drug diclofenac in rats)
+T5	Protein 99 114	cytochrome P450
+T6	Chemical 217 228	glutathione
+T7	Chemical 230 233	GSH
+T8	Chemical 217 243	glutathione (GSH)  adducts
+T9	Metabolite 217 243	glutathione (GSH)  adducts
+T10	Species 326 331	human
+T12	Biological_Activity 354 367	bioactivation
+T13	Chemical 371 381	diclofenac
+T14	Chemical 440 443	GSH
+T15	Chemical 482 485	GSH
+T16	Chemical 503 542	5-hydroxy-4-(glutathion-S-yl)diclofenac
+T17	Metabolite 503 542	5-hydroxy-4-(glutathion-S-yl)diclofenac
+T18	Metabolite 544 546	M1
+T19	Chemical 544 546	M1
+T20	Metabolite 549 590	4'-hydroxy-3'-(glutathion-S-yl)diclofenac
+T21	Metabolite 592 594	M2
+T22	Chemical 549 590	4'-hydroxy-3'-(glutathion-S-yl)diclofenac
+T23	Chemical 592 594	M2
+T24	Metabolite 601 640	5-hydroxy-6-(glutathion-S-yl)diclofenac
+T25	Chemical 601 640	5-hydroxy-6-(glutathion-S-yl)diclofenac
+T26	Chemical 642 644	M3
+T27	Metabolite 642 644	M3
+T28	Chemical 681 691	diclofenac
+T29	Chemical 739 744	NADPH
+T30	Chemical 749 752	GSH
+T31	Chemical 851 870	benzoquinone imines
+#2	AnnotatorNotes T31	Class of chemicals
+T32	Chemical 878 880	M2
+T33	Metabolite 878 880	M2
+T34	Metabolite 851 870	benzoquinone imines
+T35	Chemical 964 966	M1
+T36	Metabolite 964 966	M1
+T37	Chemical 971 973	M3
+T38	Metabolite 971 973	M3
+T39	Chemical 1054 1056	M2
+T40	Chemical 1162 1164	M1
+T41	Chemical 1169 1171	M3
+T42	Metabolite 1054 1056	M2
+T43	Metabolite 1162 1164	M1
+T44	Metabolite 1169 1171	M3
+T45	Chemical 1074 1088	sulfaphenazole
+T46	Biological_Activity 1061 1070	inhibited
+T47	Biological_Activity 1176 1185	inhibited
+T48	Chemical 1189 1203	troleandomycin
+T49	Chemical 1205 1217	ketoconazole
+T50	Protein 1109 1117	antibody
+T51	Protein 1239 1247	antibody
+T52	Protein 1095 1117	anti-P450 2C9 antibody
+T53	Protein 1225 1247	anti-P450 3A4 antibody
+T54	Metabolite 1333 1335	M2
+T55	Chemical 1333 1335	M2
+T56	Protein 1308 1321	P450 isoforms
+T57	Protein 1358 1366	P450 2C9
+T58	Chemical 1394 1396	M1
+T59	Chemical 1401 1403	M3
+T60	Metabolite 1394 1396	M1
+T61	Metabolite 1401 1403	M3
+T62	Protein 1421 1429	P450 3A4
+T63	Protein 340 344	P450
+T64	Metabolite 1520 1522	M2
+T65	Chemical 1520 1522	M2
+T66	Protein 1527 1535	P450 2C9
+T67	Chemical 1606 1608	M1
+T68	Chemical 1613 1615	M3
+T69	Metabolite 1606 1608	M1
+T70	Metabolite 1613 1615	M3
+T71	Protein 1620 1628	P450 3A4
+T72	Chemical 1761 1771	diclofenac
+T73	Chemical 1775 1777	M2
+T74	Metabolite 1775 1777	M2
+T75	Protein 1781 1789	P450 2C9
+T76	Chemical 1835 1837	M1
+T77	Metabolite 1835 1837	M1
+T78	Chemical 1842 1844	M3
+T79	Metabolite 1842 1844	M3
+T80	Protein 1861 1869	P450 3A4
+T81	Protein 1880 1885;1886 1889;1894 1897	P450s 2C9 3A4
+T82	Protein 1945 1953	P450 2C9
+T83	Chemical 1982 2000	benzoquinone imine
+#3	AnnotatorNotes T83	name of a class of compounds
+T84	Metabolite 0 1989	Recently, it was shown that diclofenac was metabolized in rats to reactive benzoquinone imines via cytochrome P450-catalyzed oxidation. These metabolites also were detected in human hepatocyte cultures in the form of glutathione (GSH)  adducts. This report describes the results of further studies aimed at characterizing the human hepatic P450-mediated bioactivation of diclofenac. The reactive metabolites formed in vitro were trapped by GSH and analyzed by LC/MS/MS. Thus, three GSH adducts, namely, 5-hydroxy-4-(glutathion-S-yl)diclofenac (M1), 4'-hydroxy-3'-(glutathion-S-yl)diclofenac (M2), and 5-hydroxy-6-(glutathion-S-yl)diclofenac (M3), were identified in incubations of diclofenac with human liver microsomes in the presence of NADPH and GSH. The formation of the adducts was taken to reflect the intermediacy of the corresponding putative benzoquinone imines. While M2 was the dominant metabolite  over a substrate concentration range of 10-50 microM, M1 and M3 became equally important products at >/=100 microM diclofenac. The formation of M2 was inhibited by sulfaphenazole or an anti-P450 2C9 antibody (5-10% of control values). The formation of M1 and M3 was inhibited by troleandomycin, ketoconazole, or an anti-P450 3A4 antibody (30-50% of control values). In studies in which recombinant P450 isoforms were used, M2 was generated only by P450 2C9-catalyzed  reaction, while M1 and M3 were produced by P450 3A4-catalyzed reaction. Good correlations were established between the extent of formation of M2 and P450 2C9  activities (r = 0.93, n = 10) and between the extent of formation of M1 and M3 and P450 3A4 activities (r = 0.98, n = 10) in human liver microsomal incubations. Taken together, the data suggest that the biotransformation of diclofenac to M2 is P450 2C9-dependent, whereas metabolism of the drug to M1 and M3 involves mainly P450 3A4. Although P450s 2C9 and 3A4 both catalyze the bioactivation of diclofenac, P450 2C9 is capable of producing the benzoqu
+T85	Species 176 181	human
+T86	Metabolite 387 407	reactive metabolites
+T87	Spectral_Data 460 468	LC/MS/MS
+R1	Associated_With Arg1:T86 Arg2:T87	
+T88	Chemical 482 493	GSH adducts
+T89	Species 697 702	human
+T90	Chemical 1025 1035	diclofenac
+R2	Associated_With Arg1:T45 Arg2:T46	
+R3	Associated_With Arg1:T48 Arg2:T47	
+R4	Associated_With Arg1:T49 Arg2:T47	
+T91	Chemical 1933 1943	diclofenac
+R5	Metabolite_Of Arg1:T4 Arg2:T1	
+R6	Metabolite_Of Arg1:T17 Arg2:T28	
+R7	Metabolite_Of Arg1:T18 Arg2:T28	
+R8	Metabolite_Of Arg1:T20 Arg2:T28	
+R10	Metabolite_Of Arg1:T21 Arg2:T28	
+R9	Metabolite_Of Arg1:T24 Arg2:T28	
+R11	Metabolite_Of Arg1:T27 Arg2:T28	
+R12	Metabolite_Of Arg1:T74 Arg2:T72	
+R13	Metabolite_Of Arg1:T77 Arg2:T72	
+R14	Metabolite_Of Arg1:T79 Arg2:T72	
+R15	Isolated_From Arg1:T4 Arg2:T2	
+R16	Associated_With Arg1:T16 Arg2:T87	
+R17	Associated_With Arg1:T22 Arg2:T87	
+R18	Associated_With Arg1:T25 Arg2:T87	
+T11	Biological_Activity 1809 1819	metabolism

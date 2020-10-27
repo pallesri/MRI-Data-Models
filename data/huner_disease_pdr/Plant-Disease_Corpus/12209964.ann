@@ -1,0 +1,25 @@
+T1	Disease 55 69	stomach cancer
+T2	Disease 230 244	stomach cancer
+T3	Disease 486 500	stomach cancer
+T4	Disease 1320 1340	gastroduodenal ulcer
+T5	Disease 1581 1595	stomach cancer
+T6	Disease 1742 1766	increased stomach cancer
+T7	Disease 1870 1884	stomach cancer
+T8	Disease 1906 1912	cancer
+T9	Plant 178 185	tobacco
+T10	Plant 347 354	tobacco
+T11	Plant 685 692	tobacco
+T12	Plant 1258 1265	tobacco
+T13	Plant 1619 1626	tobacco
+T14	Plant 1706 1713	tobacco
+T15	Plant 1890 1897	tobacco
+T16	Cause_of_disease 1726 1736	associated
+E1	Cause_of_disease:T16 Theme:T6 Cause:T14
+T17	Cause_of_disease 1898 1905	related
+E2	Cause_of_disease:T17 Theme:T8 Cause:T15
+T18	Cause_of_disease 1603 1615	attributable
+E3	Cause_of_disease:T18 Cause:T13 Theme:T5
+T19	Unknown 260 268	relation
+E4	Unknown:T19 Cause:T10 Theme:T2
+T20	Cause_of_disease 150 154	risk
+E5	Cause_of_disease:T20 Cause:T9 Theme:T1

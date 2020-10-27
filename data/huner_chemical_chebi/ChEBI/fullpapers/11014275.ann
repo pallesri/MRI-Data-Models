@@ -1,0 +1,149 @@
+T1	Species 1 17	Butea monosperma
+T2	Biological_Activity 194 204	antitumour
+T3	Biological_Activity 209 218	antiulcer
+T4	Biological_Activity 274 284	antifungal
+T5	Biological_Activity 366 375	analgesic
+T6	Biological_Activity 380 392	anthelmintic
+T7	Biological_Activity 440 453	antimicrobial
+T8	Biological_Activity 585 597	anthelmintic
+T9	Chemical 619 629	Flavonoids
+T10	Metabolite 619 629	Flavonoids
+T11	Chemical 704 725	nitrogenous compounds
+T12	Chemical 1034 1041	euphane
+T13	Chemical 1052 1068	lipid derivative
+T14	Metabolite 1034 1041	euphane
+T15	Species 1143 1156	B. monosperma
+T16	Spectral_Data 1210 1350	IR spectrum bands corresponded to OH (3480 cm−1 ), terminal unsaturated CH2  (1610, 880 cm−1 ) and gem dimethyl (1380, 1360 cm−1 ) functions
+T17	Spectral_Data 1355 1418	[M]+  at m/z  428 suggested the molecular formula as C30 H52 O.
+T18	Spectral_Data 1423 1928	1 H NMR spectrum exhibited signals due to five quaternary methyls (δ  0.79, 0.83, 0.94, 0.96, 1.04), a vinylic methyl (δ  1.62), and a secondary methyl (δ  1.08) indicative of a tetracyclic triterpene skeleton (Hemmert et al., 1966 ). Two broad singlets at δ  4.56 and 4.68, each integrating for one proton, corresponded to the methine protons of an olefinic methylene group (Jagodzinska et al., 1985 ) which in conjunction with a broad singlet at δ  1.62 suggested the existence of a isopropylidene group
+T19	Spectral_Data 1990 2055	δ  151.0 and 109.30 in the 13 C NMR spectrum for >CCH2  grouping
+T20	Spectral_Data 2088 2195	A multiplet at δ  3.34 (W 1/2 =7 Hz) was assigned to a methine proton with an axially oriented C-3 OH group
+T21	Chemical 2436 2446	lanosterol
+T22	Chemical 2487 2494;2511 2524	euphane triterpenoids
+T23	Chemical 2499 2524	tirucallane triterpenoids
+T24	Metabolite 2499 2524	tirucallane triterpenoids
+T25	Metabolite 2487 2494;2511 2524	euphane triterpenoids
+T26	Chemical 2673 2680;2696 2704	euphane skeleton
+T27	Chemical 2684 2704	tirucallane skeleton
+T28	Chemical 2814 2821	euphane
+T29	Chemical 2834 2845	tirucallane
+T30	Chemical 2311 2319	euphenol
+T31	Chemical 2324 2334	lanosterol
+T32	Spectral_Data 2882 3171	MS of 1 , the loss of CH3  and H2 O from [M]+  was seen at m/z  413 and 410. The formation of a fragment ion at m/z  316 [M-side chain (C8 H15 )–H]+  suggested the presence of a monounsaturated side chain (Wyllie and Djerassi, 1968 ) and the existence of OH group in the tetracyclic system
+T33	Chemical 3203 3208	Ac2 O
+T34	Chemical 3209 3217	pyridine
+T35	Chemical 3230 3237	acetate
+T36	Chemical 3230 3243	acetate (1a )
+T37	Spectral_Data 3264 3398	1 H NMR spectrum was similar to 1  except for the appearance of a new signal at δ  2.04 and downfield shifted C-3 methine by 1.11 ppm.
+R1	Associated_With Arg1:T36 Arg2:T37	
+T38	Spectral_Data 3406 3529	13 C NMR spectrum of 1 , the appearance of C-18, C-20 and C-21 at 15.4, 35.6 and 19.3 also established the euphane skeleton
+T39	Chemical 3513 3529	euphane skeleton
+T40	Chemical 3807 3828	3α-hydroxyeuph-25-ene
+T41	Metabolite 3807 3828	3α-hydroxyeuph-25-ene
+T42	Species 5654 5667	B. monosperma
+R3	Isolated_From Arg1:T41 Arg2:T42	
+R2	Associated_With Arg1:T41 Arg2:T16	
+R4	Associated_With Arg1:T40 Arg2:T16	
+R5	Associated_With Arg1:T40 Arg2:T17	
+R6	Associated_With Arg1:T41 Arg2:T17	
+R7	Associated_With Arg1:T40 Arg2:T18	
+R8	Associated_With Arg1:T41 Arg2:T18	
+R9	Associated_With Arg1:T40 Arg2:T19	
+R10	Associated_With Arg1:T41 Arg2:T19	
+R11	Associated_With Arg1:T40 Arg2:T20	
+R12	Associated_With Arg1:T41 Arg2:T20	
+R13	Associated_With Arg1:T40 Arg2:T32	
+R14	Associated_With Arg1:T41 Arg2:T32	
+R15	Associated_With Arg1:T40 Arg2:T38	
+R16	Associated_With Arg1:T41 Arg2:T38	
+T43	Spectral_Data 3849 3979	IR bands at 3438 (OH), 1730 (CO), 1670 (tetrasubstituted) (Nakanishi and Solomon, 1977 ), 1386 (Me) and 720 cm−1  (straight chain)
+T44	Spectral_Data 4033 4044	[M]+  = 408
+T45	Spectral_Data 4070 4811	Successive loss of two H2 O molecules was seen at m/z  390 and 372, whereas the location of these OH groups was assigned at C-2 and C-14 since significant α-fission ions were appeared at m/z  311, 281, 127, 97 and 351, 321, 87, 57, respectively. The other diagnostic α-fission ions at m/z  225, 211, 197, 183 together with ß-fission ions involving McLafferty rearrangement (Budzikiewicz et al., 1964 ) at m/z  226 and 182 located the keto group at C-8. The abundant ions at m/z  83 and 325 indicated the presence of a cyclohexyl moiety at the end carbon atom (Bhakuni and Shukla, 1992 ). The tetrasubstituted double bond along with the two methyl groups were assigned at C-11,12 since significant ions were seen at m/z  307, 253, 155 and 101
+T46	Chemical 4857 4918	2,14-dihydroxy-11,12-dimethyl-8-oxooctadec-11-enylcyclohexane
+T47	Metabolite 4857 4918	2,14-dihydroxy-11,12-dimethyl-8-oxooctadec-11-enylcyclohexane
+R17	Associated_With Arg1:T47 Arg2:T43	
+R18	Associated_With Arg1:T47 Arg2:T44	
+R19	Associated_With Arg1:T47 Arg2:T45	
+R20	Associated_With Arg1:T46 Arg2:T43	
+R21	Associated_With Arg1:T47 Arg2:T44	
+R22	Associated_With Arg1:T46 Arg2:T45	
+T48	Spectral_Data 4958 4965	1 H NMR
+R23	Associated_With Arg1:T47 Arg2:T48	
+R24	Associated_With Arg1:T46 Arg2:T48	
+T49	Chemical 5027 5044	nonacosanoic acid
+T50	Metabolite 5027 5044	nonacosanoic acid
+T51	Chemical 5046 5058	stigmasterol
+T52	Metabolite 5046 5058	stigmasterol
+T53	Chemical 5063 5095	stigmasterol-ßD -glucopyranoside
+T54	Metabolite 5063 5095	stigmasterol-ßD -glucopyranoside
+R25	Isolated_From Arg1:T47 Arg2:T42	
+R26	Isolated_From Arg1:T50 Arg2:T42	
+R27	Isolated_From Arg1:T52 Arg2:T42	
+R28	Isolated_From Arg1:T54 Arg2:T42	
+T55	Chemical 5153 5176	straight chain alcohols
+T56	Chemical 5186 5204	cyclohexane moiety
+T57	Chemical 5329 5334	CDCl3
+T58	Chemical 5370 5373	TMS
+T59	Chemical 5414 5419	CDCl3
+T60	Chemical 5440 5452	silica gel G
+T61	Chemical 5458 5468	silica gel
+T62	Chemical 5525 5529	I2  
+T63	Chemical 5874 5878	MeOH
+T64	Chemical 5959 5964	water
+T65	Chemical 6009 6018	n -hexane
+T66	Chemical 6039 6044	EtOAc
+T67	Chemical 6069 6076	n -BuOH
+T68	Chemical 6122 6128	hexane
+T69	Chemical 6163 6173	silica gel
+T70	Chemical 6219 6225	hexane
+T71	Chemical 6227 6232	EtOAc
+T72	Chemical 6237 6241	MeOH
+T73	Chemical 6390 6415	3.4 3α-Hydroxyeuph-25-ene
+T74	Metabolite 6390 6415	3.4 3α-Hydroxyeuph-25-ene
+T75	Chemical 6468 6474	hexane
+T76	Chemical 6475 6480	EtOAc
+T77	Chemical 6534 6539	CHCl3
+T78	Spectral_Data 6543 6613	IR: γ max  cm−1 : 3480, 2930, 1610, 1450, 1360, 1244, 1110, 1014, 880;
+R29	Associated_With Arg1:T74 Arg2:T78	
+R30	Associated_With Arg1:T73 Arg2:T78	
+T79	Spectral_Data 6614 6909	1 H NMR: δ  0.79 (3H, s , 19-H3 ), 0.83 (3H, s , 18-H3 ), 0.94 (3H, s , 29-H3 ), 0.96 (3H, s , 28-H3 ), 1.04 (3H, s , 30-H3 ), 1.08 (3H, d , J =6 Hz, 21-H3 ), 1.62(3H, s , 27-H3 ), 1.90 (1H, m , 20-H), 2.36 (2H, m , 24-H2 ), 3.34 (1H, m , W 1/2 =7 Hz, 3ß-H), 4.56, 4.68, (2H, each br s , 26-H2 )
+R31	Associated_With Arg1:T74 Arg2:T79	
+R32	Associated_With Arg1:T73 Arg2:T79	
+T80	Spectral_Data 6911 7280	MS m/z  (rel. int.): 428 [M]+  (C30 H52 O, 67), 413 [M − Me]+ (19), 410 [M − H2 O]+ (5), 395 [M − Me–H2 O]+ (5), 387 [M − 41]+ (6), 317 [M − sc]+ (15), 316 [M − sc–H]+ (18), 301 [316 − Me]+ (5), 298 [316 − H2 O]+ (5), 286 [301 − Me]+ (5), 196 (5), 194 (8), 178 [196 − H2 O]+ (18), 179 [194 − Me]+ (10), 161 (12), 128 (5), 111 (20), 110 (15), 95 (100), 81 (80), 69 (75).
+R33	Associated_With Arg1:T74 Arg2:T80	
+R34	Associated_With Arg1:T73 Arg2:T80	
+T81	Chemical 7286 7297;7304 7308	Monoacetate of 1
+T82	Chemical 7350 7357	C5 H5 N
+T83	Chemical 7358 7363	Ac2 O
+T84	Spectral_Data 7456 7529	IR γ max  cm−1 : 2940, 2856, 1738, 1640, 1460, 1374, 1245, 1020, 978, 880
+R35	Associated_With Arg1:T81 Arg2:T84	
+T85	Spectral_Data 7531 7845	1 H NMR: δ  0.79 (3H, s , 19-H3 ), 0.84 (3H, s , 18-H3 ), 0.94 (3H, s , 29-H3 ), 0.97 (3H, s , 28-H3 ), 1.03 (3H, s , 30-H3 ), 1.08 (3H, d , J =6 Hz, 21-H3 ), 1.68 (3H, s , 27-H3 ), 1.90 (1H, m , 20-H), 2.04 (3H, s , OAc), 2.36 (2H, m , 24-H2 ), 4.45 (1H, m , W 1/2 =7 Hz, 3ßH), 4.56, 4.68 (2H, each br s , 26-H2 )
+R36	Associated_With Arg1:T81 Arg2:T85	
+T86	Spectral_Data 7847 8064	MS m/z  (rel. int.): 470 [M]+  (C32 H54 O2 , 11), 455 (4), 429 (5), 410 (2), 359 (5), 257 (5), 238 (5), 236 (4), 188 (100), 176 (15), 161 (17), 160 (21), 111 (20), 110 (15), 95 (60), 81 (80), 69 (40), 55 (50), 43 (98)
+R37	Associated_With Arg1:T81 Arg2:T86	
+T87	Chemical 8071 8088	Nonacosanoic acid
+T88	Metabolite 8071 8088	Nonacosanoic acid
+T89	Chemical 8113 8119	hexane
+T90	Chemical 8120 8125	EtOAc
+T91	Chemical 8212 8224	Stigmasterol
+T92	Metabolite 8212 8224	Stigmasterol
+T93	Chemical 8249 8255	hexane
+T94	Chemical 8256 8261	EtOAc
+T95	Chemical 8370 8431	2,14-Dihydroxy-11,12-dimethyl-8-oxooctadec-11-enylcyclohexane
+T96	Metabolite 8370 8431	2,14-Dihydroxy-11,12-dimethyl-8-oxooctadec-11-enylcyclohexane
+T97	Chemical 8490 8496	hexane
+T98	Chemical 8497 8502	EtOAc
+T99	Spectral_Data 8543 8623	IR γ max  cm−1 : 3438, 2920, 2850, 1730, 1670, 1450, 1386, 1180, 1110, 1052, 720
+R38	Associated_With Arg1:T96 Arg2:T99	
+R39	Associated_With Arg1:T95 Arg2:T99	
+T100	Spectral_Data 8625 8983	1 H NMR: δ  0.88 (3H, t , J =6 Hz, 18-H3 ), 1.25 (10H, br s , 5 × CH2 ), 1.50 (10H, br s , cyclohexyl (CH2 )5 ), 1.64 (1H, m , 1′ -H), 1.60 (6H, s , 11-H3 , 12-H3), 1.90 (4H, m , 3-H2 , 15-H2 ), 2.02 (2H, m , 1-H2 ), 2.35 (4H, t , J =6 Hz, 7-H2 , 9-H2 ), 2.45 (2H, t , J =6 Hz, 10-H2 ), 2.48 (2H, d , J =5 Hz, 13-H2 ), 3.64 (1H, m , 2-H), 3.94 (1H, m , 14-H)
+R40	Associated_With Arg1:T96 Arg2:T100	
+R41	Associated_With Arg1:T95 Arg2:T100	
+T101	Spectral_Data 8985 9298	MS m/z  (rel. int.): 408 [M]+  (C26 H48 O3 , 2), 390[M − H2 O]+ (7), 372 [M − 2H2 O]+ (7), 393 [M − Me]+ (3), 378 [M −2 × Me]+ (3), 351 (4), 325 (5), 321 (3), 311 (4), 307 (5), 281 (4), 253 (5), 226 (6), 225 (5), 211 (7), 197 (6), 183 (10), 182 (7), 155 (4), 127 (19), 101 (6), 97 (90), 87 (12), 83 (65), 57 (100)
+R42	Associated_With Arg1:T96 Arg2:T101	
+R43	Associated_With Arg1:T95 Arg2:T101	
+T102	Chemical 9376 9408	Stigmasterol-ßD -glucopyranoside
+T103	Metabolite 9376 9408	Stigmasterol-ßD -glucopyranoside
+R44	Metabolite_Of Arg1:T103 Arg2:T91	
+T104	Chemical 9459 9463	MeOH
+T105	Chemical 9464 9469	EtOAc

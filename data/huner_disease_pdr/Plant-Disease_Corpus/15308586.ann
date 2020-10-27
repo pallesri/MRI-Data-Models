@@ -1,0 +1,11 @@
+T1	Disease 80 86	cancer
+T2	Disease 1867 1872	tumor
+T4	Plant 25 31	tomato
+T6	Plant 160 166	tomato
+T7	Plant 358 364	tomato
+T10	Plant 601 607	tomato
+T12	Plant 1087 1093	tomato
+T13	Plant 1616 1622	tomato
+T15	Plant 1757 1763	tomato
+T3	Treatment_of_disease 44 54	associated
+E1	Treatment_of_disease:T3 Cause:T4 Theme:T1

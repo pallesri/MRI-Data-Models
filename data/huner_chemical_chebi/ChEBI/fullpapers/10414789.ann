@@ -1,0 +1,328 @@
+T1	Chemical 1 12	Pyrethroids
+T2	Biological_Activity 48 58	pesticides
+R1	Associated_With Arg1:T1 Arg2:T2	
+T3	Species 60 66	People
+T4	Chemical 78 89	pyrethroids
+T5	Species 241 247	humans
+T6	Chemical 249 260	pyrethroids
+T7	Biological_Activity 273 284	metabolised
+T8	Protein 288 297	esterases
+T9	Chemical 125 133	chemical
+T10	Biological_Activity 324 334	detoxified
+T11	Chemical 335 346	metabolites
+T12	Metabolite 335 346	metabolites
+T13	Chemical 419 430	metabolites
+T14	Metabolite 419 430	metabolites
+T15	Chemical 476 486	cyfluthrin
+T16	Chemical 507 518	metabolites
+T17	Metabolite 507 518	metabolites
+T18	Chemical 595 605	cyfluthrin
+T19	Chemical 619 630	metabolites
+T20	Metabolite 619 630	metabolites
+T21	Chemical 772 782	metabolite
+T22	Metabolite 772 782	metabolite
+T23	Biological_Activity 917 927	biological
+T24	Chemical 950 960	pyrethroid
+T25	Chemical 1019 1030	pyrethroids
+T26	Chemical 1162 1172	pyrethroid
+T27	Chemical 1413 1423	pyrethroid
+T28	Chemical 1482 1492	pyrethroid
+T29	Biological_Activity 1656 1665	metabolic
+T30	Biological_Activity 1733 1744	pyrethroids
+T31	Chemical 1810 1826	organophosphates
+T32	Chemical 1831 1841	carbamates
+T33	Protein 1849 1863	cholinesterase
+T34	Protein 1997 2008	Paraoxonase
+T35	Species 2020 2025	human
+T36	Protein 2122 2133	paraoxonase
+T37	Protein 2248 2263	cholinesterases
+T38	Protein 2296 2313	carboxylesterases
+T39	Protein 2315 2325	EC 3.1.1.1
+T40	Protein 2344 2370	carboxylic-ester hydrolase
+T41	Biological_Activity 2385 2393	detoxify
+T42	Chemical 2394 2405	xenobiotics
+T43	Chemical 2417 2433	aliphatic esters
+T44	Biological_Activity 2394 2405	xenobiotics
+T45	Protein 2440 2446	enzyme
+T46	Biological_Activity 2450 2459	inhibited
+T47	Chemical 2463 2479	organophosphates
+T48	Chemical 2485 2493	paraoxon
+R2	Associated_With Arg1:T48 Arg2:T46	
+R3	Binds_With Arg1:T48 Arg2:T38	
+R4	Binds_With Arg1:T48 Arg2:T39	
+R5	Binds_With Arg1:T48 Arg2:T40	
+T49	Protein 2542 2559	Carboxylesterases
+T50	Protein 2635 2643	esterase
+T51	Biological_Activity 2635 2643	esterase
+T52	Chemical 2751 2761	pyrethroid
+T53	Biological_Activity 907 913	marker
+R6	Associated_With Arg1:T24 Arg2:T53	
+T54	Biological_Activity 2728 2735	markers
+T55	Chemical 2821 2832	pyrethroids
+T56	Chemical 2844 2854	pyrethroid
+T57	Chemical 2844 2866	pyrethroid metabolites
+T58	Metabolite 2844 2866	pyrethroid metabolites
+T59	Protein 2880 2888	esterase
+T60	Biological_Activity 2880 2888	esterase
+R7	Metabolite_Of Arg1:T58 Arg2:T55	
+T61	Chemical 2952 2974	Pyrethroid metabolites
+T62	Metabolite 2952 2974	Pyrethroid metabolites
+T63	Chemical 2952 2962	Pyrethroid
+T64	Species 110 117	workers
+T65	Species 179 186	farmers
+T66	Species 191 213	pest control operators
+T67	Species 227 236	consumers
+T68	Species 2995 3017	pest control operators
+T69	Chemical 3043 3054	pyrethroids
+T70	Chemical 3055 3065	cyfluthrin
+T71	Chemical 3075 3085	permethrin
+T72	Chemical 3094 3106	deltamethrin
+T73	Chemical 3118 3130	cypermethrin
+T74	Species 3183 3191	subjects
+T75	Chemical 3296 3307	metabolites
+T76	Metabolite 3296 3307	metabolites
+T77	Spectral_Data 3326 3331	GC/MS
+R8	Associated_With Arg1:T76 Arg2:T77	
+R9	Associated_With Arg1:T75 Arg2:T77	
+T78	Chemical 3514 3524	cyfluthrin
+T79	Chemical 3514 3536	cyfluthrin metabolites
+T80	Metabolite 3514 3536	cyfluthrin metabolites
+R10	Metabolite_Of Arg1:T80 Arg2:T78	
+T81	Species 3559 3574	male volunteers
+T82	Chemical 3609 3619	cyfluthrin
+T83	Species 3724 3734	volunteers
+T84	Species 3810 3816	animal
+T85	Biological_Activity 3817 3825	toxicity
+T86	Chemical 3941 3951	cyfluthrin
+T87	Chemical 4108 4118	Cyfluthrin
+T88	Chemical 4108 4130	Cyfluthrin metabolites
+T89	Metabolite 4108 4130	Cyfluthrin metabolites
+T90	Chemical 4131 4136;4149 4210	cis - 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylic acid
+T91	Chemical 4141 4210	trans - 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylic acid
+T92	Metabolite 4212 4216	DCCA
+T93	Metabolite 4131 4136;4149 4210	cis - 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylic acid
+T94	Metabolite 4141 4210	trans - 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylic acid
+T95	Chemical 4212 4216	DCCA
+T96	Chemical 4222 4247	fluorophenoxybenzoic acid
+T97	Metabolite 4222 4247	fluorophenoxybenzoic acid
+T98	Chemical 4249 4253	FPBA
+T99	Metabolite 4249 4253	FPBA
+T100	Spectral_Data 4283 4288	GC/MS
+R11	Metabolite_Of Arg1:T93 Arg2:T87	
+R12	Metabolite_Of Arg1:T94 Arg2:T87	
+R13	Metabolite_Of Arg1:T92 Arg2:T87	
+R14	Metabolite_Of Arg1:T97 Arg2:T87	
+R15	Metabolite_Of Arg1:T99 Arg2:T87	
+R16	Isolated_From Arg1:T93 Arg2:T83	
+R17	Isolated_From Arg1:T94 Arg2:T83	
+R18	Isolated_From Arg1:T92 Arg2:T83	
+R19	Isolated_From Arg1:T97 Arg2:T83	
+R20	Isolated_From Arg1:T99 Arg2:T83	
+R21	Associated_With Arg1:T99 Arg2:T100	
+R22	Associated_With Arg1:T98 Arg2:T100	
+R23	Associated_With Arg1:T97 Arg2:T100	
+R24	Associated_With Arg1:T96 Arg2:T100	
+R25	Associated_With Arg1:T92 Arg2:T100	
+R26	Associated_With Arg1:T95 Arg2:T100	
+R27	Associated_With Arg1:T93 Arg2:T100	
+R28	Associated_With Arg1:T90 Arg2:T100	
+R29	Associated_With Arg1:T94 Arg2:T100	
+R30	Associated_With Arg1:T91 Arg2:T100	
+T101	Chemical 4365 4387	cyfluthrin metabolites
+T102	Metabolite 4365 4387	cyfluthrin metabolites
+T103	Chemical 4365 4375	cyfluthrin
+T104	Chemical 4623 4633	cyfluthrin
+T105	Species 4650 4657	workers
+T106	Chemical 4665 4673	chemical
+T107	Species 4755 4762	workers
+T108	Chemical 4779 4789	cyfluthrin
+T109	Chemical 4815 4825	cyfluthrin
+T110	Chemical 4830 4846	methyl-parathion
+T111	Biological_Activity 4906 4916	pesticides
+R31	Associated_With Arg1:T109 Arg2:T111	
+R32	Associated_With Arg1:T110 Arg2:T111	
+T112	Chemical 4961 4971	cyfluthrin
+T113	Chemical 5097 5110	transfluthrin
+T114	Species 5114 5119	human
+T115	Species 5134 5139	human
+R33	Associated_With Arg1:T113 Arg2:T111	
+R34	Associated_With Arg1:T108 Arg2:T111	
+T116	Protein 5168 5182	cholinesterase
+T117	Protein 5187 5203	carboxylesterase
+T118	Chemical 5221 5234	transfluthrin
+T119	Chemical 5259 5272	transfluthrin
+T120	Protein 5366 5382	carboxylesterase
+T121	Protein 5384 5394	EC 3.1.1.1
+T122	Species 5400 5407	porcine
+T123	Chemical 5445 5458	Transfluthrin
+T124	Chemical 5538 5551	transfluthrin
+T125	Protein 5622 5638	carboxylesterase
+T126	Biological_Activity 5622 5638	carboxylesterase
+T127	Species 5651 5656	human
+T128	Chemical 5908 5915	KH2 PO4
+T129	Chemical 5930 5937	K2 HPO4
+T130	Chemical 5969 5979	cyfluthrin
+T131	Chemical 5990 6001	cyano-group
+T132	Chemical 6013 6023	pyrethroid
+T133	Chemical 6042 6052	cyfluthrin
+T134	Chemical 6060 6063	DMF
+T135	Protein 6111 6127	carboxylesterase
+T136	Chemical 6321 6329	kryptate
+T137	Chemical 6346 6369	Kryptofix 222 B polymer
+T138	Chemical 6415 6422	cyanide
+T139	Chemical 6458 6468	cyfluthrin
+T140	Chemical 6519 6534	dichloromethane
+T141	Chemical 6589 6614	pentafluorobenzyl bromide
+T142	Chemical 6641 6666	pentafluorobenzyl cyanide
+T143	Spectral_Data 6685 6690	GC/MS
+R35	Associated_With Arg1:T142 Arg2:T143	
+T144	Chemical 6692 6722	2,3,5,6-tetrachloronitrobenzol
+T145	Chemical 7130 7136	helium
+T146	Spectral_Data 7647 7659	mass spectra
+T147	Chemical 7792 7817	pentafluorobenzyl cyanide
+R36	Associated_With Arg1:T147 Arg2:T146	
+T148	Chemical 7857 7864	cyanide
+T149	Chemical 7968 7978	Pyrethroid
+T150	Chemical 7968 7990	Pyrethroid metabolites
+T151	Metabolite 7968 7990	Pyrethroid metabolites
+T152	Species 8041 8063	pest control operators
+T153	Species 8071 8087	control subjects
+T154	Chemical 8235 8245	pyrethroid
+T155	Chemical 8235 8257	pyrethroid metabolites
+T156	Metabolite 8235 8257	pyrethroid metabolites
+T157	Chemical 8330 8340	cyfluthrin
+T158	Chemical 8330 8352	cyfluthrin metabolites
+T159	Metabolite 8330 8352	cyfluthrin metabolites
+T160	Chemical 8412 8422	cyfluthrin
+T161	Biological_Activity 8423 8433	metabolism
+T162	Species 8437 8442	human
+T163	Biological_Activity 8530 8540	metabolism
+T164	Chemical 8638 8648	cyfluthrin
+T165	Chemical 8710 8720	cyfluthrin
+T166	Biological_Activity 8721 8731	metabolism
+T167	Chemical 8751 8761	cyfluthrin
+T168	Chemical 8781 8791	cyfluthrin
+T169	Chemical 8796 8812	methyl-parathion
+T170	Chemical 8855 8865	cyfluthrin
+T171	Chemical 8893 8903	cyfluthrin
+T172	Chemical 8959 8969	cyfluthrin
+T173	Chemical 9034 9044	cyfluthrin
+T174	Chemical 9092 9102	pyrethroid
+T175	Chemical 9108 9123	organophosphate
+T176	Chemical 9174 9184	cyfluthrin
+T177	Chemical 9296 9306	cyfluthrin
+T178	Chemical 9402 9415	transfluthrin
+T179	Species 9419 9424	human
+T180	Chemical 9432 9445	Transfluthrin
+T181	Species 9484 9489	human
+T182	Protein 9503 9517	cholinesterase
+T183	Chemical 9554 9567	transfluthrin
+T184	Biological_Activity 9568 9578	metabolism
+T185	Protein 9588 9604	carboxylesterase
+T186	Protein 9676 9692	carboxylesterase
+T187	Biological_Activity 9676 9692	carboxylesterase
+T188	Species 9705 9710	human
+T189	Chemical 9765 9776	cyanic acid
+T190	Chemical 9795 9805	cyfluthrin
+T191	Metabolite 9765 9776	cyanic acid
+R37	Isolated_From Arg1:T191 Arg2:T188	
+R38	Metabolite_Of Arg1:T191 Arg2:T190	
+T192	Protein 9835 9851	carboxylesterase
+T193	Protein 9901 9917	carboxylesterase
+T194	Chemical 10019 10030	cyanic acid
+T195	Metabolite 10019 10030	cyanic acid
+T196	Protein 10071 10087	carboxylesterase
+T197	Chemical 10141 10152	cyanic acid
+T198	Metabolite 10141 10152	cyanic acid
+T199	Chemical 10290 10300	pyrethroid
+T200	Biological_Activity 10301 10308	induced
+T201	Species 10351 10357	humans
+T202	Chemical 10359 10370	pyrethroids
+T203	Biological_Activity 10397 10408	metabolized
+T204	Protein 10435 10444	esterases
+T205	Chemical 10471 10482	metabolites
+T206	Metabolite 10471 10482	metabolites
+T207	Chemical 10483 10488;10499 10562	cis - -3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid
+T208	Metabolite 10483 10488;10499 10562	cis - -3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid
+T209	Chemical 10493 10562	trans -3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid
+T210	Metabolite 10493 10562	trans -3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid
+T211	Chemical 10566 10632	cis -3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane carboxylic acid
+T212	Metabolite 10566 10632	cis -3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane carboxylic acid
+T213	Chemical 10638 10645	alcohol
+T214	Protein 10683 10691	oxidases
+T215	Chemical 10696 10726	4-fluoro-3-phenoxybenzoic acid
+T216	Chemical 10730 10751	3-phenoxybenzoic acid
+T217	Chemical 10778 10783	acids
+T218	Chemical 10814 10829	glucuronic acid
+T219	Chemical 10928 10939	pyrethroids
+T220	Chemical 10953 10964	metabolites
+T221	Metabolite 10953 10964	metabolites
+T222	Chemical 11034 11044	pyrethroid
+T223	Biological_Activity 11045 11055	metabolism
+T224	Chemical 11109 11119	cyfluthrin
+T225	Chemical 11171 11181	cyfluthrin
+T226	Biological_Activity 11292 11302	inhibition
+T227	Chemical 11310 11320	cyfluthrin
+T228	Protein 11310 11339	cyfluthrin degrading esterase
+T229	Chemical 11347 11362	organophosphate
+T230	Chemical 11363 11379	methyl-parathion
+R39	Associated_With Arg1:T230 Arg2:T226	
+R40	Binds_With Arg1:T230 Arg2:T228	
+T231	Chemical 11416 11426	pyrethroid
+T232	Protein 11462 11470	esterase
+T233	Chemical 11487 11497	pyrethroid
+T234	Biological_Activity 11498 11508	metabolism
+T235	Chemical 11546 11562	organophosphates
+T236	Chemical 11567 11577	carbamates
+T237	Protein 11583 11597	cholinesterase
+T238	Chemical 11630 11640	pyrethroid
+T239	Biological_Activity 11641 11651	metabolism
+T240	Protein 11668 11682	cholinesterase
+T241	Protein 11687 11703	carboxylesterase
+T242	Protein 11720 11728	esterase
+T243	Protein 11763 11780	carboxylesterases
+T244	Chemical 11861 11877	carboxylesterase
+T245	Chemical 11878 11896	1-naphthyl acetate
+T246	Chemical 11913 11922	1-naphtol
+T247	Chemical 11963 11973	pyrethroid
+T248	Protein 12180 12196	carboxylesterase
+T249	Biological_Activity 12180 12196	carboxylesterase
+T250	Species 12242 12247	human
+T251	Protein 12286 12303	carboxylesterases
+T252	Chemical 12392 12403	pyrethroids
+T253	Protein 12422 12439	carboxylesterases
+T254	Species 12461 12465	rats
+T255	Species 12466 12471	human
+T256	Protein 12505 12521	carboxylesterase
+T257	Protein 12660 12676	carboxylesterase
+T258	Biological_Activity 12660 12676	carboxylesterase
+T259	Species 12689 12694	human
+T260	Chemical 12717 12727	Cyfluthrin
+T261	Chemical 12731 12741	pyrethroid
+T262	Chemical 12755 12766	cyano-group
+T263	Protein 12811 12827	carboxylesterase
+T264	Biological_Activity 12811 12827	carboxylesterase
+T265	Chemical 12855 12866	cyanic acid
+T266	Metabolite 12855 12866	cyanic acid
+T267	Protein 12926 12942	carboxylesterase
+T268	Biological_Activity 12926 12942	carboxylesterase
+T269	Chemical 13020 13030	pyrethroid
+T270	Protein 13086 13102	carboxylesterase
+T271	Biological_Activity 13086 13102	carboxylesterase
+T272	Species 13115 13120	human
+T273	Biological_Activity 13177 13183	marker
+T274	Chemical 13187 13197	pyrethroid
+T275	Species 13216 13219	man
+T276	Biological_Activity 13277 13287	metabolism
+T277	Chemical 13307 13318	pyrethroids
+T278	Chemical 13340 13350	pyrethroid
+T279	Chemical 13340 13362	pyrethroid metabolites
+T280	Metabolite 13340 13362	pyrethroid metabolites
+T281	Biological_Activity 13399 13405	marker
+T282	Chemical 13439 13449	pyrethroid
+T283	Chemical 13439 13461	pyrethroid metabolites
+T284	Metabolite 13439 13461	pyrethroid metabolites
+T285	Spectral_Data 13629 13634	GC/MS
+R41	Associated_With Arg1:T71 Arg2:T111	
+R42	Associated_With Arg1:T72 Arg2:T111	
+R43	Associated_With Arg1:T73 Arg2:T111	

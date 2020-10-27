@@ -1,0 +1,17 @@
+T1	Disease 493 533	hyperglycemic status of diabetic animals
+T2	Disease 1442 1468	hypocholesterolemic effect
+T3	Plant 59 64	onion
+T4	Plant 194 199	onion
+T5	Plant 316 321	onion
+T6	Plant 446 451	Onion
+T7	Plant 563 568	onion
+T8	Plant 688 693	onion
+T9	Plant 862 867	onion
+T10	Plant 1042 1047	onion
+T11	Plant 1184 1189	onion
+T12	Plant 1327 1332	onion
+T13	Treatment_of_disease 480 489	reduction
+E1	Treatment_of_disease:T13 Theme:T1 Cause:T6
+T14	Disease 1374 1382	diabetic
+T15	Treatment_of_disease 1341 1349	improves
+E2	Treatment_of_disease:T15 Theme:T14 Cause:T12

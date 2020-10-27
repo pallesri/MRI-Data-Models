@@ -1,0 +1,10 @@
+T1	Disease 110 121	anaphylaxis
+T2	Disease 123 140	atopic dermatitis
+T3	Disease 146 160	celiac disease
+T4	Plant 13 18	wheat
+T6	Plant 77 82	wheat
+T9	Plant 320 325	wheat
+T11	Plant 935 941	barley
+T12	Plant 946 949	rye
+T5	Cause_of_disease 102 109	induced
+E1	Cause_of_disease:T5 Theme:T1 Theme2:T2 Theme3:T3 Cause:T6

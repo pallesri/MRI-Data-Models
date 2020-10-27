@@ -1,0 +1,8 @@
+T1	Disease 121 142	prostatic hyperplasia
+T2	Disease 894 915	prostatic hyperplasia
+T3	Plant 21 36	Sabal serrulata
+T5	Plant 38 48	dwarf palm
+T4	Plant 807 822	Sabal serrulata
+T6	Treatment_of_disease 838 847	treatment
+E1	Treatment_of_disease:T6 Theme:T2 Cause:T4
+*	Equiv T3 T5

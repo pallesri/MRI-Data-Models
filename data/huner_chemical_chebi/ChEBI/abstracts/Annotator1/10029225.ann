@@ -1,0 +1,21 @@
+T1	Chemical 130 164	methyltetrahydrophthalic anhydride
+T2	Chemical 166 171	MTHPA
+T3	Species 111 118	workers
+T4	Species 203 210	workers
+T5	Chemical 251 262	epoxy resin
+T6	Chemical 268 273	MTHPA
+T7	Protein 549 552	IgE
+#1	AnnotatorNotes T7	An antibody
+T8	Chemical 534 539	MTHPA
+T9	Chemical 572 577	MTHPA
+T10	Protein 725 728	IgE
+T11	Protein 894 897	IgE
+T12	Chemical 1332 1337	MTHPA
+T13	Chemical 1424 1429	MTHPA
+T14	Chemical 1639 1644	MTHPA
+T16	Species 502 509	workers
+T17	Species 740 747	workers
+T18	Species 960 967	workers
+T19	Species 1109 1116	persons
+T20	Species 1770 1777	workers
+T21	Species 1181 1188	workers

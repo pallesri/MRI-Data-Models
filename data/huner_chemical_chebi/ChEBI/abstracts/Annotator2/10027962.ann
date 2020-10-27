@@ -1,0 +1,48 @@
+T1	Chemical 0 11	Diazaborine
+T2	Chemical 16 25	isoniazid
+T3	Biological_Activity 57 70	anti-bacteria
+T4	Species 125 141	Escherichia coli
+T5	Species 146 173	Mycobacterium  tuberculosis
+T7	Protein 96 115	enoyl-ACP reductase
+T9	Protein 117 120	ENR
+T10	Biological_Activity 84 91	inhibit
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T3	
+R3	Associated_With Arg1:T1 Arg2:T10	
+R4	Associated_With Arg1:T1 Arg2:T10	
+T11	Protein 220 227	enzymes
+T12	Chemical 250 261	diazaborine
+T14	Species 272 279	E. coli
+T16	Protein 280 283	ENR
+T18	Chemical 385 395	amino acid
+#1	AnnotatorNotes T18	Chemical class
+T19	Chemical 408 419	diazaborine
+T20	Protein 439 445	enzyme
+T21	Biological_Activity 483 490	binding
+T22	Biological_Activity 495 505	inhibition
+T23	Chemical 532 539	glycine
+T24	Species 566 573	E. coli
+T25	Protein 574 577	ENR
+T27	Chemical 728 738	amino acid
+#2	AnnotatorNotes T27	Chemical class
+T28	Chemical 761 769	hydrogen
+T29	Protein 835 842	enzymes
+T30	Chemical 855 866	diazaborine
+T32	Chemical 938 941	Gly
+T33	Chemical 948 959	amino acids
+#3	AnnotatorNotes T33	Chemical class
+T34	Chemical 992 998	serine
+T35	Chemical 1000 1007	alanine
+T36	Chemical 1009 1017	cysteine
+T37	Chemical 1022 1028	valine
+T38	Chemical 1133 1143	amino acid
+#4	AnnotatorNotes T38	Chemical class
+T39	Chemical 1173 1181	arginine
+T40	Chemical 1183 1192	histidine
+T41	Chemical 1194 1200	lysine
+T42	Chemical 1205 1214	glutamine
+T13	Protein 1259 1265	enzyme
+R5	Binds_With Arg1:T2 Arg2:T7	
+R6	Binds_With Arg1:T2 Arg2:T9	
+R7	Binds_With Arg1:T1 Arg2:T7	
+R8	Binds_With Arg1:T1 Arg2:T9	

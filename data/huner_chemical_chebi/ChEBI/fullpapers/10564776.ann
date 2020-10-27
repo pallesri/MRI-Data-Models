@@ -1,0 +1,572 @@
+T1	Chemical 1 13	Gangliosides
+T2	Metabolite 1 13	Gangliosides
+T3	Biological_Activity 141 149	adhesion
+T4	Biological_Activity 151 157	growth
+T5	Biological_Activity 159 174	differentiation
+T6	Biological_Activity 180 199	signal transduction
+R1	Associated_With Arg1:T2 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T4	
+R3	Associated_With Arg1:T2 Arg2:T5	
+R4	Associated_With Arg1:T2 Arg2:T6	
+R5	Associated_With Arg1:T1 Arg2:T3	
+R6	Associated_With Arg1:T1 Arg2:T4	
+R7	Associated_With Arg1:T1 Arg2:T5	
+R8	Associated_With Arg1:T1 Arg2:T6	
+T7	Chemical 208 229	C-series gangliosides
+T8	Metabolite 208 229	C-series gangliosides
+T9	Chemical 269 288	trisialosyl residue
+T10	Chemical 302 311	galactose
+T11	Chemical 319 326;338 353	hemato- oligosaccharide
+T12	Chemical 330 353	ganglio-oligosaccharide
+T13	Chemical 375 386	ganglioside
+T14	Metabolite 375 386	ganglioside
+T15	Species 415 419	fish
+R9	Isolated_From Arg1:T8 Arg2:T15	
+T16	Species 477 482	avian
+T17	Species 487 496	mammalian
+T18	Chemical 511 532	c-series gangliosides
+T19	Metabolite 511 532	c-series gangliosides
+T20	Chemical 543 564	O -acetyl derivatives
+T21	Biological_Activity 726 732	growth
+T22	Biological_Activity 734 749	differentiation
+T23	Biological_Activity 754 763	migration
+R10	Associated_With Arg1:T19 Arg2:T21	
+R11	Associated_With Arg1:T19 Arg2:T22	
+R12	Associated_With Arg1:T19 Arg2:T23	
+R13	Associated_With Arg1:T18 Arg2:T21	
+R14	Associated_With Arg1:T18 Arg2:T22	
+R15	Associated_With Arg1:T18 Arg2:T23	
+T24	Chemical 792 813	C-series gangliosides
+T25	Metabolite 792 813	C-series gangliosides
+T26	Species 893 898	swine
+T27	Species 913 918	human
+T28	Species 931 937	bovine
+T29	Species 956 959	cat
+R16	Isolated_From Arg1:T25 Arg2:T26	
+R17	Isolated_From Arg1:T25 Arg2:T27	
+R18	Isolated_From Arg1:T25 Arg2:T28	
+R19	Isolated_From Arg1:T25 Arg2:T29	
+T30	Chemical 1070 1091	c-series gangliosides
+T31	Metabolite 1070 1091	c-series gangliosides
+T32	Species 1226 1229	rat
+R20	Isolated_From Arg1:T31 Arg2:T32	
+T33	Chemical 1333 1354	c-series gangliosides
+T34	Metabolite 1333 1354	c-series gangliosides
+T35	Protein 1426 1443	sialyltransferase
+T36	Biological_Activity 1426 1443	sialyltransferase
+T37	Species 1482 1485	rat
+T38	Chemical 1510 1531	c-series gangliosides
+T39	Metabolite 1510 1531	c-series gangliosides
+T40	Protein 1562 1582	glycosyltransferases
+T41	Metabolite 1614 1621;1639 1651	asialo- gangliosides
+T42	Chemical 1614 1621;1639 1651	asialo- gangliosides
+T43	Chemical 1623 1625;1632 1651	a- series gangliosides
+T44	Metabolite 1623 1625;1632 1651	a- series gangliosides
+T45	Chemical 1630 1651	b-series gangliosides
+T46	Metabolite 1630 1651	b-series gangliosides
+T47	Chemical 1692 1713	c-series gangliosides
+T48	Metabolite 1692 1713	c-series gangliosides
+T49	Chemical 1815 1836	c-series gangliosides
+T50	Metabolite 1815 1836	c-series gangliosides
+T51	Species 1840 1843	rat
+T52	Species 1898 1902	rats
+T53	Protein 1936 1955	monoclonal antibody
+T54	Protein 1957 1961	A2B5
+T55	Species 2007 2026	Sprague-Dawley rats
+T56	Protein 2072 2076	A2B5
+T57	Species 2241 2247	bovine
+T58	Protein 2318 2322	A2B5
+T59	Protein 2298 2317	monoclonal antibody
+T60	Protein 2324 2327	IgM
+T61	Protein 2367 2386	monoclonal antibody
+T62	Protein 2388 2392	D1.1
+T63	Protein 2394 2398	IgG3
+T64	Chemical 2436 2451	9-O -acetyl GD3
+T65	Protein 2547 2555	antibody
+T66	Chemical 2564 2567	GM1
+T67	Chemical 2571 2581	asialo-GM1
+T68	Protein 2583 2586	IgG
+T69	Biological_Activity 2618 2628	immunizing
+T70	Chemical 2651 2661	glycolipid
+T71	Species 2629 2636	rabbits
+T72	Chemical 2707 2716	chemicals
+T73	Protein 2762 2785	epidermal growth factor
+T74	Protein 2787 2790	EGF
+T75	Chemical 2793 2819	fluorescein isothiocyanate
+T76	Protein 2821 2825;2842 2863	FITC conjugated antibodies
+T77	Protein 2831 2863	peroxidase-conjugated antibodies
+T78	Protein 2831 2841	peroxidase
+T79	Chemical 2821 2825	FITC
+T80	Protein 2793 2819;2841 2863	fluorescein isothiocyanate -conjugated antibodies
+T81	Species 2872 2877	mouse
+T82	Protein 2878 2881	IgM
+T83	Species 2885 2891	rabbit
+T84	Protein 2892 2895	IgG
+T85	Species 2901 2925	Arthrobacter ureafaciens
+T86	Protein 2927 2936	sialidase
+T87	Chemical 3245 3248	GD3
+T88	Species 3253 3259	bovine
+T89	Chemical 3266 3277	ganglioside
+T90	Metabolite 3266 3277	ganglioside
+T91	Species 3326 3329	rat
+T92	Species 3384 3387	rat
+T93	Chemical 3601 3609	collagen
+T94	Chemical 3673 3676	CO2
+T95	Chemical 3740 3743	FBS
+T96	Protein 3757 3764	insulin
+T97	Chemical 3772 3785	dexamethasone
+T98	Protein 3803 3806	EGF
+T99	Biological_Activity 3970 3983	proliferation
+T100	Biological_Activity 4074 4087	proliferation
+T101	Species 4225 4228	rat
+T102	Chemical 4269 4285	paraformaldehyde
+T103	Protein 4419 4444	anti-ganglioside antibody
+T104	Protein 4449 4464;4472 4480	FITC-conjugated antibody
+T105	Chemical 4449 4453	FITC
+T106	Chemical 3115 3132	bromodeoxyuridine
+T107	Chemical 3134 3138	BrdU
+T108	Protein 4580 4588	antibody
+T109	Protein 4633 4637	A2B5
+T110	Protein 4641 4645	D1.1
+T111	Protein 4671 4688	anti-GM1 antibody
+T112	Chemical 4709 4721	gangliosides
+T113	Metabolite 4709 4721	gangliosides
+T114	Chemical 4728 4734	lipids
+T115	Chemical 4792 4802	chloroform
+T116	Chemical 4803 4811	methanol
+T117	Chemical 4837 4844;4856 4862	neutral lipids
+T118	Metabolite 4728 4734	lipids
+T119	Metabolite 4837 4844;4856 4862	neutral lipids
+T120	Chemical 4866 4870	DEAE
+T121	Chemical 4849 4862	acidic lipids
+T122	Metabolite 4849 4862	acidic lipids
+T123	Chemical 4903 4916	Acidic lipids
+T124	Metabolite 4903 4916	Acidic lipids
+T125	Chemical 4935 4943	methanol
+T126	Chemical 4952 4956	NaOH
+T127	Chemical 5006 5017	acetic acid
+T128	Chemical 5028 5040	gangliosides
+T129	Metabolite 5028 5040	gangliosides
+T130	Species 5132 5139	Chicken
+T131	Chemical 5146 5158	gangliosides
+T132	Metabolite 5146 5158	gangliosides
+R21	Isolated_From Arg1:T132 Arg2:T130	
+T133	Chemical 5245 5257	gangliosides
+T134	Metabolite 5245 5257	gangliosides
+T135	Chemical 5340 5352	Gangliosides
+T136	Metabolite 5340 5352	Gangliosides
+T137	Chemical 5390 5397	solvent
+T138	Chemical 5408 5418	chloroform
+T139	Chemical 5419 5427	methanol
+T140	Chemical 5433 5445	CaCl2 ·2H2 O
+T141	Chemical 5484 5508	polyisobutylmethacrylate
+T142	Protein 5564 5589	anti-ganglioside antibody
+T143	Protein 5594 5604	peroxidase
+T144	Protein 5594 5615;5623 5631	peroxidase-conjugated antibody
+T145	Chemical 5756 5768	Gangliosides
+T146	Metabolite 5756 5768	Gangliosides
+T147	Chemical 5803 5817	resorcinol-HCl
+T148	Chemical 5818 5825	reagent
+T149	Chemical 5851 5863	gangliosides
+T150	Metabolite 5851 5863	gangliosides
+T151	Chemical 5873 5888	gangliotetraose
+T152	Chemical 5889 5904	oligosaccharide
+T153	Chemical 5934 5950	oligosaccharides
+T154	Chemical 5954 5966	gangliosides
+T155	Metabolite 5954 5966	gangliosides
+T156	Chemical 6033 6045	gangliosides
+T157	Metabolite 6033 6045	gangliosides
+T158	Protein 6049 6058	sialidase
+T159	Chemical 6076 6088	gangliosides
+T160	Metabolite 6076 6088	gangliosides
+T161	Species 6136 6150	A. ureafaciens
+T162	Protein 6152 6161	sialidase
+T163	Chemical 6213 6223	Asialo-GM1
+T164	Chemical 6250 6265	gangliotetraose
+T165	Protein 6330 6354	anti-asialo-GM1 antibody
+T166	Metabolite 6213 6223	Asialo-GM1
+T167	Chemical 6266 6277	ganglioside
+T168	Metabolite 6266 6277	ganglioside
+T169	Protein 6360 6368	antibody
+T170	Chemical 6415 6425	asialo-GM1
+T171	Metabolite 6415 6425	asialo-GM1
+T172	Species 6460 6466	bovine
+T173	Chemical 6473 6485	gangliosides
+T174	Metabolite 6473 6485	gangliosides
+T175	Chemical 6522 6543	c-series gangliosides
+T176	Metabolite 6522 6543	c-series gangliosides
+T177	Protein 6597 6605	antibody
+T178	Chemical 6683 6694	ganglioside
+T179	Metabolite 6683 6694	ganglioside
+T180	Species 6723 6730	chicken
+T181	Species 6741 6747	bovine
+T182	Chemical 6786 6807	c-series gangliosides
+T183	Metabolite 6786 6807	c-series gangliosides
+T184	Protein 6868 6876	antibody
+T185	Chemical 6896 6898;6905 6924	a- series gangliosides
+T186	Metabolite 6896 6897;6904 6924	a -series gangliosides
+T187	Chemical 6903 6924	b-series gangliosides
+T188	Metabolite 6903 6924	b-series gangliosides
+T189	Species 6928 6934	bovine
+T190	Chemical 6941 6953	gangliosides
+T191	Metabolite 6941 6953	gangliosides
+T192	Chemical 7000 7011	ganglioside
+T193	Metabolite 7000 7011	ganglioside
+T194	Species 7026 7033	chicken
+T195	Chemical 7040 7052	gangliosides
+T196	Metabolite 7040 7052	gangliosides
+T197	Chemical 7105 7117	gangliosides
+T198	Chemical 7135 7138	GT3
+T199	Metabolite 7105 7117	gangliosides
+T200	Chemical 7140 7144	GQ1c
+T201	Metabolite 7140 7144	GQ1c
+T202	Metabolite 7135 7138	GT3
+T203	Chemical 7150 7154	GP1c
+T204	Metabolite 7150 7154	GP1c
+T205	Protein 7172 7176	A2B5
+T206	Protein 7199 7226	anti-ganglioside antibodies
+T207	Species 7254 7257	rat
+T208	Species 7326 7329	Rat
+T209	Protein 7371 7375	A2B5
+T210	Protein 7430 7447	anti-GM1 antibody
+T211	Protein 7473 7477	D1.1
+T212	Chemical 7501 7516	9-O -acetyl GD3
+T213	Chemical 7545 7566	c-series gangliosides
+T214	Species 7570 7573	rat
+T215	Chemical 7587 7599	gangliosides
+T216	Metabolite 7545 7566	c-series gangliosides
+T217	Metabolite 7587 7599	gangliosides
+R22	Isolated_From Arg1:T183 Arg2:T180	
+R23	Isolated_From Arg1:T204 Arg2:T194	
+R24	Isolated_From Arg1:T201 Arg2:T194	
+R25	Isolated_From Arg1:T202 Arg2:T194	
+T218	Protein 7662 7666	A2B5
+T219	Protein 7763 7767	A2B5
+T220	Chemical 7797 7809	acidic lipid
+T221	Metabolite 7797 7809	acidic lipid
+T222	Chemical 7903 7906	GT3
+T223	Metabolite 7903 7906	GT3
+T224	Chemical 7908 7912	GT1c
+T225	Metabolite 7908 7912	GT1c
+T226	Chemical 7914 7918	GQ1c
+T227	Metabolite 7914 7918	GQ1c
+T228	Chemical 7924 7928	GP1c
+T229	Metabolite 7924 7928	GP1c
+T230	Chemical 7935 7947	Gangliosides
+T231	Metabolite 7935 7947	Gangliosides
+T232	Species 7951 7954	rat
+T233	Protein 8045 8054	sialidase
+T234	Chemical 8056 8068	Gangliosides
+T235	Metabolite 8056 8068	Gangliosides
+T236	Chemical 8080 8095	gangliotetraose
+T237	Chemical 8103 8109	GgOse4
+T238	Chemical 8182 8185	GM1
+T239	Metabolite 8182 8185	GM1
+T240	Chemical 8187 8191	GD1a
+T241	Metabolite 8187 8191	GD1a
+T242	Chemical 8193 8197	GD1b
+T243	Metabolite 8193 8197	GD1b
+T244	Chemical 8199 8203	GT1b
+T245	Metabolite 8199 8203	GT1b
+T246	Chemical 8209 8213	GQ1b
+T247	Metabolite 8209 8213	GQ1b
+T248	Chemical 8223 8226	GD3
+T249	Metabolite 8223 8226	GD3
+R26	Isolated_From Arg1:T223 Arg2:T232	
+R27	Isolated_From Arg1:T225 Arg2:T232	
+R28	Isolated_From Arg1:T227 Arg2:T232	
+R29	Isolated_From Arg1:T229 Arg2:T232	
+R30	Isolated_From Arg1:T239 Arg2:T232	
+R31	Isolated_From Arg1:T241 Arg2:T232	
+R32	Isolated_From Arg1:T243 Arg2:T232	
+R33	Isolated_From Arg1:T245 Arg2:T232	
+R34	Isolated_From Arg1:T247 Arg2:T232	
+T250	Chemical 8318 8330	gangliosides
+T251	Metabolite 8318 8330	gangliosides
+T252	Chemical 8338 8353	gangliotetraose
+T253	Chemical 8383 8387	GT1b
+T254	Metabolite 8383 8387	GT1b
+T255	Chemical 8395 8399	GQ1b
+T256	Metabolite 8395 8399	GQ1b
+T257	Chemical 8415 8419	GQ1b
+T258	Metabolite 8415 8419	GQ1b
+T259	Protein 8463 8467	A2B5
+T260	Protein 8514 8538	anti-asialo-GM1 antibody
+T261	Chemical 8568 8580	gangliosides
+T262	Metabolite 8568 8580	gangliosides
+T263	Protein 8597 8606	sialidase
+T264	Protein 8662 8666	A2B5
+T265	Chemical 8729 8732	GT3
+T266	Metabolite 8729 8732	GT3
+T267	Chemical 8734 8738	GT1c
+T268	Metabolite 8734 8738	GT1c
+T269	Chemical 8740 8744	GQ1c
+T270	Metabolite 8740 8744	GQ1c
+T271	Chemical 8750 8754	GP1c
+T272	Metabolite 8750 8754	GP1c
+T273	Chemical 8777 8798	c-series gangliosides
+T274	Metabolite 8777 8798	c-series gangliosides
+T275	Chemical 8803 8815	acidic lipid
+T276	Metabolite 8803 8815	acidic lipid
+T277	Chemical 8849 8852	GD3
+T278	Metabolite 8849 8852	GD3
+T279	Chemical 8857 8861	GD1a
+T280	Metabolite 8857 8861	GD1a
+T281	Protein 8910 8914	A2B5
+T282	Chemical 8926 8937	ganglioside
+T283	Metabolite 8926 8937	ganglioside
+T284	Chemical 9043 9049	alkali
+T285	Chemical 9057 9070	O -acetyl GT3
+T286	Chemical 9092 9095	GD3
+T287	Metabolite 9092 9095	GD3
+T288	Chemical 9134 9137	GD3
+T289	Metabolite 9134 9137	GD3
+T290	Protein 9186 9190	A2B5
+T291	Chemical 9204 9207	GD3
+T292	Metabolite 9204 9207	GD3
+T293	Chemical 9307 9318	ganglioside
+T294	Metabolite 9307 9318	ganglioside
+T295	Chemical 9343 9347	base
+T296	Chemical 9355 9363	methanol
+T297	Chemical 9366 9370	NaOH
+T298	Chemical 9416 9421	lipid
+T299	Chemical 9551 9579	non-ganglioside acidic lipid
+T300	Protein 9597 9600	EGF
+T301	Chemical 9622 9643	c-series gangliosides
+T302	Protein 9659 9662	EGF
+T303	Metabolite 9622 9643	c-series gangliosides
+T304	Chemical 9684 9705	c-series gangliosides
+T305	Metabolite 9684 9705	c-series gangliosides
+T306	Protein 9764 9767	EGF
+T307	Biological_Activity 9781 9793	proliferated
+T308	Biological_Activity 9826 9839	proliferation
+T309	Chemical 9879 9900	c-series gangliosides
+T310	Metabolite 9879 9900	c-series gangliosides
+T311	Chemical 9956 9967	ganglioside
+T312	Metabolite 9956 9967	ganglioside
+T313	Chemical 10042 10045	GT3
+T314	Metabolite 10042 10045	GT3
+T315	Chemical 10183 10192	polysialo
+T316	Chemical 10209 10213	GT1c
+T317	Metabolite 10209 10213	GT1c
+T318	Chemical 10215 10219	GQ1c
+T319	Metabolite 10215 10219	GQ1c
+T320	Chemical 10225 10229	GP1c
+T321	Metabolite 10225 10229	GP1c
+T322	Biological_Activity 10290 10303	proliferation
+T323	Protein 10383 10386	EGF
+T324	Species 10424 10427	rat
+T325	Chemical 10522 10525	GT3
+T326	Metabolite 10522 10525	GT3
+T327	Chemical 10568 10577	polysialo
+T328	Protein 10633 10636	EGF
+T329	Chemical 10699 10720	c-series gangliosides
+T330	Metabolite 10699 10720	c-series gangliosides
+T331	Chemical 10735 10756	c-series gangliosides
+T332	Metabolite 10735 10756	c-series gangliosides
+T333	Species 10760 10763	rat
+T334	Chemical 10923 10926	GT3
+T335	Metabolite 10923 10926	GT3
+T336	Chemical 10991 11000	polysialo
+T337	Chemical 11017 11021	GT1c
+T338	Metabolite 11017 11021	GT1c
+T339	Chemical 11023 11027	GQ1c
+T340	Metabolite 11023 11027	GQ1c
+T341	Chemical 11033 11037	GP1c
+T342	Metabolite 11033 11037	GP1c
+T343	Chemical 11146 11167	c-series gangliosides
+T344	Metabolite 11146 11167	c-series gangliosides
+T345	Chemical 11185 11206	C-series gangliosides
+T346	Metabolite 11185 11206	C-series gangliosides
+T347	Species 11244 11248	rats
+T348	Chemical 11357 11378	c-series gangliosides
+T349	Chemical 11430 11433	GT3
+T350	Metabolite 11430 11433	GT3
+T351	Chemical 11487 11491	GQ1c
+T352	Metabolite 11487 11491	GQ1c
+T353	Chemical 11525 11547	polysialo gangliosides
+T354	Metabolite 11525 11547	polysialo gangliosides
+T355	Chemical 11558 11562	GP1c
+T356	Metabolite 11558 11562	GP1c
+T357	Chemical 11665 11668	GM3
+T358	Metabolite 11665 11668	GM3
+T359	Chemical 11786 11797	ganglioside
+T360	Metabolite 11786 11797	ganglioside
+T361	Chemical 11822 11826	base
+T362	Chemical 11863 11883	c-series ganglioside
+T363	Metabolite 11863 11883	c-series ganglioside
+T364	Protein 11965 11984	monoclonal antibody
+T365	Protein 11985 11989	A2B5
+T366	Chemical 12004 12025	c-series gangliosides
+T367	Metabolite 12004 12025	c-series gangliosides
+T368	Species 12029 12032	rat
+T369	Chemical 12070 12091	c-series gangliosides
+T370	Metabolite 12070 12091	c-series gangliosides
+T371	Chemical 12107 12118	ganglioside
+T372	Metabolite 12107 12118	ganglioside
+T373	Species 12133 12142	mammalian
+T374	Protein 12267 12277	antibodies
+T375	Chemical 12282 12303	c-series gangliosides
+T376	Metabolite 12282 12303	c-series gangliosides
+T377	Protein 12376 12395	Monoclonal antibody
+T378	Protein 12396 12400	A2B5
+T379	Biological_Activity 12428 12438	immunizing
+T380	Species 12439 12446	chicken
+T381	Protein 12591 12595	A2B5
+T382	Chemical 12599 12620	c-series gangliosides
+T383	Metabolite 12599 12620	c-series gangliosides
+T384	Species 12637 12644	chicken
+T385	Species 12660 12668	cod fish
+T386	Protein 12755 12774	monoclonal antibody
+T387	Chemical 12860 12872	gangliosides
+T388	Metabolite 12860 12872	gangliosides
+T390	Protein 12878 12882	A2B5
+T389	Chemical 12936 12940	base
+T391	Chemical 12954 12965	ganglioside
+T392	Metabolite 12954 12965	ganglioside
+T393	Chemical 13092 13098	alkali
+T394	Chemical 13161 13190	non-ganglioside acidic lipids
+T395	Metabolite 13161 13190	non-ganglioside acidic lipids
+T396	Metabolite 9551 9579	non-ganglioside acidic lipid
+T397	Chemical 13192 13204	Gangliosides
+T398	Metabolite 13192 13204	Gangliosides
+T399	Chemical 13340 13362	non-ganglioside lipids
+T400	Metabolite 13340 13362	non-ganglioside lipids
+T401	Chemical 13544 13565	c-series gangliosides
+T402	Metabolite 13544 13565	c-series gangliosides
+T403	Chemical 13626 13629	GT3
+T404	Metabolite 13626 13629	GT3
+T405	Chemical 13631 13635	GT1c
+T406	Metabolite 13631 13635	GT1c
+T407	Chemical 13637 13641	GQ1c
+T408	Metabolite 13637 13641	GQ1c
+T409	Chemical 13646 13650	GP1c
+T410	Metabolite 13646 13650	GP1c
+T411	Chemical 13773 13788	gangliotetraose
+T412	Chemical 13789 13804	oligosaccharide
+T413	Chemical 13880 13883	GT3
+T414	Metabolite 13880 13883	GT3
+T415	Chemical 13885 13889	GT1c
+T416	Metabolite 13885 13889	GT1c
+T417	Chemical 13891 13895	GQ1c
+T418	Metabolite 13891 13895	GQ1c
+T419	Chemical 13901 13905	GP1c
+T420	Metabolite 13901 13905	GP1c
+T421	Chemical 13937 13958	c-series gangliosides
+T422	Metabolite 13937 13958	c-series gangliosides
+T423	Species 13962 13965	rat
+T424	Protein 14059 14063	A2B5
+T425	Species 14125 14128	rat
+T426	Chemical 14149 14170	c-series gangliosides
+T427	Metabolite 14149 14170	c-series gangliosides
+T428	Species 14194 14197	rat
+T429	Chemical 14209 14221	gangliosides
+T430	Metabolite 14209 14221	gangliosides
+T431	Protein 14227 14231	A2B5
+T432	Chemical 14281 14302	c-series gangliosides
+T433	Metabolite 14281 14302	c-series gangliosides
+T434	Protein 14331 14334	EGF
+T435	Chemical 14496 14507	ganglioside
+T436	Metabolite 14496 14507	ganglioside
+T437	Protein 14534 14537	EGF
+T438	Chemical 14575 14587	gangliosides
+T439	Metabolite 14575 14587	gangliosides
+T440	Species 14635 14638	rat
+T441	Protein 14656 14659	EGF
+T442	Chemical 14715 14736	c-series gangliosides
+T443	Metabolite 14715 14736	c-series gangliosides
+T444	Chemical 14761 14782	c-series gangliosides
+T445	Metabolite 14761 14782	c-series gangliosides
+T446	Protein 14786 14789	EGF
+T447	Biological_Activity 14854 14864	neoplastic
+T448	Protein 14913 14916	EGF
+T449	Chemical 14938 14959	c-series gangliosides
+T450	Metabolite 14938 14959	c-series gangliosides
+T451	Chemical 15027 15030	GT3
+T452	Metabolite 15027 15030	GT3
+T453	Chemical 15061 15070	polysialo
+T454	Chemical 15116 15119	GT3
+T455	Metabolite 15116 15119	GT3
+T456	Chemical 15241 15244	GT3
+T457	Metabolite 15241 15244	GT3
+T458	Species 15280 15283	rat
+T459	Chemical 15403 15406	GT3
+T460	Metabolite 15403 15406	GT3
+T461	Protein 15531 15534	EGF
+T462	Chemical 15563 15575	gangliosides
+T463	Metabolite 15563 15575	gangliosides
+T464	Species 15579 15582	rat
+T465	Protein 15637 15640	EGF
+T466	Chemical 15672 15675	GM3
+T467	Metabolite 15672 15675	GM3
+T468	Chemical 15680 15683	GD3
+T469	Metabolite 15680 15683	GD3
+T470	Chemical 15718 15729	ganglioside
+T471	Metabolite 15718 15729	ganglioside
+T472	Chemical 15748 15751	GM1
+T473	Chemical 15753 15757	GD1a
+T474	Metabolite 15748 15751	GM1
+T475	Metabolite 15753 15757	GD1a
+T476	Chemical 15759 15763	GD1b
+T477	Metabolite 15759 15763	GD1b
+T478	Chemical 15769 15773	GT1b
+T479	Metabolite 15769 15773	GT1b
+T480	Chemical 15838 15840;15852 15871	a- series gangliosides
+T481	Metabolite 15838 15840;15852 15871	a- series gangliosides
+T482	Chemical 15842 15844;15852 15871	b- series gangliosides
+T483	Metabolite 15842 15844;15852 15871	b- series gangliosides
+T484	Chemical 15850 15871	c-series gangliosides
+T485	Metabolite 15850 15871	c-series gangliosides
+T486	Protein 15905 15923	sialyltransferases
+T487	Chemical 15968 15980	gangliosides
+T488	Metabolite 15968 15980	gangliosides
+T489	Protein 16046 16049	EGF
+T490	Chemical 16080 16096	lactosylceramide
+T491	Metabolite 16080 16096	lactosylceramide
+T492	Chemical 16100 16103	GM3
+T493	Metabolite 16100 16103	GM3
+T494	Chemical 16110 16113	GM3
+T495	Metabolite 16110 16113	GM3
+T496	Chemical 16117 16120	GD3
+T497	Metabolite 16117 16120	GD3
+T498	Chemical 16131 16134	GD3
+T499	Metabolite 16131 16134	GD3
+T500	Chemical 16138 16141	GT3
+T501	Metabolite 16138 16141	GT3
+T502	Chemical 16212 16224	gangliosides
+T503	Metabolite 16212 16224	gangliosides
+T504	Species 16228 16231	rat
+T505	Chemical 16283 16286	GT3
+T506	Metabolite 16283 16286	GT3
+T507	Protein 16342 16345	EGF
+T508	Chemical 16386 16389	GT3
+T509	Metabolite 16386 16389	GT3
+T510	Protein 16465 16468	EGF
+T511	Chemical 16547 16556	polysialo
+T512	Protein 16586 16589	EGF
+T513	Chemical 16729 16738	polysialo
+T514	Chemical 16759 16771	gangliosides
+T515	Metabolite 16759 16771	gangliosides
+T516	Chemical 16852 16873	c-series gangliosides
+T517	Metabolite 16852 16873	c-series gangliosides
+T518	Species 16877 16880	rat
+T519	Chemical 16960 16963	GT3
+T520	Metabolite 16960 16963	GT3
+T521	Chemical 16988 16997	polysialo
+T522	Biological_Activity 17107 17117	metabolism
+T523	Chemical 17122 17143	c-series gangliosides
+T524	Metabolite 17122 17143	c-series gangliosides
+T525	Species 17206 17213	chicken
+T526	Species 17234 17237	rat
+T527	Chemical 17438 17459	c-series gangliosides
+T528	Metabolite 17438 17459	c-series gangliosides
+T529	Species 17529 17532	rat
+T530	Species 17584 17587	rat
+T531	Chemical 17608 17629	c-series gangliosides
+T532	Metabolite 17608 17629	c-series gangliosides
+T533	Chemical 17738 17741	GT3
+T534	Metabolite 17738 17741	GT3
+T535	Chemical 17746 17755	polysialo
+T536	Species 17816 17819	rat
+T537	Chemical 17899 17920	c-series gangliosides
+T538	Metabolite 17899 17920	c-series gangliosides

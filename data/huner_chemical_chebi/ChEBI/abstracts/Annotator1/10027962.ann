@@ -1,0 +1,47 @@
+T1	Chemical 0 11	Diazaborine
+T2	Chemical 16 25	isoniazid
+T3	Biological_Activity 57 71	anti-bacterial
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T3	
+T4	Biological_Activity 84 91	inhibit
+T5	Protein 96 115	enoyl-ACP reductase
+T7	Protein 117 120	ENR
+T9	Species 125 141	Escherichia coli
+T10	Species 146 173	Mycobacterium  tuberculosis
+T11	Spectral_Data 192 210	crystal structures
+R3	Associated_With Arg1:T1 Arg2:T4	
+R4	Associated_With Arg1:T2 Arg2:T4	
+T12	Chemical 250 261	diazaborine
+T13	Species 272 279	E. coli
+T14	Protein 280 283	ENR
+T16	Chemical 385 404	amino acid residues
+T17	Chemical 408 419	diazaborine
+T18	Chemical 532 547	glycine residue
+T19	Species 566 573	E. coli
+T20	Protein 574 577	ENR
+T22	Chemical 728 749	amino acid side-chain
+T23	Chemical 761 769	hydrogen
+T24	Chemical 855 866	diazaborine
+T25	Chemical 938 944	Gly-93
+#1	AnnotatorNotes T25	an amino acid residue at position 93 in the protein
+T26	Chemical 948 959	amino acids
+T27	Chemical 992 998	serine
+T28	Chemical 1000 1007	alanine
+T29	Chemical 1009 1017	cysteine
+T30	Chemical 1022 1028	valine
+T31	Chemical 1133 1155	amino acid side-chains
+T32	Chemical 971 982	side-chains
+T33	Chemical 1173 1181	arginine
+T34	Chemical 1183 1192	histidine
+T35	Chemical 1194 1200	lysine
+T36	Chemical 1205 1214	glutamine
+T37	Protein 1259 1265	enzyme
+T39	Protein 220 227	enzymes
+R9	Binds_With Arg1:T1 Arg2:T5	
+R10	Binds_With Arg1:T1 Arg2:T7	
+R11	Binds_With Arg1:T2 Arg2:T5	
+R12	Binds_With Arg1:T2 Arg2:T7	
+T6	Protein 835 842	enzymes
+T8	Protein 439 445	enzyme
+T15	Chemical 1120 1124	drug
+T21	Chemical 478 482	drug

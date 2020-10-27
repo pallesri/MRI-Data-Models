@@ -1,0 +1,10 @@
+T1	Disease 59 70	arrhythmias
+T2	Disease 185 208	ventricular tachycardia
+T3	Disease 369 400	saline, ventricular tachycardia
+T4	Disease 489 512	ventricular tachycardia
+T5	Disease 709 733	autonomic nervous system
+T6	Disease 898 909	arrhythmias
+T7	Plant 41 50	digitalis
+T8	Plant 882 891	digitalis
+T9	Cause_of_disease 51 58	induced
+E1	Cause_of_disease:T9 Theme:T1 Cause:T7

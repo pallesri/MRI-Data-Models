@@ -1,0 +1,10 @@
+T1	Disease 1656 1668	lung disease
+T2	Plant 12 19	Tobacco
+T3	Plant 234 241	tobacco
+T4	Plant 1108 1115	tobacco
+T5	Plant 1199 1206	tobacco
+T6	Plant 1564 1571	tobacco
+T7	Plant 1640 1647	tobacco
+T8	Plant 1826 1833	tobacco
+T9	Cause_of_disease 1648 1655	induced
+E1	Cause_of_disease:T9 Theme:T1 Cause:T7

@@ -1,0 +1,9 @@
+T1	Disease 117 124	cancers
+T2	Disease 178 184	cancer
+T3	Disease 324 332	epidemic
+T4	Plant 17 24	tobacco
+T5	Plant 101 108	tobacco
+T6	Plant 353 360	tobacco
+T7	Plant 719 726	tobacco
+T8	Cause_of_disease 109 116	related
+E1	Cause_of_disease:T8 Theme:T1 Cause:T5

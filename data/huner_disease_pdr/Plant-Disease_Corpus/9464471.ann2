@@ -1,0 +1,13 @@
+T1	Disease 191 212	arterial hypertension
+T2	Disease 692 713	arterial hypertension
+T3	Disease 1157 1169	hypertension
+T4	Plant 26 32	garlic
+T9	Plant 318 324	garlic
+T11	Plant 392 398	garlic
+T15	Plant 754 760	garlic
+T16	Plant 902 908	garlic
+T20	Plant 1022 1028	garlic
+T22	Plant 1065 1071	garlic
+T26	Plant 1124 1130	garlic
+T5	Treatment_of_disease 1131 1137	blocks
+E1	Treatment_of_disease:T5 Cause:T26 Theme:T3

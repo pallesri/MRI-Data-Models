@@ -1,0 +1,27 @@
+T1	Chemical 8 29	tricyclic diterpenoid
+#1	AnnotatorNotes T1	Chemical class
+T2	Biological_Activity 30 40	antibiotic
+T3	Chemical 42 57	brasilicardin A
+T4	Metabolite 42 58	brasilicardin A,
+T5	Species 99 129	Nocardia brasiliensis IFM 0406
+R1	Isolated_From Arg1:T4 Arg2:T5	
+R2	Associated_With Arg1:T3 Arg2:T2	
+T6	Biological_Activity 135 145	antibiotic
+T7	Biological_Activity 156 173	immunosuppressive
+T8	Species 188 193	mouse
+T9	Chemical 315 328	cyclosporin A
+T10	Chemical 330 333	CyA
+T11	Chemical 398 413	brasilicardin A
+T12	Metabolite 485 500	brasilicardin A
+T13	Chemical 562 565	CyA
+R3	Associated_With Arg1:T4 Arg2:T2	
+R4	Associated_With Arg1:T3 Arg2:T7	
+R5	Associated_With Arg1:T4 Arg2:T7	
+T14	Biological_Activity 293 302	nhibitory
+R6	Associated_With Arg1:T9 Arg2:T14	
+T15	Metabolite 398 413	brasilicardin A
+T17	Chemical 485 500	brasilicardin A
+T16	Chemical 30 40	antibiotic
+T18	Chemical 135 145	antibiotic
+R7	Associated_With Arg1:T10 Arg2:T14	
+T19	Biological_Activity 465 473	toxicity

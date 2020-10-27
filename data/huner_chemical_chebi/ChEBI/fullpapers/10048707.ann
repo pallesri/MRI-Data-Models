@@ -1,0 +1,735 @@
+T1	Chemical 65 71	oxygen
+T2	Chemical 56 83	reactive oxygen metabolites
+T3	Metabolite 56 83	reactive oxygen metabolites
+T4	Chemical 95 107	free radical
+T5	Chemical 126 136	superoxide
+T6	Chemical 141 149	hydroxyl
+R1	Metabolite_Of Arg1:T3 Arg2:T1	
+T7	Metabolite 126 136	superoxide
+T8	Metabolite 141 149	hydroxyl
+R2	Metabolite_Of Arg1:T7 Arg2:T1	
+R3	Metabolite_Of Arg1:T8 Arg2:T1	
+T9	Chemical 162 168	oxygen
+T10	Metabolite 162 180	oxygen metabolites
+T11	Chemical 162 180	oxygen metabolites
+R4	Metabolite_Of Arg1:T10 Arg2:T9	
+T12	Chemical 190 207	hydrogen peroxide
+T13	Metabolite 190 207	hydrogen peroxide
+R5	Metabolite_Of Arg1:T13 Arg2:T9	
+T14	Chemical 212 230	hypochlo­rous acid
+T15	Metabolite 212 230	hypochlo­rous acid
+R6	Metabolite_Of Arg1:T15 Arg2:T9	
+T16	Chemical 352 379	reactive oxygen metabolites
+T17	Metabolite 352 379	reactive oxygen metabolites
+T18	Chemical 361 367	oxygen
+R7	Metabolite_Of Arg1:T17 Arg2:T18	
+T19	Chemical 686 704	oxygen metabolites
+T20	Metabolite 686 704	oxygen metabolites
+T21	Biological_Activity 680 685	toxic
+R8	Associated_With Arg1:T20 Arg2:T21	
+R9	Associated_With Arg1:T19 Arg2:T21	
+T22	Biological_Activity 765 774	scavenger
+T23	Chemical 902 915	free radicals
+T24	Chemical 949 968	chemical scavengers
+T25	Biological_Activity 1090 1100	protective
+T26	Chemical 1117 1127	flavonoids
+T27	Species 1135 1142	LLC-PKj
+#1	AnnotatorNotes T27	Cell line from a pig
+T28	Chemical 1734 1742	Flavones
+T29	Metabolite 1117 1127	flavonoids
+T30	Metabolite 1734 1742	Flavones
+T31	Chemical 1744 1752	acacetin
+T32	Metabolite 1754 1762	apigenin
+T33	Chemical 1764 1769	apiin
+T34	Chemical 1771 1781	bai­calein
+T35	Chemical 1783 1791	baicalin
+T36	Chemical 1793 1804	chrysoeriol
+T37	Chemical 1806 1817	cirsilineol
+T38	Chemical 1819 1828	cirsiliol
+T39	Chemical 1830 1840	cirsimarin
+T40	Chemical 1842 1854	cirsimaritin
+T41	Chemical 1856 1865	cosmosiin
+T42	Chemical 1867 1876	genkwanin
+T43	Chemical 1878 1895	6-hydroxyluteolin
+T44	Chemical 1897 1904	linarin
+T45	Chemical 1906 1914	luteolin
+T46	Chemical 1917 1937	uteolin 7 -glucoside
+T47	Chemical 1939 1955	pectolinarigenin
+T48	Chemical 1957 1970	pec­tolinarin
+T49	Chemical 1972 1983	plantaginin
+T50	Chemical 1985 1994	rhoifolin
+T51	Chemical 1996 2008	scutellarein
+T52	Chemical 2010 2018	sorbarin
+T53	Chemical 2020 2033	tecto­chrysin
+T54	Chemical 2038 2046	toringin
+T55	Chemical 2052 2061	flavonols
+T56	Chemical 2063 2070	afzelin
+T57	Chemical 2072 2087	chrysosplenol B
+T58	Chemical 2089 2104	chrysosplenol C
+T59	Chemical 2106 2121	chrysosplenol D
+T60	Chemical 2123 2130	hyperin
+T61	Chemical 2132 2145	isoquercitrin
+T62	Chemical 2147 2159	isorhamnetin
+T63	Chemical 2161 2174	kaempferitrin
+T64	Chemical 2176 2186	kaempferol
+T65	Chemical 2188 2210	kaempferol-7­glucoside
+T66	Chemical 2212 2223	oxyayanin A
+T67	Chemical 2225 2234	quercetin
+T68	Chemical 2236 2250	quercimeritrin
+T69	Chemical 2252 2263	quer­citrin
+T70	Chemical 2265 2274	rhamnetin
+T71	Chemical 2276 2281	rutin
+T72	Chemical 2286 2306	tetramethylquercitin
+T73	Metabolite 1744 1752	acacetin
+T74	Chemical 1754 1762	apigenin
+T75	Metabolite 1764 1769	apiin
+T76	Metabolite 1771 1781	bai­calein
+T77	Metabolite 1783 1791	baicalin
+T78	Metabolite 1793 1804	chrysoeriol
+T79	Metabolite 1806 1817	cirsilineol
+T80	Metabolite 1819 1828	cirsiliol
+T81	Metabolite 1830 1840	cirsimarin
+T82	Metabolite 1842 1854	cirsimaritin
+T83	Metabolite 1856 1865	cosmosiin
+T84	Metabolite 1867 1876	genkwanin
+T85	Metabolite 1878 1895	6-hydroxyluteolin
+T86	Metabolite 1897 1904	linarin
+T87	Metabolite 1906 1914	luteolin
+T88	Metabolite 1916 1937	luteolin 7 -glucoside
+T89	Metabolite 1939 1955	pectolinarigenin
+T90	Metabolite 1957 1970	pec­tolinarin
+T91	Metabolite 1972 1983	plantaginin
+T92	Metabolite 1985 1994	rhoifolin
+T93	Metabolite 1996 2008	scutellarein
+T94	Metabolite 2010 2018	sorbarin
+T95	Metabolite 2020 2033	tecto­chrysin
+T96	Metabolite 2038 2046	toringin
+T97	Metabolite 2052 2061	flavonols
+T98	Metabolite 2063 2070	afzelin
+T99	Metabolite 2072 2087	chrysosplenol B
+T100	Metabolite 2089 2104	chrysosplenol C
+T101	Metabolite 2106 2121	chrysosplenol D
+T102	Metabolite 2123 2130	hyperin
+T103	Metabolite 2132 2145	isoquercitrin
+T104	Metabolite 2147 2159	isorhamnetin
+T105	Metabolite 2161 2174	kaempferitrin
+T106	Metabolite 2176 2186	kaempferol
+T107	Metabolite 2188 2210	kaempferol-7­glucoside
+T108	Metabolite 2212 2223	oxyayanin A
+T109	Metabolite 2225 2234	quercetin
+T110	Metabolite 2236 2250	quercimeritrin
+T111	Metabolite 2252 2263	quer­citrin
+T112	Metabolite 2265 2274	rhamnetin
+T113	Metabolite 2276 2281	rutin
+T114	Metabolite 2286 2306	tetramethylquercitin
+T115	Chemical 2391 2445	Dulbecco's modified Eagle medium/nutrient mixture F-12
+T116	Chemical 2447 2457	D-MEMIF-12
+T117	Species 2463 2468	fetal
+T118	Protein 2618 2639	lactate dehydrogenase
+T119	Protein 2668 2689	lactate dehydrogenase
+T120	Protein 2691 2694	LDH
+T121	Species 2817 2824	LLC-PK1
+T122	Chemical 2890 2893	CO2
+T123	Chemical 2965 2975	D-MEM/F-12
+T124	Chemical 3095 3104	flavonoid
+T125	Protein 3226 3229	LDH
+T128	Chemical 3304 3320	lipid peroxidant
+T126	Metabolite 3304 3320	lipid peroxidant
+T127	Chemical 3395 3410	malondialdehyde
+T129	Chemical 3412 3415	MDA
+T130	Chemical 3641 3663	Flavone-type compounds
+T131	Metabolite 3641 3663	Flavone-type compounds
+T132	Biological_Activity 3739 3750	pro­tective
+T133	Metabolite 3680 3688	flavones
+T134	Chemical 3680 3688	flavones
+T135	Chemical 3761 3769	Baicalin
+T136	Chemical 3771 3783	cirsimaritin
+T137	Chemical 3785 3802	6-hydroxyluteolin
+T138	Chemical 3804 3812	luteolin
+T139	Chemical 3814 3825	plantaginin
+T140	Chemical 3827 3836	rhoifolin
+T141	Chemical 3841 3849	sorbarin
+T142	Metabolite 3761 3769	Baicalin
+T143	Metabolite 3771 3783	cirsimaritin
+T144	Metabolite 3785 3802	6-hydroxyluteolin
+T145	Metabolite 3804 3812	luteolin
+T146	Metabolite 3814 3825	plantaginin
+T147	Metabolite 3827 3836	rhoifolin
+T148	Metabolite 3841 3849	sorbarin
+T149	Protein 3909 3912	LDH
+R10	Associated_With Arg1:T148 Arg2:T132	
+R11	Associated_With Arg1:T141 Arg2:T132	
+R12	Associated_With Arg1:T142 Arg2:T132	
+R13	Associated_With Arg1:T135 Arg2:T132	
+R14	Associated_With Arg1:T143 Arg2:T132	
+R15	Associated_With Arg1:T136 Arg2:T132	
+R16	Associated_With Arg1:T144 Arg2:T132	
+R17	Associated_With Arg1:T137 Arg2:T132	
+R18	Associated_With Arg1:T145 Arg2:T132	
+R19	Associated_With Arg1:T138 Arg2:T132	
+R20	Associated_With Arg1:T146 Arg2:T132	
+R21	Associated_With Arg1:T139 Arg2:T132	
+R22	Associated_With Arg1:T147 Arg2:T132	
+R23	Associated_With Arg1:T140 Arg2:T132	
+T150	Chemical 4039 4049	Cirsimarin
+T151	Chemical 4051 4072	luteolin 7 -glucoside
+T152	Chemical 4074 4090	pectolinarigenin
+T153	Chemical 4092 4105	tec­tochrysin
+T154	Chemical 4110 4118	toringin
+T155	Biological_Activity 4138 4148	inhibition
+T156	Metabolite 4039 4049	Cirsimarin
+T157	Metabolite 4051 4072	luteolin 7 -glucoside
+T158	Metabolite 4074 4090	pectolinarigenin
+T159	Metabolite 4092 4105	tec­tochrysin
+T160	Metabolite 4110 4118	toringin
+R24	Associated_With Arg1:T156 Arg2:T155	
+R25	Associated_With Arg1:T150 Arg2:T155	
+R26	Associated_With Arg1:T157 Arg2:T155	
+R27	Associated_With Arg1:T151 Arg2:T155	
+R28	Associated_With Arg1:T158 Arg2:T155	
+R29	Associated_With Arg1:T152 Arg2:T155	
+R30	Associated_With Arg1:T159 Arg2:T155	
+R31	Associated_With Arg1:T153 Arg2:T155	
+R32	Associated_With Arg1:T160 Arg2:T155	
+R33	Associated_With Arg1:T154 Arg2:T155	
+R34	Associated_With Arg1:T156 Arg2:T132	
+R35	Associated_With Arg1:T150 Arg2:T132	
+R36	Associated_With Arg1:T157 Arg2:T132	
+R37	Associated_With Arg1:T151 Arg2:T132	
+R38	Associated_With Arg1:T158 Arg2:T132	
+R39	Associated_With Arg1:T152 Arg2:T132	
+R40	Associated_With Arg1:T159 Arg2:T132	
+R41	Associated_With Arg1:T153 Arg2:T132	
+R42	Associated_With Arg1:T160 Arg2:T132	
+R43	Associated_With Arg1:T154 Arg2:T132	
+T161	Chemical 4199 4208	baicalein
+T162	Chemical 4210 4221	chrysoeriol
+T163	Chemical 4223 4232	cirsiliol
+T164	Chemical 4234 4241	linarin
+T165	Chemical 4246 4258	scutellarein
+T166	Metabolite 4199 4208	baicalein
+T167	Metabolite 4210 4221	chrysoeriol
+T168	Metabolite 4223 4232	cirsiliol
+T169	Metabolite 4234 4241	linarin
+T170	Metabolite 4246 4258	scutellarein
+R44	Associated_With Arg1:T166 Arg2:T132	
+R45	Associated_With Arg1:T161 Arg2:T132	
+R46	Associated_With Arg1:T167 Arg2:T132	
+R47	Associated_With Arg1:T162 Arg2:T132	
+R48	Associated_With Arg1:T168 Arg2:T132	
+R49	Associated_With Arg1:T163 Arg2:T132	
+R50	Associated_With Arg1:T169 Arg2:T132	
+R51	Associated_With Arg1:T164 Arg2:T132	
+R52	Associated_With Arg1:T170 Arg2:T132	
+R53	Associated_With Arg1:T165 Arg2:T132	
+T171	Chemical 4364 4381	flavone compounds
+T172	Metabolite 4364 4381	flavone compounds
+T173	Protein 4455 4458	LDH
+T174	Chemical 4501 4504	MDA
+T175	Chemical 4530 4546	lipid peroxidant
+T176	Metabolite 4530 4546	lipid peroxidant
+T177	Chemical 4621 4629	baicalin
+T178	Chemical 4631 4641	cirsimarin
+T179	Chemical 4643 4655	cirsimaritin
+T180	Chemical 4657 4675	6-hydroxy­luteolin
+T181	Chemical 4677 4685	luteolin
+T182	Chemical 4687 4707	luteolin 7-glucoside
+T183	Chemical 4709 4725	pectolinarigenin
+T184	Chemical 4727 4738	plantaginin
+T185	Chemical 4740 4749	rhoifolin
+T186	Chemical 4751 4759	sorbarin
+T187	Chemical 4764 4776	tectochrysin
+T188	Metabolite 4621 4629	baicalin
+T189	Metabolite 4631 4641	cirsimarin
+T190	Metabolite 4643 4655	cirsimaritin
+T191	Metabolite 4657 4675	6-hydroxy­luteolin
+T192	Metabolite 4677 4685	luteolin
+T193	Metabolite 4687 4707	luteolin 7-glucoside
+T194	Metabolite 4709 4725	pectolinarigenin
+T195	Metabolite 4727 4738	plantaginin
+T196	Metabolite 4740 4749	rhoifolin
+T197	Metabolite 4751 4759	sorbarin
+T198	Metabolite 4764 4776	tectochrysin
+T199	Chemical 4796 4809	MDA formation
+T200	Chemical 4865 4888	Flavonol-type compounds
+T201	Metabolite 4865 4888	Flavonol-type compounds
+T202	Chemical 4916 4934	flavonol compounds
+T203	Metabolite 4916 4934	flavonol compounds
+T204	Chemical 5016 5023	Afzelin
+T205	Chemical 5025 5033	hy­perin
+T206	Chemical 5035 5048	isoquercitrin
+T207	Chemical 5050 5062	isorhamnetin
+T208	Chemical 5064 5077	kaempferitrin
+T209	Chemical 5079 5103	kaemp­ferol-7 -glucoside
+T210	Chemical 5105 5116	oxyayanin A
+T211	Chemical 5118 5127	quercetin
+T212	Chemical 5129 5139	quercitrin
+T213	Chemical 5141 5150	rhamnetin
+T214	Chemical 5155 5160	rutin
+T215	Chemical 5321 5334	isoquercitrin
+T216	Chemical 5339 5351	isorhamnetin
+T217	Metabolite 5016 5023	Afzelin
+T218	Metabolite 5025 5033	hy­perin
+T219	Metabolite 5035 5048	isoquercitrin
+T220	Metabolite 5050 5062	isorhamnetin
+T221	Metabolite 5064 5077	kaempferitrin
+T222	Metabolite 5079 5103	kaemp­ferol-7 -glucoside
+T223	Metabolite 5105 5116	oxyayanin A
+T224	Metabolite 5118 5127	quercetin
+T225	Metabolite 5129 5139	quercitrin
+T226	Metabolite 5141 5150	rhamnetin
+T227	Metabolite 5155 5160	rutin
+T228	Protein 5206 5209	LDH
+T229	Metabolite 5321 5334	isoquercitrin
+T230	Metabolite 5339 5351	isorhamnetin
+T231	Biological_Activity 5502 5509	inhibit
+R54	Associated_With Arg1:T230 Arg2:T231	
+R55	Associated_With Arg1:T216 Arg2:T231	
+R56	Associated_With Arg1:T229 Arg2:T231	
+R57	Associated_With Arg1:T215 Arg2:T231	
+R58	Associated_With Arg1:T217 Arg2:T231	
+R59	Associated_With Arg1:T204 Arg2:T231	
+R60	Associated_With Arg1:T218 Arg2:T231	
+R61	Associated_With Arg1:T205 Arg2:T231	
+R62	Associated_With Arg1:T221 Arg2:T231	
+R63	Associated_With Arg1:T208 Arg2:T231	
+R64	Associated_With Arg1:T222 Arg2:T231	
+R65	Associated_With Arg1:T209 Arg2:T231	
+R66	Associated_With Arg1:T223 Arg2:T231	
+R67	Associated_With Arg1:T210 Arg2:T231	
+R68	Associated_With Arg1:T224 Arg2:T231	
+R69	Associated_With Arg1:T211 Arg2:T231	
+R70	Associated_With Arg1:T225 Arg2:T231	
+R71	Associated_With Arg1:T212 Arg2:T231	
+R72	Associated_With Arg1:T226 Arg2:T231	
+R73	Associated_With Arg1:T213 Arg2:T231	
+R74	Associated_With Arg1:T227 Arg2:T231	
+R75	Associated_With Arg1:T214 Arg2:T231	
+T232	Protein 5510 5513	LDH
+T233	Chemical 5408 5423	chrysosplenol B
+T234	Chemical 5428 5443	chrysosplenol C
+T235	Metabolite 5408 5423	chrysosplenol B
+T236	Metabolite 5428 5443	chrysosplenol C
+R76	Associated_With Arg1:T235 Arg2:T231	
+R77	Associated_With Arg1:T233 Arg2:T231	
+R78	Associated_With Arg1:T236 Arg2:T231	
+R79	Associated_With Arg1:T234 Arg2:T231	
+T237	Chemical 5546 5566	tetramethylquercitin
+T238	Metabolite 5546 5566	tetramethylquercitin
+T239	Protein 5582 5585	LDH
+T240	Chemical 5622 5625	MDA
+T241	Species 5639 5646	LLC-PK1
+T242	Chemical 5692 5702	Acacetin  
+T243	Chemical 5729 5739	Apigenin  
+T244	Chemical 5766 5773	Apiin  
+T245	Chemical 5800 5811	Baicalein  
+T246	Chemical 5838 5848	Baicalin  
+T247	Chemical 5875 5888	Chrysoeriol  
+T248	Chemical 5915 5928	Cirsilineol  
+T249	Chemical 5955 5966	Cirsiliol  
+T250	Chemical 5993 6005	Cirsimarin  
+T251	Chemical 6032 6046	Cirsimaritin  
+T252	Chemical 6073 6084	Cosmosiin  
+T253	Metabolite 5692 5702	Acacetin  
+T254	Metabolite 5729 5739	Apigenin  
+T255	Metabolite 5766 5773	Apiin  
+T256	Metabolite 5800 5811	Baicalein  
+T257	Metabolite 5838 5848	Baicalin  
+T258	Metabolite 5875 5888	Chrysoeriol  
+T259	Metabolite 5915 5928	Cirsilineol  
+T260	Metabolite 5955 5966	Cirsiliol  
+T261	Metabolite 5993 6005	Cirsimarin  
+T262	Metabolite 6032 6046	Cirsimaritin  
+T263	Metabolite 6073 6084	Cosmosiin  
+T264	Protein 6122 6125	LDH
+T265	Chemical 6746 6749	MDA
+T266	Protein 7393 7396	LDH
+T267	Chemical 7406 7409	MDA
+T268	Protein 7434 7437	LDH
+T269	Chemical 7447 7450	MDA
+T270	Chemical 7553 7564	Genkwanin  
+T271	Metabolite 7553 7564	Genkwanin  
+T272	Chemical 7627 7641	Tectochrysin  
+T273	Metabolite 7627 7641	Tectochrysin  
+T274	Chemical 7826 7847	6-Hydro­   xyluteolin
+T275	Metabolite 7826 7847	6-Hydro­   xyluteolin
+T276	Chemical 7880 7890	Toringin  
+T277	Metabolite 7880 7890	Toringin  
+T278	Chemical 8105 8114	Linarin  
+T279	Metabolite 8105 8114	Linarin  
+T280	Chemical 8361 8371	Luteolin  
+T281	Metabolite 8361 8371	Luteolin  
+T282	Chemical 8420 8443	flavonol-type compounds
+T283	Protein 8447 8450	LDH
+T284	Chemical 8487 8490	MDA
+T285	Species 8504 8511	LLC-PK1
+T286	Protein 8599 8602	LDH
+T287	Chemical 8612 8615	MDA
+T288	Chemical 8627 8637;8663 8675	Luteolin   7 -glucoside
+T289	Metabolite 8627 8637;8663 8675	Luteolin   7 -glucoside
+T290	Chemical 8817 8826	Afzelin  
+T291	Metabolite 8817 8826	Afzelin  
+T292	Chemical 8886 8892;8926 8939	Pecto­ linarigenin  
+T293	Metabolite 8886 8892;8926 8939	Pecto­ linarigenin  
+T294	Chemical 9027 9036;9068 9077	Chryso­   splenol B
+T295	Metabolite 9027 9036;9068 9077	Chryso­   splenol B
+T296	Chemical 9205 9219	Pectolinarin  
+T297	Metabolite 9205 9219	Pectolinarin  
+T298	Chemical 9313 9322;9352 9361	Chryso­   splenol C
+T299	Metabolite 9313 9322;9352 9361	Chryso­   splenol C
+T300	Chemical 9484 9497	Plantaginin  
+T301	Metabolite 9484 9497	Plantaginin  
+T302	Chemical 9590 9599;9631 9640	Chryso­   splenol D
+T303	Metabolite 9590 9599;9631 9640	Chryso­   splenol D
+T304	Chemical 9768 9779	Rhoifolin  
+T305	Metabolite 9768 9779	Rhoifolin  
+T306	Chemical 9920 9929	Hyperin  
+T307	Metabolite 9920 9929	Hyperin  
+T308	Chemical 10018 10032	Scutellarein  
+T309	Metabolite 10018 10032	Scutellarein  
+T310	Metabolite 10176 10191	Isoquercitrin  
+T311	Chemical 10176 10191	Isoquercitrin  
+T312	Chemical 10280 10290	Sorbarin  
+T313	Metabolite 10280 10290	Sorbarin  
+T314	Chemical 10438 10452	Isorhamnetin  
+T315	Metabolite 10438 10452	Isorhamnetin  
+T316	Protein 10632 10635	LDH
+T317	Chemical 10644 10647	MDA
+T318	Chemical 10695 10710	Kaempferitrin  
+T319	Metabolite 10695 10710	Kaempferitrin  
+T320	Chemical 10832 10844	Kaempferol  
+T321	Metabolite 10832 10844	Kaempferol  
+T322	Chemical 10962 10973;11005 11016	Kaempferol- 7-glucoside
+T323	Metabolite 10962 10973;11005 11016	Kaempferol- 7-glucoside
+T324	Chemical 11105 11116	Oxyayanin A
+T325	Metabolite 11105 11116	Oxyayanin A
+T326	Chemical 11238 11249	Quercetin  
+T327	Metabolite 11238 11249	Quercetin  
+T328	Chemical 11369 11383	Quercimeritrin
+T329	Metabolite 11369 11383	Quercimeritrin
+T330	Chemical 11499 11511	Quercitrin  
+T331	Metabolite 11499 11511	Quercitrin  
+T332	Chemical 11632 11643	Rhamnetin  
+T333	Metabolite 11632 11643	Rhamnetin  
+T334	Chemical 11893 11904;11932 11941	Tetramethyl quercitin
+T335	Metabolite 11893 11904;11932 11941	Tetramethyl quercitin
+T336	Chemical 12154 12157	MDA
+T337	Protein 12222 12225	LDH
+T338	Protein 12394 12397	LDH
+T339	Protein 12419 12425	enzyme
+T340	Biological_Activity 12384 12391	leakage
+T341	Biological_Activity 12455 12462	leakage
+T342	Biological_Activity 12569 12583	antineoplastic
+T343	Chemical 12584 12589	drugs
+T344	Chemical 12616 12644	oxy­gen free radical species
+T345	Biological_Activity 12743 12755	cytotoxicity
+T346	Chemical 12931 12959	reactive oxygen meta­bolites
+T347	Protein 13076 13079	LDH
+T348	Biological_Activity 13080 13087	leakage
+T349	Species 13093 13100	LLC-PK1
+T350	Chemical 13190 13200	flavonoids
+T351	Metabolite 13190 13200	flavonoids
+T352	Chemical 13236 13246	Flavonoids
+T353	Metabolite 13236 13246	Flavonoids
+T354	Chemical 13251 13269	phenolic compounds
+T355	Species 13292 13298	plants
+R80	Isolated_From Arg1:T353 Arg2:T355	
+T356	Chemical 13412 13421	compounds
+T357	Biological_Activity 13484 13492	laxation
+T358	Biological_Activity 13498 13511	antispasmodic
+T359	Biological_Activity 13513 13529	antihypertensive
+T360	Biological_Activity 13534 13551	anti-inflammatory
+T361	Biological_Activity 13474 13482	diuresis
+R81	Associated_With Arg1:T353 Arg2:T361	
+R82	Associated_With Arg1:T353 Arg2:T357	
+R83	Associated_With Arg1:T353 Arg2:T358	
+R84	Associated_With Arg1:T353 Arg2:T359	
+R85	Associated_With Arg1:T353 Arg2:T360	
+T362	Biological_Activity 13674 13685	in­hibiting
+T363	Protein 13700 13703	LDH
+T364	Species 13709 13716	LLC-PK1
+T365	Chemical 13854 13857	MDA
+T366	Chemical 13949 13952	CO2
+T367	Chemical 14003 14006	MDA
+T368	Protein 14041 14044	LDH
+T369	Chemical 14089 14094	lipid
+T370	Metabolite 14089 14094	lipid
+T371	Chemical 14253 14261	flavones
+T372	Chemical 14266 14275	flavonols
+T373	Metabolite 14253 14261	flavones
+T374	Metabolite 14266 14275	flavonols
+T375	Protein 14296 14299	LDH
+T376	Chemical 14304 14307	MDA
+T377	Biological_Activity 14470 14480	scavenging
+T378	Chemical 14456 14469	free ra­dical
+T379	Biological_Activity 14534 14542	reducing
+R86	Associated_With Arg1:T373 Arg2:T379	
+R87	Associated_With Arg1:T371 Arg2:T379	
+R88	Associated_With Arg1:T374 Arg2:T379	
+R89	Associated_With Arg1:T372 Arg2:T379	
+T380	Biological_Activity 14611 14624	antioxidative
+T381	Chemical 14638 14648	flavonoids
+T382	Metabolite 14638 14648	flavonoids
+R90	Associated_With Arg1:T382 Arg2:T380	
+R91	Associated_With Arg1:T381 Arg2:T380	
+T383	Biological_Activity 14851 14865	antioxi­dative
+T384	Chemical 14870 14875	lipid
+T385	Metabolite 14870 14875	lipid
+T386	Biological_Activity 14889 14899	inhibiting
+R92	Associated_With Arg1:T382 Arg2:T386	
+R93	Associated_With Arg1:T381 Arg2:T386	
+T387	Chemical 14948 14958	flavonoids
+T388	Metabolite 14948 14958	flavonoids
+T389	Biological_Activity 15069 15079	inhibition
+T390	Protein 15083 15086	LDH
+T391	Chemical 15116 15140	phenolic hydroxyl groups
+T392	Chemical 15233 15242	flavonols
+T393	Chemical 15358 15365	flavone
+T394	Metabolite 15358 15365	flavone
+T395	Metabolite 15233 15242	flavonols
+T396	Chemical 15194 15196	OH
+T397	Chemical 15467 15482	hydroxyl groups
+T398	Chemical 15580 15590	Aeaeetin  
+T399	Metabolite 15580 15590	Aeaeetin  
+T400	Chemical 15605 15615	Apigenin  
+#2	AnnotatorNotes T398	Should be 'acacetin'
+#3	AnnotatorNotes T399	Should be 'acacetin'
+T401	Metabolite 15605 15615	Apigenin  
+T402	Chemical 15629 15636	Apiin  
+T403	Metabolite 15629 15636	Apiin  
+T404	Chemical 15661 15672	Baicalein  
+T405	Metabolite 15661 15672	Baicalein  
+T406	Chemical 15686 15696	Baiealin  
+#4	AnnotatorNotes T406	Should be 'Baicalin'
+T407	Metabolite 15686 15696	Baiealin  
+#5	AnnotatorNotes T407	Should be 'Baicalin'
+T408	Chemical 15719 15732	Chrysoeriol  
+T409	Metabolite 15719 15732	Chrysoeriol  
+T410	Chemical 15751 15764	Cirsilineol  
+T411	Metabolite 15751 15764	Cirsilineol  
+T412	Chemical 15789 15800	Cirsiliol  
+T413	Metabolite 15789 15800	Cirsiliol  
+T414	Chemical 15824 15836	Cirsimarin  
+T415	Metabolite 15824 15836	Cirsimarin  
+T416	Metabolite 15863 15877	Cirsimaritin  
+T417	Chemical 15863 15877	Cirsimaritin  
+T418	Metabolite 15897 15908	Cosmosiin  
+T419	Chemical 15897 15908	Cosmosiin  
+T420	Chemical 15929 15940	Genkwanin  
+T421	Metabolite 15929 15940	Genkwanin  
+T422	Chemical 15955 15972	6-Hydroxyluteolin
+T423	Metabolite 15955 15972	6-Hydroxyluteolin
+T424	Chemical 15996 16005	Linarin  
+T425	Metabolite 15996 16005	Linarin  
+T426	Chemical 16033 16043	Luteolin  
+T427	Metabolite 16033 16043	Luteolin  
+T428	Chemical 16061 16081	Luteolin 7-glueoside
+#6	AnnotatorNotes T428	should be ...7-glucoside
+T429	Metabolite 16061 16081	Luteolin 7-glueoside
+#7	AnnotatorNotes T429	should be ...7-glucoside
+T430	Chemical 16108 16126	Peetolinarigenin  
+#8	AnnotatorNotes T430	Should be Pectolinarigenin
+T431	Metabolite 16108 16126	Peetolinarigenin  
+#9	AnnotatorNotes T431	Should be Pectolinarigenin
+T432	Chemical 16159 16173	Peetolinarin  
+#10	AnnotatorNotes T432	Should be Pectolinarin
+T433	Metabolite 16159 16173	Peetolinarin  
+#11	AnnotatorNotes T433	Should be Pectolinarin
+T434	Metabolite 16206 16219	Plantaginin  
+T435	Chemical 16206 16219	Plantaginin  
+T436	Chemical 16244 16255	Rhoifolin  
+T437	Metabolite 16244 16255	Rhoifolin  
+T438	Chemical 16282 16296	Scutellarein  
+T439	Metabolite 16282 16296	Scutellarein  
+T440	Chemical 16314 16324	Sorbarin  
+T441	Metabolite 16314 16324	Sorbarin  
+T442	Metabolite 16349 16363	Tectochrysin  
+T443	Chemical 16349 16363	Tectochrysin  
+T444	Chemical 16374 16384	Toringin  
+T445	Metabolite 16374 16384	Toringin  
+T446	Chemical 16401 16410	Afzelin  
+T447	Metabolite 16401 16410	Afzelin  
+T448	Metabolite 16435 16450	Chrysosplenol B
+T449	Chemical 16435 16450	Chrysosplenol B
+T450	Chemical 16481 16496	Chrysosplenol C
+T451	Metabolite 16481 16496	Chrysosplenol C
+T452	Chemical 16527 16542	Chrysosplenol D
+T453	Metabolite 16527 16542	Chrysosplenol D
+T454	Chemical 16573 16582	Hyperin  
+T455	Metabolite 16573 16582	Hyperin  
+T456	Chemical 16612 16627	Isoquercitrin  
+T457	Metabolite 16612 16627	Isoquercitrin  
+T458	Chemical 16656 16670	Isorhamnetin  
+T459	Metabolite 16656 16670	Isorhamnetin  
+T460	Chemical 16693 16708	Kaempferitrin  
+T461	Metabolite 16693 16708	Kaempferitrin  
+T462	Chemical 16734 16746	Kaempferol  
+T463	Metabolite 16734 16746	Kaempferol  
+T464	Metabolite 16764 16787	Kaempferol-7 -glucoside
+T465	Chemical 16764 16787	Kaempferol-7 -glucoside
+T466	Chemical 16814 16825	Oxyayanin A
+T467	Metabolite 16814 16825	Oxyayanin A
+T468	Chemical 16856 16867	Quercetin  
+T469	Metabolite 16856 16867	Quercetin  
+T470	Chemical 16889 16905	Quercimeritrin  
+T471	Metabolite 16889 16905	Quercimeritrin  
+T472	Chemical 16934 16946	Quercitrin  
+T473	Metabolite 16934 16946	Quercitrin  
+T474	Metabolite 16975 16986	Rhamnetin  
+T475	Chemical 16975 16986	Rhamnetin  
+T476	Metabolite 17009 17016	Rutin  
+T477	Chemical 17009 17016	Rutin  
+T478	Chemical 17051 17073	Tetramethylquercitin  
+T479	Metabolite 17051 17073	Tetramethylquercitin  
+T480	Biological_Activity 17191 17201	protection
+T481	Metabolite 17295 17305	fla­vonoid
+T482	Chemical 17295 17305	fla­vonoid
+T483	Chemical 17321 17328	flavone
+T484	Chemical 17321 17343	flavone-type compounds
+T485	Protein 17417 17420	LDH
+T486	Biological_Activity 17429 17439	inhibition
+T487	Biological_Activity 17444 17457	antioxidation
+T488	Chemical 17481 17489	baicalin
+T489	Metabolite 17481 17489	baicalin
+T490	Chemical 17491 17502	plantaginin
+T491	Metabolite 17491 17502	plantaginin
+T492	Chemical 17507 17515	sorbarin
+T493	Metabolite 17507 17515	sorbarin
+T494	Metabolite 17546 17554	luteolin
+T495	Chemical 17546 17554	luteolin
+T496	Chemical 17559 17580	luteolin 7-glu­coside
+T497	Metabolite 17559 17580	luteolin 7-glu­coside
+T498	Chemical 17605 17622	6-hydroxyluteolin
+T499	Metabolite 17605 17622	6-hydroxyluteolin
+T500	Chemical 17700 17712	cirsimaritin
+T501	Metabolite 17700 17712	cirsimaritin
+T502	Chemical 17717 17726	rhoifolin
+T503	Metabolite 17717 17726	rhoifolin
+T504	Biological_Activity 17749 17759	protection
+R94	Associated_With Arg1:T501 Arg2:T504	
+R95	Associated_With Arg1:T500 Arg2:T504	
+R96	Associated_With Arg1:T503 Arg2:T504	
+R97	Associated_With Arg1:T502 Arg2:T504	
+T505	Chemical 17772 17775	MDA
+T506	Chemical 17801 17810	baicalein
+T507	Chemical 17812 17821	cirsiliol
+T508	Chemical 17826 17838	scutellarein
+T509	Metabolite 17801 17810	baicalein
+T510	Metabolite 17812 17821	cirsiliol
+T511	Metabolite 17826 17838	scutellarein
+T512	Chemical 17366 17368;17374 17376	6- OH
+T513	Chemical 17371 17376	3'-OH
+T514	Chemical 17687 17698	6-and 3'-OH
+T515	Chemical 17984 17996	linked sugar
+T516	Biological_Activity 18026 18036	protection
+T517	Chemical 17893 17897	6-0H
+T518	Chemical 17901 17906	3'­OH
+T519	Chemical 18089 18097	baicalin
+T520	Metabolite 18099 18111	cirsimaritin
+T521	Chemical 18113 18131	6-hydroxy­luteolin
+T522	Chemical 18133 18141	luteolin
+T523	Chemical 18143 18154	plantaginin
+T524	Chemical 18156 18165	rhoifolin
+T525	Chemical 18170 18178	sorbarin
+T526	Chemical 18193 18208	glucuronic acid
+T527	Chemical 18210 18217	glucose
+T528	Chemical 18221 18229	rhamnose
+T529	Metabolite 18089 18097	baicalin
+T530	Chemical 18099 18111	cirsimaritin
+T531	Metabolite 18113 18131	6-hydroxy­luteolin
+T532	Metabolite 18133 18141	luteolin
+T533	Metabolite 18143 18154	plantaginin
+T534	Metabolite 18156 18165	rhoifolin
+T535	Metabolite 18170 18178	sorbarin
+T536	Chemical 18249 18254	sugar
+T537	Biological_Activity 18291 18300	scavenger
+T538	Biological_Activity 19824 19834	scavenging
+T539	Chemical 18482 18505	flavonol-type compounds
+T540	Chemical 18529 18532	-OH
+T541	Chemical 18671 18675	3-0H
+T542	Chemical 18685 18693	af­zelin
+T543	Chemical 18695 18702	hyperin
+T544	Chemical 18704 18717	isoquercitrin
+T545	Chemical 18719 18731	isorhamnetin
+T546	Chemical 18733 18746	kaempferitrin
+T547	Chemical 18748 18770	kaempferol-7-glucoside
+T548	Chemical 18772 18781	quercetin
+T549	Chemical 18783 18793	quercitrin
+T550	Chemical 18795 18804	rhamnetin
+T551	Chemical 18809 18814	rutin
+T552	Metabolite 18685 18693	af­zelin
+T553	Metabolite 18695 18702	hyperin
+T554	Metabolite 18704 18717	isoquercitrin
+T555	Metabolite 18719 18731	isorhamnetin
+T556	Metabolite 18733 18746	kaempferitrin
+T557	Metabolite 18748 18770	kaempferol-7-glucoside
+T558	Metabolite 18772 18781	quercetin
+T559	Metabolite 18783 18793	quercitrin
+T560	Metabolite 18795 18804	rhamnetin
+T561	Metabolite 18809 18814	rutin
+T562	Chemical 18816 18821	Sugar
+T563	Biological_Activity 18854 18868	antioxi­dation
+T564	Chemical 18930 18939	rhamnoses
+T565	Chemical 18959 18972	kaempferitrin
+T566	Metabolite 18959 18972	kaempferitrin
+T567	Biological_Activity 19005 19015	protection
+T568	Biological_Activity 19020 19037	anti­peroxidation
+R98	Associated_With Arg1:T565 Arg2:T567	
+R99	Associated_With Arg1:T566 Arg2:T568	
+R100	Associated_With Arg1:T565 Arg2:T567	
+R101	Associated_With Arg1:T566 Arg2:T568	
+T569	Chemical 19052 19059	afzelin
+T570	Chemical 19061 19068	hyperin
+T571	Chemical 19070 19083	isoquercitrin
+T572	Chemical 19085 19108	kaempferol-7 -glucoside
+T573	Chemical 19110 19120	quercitrin
+T574	Chemical 19125 19130	rutin
+T575	Metabolite 19052 19059	afzelin
+T576	Metabolite 19061 19068	hyperin
+T577	Metabolite 19070 19083	isoquercitrin
+T578	Metabolite 19085 19108	kaempferol-7 -glucoside
+T579	Metabolite 19110 19120	quercitrin
+T580	Metabolite 19125 19130	rutin
+R102	Associated_With Arg1:T575 Arg2:T567	
+R103	Associated_With Arg1:T569 Arg2:T567	
+R104	Associated_With Arg1:T575 Arg2:T568	
+R105	Associated_With Arg1:T569 Arg2:T568	
+R106	Associated_With Arg1:T576 Arg2:T567	
+R107	Associated_With Arg1:T576 Arg2:T568	
+R108	Associated_With Arg1:T570 Arg2:T567	
+R109	Associated_With Arg1:T570 Arg2:T568	
+R110	Associated_With Arg1:T577 Arg2:T567	
+R111	Associated_With Arg1:T577 Arg2:T568	
+R112	Associated_With Arg1:T578 Arg2:T567	
+R113	Associated_With Arg1:T578 Arg2:T568	
+R114	Associated_With Arg1:T579 Arg2:T567	
+R115	Associated_With Arg1:T579 Arg2:T568	
+R116	Associated_With Arg1:T580 Arg2:T567	
+R117	Associated_With Arg1:T580 Arg2:T568	
+R118	Associated_With Arg1:T571 Arg2:T567	
+R119	Associated_With Arg1:T571 Arg2:T568	
+R120	Associated_With Arg1:T572 Arg2:T567	
+R121	Associated_With Arg1:T572 Arg2:T568	
+R122	Associated_With Arg1:T573 Arg2:T567	
+R123	Associated_With Arg1:T573 Arg2:T568	
+R124	Associated_With Arg1:T574 Arg2:T567	
+R125	Associated_With Arg1:T574 Arg2:T568	
+T581	Biological_Activity 19267 19277	protection
+T582	Biological_Activity 19282 19295	antioxidative
+T583	Chemical 19448 19459	o-dihydroxy
+T584	Chemical 19461 19469	catechol
+T585	Chemical 19545 19555	flavonoids
+T586	Metabolite 19545 19555	flavonoids
+T587	Chemical 19583 19595	flavan­3-ols
+T588	Chemical 19597 19607	flavanones
+T589	Metabolite 19597 19607	flavanones
+T590	Metabolite 19583 19595	flavan­3-ols
+T591	Chemical 19901 19916	hydroxyl groups
+T592	Chemical 19947 19961	hydrogen bonds
+T593	Chemical 19971 19981	keto group
+T594	Biological_Activity 20132 20142	scavenging
+T595	Chemical 20146 20166	oxygen free radicals
+T596	Chemical 19816 19823	radical
+T597	Chemical 20343 20353	flavonoids
+T598	Chemical 20357 20366	aglycones
+T599	Metabolite 20343 20353	flavonoids

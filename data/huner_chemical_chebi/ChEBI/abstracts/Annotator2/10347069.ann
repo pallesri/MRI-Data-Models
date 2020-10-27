@@ -1,0 +1,24 @@
+T1	Species 18 36	Aspergillus flavus
+T2	Protein 53 80	norsolorinic acid reductase
+T3	Chemical 95 104	aflatoxin
+T4	Metabolite 95 104	aflatoxin
+T5	Chemical 171 188	norsolorinic acid
+R1	Isolated_From Arg1:T4 Arg2:T1	
+T6	Species 4 36	nor mutant of Aspergillus flavus
+T7	Metabolite 171 188	norsolorinic acid
+R2	Isolated_From Arg1:T7 Arg2:T6	
+T9	Chemical 241 245	agar
+T10	Species 269 274	yeast
+T11	Biological_Activity 304 311	inhibit
+T12	Chemical 312 321	aflatoxin
+T13	Metabolite 312 321	aflatoxin
+T15	Species 420 425	yeast
+T17	Species 490 500	nor mutant
+T18	Species 508 514	yeasts
+T20	Chemical 528 537	aflatoxin
+T21	Metabolite 528 537	aflatoxin
+T22	Biological_Activity 557 566	toxigenic
+T23	Species 577 586	A. flavus
+T24	Species 594 600	yeasts
+T26	Chemical 628 637	aflatoxin
+T27	Metabolite 628 637	aflatoxin

@@ -1,0 +1,10 @@
+T1	Chemical 8 20	karminomycin
+T2	Chemical 22 31	rubomycin
+T3	Chemical 36 46	adriamycin
+T4	Species 169 189	mice F1(C57B1 X CBA)
+T5	Biological_Activity 238 248	antibiotic
+R1	Associated_With Arg1:T1 Arg2:T5	
+R2	Associated_With Arg1:T2 Arg2:T5	
+R3	Associated_With Arg1:T3 Arg2:T5	
+T6	Chemical 367 377	adriamycin
+T7	Chemical 456 468	karminomycin

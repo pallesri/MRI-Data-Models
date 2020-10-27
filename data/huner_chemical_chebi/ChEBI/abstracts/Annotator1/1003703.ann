@@ -1,0 +1,52 @@
+T1	Biological_Activity 0 10	Anti-ulcer
+T2	Chemical 22 31	cetraxate
+T3	Biological_Activity 59 71	anti-plasmin
+T4	Biological_Activity 73 84	anti-casein
+T5	Biological_Activity 89 101	anti-trypsin
+T6	Protein 64 71	plasmin
+T9	Protein 94 101	trypsin
+T11	Species 174 178	rats
+T12	Chemical 180 189	Cetraxate
+T13	Biological_Activity 225 235	inhibitory
+T14	Chemical 321 328	aspirin
+T15	Chemical 330 344	phenylbutazone
+T16	Chemical 346 358	indomethacin
+T17	Chemical 461 470	gefarnate
+T18	Chemical 475 499	aluminum sucrose sulfate
+T19	Chemical 582 590	Ctraxate
+T21	Chemical 677 688	acetic acid
+T22	Chemical 714 723	cortisone
+T23	Chemical 728 739	acetic acid
+T24	Chemical 761 770	cetraxate
+T25	Biological_Activity 806 815	inhibitor
+T26	Biological_Activity 619 628	inhibitor
+T20	Chemical 873 884	L-glutamine
+T28	Chemical 889 924	methylmethionine sulfonium chloride
+T29	Chemical 926 935	cetraxate
+T31	Protein 984 1002	beta-glucuronidase
+T33	Chemical 1088 1097	cetraxate
+T35	Protein 1207 1225	beta-glucuronidase
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T2 Arg2:T3	
+R3	Associated_With Arg1:T2 Arg2:T4	
+R4	Associated_With Arg1:T2 Arg2:T5	
+R5	Associated_With Arg1:T12 Arg2:T13	
+R9	Associated_With Arg1:T17 Arg2:T13	
+R10	Associated_With Arg1:T18 Arg2:T13	
+R11	Associated_With Arg1:T19 Arg2:T26	
+R14	Associated_With Arg1:T24 Arg2:T25	
+T38	Protein 1181 1198	lysosomal enzymes
+T39	Protein 78 84	casein
+T40	Biological_Activity 532 542	protecting
+R16	Associated_With Arg1:T12 Arg2:T40	
+T43	Biological_Activity 963 972	inhibitor
+R15	Associated_With Arg1:T29 Arg2:T43	
+R17	Binds_With Arg1:T2 Arg2:T6	
+R24	Binds_With Arg1:T2 Arg2:T39	
+R28	Binds_With Arg1:T2 Arg2:T9	
+T7	Chemical 558 562	drug
+T8	Chemical 856 863	drugs  
+R6	Binds_With Arg1:T20 Arg2:T31	
+R12	Binds_With Arg1:T28 Arg2:T31	
+R13	Binds_With Arg1:T29 Arg2:T31	
+T10	Biological_Activity 989 1002	glucuronidase

@@ -1,0 +1,12 @@
+T1	Disease 93 113	chronic pancreatitis
+T2	Disease 223 243	chronic pancreatitis
+T3	Disease 506 526	chronic pancreatitis
+T4	Disease 1205 1225	chronic pancreatitis
+T5	Disease 1351 1371	chronic pancreatitis
+T6	Plant 39 46	tobacco
+T7	Plant 798 805	tobacco
+T8	Plant 1154 1161	Tobacco
+T9	Cause_of_disease 80 89	causation
+E1	Cause_of_disease:T9 Theme:T1 Cause:T6
+T10	Cause_of_disease 1194 1204	developing
+E2	Cause_of_disease:T10 Theme:T4 Cause:T8

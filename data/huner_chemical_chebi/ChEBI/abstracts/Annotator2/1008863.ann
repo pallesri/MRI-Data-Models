@@ -1,0 +1,19 @@
+T1	Chemical 16 26	butan-1-ol
+T2	Chemical 79 100	3-methyl-cholarthrene
+T3	Species 113 121	hamsters
+T4	Chemical 153 158	lipid
+#1	AnnotatorNotes T4	Chemical class
+T5	Chemical 176 181	lipid
+#2	AnnotatorNotes T5	Chemical class
+T6	Protein 218 234	cytochrome P-450
+T7	Chemical 311 330	dimethylnitrosamine
+T8	Chemical 358 368	butan-1-ol
+T9	Chemical 385 397	phospholipid
+#3	AnnotatorNotes T9	Chemical class
+T10	Chemical 401 420	phosphatidylcholine
+#4	AnnotatorNotes T10	Chemical class
+T11	Chemical 491 503	phospholipid
+#5	AnnotatorNotes T11	Chemical class
+T12	Chemical 0 503	Extraction with butan-1-ol of freeze-dried microsomal fractions from livers of 3-methyl-cholarthrene-pre-treated hamsters removed about 90% of the total lipid content, but the lipid remaining proved sufficient for the cytochrome P-450 enzyme system to retain about 15-40% of its original catalytic activity for dimethylnitrosamine demethylation. Addition of butan-1-ol-extracted total phospholipid or phosphatidylcholine could not restore any activity, whereas the addition of the synthetic phospholipid
+T13	Chemical 591 602;617 636	dipalmitoyl phosphatidylcholine
+T14	Chemical 606 636	distearoyl phosphatidylcholine

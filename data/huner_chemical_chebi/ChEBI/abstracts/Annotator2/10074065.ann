@@ -1,0 +1,66 @@
+T1	Protein 3 19	aminotransferase
+T2	Chemical 54 64	methionine
+T3	Chemical 80 99	methylthioadenosine
+T4	Chemical 119 143	alpha-ketomethiobutyrate
+T5	Chemical 147 157	methionine
+T6	Species 182 203	Klebsiella pneumoniae
+T7	Protein 227 233	enzyme
+T8	Chemical 299 309	methionine
+T9	Chemical 336 356	aromatic amino acids
+#1	AnnotatorNotes T9	Chemical class
+T11	Chemical 361 370	glutamate
+T12	Chemical 392 401	Histidine
+T13	Chemical 403 410	leucine
+T14	Chemical 412 423	asparagine,
+T15	Chemical 428 436	arginine
+T17	Protein 537 543	enzyme
+T18	Species 631 647	Escherichia coli
+T19	Species 652 674	Salmonella typhimurium
+T21	Protein 675 701	tyrosine aminotransferases
+T22	Protein 703 707	tyrB
+T24	Protein 753 778	tyrosine aminotransferase
+T25	Species 796 809	K. pneumoniae
+T26	Species 827 835	E. coli.
+T27	Chemical 848 858	amino acid
+#4	AnnotatorNotes T27	Chemical class
+T29	Protein 914 940	tyrosine aminotransferases
+T30	Species 946 954	E.  coli
+T31	Species 956 971	S. typhimurium,
+T32	Species 972 996	Paracoccus denitrificans
+T33	Species 1002 1020	Rhizobium meliloti
+T35	Protein 1105 1130	tyrosine aminotransferase
+T36	Species 1191 1204	K. pneumoniae
+T37	Protein 1205 1211	enzyme
+T38	Protein 1239 1256	aminotransferases
+T39	Protein 1282 1298	aminotransferase
+T40	Chemical 1327 1346	aromatic amino acid
+#5	AnnotatorNotes T40	Chemical class
+T42	Chemical 1352 1376	alpha-ketomethiobutyrate
+T43	Chemical 1384 1393	glutamate
+T44	Chemical 1399 1423	alpha-ketomethiobutyrate
+T45	Chemical 1476 1484	tyrosine
+T46	Chemical 1490 1509	alpha-ketoglutarate
+T47	Chemical 1514 1522	tyrosine
+T48	Chemical 1528 1540	oxaloacetate
+T50	Protein 1566 1592	tyrosine aminotransferases
+T51	Protein 1598 1614	aminotransferase
+T52	Chemical 1636 1654	aminooxy compounds
+#7	AnnotatorNotes T52	Chemical class
+T53	Chemical 1655 1663	canaline
+T54	Chemical 1668 1688	carboxymethoxylamine
+T55	Chemical 1729 1742	nitrotyrosine
+T56	Chemical 1746 1764	nitrophenylalanine
+T57	Metabolite 147 158	methionine,
+R1	Metabolite_Of Arg1:T57 Arg2:T4	
+T58	Metabolite 54 64	methionine
+R2	Metabolite_Of Arg1:T58 Arg2:T3	
+T59	Metabolite 80 99	methylthioadenosine
+T60	Metabolite 119 143	alpha-ketomethiobutyrate
+T10	Biological_Activity 1619 1628	inhibited
+R3	Associated_With Arg1:T52 Arg2:T10	
+R4	Associated_With Arg1:T53 Arg2:T10	
+R5	Associated_With Arg1:T54 Arg2:T10	
+T16	Chemical 499 520	N-terminal amino acid
+R6	Binds_With Arg1:T52 Arg2:T51	
+R7	Binds_With Arg1:T53 Arg2:T51	
+R8	Binds_With Arg1:T54 Arg2:T51	

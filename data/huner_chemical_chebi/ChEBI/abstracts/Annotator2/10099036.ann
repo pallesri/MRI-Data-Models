@@ -1,0 +1,103 @@
+T1	Chemical 0 8	Dopamine
+T2	Chemical 23 28	amine
+#1	AnnotatorNotes T2	Chemical class
+T3	Chemical 198 206	dopamine
+T4	Biological_Activity 215 223	agonists
+T6	Protein 344 369	alpha and beta adrenergic
+T8	Protein 374 396	dopaminergic receptors
+T11	Protein 428 469	dopamine-2 (DA 2 ) dopaminergic receptors
+T13	Chemical 479 492	bromocriptine
+T14	Chemical 494 503	pergolide
+T15	Chemical 505 513	lisuride
+T16	Chemical 515 525	quinpirole
+T17	Chemical 531 542	carmoxirole
+T18	Chemical 647 660	bromocriptine
+T19	Chemical 665 674	pergolide
+T21	Chemical 558 572	norepinephrine
+T22	Biological_Activity 550 557	inhibit
+R11	Associated_With Arg1:T13 Arg2:T22	
+R12	Associated_With Arg1:T14 Arg2:T22	
+R13	Associated_With Arg1:T15 Arg2:T22	
+R14	Associated_With Arg1:T17 Arg2:T22	
+T24	Biological_Activity 416 423	agonist
+R19	Associated_With Arg1:T13 Arg2:T24	
+R20	Associated_With Arg1:T14 Arg2:T24	
+R21	Associated_With Arg1:T15 Arg2:T24	
+R22	Associated_With Arg1:T16 Arg2:T24	
+R23	Associated_With Arg1:T17 Arg2:T24	
+T25	Biological_Activity 753 761	agonists
+T26	Protein 817 844	DA 2 dopaminergic receptors
+T28	Chemical 874 887	Bromocriptine
+T29	Biological_Activity 915 923	agonists
+T30	Protein 943 957	DA 2 receptors
+T32	Biological_Activity 992 999	inhibit
+T34	Biological_Activity 1091 1098	agonist
+T35	Chemical 1116 1126	fenoldopam
+T36	Chemical 1128 1137	piribedil
+T37	Chemical 1139 1148	ibopamine
+T38	Chemical 1150 1158	SKF 3893
+T39	Chemical 1164 1175	apomorphine
+T40	Protein 1077 1090	DA 1 receptor
+R24	Associated_With Arg1:T35 Arg2:T34	
+R25	Associated_With Arg1:T36 Arg2:T34	
+R26	Associated_With Arg1:T37 Arg2:T34	
+R27	Associated_With Arg1:T38 Arg2:T34	
+R28	Associated_With Arg1:T39 Arg2:T34	
+T44	Biological_Activity 1413 1423	antagonist
+T45	Protein 1398 1412	DA 2  receptor
+T47	Chemical 1441 1455	metoclopramide
+T48	Chemical 1457 1468	domperidone
+T49	Chemical 1470 1479	sulpiride
+T50	Chemical 1486 1497	haloperidol
+T51	Chemical 1533 1547	metoclopramide
+T52	Chemical 1552 1563	domperidone
+T53	Biological_Activity 1654 1664	Antagonist
+T54	Chemical 1688 1696	SCH23390
+T55	Chemical 1701 1710	clozapine
+T57	Protein 1669 1683	DA 1 receptors
+T58	Chemical 1712 1721	Clozapine
+R35	Associated_With Arg1:T47 Arg2:T44	
+R36	Associated_With Arg1:T48 Arg2:T44	
+R37	Associated_With Arg1:T49 Arg2:T44	
+R38	Associated_With Arg1:T50 Arg2:T44	
+R43	Associated_With Arg1:T54 Arg2:T53	
+R44	Associated_With Arg1:T55 Arg2:T53	
+R47	Associated_With Arg1:T28 Arg2:T29	
+T60	Metabolite 0 8	Dopamine
+T61	Metabolite 198 206	dopamine
+T62	Chemical 198 206;215 223	dopamine agonists
+T67	Biological_Activity 329 340	stimulation
+T12	Chemical 753 761	agonists
+T69	Chemical 902 923	dopaminergic agonists
+R63	Associated_With Arg1:T13 Arg2:T32	
+R65	Associated_With Arg1:T14 Arg2:T32	
+R67	Associated_With Arg1:T15 Arg2:T32	
+R69	Associated_With Arg1:T16 Arg2:T32	
+R71	Associated_With Arg1:T17 Arg2:T32	
+T71	Chemical 1608 1619	haloperidol
+R1	Binds_With Arg1:T62 Arg2:T6	
+R2	Binds_With Arg1:T62 Arg2:T8	
+R3	Associated_With Arg1:T62 Arg2:T67	
+R49	Binds_With Arg1:T3 Arg2:T6	
+R50	Binds_With Arg1:T3 Arg2:T8	
+R51	Binds_With Arg1:T61 Arg2:T6	
+R52	Binds_With Arg1:T61 Arg2:T8	
+R53	Associated_With Arg1:T3 Arg2:T67	
+R54	Associated_With Arg1:T61 Arg2:T67	
+R6	Binds_With Arg1:T13 Arg2:T11	
+R7	Binds_With Arg1:T14 Arg2:T11	
+R8	Binds_With Arg1:T15 Arg2:T11	
+R9	Binds_With Arg1:T16 Arg2:T11	
+R10	Binds_With Arg1:T17 Arg2:T11	
+R4	Binds_With Arg1:T28 Arg2:T30	
+R5	Binds_With Arg1:T35 Arg2:T40	
+R15	Binds_With Arg1:T36 Arg2:T40	
+R16	Binds_With Arg1:T37 Arg2:T40	
+R17	Binds_With Arg1:T38 Arg2:T40	
+R18	Binds_With Arg1:T39 Arg2:T40	
+R29	Binds_With Arg1:T47 Arg2:T45	
+R30	Binds_With Arg1:T48 Arg2:T45	
+R31	Binds_With Arg1:T49 Arg2:T45	
+R32	Binds_With Arg1:T50 Arg2:T45	
+R33	Binds_With Arg1:T54 Arg2:T57	
+R39	Binds_With Arg1:T55 Arg2:T57	

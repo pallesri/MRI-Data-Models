@@ -1,0 +1,84 @@
+T1	Biological_Activity 78 88	inhibitors
+T2	Chemical 97 116	N-phenylphthalimide
+T3	Protein 45 68	dipeptidyl peptidase IV
+T5	Protein 70 76	DPP-IV
+T7	Chemical 179 219	4-amino-(2,6-dimethylphenyl)phthalimides
+#1	AnnotatorNotes T7	Chemical class
+T9	Chemical 286 330	4-hydroxy-(2,6-diisopropylphenyl)phthalimide
+T12	Chemical 529 540	Pro-boroPro
+T13	Biological_Activity 517 526	inhibitor
+R1	Associated_With Arg1:T12 Arg2:T13	
+T14	Chemical 560 562	18
+#3	AnnotatorNotes T14	Inferred from previous sentence
+T15	Biological_Activity 600 609	inhibitor
+R2	Associated_With Arg1:T14 Arg2:T15	
+T17	Protein 686 702	aminopeptidase N
+T19	Protein 704 707	APN
+R5	Associated_With Arg1:T9 Arg2:T13	
+R7	Associated_With Arg1:T7 Arg2:T13	
+T21	Chemical 542 545	PBP
+R8	Associated_With Arg1:T21 Arg2:T13	
+T8	Chemical 225 227;234 272	4- hydroxy-(2,6-diethylphenyl)phthalimide
+T22	Chemical 232 272	5-hydroxy-(2,6-diethylphenyl)phthalimide
+R4	Associated_With Arg1:T22 Arg2:T13	
+R6	Associated_With Arg1:T8 Arg2:T13	
+T10	Chemical 341 399;404 445	thiocarbonyl analogs of (2,6-diisopropylphenyl)phthalimide their 4,5,6,7-tetrafluorinated derivative
+R3	Associated_With Arg1:T10 Arg2:T13	
+T11	Chemical 341 399	thiocarbonyl analogs of (2,6-diisopropylphenyl)phthalimide
+R9	Associated_With Arg1:T11 Arg2:T13	
+T20	Biological_Activity 640 650	inhibitory
+R10	Associated_With Arg1:T7 Arg2:T20	
+R11	Associated_With Arg1:T8 Arg2:T20	
+R12	Associated_With Arg1:T22 Arg2:T20	
+R13	Associated_With Arg1:T9 Arg2:T20	
+R14	Associated_With Arg1:T10 Arg2:T20	
+R15	Associated_With Arg1:T11 Arg2:T20	
+T23	Protein 584 590	DPP-IV
+R22	Binds_With Arg1:T14 Arg2:T23	
+T4	Chemical 274 276	11
+T6	Chemical 281 283	14
+T16	Chemical 332 334	12
+T18	Chemical 448 450	18
+T24	Chemical 452 454	19
+T25	Chemical 459 461	20
+T26	Protein 501 507	DPP-IV
+R16	Binds_With Arg1:T7 Arg2:T3	
+R17	Binds_With Arg1:T7 Arg2:T5	
+R18	Binds_With Arg1:T8 Arg2:T5	
+R19	Binds_With Arg1:T8 Arg2:T3	
+R20	Binds_With Arg1:T22 Arg2:T5	
+R21	Binds_With Arg1:T22 Arg2:T3	
+R23	Binds_With Arg1:T4 Arg2:T5	
+R24	Binds_With Arg1:T4 Arg2:T3	
+R25	Binds_With Arg1:T6 Arg2:T5	
+R26	Binds_With Arg1:T6 Arg2:T3	
+R27	Binds_With Arg1:T9 Arg2:T5	
+R28	Binds_With Arg1:T9 Arg2:T3	
+R29	Binds_With Arg1:T16 Arg2:T5	
+R30	Binds_With Arg1:T16 Arg2:T3	
+R31	Binds_With Arg1:T10 Arg2:T5	
+R32	Binds_With Arg1:T10 Arg2:T5	
+R33	Binds_With Arg1:T11 Arg2:T5	
+R34	Binds_With Arg1:T11 Arg2:T3	
+R35	Binds_With Arg1:T18 Arg2:T5	
+R36	Binds_With Arg1:T18 Arg2:T3	
+R37	Binds_With Arg1:T24 Arg2:T5	
+R38	Binds_With Arg1:T24 Arg2:T3	
+R39	Binds_With Arg1:T25 Arg2:T5	
+R40	Binds_With Arg1:T25 Arg2:T3	
+R41	Binds_With Arg1:T7 Arg2:T17	
+R42	Binds_With Arg1:T7 Arg2:T19	
+R43	Binds_With Arg1:T8 Arg2:T17	
+R44	Binds_With Arg1:T8 Arg2:T19	
+R45	Binds_With Arg1:T22 Arg2:T17	
+R46	Binds_With Arg1:T22 Arg2:T19	
+R47	Binds_With Arg1:T4 Arg2:T17	
+R48	Binds_With Arg1:T4 Arg2:T19	
+R49	Binds_With Arg1:T6 Arg2:T17	
+R50	Binds_With Arg1:T6 Arg2:T19	
+R51	Binds_With Arg1:T9 Arg2:T17	
+R52	Binds_With Arg1:T9 Arg2:T19	
+R53	Binds_With Arg1:T16 Arg2:T19	
+R54	Binds_With Arg1:T10 Arg2:T17	
+R55	Binds_With Arg1:T10 Arg2:T19	
+R56	Binds_With Arg1:T10 Arg2:T17	

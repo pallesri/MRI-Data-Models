@@ -1,0 +1,272 @@
+T1	Chemical 1 10	Cisplatin
+T2	Chemical 177 181	drug
+T3	Species 502 510	patients
+T4	Chemical 551 560	cisplatin
+T5	Chemical 862 871	cisplatin
+T6	Chemical 862 880	cisplatin analogue
+T7	Biological_Activity 983 993	antitumour
+T8	Chemical 1006 1024	platinum compounds
+T9	Chemical 1203 1206	JM8
+T10	Chemical 1208 1261	diammine (1,1-cyclobutane dicarboxylato) platinum(II)
+T11	Chemical 1263 1274	carboplatin
+T12	Chemical 1276 1281	CBDCA
+T13	Chemical 1283 1294	Paraplatin®
+T14	Chemical 1301 1304	JM9
+T15	Chemical 1306 1374	cis -dichloro-trans -dihydroxo-cis -bis(isopropylamine) platinum(IV)
+T16	Chemical 1376 1380	CHIP
+T17	Chemical 1382 1392	iproplatin
+T18	Chemical 1458 1469	Carboplatin
+T19	Biological_Activity 1491 1496	toxic
+R1	Associated_With Arg1:T18 Arg2:T19	
+T20	Chemical 1541 1550	cisplatin
+R2	Associated_With Arg1:T20 Arg2:T19	
+T21	Chemical 1555 1565	iproplatin
+R3	Associated_With Arg1:T21 Arg2:T19	
+T22	Chemical 1586 1595	cisplatin
+T23	Chemical 1617 1627	iproplatin
+T24	Chemical 1653 1664	Carboplatin
+T25	Chemical 1760 1770	paclitaxel
+T26	Chemical 1950 1968	platinum compounds
+T27	Species 2034 2042	patients
+T28	Chemical 2104 2113	cisplatin
+T29	Chemical 2118 2129	carboplatin
+T31	Chemical 2147 2159	platinum(IV)
+T30	Chemical 2205 2224;2231 2245	platinum(IV) ammine dicarboxylates
+T32	Chemical 2205 2217;2225 2245	platinum(IV) amine dicarboxylates
+T33	Chemical 2278 2292	dicarboxylates
+T34	Biological_Activity 2309 2319	antitumour
+T35	Species 2341 2347	murine
+T36	Chemical 2405 2410	JM221
+T37	Chemical 2412 2469	bis-butyrato amminedichloro(cyclohexylamine) platinum(IV)
+T38	Chemical 2475 2480	JM216
+T39	Chemical 2482 2538	bis-acetato amminedichloro(cyclohexylamine) platinum(IV)
+T40	Chemical 2540 2550	BMS 182751
+T41	Species 2633 2638	human
+T42	Chemical 2724 2743;2750 2764	platinum(IV) ammine dicarboxylates
+T43	Chemical 2724 2736;2744 2764	platinum(IV) amine dicarboxylates
+T44	Chemical 2766 2771	JM221
+T45	Chemical 2781 2786	JM216
+T46	Chemical 2833 2842	cisplatin
+T47	Species 2853 2858	human
+T48	Chemical 2910 2924	dicarboxylates
+T49	Chemical 2933 2938	JM221
+T50	Chemical 2974 2983	cisplatin
+T51	Biological_Activity 3032 3042	antitumour
+T52	Species 3126 3132	ferret
+T53	Chemical 3141 3146	JM216
+R4	Associated_With Arg1:T53 Arg2:T51	
+T54	Chemical 3182 3187	JM216
+T55	Chemical 3475 3479	drug
+T56	Chemical 3593 3601	platinum
+T57	Chemical 3637 3646	cisplatin
+T58	Chemical 3706 3715	cisplatin
+T59	Chemical 3836 3847	glutathione
+T60	Protein 3852 3867	metallothionein
+T61	Chemical 4275 4284	cisplatin
+T62	Chemical 4167 4176	cisplatin
+T63	Species 4217 4225	patients
+T64	Chemical 4313 4321	platinum
+T65	Chemical 4492 4501	cisplatin
+T66	Species 4539 4544	human
+T67	Chemical 4602 4611	cisplatin
+T68	Chemical 4602 4611;4616 4625	cisplatin analogues
+T69	Chemical 4658 4666	platinum
+T70	Chemical 4751 4760	cisplatin
+T71	Chemical 4854 4858	drug
+T72	Chemical 5054 5065	glutathione
+T73	Biological_Activity 5205 5215	antitumour
+T74	Chemical 5272 5281	cisplatin
+T75	Chemical 5445 5450	JM335
+T76	Chemical 5452 5513	trans -ammine (cyclohexylaminedichlorodihydroxo) platinum(IV)
+T77	Chemical 5519 5525	ZD0473
+T78	Chemical 5527 5577	cis -amminedichloro(2-methylpyridine) platinum(II)
+T79	Chemical 5733 5738	JM335
+T80	Chemical 5775 5798	trans  platinum complex
+T81	Chemical 5799 5804	JM335
+T82	Chemical 5861 5884	trans  platinum complex
+T83	Chemical 5927 5952	trans -platinum complexes
+T84	Chemical 6014 6032	platinum complexes
+T85	Chemical 6159 6164	JM335
+T86	Chemical 6198 6207	cisplatin
+T87	Biological_Activity 6327 6337	antitumour
+T88	Species 6360 6365	human
+R5	Associated_With Arg1:T85 Arg2:T87	
+T89	Chemical 6437 6446	cisplatin
+T90	Chemical 6469 6478	cisplatin
+T91	Species 6489 6495	murine
+R6	Associated_With Arg1:T89 Arg2:T87	
+T92	Chemical 6576 6588	platinum(II)
+T93	Chemical 6604 6609	JM335
+T94	Chemical 6611 6616	JM334
+T95	Chemical 6576 6609	platinum(II) counterpart of JM335
+T96	Biological_Activity 6639 6649	antitumour
+R7	Associated_With Arg1:T94 Arg2:T96	
+T97	Chemical 6666 6671	JM335
+T98	Chemical 6743 6752	cisplatin
+T99	Chemical 6795 6800	JM335
+T100	Protein 6865 6884	monoclonal antibody
+T101	Chemical 6900 6909	cisplatin
+T102	Chemical 6953 6958	JM335
+T103	Biological_Activity 6967 6976	apoptosis
+R8	Associated_With Arg1:T102 Arg2:T103	
+T104	Chemical 7082 7087	JM335
+T105	Chemical 7111 7116	JM149
+T106	Chemical 7121 7130	cisplatin
+T107	Species 7138 7143	human
+T108	Chemical 7192 7201	cisplatin
+T109	Chemical 7343 7348	JM335
+T110	Chemical 7350 7355	JM149
+T111	Chemical 7360 7369	cisplatin
+T112	Chemical 7646 7655	cisplatin
+T113	Chemical 7660 7665	JM149
+T114	Chemical 7712 7717	JM335
+T115	Biological_Activity 7838 7847	apoptosis
+R9	Associated_With Arg1:T112 Arg2:T115	
+R10	Associated_With Arg1:T113 Arg2:T115	
+R11	Associated_With Arg1:T114 Arg2:T115	
+T116	Chemical 8068 8073	JM335
+T117	Chemical 8095 8100	JM149
+T118	Chemical 8207 8212	JM335
+T119	Chemical 8234 8243	cisplatin
+T120	Chemical 8366 8380	platinum drugs
+T121	Chemical 8420 8425	JM335
+T122	Biological_Activity 8454 8464	antitumour
+T123	Species 8482 8487	human
+R12	Associated_With Arg1:T121 Arg2:T122	
+T124	Chemical 8587 8593	ZD0473
+T125	Chemical 8630 8643	platinum drug
+T126	Chemical 8669 8682	platinum drug
+T127	Species 8732 8737	human
+T128	Chemical 8827 8832	thiol
+T129	Chemical 8865 8876	glutathione
+T130	Chemical 8878 8881	GSH
+T132	Protein 8887 8902	metallothionein
+T131	Protein 8904 8906	MT
+T133	Chemical 8966 8979	platinum drug
+T134	Biological_Activity 9019 9026	binding
+T135	Chemical 9030 9036	thiols
+T136	Chemical 9157 9163	ZD0473
+T137	Chemical 9183 9188	JM473
+T138	Chemical 9193 9199	AMD473
+T139	Chemical 9238 9246	platinum
+T140	Chemical 9264 9280	2-methylpyridine
+T141	Chemical 9338 9344	ZD0473
+T142	Chemical 9391 9400	cisplatin
+T143	Chemical 9408 9413	thiol
+T144	Chemical 9436 9446	methionine
+T145	Chemical 9451 9454	GSH
+T146	Chemical 9469 9473	drug
+T147	Chemical 9524 9529	water
+T148	Chemical 9543 9552	cisplatin
+T149	Chemical 9560 9566	ZD0473
+T150	Chemical 9670 9679	cisplatin
+T151	Biological_Activity 9728 9735	binding
+T152	Chemical 9737 9743	ZD0473
+T153	Chemical 9799 9808	cisplatin
+T154	Chemical 9932 9938	ZD0473
+T155	Biological_Activity 9959 9969	antitumour
+R13	Associated_With Arg1:T154 Arg2:T155	
+T156	Chemical 10066 10075	cisplatin
+T157	Chemical 10109 10115	ZD0473
+T158	Chemical 10156 10167	carboplatin
+T159	Biological_Activity 10128 10136	toxicity
+R14	Associated_With Arg1:T157 Arg2:T159	
+R15	Associated_With Arg1:T158 Arg2:T159	
+T160	Chemical 10224 10230	AMD473
+T161	Chemical 10429 10435	ZD0473
+T162	Chemical 10385 10389	drug
+T164	Biological_Activity 10584 10592	toxicity
+R16	Associated_With Arg1:T161 Arg2:T164	
+T163	Biological_Activity 10865 10873	toxicity
+T165	Species 10931 10939	patients
+T166	Species 10709 10717	patients
+T167	Species 10972 10980	patients
+T168	Biological_Activity 11065 11073	toxicity
+T169	Chemical 11128 11136	platinum
+T170	Chemical 11188 11196	platinum
+T171	Biological_Activity 11303 11313	antitumour
+T172	Species 11328 11335	patient
+T173	Chemical 11398 11404	ZD0473
+T174	Chemical 11421 11425	drug
+T175	Biological_Activity 11426 11436	metabolism
+T176	Chemical 11485 11491	ZD0473
+T177	Chemical 11584 11587	GSH
+T178	Protein 11592 11607	metallothionein
+T179	Biological_Activity 11653 11663	metabolism
+T180	Chemical 11691 11717	platinum(IV) dicarboxylate
+T181	Chemical 11723 11727	drug
+T182	Chemical 11729 11734	JM216
+T183	Biological_Activity 11740 11750	metabolism
+T184	Chemical 11754 11760	ZD0473
+R17	Associated_With Arg1:T184 Arg2:T183	
+T185	Chemical 11816 11827;11840 11847	aquated cis species
+T186	Chemical 11816 11823;11833 11847	aquated trans  species
+T187	Metabolite 11816 11827;11840 11847	aquated cis species
+T188	Metabolite 11816 11823;11833 11847	aquated trans  species
+R18	Metabolite_Of Arg1:T188 Arg2:T184	
+R19	Metabolite_Of Arg1:T187 Arg2:T184	
+T189	Chemical 11853 11857	drug
+T190	Chemical 11907 11913	ZD0473
+T191	Chemical 11926 11937	glutathione
+T192	Protein 11956 11982	glutathione-S -transferase
+T193	Chemical 12028 12047	glutathione adducts
+T194	Chemical 12094 12103	cisplatin
+T195	Chemical 12114 12120	ZD0473
+T196	Chemical 12309 12318	cisplatin
+T197	Chemical 12323 12334	carboplatin
+T198	Chemical 12385 12393	platinum
+T199	Chemical 12426 12432	ZD0473
+T200	Chemical 12581 12584	GSH
+T201	Chemical 12696 12702	ZD0473
+T202	Chemical 12764 12773	cisplatin
+T203	Protein 12832 12840	proteins
+T204	Biological_Activity 12887 12896	apoptosis
+T205	Protein 12976 12980	BCL2
+T206	Chemical 13056 13065	cisplatin
+T207	Protein 13136 13140	BCL2
+T208	Biological_Activity 13327 13337	inhibition
+T209	Chemical 13349 13355	ZD0473
+T210	Chemical 13363 13372	cisplatin
+T211	Chemical 13425 13430	thiol
+T212	Species 13441 13446	human
+T213	Biological_Activity 13529 13539	inhibition
+T214	Chemical 13566 13569	GSH
+T215	Chemical 13614 13623	GSH-ester
+T216	Chemical 13725 13728	GSH
+T217	Chemical 13841 13863	buthionine sulfoxamine
+T218	Chemical 13865 13868	BSO
+T219	Chemical 13917 13923	ZD0473
+T220	Biological_Activity 13927 13931	bind
+T221	Chemical 13935 13941	thiols
+T222	Chemical 13959 13968	cisplatin
+R20	Associated_With Arg1:T219 Arg2:T220	
+R21	Associated_With Arg1:T222 Arg2:T220	
+T223	Chemical 13988 13991	GSH
+T224	Protein 13995 13997	MT
+T225	Biological_Activity 14024 14034	inhibitory
+T226	Chemical 14049 14058	cisplatin
+R22	Associated_With Arg1:T226 Arg2:T225	
+T227	Chemical 14088 14094	ZD0473
+R23	Associated_With Arg1:T227 Arg2:T225	
+T228	Protein 14118 14120	MT
+T229	Protein 13640 13642	MT
+T230	Chemical 14155 14164	cisplatin
+T231	Chemical 14193 14199	ZD0473
+T232	Chemical 14250 14253	GSH
+T233	Chemical 14267 14270	BSO
+T234	Chemical 14386 14389	BSO
+T235	Chemical 14446 14450	drug
+T236	Biological_Activity 14462 14472	metabolism
+T237	Chemical 14591 14597	ZD0473
+T238	Chemical 14602 14630	sulphur-containing molecules
+T239	Chemical 14790 14808	platinum complexes
+T240	Chemical 14834 14845	carboplatin
+T241	Chemical 14889 14894	JM216
+T242	Chemical 14880 14888	platinum
+T243	Chemical 14933 14939	ZD0473
+T244	Chemical 14977 15000	trans  platinum complex
+T245	Chemical 15001 15006	JM335
+T246	Chemical 15043 15059	trans  complexes
+T247	Biological_Activity 15094 15104	antitumour
+R24	Associated_With Arg1:T245 Arg2:T247	
+T248	Chemical 15145 15154	cisplatin

@@ -1,0 +1,26 @@
+T2	Chemical 85 97	BNPS-skatole
+T3	Chemical 99 143	2-(2-nitrophenyl)-3-methyl-3-bromoindolenine
+T4	Species 200 206	bovine
+T5	Protein 207 225	beta-lactoglobulin
+T6	Protein 227 230	BLG
+T7	Chemical 312 323	acetic acid
+T8	Chemical 325 345	trifluoroacetic acid
+T9	Chemical 347 350	TFA
+T10	Chemical 357 363	ethano
+T11	Chemical 365 368	TFA
+T12	Chemical 374 386	BNPS-skatole
+T13	Chemical 410 415	water
+T14	Chemical 419 430	ethyl ether
+T15	Chemical 498 506	peptides
+#2	AnnotatorNotes T15	Chemical class
+T16	Spectral_Data 688 705	mass spectrometry
+T17	Protein 765 768	BLG
+T18	Chemical 784 795	acetic acid
+T19	Chemical 835 840	water
+T20	Spectral_Data 1014 1031	mass spectrometry
+T21	Chemical 1040 1050	amino acid
+#3	AnnotatorNotes T21	Chemical class
+T22	Chemical 1066 1074	peptides
+#4	AnnotatorNotes T22	Chemical class
+R3	Associated_With Arg1:T15 Arg2:T16	
+R4	Associated_With Arg1:T22 Arg2:T20	

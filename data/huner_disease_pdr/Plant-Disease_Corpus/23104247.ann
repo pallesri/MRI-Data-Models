@@ -1,0 +1,18 @@
+T3	Disease 504 507	ASD
+T4	Disease 533 552	neural tube defects
+T7	Plant 0 7	Ginseng
+T9	Plant 49 55	plants
+T10	Plant 84 89	Panax
+T13	Plant 126 137	red ginseng
+T16	Plant 628 639	red ginseng
+T8	Plant 111 124	white ginseng
+T1	Disease 383 413	autism spectrum disorder (ASD)
+T2	Disease 558 580	crooked tail phenotype
+T5	Disease 685 707	crooked tail phenotype
+T11	Treatment_of_disease 652 658	rescue
+E1	Treatment_of_disease:T11 Cause:T16 Theme:T5
+T6	Disease 863 886	crooked tail phenotypes
+T14	Plant 1264 1267	KRG
+T15	Plant 1134 1137	KRG
+T12	Plant 943 954	red ginseng
+T17	Plant 956 959	KRG

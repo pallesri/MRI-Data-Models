@@ -1,0 +1,348 @@
+T1	Chemical 1 34	Phosphorothioate oligonucleotides
+T2	Chemical 36 44	S-oligos
+T3	Chemical 50 62	nucleic acid
+T4	Chemical 50 74	nucleic acid derivatives
+T5	Chemical 195 202	oxygens
+T6	Chemical 208 214	sulfur
+T7	Chemical 222 236	phosphodiester
+T8	Protein 281 289	nuclease
+T9	Chemical 497 505	S-oligos
+T10	Biological_Activity 92 101	antisense
+R1	Associated_With Arg1:T1 Arg2:T10	
+R2	Associated_With Arg1:T2 Arg2:T10	
+T12	Biological_Activity 521 530	antisense
+R3	Associated_With Arg1:T9 Arg2:T12	
+T11	Species 582 587	human
+T13	Biological_Activity 683 691	blocking
+T14	Chemical 709 717	S-oligos
+R4	Associated_With Arg1:T14 Arg2:T13	
+T15	Biological_Activity 765 774	antisense
+T16	Biological_Activity 822 829	binding
+T17	Protein 842 850	proteins
+R5	Associated_With Arg1:T14 Arg2:T16	
+R6	Binds_With Arg1:T14 Arg2:T17	
+T18	Biological_Activity 871 888	immunostimulatory
+R7	Associated_With Arg1:T14 Arg2:T18	
+T19	Biological_Activity 1043 1054	stimulation
+R8	Associated_With Arg1:T14 Arg2:T19	
+T20	Protein 1107 1116	cytokines
+T21	Protein 1128 1133	IL-12
+T22	Protein 1135 1142	IFN-α/β
+T23	Protein 1147 1151	IL-6
+T24	Biological_Activity 1271 1280	antisense
+T25	Biological_Activity 1298 1315	immunostimulation
+T26	Chemical 1319 1327	S-oligos
+R9	Associated_With Arg1:T26 Arg2:T25	
+T27	Species 1346 1355	bacterial
+T28	Chemical 1381 1412	phosphodiester oligonucleotides
+T29	Chemical 1424 1427	CpG
+T30	Chemical 1464 1472	S-oligos
+T31	Biological_Activity 1533 1542	signaling
+T32	Chemical 1672 1680	S-oligos
+T33	Biological_Activity 1709 1713	bind
+T34	Protein 1717 1727	antibodies
+T35	Protein 1736 1744	anti-DNA
+R10	Associated_With Arg1:T32 Arg2:T33	
+R11	Binds_With Arg1:T32 Arg2:T35	
+T36	Protein 1772 1782	antibodies
+T37	Protein 1907 1917	antibodies
+T38	Chemical 1731 1734	DNA
+T39	Chemical 1976 1979	DNA
+T40	Protein 1971 1990	Anti-DNA antibodies
+T41	Species 2002 2010	patients
+T42	Species 2022 2028	murine
+T43	Protein 2069 2079	antibodies
+T44	Chemical 2108 2112	base
+T45	Chemical 2171 2176	bases
+T46	Protein 2184 2194	antibodies
+T47	Biological_Activity 2195 2199	bind
+T48	Chemical 2256 2259	DNA
+T49	Chemical 2342 2346	base
+T50	Chemical 2526 2534	S-oligos
+T51	Chemical 2592 2608	phosphorothioate
+T52	Chemical 2592 2618	phosphorothioate compounds
+T53	Chemical 2628 2633	bases
+T54	Protein 2687 2706	anti-DNA antibodies
+T55	Biological_Activity 2719 2723	bind
+T56	Chemical 2724 2757	phosphorothioate oligonucleotides
+R12	Associated_With Arg1:T56 Arg2:T55	
+R13	Binds_With Arg1:T56 Arg2:T54	
+T57	Chemical 2809 2817	S-oligos
+T58	Chemical 2840 2871	phosphodiester oligonucleotides
+T59	Chemical 3005 3013	S-oligos
+T60	Protein 3017 3025	antibody
+T61	Biological_Activity 3026 3033	binding
+R14	Associated_With Arg1:T59 Arg2:T61	
+R15	Binds_With Arg1:T59 Arg2:T60	
+T62	Chemical 3058 3075	phosphorothioates
+T63	Chemical 3079 3087	antigens
+T64	Chemical 3162 3170	Antigens
+T65	Chemical 3171 3187	Oligonucleotides
+T66	Chemical 3207 3233	cyanoethyl phosphoramidite
+T67	Chemical 3348 3355	ethanol
+T68	Chemical 3415 3420	water
+T69	Species 3550 3554	Calf
+T70	Chemical 3567 3570	DNA
+T71	Chemical 3668 3674	phenol
+T72	Chemical 3677 3687	chloroform
+T73	Chemical 3692 3699	ethanol
+T74	Chemical 3745 3748	DNA
+T75	Chemical 3726 3739	ssDNA antigen
+T76	Chemical 3798 3801	ice
+T77	Species 3946 3954	patients
+T78	Chemical 4131 4139	anti-DNA
+T79	Chemical 4156 4161	dsDNA
+T80	Species 4222 4227	human
+T81	Species 4270 4280	volunteers
+T82	Protein 4327 4335	antibody
+T83	Chemical 4443 4446	DNA
+T84	Chemical 4450 4466	oligonucleotides
+T85	Chemical 4504 4507	SSC
+#1	AnnotatorNotes T85	saline sodium citrate
+T86	Chemical 4516 4520	NaCl
+T87	Chemical 4528 4538	Na citrate
+T88	Chemical 4585 4610	phosphate buffered saline
+T89	Chemical 4612 4615	PBS
+T90	Chemical 4642 4650	Tween 20
+T91	Chemical 4660 4665	PBS-T
+T92	Chemical 4727 4732	PBS-T
+T93	Species 4747 4753	bovine
+T94	Protein 4747 4767	bovine serum albumin
+T95	Chemical 4868 4873	PBS-T
+T96	Protein 4875 4885	peroxidase
+T97	Species 4897 4901	goat
+T98	Species 4907 4912	human
+T99	Protein 4902 4916	anti-human IgG
+T100	Chemical 4967 4972	PBS-T
+T101	Chemical 5061 5066	PBS-T
+T102	Chemical 5108 5138	3,3′,5,5′-tetramethylbenzidine
+T103	Chemical 5154 5171	hydrogen peroxide
+T104	Chemical 5181 5202	sodium citrate buffer
+T105	Chemical 5579 5595	oligonucleotides
+T106	Chemical 5599 5610	DNA antigen
+T107	Chemical 5766 5799	phosphorothioate oligonucleotides
+T108	Chemical 5835 5839	1082
+T109	Species 5958 5978	herpes simplex virus
+T110	Chemical 6012 6017	bases
+T111	Biological_Activity 6066 6083	immunostimulatory
+T112	Chemical 6096 6113	phosphorothioates
+R16	Associated_With Arg1:T112 Arg2:T111	
+T113	Chemical 6281 6286	ssDNA
+T114	Chemical 6333 6348	oligonucleotide
+T115	Chemical 6408 6413	ssDNA
+T116	Biological_Activity 2510 2522	antigenicity
+R17	Associated_With Arg1:T50 Arg2:T116	
+T117	Biological_Activity 2940 2952	antigenicity
+T118	Biological_Activity 5750 5762	antigenicity
+T119	Biological_Activity 6296 6305	antigenic
+T120	Chemical 6831 6838	antigen
+T121	Biological_Activity 7390 7399	antigenic
+T122	Biological_Activity 7512 7524	antigenicity
+T123	Biological_Activity 7919 7931	antigenicity
+T124	Biological_Activity 8557 8569	antigenicity
+T125	Biological_Activity 9147 9156	antigenic
+T126	Biological_Activity 9264 9276	antigenicity
+T127	Biological_Activity 9465 9477	antigenicity
+T128	Biological_Activity 10443 10455	antigenicity
+T129	Biological_Activity 11499 11511	antigenicity
+T130	Biological_Activity 11594 11606	antigenicity
+T131	Biological_Activity 12030 12042	antigenicity
+T132	Biological_Activity 13415 13427	antigenicity
+T133	Biological_Activity 14396 14408	antigenicity
+T134	Chemical 15291 15299	antigens
+T135	Species 4238 4241	NHS
+T136	Species 6443 6446	NHS
+T137	Species 7596 7599	NHS
+T138	Species 7801 7804	NHS
+T139	Protein 6508 6518	antibodies
+T140	Chemical 6610 6622	S-oligo 1082
+T141	Protein 6684 6692	anti-DNA
+T142	Biological_Activity 6693 6700	binding
+T143	Biological_Activity 6923 6930	binding
+T144	Chemical 6934 6942	S-oligos
+R18	Associated_With Arg1:T144 Arg2:T143	
+T145	Protein 6977 6996	anti-DNA antibodies
+R19	Binds_With Arg1:T144 Arg2:T145	
+T146	Biological_Activity 7026 7033	binding
+T147	Chemical 7037 7045	S-oligos
+R20	Associated_With Arg1:T147 Arg2:T146	
+T148	Protein 7063 7082	anti-DNA antibodies
+R21	Binds_With Arg1:T147 Arg2:T148	
+T149	Chemical 7146 7151	ssDNA
+T150	Chemical 6811 6815	1082
+T151	Chemical 7156 7160	1082
+T152	Chemical 7317 7321	1082
+T153	Chemical 7192 7199	S-oligo
+T154	Biological_Activity 7225 7232	binding
+T155	Chemical 7253 7258	ssDNA
+T156	Chemical 7275 7280	ssDNA
+T157	Biological_Activity 7306 7313	binding
+R22	Associated_With Arg1:T152 Arg2:T157	
+R23	Associated_With Arg1:T156 Arg2:T157	
+T158	Chemical 7371 7386	oligonucleotide
+R24	Associated_With Arg1:T158 Arg2:T121	
+T159	Chemical 7434 7441	S-oligo
+T160	Chemical 7462 7470	anti-DNA
+T161	Biological_Activity 7471 7478	binding
+R25	Associated_With Arg1:T160 Arg2:T161	
+T162	Biological_Activity 7711 7718	binding
+T163	Biological_Activity 7769 7776	binding
+T164	Biological_Activity 7828 7835	binding
+T165	Chemical 7939 7955	phosphorothioate
+T166	Biological_Activity 8002 8009	binding
+T167	Chemical 8102 8118	phosphorothioate
+T168	Chemical 8123 8137	phosphodiester
+T169	Chemical 8151 8156	bases
+T170	Chemical 8188 8193	bases
+T171	Chemical 8273 8281	S-oligos
+T172	Chemical 8306 8322	S-oligo randomer
+T173	Chemical 8348 8359	polystyrene
+T174	Chemical 8426 8440	phosphodiester
+T175	Chemical 8528 8544	phosphorothioate
+R26	Associated_With Arg1:T175 Arg2:T124	
+T176	Chemical 8640 8665	phosphorothioate randomer
+T177	Chemical 8675 8698	phosphodiester randomer
+T178	Biological_Activity 8714 8724	inhibitors
+T179	Biological_Activity 8749 8756	binding
+T180	Chemical 8770 8786	phosphorothioate
+T181	Biological_Activity 8805 8814	inhibitor
+R27	Associated_With Arg1:T180 Arg2:T181	
+T182	Chemical 8824 8838	phosphodiester
+R28	Associated_With Arg1:T182 Arg2:T181	
+T183	Chemical 9433 9438	bases
+T184	Chemical 9561 9568	epitope
+T185	Protein 9628 9647	anti-DNA antibodies
+T186	Chemical 9681 9714	phosphorothioate oligonucleotides
+T187	Protein 9796 9806	antibodies
+T188	Protein 9810 9818	anti-DNA
+T189	Biological_Activity 9849 9856	binding
+T190	Biological_Activity 9868 9878	inhibition
+T191	Chemical 9904 9909	ssDNA
+T192	Protein 9920 9928	antibody
+T193	Biological_Activity 9929 9936	binding
+T194	Chemical 9952 9960	S-oligos
+T195	Chemical 9967 9975	S-oligos
+T196	Protein 9986 9994	antibody
+T197	Biological_Activity 9995 10002	binding
+T198	Chemical 10009 10014	ssDNA
+R29	Associated_With Arg1:T198 Arg2:T197	
+R30	Binds_With Arg1:T198 Arg2:T196	
+R31	Associated_With Arg1:T194 Arg2:T193	
+R32	Binds_With Arg1:T194 Arg2:T192	
+T199	Biological_Activity 9914 9919	block
+R33	Associated_With Arg1:T191 Arg2:T199	
+T200	Biological_Activity 9980 9985	block
+R34	Associated_With Arg1:T195 Arg2:T200	
+T201	Species 10031 10037	murine
+T202	Protein 10049 10068	anti-DNA antibodies
+T203	Chemical 10072 10092	phosphorothoiate DNA
+T204	Protein 10139 10149	antibodies
+T205	Chemical 10193 10196	DNA
+T206	Protein 10280 10299	anti-DNA antibodies
+T207	Species 10303 10308	human
+T208	Chemical 10372 10380	S-oligos
+T209	Protein 10513 10521	antibody
+T210	Biological_Activity 10594 10598	bind
+T211	Chemical 10608 10624	oligonucleotides
+T212	Chemical 10565 10570	bases
+T213	Chemical 10670 10675	bases
+T214	Chemical 11122 11127	bases
+T215	Chemical 9083 9088	bases
+T216	Chemical 10644 10647	DNA
+T217	Protein 10743 10751	anti-DNA
+T218	Chemical 10760 10763	DNA
+T219	Biological_Activity 10752 10756	bind
+T220	Biological_Activity 10819 10826	binding
+T221	Chemical 10921 10924	DNA
+T222	Protein 10958 10966	antibody
+T223	Chemical 11073 11076	DNA
+T224	Biological_Activity 11284 11291	binding
+T225	Biological_Activity 11316 11323	binding
+T226	Protein 11392 11400	anti-DNA
+T227	Chemical 11495 11498	DNA
+T228	Chemical 11548 11553	ssDNA
+T229	Chemical 11576 11581	bases
+T230	Biological_Activity 11750 11757	binding
+T231	Protein 11768 11776	antibody
+T232	Chemical 11777 11784	antigen
+T233	Chemical 11864 11867	DNA
+T234	Chemical 11879 11884	bases
+T235	Chemical 11941 11944	DNA
+T236	Biological_Activity 12085 12092	binding
+T237	Chemical 12186 12189	DNA
+T238	Protein 12212 12220	antibody
+T239	Biological_Activity 12221 12228	binding
+T240	Chemical 12258 12261	DNA
+T241	Biological_Activity 12353 12360	binding
+T242	Chemical 12377 12408	phosphodiester oligonucleotides
+T243	Chemical 12410 12443	phosphorothioate oligonucleotides
+T244	Biological_Activity 12449 12458	antigenic
+R35	Associated_With Arg1:T243 Arg2:T244	
+T245	Biological_Activity 12588 12592	bind
+T246	Chemical 12616 12629	DNA fragments
+T247	Chemical 12674 12705	phosphodiester oligonucleotides
+T248	Protein 12761 12769	anti-DNA
+T249	Biological_Activity 12770 12774	bind
+T250	Chemical 12795 12812	phosphorothioates
+T251	Chemical 12818 12842	phosphodiester compounds
+T252	Chemical 12875 12891	oligonucleotides
+T253	Chemical 12929 12946	phosphorothioates
+T254	Chemical 12987 13003	phosphorothioate
+T255	Protein 13036 13043	protein
+T256	Biological_Activity 13044 13051	binding
+T257	Protein 13137 13147	antibodies
+T258	Biological_Activity 13158 13165	binding
+T259	Chemical 13169 13186	phosphorothioates
+T260	Protein 13224 13243	anti-DNA antibodies
+R36	Associated_With Arg1:T259 Arg2:T258	
+T261	Chemical 13290 13306	phosphorothioate
+T262	Biological_Activity 13380 13389	inhibited
+T263	Chemical 13401 13404	DNA
+T264	Chemical 13431 13448	phosphorothioates
+R37	Associated_With Arg1:T264 Arg2:T132	
+T265	Protein 13568 13576	anti-DNA
+T266	Chemical 13609 13632	phosphorothioate groups
+T267	Biological_Activity 13645 13652	binding
+R38	Associated_With Arg1:T266 Arg2:T267	
+T268	Chemical 13778 13800	phosphorothioate bonds
+T269	Chemical 13957 13968	sulfur atom
+T270	Chemical 14038 14047	phosphate
+T271	Chemical 14121 14128	S-oligo
+T272	Chemical 14427 14444	phosphorothioates
+R39	Associated_With Arg1:T272 Arg2:T133	
+T273	Chemical 14533 14542	oligomers
+T274	Protein 14590 14602	SLE anti-DNA
+T275	Chemical 14629 14631;14638 14641	ss DNA
+T276	Chemical 14636 14641	dsDNA
+T277	Protein 14703 14722	anti-DNA antibodies
+T278	Chemical 14755 14788	phosphorothioate oligonucleotides
+T279	Chemical 14796 14829	phosphorothioate oligonucleotides
+T280	Protein 14868 14887	anti-DNA antibodies
+T281	Chemical 14901 14906	ssDNA
+T282	Chemical 14920 14929	compounds
+T283	Chemical 14994 15003	compounds
+T284	Chemical 15066 15069	DNA
+T285	Chemical 15140 15152	nucleic acid
+T286	Protein 15220 15228	nuclease
+T287	Chemical 15243 15260	phosphorothioates
+T288	Chemical 15372 15389	phosphorothioates
+T289	Biological_Activity 15395 15411	immunostimulator
+R40	Associated_With Arg1:T288 Arg2:T289	
+T290	Biological_Activity 15573 15577	bind
+R41	Associated_With Arg1:T288 Arg2:T290	
+T291	Protein 15578 15586	anti-DNA
+T292	Protein 15649 15657	anti-DNA
+T293	Protein 15760 15768	nuclease
+T294	Protein 15817 15829	Ig receptors
+T295	Chemical 15854 15871	phosphorothioates
+T296	Chemical 15971 15978	S-oligo
+T297	Protein 15990 15998	anti-DNA
+T298	Biological_Activity 16016 16033	immunostimulatory
+T299	Protein 16080 16088	anti-DNA
+T300	Chemical 16171 16188	phosphorothioates
+T301	Biological_Activity 16189 16196	binding
+R42	Associated_With Arg1:T300 Arg2:T301	
+T302	Protein 16200 16210	antibodies
+R43	Binds_With Arg1:T300 Arg2:T302	
+R44	Binds_With Arg1:T288 Arg2:T291	
+T303	Protein 16236 16244	antibody

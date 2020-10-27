@@ -1,0 +1,282 @@
+T1	Protein 1 16;23 30	Cytochrome P450 enzymes
+T2	Protein 18 21;23 30	CYP enzymes
+T4	Protein 35 57	heme-thiolate proteins
+T5	Biological_Activity 97 107	metabolism
+T6	Chemical 129 140	xenobiotics
+T7	Biological_Activity 129 140	xenobiotics
+T8	Protein 186 193	enzymes
+T9	Chemical 266 276	amino acid
+T10	Protein 313 324	CYP enzymes
+T3	Biological_Activity 345 355	metabolism
+T11	Chemical 363 380	chemical entities
+T12	Protein 442 453	CYP isozyme
+T13	Biological_Activity 460 470	inhibition
+T14	Protein 479 486	isozyme
+T15	Chemical 519 523	drug
+T16	Protein 547 568	CYP family of enzymes
+T17	Chemical 627 635	steroids
+T18	Chemical 640 657	related compounds
+T19	Chemical 697 709	testosterone
+T20	Protein 741 746	CYP3A
+T21	Protein 757 768	CYP enzymes
+T22	Chemical 841 864	testosterone metabolite
+T23	Metabolite 841 864	testosterone metabolite
+T24	Chemical 866 888	6β-hydroxytestosterone
+T25	Metabolite 866 888	6β-hydroxytestosterone
+T26	Protein 894 899	CYP3A
+T27	Biological_Activity 894 899	CYP3A
+T28	Chemical 1029 1041	testosterone
+T29	Metabolite 1029 1041;1068 1079	testosterone metabolites
+T30	Spectral_Data 1847 1883	gas chromatography–mass spectrometry
+T31	Spectral_Data 1885 1890	GC–MS
+T32	Chemical 1055 1079	hydroxylated metabolites
+T33	Metabolite 1055 1079	hydroxylated metabolites
+T34	Chemical 1987 2011	hydroxylated metabolites
+T35	Metabolite 1987 2011	hydroxylated metabolites
+T36	Chemical 2036 2041;2052 2062;2075 2098	syn - isomers of derivatized metabolites
+T37	Chemical 2046 2062;2075 2098	anti -isomers of derivatized metabolites
+T38	Chemical 2087 2098	metabolites
+T39	Metabolite 2087 2098	metabolites
+T40	Chemical 2159 2187	tritium-labeled testosterone
+T41	Chemical 2341 2353	testosterone
+R1	Metabolite_Of Arg1:T25 Arg2:T19	
+T42	Chemical 2358 2380	6β-hydroxytestosterone
+T43	Metabolite 2358 2380	6β-hydroxytestosterone
+T44	Spectral_Data 2439 2457	mass spectrometric
+R2	Associated_With Arg1:T43 Arg2:T44	
+R3	Associated_With Arg1:T42 Arg2:T44	
+R4	Associated_With Arg1:T41 Arg2:T44	
+T45	Chemical 2528 2540;2549 2560	testosterone metabolites
+T46	Chemical 2528 2540	testosterone
+T47	Chemical 2873 2885	Testosterone
+T48	Chemical 2887 2909	17α-methyltestosterone
+T49	Chemical 2911 2926	androstenedione
+T50	Chemical 2928 2950	2β-hydroxytestosterone
+T51	Chemical 2951 2980	phenylmethylsulfonyl fluoride
+T52	Chemical 2982 2986	PMSF
+T53	Chemical 2989 3013	butylated hydroxytoluene
+T54	Chemical 3015 3018	BHT
+T55	Chemical 3043 3061	potassium chloride
+T56	Chemical 3063 3067	EDTA
+T57	Chemical 3069 3074	HEPES
+T58	Chemical 3076 3084	glycerol
+T59	Chemical 3090 3108	magnesium chloride
+T60	Chemical 3168 3171;3197 3216	2α- hydroxytestosterone
+T61	Chemical 3173 3176;3197 3216	6β- hydroxytestosterone
+T62	Metabolite 3173 3176;3197 3216	6β- hydroxytestosterone
+T63	Chemical 3178 3181;3197 3216	7α- hydroxytestosterone
+T64	Chemical 3183 3187;3197 3216	16α- hydroxytestosterone
+T65	Chemical 3193 3216	16β-hydroxytestosterone
+T66	Chemical 3283 3301	methylene chloride
+T67	Spectral_Data 3319 3321	MS
+T68	Chemical 3328 3336	methanol
+T69	Spectral_Data 3364 3366	UV
+T70	Chemical 3373 3385	acetonitrile
+T71	Protein 3472 3492	Bovine serum albumin
+T72	Species 3472 3478	Bovine
+T73	Protein 3540 3547	protein
+T74	Species 3640 3645	Human
+T75	Species 3732 3737	Human
+T76	Species 3939 3944	Human
+T77	Chemical 4033 4036	KCl
+T78	Chemical 4131 4143	Tris acetate
+T79	Chemical 4151 4155	EDTA
+T80	Chemical 4165 4168	KCl
+T81	Chemical 4177 4180	BHT
+T82	Chemical 4580 4608	tetrapotassium pyrophosphate
+T83	Chemical 4616 4620	EDTA
+T84	Chemical 4633 4636	BHT
+T85	Chemical 4667 4670	HCl
+T86	Chemical 4710 4715	glass
+T87	Chemical 4879 4891	Tris acetate
+T88	Chemical 4899 4903	EDTA
+T89	Chemical 4913 4917	PMSF
+T90	Chemical 4927 4935	glycerol
+T91	Chemical 4955 4960	glass
+T92	Protein 5066 5073	protein
+T93	Protein 5139 5142	CYP
+T94	Chemical 5298 5303	HEPES
+T95	Chemical 5319 5324	HEPES
+T96	Chemical 5333 5338	MgCl2
+T97	Chemical 5349 5353	EDTA
+T98	Chemical 5377 5382	NADPH
+T99	Chemical 5410 5415	NADP+
+T100	Chemical 5425 5444	glucose 6-phosphate
+T101	Chemical 5455 5488	glucose 6-phosphate dehydrogenase
+T102	Protein 5521 5528	protein
+T103	Biological_Activity 5571 5580	enzymatic
+T104	Chemical 5621 5633	testosterone
+T105	Chemical 5665 5669	MeOH
+T106	Chemical 5726 5731	NADPH
+T107	Chemical 5833 5851	methylene chloride
+T108	Chemical 5884 5902	methyltestosterone
+T109	Chemical 6119 6137	methylene chloride
+T110	Chemical 6195 6203	nitrogen
+T111	Chemical 6205 6217	Acetonitrile
+T112	Spectral_Data 6358 6360	MS
+T113	Chemical 6437 6449	testosterone
+T114	Chemical 6462 6484	6β-hydroxytestosterone
+T115	Metabolite 6462 6484	6β-hydroxytestosterone
+T116	Chemical 6509 6517	methanol
+T117	Chemical 6653 6661	methanol
+T118	Chemical 6873 6878	water
+T119	Chemical 6892 6897	HEPES
+T120	Chemical 6944 6962	methyltestosterone
+T121	Spectral_Data 7071 7073	MS
+T122	Chemical 7238 7250	Testosterone
+T123	Chemical 7238 7250;7256 7267	Testosterone metabolites
+T124	Metabolite 7238 7250;7256 7267	Testosterone metabolites
+T125	Chemical 8135 8147	testosterone
+T126	Chemical 8149 8171	6β-hydroxytestosterone
+T127	Metabolite 8149 8171	6β-hydroxytestosterone
+T128	Chemical 8177 8195	methyltestosterone
+T129	Spectral_Data 8300 8312	mass spectra
+T130	Chemical 8329 8341	testosterone
+T131	Chemical 8343 8361	methyltestosterone
+T132	Chemical 8367 8389	6β-hydroxytestosterone
+T133	Metabolite 8367 8389	6β-hydroxytestosterone
+R5	Associated_With Arg1:T133 Arg2:T129	
+R6	Associated_With Arg1:T132 Arg2:T129	
+R7	Associated_With Arg1:T130 Arg2:T129	
+R8	Associated_With Arg1:T131 Arg2:T129	
+T134	Chemical 8538 8550	testosterone
+T135	Chemical 8564 8571	steroid
+T136	Chemical 8690 8702	testosterone
+T137	Chemical 8723 8741	methyltestosterone
+T138	Chemical 8746 8768	6β-hydroxytestosterone
+T139	Metabolite 8746 8768	6β-hydroxytestosterone
+T140	Spectral_Data 8871 8873	MS
+T141	Chemical 8937 8949	testosterone
+T142	Chemical 9040 9052	testosterone
+T143	Chemical 9054 9072	methyltestosterone
+T144	Chemical 9078 9100	6β-hydroxytestosterone
+T145	Metabolite 9078 9100	6β-hydroxytestosterone
+T146	Chemical 9294 9302	steroids
+T147	Protein 9403 9409	CYP450
+T148	Chemical 9410 9437	metabolites of testosterone
+T149	Metabolite 9410 9437	metabolites of testosterone
+T150	Chemical 9439 9454	Androstenedione
+T151	Chemical 9467 9477;9579 9591	2α-hydroxy testosterone
+T152	Chemical 9491 9501;9579 9591	2β-hydroxy testosterone
+T153	Chemical 9515 9525;9579 9591	7α-hydroxy testosterone
+T154	Chemical 9539 9550;9579 9591	16α-hydroxy testosterone
+T155	Chemical 9568 9591	16β-hydroxytestosterone
+T156	Chemical 9629 9641	testosterone
+T157	Chemical 9643 9665	6β-hydroxytestosterone
+T158	Metabolite 9643 9665	6β-hydroxytestosterone
+T159	Chemical 9671 9689	methyltestosterone
+T160	Spectral_Data 9752 9770	mass spectrometric
+T161	Chemical 9956 9968	testosterone
+T162	Chemical 9973 9995	6β-hydroxytestosterone
+T163	Metabolite 9973 9995	6β-hydroxytestosterone
+T164	Chemical 10112 10124	testosterone
+T165	Chemical 10129 10151	6β-hydroxytestosterone
+T166	Metabolite 10129 10151	6β-hydroxytestosterone
+T167	Chemical 10178 10196	methyltestosterone
+T168	Chemical 10836 10848	testosterone
+T169	Chemical 10853 10875	6β-hydroxytestosterone
+T170	Metabolite 10853 10875	6β-hydroxytestosterone
+T171	Chemical 11023 11035	testosterone
+T172	Chemical 11040 11062	6β-hydroxytestosterone
+T173	Metabolite 11040 11062	6β-hydroxytestosterone
+T174	Chemical 11243 11255	testosterone
+T175	Chemical 11260 11282	6β-hydroxytestosterone
+T176	Metabolite 11260 11282	6β-hydroxytestosterone
+T177	Chemical 11326 11338	testosterone
+T178	Chemical 11362 11384	6β-hydroxytestosterone
+T179	Metabolite 11362 11384	6β-hydroxytestosterone
+T180	Chemical 11560 11578	methylene chloride
+T181	Chemical 11803 11815	testosterone
+T182	Chemical 11820 11842	6β-hydroxytestosterone
+T183	Metabolite 11820 11842	6β-hydroxytestosterone
+T184	Chemical 11862 11880	methyltestosterone
+T185	Chemical 11913 11925	testosterone
+T186	Chemical 11930 11952	6β-hydroxytestosterone
+T187	Metabolite 11930 11952	6β-hydroxytestosterone
+T188	Chemical 12036 12054	methyltestosterone
+T189	Chemical 12150 12172	6β-hydroxytestosterone
+T190	Metabolite 12150 12172	6β-hydroxytestosterone
+T191	Chemical 12177 12189	testosterone
+T192	Protein 12228 12233	CYP3A
+T193	Biological_Activity 12234 12243	metabolic
+T194	Species 12281 12286	human
+T195	Species 12288 12291	rat
+T196	Species 12297 12300	dog
+T197	Chemical 12407 12412	drugs
+T198	Chemical 12417 12421	NCEs
+T199	Biological_Activity 12426 12436	inhibitory
+T200	Species 12448 12453	human
+T201	Protein 12454 12460	CYP3A4
+T202	Chemical 12476 12490	troleandomycin
+T203	Chemical 12492 12495	TAO
+T204	Protein 12506 12512	CYP3A4
+T205	Biological_Activity 12513 12522	inhibitor
+R9	Associated_With Arg1:T203 Arg2:T205	
+R10	Associated_With Arg1:T202 Arg2:T205	
+R11	Binds_With Arg1:T203 Arg2:T204	
+R12	Binds_With Arg1:T202 Arg2:T204	
+T206	Chemical 12527 12539	testosterone
+T207	Biological_Activity 12608 12618	inhibition
+T208	Chemical 12622 12634	testosterone
+T209	Chemical 12692 12695	TAO
+T210	Chemical 12734 12737	TAO
+T211	Biological_Activity 12768 12778	inhibition
+T212	Chemical 12782 12794	testosterone
+T213	Chemical 12815 12818	TAO
+T214	Chemical 12919 12943	testosterone metabolites
+T215	Metabolite 12919 12943	testosterone metabolites
+T216	Protein 13029 13040	CYP enzymes
+T217	Chemical 13082 13119	hydroxylated testosterone metabolites
+T218	Metabolite 13082 13119	hydroxylated testosterone metabolites
+T219	Chemical 13160 13172	testosterone
+T220	Species 13178 13181	rat
+T221	Chemical 13216 13221	NADPH
+T222	Chemical 13310 13322	testosterone
+T223	Species 13338 13341	rat
+T224	Chemical 13363 13368	NADPH
+T225	Chemical 13388 13390;13415 13435	2α -hydroxytestosterone
+T226	Chemical 13393 13395;13415 13435	2β -hydroxytestosterone
+T227	Chemical 13398 13400;13415 13435	6β -hydroxytestosterone
+T228	Metabolite 13403 13405;13415 13435	7α -hydroxytestosterone
+T229	Chemical 13412 13435	16α-hydroxytestosterone
+T230	Metabolite 13412 13435	16α-hydroxytestosterone
+T231	Chemical 13403 13405;13415 13435	7α -hydroxytestosterone
+T232	Metabolite 13398 13400;13415 13435	6β -hydroxytestosterone
+T233	Metabolite 13393 13395;13415 13435	2β -hydroxytestosterone
+T234	Metabolite 13388 13390;13415 13435	2α -hydroxytestosterone
+R13	Metabolite_Of Arg1:T234 Arg2:T222	
+R14	Metabolite_Of Arg1:T233 Arg2:T222	
+R15	Metabolite_Of Arg1:T232 Arg2:T222	
+R16	Metabolite_Of Arg1:T228 Arg2:T222	
+R17	Metabolite_Of Arg1:T230 Arg2:T222	
+T235	Chemical 13496 13507	metabolites
+T236	Metabolite 13496 13507	metabolites
+T237	Spectral_Data 13562 13574	mass spectra
+R18	Associated_With Arg1:T234 Arg2:T237	
+R19	Associated_With Arg1:T225 Arg2:T237	
+R20	Associated_With Arg1:T233 Arg2:T237	
+R21	Associated_With Arg1:T226 Arg2:T237	
+R22	Associated_With Arg1:T232 Arg2:T237	
+R23	Associated_With Arg1:T227 Arg2:T237	
+R24	Associated_With Arg1:T228 Arg2:T237	
+R25	Associated_With Arg1:T231 Arg2:T237	
+R26	Associated_With Arg1:T230 Arg2:T237	
+R27	Associated_With Arg1:T229 Arg2:T237	
+T238	Chemical 13664 13676	testosterone
+T239	Chemical 13681 13703	6β-hydroxytestosterone
+T240	Metabolite 13681 13703	6β-hydroxytestosterone
+T241	Spectral_Data 13717 13719	MS
+T242	Chemical 13910 13922	testosterone
+T243	Chemical 13927 13949	6β-hydroxytestosterone
+T244	Metabolite 13927 13949	6β-hydroxytestosterone
+T245	Spectral_Data 13974 13992	mass spectrometric
+T246	Protein 14134 14139	CYP3A
+T247	Biological_Activity 14134 14139	CYP3A
+T248	Metabolite 9439 9454	Androstenedione
+T249	Metabolite 9467 9478;9579 9591	2α-hydroxy- testosterone
+T250	Metabolite 9491 9501;9579 9591	2β-hydroxy testosterone
+T251	Metabolite 9515 9525;9579 9591	7α-hydroxy testosterone
+T252	Metabolite 9539 9550;9579 9591	16α-hydroxy testosterone
+T253	Metabolite 9568 9591	16β-hydroxytestosterone
+T254	Spectral_Data 2802 2804	UV
+T255	Spectral_Data 2811 2813	UV

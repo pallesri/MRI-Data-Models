@@ -1,0 +1,23 @@
+T1	Biological_Activity 0 13	Antibacterial
+T2	Biological_Activity 14 24	antibiotic
+T3	Chemical 27 38	diperamycin
+T5	Species 80 110	Streptomyces griseoaurantiacus
+R1	Associated_With Arg1:T3 Arg2:T2	
+T8	Chemical 199 222	cyclic hexadepsipeptide
+#1	AnnotatorNotes T8	Chemical class
+T9	Biological_Activity 223 233	antibiotic
+T11	Biological_Activity 235 245	Antibiotic
+T12	Biological_Activity 259 269	inhibitory
+T13	Species 295 317	Gram-positive bacteria
+#2	AnnotatorNotes T13	Species class
+T14	Species 328 352	Enterococcus seriolicida
+T15	Species 379 400	Staphylococcus aureus
+T16	Biological_Activity 0 25	Antibacterial antibiotics
+R2	Associated_With Arg1:T3 Arg2:T16	
+T17	Metabolite 27 38	diperamycin
+R3	Isolated_From Arg1:T17 Arg2:T5	
+T4	Spectral_Data 130 152	spectroscopic analyses
+R4	Associated_With Arg1:T3 Arg2:T9	
+T6	Chemical 235 247	Antibiotic 1
+R5	Associated_With Arg1:T6 Arg2:T12	
+R6	Associated_With Arg1:T3 Arg2:T4	

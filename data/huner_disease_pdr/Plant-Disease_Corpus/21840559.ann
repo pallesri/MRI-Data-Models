@@ -1,0 +1,5 @@
+T1	Disease 137 157	colon adenocarcinoma
+T2	Plant 46 64	Bursera fagaroides
+T3	Plant 66 77	Burseraceae
+T4	Treatment_of_disease 98 116	cytotoxic activity
+E1	Treatment_of_disease:T4 Theme:T1 Cause:T3 Cause2:T2

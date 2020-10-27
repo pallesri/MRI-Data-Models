@@ -1,0 +1,12 @@
+T1	Species 32 42	guinea pig
+T2	Chemical 113 143	low molecular weight chemicals
+T3	Chemical 293 329	chlormethylimidazoline hydrochloride
+T4	Chemical 331 334	CMI
+T5	Chemical 344 349	lipid
+T6	Chemical 358 382	1,3-dinitrochlorobenzene
+T7	Chemical 384 388	DNCB
+T8	Biological_Activity 262 272	sensitizer
+R1	Associated_With Arg1:T7 Arg2:T8	
+R2	Associated_With Arg1:T6 Arg2:T8	
+R3	Associated_With Arg1:T4 Arg2:T8	
+R4	Associated_With Arg1:T3 Arg2:T8	

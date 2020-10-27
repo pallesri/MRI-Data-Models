@@ -1,0 +1,14 @@
+T1	Disease 107 113	cancer
+T2	Disease 171 187	male lung cancer
+T3	Disease 550 556	cancer
+T4	Plant 10 17	tobacco
+T5	Plant 75 82	tobacco
+T6	Plant 91 98	tobacco
+T7	Plant 295 302	tobacco
+T8	Plant 714 721	tobacco
+T9	Plant 994 1001	tobacco
+T10	Plant 1159 1166	tobacco
+T11	Plant 1194 1201	tobacco
+T12	Plant 1321 1328	tobacco
+T13	Cause_of_disease 99 106	related
+E1	Cause_of_disease:T13 Theme:T1 Cause:T6

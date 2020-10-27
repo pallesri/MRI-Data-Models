@@ -1,0 +1,50 @@
+T1	Chemical 12 19	lactate
+T2	Protein 12 33	lactate dehydrogenase
+T3	Chemical 38 53	malondialdehyde
+T4	Chemical 135 144	flavonoid
+#1	AnnotatorNotes T4	Chemical class
+T6	Chemical 308 316	baicalin
+T7	Chemical 318 330	cirsimaritin
+T8	Chemical 332 349	6-hydroxyluteolin
+T9	Chemical 351 359	luteolin
+T10	Chemical 361 372	plantaginin
+T11	Chemical 374 383	rhoifolin
+T12	Chemical 385 393	sorbarin
+T13	Chemical 395 402	afzelin
+T14	Chemical 404 411	hyperin
+T15	Chemical 413 426	isoquercitrin
+T16	Chemical 428 440	isorhamnetin
+T17	Chemical 442 455	kaempferitrin
+T18	Chemical 457 479	kaempferol-7-glucoside
+T19	Chemical 481 492	oxyayanin A
+T20	Chemical 494 503	quercetin
+T21	Chemical 505 515	quercitrin
+T22	Chemical 517 526	rhamnetin
+T23	Chemical 531 536	rutin
+T24	Biological_Activity 552 562	protective
+T25	Chemical 593 601	acacetin
+R2	Associated_With Arg1:T23 Arg2:T24	
+R3	Associated_With Arg1:T22 Arg2:T24	
+R4	Associated_With Arg1:T21 Arg2:T24	
+R5	Associated_With Arg1:T20 Arg2:T24	
+R6	Associated_With Arg1:T19 Arg2:T24	
+R7	Associated_With Arg1:T18 Arg2:T24	
+R8	Associated_With Arg1:T17 Arg2:T24	
+R9	Associated_With Arg1:T16 Arg2:T24	
+R10	Associated_With Arg1:T15 Arg2:T24	
+R11	Associated_With Arg1:T14 Arg2:T24	
+R12	Associated_With Arg1:T13 Arg2:T24	
+R13	Associated_With Arg1:T12 Arg2:T24	
+R14	Associated_With Arg1:T11 Arg2:T24	
+R15	Associated_With Arg1:T10 Arg2:T24	
+R16	Associated_With Arg1:T9 Arg2:T24	
+R17	Associated_With Arg1:T8 Arg2:T24	
+R18	Associated_With Arg1:T7 Arg2:T24	
+R19	Associated_With Arg1:T6 Arg2:T24	
+T26	Chemical 603 611	apigenin
+T27	Chemical 613 618	apiin
+T28	Chemical 620 631	cirsilineol
+T29	Chemical 633 642	genkwanin
+T30	Chemical 644 656	pectolinarin
+T31	Chemical 661 681	tetramethylquercitin
+T33	Chemical 847 871	phenolic hydroxyl groups

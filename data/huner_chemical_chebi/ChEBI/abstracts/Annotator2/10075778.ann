@@ -1,0 +1,23 @@
+T3	Chemical 51 60	jaspamide
+T4	Species 103 119	Jaspis splendans
+T5	Spectral_Data 189 202	1D and 2D NMR
+T6	Spectral_Data 215 222	MS data
+T7	Biological_Activity 244 253	inhibited
+T9	Metabolite 52 60	aspamide
+R2	Isolated_From Arg1:T9 Arg2:T4	
+T1	Chemical 31 32;8 28	1 jaspamide derivative
+T2	Metabolite 31 32;8 28	1 jaspamide derivative
+T8	Chemical 37 38;9 28	2 aspamide derivative
+T10	Metabolite 37 38;9 28	2 aspamide derivative
+R1	Isolated_From Arg1:T10 Arg2:T4	
+R3	Isolated_From Arg1:T2 Arg2:T4	
+R4	Associated_With Arg1:T8 Arg2:T7	
+R5	Associated_With Arg1:T1 Arg2:T7	
+R6	Associated_With Arg1:T8 Arg2:T6	
+R7	Associated_With Arg1:T1 Arg2:T6	
+R8	Associated_With Arg1:T1 Arg2:T5	
+R9	Associated_With Arg1:T8 Arg2:T5	
+R10	Associated_With Arg1:T2 Arg2:T5	
+R11	Associated_With Arg1:T2 Arg2:T6	
+R12	Associated_With Arg1:T10 Arg2:T5	
+R13	Associated_With Arg1:T10 Arg2:T6	

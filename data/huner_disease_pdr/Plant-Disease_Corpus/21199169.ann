@@ -1,0 +1,12 @@
+T1	Disease 50 56	cancer
+T2	Disease 248 254	cancer
+T5	Plant 0 9	Green tea
+T6	Plant 117 126	green tea
+T7	Plant 162 171	green tea
+T8	Plant 276 285	green tea
+T9	Plant 1575 1584	green tea
+T10	Disease 206 223	colorectal polyps
+T11	Treatment_of_disease 180 187	limited
+E1	Treatment_of_disease:T11 Cause:T6 Theme:T10
+T3	Disease 1062 1073	lung cancer
+T4	Disease 1175 1186	lung cancer

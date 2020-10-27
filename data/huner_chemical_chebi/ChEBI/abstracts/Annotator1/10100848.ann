@@ -1,0 +1,53 @@
+T1	Chemical 34 46	methyl ester
+#1	AnnotatorNotes T1	Class of chemicals
+T2	Chemical 50 62	hepoxilin A3
+T3	Chemical 34 62	methyl ester of hepoxilin A3
+T6	Species 178 183	human
+T7	Chemical 201 224	corresponding free acid
+T8	Chemical 287 317	free acid form of hepoxilin A3
+T10	Chemical 415 422	ethanol
+T11	Chemical 442 446	DMSO
+T12	Chemical 305 317;452 464	hepoxilin A3 methyl ester
+#3	AnnotatorNotes T12	i.e. the methyl ester of hepoxilin A3
+T13	Chemical 391 398	calcium
+T14	Chemical 111 118	calcium
+T15	Chemical 517 524	calcium
+T17	Protein 72 80	receptor
+T18	Chemical 545 554	free acid
+T19	Chemical 563 575	methyl ester
+T20	Chemical 702 709	calcium
+T21	Chemical 740 752	hepoxilin A3
+T4	Chemical 774 786	methyl ester
+T22	Chemical 840 847	calcium
+T24	Chemical 865 874	free acid
+T25	Chemical 983 990	calcium
+T26	Chemical 876 882	methyl
+T27	Chemical 900 909	free acid
+T28	Chemical 1044 1050	methyl
+T29	Chemical 1066 1075	free acid
+T30	Chemical 1114 1132	Lanthanum chloride
+T31	Biological_Activity 1137 1146	inhibitor
+R3	Associated_With Arg1:T30 Arg2:T31	
+T32	Chemical 1220 1227	calcium
+T33	Chemical 1259 1268	hepoxilin
+T34	Chemical 1308 1326	lanthanum chloride
+T35	Chemical 1341 1350	hepoxilin
+T36	Chemical 1395 1402	calcium
+T37	Chemical 1465 1472	calcium
+T38	Chemical 1566 1573	calcium
+T39	Chemical 1592 1604	methyl ester
+T40	Chemical 1629 1638	free acid
+T41	Chemical 1640 1646	methyl
+T42	Chemical 1658 1667	free acid
+T43	Chemical 1724 1731	tritium
+T44	Chemical 1741 1769	methyl ester of hepoxilin A3
+T46	Chemical 1724 1769	tritium-labelled methyl ester of hepoxilin A3
+T47	Chemical 1824 1833	free acid
+T48	Chemical 1886 1890	DMSO
+T49	Chemical 1906 1925	hepoxilin free acid
+T50	Chemical 1974 1981	ethanol
+T51	Chemical 2014 2023	hepoxilin
+T52	Protein 2047 2055	receptor
+T53	Chemical 2067 2074	calcium
+T55	Chemical 2142 2149	calcium
+T5	Chemical 1150 1157	calcium

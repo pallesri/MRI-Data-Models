@@ -1,0 +1,23 @@
+T1	Chemical 50 69	9-nitrocamptothecin
+T2	Chemical 71 75	9NC)
+T3	Chemical 80 88	RFS-2000
+T5	Species 138 146	Patients
+T6	Chemical 156 159	9NC
+T7	Species 319 327	Patients
+T10	Species 473 481	patients
+T12	Species 584 592	patients
+T13	Biological_Activity 743 759	myelosuppression
+T15	Biological_Activity 727 737	toxicities
+T16	Chemical 816 819	9NC
+T17	Species 870 878	patients
+T18	Species 915 923	patients
+T19	Species 934 941	patient
+T20	Species 987 995	patients
+T21	Species 1216 1224	patients
+T22	Species 1314 1322	patients
+T23	Species 1337 1345	patients
+T24	Chemical 1357 1368	gemcitabine
+T25	Chemical 1386 1389	9NC
+T26	Chemical 1437 1440	9NC
+T28	Chemical 1605 1616	gemcitabine
+R2	Associated_With Arg1:T16 Arg2:T13	

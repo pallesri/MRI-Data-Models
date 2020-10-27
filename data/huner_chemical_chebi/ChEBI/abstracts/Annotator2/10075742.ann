@@ -1,0 +1,49 @@
+T1	Species 33 52	Lonchocarpus utilus
+T2	Species 57 65	L. urucu
+T3	Chemical 124 134	flavonoids
+#1	AnnotatorNotes T3	Chemical class
+T4	Metabolite 124 134	flavonoids
+T5	Chemical 139 148	stilbenes
+#2	AnnotatorNotes T5	Chemical class
+T6	Metabolite 139 148	stilbenes
+T7	Chemical 165 182	gem-dimethylpyran
+T8	Chemical 195 206	dihydrodiol
+T9	Chemical 272 284	isoflavonoid
+#3	AnnotatorNotes T9	Chemical class
+T10	Chemical 285 338	cis-4'',5''-dihydro-4'',5' '-dihydroxylonchocarpusone
+T11	Metabolite 285 338	cis-4'',5''-dihydro-4'',5' '-dihydroxylonchocarpusone
+T12	Chemical 349 430;431 477;483 509;515 540	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanones with substituents of 5-hydroxy-3',4'-dimethoxy 5, 3'-dihydroxy-4'-methoxy 5,4'-dihydroxy-3'-methoxy
+#4	AnnotatorNotes T12	Chemical class
+T13	Metabolite 349 430	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanones
+T14	Chemical 582 628;634 654;661 684;694 710	6'',6''-dimethylpyran[2'',3'':3', 4']stilbenes 4-hydroxy-5'-methoxy ,5'-dimethoxy-4-hydroxy 3,4,5-trimethoxy
+#5	AnnotatorNotes T14	Chemical class
+R1	Isolated_From Arg1:T4 Arg2:T2	
+R2	Isolated_From Arg1:T4 Arg2:T1	
+R3	Isolated_From Arg1:T6 Arg2:T2	
+R4	Isolated_From Arg1:T6 Arg2:T1	
+T15	Metabolite 582 628	6'',6''-dimethylpyran[2'',3'':3', 4']stilbenes
+T16	Metabolite 634 654	4-hydroxy-5'-methoxy
+T17	Metabolite 660 684	3,5'-dimethoxy-4-hydroxy
+T18	Metabolite 694 710	3,4,5-trimethoxy
+T19	Metabolite 452 477	5-hydroxy-3',4'-dimethoxy
+T20	Metabolite 483 509	5, 3'-dihydroxy-4'-methoxy
+T21	Metabolite 515 540	5,4'-dihydroxy-3'-methoxy
+T22	Metabolite 550 566	3', 4'-dimethoxy
+R5	Isolated_From Arg1:T11 Arg2:T1	
+R6	Isolated_From Arg1:T11 Arg2:T2	
+R7	Isolated_From Arg1:T13 Arg2:T1	
+R8	Isolated_From Arg1:T13 Arg2:T2	
+R9	Isolated_From Arg1:T15 Arg2:T2	
+R10	Isolated_From Arg1:T15 Arg2:T1	
+T23	Biological_Activity 776 786	inhibition
+T24	Protein 790 820	NADH:ubiquinone oxidoreductase
+T27	Species 831 837	bovine
+T29	Chemical 878 891	phorbol ester
+#6	AnnotatorNotes T29	Chemical class
+T32	Protein 900 923	ornithine decarboxylase
+T33	Biological_Activity 986 998	cytotoxicity
+T25	Biological_Activity 806 820	oxidoreductase
+T26	Biological_Activity 910 923	decarboxylase
+T28	Chemical 900 909	ornithine
+T30	Chemical 790 794	NADH
+T31	Chemical 795 805	ubiquinone

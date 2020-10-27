@@ -1,0 +1,22 @@
+T1	Disease 62 83	tension-type headache
+T2	Disease 821 842	tension-type headache
+T3	Disease 2218 2239	tension-type headache
+T4	Plant 32 42	peppermint
+T5	Plant 354 364	peppermint
+T8	Plant 504 514	peppermint
+T9	Plant 1164 1174	peppermint
+T10	Plant 1441 1451	peppermint
+T12	Plant 1842 1852	peppermint
+T14	Plant 1940 1950	peppermint
+T16	Plant 2160 2170	peppermint
+T18	Plant 2241 2251	Peppermint
+T6	Disease 720 728	headache
+T7	Disease 891 899	headache
+T19	Disease 987 995	headache
+T20	Disease 1308 1316	headache
+T21	Disease 1328 1336	headache
+T11	Disease 1511 1519	headache
+T22	Treatment_of_disease 1490 1497	reduced
+E1	Treatment_of_disease:T22 Cause:T10 Theme:T11
+T13	Treatment_of_disease 2207 2217	alleviates
+E2	Treatment_of_disease:T13 Cause:T16 Theme:T3

@@ -1,0 +1,23 @@
+T1	Disease 81 97	chronic diseases
+T4	Disease 670 673	CVD
+T5	Disease 675 681	cancer
+T6	Disease 880 890	CVD deaths
+T7	Disease 896 909	cancer deaths
+T8	Disease 1195 1198	CVD
+T9	Disease 1393 1396	CVD
+T10	Disease 1470 1476	cancer
+T11	Disease 1599 1602	CVD
+T12	Plant 12 17	Olive
+T13	Plant 175 180	olive
+T14	Plant 266 271	olive
+T15	Plant 566 571	olive
+T16	Plant 1047 1052	olive
+T17	Plant 1231 1236	olive
+T18	Plant 1456 1461	olive
+T19	Plant 1501 1506	Olive
+T2	Disease 113 141	cardiovascular disease (CVD)
+T3	Disease 390 396	Cancer
+T20	Treatment_of_disease 1515 1525	associated
+E1	Treatment_of_disease:T20 Cause:T19 Theme:T11
+T21	Treatment_of_disease 1073 1083	associated
+E2	Treatment_of_disease:T21 Cause:T16 Theme:T8

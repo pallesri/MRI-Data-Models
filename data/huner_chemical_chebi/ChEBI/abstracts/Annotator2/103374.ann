@@ -1,0 +1,28 @@
+T1	Protein 19 37	vegetable proteins
+T2	Chemical 51 72	essential amino acids
+T3	Protein 108 115	protein
+T4	Chemical 148 158	amino acid
+T5	Chemical 271 281	methionine
+T6	Chemical 297 312	reducing sugars
+T7	Chemical 322 331	methional
+T8	Chemical 395 404	methional
+T9	Chemical 447 453	sulfur
+T10	Chemical 539 548	threonine
+T11	Chemical 553 559	lysine
+T12	Chemical 601 616	reducing sugars
+T13	Chemical 659 695	Acetylated derivatives of methionine
+T14	Chemical 659 684;697 706	Acetylated derivatives of threonine
+T15	Chemical 659 684;711 717	Acetylated derivatives of lysine
+T16	Chemical 820 830	amino acid
+T17	Chemical 845 866	N-acetyl-L-methionine
+T18	Chemical 872 892	N-acetyl-L-threonine
+T20	Species 947 951	rats
+T21	Chemical 1006 1044;983 988	monoacetylated derivative of  L-Lysine alpha
+T22	Chemical 997 1044	epsilon, monoacetylated derivative of  L-Lysine
+T23	Chemical 1060 1099	epsilon diacetyl derivative of L-Lysine
+T24	Chemical 1053 1058;1068 1099	alpha diacetyl derivative of L-Lysine
+T26	Chemical 1177 1198	N-acetyl-L-methionine
+T27	Species 1203 1209	humans
+T28	Chemical 1264 1274	methionine
+T29	Protein 1303 1321	vegetable proteins
+T30	Chemical 1335 1353	sulfur amino acids

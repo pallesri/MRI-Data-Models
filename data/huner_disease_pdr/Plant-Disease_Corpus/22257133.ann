@@ -1,0 +1,18 @@
+T1	Disease 26 42	bipolar disorder
+T2	Disease 44 46	BD
+T3	Disease 314 316	BD
+T4	Disease 367 377	Diagnostic
+T5	Disease 427 460	BD type I and nicotine dependence
+T6	Disease 594 613	nicotine dependence
+T7	Disease 969 975	cancer
+T8	Disease 1125 1138	mood disorder
+T9	Disease 1313 1322	BD type I
+T10	Plant 70 77	tobacco
+T11	Plant 291 298	tobacco
+T12	Plant 731 738	tobacco
+T13	Plant 802 809	tobacco
+T14	Plant 1066 1073	tobacco
+T15	Plant 1264 1271	tobacco
+*	Equiv T2 T1
+T16	Cause_of_disease 62 66	risk
+E1	Cause_of_disease:T16 Cause:T10 Theme:T1

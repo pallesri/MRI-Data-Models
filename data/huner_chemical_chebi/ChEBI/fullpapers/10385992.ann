@@ -1,0 +1,638 @@
+T1	Chemical 5 28	cyclic hydroxamic acids
+T2	Chemical 29 34	DIBOA
+T3	Metabolite 29 34	DIBOA
+T4	Chemical 36 70	2,4-dihydroxy-1,4-benzoxazin-3-one
+T5	Metabolite 36 70	2,4-dihydroxy-1,4-benzoxazin-3-one
+T6	Chemical 76 82	DIMBOA
+T7	Metabolite 76 82	DIMBOA
+T8	Chemical 84 128	2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one
+T9	Metabolite 84 128	2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one
+T10	Species 180 187	cereals
+T11	Species 196 213	deleterious pests
+T12	Species 222 229	insects
+T13	Species 231 247	pathogenic fungi
+T14	Species 252 260	bacteria
+T15	Chemical 266 271	DIBOA
+T16	Metabolite 266 271	DIBOA
+T17	Chemical 284 299	hydroxamic acid
+T18	Species 303 306	rye
+T19	Chemical 320 338	methoxy derivative
+T20	Chemical 339 345	DIMBOA
+T21	Metabolite 339 345	DIMBOA
+T22	Species 373 378	maize
+T23	Species 383 388	wheat
+R1	Isolated_From Arg1:T16 Arg2:T18	
+R2	Isolated_From Arg1:T5 Arg2:T18	
+R3	Isolated_From Arg1:T21 Arg2:T22	
+R4	Isolated_From Arg1:T21 Arg2:T23	
+R5	Isolated_From Arg1:T9 Arg2:T22	
+R6	Isolated_From Arg1:T9 Arg2:T23	
+T24	Species 393 398	maize
+T25	Protein 507 514	enzymes
+T26	Chemical 529 534	DIBOA
+T27	Metabolite 529 534	DIBOA
+T28	Protein 588 594	enzyme
+T29	Protein 608 638	tryptophan synthase α  subunit
+T30	Chemical 682 688	indole
+T31	Chemical 750 771	secondary metabolites
+T32	Metabolite 750 771	secondary metabolites
+T33	Chemical 772 777	DIBOA
+T34	Metabolite 772 777	DIBOA
+T35	Chemical 782 788	DIMBOA
+T36	Metabolite 782 788	DIMBOA
+T37	Protein 828 868	cytochrome P450-dependent monooxygenases
+T40	Protein 876 882	CYP71C
+T41	Chemical 1002 1007	DIBOA
+T42	Metabolite 1002 1007	DIBOA
+T43	Protein 1046 1076	cytochrome P450 monooxygenases
+T38	Chemical 1096 1100	heme
+T39	Protein 1127 1135	oxidases
+T44	Chemical 1150 1155	NADPH
+T45	Chemical 1159 1163	NADH
+T46	Biological_Activity 1167 1176	reductive
+T47	Chemical 1196 1202	oxygen
+T48	Chemical 1214 1245	functionalised organic products
+T49	Chemical 1264 1269	water
+T50	Chemical 1327 1332	NADPH
+T51	Protein 1356 1360	P450
+T52	Protein 1374 1412	flavin-containing NADPH-P450 reductase
+T53	Protein 1414 1417	CPR
+T54	Protein 1431 1435	P450
+T55	Biological_Activity 1484 1493	oxidative
+T56	Chemical 1543 1550;1565 1576	primary metabolites
+T57	Metabolite 1543 1550;1565 1576	primary metabolites
+T58	Chemical 1555 1576	secondary metabolites
+T59	Metabolite 1555 1576	secondary metabolites
+T60	Chemical 1587 1595	hormones
+T61	Metabolite 1587 1595	hormones
+T62	Biological_Activity 1587 1595	hormones
+T63	Chemical 1597 1609	phytoalexins
+T64	Metabolite 1597 1609	phytoalexins
+T65	Biological_Activity 1597 1609	phytoalexins
+T66	Chemical 1611 1622	xenobiotics
+T67	Metabolite 1611 1622	xenobiotics
+T68	Chemical 1627 1662	pharmaceutically relevant compounds
+T69	Metabolite 1627 1662	pharmaceutically relevant compounds
+T70	Chemical 1725 1730	DIBOA
+T71	Metabolite 1725 1730	DIBOA
+T72	Protein 1740 1744	P450
+T73	Protein 1867 1874	enzymes
+T74	Protein 1882 1893	CYP71C P450
+T75	Chemical 1966 1971	DIBOA
+T76	Metabolite 1966 1971	DIBOA
+T77	Protein 2046 2050	P450
+T78	Chemical 2112 2117	DIBOA
+T79	Metabolite 2112 2117	DIBOA
+T80	Protein 2143 2149	enzyme
+T81	Protein 2210 2214	P450
+T82	Species 2224 2229	yeast
+T83	Species 2290 2295	maize
+T84	Protein 2296 2300	P450
+T85	Protein 2318 2321	CPR
+T86	Species 2325 2330	yeast
+T87	Protein 2339 2342	CPR
+T88	Species 2347 2358	Arabidopsis
+T89	Protein 2396 2399	CPR
+T90	Protein 2410 2414	P450
+T91	Species 2434 2440	plants
+T92	Chemical 2471 2476	DIBOA
+T93	Metabolite 2471 2476	DIBOA
+T94	Species 2488 2493	maize
+T95	Species 2516 2523	grasses
+T96	Species 2549 2552	rye
+T97	Species 2557 2563	barley
+T98	Species 2626 2629	rye
+T99	Chemical 2636 2641	DIBOA
+T100	Metabolite 2636 2641	DIBOA
+T101	Protein 2655 2661	enzyme
+T102	Species 2702 2707	maize
+T103	Species 2720 2726	barley
+T104	Chemical 2742 2747	DIBOA
+T105	Metabolite 2742 2747	DIBOA
+T106	Chemical 2751 2757	DIMBOA
+T107	Metabolite 2751 2757	DIMBOA
+T108	Biological_Activity 2762 2771	enzymatic
+T109	Biological_Activity 2837 2846	enzymatic
+T110	Protein 2861 2868	BX2–BX5
+T111	Protein 2595 2602	BX2–BX5
+T112	Species 2899 2904	yeast
+T113	Protein 2909 2949	cytochrome P450-dependent monooxygenases
+T114	Protein 2950 2957	BX2–BX5
+T115	Chemical 2966 2972	indole
+T116	Chemical 2976 2981	DIBOA
+T117	Metabolite 2976 2981	DIBOA
+T118	Protein 3050 3054	P450
+T119	Species 3081 3086	yeast
+T120	Protein 3175 3182	Bx2–Bx5
+T121	Chemical 3253 3262	galactose
+T122	Biological_Activity 3284 3292	promotor
+T123	Protein 3302 3306	P450
+T124	Species 3346 3370	Saccharomyces cerevisiae
+T125	Protein 3416 3419	CPR
+T126	Species 3433 3444	Strain W(N)
+T127	Species 3459 3464	yeast
+T128	Protein 3465 3468	CPR
+T129	Species 3477 3481	W(R)
+T130	Species 3496 3501	yeast
+T131	Protein 3502 3505	CPR
+T132	Biological_Activity 3512 3521	induction
+T133	Chemical 3527 3536	galactose
+R7	Associated_With Arg1:T133 Arg2:T132	
+T134	Species 3545 3550	WAT11
+T135	Species 3555 3560	WAT21
+T136	Chemical 3561 3570	galactose
+T137	Species 3581 3601	Arabidopsis thaliana
+T138	Protein 3602 3605	CPR
+T139	Protein 3609 3613	ATR1
+T140	Protein 3619 3623	ATR2
+T141	Species 3652 3657	yeast
+T142	Protein 3658 3667	reductase
+T143	Species 3735 3740	yeast
+T144	Chemical 3799 3804	DIBOA
+T145	Metabolite 3799 3804	DIBOA
+T146	Species 3856 3861	maize
+T147	Protein 3862 3866	P450
+T148	Protein 3867 3875	proteins
+T149	Protein 3955 3958	CPR
+T150	Biological_Activity 3955 3958	CPR
+T151	Protein 3987 3999	cytochrome c
+T152	Biological_Activity 4000 4009	reduction
+T153	Protein 4019 4022	CPR
+T154	Biological_Activity 4019 4022	CPR
+T155	Protein 4078 4082	P450
+T156	Species 4148 4152	W(R)
+T157	Species 4175 4180	yeast
+T158	Protein 4181 4184	CPR
+T159	Protein 4231 4234	CPR
+T160	Biological_Activity 4231 4234	CPR
+T161	Protein 4267 4270	CPR
+T162	Species 4277 4288	Arabidopsis
+T163	Species 4365 4370	maize
+T164	Protein 4371 4375	P450
+T165	Protein 4376 4384	proteins
+T166	Species 4403 4408	yeast
+T167	Protein 4489 4492	BX2
+T168	Species 4536 4541	maize
+T169	Species 4616 4621	maize
+T170	Species 4675 4680	yeast
+T171	Protein 4720 4743	cinnamate-4-hydroxylase
+T172	Species 4755 4775	Helianthus tuberosus
+T173	Protein 4821 4828	protein
+T174	Protein 4899 4906	protein
+T175	Protein 4933 4937	P450
+T176	Species 5009 5014	yeast
+T177	Species 5031 5036	maize
+T178	Protein 3055 3062	enzymes
+T179	Protein 2415 2421	enzyme
+T180	Protein 2301 2308	enzymes
+T181	Protein 2051 2058	enzymes
+T182	Protein 1436 1443	enzymes
+T183	Protein 1361 1367	enzyme
+T184	Protein 5078 5082	P450
+T185	Protein 5083 5090	enzymes
+T186	Protein 5163 5166	CPR
+T187	Protein 5263 5266	BX2
+T188	Protein 5306 5309	CPR
+T189	Species 5354 5359	yeast
+T190	Species 5388 5392	W(R)
+T191	Protein 5432 5435	BX3
+T192	Species 5463 5468	WAT11
+T193	Species 5477 5482	maize
+T194	Protein 5537 5540	BX3
+T195	Protein 5545 5549	ATR1
+T196	Protein 5596 5599	CPR
+T197	Protein 5632 5635	BX3
+T198	Protein 5677 5680	BX4
+T199	Protein 5685 5688	BX5
+T200	Species 5715 5720	maize
+T201	Protein 5721 5724	CPR
+T202	Protein 5745 5751	enzyme
+T203	Species 5787 5792	yeast
+T204	Chemical 5848 5853	DIBOA
+T205	Metabolite 5848 5853	DIBOA
+T206	Chemical 5829 5840	metabolites
+T207	Metabolite 5829 5840	metabolites
+T208	Chemical 5862 5868	indole
+T209	Metabolite 5862 5868	indole
+T210	Chemical 5870 5883	indolin-2-one
+T211	Metabolite 5870 5883	indolin-2-one
+T212	Chemical 5885 5907	3-hydroxy-indolin-2-on
+T213	Metabolite 5885 5907	3-hydroxy-indolin-2-on
+T214	Chemical 5913 5917	HBOA
+T215	Metabolite 5913 5917	HBOA
+R8	Metabolite_Of Arg1:T211 Arg2:T208	
+R9	Metabolite_Of Arg1:T213 Arg2:T210	
+R10	Metabolite_Of Arg1:T215 Arg2:T212	
+R11	Metabolite_Of Arg1:T205 Arg2:T214	
+T216	Protein 5992 5996	P450
+T217	Protein 5997 6004	enzymes
+R12	Metabolite_Of Arg1:T117 Arg2:T115	
+T218	Biological_Activity 6006 6015	Enzymatic
+T219	Protein 6204 6210	enzyme
+T220	Chemical 6273 6279	oxygen
+T221	Chemical 6293 6298	DIBOA
+T222	Metabolite 6293 6298	DIBOA
+T223	Chemical 6355 6371	benzoxazin-3-one
+T224	Chemical 6376 6416	2-hydroxy-7-methoxy-1,4-benzoxazin-3-one
+T225	Chemical 6418 6423	HMBOA
+T226	Protein 6473 6480	BX2–BX5
+T227	Chemical 6503 6519	benzoxazin-3-one
+T228	Chemical 6523 6527	HBOA
+T229	Metabolite 6523 6527	HBOA
+T230	Species 6567 6572	maize
+T231	Protein 6602 6606	P450
+T232	Protein 6607 6614	enzymes
+T233	Protein 6628 6631	BX3
+T234	Chemical 6674 6690	benzoxazin-3-one
+T235	Chemical 6750 6763	indolin-2-one
+T236	Metabolite 6750 6763	indolin-2-one
+T237	Chemical 6869 6874	HMBOA
+T238	Chemical 6878 6888	derivative
+T239	Metabolite 6869 6874	HMBOA
+T240	Species 6900 6905	maize
+R13	Isolated_From Arg1:T239 Arg2:T240	
+T241	Protein 6967 6974	BX2–BX5
+T242	Protein 6988 6993	yeast
+T243	Protein 7002 7007	maize
+T244	Chemical 7035 7040	HMBOA
+T245	Metabolite 7035 7040	HMBOA
+T246	Protein 7066 7069	BX5
+T247	Chemical 7097 7110	methoxy group
+T248	Chemical 7114 7119	HMBOA
+T249	Metabolite 7114 7119	HMBOA
+T250	Protein 7141 7144	BX5
+T251	Chemical 7222 7248	p -chloro-N -methylaniline
+T252	Chemical 7250 7254	pCMA
+T253	Protein 7261 7265	P450
+T254	Species 7347 7352	plant
+T255	Protein 7353 7357	P450
+T256	Protein 7358 7364	enzyme
+T257	Protein 7405 7411	enzyme
+T258	Species 7417 7424	avocado
+T259	Species 7426 7442	Persea americana
+T260	Protein 7511 7518	CYP71A1
+T261	Protein 7539 7545	CYP71A
+T262	Protein 7562 7569	CYP73A1
+T263	Protein 7575 7598	cinnamate-4-hydroxylase
+T264	Species 7604 7623	Heliantus tuberosus
+T265	Protein 7636 7651	pCMA demetylase
+T266	Biological_Activity 7636 7651	pCMA demetylase
+T267	Protein 7673 7680	BX2–BX5
+T268	Protein 7708 7713	CYP71
+T269	Protein 7747 7763	pCMA demethylase
+T270	Biological_Activity 7747 7763	pCMA demethylase
+T271	Protein 7780 7787	BX3–BX5
+T272	Species 7801 7806	WAT11
+T273	Protein 7816 7832	pCMA demethylase
+T274	Biological_Activity 7816 7832	pCMA demethylase
+T275	Species 7883 7888	WAT11
+T276	Species 7889 7894	yeast
+T277	Protein 7921 7924	BX2
+T278	Protein 7925 7931	enzyme
+T279	Chemical 7940 7944	pCMA
+T280	Chemical 7948 7965	p -chloro-aniline
+T281	Protein 8065 8081	pCMA demethylase
+T282	Biological_Activity 8065 8081	pCMA demethylase
+T283	Protein 8094 8101	CYP71A1
+T284	Species 8125 8130	yeast
+T285	Protein 8168 8175	CYP73A1
+T286	Species 8189 8193	W(R)
+T287	Protein 8220 8227	BX2–BX5
+T288	Species 8293 8298	yeast
+T289	Protein 8309 8316	enzymes
+T290	Species 8364 8369	maize
+T291	Protein 8476 8480	P450
+T292	Protein 8481 8488	enzymes
+T293	Species 8512 8517	plant
+T294	Protein 8518 8522	P450
+T295	Protein 8523 8530	enzymes
+T296	Protein 8561 8583	protopin-6-hydroxylase
+T297	Protein 8604 8626	tyrosin-N -hydroxylase
+T298	Chemical 8638 8643	DIBOA
+T299	Metabolite 8638 8643	DIBOA
+T300	Protein 8657 8664	enzymes
+T301	Species 8674 8681	cereals
+T302	Chemical 8686 8702	hydroxamic acids
+T303	Metabolite 8686 8702	hydroxamic acids
+T304	Species 8729 8736	grasses
+R14	Isolated_From Arg1:T303 Arg2:T304	
+T305	Species 8838 8847	Gramineae
+T306	Chemical 8869 8874	DIBOA
+T307	Metabolite 8869 8874	DIBOA
+T308	Protein 8884 8888	P450
+T309	Protein 8889 8896	enzymes
+T310	Species 8922 8930	cereals,
+T311	Species 8931 8934	rye
+T312	Chemical 8947 8963	hydroxamic acids
+T313	Metabolite 8947 8963	hydroxamic acids
+R15	Isolated_From Arg1:T313 Arg2:T311	
+T314	Species 8969 8975	barley
+T315	Chemical 8985 9001	hydroxamic acids
+T316	Metabolite 8985 9001	hydroxamic acids
+T317	Species 9082 9087	maize
+T318	Chemical 9104 9126	cyclic hydroxamic acid
+T319	Metabolite 5 28	cyclic hydroxamic acids
+T320	Metabolite 284 299	hydroxamic acid
+T321	Metabolite 9104 9126	cyclic hydroxamic acid
+T322	Chemical 9137 9142	DIBOA
+T323	Metabolite 9137 9142	DIBOA
+T324	Species 9130 9133	rye
+T325	Species 9150 9155	maize
+T326	Species 9245 9248	rye
+T327	Protein 9301 9316	cytochrome P450
+T328	Chemical 9357 9362	DIBOA
+T329	Metabolite 9357 9362	DIBOA
+T330	Species 9379 9382	rye
+T331	Protein 9429 9432	CPR
+T332	Biological_Activity 9429 9432	CPR
+T333	Species 9445 9448	rye
+T334	Species 9494 9499	maize
+T335	Species 9617 9622	maize
+T336	Chemical 9558 9566	products
+T337	Chemical 9594 9602	products
+T338	Chemical 9649 9657	products
+T339	Chemical 9714 9719	NADPH
+T340	Protein 9753 9768	cytochrome P450
+T341	Protein 9769 9775	enzyme
+T342	Species 9830 9833	rye
+T343	Species 9891 9896	maize
+T344	Chemical 9972 9976	HBOA
+T345	Metabolite 9972 9976	HBOA
+T346	Chemical 9980 9985	DIBOA
+T347	Metabolite 9980 9985	DIBOA
+T348	Species 10030 10033	rye
+T349	Species 10079 10084	maize
+T350	Species 10092 10095	rye
+T351	Chemical 10115 10120	DIBOA
+T352	Metabolite 10115 10120	DIBOA
+T353	Species 10189 10195	barley
+T354	Protein 10228 10232	P450
+T355	Protein 10233 10240	enzymes
+T356	Chemical 10248 10253	DIBOA
+T357	Metabolite 10248 10253	DIBOA
+T358	Protein 10296 10300	P450
+T359	Protein 10332 10339	protein
+T360	Protein 10346 10349	CPR
+T361	Species 10452 10457	yeast
+T362	Species 10481 10486	plant
+T363	Protein 10487 10490	CPR
+T364	Species 10542 10547	plant
+T365	Protein 10548 10563	cytochrome P450
+T366	Protein 10564 10571	enzymes
+T367	Biological_Activity 10629 10638	enzymatic
+T368	Protein 10654 10661	BX2–BX5
+T369	Biological_Activity 10715 10724	Enzymatic
+T370	Protein 10739 10746	BX2–BX5
+T371	Protein 10747 10754	Bx2–Bx5
+T372	Protein 10962 10968	CYP71C
+T373	Protein 10985 11025	cytochrome P450-dependent monooxygenases
+T374	Protein 11031 11038	BX3–BX5
+T375	Chemical 11065 11075	amino acid
+T376	Protein 11181 11185	P450
+T377	Protein 11186 11193	enzymes
+T378	Chemical 11197 11200	BX2
+T379	Protein 11239 11242	BX2
+T380	Species 11297 11302	yeast
+T381	Protein 11413 11416	BX2
+T382	Protein 11432 11435	CPR
+T383	Protein 11477 11484	BX3–BX5
+T384	Protein 11511 11514	BX2
+T385	Species 11558 11562	W(R)
+T386	Species 11567 11572	WAT11
+T387	Protein 11613 11616	BX3
+T388	Protein 11650 11653	CPR
+T389	Species 11657 11677	Arabidopsis thaliana
+T390	Protein 11680 11684	ATR1
+T391	Species 11701 11706	WAT11
+T392	Species 11707 11712	yeast
+T393	Protein 11721 11724	BX4
+T394	Protein 11729 11732	BX5
+T395	Protein 11776 11780	ATR1
+T396	Species 11835 11840	maize
+T397	Protein 11870 11873	CPR
+T398	Species 11924 11929	maize
+T399	Protein 11930 11934	P450
+T400	Protein 11935 11942	enzymes
+T401	Protein 12037 12041	P450
+T402	Protein 12042 12049	enzymes
+T403	Protein 12054 12057	CPR
+T404	Protein 12087 12090	BX3
+T405	Species 12104 12109	WAT11
+T406	Species 12146 12151	maize
+T407	Protein 12184 12187	CPR
+T408	Protein 12213 12216	BX3
+T409	Protein 12254 12257	CPR
+T410	Species 12266 12271	plant
+T411	Biological_Activity 12319 12328	enzymatic
+T412	Biological_Activity 12388 12397	metabolic
+T413	Protein 12420 12424	P450
+T414	Protein 12425 12432	enzymes
+T415	Protein 12454 12461	BX2–BX5
+T416	Protein 12462 12469	BX2–BX5
+T417	Chemical 12515 12521	DIMBOA
+T418	Metabolite 12515 12521	DIMBOA
+T419	Biological_Activity 12531 12540	enzymatic
+T420	Protein 12582 12588	enzyme
+T421	Protein 12659 12663	P450
+T422	Species 12728 12734	animal
+T423	Species 12793 12798	plant
+T424	Protein 12799 12803	P450
+T425	Chemical 12882 12893	xenobiotics
+T426	Biological_Activity 12946 12955	herbicide
+T427	Chemical 12956 12964	diclofop
+R16	Associated_With Arg1:T427 Arg2:T426	
+T428	Species 12989 12994	wheat
+T429	Protein 12995 12999	P450
+T430	Protein 13000 13006	enzyme
+T431	Chemical 13057 13061	pCMA
+T432	Protein 13065 13072	CYP71A1
+T433	Protein 13084 13091	CYP73A1
+T434	Protein 13124 13131	CYP71A1
+T435	Chemical 13155 13163	geraniol
+T436	Chemical 13168 13173	nerol
+T437	Protein 13213 13220	CYP73A1
+T438	Chemical 13254 13267	cinnamic acid
+T439	Biological_Activity 13279 13288	oxidative
+T440	Chemical 13301 13313	phenylpropan
+T441	Protein 13327 13334	CYP73A1
+T442	Species 13427 13432	plant
+T443	Protein 13433 13437	P450
+T444	Protein 13438 13445	enzymes
+T445	Protein 13492 13496	P450
+T446	Protein 13497 13504	enzymes
+T447	Species 13508 13515	sorghum
+T448	Protein 13535 13540	CYP79
+T449	Protein 13556 13562	CYP71E
+T450	Chemical 13630 13650	cyanogenic glucoside
+T451	Chemical 13651 13658	dhurrin
+T452	Metabolite 13651 13658	dhurrin
+R17	Isolated_From Arg1:T452 Arg2:T447	
+T453	Protein 13666 13673	enzymes
+T454	Chemical 13737 13743	Indole
+T455	Protein 13800 13803	BX2
+T456	Protein 13818 13821	BX2
+T457	Protein 13828 13844	pCMA demethylase
+T458	Biological_Activity 13828 13844	pCMA demethylase
+T459	Protein 13859 13866	CYP71A1
+T460	Protein 13871 13878	CYP73A1
+T461	Protein 13916 13920	P450
+T462	Protein 13921 13928	enzymes
+T463	Chemical 13978 13982	pCMA
+T464	Protein 14030 14034	P450
+T465	Biological_Activity 14064 14071	binding
+T466	Chemical 14075 14079	pCMA
+R18	Binds_With Arg1:T466 Arg2:T464	
+R19	Associated_With Arg1:T466 Arg2:T465	
+T467	Chemical 14148 14152	pCMA
+T468	Species 14182 14188	animal
+T469	Protein 14189 14193	P450
+T470	Protein 14194 14201	enzymes
+T471	Chemical 14239 14255	2-naphthoic acid
+T472	Chemical 14260 14280	trans -cinnamic acid
+T473	Chemical 14318 14334	2-naphthoic acid
+T474	Protein 14375 14382	CYP73A1
+T475	Protein 14434 14437	BX3
+T476	Chemical 14456 14469	indolin-2-one
+T477	Chemical 14474 14494	1,4-benzoxazin-3-one
+T478	Chemical 14512 14518	carbon
+T479	Chemical 14534 14547	indolin-2-one
+T480	Chemical 14606 14626	1,4-benzoxazin-3-one
+T481	Chemical 14634 14647	indolin-2-one
+T482	Protein 14670 14673	BX3
+T483	Chemical 14675 14680	HMBOA
+T484	Metabolite 14675 14680	HMBOA
+T485	Species 14694 14699	maize
+T486	Protein 14746 14749	BX5
+T487	Species 14782 14787	maize
+T488	Chemical 14842 14855	methoxy group
+T489	Chemical 14870 14875	HMBOA
+T490	Metabolite 14870 14875	HMBOA
+T491	Protein 14895 14898	BX5
+T492	Chemical 14900 14905	HMBOA
+T493	Metabolite 14900 14905	HMBOA
+T494	Chemical 14944 14950	DIMBOA
+T495	Metabolite 14944 14950	DIMBOA
+T496	Chemical 14976 14989	methoxy group
+T497	Protein 15033 15036	BX5
+T498	Chemical 15060 15065	DIBOA
+T499	Metabolite 15060 15065	DIBOA
+T500	Species 15078 15083	maize
+T501	Species 15088 15091	rye
+T502	Species 15123 15132	Gramineae
+T503	Chemical 15143 15148	DIBOA
+T504	Metabolite 15143 15148	DIBOA
+T505	Protein 15200 15208	proteins
+T506	Protein 15223 15230	BX2–BX5
+T507	Protein 15325 15332	Bx2–Bx5
+T508	Species 15398 15407	Gramineae
+T509	Species 15412 15417	maize
+T510	Protein 15423 15426	Bx1
+T511	Protein 15466 15469	Bx1
+T512	Protein 15481 15488	protein
+T513	Protein 15510 15531	trypthophan sythase α
+T514	Chemical 15574 15580	DIMBOA
+T515	Metabolite 15574 15580	DIMBOA
+T516	Protein 15632 15639	Bx1–Bx5
+T517	Species 15646 15649	rye
+T518	Species 15660 15667	grasses
+T519	Species 15731 15737	Barley
+T520	Chemical 15769 15774	DIBOA
+T521	Metabolite 15769 15774	DIBOA
+T522	Protein 15784 15788	P450
+T523	Biological_Activity 15784 15788	P450
+T524	Protein 15844 15850	enzyme
+T525	Biological_Activity 15844 15850	enzyme
+T526	Protein 15910 15917	Bx2–Bx5
+T527	Species 16005 16011	barley
+T528	Chemical 16031 16037	DIMBOA
+T529	Metabolite 16031 16037	DIMBOA
+T530	Protein 16078 16084	enzyme
+T531	Biological_Activity 16078 16084	enzyme
+T532	Protein 16120 16157	UDP-glucose:DIBOA glycosyltransferase
+T533	Biological_Activity 16189 16198	transport
+T534	Chemical 16202 16207	DIBOA
+T535	Metabolite 16202 16207	DIBOA
+T536	Protein 16226 16245	Glycosyltransferase
+T537	Biological_Activity 16226 16245	Glycosyltransferase
+T538	Species 16298 16304	barley
+T539	Chemical 16354 16359	DIBOA
+T540	Metabolite 16354 16359	DIBOA
+T541	Metabolite 16364 16368	HBOA
+T542	Chemical 16364 16368	HBOA
+T543	Species 16398 16401	rye
+R20	Isolated_From Arg1:T541 Arg2:T543	
+T544	Chemical 16520 16524	HOAc
+T545	Chemical 16533 16537	MeOH
+T546	Chemical 16541 16545	H2 O
+T547	Species 16578 16583	maize
+T548	Species 16614 16617	rye
+T549	Species 16662 16668	barley
+T550	Species 16821 16826	maize
+T551	Species 16834 16837	rye
+T552	Species 16842 16848	barley
+T553	Protein 16934 16941	BX2–BX5
+T554	Protein 16942 16950	proteins
+T555	Species 16954 16961	E. coli
+T556	Protein 16981 16991	antibodies
+T557	Protein 17022 17026	P450
+T558	Protein 17049 17052	PCR
+T559	Protein 17110 17113	PCR
+T560	Species 17188 17213	E. coli  strain BL21 (DE3
+T561	Protein 17278 17286	proteins
+T562	Protein 17305 17321	inclusion bodies
+T563	Biological_Activity 17525 17537	Immunisation
+T564	Species 17541 17548	rabbits
+T565	Protein 17619 17627	proteins
+T566	Biological_Activity 17632 17644	immunisation
+T567	Protein 17665 17669	P450
+T568	Species 17682 17687	yeast
+T569	Species 17692 17697	yeast
+T570	Species 17706 17710	W(N)
+T571	Species 17712 17716	W(R)
+T572	Species 17722 17727	WAT11
+T573	Species 17732 17737	WAT21
+T574	Protein 17830 17837	BX2–BX5
+T575	Protein 17894 17898	NdeI
+T576	Protein 17903 17908	EcoRI
+T577	Protein 17914 17918	NdeI
+T578	Protein 18038 18043	EcoRI
+T579	Protein 18048 18053	BamHI
+T580	Chemical 18075 18095	5′-GATCCAGGTGTCCA-3′
+T581	Chemical 18097 18115	5́-TATGGACACCTG-3́
+T582	Species 18118 18123	Yeast
+T583	Species 18255 18260	Plant
+T584	Species 18323 18328	Yeast
+T585	Protein 18383 18387	P450
+T586	Species 18399 18404	plant
+T587	Chemical 18432 18447	carbon monoxide
+T588	Spectral_Data 18432 18473	carbon monoxide differential spectroscopy
+T589	Protein 18480 18496	pCMA demethylase
+T590	Biological_Activity 18480 18496	pCMA demethylase
+T591	Chemical 18526 18531	NADPH
+T592	Protein 18573 18584	hydroxylase
+T593	Chemical 18676 18681	NADPH
+T594	Protein 18748 18755	protein
+T595	Chemical 18877 18881	MeOH
+T596	Chemical 18957 18961	HOAc
+T597	Chemical 19000 19005	EtOAc
+T598	Chemical 19058 19062	MeOH
+T599	Chemical 19203 19207	H2 O
+T600	Chemical 19192 19199	solvent
+T601	Chemical 19208 19212	HOAc
+T602	Chemical 19254 19261	solvent
+T603	Chemical 19270 19274	MeOH
+T604	Chemical 19275 19279	H2 O
+T605	Chemical 19280 19284	HOAc
+T606	Protein 19351 19379	NADPH-cytochrome c reductase
+T607	Protein 19381 19384	CPR
+T608	Protein 19460 19467	BX2–BX5
+T609	Chemical 19566 19581	nitro-cellulose
+T610	Species 19681 19687	rabbit
+T611	Protein 19699 19709	antibodies
+T612	Protein 19723 19730	BX2–BX5
+T613	Species 19773 19779	rabbit
+T614	Chemical 19803 19806	Cy5
+T615	Chemical 19807 19822	fluorescent dye
+T616	Protein 19941 19945	P450
+T617	Protein 19946 19954	proteins
+T618	Species 20060 20065	yeast

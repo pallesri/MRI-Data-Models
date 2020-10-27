@@ -1,0 +1,13 @@
+T1	Disease 348 355	uveitis
+T2	Disease 373 393	retinal inflammation
+T3	Disease 406 413	uveitis
+T5	Plant 17 25	bilberry
+T6	Plant 493 501	bilberry
+T7	Plant 566 574	bilberry
+T8	Plant 833 841	bilberry
+T9	Plant 1112 1120	bilberry
+T10	Plant 1325 1333	bilberry
+T11	Treatment_of_disease 1348 1365	protective effect
+E1	Treatment_of_disease:T11 Cause:T10 Theme:T4
+T4	Disease 1392 1412	retinal inflammation
+T12	Disease 1264 1279	inflamed retina

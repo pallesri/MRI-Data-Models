@@ -1,0 +1,36 @@
+T1	Chemical 0 9	Meloxicam
+T2	Chemical 11 103	4-hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2-benzothiazine -3-carboxamide-1, 1-dioxide
+T3	Biological_Activity 123 140	anti-inflammatory
+T5	Chemical 162 168	oxicam
+#1	AnnotatorNotes T5	Chemical class
+T6	Biological_Activity 200 210	inhibition
+T7	Protein 214 231	cyclo-oxygenase-2
+T9	Chemical 233 242	Meloxicam
+T10	Chemical 346 355	Meloxicam
+T12	Chemical 479 488;497 508	Meloxicam metabolites
+T14	Protein 529 543	plasma albumin
+T16	Chemical 575 584	meloxicam
+T17	Biological_Activity 657 669	inflammatory
+R4	Associated_With Arg1:T16 Arg2:T17	
+T18	Chemical 779 788	meloxicam
+T19	Biological_Activity 969 982	toxicological
+R5	Associated_With Arg1:T2 Arg2:T3	
+R7	Associated_With Arg1:T1 Arg2:T3	
+T21	Chemical 147 152	NSAID
+T22	Chemical 110 145	nonsteroidal anti-inflammatory drug
+R9	Associated_With Arg1:T2 Arg2:T6	
+R10	Associated_With Arg1:T1 Arg2:T6	
+T23	Metabolite 426 437	metabolites
+T13	Chemical 479 488	Meloxicam
+T24	Metabolite 479 488;497 508	Meloxicam metabolites
+T25	Biological_Activity 509 513	bind
+R2	Associated_With Arg1:T13 Arg2:T25	
+R3	Associated_With Arg1:T24 Arg2:T25	
+R13	Associated_With Arg1:T12 Arg2:T25	
+T26	Chemical 1038 1043	NSAID
+R6	Binds_With Arg1:T2 Arg2:T7	
+R8	Binds_With Arg1:T1 Arg2:T7	
+R1	Binds_With Arg1:T24 Arg2:T14	
+R11	Binds_With Arg1:T12 Arg2:T14	
+R12	Binds_With Arg1:T13 Arg2:T14	
+T4	Biological_Activity 376 393	biotransformation

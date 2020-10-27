@@ -1,0 +1,61 @@
+T1	Protein 3 19	aminotransferase
+T2	Chemical 54 64	methionine
+T3	Chemical 80 99	methylthioadenosine
+T4	Chemical 119 143	alpha-ketomethiobutyrate
+T5	Metabolite 54 64	methionine
+T6	Metabolite 80 99	methylthioadenosine
+T7	Metabolite 119 143	alpha-ketomethiobutyrate
+T8	Chemical 147 157	methionine
+T9	Metabolite 147 157	methionine
+T10	Species 182 203	Klebsiella pneumoniae
+T11	Protein 227 233	enzyme
+T12	Chemical 336 356	aromatic amino acids
+T13	Chemical 361 370	glutamate
+T14	Chemical 299 309	methionine
+T15	Metabolite 299 309	methionine
+T16	Chemical 392 401	Histidine
+T17	Chemical 403 410	leucine
+T18	Chemical 412 422	asparagine
+T19	Chemical 428 436	arginine
+T20	Species 631 647	Escherichia coli
+T21	Species 652 674	Salmonella typhimurium
+T22	Protein 675 701	tyrosine aminotransferases
+T23	Protein 753 778	tyrosine aminotransferase
+T24	Species 796 809	K. pneumoniae
+T25	Species 827 834	E. coli
+T26	Protein 914 939	tyrosine aminotransferase
+T27	Species 946 954	E.  coli
+T28	Species 956 970	S. typhimurium
+T29	Species 972 996	Paracoccus denitrificans
+T30	Species 1002 1020	Rhizobium meliloti
+T31	Protein 1105 1130	tyrosine aminotransferase
+T32	Species 1191 1204	K. pneumoniae
+T33	Protein 1205 1211	enzyme
+T34	Protein 1239 1256	aminotransferases
+T35	Protein 1282 1298	aminotransferase
+T36	Chemical 1327 1346	aromatic amino acid
+T37	Chemical 1352 1376	alpha-ketomethiobutyrate
+T38	Chemical 1384 1393	glutamate
+T39	Chemical 1399 1423	alpha-ketomethiobutyrate
+T40	Chemical 1476 1484	tyrosine
+T41	Chemical 1490 1509	alpha-ketoglutarate
+T42	Chemical 1514 1522	tyrosine
+T43	Chemical 1528 1540	oxaloacetate
+T44	Protein 1566 1591	tyrosine aminotransferase
+T45	Protein 1598 1614	aminotransferase
+T46	Chemical 1655 1663	canaline
+T47	Chemical 1668 1688	carboxymethoxylamine
+T48	Chemical 1729 1742	nitrotyrosine
+T49	Chemical 1746 1764	nitrophenylalanine
+T51	Chemical 1636 1653	aminooxy compound
+#1	AnnotatorNotes T51	Class of chemicals
+T52	Biological_Activity 1619 1628	inhibited
+T50	Chemical 499 520	N-terminal amino acid
+T55	Protein 537 543	enzyme
+R1	Associated_With Arg1:T46 Arg2:T52	
+R2	Associated_With Arg1:T47 Arg2:T52	
+R3	Metabolite_Of Arg1:T9 Arg2:T4	
+R4	Metabolite_Of Arg1:T7 Arg2:T3	
+T54	Chemical 848 858	amino acid
+R7	Binds_With Arg1:T46 Arg2:T45	
+R8	Binds_With Arg1:T47 Arg2:T45	

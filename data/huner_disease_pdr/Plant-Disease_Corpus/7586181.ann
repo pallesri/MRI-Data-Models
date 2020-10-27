@@ -1,0 +1,21 @@
+T1	Disease 167 180	mammary tumor
+T2	Disease 294 300	cancer
+T3	Disease 778 783	tumor
+T4	Disease 866 871	tumor
+T5	Disease 1175 1181	cancer
+T6	Disease 1693 1706	tumorigenesis
+T7	Plant 28 34	garlic
+T10	Plant 284 290	garlic
+T11	Plant 403 409	garlic
+T13	Plant 980 986	garlic
+T16	Plant 1015 1021	garlic
+T17	Plant 1095 1101	garlic
+T20	Plant 1138 1144	garlic
+T21	Plant 1212 1218	garlic
+T23	Plant 1303 1309	garlic
+T25	Plant 1360 1366	garlic
+T27	Plant 1550 1556	garlic
+T29	Plant 1667 1673	garlic
+T31	Plant 1861 1867	garlic
+T8	Treatment_of_disease 1677 1684	protect
+E1	Treatment_of_disease:T8 Cause:T29 Theme:T6

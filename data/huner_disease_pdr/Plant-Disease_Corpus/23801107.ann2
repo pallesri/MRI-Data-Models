@@ -1,0 +1,27 @@
+T1	Disease 332 338	cancer
+T2	Disease 495 501	cancer
+T3	Disease 651 657	cancer
+T4	Disease 941 947	cancer
+T5	Disease 1296 1302	cancer
+T6	Disease 1537 1543	cancer
+T7	Plant 182 189	tobacco
+T8	Plant 226 233	tobacco
+T9	Plant 316 323	tobacco
+T10	Plant 479 486	tobacco
+T11	Plant 635 642	tobacco
+T12	Plant 925 932	tobacco
+T13	Plant 1280 1287	tobacco
+T14	Plant 1521 1528	tobacco
+T15	Plant 1667 1674	tobacco
+T16	Cause_of_disease 324 331	related
+E1	Cause_of_disease:T16 Theme:T1 Cause:T9
+T17	Cause_of_disease 487 494	related
+E2	Cause_of_disease:T17 Theme:T2 Cause:T10
+T18	Cause_of_disease 643 650	related
+E3	Cause_of_disease:T18 Theme:T3 Cause:T11
+T19	Cause_of_disease 933 940	related
+E4	Cause_of_disease:T19 Theme:T4 Cause:T12
+T20	Cause_of_disease 1288 1295	related
+E5	Cause_of_disease:T20 Theme:T5 Cause:T13
+T21	Cause_of_disease 1529 1536	related
+E6	Cause_of_disease:T21 Theme:T6 Cause:T14

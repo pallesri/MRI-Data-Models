@@ -1,0 +1,23 @@
+T1	Chemical 17 37;63 71	6-ketoderivatives of agigenin
+T2	Chemical 17 37;73 82	6-ketoderivatives of diosgenin
+T3	Chemical 17 37;87 97	6-ketoderivatives of alliogenin
+T4	Chemical 17 56	6-ketoderivatives of natural sapogenins
+T5	Biological_Activity 111 119	anabolic
+T6	Biological_Activity 153 163	androgenic
+T7	Chemical 63 71	agigenin
+T8	Metabolite 63 71	agigenin
+T9	Chemical 73 82	diosgenin
+T10	Metabolite 73 82	diosgenin
+T11	Chemical 87 97	alliogenin
+T12	Metabolite 87 97	alliogenin
+R1	Associated_With Arg1:T3 Arg2:T5	
+R2	Associated_With Arg1:T2 Arg2:T5	
+R3	Associated_With Arg1:T1 Arg2:T5	
+T13	Chemical 191 247	(25 R)-5alpha-spirostan-2alpha, 3beta, 5alpha-triol-6-OH
+T14	Chemical 180 190	compoud IV
+T16	Species 290 294	rats
+T17	Protein 423 430	protein
+T18	Chemical 634 646	compound IV.
+T19	Species 584 588	rats
+T25	Biological_Activity 611 619	anabolic
+R16	Associated_With Arg1:T18 Arg2:T25	

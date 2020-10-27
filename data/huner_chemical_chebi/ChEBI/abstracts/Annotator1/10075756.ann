@@ -1,0 +1,33 @@
+T1	Chemical 12 22	triterpene
+#1	AnnotatorNotes T1	Class of chemicals
+T2	Chemical 23 31	alcohols
+#2	AnnotatorNotes T2	Class of chemicals
+T4	Metabolite 33 42;44 45	camelliol A
+T9	Metabolite 166 177	achilleol A
+T10	Chemical 166 177	achilleol A
+T11	Chemical 187 216	monocyclic triterpene alcohol
+#3	AnnotatorNotes T11	Class of chemicals
+T12	Chemical 198 216	triterpene alcohol
+#4	AnnotatorNotes T12	Class of chemicals
+T13	Chemical 227 248	nonsaponifiable lipid
+#5	AnnotatorNotes T13	Class of chemicals
+T14	Chemical 253 265	sasanqua oil
+T15	Species 267 284	Camellia sasanqua
+T16	Spectral_Data 357 378	spectroscopic methods
+#6	AnnotatorNotes T16	text suggests that structures are shown in the full paper
+T17	Chemical 12 31	triterpene alcohols
+R2	Isolated_From Arg1:T9 Arg2:T15	
+T18	Chemical 33 42;51 52	camelliol B
+T19	Chemical 33 42;62 63	camelliol C
+T20	Chemical 33 42;44 45	camelliol A
+T3	Metabolite 33 42;51 52	camelliol B
+T21	Metabolite 33 42;62 63	camelliol C
+R1	Isolated_From Arg1:T21 Arg2:T15	
+R3	Isolated_From Arg1:T3 Arg2:T15	
+R4	Isolated_From Arg1:T4 Arg2:T15	
+R5	Associated_With Arg1:T4 Arg2:T16	
+R6	Associated_With Arg1:T3 Arg2:T16	
+R7	Associated_With Arg1:T21 Arg2:T16	
+R8	Associated_With Arg1:T18 Arg2:T16	
+R9	Associated_With Arg1:T19 Arg2:T16	
+R10	Associated_With Arg1:T20 Arg2:T16	

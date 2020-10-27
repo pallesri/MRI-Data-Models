@@ -1,0 +1,120 @@
+T1	Chemical 1 7	Ferbam
+T2	Chemical 9 42	iron(III) dimethyldithiocarbamate
+T3	Chemical 60 75	dithiocarbamate
+T4	Chemical 86 95	fungicide
+T5	Biological_Activity 86 95	fungicide
+T6	Biological_Activity 135 145	pathogenic
+T7	Species 146 151	fungi
+T8	Species 129 134	plant
+R1	Associated_With Arg1:T2 Arg2:T5	
+R2	Associated_With Arg1:T1 Arg2:T5	
+T9	Chemical 153 159	Ferbam
+T10	Chemical 191 208	carbon disulphide
+T11	Chemical 268 273	acids
+T12	Chemical 277 282	amine
+T13	Chemical 287 303	carbon disulfide
+T14	Chemical 337 343	Ferbam
+T15	Chemical 385 394	moybdenum
+T16	Chemical 401 407	copper
+T17	Chemical 417 436	1,10-phenanthroline
+T18	Chemical 385 394;442 449	moybdenum complex
+T19	Chemical 401 407;442 449	copper complex
+T20	Chemical 417 436;442 449	1,10-phenanthroline complex
+R3	Associated_With Arg1:T3 Arg2:T5	
+T21	Chemical 489 504	dithiocarbamate
+T22	Chemical 505 515	fungicides
+T23	Biological_Activity 505 515	fungicides
+T24	Chemical 555 572	carbon disulphide
+T25	Chemical 963 978	dithiocarbamate
+T26	Chemical 979 989	fungicides
+T27	Biological_Activity 979 989	fungicides
+T28	Chemical 997 1014	carbon disulphide
+T29	Chemical 1018 1022	acid
+T30	Chemical 1247 1256;1269 1278	inorganic compounds
+T31	Chemical 1261 1278	organic compounds
+T32	Chemical 1476 1506	sodium dimethyldithiocarbamate
+T33	Chemical 1513 1527	sulphonic acid
+T34	Chemical 1528 1535	polymer
+T35	Chemical 1577 1593	sodium phosphate
+T36	Chemical 1692 1708	dithiocarbamates
+T37	Chemical 1781 1797	dithiocarbamates
+T38	Chemical 1809 1819	pesticides
+T39	Biological_Activity 1809 1819	pesticides
+T40	Chemical 1852 1888	metal–aminopolycarboxylate complexes
+T41	Chemical 2040 2046	Ferbam
+T42	Chemical 2219 2225	Ferbam
+T43	Chemical 2325 2332	Fe(III)
+T44	Chemical 2344 2350	Ferbam
+T45	Chemical 2356 2378	Fe(III)–EDTA−  complex
+T46	Chemical 2406 2412	Ferbam
+T47	Chemical_Structure 2428 2450	[(CH3 )2 –NC(S)2 ]3 Fe
+T48	Chemical 2608 2614	silica
+T49	Chemical 2927 2935	Reagents
+T50	Chemical 2954 2963	chemicals
+T51	Chemical 2988 2995	reagent
+T52	Chemical 3013 3028	distilled water
+T53	Chemical 3096 3102	Ferbam
+T54	Chemical 3112 3118	Ferbam
+T55	Chemical 3184 3190	Ferbam
+T56	Chemical 3256 3267	nitric acid
+T57	Chemical 3392 3395	HCl
+T58	Chemical 3468 3472	NaOH
+T59	Chemical 3542 3551	iron(III)
+T60	Chemical 3557 3563	Ferbam
+T61	Chemical 3598 3614	Variamine Blue B
+T62	Chemical 3721 3736	distilled water
+T63	Chemical 3745 3749	EDTA
+T64	Chemical 3777 3781;3795 3808	EDTA disodium salt
+T65	Chemical 3825 3840	distilled water
+T66	Chemical 3915 3925	boric acid
+T67	Chemical 3979 3983	NaOH
+T68	Chemical 4068 4072	NaOH
+T69	Chemical 4081 4085	NaOH
+T70	Chemical 4090 4095	water
+T71	Chemical 4267 4278	electrolyte
+T72	Chemical 4284 4295	electrolyte
+T73	Chemical 4438 4444	Ferbam
+T74	Chemical 4461 4465	EDTA
+T75	Chemical 4498 4513	distilled water
+T76	Chemical 4649 4655	Ferbam
+T77	Chemical 4714 4720	Ferbam
+T78	Species 4726 4731	wheat
+T79	Chemical 4758 4764	Ferbam
+T80	Chemical 4768 4780	acetonitrile
+T81	Chemical 4806 4811	wheat
+T82	Chemical 4848 4858	chloroform
+T83	Chemical 4948 4958	chloroform
+T84	Chemical 5320 5326	Ferbam
+T85	Chemical 5495 5501	borate
+T86	Chemical 5503 5512	phosphate
+T87	Chemical 5517 5524	acetate
+T88	Chemical 5653 5662	phosphate
+T89	Chemical 5667 5674	acetate
+T90	Chemical 5769 5775	borate
+T91	Chemical 5879 5885	borate
+T92	Chemical 5924 5930	borate
+T93	Chemical 6084 6090	borate
+T94	Chemical 6639 6645	Ferbam
+T95	Chemical 6669 6674	water
+T96	Chemical 6683 6699	dithiocarbamates
+T97	Chemical 6708 6713	nabam
+T98	Chemical 6715 6721	metham
+T99	Chemical 6723 6752	sodium diethyldithiocarbamate
+T100	Chemical 6803 6813	chloroform
+T101	Chemical 6815 6820	Nabam
+T102	Chemical 6967 6973	Ferbam
+T103	Chemical 7020 7030	metal ions
+T104	Chemical 7036 7042	Co(II)
+T105	Chemical 7044 7050	Zn(II)
+T106	Chemical 7052 7058	Cu(II)
+T107	Chemical 7063 7069	Ni(II)
+T108	Chemical 7111 7121	metal ions
+T109	Chemical 7386 7392	Ferbam
+T110	Chemical 7470 7476	Ferbam
+T111	Chemical 7552 7575	dimethyldithiocarbamate
+T112	Chemical 7582 7596	sulphonic acid
+T113	Chemical 7597 7604	polymer
+T114	Chemical 7646 7653	cations
+T115	Chemical 7658 7664	anions
+T116	Chemical 7706 7712	Ferbam
+T117	Chemical 7922 7928	Ferbam

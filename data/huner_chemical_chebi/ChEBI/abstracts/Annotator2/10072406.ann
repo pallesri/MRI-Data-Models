@@ -1,0 +1,44 @@
+T2	Metabolite 86 95	oxylipins
+#2	AnnotatorNotes T2	Chemical class
+T3	Species 100 106	potato
+T4	Species 153 175	Phytophthora infestans
+R1	Isolated_From Arg1:T2 Arg2:T3	
+T5	Chemical 181 216	18-carbon divinyl ether fatty acids
+#3	AnnotatorNotes T5	Chemical class
+T8	Chemical 218 232	colneleic acid
+T9	Chemical 237 252	colnelenic acid
+T10	Metabolite 385 410	divinyl ether fatty acids
+#5	AnnotatorNotes T10	Chemical class
+T15	Metabolite 567 582	Colnelenic acid
+T16	Chemical 730 743	jasmonic acid
+T17	Chemical 805 819	divinyl ethers
+#6	AnnotatorNotes T17	Chemical class
+T18	Species 876 883	tobacco
+T19	Species 889 896	tobacco
+T20	Chemical 911 920	Colneleic
+T21	Chemical 925 940	colnelenic acid
+T22	Biological_Activity 960 970	inhibitory
+T23	Species 974 986	P. infestans
+T24	Chemical 1031 1045	divinyl ethers
+#7	AnnotatorNotes T24	Chemical class
+R6	Associated_With Arg1:T21 Arg2:T22	
+R7	Associated_With Arg1:T20 Arg2:T22	
+T26	Chemical 86 95	oxylipins
+T1	Metabolite 53 84	oxidized fatty acid derivatives
+T27	Chemical 53 84	oxidized fatty acid derivatives
+R2	Isolated_From Arg1:T1 Arg2:T3	
+T6	Metabolite 218 232	colneleic acid
+T7	Metabolite 237 252	colnelenic acid
+R9	Isolated_From Arg1:T7 Arg2:T3	
+R10	Isolated_From Arg1:T6 Arg2:T3	
+T28	Metabolite 181 216	18-carbon divinyl ether fatty acids
+R11	Isolated_From Arg1:T28 Arg2:T3	
+T14	Chemical 385 410	divinyl ether fatty acids
+T11	Species 438 461	potato cultivar Matilda
+T12	Species 525 540	cultivar Bintje
+R3	Isolated_From Arg1:T10 Arg2:T11	
+R4	Isolated_From Arg1:T10 Arg2:T12	
+T13	Chemical 567 582	Colnelenic acid
+R5	Isolated_From Arg1:T15 Arg2:T11	
+T29	Metabolite 730 743	jasmonic acid
+T30	Metabolite 805 819	divinyl ethers

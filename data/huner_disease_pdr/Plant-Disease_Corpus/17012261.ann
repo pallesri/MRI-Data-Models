@@ -1,0 +1,17 @@
+T1	Disease 73 92	periodontal disease
+T2	Disease 163 183	head and neck cancer
+T4	Disease 2196 2215	periodontal disease
+T5	Disease 2235 2255	head and neck cancer
+T6	Plant 11 18	tobacco
+T7	Plant 198 205	tobacco
+T8	Plant 511 518	tobacco
+T9	Plant 1691 1698	tobacco
+T10	Plant 2180 2187	tobacco
+T11	Cause_of_disease 50 69	increased incidence
+E1	Cause_of_disease:T11 Theme:T1 Cause:T6
+T3	Cause_of_disease 2188 2195	related
+E2	Cause_of_disease:T3 Theme:T4 Cause:T10
+T12	Cause_of_disease 2220 2231	progression
+E3	Cause_of_disease:T12 Cause:T10 Theme:T5
+T13	Cause_of_disease 143 147	risk
+E4	Cause_of_disease:T13 Theme:T2 Cause:T6

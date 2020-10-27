@@ -1,0 +1,732 @@
+T1	Protein 54 86	major histocompatibility complex
+T2	Chemical 46 53	peptide
+T3	Chemical 94 102	antigens
+T4	Chemical 287 294	peptide
+T5	Chemical 295 303	antigens
+T6	Chemical 311 324	glycopeptides
+T7	Chemical 329 340	glycolipids
+T8	Protein 365 368	MHC
+T9	Protein 350 357;365 368	class I MHC
+T10	Protein 350 355;362 368	class II MHC
+T11	Protein 374 385	MHC class I
+T12	Protein 391 404	CD1 molecules
+T13	Protein 478 481;489 505	α/β T cell receptors
+T14	Protein 485 505	γ/δ T cell receptors
+T15	Protein 507 510	TCR
+T16	Protein 707 710	TCR
+T17	Species 782 787	mouse
+T18	Protein 788 791	CD1
+T19	Protein 89 92	MHC
+T20	Protein 849 852	MHC
+T21	Protein 990 997	α/β TCR
+T22	Protein 998 1002	pMHC
+T23	Protein 1100 1103	TCR
+T24	Protein 1114 1118	pMHC
+T25	Protein 1236 1239;1241 1242	CDR 1
+T26	Protein 1236 1239;1247 1248	CDR 2
+T27	Protein 1257 1260	TCR
+T29	Protein 1302 1305	MHC
+T30	Protein 1340 1343	TCR
+T32	Protein 1372 1376	CDR3
+T33	Protein 1417 1420	MHC
+T34	Chemical 1535 1542	antigen
+T35	Protein 1599 1603	TCRs
+T36	Protein 1613 1617	pMHC
+T37	Protein 1700 1703	MHC
+T38	Chemical 1837 1844	antigen
+T39	Protein 1857 1864	γ/δ TCR
+T40	Protein 1925 1928	MHC
+T41	Protein 1971 1975	TCRs
+T42	Protein 2070 2082;2088 2090	immunoglobin VH
+T43	Protein 2084 2086	Ig
+T44	Protein 2070 2082;2096 2100	immunoglobin VL  
+T45	Protein 2100 2104	CDR3
+T46	Protein 2116 2119	TCR
+T47	Protein 2128 2133	CDR3s
+T28	Protein 2242 2245	TCR
+T31	Protein 2260 2265	CDR3s
+T48	Protein 2357 2360	TCR
+T49	Chemical 2361 2368	antigen
+T50	Protein 2412 2414	Ig
+T51	Protein 2437 2440	TCR
+T52	Protein 2825 2833	proteins
+T53	Protein 2944 2957	glycoproteins
+T54	Chemical 2961 2974	glycopeptides
+T55	Chemical 2990 3002	glycopeptide
+T56	Protein 3019 3030;3054 3063	MHC class I receptors
+T57	Protein 3032 3037;3054 3063	MHC I receptors
+T58	Protein 3019 3028;3042 3044;3054 3063	MHC class II receptors
+T59	Protein 3046 3052;3054 3063	MHC II receptors
+T60	Protein 3188 3204	collagen type II
+T61	Protein 3218 3229	MHC II I-Aq
+T62	Protein 3313 3321	proteins
+T63	Chemical 3336 3355	N-acetylglucosamine
+T64	Chemical 3357 3363	GlcNAc
+T65	Chemical 3447 3460	glycopeptides
+T66	Chemical 3509 3522	glycopeptides
+T67	Chemical 3558 3573	oligosaccharide
+T68	Chemical 3690 3703	carbohydrates
+T69	Protein 3740 3752	glycoprotein
+T70	Chemical 3757 3767	glycolipid
+T71	Chemical 3779 3795	oligosaccharides
+T72	Chemical 3837 3845	antigens
+T73	Chemical 3941 3947	glycan
+T74	Protein 3977 3982	MHC I
+T75	Chemical 3994 4002	peptides
+T76	Chemical 4019 4025	GlcNAc
+T77	Chemical 4036 4048	glycopeptide
+T78	Chemical 4176 4188	glycopeptide
+T79	Chemical 4204 4211	peptide
+T80	Protein 4253 4256	TCR
+T81	Chemical 4276 4295	carbohydrate hapten
+T82	Protein 4334 4337	MHC
+T83	Chemical 4360 4367	peptide
+T84	Protein 4406 4417	MHC I H-2Kb
+T85	Chemical 4430 4442	glycopeptide
+T86	Chemical 4443 4455	RGY8-6H-Gal2
+T87	Chemical 4541 4553	glycopeptide
+T88	Protein 4554 4557	MHC
+T89	Protein 4569 4572	MHC
+T90	Chemical 4587 4597	glycolipid
+T91	Chemical 4607 4616	galabiose
+T92	Chemical 4617 4632	oligosaccharide
+T93	Protein 4730 4733	TCR
+T94	Chemical 4755 4767	glycopeptide
+T95	Chemical 4834 4844	glycolipid
+T96	Protein 4903 4906	MHC
+T97	Chemical 4945 4957	glycopeptide
+T98	Protein 4965 4968	MHC
+T99	Chemical 5047 5054	antigen
+T100	Protein 5178 5181	MHC
+T101	Chemical 5192 5205	glycopeptides
+T102	Chemical 5283 5296	glycopeptides
+T103	Chemical 5343 5355	carbohydrate
+T104	Chemical 5413 5426	Glycopeptides
+T105	Chemical 5450 5466	oligosaccharides
+T106	Chemical 5476 5488	RGY8-6H-Gal2
+T107	Chemical 5619 5631	RGY8-6H-Gal2
+T108	Chemical 5737 5749	RGY8-6H-Gal2
+T109	Chemical 5751 5763	glycopeptide
+T110	Chemical 5785 5791	glycan
+T111	Chemical 5821 5833	carbohydrate
+T112	Protein 5983 6002	α/β T cell receptor
+T113	Protein 6013 6016	MHC
+T114	Chemical 6141 6154	Glycopeptides
+T115	Chemical 6159 6170	Glycolipids
+T116	Protein 6181 6184	MHC
+T117	Chemical 6342 6354	glycopeptide
+T118	Chemical 6419 6428	ASNENMETM
+T119	Chemical 6405 6413	peptides
+T120	Chemical 6592 6600	peptides
+T121	Chemical 6606 6615	FAPGNYPAL
+T122	Species 6438 6453	influenza virus
+T124	Chemical 6509 6519	SGPSNTPPEI
+T125	Species 6525 6535	adenovirus
+T126	Protein 6525 6549	adenovirus Ad5EI protein
+T123	Protein 6434 6467	PR8 influenza virus nucleoprotein
+T127	Species 6621 6633	Sendai virus
+T128	Protein 6621 6636	Sendai virus NP
+T129	Chemical 6667 6675	RGYVYQGL
+T130	Protein 6681 6716	vesicular stomatitis virus (VSV) NP
+T131	Chemical 6893 6906	carbohydrates
+T132	Chemical 6971 6977	serine
+T133	Chemical 6979 6987	cysteine
+T134	Chemical 6992 7004	homocysteine
+T135	Chemical 7018 7033	Oligosaccharide
+T136	Chemical 7034 7038	CD77
+T137	Chemical 7063 7066	TAA
+T138	Chemical 7141 7152	saccharides
+T139	Chemical 7092 7099	Lactose
+T140	Chemical 7104 7114	GM3-lactam
+T141	Chemical 7195 7204	Galabiose
+T142	Chemical 7206 7221	Gal-α(1,4)-Galβ
+T143	Chemical 7225 7229	Gal2
+T144	Chemical 7271 7281	glycolipid
+T145	Chemical 7314 7326	disaccharide
+T146	Chemical 7330 7334	CD77
+T147	Chemical 7352 7362	amino acid
+T148	Chemical 7363 7370	glycans
+T149	Protein 6790 6792	Kb
+T150	Protein 6798 6800	Db
+T151	Protein 6834 6836	Db
+T152	Protein 6871 6873	Kb
+T153	Protein 7439 7441	Kb
+T154	Protein 7446 7450	Db  
+T155	Protein 7573 7578	MHC I
+T156	Chemical 7554 7561	Peptide
+T157	Biological_Activity 7562 7569	binding
+R1	Binds_With Arg1:T156 Arg2:T155	
+T158	Biological_Activity 2369 2376	binding
+T159	Biological_Activity 1104 1109	binds
+T160	Chemical 7601 7607	glycan
+T161	Chemical 7675 7688	glycopeptides
+T162	Protein 7769 7777	antibody
+T163	Protein 7779 7782	MAb
+T164	Protein 7758 7777	Monoclonal antibody
+T165	Chemical 7801 7829	peptide-linked carbohydrates
+T166	Chemical 7892 7898	glycan
+T167	Chemical 7919 7926	peptide
+T168	Protein 7952 7960	antibody
+T169	Biological_Activity 7961 7968	binding
+T170	Chemical 7976 7991	peptide glycans
+R2	Binds_With Arg1:T170 Arg2:T168	
+T171	Chemical 8018 8030	carbohydrate
+T172	Protein 8056 8059	MHC
+T173	Chemical 8071 8084	Carbohydrates
+T174	Chemical 8123 8130	peptide
+T175	Chemical 8138 8144	serine
+T176	Protein 8194 8197	MAb
+T177	Chemical 8181 8193	carbohydrate
+T178	Chemical 8217 8229	carbohydrate
+T179	Chemical 8267 8280	glycopeptides
+T180	Chemical 8301 8309	cysteine
+T181	Chemical 8310 8318	ethylene
+T182	Chemical 8342 8354	homocysteine
+T183	Protein 8441 8444	MAb
+T184	Protein 8455 8458	IgM
+T185	Biological_Activity 8491 8498	binding
+T186	Chemical 8535 8547	Carbohydrate
+T187	Chemical 8573 8584	glycolipids
+T188	Chemical 8776 8788	carbohydrate
+T189	Protein 8789 8792	MAb
+T191	Chemical 8861 8874	Glycopeptides
+T192	Chemical 8879 8890	Glycolipids
+T193	Chemical 8914 8926	glycopeptide
+T194	Chemical 9034 9041	peptide
+T195	Chemical 9051 9064	glycopeptides
+T196	Chemical 9079 9085	serine
+T197	Chemical 9094 9110	oligosaccharides
+T198	Protein 9116 9118	Db
+T199	Chemical 9128 9141	glycopeptides
+T201	Chemical 9205 9217	carbohydrate
+T202	Protein 9244 9246	Kb
+T203	Chemical 9256 9269	glycopeptides
+T204	Chemical 9271 9283	RGY8-4H-Gal2
+T205	Chemical 9289 9301	RGY8-6H-Gal2
+T206	Biological_Activity 9120 9127	binding
+T207	Biological_Activity 9248 9255	binding
+T208	Chemical 9317 9329	homocysteine
+T209	Chemical 9338 9347	galabiose
+T211	Chemical 9409 9421	glycopeptide
+T212	Chemical 9486 9498	RGY8-6H-Gal2
+T213	Protein 9548 9551	TCR
+T214	Chemical 9574 9586	glycopeptide
+T190	Chemical 9692 9704	RGY8-6H-Gal2
+T200	Protein 9743 9745	Db
+T210	Biological_Activity 9747 9754	binding
+T215	Chemical 9755 9768	glycopeptides
+T216	Chemical 9780 9792	homocysteine
+T217	Chemical 9801 9810	galabiose
+T218	Chemical 9818 9830	ASN9-6H-Gal2
+T219	Chemical 9857 9869	carbohydrate
+T220	Protein 9902 9905	MHC
+T221	Protein 9945 9948	MHC
+T222	Chemical 9962 9974	carbohydrate
+T223	Chemical 10048 10057	galabiose
+T224	Chemical 10069 10079	glycolipid
+T225	Chemical 10133 10143	glycolipid
+T226	Chemical 10267 10279	RGY8-6H-Gal2
+T227	Protein 10385 10388	MHC
+T228	Chemical 10389 10396	antigen
+T229	Chemical 10444 10456	glycopeptide
+T230	Chemical 10467 10477	glycolipid
+T231	Protein 10537 10542	H-2Kb
+T232	Chemical 10544 10556	RGY8-6H-Gal2
+T233	Chemical 10608 10620	carbohydrate
+T234	Chemical 10646 10658	RGY8-6H-Gal2
+T235	Chemical 10660 10672	Glycopeptide
+T236	Protein 10708 10710	Kb
+T237	Chemical 10712 10724	RGY8-6H-Gal2
+T238	Protein 10777 10779	Kb
+T239	Protein 10782 10785	MHC
+T240	Protein 10856 10861	H-2Kb
+T241	Chemical 10863 10875	glycopeptide
+T242	Chemical 10903 10925	N-linked carbohydrates
+T243	Protein 10933 10936	MHC
+T244	Chemical 10946 10951	water
+T245	Chemical 11005 11017	RGY8-6H-Gal2
+T246	Chemical 11090 11110	glycosylated peptide
+T247	Chemical 11128 11140	glycopeptide
+T248	Protein 11182 11184	Kb
+T249	Chemical 11192 11197	VSV-8
+T250	Chemical 11336 11347	polyalanine
+T251	Chemical 11362 11367	VSV-8
+T252	Chemical 11372 11384	RGY8-6H-Gal2
+T253	Chemical 11396 11404	Cα atoms
+T254	Protein 11412 11414	Kb
+T255	Chemical 11479 11491	glycopeptide
+T256	Protein 11496 11499	MHC
+T257	Chemical 11523 11528	water
+T258	Protein 11579 11581	Kb
+T259	Chemical 11583 11588	VSV-8
+T260	Chemical 11652 11664	RGY8-6H-Gal2
+T261	Protein 11678 11683	MHC I
+T262	Chemical 11690 11697	antigen
+T263	Chemical 11744 11766	homocysteine galabiose
+T264	Chemical 11767 11773	glycan
+T265	Chemical 11795 11802	peptide
+T266	Chemical 11804 11809	HggP6
+T267	Chemical 11834 11841	peptide
+T268	Chemical 11880 11888	Arginine
+T269	Chemical 11913 11923	amino acid
+T270	Chemical 11972 11979	peptide
+T271	Protein 12094 12096	Kb
+T272	Chemical 12123 12135	glycopeptide
+T273	Chemical 12172 12191	galabiose thioether
+T274	Chemical 12223 12228	VSV-8
+T275	Chemical 12229 12234	GlnP6
+T276	Chemical 12291 12296	HggP6
+T277	Chemical 12332 12337	HggP6
+T278	Chemical 12404 12416	glycopeptide
+T279	Chemical 11538 11552	hydrogen bonds
+T280	Chemical 12451 12465	hydrogen bonds
+T281	Protein 12485 12500	T cell receptor
+T282	Species 12524 12538	hydrogen bonds
+T283	Chemical 12556 12562	sugars
+T284	Protein 12572 12574	Kb
+T285	Chemical 12762 12774	disaccharide
+T286	Protein 12779 12783	Kb  
+T287	Chemical 12904 12913	galactose
+T288	Chemical 12940 12946	sugars
+T289	Chemical 12954 12963	galabiose
+T290	Protein 12988 12991	MHC
+T291	Protein 13040 13042	Kb
+T292	Chemical 13125 13134	galabiose
+T293	Species 13159 13173	hydrogen bonds
+T294	Chemical 13213 13218	HggP6
+T295	Chemical 13249 13252	Leu
+T296	Chemical 13257 13260	Gly
+T297	Chemical 13265 13268	Arg
+T298	Chemical 13277 13280	Lys
+T299	Chemical 13304 13313	galabiose
+T300	Chemical 13397 13411	hydrogen bonds
+T301	Chemical 13420 13429	galabiose
+T302	Protein 13434 13436	Kb
+T303	Chemical 13443 13450	peptide
+T304	Chemical 13462 13471	galabiose
+T305	Chemical 13443 13471	peptide-conjugated galabiose
+T306	Chemical 13525 13537	disaccharide
+T307	Chemical 13599 13608	galabiose
+T308	Chemical 13636 13641	HggP6
+T309	Chemical 13636 13661	HggP6-linked disaccharide
+T310	Chemical 13649 13661	disaccharide
+T311	Chemical 13713 13722	galabiose
+T312	Chemical 13856 13861	HggP6
+T313	Chemical 13862 13871	galabiose
+T314	Chemical 13921 13930	galactose
+T315	Chemical 13934 13939	HggP6
+T316	Chemical 14052 14064	Disaccharide
+T317	Chemical 14091 14100	galabiose
+T318	Chemical 14101 14113	disaccharide
+T319	Chemical 14132 14139	solvent
+T320	Chemical 14193 14198	HggP6
+T321	Chemical 14317 14329	glycopeptide
+T322	Chemical 14375 14383	peptides
+T323	Protein 14393 14397	Kb  
+T324	Protein 14407 14412	MHC I
+T325	Chemical 14413 14421	antigens
+R3	Binds_With Arg1:T249 Arg2:T248	
+T326	Chemical 14471 14483	glycopeptide
+T327	Chemical 14492 14497	HggP6
+T328	Protein 14555 14557	Kb
+T329	Chemical 14581 14593	glycopeptide
+T330	Protein 14620 14622	Kb
+T331	Chemical 14624 14629	VSV-8
+T332	Chemical 14688 14697	galabiose
+T333	Chemical 14769 14778	thioether
+T334	Chemical 14779 14790	hydrocarbon
+T335	Chemical 14901 14910	galabiose
+T336	Protein 14937 14941	Kb  
+T337	Chemical 14982 14991	galabiose
+T338	Chemical 15006 15013	solvent
+T339	Chemical 15036 15048	glycopeptide
+T340	Chemical 15075 15082	peptide
+T341	Protein 15105 15108	MHC
+T342	Chemical 15115 15123	peptides
+T343	Chemical 15154 15163	Galabiose
+T344	Protein 15173 15194	monoclonal antibodies
+T345	Chemical 15214 15226	RGY8-6H-Gal2
+T346	Chemical 15332 15344	glycopeptide
+T347	Chemical 15354 15363	galabiose
+T348	Protein 15369 15372	MAb
+T349	Chemical 15402 15411	galabiose
+T350	Protein 15438 15441	MHC
+T351	Chemical 15461 15468	haptens
+T352	Protein 15510 15522	immunoglobin
+T353	Chemical 15611 15620	galabiose
+T354	Protein 15640 15648	antibody
+T355	Biological_Activity 15649 15656	binding
+T356	Chemical 15666 15673	haptens
+T357	Chemical 15715 15720	HggP6
+T358	Chemical 15757 15770	carbohydrates
+T359	Chemical 15790 15802	Carbohydrate
+T360	Protein 15820 15823	TCR
+T361	Chemical 15846 15852	glycan
+T362	Chemical 15890 15902	RGY8-6H-Gal2
+T363	Chemical 15938 15947	galabiose
+T364	Chemical 15963 15970	peptide
+T365	Protein 15988 15991	MHC
+T366	Protein 16027 16030	TCR
+T367	Protein 16400 16403	TCR
+T368	Chemical 16458 16470	RGY8-6H-Gal2
+T369	Chemical 16472 16485	carbohydrates
+T370	Protein 16494 16497	TCR
+T371	Protein 16584 16586	Kb
+T372	Chemical 16588 16600	RGY8-6H-Gal2
+T373	Protein 16703 16706	MHC
+T374	Protein 16737 16740	TCR
+T375	Chemical 16760 16769	galabiose
+T376	Chemical 16846 16858	glycopeptide
+T377	Chemical 17026 17038	glycopeptide
+T378	Protein 16912 16915	TCR
+T379	Chemical 16957 16964	peptide
+T380	Protein 17005 17008	TCR
+T381	Protein 17043 17046	MHC
+T382	Protein 17081 17084	MHC
+T383	Chemical 17097 17109	glycopeptide
+T384	Chemical 17211 17218	peptide
+T385	Chemical 17231 17243	carbohydrate
+T386	Chemical 17264 17273	galabiose
+T387	Chemical 17334 17342	antigens
+T388	Chemical 17383 17395	RGY8-6H-Gal2
+T389	Chemical 17459 17468	galabiose
+T390	Chemical 17497 17509	glycopeptide
+T391	Chemical 17510 17516	hapten
+T392	Chemical 17520 17530	glycolipid
+T393	Chemical 17574 17586	carbohydrate
+T394	Chemical 17627 17632	HggP6
+T395	Protein 17689 17692	TCR
+T396	Chemical 17747 17752	HggP6
+T397	Protein 17721 17724	TCR
+T398	Biological_Activity 17693 17700	binding
+T399	Chemical 17874 17886	carbohydrate
+T400	Chemical 17908 17920	glycopeptide
+T401	Chemical 17941 17953	RGY8-6H-Gal2
+T402	Protein 18006 18008	Kb
+T403	Chemical 18010 18022	Glycopeptide
+T404	Protein 18056 18061	H-2Kb
+T405	Chemical 18069 18081	RGY8-6H-Gal2
+T406	Chemical 18109 18116	peptide
+T407	Protein 18121 18125	Kb  
+T408	Chemical 18158 18165	peptide
+T409	Chemical 18213 18225	glycopeptide
+T410	Chemical 18273 18285	carbohydrate
+T411	Chemical 18321 18327	glycan
+T412	Chemical 18352 18361	galabiose
+T413	Chemical 18362 18374	disaccharide
+T414	Protein 18402 18405	MHC
+T415	Chemical 18406 18413	peptide
+T416	Chemical 18503 18510	peptide
+T417	Chemical 18503 18522	peptide side chains
+T418	Chemical 18528 18537	galabiose
+T419	Protein 18676 18679	MHC
+T420	Protein 18676 18688	MHC receptor
+T421	Chemical 18706 18711	HggP6
+T422	Chemical 18838 18841	Hgg
+T423	Chemical 18838 18848	Hgg linker
+T424	Chemical 18872 18878	hapten
+T425	Protein 18950 18955	MHC I
+T426	Protein 18987 18990	TCR
+T427	Chemical 19013 19022	galabiose
+T428	Chemical 19061 19082	amino acid side chain
+T429	Chemical 19061 19071	amino acid
+T430	Protein 19116 19119	TCR
+T431	Protein 19218 19221	TCR
+T432	Protein 19234 19236	Kb
+T433	Chemical 19238 19250	RGY8-6H-Gal2
+T434	Chemical 19252 19264	disaccharide
+T435	Protein 19280 19283	MHC
+T436	Protein 19429 19432	TCR
+T437	Protein 19618 19621	TCR
+T438	Protein 19474 19477	CDR
+#1	AnnotatorNotes T438	CDR = Complementarity determining region (part of an antibody)
+T439	Protein 19814 19817	TCR
+T440	Protein 19893 19896	CDR
+T441	Protein 19944 19954	2C/dEV8/Kb
+T442	Chemical 19839 19846	peptide
+T443	Chemical 19980 19985	HggP6
+T444	Chemical 20027 20039	carbohydrate
+T445	Protein 20066 20069	TCR
+T446	Protein 20132 20135	TCR
+T447	Protein 20141 20144	MHC
+T448	Protein 20224 20227	TCR
+T449	Protein 20229 20232	MHC
+T450	Protein 20448 20451	TCR
+T451	Protein 20453 20456	MHC
+T452	Chemical 20497 20504	peptide
+T453	Chemical 20505 20512	antigen
+T454	Protein 20542 20545	MHC
+T455	Protein 20613 20616	TCR
+T456	Chemical 20619 20631	Glycopeptide
+T457	Protein 20678 20681	MHC
+T458	Protein 20678 20683	MHC I
+T459	Protein 20678 20681;20688 20690	MHC II
+T460	Chemical 20697 20704	peptide
+T461	Chemical 20764 20780	peptide residues
+T462	Chemical 20807 20819	glycopeptide
+T463	Chemical 20913 20920	glycans
+T464	Chemical 20974 20985	carbohydate
+T465	Chemical 20986 20993	haptens
+T466	Protein 21037 21040	TCR
+T467	Chemical 21081 21088	peptide
+T468	Chemical 21093 21105	glycopeptide
+T469	Chemical 21155 21168	glycopeptides
+T470	Chemical 21185 21191	glycan
+T471	Chemical 21312 21328	peptide residues
+T472	Chemical 21340 21353	carbohydrates
+T473	Protein 21374 21377	TCR
+T474	Chemical 21412 21425	glycopeptides
+T475	Biological_Activity 21432 21446	immunogenicity
+T476	Chemical 21487 21499	carbohydrate
+T477	Chemical 21506 21519	Glycopeptides
+T478	Chemical 21534 21547;21572 21588	disaccharides linked to serine
+T479	Chemical 21558 21588	carbohydrates linked to serine
+T480	Biological_Activity 21605 21619	immunogenicity
+T481	Chemical 21650 21662	carbohydrate
+T482	Protein 21672 21675	MAb
+T483	Chemical 21737 21743	GlcNAc
+T484	Chemical 21744 21759	monosaccharides
+T485	Chemical 21771 21779	peptides
+T486	Chemical 21785 21791	serine
+T487	Chemical 21855 21867;21879 21887	glycosylated peptides
+T488	Chemical 21879 21887	peptides
+T489	Chemical 21927 21940	glycopeptides
+T490	Chemical 22027 22053	GlcNAc-based glycopeptides
+T491	Chemical 22027 22033	GlcNAc
+T492	Chemical 22063 22078	monosaccharides
+T493	Chemical 22114 22121	peptide
+T494	Chemical 22151 22163	glycopeptide
+T495	Protein 22177 22180	TCR
+T496	Protein 22203 22205	Kb
+T497	Chemical 22207 22219	RGY8-6H-Gal2
+T498	Chemical 22267 22294	serine-linked disaccharides
+T499	Chemical 22306 22319	carbohydrates
+T500	Protein 22370 22373	MHC
+T501	Protein 22410 22413	TCR
+T502	Protein 22414 22417	MHC
+T503	Chemical 22473 22486	carbohydrates
+T504	Protein 22494 22497	TCR
+T505	Chemical 22519 22534	monosaccharides
+T506	Protein 22565 22568	TCR
+T507	Protein 22593 22596	MHC
+T508	Chemical 22657 22669	carbohydrate
+T509	Chemical 22720 22735	oligosaccharide
+T510	Chemical 22753 22765	homocysteine
+T511	Chemical 22790 22803	carbohydrates
+T512	Protein 22875 22878	MAb
+T513	Chemical 22896 22902	sugars
+T514	Chemical 22928 22940	carbohydrate
+T515	Protein 23028 23032	TCRs
+T516	Chemical 23041 23054	carbohydrates
+T517	Chemical 23100 23106	glycan
+T518	Protein 23149 23152	MHC
+T519	Protein 23227 23230	MHC
+T520	Chemical 23237 23245	peptides
+T521	Chemical 23262 23265	TNP
+T522	Chemical 23275 23281	lysine
+T523	Chemical 23262 23289	TNP-modified lysine residue
+T524	Chemical 23334 23337	TNP
+T525	Chemical 23365 23371	lysine
+T526	Chemical 23404 23433	homocysteine-linked galabiose
+T527	Chemical 23404 23416	homocysteine
+T528	Chemical 23424 23433	galabiose
+T529	Chemical 23491 23494	TNP
+T530	Chemical 23495 23503	epitopes
+T531	Chemical 23656 23666	TNP-lysine
+T532	Chemical 23698 23705	peptide
+T533	Chemical 23730 23733	TNP
+T534	Chemical 23811 23823	carbohydrate
+T535	Chemical 24139 24155	Oligosaccharides
+T536	Protein 24160 24162	Db
+T537	Chemical 24170 24179	Galabiose
+T538	Protein 24180 24182	Db
+T539	Chemical 24190 24203	glycopeptides
+T540	Chemical 24209 24221	homocysteine
+T541	Chemical 24229 24238	galabiose
+T542	Chemical 24209 24238	homocysteine linked galabiose
+T543	Biological_Activity 24267 24278	immunogenic
+T544	Protein 24284 24286	Kb
+T545	Chemical 24294 24307	glycopeptides
+T546	Chemical 24319 24331	homocysteine
+T547	Chemical 24339 24343	CD77
+T548	Chemical 24347 24357	GM3-lactam
+T549	Chemical 24384 24396	RGY8-6H-Gal2
+T550	Chemical 24457 24469	glycopeptide
+T551	Chemical 24490 24502	carbohydrate
+T552	Protein 24532 24535	MHC
+T553	Protein 24568 24570	Kb
+T554	Chemical 24572 24584	RGY8-6H-Gal2
+T555	Chemical 24602 24606	CD77
+T556	Chemical 24611 24621	GM3-lactam
+T557	Chemical 24638 24647	galabiose
+T558	Chemical 24655 24660	sugar
+T559	Protein 24692 24694	Db
+T560	Chemical 24704 24717	glycopeptides
+T561	Biological_Activity 24696 24703	binding
+T562	Chemical 24743 24750	peptide
+T563	Chemical 24806 24813	glycans
+T564	Protein 24929 24932	TCR
+T565	Chemical 24894 24901	Peptide
+T566	Chemical 24902 24909	antigen
+T567	Chemical 25034 25041	glycans
+T568	Chemical 25056 25069	carbohydrates
+T569	Protein 25141 25144	MHC
+T570	Protein 25233 25236	TCR
+T571	Protein 25245 25248	MHC
+T572	Protein 25137 25140	TCR
+T573	Chemical 25782 25789	binding
+T574	Chemical 25334 25347	glycopeptides
+T575	Chemical 25384 25394	Glycolipid
+T576	Protein 25399 25401	Kb
+T577	Chemical 25403 25415	RGY8-6H-Gal2
+T578	Protein 25500 25503	MHC
+T579	Chemical 25552 25564	carbohydrate
+T580	Chemical 25565 25572	haptens
+T581	Chemical 25641 25650	galabiose
+T582	Chemical 25662 25673	glycolipids
+T583	Protein 25757 25760	MHC
+T584	Chemical 25774 25781	antigen
+T585	Chemical 25887 25903	oligosaccharides
+T586	Chemical 25951 25958	peptide
+T587	Protein 25963 25966	MHC
+T588	Chemical 26026 26039	carbohydrates
+T589	Biological_Activity 26064 26071	binding
+T590	Chemical 26123 26128	HggP6
+T591	Chemical 26132 26144	RGY8-6H-Gal2
+T592	Chemical 26162 26168	glycan
+T593	Chemical 26332 26344	glycopeptide
+T594	Chemical 26366 26378	carbohydrate
+T595	Chemical 26445 26458	Glycopeptides
+T596	Protein 26525 26533	proteins
+T597	Protein 26476 26484;26525 26533	secreted proteins
+T598	Protein 26486 26498;26525 26533	cell surface proteins
+T599	Protein 26500 26507;26525 26533	nuclear proteins
+T600	Protein 26513 26533	cytoplasmic proteins
+T601	Chemical 26693 26701	epitopes
+T602	Protein 26730 26737	protein
+T603	Protein 26791 26794	MHC
+T604	Chemical 26803 26816	glycopeptides
+T605	Biological_Activity 27160 27174	immunogenicity
+T606	Chemical 27147 27159	glycopeptide
+T607	Chemical 27190 27203	carbohydrates
+T608	Chemical 27213 27226	disaccharides
+T609	Chemical 27205 27209;27215 27226	mono saccharides
+T610	Protein 25521 25524	TCR
+T611	Protein 25797 25800	TCR
+T612	Protein 26060 26063	TCR
+T613	Protein 26272 26275	TCR
+T614	Protein 27284 27287	TCR
+T615	Chemical 27288 27295	antigen
+T616	Protein 27435 27438	TCR
+T617	Chemical 27326 27339	carbohydrates
+T618	Chemical 27439 27446	antigen
+T619	Chemical 27479 27491	glycopeptide
+T620	Chemical 27496 27508	carbohydrate
+T621	Biological_Activity 27296 27303	binding
+R4	Binds_With Arg1:T618 Arg2:T616	
+T622	Chemical 27536 27546	Asparagine
+T623	Chemical 27554 27561	glycans
+T624	Chemical 27536 27561	Asparagine-linked glycans
+T625	Chemical 27569 27584	pentasaccharide
+T626	Chemical 27611 27623	carbohydrate
+T627	Chemical 27694 27707	glycopeptides
+T628	Chemical 27737 27749	carbohydrate
+T629	Protein 27782 27788	mucins
+T630	Chemical 27799 27823	O-linked glycoconjugates
+T631	Chemical 27875 27879;27886 27897	mono saccharides
+T632	Chemical 27884 27897	disaccharides
+T633	Chemical 27910 27916	serine
+T634	Chemical 27918 27927	threonine
+T635	Chemical 27929 27942	hydroxylysine
+T636	Chemical 27946 27954	tyrosine
+T637	Chemical 28046 28052	glycan
+T638	Chemical 28053 28061	antigens
+T639	Protein 28079 28085	mucins
+T640	Chemical 28104 28106;28121 28129	Tn epitopes
+T641	Chemical 28111 28129	sialyl Tn epitopes
+T642	Protein 28167 28198	HIV envelope glycoprotein gp120
+T643	Chemical 28282 28294	Carbohydrate
+T644	Chemical 28372 28379	antigen
+T645	Biological_Activity 28350 28361	immunogenic
+T646	Chemical 28425 28432	peptide
+T647	Protein 28546 28548	Ig
+T648	Protein 28555 28558	MHC
+T649	Chemical 28600 28612	glycopeptide
+T650	Biological_Activity 28663 28671	effector
+T651	Chemical 28725 28737	carbohydrate
+T652	Chemical 28738 28744	hapten
+T653	Chemical 28754 28761	peptide
+T654	Chemical 28794 28806	carbohydrate
+T655	Chemical 29032 29047	oligosaccharide
+T656	Chemical 29128 29141	Carbohydrates
+T657	Chemical 29143 29156	Glycopeptides
+T658	Chemical 29162 29173	Glycolipids
+T659	Chemical 29174 29183	Galabiose
+T660	Chemical 29185 29208	Gal-α(1,4)Gal-β or Gal2
+T661	Chemical 29212 29216	CD77
+T662	Chemical 29218 29243	Gal-α(1,4)Gal-β(1,4)Glc-β
+T663	Chemical 29246 29253	lactose
+T664	Chemical 29255 29271	Gal-β(1,4)-Glc-β
+T665	Chemical 29274 29277	GM3
+T666	Chemical 29278 29306	(NeuAc-α(3)-GalN-β(1,4)Glc-β
+T667	Chemical 29313 29323	GM3-lactam
+T668	Protein 29421 29442	Monoclonal antibodies
+T669	Chemical 29460 29473	carbohydrates
+T670	Chemical 29510 29523	carbohydrates
+T671	Chemical 29542 29554	glycopeptide
+T672	Chemical 29603 29616	Glycopeptides
+T673	Chemical 29621 29632	glycolipids
+T674	Protein 29665 29669	Kb  
+T675	Protein 29673 29675	Db
+T676	Biological_Activity 29677 29684	binding
+T677	Chemical 29695 29707	carbohydrate
+T678	Species 29898 29902	mice
+T679	Chemical 29915 29927	glycopeptide
+T680	Species 29890 29897	C57BL/6
+T681	Chemical 30145 30152	peptide
+T682	Chemical 30155 30167	glycopeptide
+T683	Chemical 30172 30182	glycolipid
+T684	Chemical 30205 30215	Glycolipid
+T685	Chemical 30323 30334	glycolipids
+T686	Protein 30449 30452	MAb
+T687	Protein 30538 30540	Kb
+T688	Chemical 30542 30554	Glycopeptide
+T689	Protein 30572 30577	H-2Kb
+T690	Chemical 30623 30635	RGY8-6H-Gal2
+T691	Protein 30749 30752	MHC
+T692	Chemical 30780 30787	peptide
+T693	Chemical 30825 30833	peptides
+T694	Protein 31037 31042	H-2Kb
+T695	Chemical 31053 31061	Na/K PO4
+T696	Chemical 31067 31091	2-methyl-2,4-pentanediol
+T697	Chemical 31259 31267	glycerol
+T698	Chemical 32188 32195	peptide
+T699	Chemical 32230 32242	glycopeptide
+T702	Chemical 32638 32645	peptide
+T700	Chemical 32994 33019	glycosylated homocysteine
+T701	Chemical 32947 32954	peptide
+T703	Chemical 33037 33042	HggP6
+T704	Chemical 33056 33061	HggP6
+T705	Chemical 33132 33144	homocysteine
+T706	Chemical 33149 33158	galactose
+T707	Chemical 33541 33546	water
+T708	Chemical 33604 33610	waters
+T709	Protein 33817 33822	H-2Kb
+T710	Chemical 33824 33836	glycopeptide
+T711	Protein 33871 33873	Kb
+T712	Chemical 33875 33882	peptide
+T713	Protein 33953 33958	H-2Db
+T714	Chemical 33960 33967	peptide
+T715	Protein 34006 34011	H-2Ld
+T716	Chemical 34013 34020	peptide
+T717	Protein 34059 34065	HLA-A2
+T718	Chemical 34079 34086	peptide
+T719	Species 34147 34150	HIV
+T720	Species 34066 34078	Influenza M1
+T721	Chemical 34159 34167	peptides
+T722	Protein 34177 34180	HLA
+T723	Chemical 34191 34194	B35
+T724	Chemical 34196 34199	B53
+T725	Chemical 34205 34207	B8
+T726	Chemical 34337 34348	polypeptide
+T727	Chemical 34578 34591	hydrogen bond

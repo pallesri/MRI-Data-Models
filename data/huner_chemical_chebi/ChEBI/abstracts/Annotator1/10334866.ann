@@ -1,0 +1,53 @@
+T1	Protein 0 18	Stachyose synthase
+T2	Protein 20 23	STS
+T3	Protein 26 37	EC 2.4.1.67
+T4	Species 82 88	lentil
+T5	Chemical 149 158	stachyose
+T6	Metabolite 149 158	stachyose
+R1	Isolated_From Arg1:T6 Arg2:T4	
+T7	Protein 183 190	protein
+T8	Protein 196 202	enzyme
+T9	Protein 219 226	protein
+T10	Protein 381 391	antibodies
+T11	Protein 407 410	STS
+T12	Species 416 427	adzuki bean
+T13	Species 437 443	lentil
+T14	Protein 444 450	enzyme
+T15	Protein 465 471	enzyme
+T17	Protein 562 565	STS
+T18	Chemical 576 585	raffinose
+T19	Chemical 588 598	galactinol
+T20	Metabolite 603 612	stachyose
+T21	Metabolite 615 627	myo-inositol
+T22	Metabolite 576 585	raffinose
+T23	Metabolite 588 598	galactinol
+T24	Protein 634 640	enzyme
+T25	Chemical 666 676	galactosyl
+T26	Chemical 691 701	galactinol
+T27	Chemical 705 714	d-pinitol
+T28	Chemical 716 744	1d-3-O-methyl-chiro-inositol
+T29	Chemical 756 772	galactopinitol A
+T30	Chemical 774 838	O-alpha-d-galactopyranosyl-(1 --> 2)-4-O-methyl-d-chiro-inositol
+T31	Chemical 844 856	myo-inositol
+T32	Chemical 858 874	Galactopinitol A
+T35	Protein 910 913	STS
+T36	Chemical 922 931	ciceritol
+T37	Chemical 933 1034	O-alpha-d-galactopyranosyl-(1 --> 6)-O-alpha-d-galactopyranosyl-(1 --> 2)-4-O-methyl-d-chiro-inositol
+T38	Chemical 1060 1076	galactopinitol A
+T39	Chemical 1081 1090	ciceritol
+T41	Protein 1271 1274	STS
+T40	Protein 1122 1125	STS
+T42	Chemical 1296 1316	galactosyl cyclitols
+T43	Chemical 1321 1337	oligosaccharides
+T44	Species 1341 1346	plant
+T46	Biological_Activity 1282 1292	metabolism
+T47	Chemical 1155 1171	galactopinitol A
+T48	Biological_Activity 1186 1194	acceptor
+R2	Associated_With Arg1:T47 Arg2:T48	
+T49	Biological_Activity 1219 1224	donor
+R3	Associated_With Arg1:T47 Arg2:T49	
+T50	Chemical 1233 1242	stachyose
+T51	Chemical 1248 1257	raffinose
+T52	Chemical 603 612	stachyose
+T53	Chemical 615 627	myo-inositol
+T16	Chemical 503 513	galactosyl

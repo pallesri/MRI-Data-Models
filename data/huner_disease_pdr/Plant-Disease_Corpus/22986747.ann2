@@ -1,0 +1,17 @@
+T1	Disease 266 294	airway damage to lung cancer
+T2	Disease 428 439	lung cancer
+T3	Disease 522 549	bronchial airway epithelium
+T4	Disease 965 991	non-small cell lung cancer
+T5	Disease 1103 1109	tumors
+T6	Disease 1208 1219	lung cancer
+T7	Disease 1278 1284	tumors
+T8	Disease 1390 1401	lung cancer
+T9	Disease 1676 1687	lung cancer
+T10	Plant 401 408	tobacco
+T11	Plant 608 615	tobacco
+T12	Plant 1597 1604	tobacco
+T13	Plant 1660 1667	tobacco
+T14	Cause_of_disease 385 395	associated
+E1	Cause_of_disease:T14 Cause:T10 Theme:T2
+T15	Cause_of_disease 1668 1675	related
+E2	Cause_of_disease:T15 Theme:T9 Cause:T13

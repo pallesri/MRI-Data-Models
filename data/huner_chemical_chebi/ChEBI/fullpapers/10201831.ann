@@ -1,0 +1,213 @@
+T1	Chemical 46 67	o~-galactosylceramide
+T2	Chemical 69 78	oc-GalCer
+T3	Chemical 80 89	galactose
+T4	Chemical 99 107	ceramide
+T5	Chemical 114 130	c~-configuration
+T6	Chemical 139 148	KRN7000  
+T7	Biological_Activity 173 190	immunostimulatory
+T8	Biological_Activity 195 204	antitumor
+R1	Associated_With Arg1:T6 Arg2:T7	
+R2	Associated_With Arg1:T6 Arg2:T8	
+T9	Chemical 219 226	KRN7000
+T10	Species 281 286	mouse
+T11	Species 291 296	human
+T12	Chemical 379 389	ct-GalCers
+T13	Chemical 405 413	ceramide
+T14	Chemical 444 458	hydroxyl group
+T15	Chemical 473 481	ceramide
+T16	Chemical 442 458	3 hydroxyl group
+T17	Chemical 460 464	3-OH
+T18	Biological_Activity 530 547	immunostimulatory
+T19	Chemical 568 578	0c-GalCers
+R3	Associated_With Arg1:T19 Arg2:T18	
+T20	Chemical 599 608	ot-GalCer
+T21	Chemical 623 627	3-OH
+T22	Chemical 946 953	KRN7000
+T23	Chemical 962 969	AGL-506
+T24	Chemical 1020 1040	c~-glycosylceramides
+T25	Species 1046 1060	marine sponges
+T26	Chemical 1118 1128	c~-GaICers
+T27	Chemical 1130 1157	monoglycosylated oc-GalCers
+T28	Chemical 1163 1180;1385 1392	diglycosylated ~- GalCers
+T29	Chemical 1435 1440;1446 1468	mono- glycosylated ~-GalCers
+T30	Chemical 1444 1468	diglycosylated ~-GalCers
+T31	Chemical 1480 1488	cGalCers
+T32	Biological_Activity 1505 1506	i
+R4	Associated_With Arg1:T30 Arg2:T32	
+R5	Associated_With Arg1:T29 Arg2:T32	
+R6	Associated_With Arg1:T31 Arg2:T32	
+T33	Chemical 1552 1557;1563 1586	mono- glycosylated t~-GalCers
+T34	Chemical 1561 1586	diglycosylated t~-GalCers
+T35	Chemical 1617 1641	3"-glycosylated ~-GalCer
+T36	Chemical 1702 1711	ct-GalCer
+T37	Biological_Activity 1657 1674	immunostimulatory
+R7	Associated_With Arg1:T36 Arg2:T37	
+R8	Associated_With Arg1:T35 Arg2:T37	
+T38	Chemical 1768 1792	3-glycosylated 0~-GalCer
+T39	Chemical 1854 1863	ct-GalCer
+T40	Biological_Activity 1809 1826	immunostimulatory
+R9	Associated_With Arg1:T38 Arg2:T40	
+R10	Associated_With Arg1:T39 Arg2:T40	
+T41	Chemical 1928 1955	3-galactosylated ct-GalCers
+T42	Chemical 2008 2015	AGL-506
+T43	Chemical 2045 2054	ot-GalCer
+T44	Species 2080 2086	murine
+T45	Chemical 2143 2150	AGL-529
+T46	Chemical 2152 2180	3[3-galactosylated t~-GalCer
+T47	Chemical 2189 2196	AGL-533
+T48	Chemical 2198 2226	3a-galactosylated o~- GalCer
+T49	Chemical 2271 2283	ceramide (5)
+T50	Chemical 2314 2326	ceramide (5)
+T51	Chemical 2355 2375	galactosyl donor (6)
+T52	Chemical 2518 2525	AGL-529
+T53	Chemical 2536 2543	AGL-533
+T54	Chemical 3572 3577	SnCI2
+T55	Chemical 3579 3585	AgCIO4
+T56	Chemical 3587 3591	MS4A
+T57	Chemical 3594 3597	THF
+T58	Chemical 3627 3629	H2
+T59	Chemical 3631 3639	Pd-black
+T60	Chemical 3642 3645	THF
+T61	Chemical 3667 3671	Ac2O
+T62	Chemical 3673 3677	Et3N
+T63	Chemical 3680 3686	CH2CI2
+T64	Chemical 3722 3727	NaOMe
+T65	Chemical 3729 3733	MeOH
+T66	Chemical 3957 3968	~-Gal-l-Cer
+T67	Chemical 3970 3977	AGL-517
+T68	Chemical 3987 3998	~-Gal-3-Cer
+T69	Chemical 4000 4007	AGL-553
+T70	Chemical 4062 4073	ceramide 11
+T71	Chemical 4105 4116	ceramide 11
+T72	Chemical 4308 4315	AGL-517
+T73	Chemical 4326 4334	AGL- 553
+T74	Chemical 5443 5448	SnCI2
+T75	Chemical 5450 5456	AgClO4
+T76	Chemical 5458 5462	MS4A
+T77	Chemical 5465 5468	THF
+T78	Chemical 5498 5502	Ac20
+T79	Chemical 5504 5508	Et3N
+T80	Chemical 5511 5517	CH2Cl2
+T81	Chemical 5554 5556	H2
+T82	Chemical 5558 5566	Pd-black
+T83	Chemical 5569 5572	THF
+T84	Chemical 5595 5600	NaOMe
+T85	Chemical 5602 5606	MeOH
+T86	Chemical 5672 5679	AGL-506
+T87	Chemical 5681 5690	tx-GalCer
+T88	Chemical 5696 5703	AGL-529
+T89	Chemical 5705 5732	313-galactosylated ~-GalCer
+T90	Chemical 5742 5749	AGL-533
+T91	Chemical 5751 5778	3c~-galactosylated a-GalCer
+T92	Species 5807 5812	mouse
+T93	Chemical 5848 5855	AGL-506
+T94	Biological_Activity 5955 5966	stimulatory
+R11	Associated_With Arg1:T93 Arg2:T94	
+T95	Chemical 6033 6040	AGL-529
+T96	Chemical 6172 6179	AGL-506
+T97	Chemical 6194 6203	o~-GalCer
+T98	Chemical 6218 6225	AGL-533
+T99	Chemical 6341 6348	AGL-533
+T100	Biological_Activity 6362 6380	irnmunostimulatory
+T101	Chemical 6395 6402	AGL-506
+R12	Associated_With Arg1:T99 Arg2:T100	
+R13	Associated_With Arg1:T101 Arg2:T100	
+T102	Chemical 6458 6476	glycosidic linkage
+T103	Chemical 6485 6496	galactose  
+T104	Chemical 6590 6598	ceramide
+T105	Chemical 6637 6646	ct-GalCer
+T106	Biological_Activity 6655 6672	immunostimulatory
+T107	Biological_Activity 6709 6726	immunostimulatory
+T108	Chemical 6737 6746	ct-GalCer
+R14	Associated_With Arg1:T108 Arg2:T107	
+T109	Chemical 6811 6818	AGL-506
+T110	Species 6824 6831	AGL-529
+T111	Chemical 6840 6847	AGL-533
+T112	Species 6876 6882	murine
+T113	Chemical 7616 7633	tritium-thymidine
+T114	Chemical 7635 7641	3H-TdR
+T115	Chemical 7693 7699	3H-TdR
+T116	Chemical 7855 7882	3tx-galactosylated ~-GalCer
+T117	Chemical 7884 7891	AGL-533
+T118	Biological_Activity 7909 7926	immunostimulatory
+R15	Associated_With Arg1:T116 Arg2:T118	
+R16	Associated_With Arg1:T117 Arg2:T118	
+T119	Chemical 7954 7962	~-GalCer
+T120	Chemical 7964 7971	AGL-506
+R17	Associated_With Arg1:T119 Arg2:T118	
+R18	Associated_With Arg1:T120 Arg2:T118	
+T121	Chemical 8026 8050	c~-galactosyl-3-ceramide
+T122	Chemical 8052 8064	~- Gal-3-Cer
+T123	Chemical 8066 8075	galactose
+T124	Chemical 8085 8093	ceramide
+T125	Chemical 8164 8178	ct- Gal-l-Cers
+T126	Chemical 8187 8194	KRN7000
+T127	Chemical 8199 8206	AGL-506
+T128	Chemical 8269 8279	c~-GalCers
+T129	Chemical 8300 8312	ct-Gal-l-Cer
+T130	Chemical 8314 8321	AGL-517
+T131	Chemical 8331 8343	ct-Gal-3-Cer
+T132	Chemical 8345 8352	AGL-553
+T133	Chemical 8415 8422	AGL-517
+T134	Chemical 8432 8439	AGL-553
+T135	Species 8448 8454	murine
+T136	Chemical 8638 8645	AGL-517
+T137	Chemical 8718 8725	AGL-553
+T138	Chemical 8984 8996	ct-Gal-l-Cer
+T139	Chemical 8998 9005	AGL-517
+T140	Chemical 9016 9028	ct-Gal-3-Cer
+T141	Chemical 9030 9037	AGL-553
+T142	Species 9068 9073	mouse
+T143	Chemical 9109 9116	AGL-517
+T144	Biological_Activity 9216 9227	stimulatory
+R19	Associated_With Arg1:T143 Arg2:T144	
+T145	Chemical 9298 9305	AGL-553
+T146	Chemical 9578 9588	cz-GalCers
+T147	Chemical 9578 9588;9599 9610	cz-GalCers derivatives
+T148	Species 9636 9650	marine sponges
+T149	Chemical 9715 9728	cz-Gal-l-Cers
+T150	Chemical 9715 9727;9739 9750	cz-Gal-l-Cer derivatives
+T151	Chemical 9780 9793	cx-Gal-3- Cer
+T152	Chemical 9844 9856	oc-Gal-3-Cer
+T153	Biological_Activity 9885 9902	immunostimulatory
+R20	Associated_With Arg1:T152 Arg2:T153	
+T154	Biological_Activity 9966 9973	binding
+T155	Chemical 9977 9986	galactose
+R21	Associated_With Arg1:T155 Arg2:T154	
+T156	Biological_Activity 10069 10086	immunostimulatory
+T157	Chemical 10099 10109	cz-GalCers
+R22	Associated_With Arg1:T157 Arg2:T156	
+T158	Chemical 10268 10277	KRN7000  
+T159	Species 10286 10292	murine
+T160	Species 10328 10333	human
+T161	Chemical 10502 10524	radiolabeled KRN700021
+T162	Chemical 10515 10524	KRN700021
+T163	Chemical 10529 10554	biotinylated o~-GalCers22
+T164	Species 10571 10576	mouse
+T165	Species 10585 10590	human
+T166	Chemical 10649 10658	cz-GalCer
+T167	Protein 10663 10667	CDld
+R23	Binds_With Arg1:T166 Arg2:T167	
+T168	Protein 10694 10699;10709 10724	Vc~14 T cell receptor
+T169	Protein 10703 10724	Vc~24 T cell receptor
+T170	Chemical 10820 10828	R-GalCer
+T171	Chemical 10833 10851	~-glucosylceramide
+T172	Chemical 10853 10862	o~-GlcCer
+T173	Chemical 10920 10928	3-GalCer
+T174	Chemical 10933 10941	~-GlcCer
+T175	Species 10992 10997	mouse
+T176	Protein 10998 11001	CD1
+T177	Protein 11128 11132	CDld
+T178	Chemical 11133 11142	o~-GalCer
+R24	Binds_With Arg1:T178 Arg2:T177	
+T179	Chemical 11215 11222	AGL-506
+T180	Chemical 11228 11235	AGL-529
+T181	Chemical 11241 11249	AGL- 533
+T182	Chemical 11255 11262	AGL-517
+T183	Chemical 11272 11279	AGL-553
+T184	Protein 11326 11330	CDld
+T185	Chemical 11331 11340	cz-GalCer
+R25	Binds_With Arg1:T185 Arg2:T184	
+T186	Protein 11415 11429	CDId molecules
+T187	Chemical 11431 11439	R-GalCer
+T188	Protein 11444 11459	T cell receptor

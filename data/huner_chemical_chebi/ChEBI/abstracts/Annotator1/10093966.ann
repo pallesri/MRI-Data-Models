@@ -1,0 +1,64 @@
+T1	Protein 30 40	fibrinogen
+T2	Protein 79 85	fibrin
+T3	Protein 273 283	fibrinogen
+T4	Chemical 393 399	pectin
+#1	AnnotatorNotes T4	A biopolymer (but not a protein)
+T5	Protein 411 417	fibrin
+T6	Protein 499 509	fibrinogen
+T7	Chemical 736 743	acetate
+T8	Chemical 745 755	propionate
+T9	Chemical 761 769	butyrate
+T10	Metabolite 736 743	acetate
+T11	Metabolite 745 755	propionate
+T12	Metabolite 761 769	butyrate
+T13	Species 774 780	humans
+T14	Chemical 787 794	acetate
+T15	Metabolite 787 794	acetate
+T16	Chemical 896 902	pectin
+T17	Chemical 682 688	Pectin
+T18	Metabolite 916 923	acetate
+T19	Chemical 916 923	acetate
+T20	Protein 935 941	fibrin
+T21	Chemical 987 993	pectin
+T22	Chemical 998 1005	acetate
+T23	Biological_Activity 1025 1046	hypercholesterolaemic
+T24	Chemical 1153 1160	acetate
+T25	Metabolite 1153 1160	acetate
+T26	Protein 1164 1170	fibrin
+T27	Biological_Activity 1215 1230	hyperlipidaemic
+T28	Species 1231 1241	volunteers
+#2	AnnotatorNotes T28	implies human
+T29	Chemical 1258 1264	pectin
+T30	Chemical 1279 1286	acetate
+T32	Chemical 1324 1331	Acetate
+T31	Protein 1393 1403	fibrinogen
+T33	Chemical 1422 1428	pectin
+T34	Protein 1497 1503	fibrin
+T35	Chemical 1550 1557	acetate
+T37	Chemical 1828 1834	pectin
+T38	Chemical 1890 1897	acetate
+T39	Metabolite 1922 1929	acetate
+T40	Metabolite 1985 1992	acetate
+T41	Protein 2051 2057	fibrin
+T42	Metabolite 2124 2131	acetate
+T44	Chemical 2230 2237	acetate
+T45	Chemical 2295 2301	pectin
+T46	Chemical 2346 2352	pectin
+T47	Chemical 2356 2363	acetate
+T48	Chemical 2508 2519	cholesterol
+T49	Protein 2545 2555	fibrinogen
+T50	Species 464 467	men
+T51	Biological_Activity 442 463	hypercholesterolaemic
+R2	Isolated_From Arg1:T15 Arg2:T13	
+R3	Metabolite_Of Arg1:T10 Arg2:T17	
+R4	Metabolite_Of Arg1:T11 Arg2:T17	
+R5	Metabolite_Of Arg1:T12 Arg2:T17	
+T52	Metabolite 998 1005	acetate
+T53	Metabolite 1324 1331	Acetate
+T54	Metabolite 1890 1897	acetate
+T55	Chemical 1922 1929	acetate
+T56	Chemical 2124 2131	acetate
+T57	Chemical 1985 1992	acetate
+T58	Metabolite 2356 2363	acetate
+T59	Protein 1575 1581	Fibrin
+T36	Protein 2143 2149	fibrin

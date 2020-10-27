@@ -1,0 +1,49 @@
+T1	Chemical 61 66;77 86	R(+)- ketorolac
+T2	Chemical 71 76;77 86	S(-)- ketorolac
+T3	Species 90 98	children
+T4	Species 109 117	Children
+T5	Chemical 160 177	racemic ketorolac
+T6	Chemical 168 177	ketorolac
+T7	Chemical 287 304	Racemic ketorolac
+T8	Chemical 295 304	ketorolac
+T10	Chemical 352 373	para-hydroxyketorolac
+T11	Metabolite 352 373	para-hydroxyketorolac
+T12	Chemical 379 400	ketorolac glucuronide
+T13	Metabolite 379 400	ketorolac glucuronide
+T14	Chemical 433 438;448 457	S(-)- ketorolac
+T15	Chemical 443 457	R(+)-ketorolac
+T16	Chemical 483 488;512 533	S(-)- ketorolac glucuronide
+T17	Chemical 483 488;498 507	S(-)- ketorolac
+T18	Chemical 493 507	R(+)-ketorolac
+T19	Chemical 493 498;512 533	R(+)- ketorolac glucuronide
+T20	Chemical 713 730	racemic ketorolac
+T21	Species 734 742	children
+T22	Species 795 801	adults
+T23	Chemical 820 835	S(-) enantiomer
+T24	Chemical 860 875	R(+) enantiomer
+T25	Chemical 899 913	S(-)-ketorolac
+T26	Chemical 935 950	R(+) enantiomer
+T27	Chemical 999 1014	S(-) enantiomer
+T28	Chemical 1044 1053	R(+) form
+T29	Chemical 1067 1093	S(-)-ketorolac glucuronide
+T30	Chemical 1120 1135	R(+) enantiomer
+T31	Chemical 1224 1233	ketorolac
+T32	Metabolite 1067 1093	S(-)-ketorolac glucuronide
+R5	Metabolite_Of Arg1:T32 Arg2:T20	
+T33	Metabolite 1120 1135	R(+) enantiomer
+R6	Isolated_From Arg1:T25 Arg2:T21	
+R7	Metabolite_Of Arg1:T33 Arg2:T20	
+R8	Isolated_From Arg1:T33 Arg2:T21	
+T34	Species 1326 1332	adults
+T35	Chemical 1392 1406	S(-)-ketorolac
+T36	Protein 1601 1608	protein
+T38	Chemical 1651 1666	S(-) enantiomer
+T39	Biological_Activity 1697 1707	metabolism
+T40	Chemical 333 350	racemic ketorolac
+T9	Chemical 341 350	ketorolac
+R3	Isolated_From Arg1:T11 Arg2:T4	
+R4	Isolated_From Arg1:T13 Arg2:T4	
+R1	Metabolite_Of Arg1:T11 Arg2:T9	
+R2	Metabolite_Of Arg1:T13 Arg2:T9	
+T41	Biological_Activity 47 57	metabolism
+T42	Species 1173 1181	children

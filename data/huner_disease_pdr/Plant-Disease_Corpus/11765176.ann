@@ -1,0 +1,28 @@
+T1	Disease 54 60	cancer
+T2	Disease 156 162	cancer
+T3	Disease 227 233	cancer
+T4	Disease 353 362	neoplasms
+T5	Disease 673 684	lung cancer
+T6	Disease 799 813	avoided deaths
+T7	Disease 819 841	decline in lung cancer
+T8	Disease 908 938	absolute number of lung cancer
+T9	Disease 1104 1115	lung cancer
+T10	Disease 1143 1160	Intestinal cancer
+T11	Disease 1265 1278	breast cancer
+T12	Disease 1296 1305	neoplasms
+T13	Disease 1365 1374	neoplasms
+T14	Disease 1483 1492	lymphomas
+T15	Disease 1519 1525	cancer
+T16	Disease 1638 1647	neoplasms
+T17	Disease 1705 1730	uterine (cervical) cancer
+T18	Disease 1789 1802	breast cancer
+T19	Disease 1840 1855	rarer neoplasms
+T20	Plant 1088 1095	tobacco
+T21	Plant 1349 1356	tobacco
+T22	Plant 1622 1629	tobacco
+T23	Cause_of_disease 1357 1364	related
+E1	Cause_of_disease:T23 Theme:T13 Cause:T21
+T24	Cause_of_disease 1630 1637	related
+E2	Cause_of_disease:T24 Theme:T16 Cause:T22
+T25	Cause_of_disease 1096 1103	related
+E3	Cause_of_disease:T25 Theme:T9 Cause:T20

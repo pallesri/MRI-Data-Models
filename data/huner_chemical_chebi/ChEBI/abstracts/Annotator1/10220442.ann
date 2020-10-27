@@ -1,0 +1,56 @@
+T2	Protein 122 125	IgG
+T3	Chemical 133 158	O-specific polysaccharide
+T4	Species 177 185	Shigella
+T5	Chemical 161 165	O-SP
+T6	Chemical 186 204	lipopolysaccharide
+T7	Chemical 206 209	LPS
+T8	Chemical 233 237	O-SP
+T9	Biological_Activity 244 250	hapten
+R1	Associated_With Arg1:T8 Arg2:T9	
+T10	Protein 279 286	protein
+T11	Biological_Activity 290 296	induce
+T12	Protein 303 313	antibodies
+T13	Chemical 319 323	O-SP
+T14	Species 327 354	Shigella dysenteriae type 1
+T15	Chemical 373 388	tetrasaccharide
+T16	Chemical 416 420	acid
+T17	Chemical 439 442	LPS
+T18	Protein 457 476	human serum albumin
+T19	Protein 478 481	HSA
+T20	Chemical 513 517	O-SP
+T21	Protein 518 521	HSA
+T22	Protein 543 546	HSA
+T23	Chemical 550 554	O-SP
+T24	Chemical 574 585	saccharides
+T25	Chemical 623 643	O-SP tetrasaccharide
+T26	Protein 706 709	HSA
+T27	Chemical 772 783	saccharides
+T28	Protein 787 790	HSA
+T29	Protein 818 830	IgG anti-LPS
+T30	Chemical 827 830	LPS
+T31	Species 844 848	mice
+T32	Chemical 852 856	O-SP
+T33	Protein 857 860	HSA
+T34	Chemical 874 879;911 921	tetra saccharide
+T35	Chemical 882 886;911 921	octa saccharide
+T36	Chemical 890 896;911 921	dodeca saccharide
+T37	Chemical 903 921	hexadecasaccharide
+T38	Species 982 986	mice
+T39	Chemical 1064 1074	saccharide
+T40	Chemical 1080 1089	conjugate
+T41	Chemical 1164 1172	tetramer
+T42	Chemical 1174 1191;1201 1210	conjugates of the dodecamer
+T43	Chemical 1174 1199	conjugates of the octamer
+T44	Chemical 1174 1191;1215 1226	conjugates of the hexadecamer
+T45	Chemical 1240 1243	LPS
+T46	Protein 1236 1254	IgG LPS antibodies
+T47	Chemical 1399 1403	O-SP
+T48	Protein 1404 1407	HSA
+T49	Chemical 1468 1471	LPS
+T50	Protein 1459 1471	IgG anti-LPS
+T51	Chemical 1493 1504	hexadecamer
+T52	Chemical 1533 1543	saccharide
+T53	Protein 1544 1547	HSA
+T54	Chemical 1583 1590	octamer
+T55	Chemical 1633 1642	dodecamer
+T56	Chemical 1718 1729	saccharides

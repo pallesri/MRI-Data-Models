@@ -1,0 +1,20 @@
+T1	Disease 89 104	skin papillomas
+T2	Disease 302 307	tumor
+T3	Disease 342 347	tumor
+T4	Disease 382 387	tumor
+T5	Disease 462 467	tumor
+T6	Disease 750 755	tumor
+T7	Disease 1023 1028	tumor
+T8	Disease 1307 1322	skin papillomas
+T9	Plant 136 145	green tea
+T10	Plant 197 206	green tea
+T11	Plant 553 562	green tea
+T12	Plant 566 575	green tea
+T13	Plant 840 849	green tea
+T14	Plant 899 908	green tea
+T15	Plant 1097 1106	green tea
+T16	Plant 1133 1142	green tea
+T17	Treatment_of_disease 1219 1228	inhibited
+E1	Treatment_of_disease:T17 Cause:T15 Theme:T8 Cause2:T16
+T18	Treatment_of_disease 767 775	occurred
+E2	Treatment_of_disease:T18 Theme:T6 Cause:T13

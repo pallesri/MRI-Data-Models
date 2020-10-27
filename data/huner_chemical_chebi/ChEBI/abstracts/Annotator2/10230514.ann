@@ -1,0 +1,31 @@
+T1	Species 46 67	Anthriscus sylvestris
+T2	Biological_Activity 123 132	cytotoxic
+T3	Chemical 144 164	deoxypodophyllotoxin
+T4	Metabolite 144 164	deoxypodophyllotoxin
+T5	Chemical 170 181	falcarindio
+T6	Metabolite 170 182	falcarindiol
+T7	Chemical 192 216	angeloyl podophyllotoxin
+T8	Metabolite 192 216	angeloyl podophyllotoxin
+T9	Chemical 230 236	hexane
+T10	Chemical 258 268	morelensin
+T11	Metabolite 258 268	morelensin
+T12	Chemical 274 285	bursehernin
+T13	Metabolite 274 285	bursehernin
+T14	Chemical 299 309	chloroform
+T15	Chemical 372 382	compound 5
+T16	Metabolite 372 382	compound 5
+R1	Isolated_From Arg1:T4 Arg2:T1	
+R2	Isolated_From Arg1:T6 Arg2:T1	
+R3	Isolated_From Arg1:T8 Arg2:T1	
+R4	Isolated_From Arg1:T11 Arg2:T1	
+R5	Isolated_From Arg1:T13 Arg2:T1	
+R6	Associated_With Arg1:T4 Arg2:T2	
+R7	Associated_With Arg1:T3 Arg2:T2	
+R8	Associated_With Arg1:T6 Arg2:T2	
+R9	Associated_With Arg1:T5 Arg2:T2	
+R10	Associated_With Arg1:T8 Arg2:T2	
+R11	Associated_With Arg1:T7 Arg2:T2	
+R12	Associated_With Arg1:T11 Arg2:T2	
+R13	Associated_With Arg1:T10 Arg2:T2	
+R14	Associated_With Arg1:T13 Arg2:T2	
+R15	Associated_With Arg1:T12 Arg2:T2	

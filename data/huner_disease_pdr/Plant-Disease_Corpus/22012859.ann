@@ -1,0 +1,10 @@
+T1	Disease 275 288	breast cancer
+T2	Disease 1147 1160	breast cancer
+T3	Disease 1370 1375	tumor
+T4	Disease 1787 1800	breast cancer
+T5	Plant 179 187	broccoli
+T7	Plant 189 196	cabbage
+T8	Plant 202 218	Brussels sprouts
+T6	Plant 148 170	cruciferous vegetables
+T9	Treatment_of_disease 224 231	induces
+E1	Treatment_of_disease:T9 Theme:T1 Cause:T8 Cause2:T7 Cause3:T5 Cause4:T6

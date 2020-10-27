@@ -1,0 +1,10 @@
+T1	Disease 33 52	periodontal disease	D010510
+T2	Disease 450 463	periodontitis	D010510
+T3	Disease 475 485	tooth loss	D016388
+T4	Disease 490 500	edentulism	D007575
+T5	Disease 580 599	periodontal disease	D010510
+T6	Disease 867 899	inflammatory periodontal disease	D010510
+T7	Plant 369 376	tobacco	4097
+T8	Plant 519 526	tobacco	4097
+T9	Cause_of_disease 505 515	influenced
+E1	Cause_of_disease:T9 Cause:T8 Theme:T4 Theme2:T3 Theme3:T2

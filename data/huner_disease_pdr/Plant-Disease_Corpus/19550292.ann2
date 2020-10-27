@@ -1,0 +1,14 @@
+T1	Disease 58 74	various diseases
+T2	Disease 190 196	cancer
+T3	Disease 368 374	cancer
+T4	Disease 463 475	osteosarcoma
+T5	Disease 667 679	osteosarcoma
+T6	Disease 788 800	osteosarcoma
+T7	Disease 2045 2050	tumor
+T9	Plant 0 6	Garlic
+T11	Plant 117 123	garlic
+T13	Plant 243 249	garlic
+T8	Treatment_of_disease 20 24	used
+E1	Treatment_of_disease:T8 Cause:T9 Theme:T1
+T10	Treatment_of_disease 148 154	reduce
+E2	Treatment_of_disease:T10 Cause:T11 Theme:T2

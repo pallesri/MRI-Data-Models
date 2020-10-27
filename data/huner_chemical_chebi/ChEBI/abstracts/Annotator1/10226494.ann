@@ -1,0 +1,23 @@
+T1	Chemical 0 5	Ozone
+T2	Chemical 6 12	oxygen
+T3	Chemical 22 27	ozone
+T7	Chemical 306 311	ozone
+T8	Chemical 312 318	oxygen
+T11	Chemical 0 20	Ozone-oxygen mixture
+T12	Chemical 306 318	ozone-oxygen
+T13	Protein 453 468	myeloperoxidase
+T16	Biological_Activity 517 529	bactericidal
+R4	Associated_With Arg1:T12 Arg2:T16	
+T17	Biological_Activity 649 665	antiinflammatory
+T18	Chemical 676 681	ozone
+R5	Associated_With Arg1:T18 Arg2:T17	
+T19	Biological_Activity 714 726	bactericidal
+R6	Associated_With Arg1:T18 Arg2:T19	
+T20	Biological_Activity 751 762	antihypoxic
+T21	Biological_Activity 767 783	immunomodulating
+R7	Associated_With Arg1:T18 Arg2:T20	
+R8	Associated_With Arg1:T18 Arg2:T21	
+T22	Species 433 441	patients
+T23	Species 629 637	bacteria
+T24	Chemical 599 609	antibiotic
+T25	Biological_Activity 599 609	antibiotic

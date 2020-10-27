@@ -1,0 +1,26 @@
+T1	Disease 0 23	Atrial tachyarrhythmias
+T3	Disease 132 160	subsidiary atrial pacemakers
+T4	Disease 162 165	SAP
+T5	Disease 252 275	ventricular arrhythmias
+T6	Disease 308 326	atrial arrhythmias
+T7	Disease 459 462	SAP
+T8	Disease 554 577	atrial tachyarrhythmias
+T9	Disease 640 643	SAP
+T10	Disease 679 702	atrial tachyarrhythmias
+T11	Disease 1033 1036	SAP
+T12	Disease 1137 1140	SAP
+T13	Disease 1234 1237	SAP
+T14	Plant 54 63	digitalis
+T15	Plant 234 243	digitalis
+T16	Plant 291 300	digitalis
+T17	Plant 537 546	digitalis
+T18	Plant 662 671	digitalis
+T2	Cause_of_disease 244 251	induced
+E1	Cause_of_disease:T2 Theme:T5 Cause:T15
+*	Equiv T3 T4
+T19	Cause_of_disease 672 678	caused
+E2	Cause_of_disease:T19 Theme:T10 Cause:T18
+T20	Cause_of_disease 301 307	caused
+E3	Cause_of_disease:T20 Theme:T6 Cause:T16
+T21	Cause_of_disease 547 553	caused
+E4	Cause_of_disease:T21 Cause:T17 Theme:T8

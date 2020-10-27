@@ -1,0 +1,56 @@
+T1	Chemical 23 61	5'-N-substituted carboxamidoadenosines
+T2	Species 184 187	rat
+T3	Protein 188 190;199 208	A1 receptors
+T4	Protein 195 208	A2A receptors
+T5	Species 213 218	human
+T6	Protein 219 231	A3 receptors
+T7	Chemical 265 275	cyclic AMP
+T9	Species 311 316	human
+T10	Protein 317 330	A2B receptors
+T12	Chemical 394 405	carboxamido
+T18	Protein 447 458	A3 receptor
+T19	Chemical 848 875	Thiocarboxamido derivatives
+T20	Chemical 560 590	5'-N-ethylcarboxamidoadenosine
+T21	Chemical 592 596	NECA
+T22	Protein 516 528	A1 receptors
+T24	Chemical 616 619	GTP
+T25	Protein 691 702	A1 receptor
+T27	Chemical 481 489;492 494	analogue 1a
+T28	Chemical 481 489;496 498	analogue 1d
+T29	Chemical 481 489;500 502	analogue 1h
+T30	Chemical 481 489;508 510	analogue 1k
+T31	Chemical 598 600	1b
+T32	Chemical 848 874;877 879	Thiocarboxamido derivative 8b
+T33	Chemical 848 874;884 886	Thiocarboxamido derivative 8c
+T35	Protein 711 723	A2B receptor
+T37	Chemical 725 741	derivatives 1i-k
+T38	Chemical 756 774	ethyl substituents
+T39	Biological_Activity 829 836	agonist
+T40	Protein 815 818	A2B
+T42	Chemical 837 841	NECA
+T43	Chemical 843 845	1b
+R13	Associated_With Arg1:T42 Arg2:T39	
+R16	Associated_With Arg1:T43 Arg2:T39	
+T45	Protein 930 942	A2B receptor
+T47	Spectral_Data 957 986	X-ray structure determination
+T48	Chemical 990 1001	compound 8b
+R21	Associated_With Arg1:T48 Arg2:T47	
+T49	Chemical 1070 1084	carboxamido NH
+T50	Chemical 1093 1102	purine N3
+T51	Chemical 1133 1139	ribose
+T52	Chemical 1237 1241	NECA
+T53	Chemical 1243 1245	1b
+T54	Chemical 1261 1263	8b
+T55	Protein 1388 1396	receptor
+R1	Binds_With Arg1:T1 Arg2:T3	
+R2	Binds_With Arg1:T1 Arg2:T4	
+R3	Binds_With Arg1:T1 Arg2:T6	
+R4	Binds_With Arg1:T1 Arg2:T10	
+R5	Binds_With Arg1:T27 Arg2:T18	
+R6	Binds_With Arg1:T28 Arg2:T18	
+R7	Binds_With Arg1:T29 Arg2:T18	
+R8	Binds_With Arg1:T30 Arg2:T18	
+R9	Binds_With Arg1:T42 Arg2:T40	
+R10	Binds_With Arg1:T43 Arg2:T40	
+R11	Binds_With Arg1:T33 Arg2:T45	
+R12	Binds_With Arg1:T32 Arg2:T45	

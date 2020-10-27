@@ -1,0 +1,32 @@
+T1	Species 32 36	rats
+T2	Chemical 126 144	4-14C-progesterone
+T3	Chemical 132 144	progesterone
+T4	Chemical 156 162	saline
+T5	Metabolite 243 271	14C-progesterone metabolites
+T6	Chemical 243 271	14C-progesterone metabolites
+T7	Metabolite 349 360	metabolites
+T8	Chemical 349 360	metabolites
+T9	Chemical 456 478	11-deoxycorticosterone
+T10	Metabolite 456 478	11-deoxycorticosterone
+T11	Metabolite 480 513	18-hydroxy-11-deoxycorticosterone
+T12	Chemical 480 513	18-hydroxy-11-deoxycorticosterone
+T13	Chemical 515 529	corticosterone
+T14	Metabolite 515 529	corticosterone
+T15	Chemical 534 560	11beta-hydroxyprogesterone
+T16	Metabolite 534 560	11beta-hydroxyprogesterone
+R1	Isolated_From Arg1:T10 Arg2:T1	
+R2	Isolated_From Arg1:T11 Arg2:T1	
+R3	Isolated_From Arg1:T14 Arg2:T1	
+R4	Isolated_From Arg1:T16 Arg2:T1	
+R5	Metabolite_Of Arg1:T10 Arg2:T3	
+R6	Metabolite_Of Arg1:T11 Arg2:T3	
+R7	Metabolite_Of Arg1:T14 Arg2:T3	
+R8	Metabolite_Of Arg1:T16 Arg2:T3	
+T17	Chemical 750 760	corticoids
+T18	Chemical 832 840	steroids
+T19	Chemical 899 907	steroids
+T20	Chemical 1045 1055	corticoids
+T21	Metabolite 899 907	steroids
+T22	Metabolite 1045 1055	corticoids
+T23	Metabolite 832 840	steroids
+T24	Metabolite 750 760	corticoids

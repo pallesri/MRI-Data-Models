@@ -1,0 +1,30 @@
+T1	Disease 126 146	rheumatoid arthritis
+T2	Disease 148 150	RA
+T3	Disease 522 524	RA
+T4	Disease 849 860	incident RA
+T5	Disease 1106 1108	RA
+T6	Disease 1646 1657	incident RA
+T7	Disease 1972 1974	RA
+T8	Disease 2070 2072	RA
+T10	Disease 2218 2220	RA
+T11	Disease 2383 2385	RA
+T12	Plant 79 85	coffee
+T15	Plant 103 109	coffee
+T17	Plant 409 415	coffee
+T19	Plant 431 437	coffee
+T21	Plant 445 451	coffee
+T23	Plant 1535 1541	coffee
+T24	Plant 1603 1609	coffee
+T27	Plant 1836 1842	coffee
+T28	Plant 1949 1955	coffee
+T32	Plant 2318 2324	coffee
+T34	Plant 2340 2346	coffee
+T13	Cause_of_disease 118 122	risk
+E1	Cause_of_disease:T13 Theme:T1 Cause:T15 Cause2:T12
+*	Equiv T1 T2
+T14	Plant 453 456	tea
+T9	Plant 2138 2144	coffee
+T16	Cause_of_disease 514 518	risk
+E2	Cause_of_disease:T16 Theme:T3 Cause:T14 Cause2:T21 Cause3:T19 Cause4:T17
+T18	Cause_of_disease 2375 2379	risk
+E3	Cause_of_disease:T18 Theme:T11 Cause:T34 Cause2:T32

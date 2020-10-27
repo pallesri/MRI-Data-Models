@@ -1,0 +1,169 @@
+T1	Chemical 17 101	[3 H  ] {1-[2-(diphenylmethoxy)ethyl]-4-(3-phenylpropyl) piperazine dihydrochloride}
+T2	Chemical 103 119	[3 H  ]GBR 12935
+T3	Chemical 141 149	dopamine
+T4	Chemical 232 248	[3 H  ]GBR 12935
+T5	Protein 268 292	piperazine acceptor site
+T6	Chemical 360 382	piperazine derivatives
+T7	Chemical 391 403	flupenthixol
+T8	Chemical 408 418	piflutixol
+T9	Species 446 451	human
+T10	Protein 192 221	dopaminergic neuron terminals
+T11	Chemical 487 503	[3 H  ]GBR 12935
+T12	Protein 576 600	piperazine acceptor site
+R1	Binds_With Arg1:T11 Arg2:T12	
+T13	Protein 683 707	piperazine acceptor site
+T14	Protein 802 819	cytochrome P -450
+T15	Protein 821 827	CYP450
+T16	Species 840 846	canine
+T17	Protein 857 881	piperazine acceptor site
+T18	Protein 905 914	CYP4502D1
+T19	Species 937 942	human
+T20	Protein 943 952	CYP4502D6
+T21	Species 1007 1012	human
+T22	Protein 1046 1070	piperazine acceptor site
+T23	Protein 1075 1084	CYP4502D6
+T24	Species 1134 1139	human
+T25	Chemical 1190 1206	[3 H  ]GBR 12935
+T26	Chemical 1313 1329	[3 H  ]GBR 12935
+T27	Biological_Activity 1267 1276	inhibited
+T28	Biological_Activity 1255 1262	binding
+T29	Biological_Activity 1299 1309	inhibitors
+T30	Biological_Activity 1330 1337	binding
+T31	Protein 1341 1350	CYP4502D6
+T32	Biological_Activity 1392 1399	binding
+T33	Protein 1441 1450	CYP4502D6
+T34	Species 1482 1488	humans
+T35	Protein 1490 1499	CYP4502D6
+T36	Protein 1501 1527	debrisoquine-4-hydroxylase
+T37	Protein 1572 1578	enzyme
+T38	Biological_Activity 1602 1612	metabolism
+T39	Chemical 1639 1644	drugs
+T40	Biological_Activity 1654 1669	antidepressants
+T41	Biological_Activity 1671 1683	neuroleptics
+T42	Biological_Activity 1688 1703	antiarrhythmics
+T43	Protein 1709 1718	CYP4502D6
+T44	Species 1728 1733	human
+T45	Species 1985 1995	Caucasians
+T46	Chemical 2053 2058	drugs
+T47	Chemical 2150 2166	[3 H  ]GBR 12935
+T48	Protein 2200 2209	CYP4502D6
+T49	Biological_Activity 2167 2174	binding
+T50	Biological_Activity 476 483	binding
+R2	Associated_With Arg1:T11 Arg2:T50	
+T51	Biological_Activity 560 567	binding
+T52	Biological_Activity 1207 1214	binding
+R3	Associated_With Arg1:T25 Arg2:T52	
+R4	Associated_With Arg1:T26 Arg2:T30	
+R5	Binds_With Arg1:T26 Arg2:T31	
+R6	Associated_With Arg1:T47 Arg2:T49	
+T53	Biological_Activity 2246 2253	binding
+T54	Protein 2288 2297	CYP4502D6
+T55	Species 2715 2725	volunteers
+T56	Protein 2757 2766	CYP4502D6
+T57	Chemical 2806 2822	dextromethorphan
+T58	Species 2856 2859	men
+T59	Species 2866 2871	women
+T60	Chemical 2894 2910	dextromethorphan
+T61	Chemical 2965 2981	dextromethorphan
+T62	Chemical 2801 2805	drug
+T63	Species 3228 3231	men
+T64	Species 3292 3297	women
+T65	Protein 3662 3671	CYP4502D6
+T66	Chemical 3706 3735	dextromethorphan hydrobromide
+T67	Chemical 3815 3831	Dextromethorphan
+T68	Chemical 3815 3831;3840 3866	Dextromethorphan O -demethylated metabolite
+T69	Metabolite 3815 3831;3840 3866	Dextromethorphan O -demethylated metabolite
+R7	Metabolite_Of Arg1:T69 Arg2:T67	
+T70	Chemical 3867 3878	dextrorphan
+T71	Metabolite 3867 3878	dextrorphan
+R8	Metabolite_Of Arg1:T71 Arg2:T67	
+T72	Chemical 3977 3993	Dextromethorphan
+T73	Chemical 3994 4005	dextrorphan
+T74	Metabolite 3994 4005	dextrorphan
+T75	Protein 4031 4040	CYP4502D6
+T76	Protein 4093 4102	CYP4502D6
+T77	Chemical 4441 4449	Tris·HCl
+T78	Chemical 4458 4462	NaCl
+T79	Chemical 4469 4472	KCl
+T80	Chemical 4421 4433	Assay buffer
+T81	Chemical 4616 4628	assay buffer
+T82	Chemical 4728 4740	assay buffer
+T83	Chemical 4985 4997	assay buffer
+T84	Chemical 5133 5145	assay buffer
+T85	Protein 5162 5169	protein
+T86	Protein 5194 5201	protein
+T87	Chemical 5251 5267	[3 H  ]GBR 12935
+T88	Chemical 5343 5365	cis -(Z )-Flupenthixol
+T89	Chemical 5433 5448	[3 H ]GBR 12935
+T90	Biological_Activity 5449 5456	binding
+R9	Associated_With Arg1:T89 Arg2:T90	
+T91	Chemical 5472 5488	[3 H  ]GBR 12935
+T92	Biological_Activity 5461 5468	binding
+R10	Associated_With Arg1:T91 Arg2:T92	
+T93	Chemical 5624 5635	radioligand
+T94	Chemical 5658 5662	drug
+T95	Chemical 5666 5672	buffer
+T96	Chemical 5685 5697	assay buffer
+T97	Chemical 5705 5713	Tris·HCl
+T98	Chemical 5722 5726	NaCl
+T99	Protein 5734 5754	bovine serum albumin
+T100	Chemical 5787 5803	[3 H  ]GBR 12935
+T101	Chemical 5917 5929	assay buffer
+T102	Chemical 6120 6126	buffer
+T103	Chemical 6207 6223	[3 H  ]GBR 12935
+T104	Protein 6239 6263	piperazine acceptor site
+T105	Chemical 6302 6318	[3 H  ]GBR 12935
+T106	Biological_Activity 6224 6231	binding
+R11	Associated_With Arg1:T103 Arg2:T106	
+R12	Binds_With Arg1:T103 Arg2:T104	
+T107	Biological_Activity 6319 6326	binding
+R13	Associated_With Arg1:T105 Arg2:T107	
+T108	Chemical 6365 6382	cis -flupenthixol
+T109	Protein 6411 6418	Protein
+T110	Protein 6839 6846	protein
+T111	Protein 6910 6917	protein
+T112	Biological_Activity 7101 7108	binding
+T113	Protein 7749 7756	protein
+T114	Protein 7855 7862	protein
+T115	Biological_Activity 7915 7922	binding
+T116	Protein 7631 7644	binding sites
+T117	Protein 8285 8292	protein
+T118	Biological_Activity 8414 8421	binding
+T119	Chemical 8435 8451	[3 H  ]GBR 12935
+R14	Associated_With Arg1:T119 Arg2:T118	
+T120	Protein 8525 8534	CYP4502D6
+T121	Biological_Activity 8554 8564	metabolism
+T122	Chemical 8568 8580	debrisoquine
+T123	Biological_Activity 8705 8712	binding
+T124	Protein 8821 8861	piperazine acceptor ligand binding sites
+T125	Biological_Activity 8963 8970	binding
+T126	Chemical 9281 9297	[3 H  ]GBR 12935
+T127	Biological_Activity 9298 9305	binding
+R15	Associated_With Arg1:T126 Arg2:T127	
+T128	Protein 9331 9340	CYP4502D6
+T129	Protein 9444 9453	enzymatic
+T130	Protein 9515 9524	CYP4502D6
+T131	Chemical 9631 9647	[3 H  ]GBR 12935
+T132	Protein 9657 9663	CYP450
+T133	Protein 9657 9673	CYP450 isoenzyme
+R16	Binds_With Arg1:T131 Arg2:T133	
+T134	Protein 9686 9695	CYP4502D6
+T135	Protein 9808 9817	CYP4502D6
+T136	Protein 9862 9869	enzymes
+T137	Protein 9916 9941	piperazine acceptor sites
+T138	Species 10046 10051	women
+T139	Species 10083 10086	men
+T140	Biological_Activity 10327 10334	binding
+T141	Protein 10384 10408	piperazine acceptor site
+T142	Protein 10544 10569	piperazine acceptor sites
+T143	Chemical 10589 10605	[3 H  ]GBR 12935
+T144	Biological_Activity 10578 10585	binding
+R17	Associated_With Arg1:T143 Arg2:T144	
+R18	Binds_With Arg1:T143 Arg2:T142	
+T145	Chemical 10662 10678	[3 H  ]GBR 12935
+T146	Biological_Activity 10679 10686	binding
+T147	Protein 10690 10715	piperazine acceptor sites
+R19	Associated_With Arg1:T145 Arg2:T146	
+R20	Binds_With Arg1:T145 Arg2:T147	
+T148	Protein 10865 10889	piperazine acceptor site
+T149	Protein 10894 10903	CYP4502D6

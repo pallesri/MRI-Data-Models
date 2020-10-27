@@ -1,0 +1,459 @@
+T1	Species 1 7	Humans
+T2	Chemical 54 65	xenobiotics
+T3	Biological_Activity 54 65	xenobiotics
+T4	Biological_Activity 117 127	Pesticides
+T5	Chemical 117 127	Pesticides
+T6	Chemical 168 191	environmental chemicals
+T7	Species 273 278	human
+T8	Chemical 451 460	Dithianon
+T9	Chemical 462 464	DT
+T10	Chemical 467 534	5,10-dihydro-5,10-dioxo-naphto-[2,3b ]-p -dithio-2,3-dicarbonitrile
+T11	Chemical 555 562	quinone
+T12	Chemical 539 573	non-chlorinated quinone derivative
+T13	Biological_Activity 591 601	protective
+T14	Chemical 602 611	fungicide
+T15	Biological_Activity 602 611	fungicide
+T16	Species 632 637	apple
+T17	Species 642 646	pear
+T18	Species 669 675	cherry
+R1	Associated_With Arg1:T10 Arg2:T13	
+R2	Associated_With Arg1:T10 Arg2:T15	
+R3	Associated_With Arg1:T9 Arg2:T13	
+R4	Associated_With Arg1:T9 Arg2:T15	
+R5	Associated_With Arg1:T8 Arg2:T13	
+R6	Associated_With Arg1:T8 Arg2:T15	
+T19	Chemical 715 724	fungicide
+T20	Biological_Activity 715 724	fungicide
+T21	Biological_Activity 777 785	toxicity
+T22	Biological_Activity 787 799	mutagenicity
+T23	Biological_Activity 804 818	embryotoxicity
+T24	Chemical 890 892	DT
+T25	Biological_Activity 893 905	mutagenicity
+T26	Species 933 942	microbial
+T27	Chemical 989 998	Pesticide
+T28	Biological_Activity 989 998	Pesticide
+T29	Biological_Activity 1058 1070	carcinogenic
+T30	Biological_Activity 1081 1087	induce
+T31	Biological_Activity 1165 1174	promoting
+T32	Chemical 1190 1199	pesticide
+T33	Biological_Activity 1190 1199	pesticide
+T34	Chemical 1226 1228	DT
+T35	Biological_Activity 1246 1258	carcinogenic
+T36	Biological_Activity 1274 1284	epigenetic
+T37	Biological_Activity 1343 1356	tumorigenesis
+T38	Biological_Activity 1380 1389	genotoxic
+T39	Biological_Activity 1465 1470	toxic
+T40	Biological_Activity 1588 1599	stimulation
+T41	Biological_Activity 1603 1610	mitosis
+T42	Protein 1658 1665	protein
+T43	Protein 1666 1682	α2 microglobulin
+T44	Chemical 1701 1708	calcium
+T45	Biological_Activity 1790 1797	hormone
+T46	Chemical 1798 1800	T4
+T47	Chemical 1790 1797	hormone
+T48	Biological_Activity 1855 1866	hypertrophy
+T49	Biological_Activity 1868 1879	hyperplasia
+T50	Species 1947 1953	rodent
+T51	Biological_Activity 1980 1989	induction
+T52	Biological_Activity 2009 2022	proliferation
+T53	Biological_Activity 2031 2042	pleiotropic
+T54	Biological_Activity 2074 2088	carcinogenesis
+T55	Biological_Activity 2093 2102	promotion
+T56	Protein 2123 2126	CYP
+T57	Biological_Activity 2127 2136	induction
+T58	Biological_Activity 2215 2226	carcinogens
+T59	Biological_Activity 688 701	Toxicological
+T60	Biological_Activity 2241 2256	toxicologically
+T61	Biological_Activity 2307 2320	toxicological
+T62	Biological_Activity 2332 2341	metabolic
+T63	Protein 2419 2422	CYP
+T64	Biological_Activity 2543 2556	toxicological
+T65	Protein 2594 2597	CYP
+T66	Chemical 2691 2702	xenobiotics
+T67	Biological_Activity 2691 2702	xenobiotics
+T68	Chemical 2704 2709	drugs
+T69	Chemical 2714 2738	environmental pollutants
+T70	Protein 2741 2744	CYP
+T71	Biological_Activity 2775 2784	metabolic
+T72	Chemical 2804 2816	detoxication
+T73	Biological_Activity 2923 2935	carcinogenic
+T74	Biological_Activity 2940 2949	promoting
+T75	Chemical 2989 2991	DT
+T76	Protein 3021 3035	monooxygenases
+T77	Species 3039 3045	murine
+T78	Chemical 3137 3149	testosterone
+T79	Biological_Activity 3155 3169	multibiomarker
+T80	Chemical 3226 3231	NADP+
+T81	Chemical 3234 3257	16α-hydroxytestosterone
+T82	Chemical 3259 3265	16α-TH
+T83	Chemical 3268 3282	corticosterone
+T84	Chemical 3284 3296	testosterone
+T85	Chemical 3301 3323	4-androsten-3,17-dione
+T86	Chemical 3325 3330	17-TH
+T87	Chemical 3388 3407	glucose 6-phosphate
+T88	Protein 3420 3445	6-phosphate dehydrogenase
+T89	Chemical 3493 3501	methanol
+T90	Chemical 3503 3518	tetrahydrofuran
+T91	Chemical 3523 3538	dichloromethane
+T92	Chemical 3562 3565;3579 3598	7α- hydroxytestosterone
+T93	Chemical 3567 3570;3579 3598	6β- hydroxytestosterone
+T94	Chemical 3575 3598	16β-hydroxytestosterone
+T95	Chemical 3629 3632;3645 3664	6α- hydroxytestosterone
+T96	Chemical 3634 3637;3645 3664	2α- hydroxytestosterone
+T97	Chemical 3642 3664	2β-hydroxytestosterone
+T98	Chemical 3726 3728	DT
+T99	Chemical 3730 3798	5,10-dihydro-5,10-dioxo-naphtho-[2,3b ]-p -dithio-2,3-dicarbonitrile
+T100	Protein 3890 3900	antibodies
+T101	Species 3872 3878	rabbit
+T102	Protein 3901 3912	anti-CYP3A1
+T103	Protein 3901 3911;3913 3914	anti-CYP3A 2
+T104	Species 4068 4074	Animal
+T105	Species 4155 4163	CD1 mice
+T106	Species 4328 4334	rodent
+T107	Chemical 4352 4357	water
+T108	Chemical 4370 4372	DT
+T109	Chemical 4390 4398	corn oil
+T110	Species 4390 4394	corn
+T111	Species 4588 4592	Mice
+T112	Chemical 4793 4801	Tris–HCl
+T113	Chemical 5019 5027	K3 P2 O7
+T114	Chemical 5044 5048	EDTA
+T115	Chemical 5059 5062	BHT
+T116	Chemical 5246 5254	Tris–HCl
+T117	Chemical 5287 5291	EDTA
+T118	Chemical 5300 5308	glycerol
+T119	Chemical 5375 5383	nitrogen
+T120	Protein 5436 5460	Testosterone hydroxylase
+T121	Biological_Activity 5436 5460	Testosterone hydroxylase
+T122	Protein 5556 5563	protein
+T123	Chemical 5586 5605	glucose 6-phosphate
+T124	Protein 5617 5650	glucose 6-phosphate dehydrogenase
+T125	Chemical 5660 5665	MgCl2
+T126	Chemical 5700 5717	phosphate Na+ /K+
+T127	Chemical 5867 5879	testosterone
+T128	Chemical 5894 5902	methanol
+T129	Chemical 5979 5994	dichloromethane
+T130	Chemical 6007 6021	corticosterone
+T131	Chemical 6045 6053	methanol
+T132	Chemical 6196 6211	dichloromethane
+T133	Chemical 6262 6266	NaOH
+T134	Chemical 6277 6282	lipid
+T135	Chemical 6318 6333	sodium sulphate
+T136	Chemical 6367 6382	Dichloromethane
+T137	Chemical 6412 6420	nitrogen
+T138	Chemical 6497 6505	methanol
+T139	Chemical 6704 6709	Water
+T140	Chemical 6875 6880	Water
+T141	Chemical 7024 7035	metabolites
+T142	Metabolite 7024 7035	metabolites
+T143	Chemical 7094 7099	Water
+T144	Chemical 7201 7216	tetrahydrofuran
+T145	Chemical 7220 7225	water
+T146	Chemical 7253 7268	tetrahydrofuran
+T147	Chemical 7283 7291	methanol
+T148	Chemical 7295 7300	water
+T149	Metabolite 7327 7337	Metabolite
+T150	Chemical 7537 7548	metabolites
+T151	Metabolite 7537 7548	metabolites
+T152	Chemical 7596 7606	metabolite
+T153	Metabolite 7596 7606	metabolite
+T154	Chemical 7622 7636	corticosterone
+T155	Chemical 7708 7720	testosterone
+T156	Chemical 7698 7732	synthetic testosterone derivatives
+T157	Protein 7749 7756	Protein
+T158	Protein 7772 7779	Protein
+T159	Species 7868 7874	bovine
+T160	Protein 7868 7888	bovine serum albumin
+T161	Protein 7955 7962	protein
+T162	Chemical 8318 8320	DT
+T163	Species 8329 8333	mice
+T164	Chemical 8354 8357	SDS
+T165	Species 8416 8422	rabbit
+T166	Protein 8434 8444	antibodies
+T167	Protein 8446 8457	anti-CYP3A1
+T168	Protein 8446 8456;8458 8459	anti-CYP3A 2
+T169	Species 8486 8489	rat
+T170	Protein 8498 8503	CYP3A
+T171	Protein 8585 8592	protein
+T172	Chemical 8645 8664	4-chloro-1-naphthol
+T173	Chemical 8677 8694	hydrogen peroxide
+T174	Protein 8735 8759	testosterone hydroxylase
+T175	Protein 8761 8763	TH
+T176	Species 8818 8829	female mice
+T177	Chemical 8879 8881	DT
+T178	Chemical 8914 8916	DT
+T179	Biological_Activity 8735 8759	testosterone hydroxylase
+T180	Biological_Activity 8761 8763	TH
+T181	Biological_Activity 8979 8981	TH
+T182	Protein 8979 8981	TH
+T183	Biological_Activity 9027 9039	inactivating
+R7	Associated_With Arg1:T178 Arg2:T181	
+R8	Associated_With Arg1:T178 Arg2:T179	
+R9	Associated_With Arg1:T178 Arg2:T183	
+T184	Protein 9112 9114	TH
+T185	Biological_Activity 9112 9114	TH
+T186	Protein 9181 9184;9199 9201	6β- TH
+T187	Protein 9186 9190;9199 9201	16α- TH
+T188	Protein 9195 9201	16β-TH
+T189	Biological_Activity 9181 9184;9199 9201	6β- TH
+T190	Biological_Activity 9186 9190;9199 9201	16α- TH
+T191	Biological_Activity 9195 9201	16β-TH
+T192	Protein 9226 9231	2β-TH
+T193	Biological_Activity 9226 9231	2β-TH
+T194	Species 8809 8813;8825 8829	male mice
+T195	Species 8908 8913	males
+T196	Species 9016 9023	females
+T197	Protein 9280 9283;9327 9329	6α- TH
+T198	Protein 9296 9299;9327 9329	7α- TH
+T199	Protein 9304 9307;9327 9329	2α- TH
+T200	Protein 9324 9329	17-TH
+T201	Biological_Activity 9280 9283;9327 9329	6α- TH
+T202	Biological_Activity 9296 9299;9327 9329	7α- TH
+T203	Biological_Activity 9304 9307;9327 9329	2α- TH
+T204	Biological_Activity 9324 9329	17-TH
+R10	Associated_With Arg1:T178 Arg2:T189	
+R11	Associated_With Arg1:T178 Arg2:T190	
+R12	Associated_With Arg1:T178 Arg2:T191	
+R13	Associated_With Arg1:T178 Arg2:T193	
+R14	Associated_With Arg1:T178 Arg2:T201	
+R15	Associated_With Arg1:T178 Arg2:T202	
+R16	Associated_With Arg1:T178 Arg2:T203	
+R17	Associated_With Arg1:T178 Arg2:T204	
+T205	Protein 9415 9420	2β-TH
+T206	Biological_Activity 9415 9420	2β-TH
+T207	Protein 9454 9460	16β-TH
+T208	Biological_Activity 9454 9460	16β-TH
+T209	Species 9487 9494	females
+T210	Biological_Activity 9498 9510	inactivating
+T211	Protein 9601 9604;9612 9614	7α- TH
+T212	Protein 9609 9614	17-TH
+T213	Protein 9644 9650	16β-TH
+T214	Biological_Activity 9601 9604;9612 9614	7α- TH
+T215	Biological_Activity 9609 9614	17-TH
+T216	Biological_Activity 9644 9650	16β-TH
+T217	Protein 9683 9689	16β-TH
+T218	Biological_Activity 9683 9689	16β-TH
+T219	Species 9729 9736	females
+T220	Protein 9769 9772;9780 9782	6α- TH
+T221	Protein 9777 9782	6β-TH
+T222	Biological_Activity 9769 9772;9780 9782	6α- TH
+T223	Biological_Activity 9777 9782	6β-TH
+T224	Protein 9832 9838	16α-TH
+T225	Biological_Activity 9832 9838	16α-TH
+T226	Chemical 9902 9904	DT
+T227	Biological_Activity 9929 9936	induced
+T228	Protein 9937 9942	6β-TH
+T229	Biological_Activity 9937 9942	6β-TH
+T230	Protein 9953 9958	CYP3A
+T231	Protein 10037 10042	2α-TH
+T232	Biological_Activity 10037 10042	2α-TH
+T233	Species 10084 10093	male mice
+T234	Species 10119 10126	females
+T235	Protein 10127 10131;10143 10145	16α- TH
+T236	Protein 10133 10136;10143 10145	2α- TH
+T237	Protein 10140 10145	2β-TH
+T238	Biological_Activity 10127 10131;10143 10145	16α- TH
+T239	Biological_Activity 10133 10136;10143 10145	2α- TH
+T240	Biological_Activity 10140 10145	2β-TH
+T241	Protein 10207 10212	2β-TH
+T242	Biological_Activity 10207 10212	2β-TH
+T243	Protein 10278 10280	TH
+T244	Biological_Activity 10278 10280	TH
+T245	Protein 10342 10346;10354 10356	16α- TH
+T246	Protein 10351 10356	2α-TH
+T247	Biological_Activity 10342 10346;10354 10356	16α- TH
+T248	Biological_Activity 10351 10356	2α-TH
+T249	Species 10463 10468	males
+T250	Protein 10485 10490	2β-TH
+T251	Biological_Activity 10485 10490	2β-TH
+T252	Species 10576 10583	females
+T253	Species 10661 10668	females
+T254	Chemical 10721 10723	DT
+T255	Protein 10823 10825	TH
+T256	Biological_Activity 10823 10825	TH
+T257	Protein 10848 10851;10859 10861	6β- TH
+T258	Protein 10856 10861	2α-TH
+T259	Biological_Activity 10848 10851;10859 10861	6β- TH
+T260	Biological_Activity 10856 10861	2α-TH
+T261	Protein 10883 10887;10895 10897	16β- TH
+T262	Protein 10892 10897	2β-TH
+T263	Biological_Activity 10883 10887;10895 10897	16β- TH
+T264	Biological_Activity 10892 10897	2β-TH
+T265	Species 10943 10955	male animals
+T266	Species 10987 10994	females
+T267	Protein 11083 11085	TH
+T268	Protein 11096 11110	monooxygenases
+T269	Protein 11141 11144;11168 11170	7α- TH
+T270	Biological_Activity 11141 11144;11168 11170	7α- TH
+T271	Protein 11157 11160;11168 11170	2α- TH
+T272	Biological_Activity 11157 11160;11168 11170	2α- TH
+T273	Protein 11165 11170	17-TH
+T274	Biological_Activity 11165 11170	17-TH
+T275	Biological_Activity 11183 11186;11212 11214	6β- TH
+T276	Protein 11183 11186;11212 11214	6β- TH
+T277	Protein 11209 11214	2β-TH
+T278	Biological_Activity 11209 11214	2β-TH
+T279	Species 11254 11259	males
+T280	Protein 11285 11287	TH
+T281	Biological_Activity 11285 11287	TH
+T282	Species 11276 11283	females
+T283	Protein 11325 11330	17-TH
+T284	Biological_Activity 11325 11330	17-TH
+T285	Protein 11354 11359	2α-TH
+T286	Biological_Activity 11354 11359	2α-TH
+T287	Protein 11395 11400	7α-TH
+T288	Biological_Activity 11395 11400	7α-TH
+T289	Species 11430 11435	males
+T290	Species 11440 11447	females
+T291	Chemical 11489 11491	DT
+T292	Protein 11516 11519;11527 11529	6β- TH
+T293	Biological_Activity 11516 11519;11527 11529	6β- TH
+T294	Biological_Activity 11509 11515	induce
+T295	Protein 11524 11529	2α-TH
+T296	Biological_Activity 11524 11529	2α-TH
+T297	Protein 11554 11559	2β-TH
+T298	Biological_Activity 11554 11559	2β-TH
+T299	Protein 11575 11580	17-TH
+T300	Biological_Activity 11575 11580	17-TH
+T301	Species 11606 11611	males
+T302	Protein 11621 11624;11639 11641	2β- TH
+T303	Biological_Activity 11621 11624;11639 11641	2β- TH
+T304	Protein 11626 11630;11639 11641	16α- TH
+T305	Biological_Activity 11626 11630;11639 11641	16α- TH
+T306	Protein 11635 11641	16β-TH
+T307	Biological_Activity 11635 11641	16β-TH
+T308	Protein 11687 11692	6β-TH
+T309	Biological_Activity 11687 11692	6β-TH
+T310	Species 11720 11727	females
+T311	Biological_Activity 11733 11742	induction
+T312	Protein 11750 11755	CYP3A
+T313	Protein 11766 11780	monooxygenases
+T314	Species 11817 11826	male mice
+T315	Chemical 11849 11851	DT
+T316	Species 11922 11928	rabbit
+T317	Protein 11940 11950	antibodies
+T318	Protein 11956 11962	CYP3A1
+T319	Protein 11956 11961;11963 11964	CYP3A 2
+R18	Associated_With Arg1:T315 Arg2:T311	
+R19	Binds_With Arg1:T315 Arg2:T313	
+T320	Protein 12013 12018	CYP3A
+T321	Protein 12019 12029	apoprotein
+T322	Chemical 12070 12072	DT
+T323	Species 12145 12152	animals
+T324	Biological_Activity 12187 12200	transcription
+T325	Protein 12204 12210	enzyme
+R20	Associated_With Arg1:T322 Arg2:T324	
+T326	Chemical 12265 12274	dithianon
+T327	Biological_Activity 12306 12315	genotoxic
+T328	Species 12339 12345	murine
+T329	Protein 12346 12349	CYP
+T330	Protein 12413 12437	testosterone hydroxylase
+T331	Biological_Activity 12443 12457	multibiomarker
+T332	Chemical 12476 12488	Testosterone
+T333	Protein 12550 12553	CYP
+T334	Protein 12669 12672	CYP
+T335	Protein 12673 12681	isozymes
+T336	Chemical 12711 12721	pesticides
+T337	Biological_Activity 12711 12721	pesticides
+T338	Biological_Activity 12744 12754	initiating
+T339	Biological_Activity 12772 12784	carcinogenic
+T340	Biological_Activity 12811 12821	epigenetic
+T341	Chemical 12909 12911	DT
+T342	Biological_Activity 12927 12932	toxic
+T343	Biological_Activity 12936 12941	toxic
+T344	Biological_Activity 12945 12955	carcinogen
+T345	Biological_Activity 12960 12968	promoter
+T346	Chemical 13001 13010	fungicide
+T347	Biological_Activity 13001 13010	fungicide
+T348	Protein 13021 13024	CYP
+T349	Biological_Activity 13123 13136	toxicological
+T350	Chemical 13211 13213	DT
+T351	Protein 13245 13248	CYP
+T352	Chemical 13272 13282	pesticides
+T353	Biological_Activity 13272 13282	pesticides
+T354	Biological_Activity 13311 13319	inducers
+T355	Biological_Activity 13323 13333	inhibitors
+T356	Protein 13347 13351	CYPs
+T357	Biological_Activity 13358 13367	induction
+T358	Biological_Activity 13372 13383	suppression
+T359	Protein 13391 13398	isozyme
+T360	Protein 13440 13444	CYPs
+T361	Chemical 13555 13557	DT
+T362	Biological_Activity 13570 13576	induce
+T363	Biological_Activity 13580 13588	suppress
+T364	Protein 13597 13601	CYPs
+R21	Associated_With Arg1:T361 Arg2:T362	
+R22	Associated_With Arg1:T361 Arg2:T363	
+T365	Species 13605 13626	Swiss albino CD1 mice
+R23	Binds_With Arg1:T361 Arg2:T364	
+T366	Species 13680 13685	males
+T367	Biological_Activity 13710 13719	induction
+T368	Species 13767 13774	females
+T369	Biological_Activity 13801 13812	suppression
+T370	Chemical 13892 13894	DT
+T371	Protein 13924 13927	CYP
+T372	Biological_Activity 13924 13927	CYP
+R24	Associated_With Arg1:T370 Arg2:T372	
+T373	Species 13942 13946	male
+T374	Biological_Activity 14048 14057	induction
+T375	Biological_Activity 14101 14112	suppression
+T376	Protein 14120 14125	CYP3A
+T377	Chemical 14166 14177	aminopyrine
+T378	Protein 14207 14212	CYP3A
+T379	Protein 14261 14266	CYP3A
+T380	Protein 14296 14306	cytochrome
+T381	Species 14318 14323	human
+T382	Protein 14359 14362	CYP
+T383	Protein 14363 14371	isozymes
+T384	Protein 14445 14449	CYPs
+T385	Protein 14454 14463	reductase
+T386	Biological_Activity 14482 14492	inhibiting
+T387	Chemical 14504 14506	DT
+T388	Biological_Activity 14521 14529	toxicity
+T389	Protein 14543 14546	CYP
+T390	Biological_Activity 14547 14556	induction
+T391	Chemical 14618 14630	testosterone
+T392	Chemical 14618 14642	testosterone metabolites
+T393	Metabolite 14618 14642	testosterone metabolites
+T394	Biological_Activity 14693 14702	induction
+T395	Biological_Activity 14707 14715	toxicity
+T396	Biological_Activity 14823 14832	induction
+T397	Chemical 14920 14935	parent compound
+T398	Chemical 14940 14950	metabolite
+T399	Metabolite 14940 14950	metabolite
+T400	Protein 14994 14998	CYPs
+T401	Biological_Activity 15049 15058	metabolic
+T402	Protein 15147 15153	enzyme
+T403	Biological_Activity 15166 15175	induction
+T404	Species 15179 15184	males
+T405	Biological_Activity 15186 15197	suppression
+T406	Species 15201 15208	females
+T407	Protein 15288 15292	CYPs
+T408	Biological_Activity 15318 15326	hormones
+T409	Chemical 15318 15326	hormones
+T410	Chemical 15328 15330	DT
+T411	Protein 15370 15378	isozymes
+T412	Species 15382 15386	mice
+T413	Biological_Activity 15411 15420	induction
+T414	Biological_Activity 15425 15436	suppression
+T415	Protein 15440 15443	CYP
+T416	Biological_Activity 15481 15494	toxicological
+T417	Chemical 15580 15591	xenobiotics
+T418	Biological_Activity 15580 15591	xenobiotics
+T419	Chemical 15613 15618	drugs
+T420	Biological_Activity 15663 15673	metabolism
+T421	Protein 15704 15707	CYP
+T422	Biological_Activity 15708 15717	induction
+T423	Chemical 15758 15781	oxygen centred radicals
+T424	Protein 15815 15818	CYP
+T425	Protein 15815 15839	CYP-Fe 2+ -O2 −  complex
+T426	Biological_Activity 15856 15866	pleitropic
+T427	Protein 15932 15939	enzymes
+T428	Biological_Activity 15969 15981	carcinogenic
+T429	Biological_Activity 15986 15995	promoting
+T430	Biological_Activity 16089 16096	induced
+T431	Chemical 16100 16102	DT
+T432	Biological_Activity 16174 16187	toxicological
+T433	Chemical 16202 16204	DT
+R25	Associated_With Arg1:T433 Arg2:T432	
+T434	Species 16261 16266	human

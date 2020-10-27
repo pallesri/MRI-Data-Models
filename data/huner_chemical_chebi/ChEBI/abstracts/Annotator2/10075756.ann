@@ -1,0 +1,25 @@
+T3	Chemical 12 31	triterpene alcohols
+#3	AnnotatorNotes T3	Chemical class
+T5	Chemical 166 177	achilleol A
+T9	Species 267 284	Camellia sasanqua
+T14	Metabolite 166 177	achilleol A
+R1	Isolated_From Arg1:T14 Arg2:T9	
+T15	Chemical 315 322	alcohol
+#7	AnnotatorNotes T15	Chemical class
+T16	Spectral_Data 357 377	spectroscopic method
+T6	Chemical 187 216	monocyclic triterpene alcohol
+T1	Chemical 33 42;44 45	camelliol A
+T2	Metabolite 33 42;44 45	camelliol A
+T4	Chemical 33 42;51 52	camelliol B
+T7	Metabolite 33 42;51 52	camelliol B
+T8	Chemical 33 42;62 63	camelliol C
+T10	Metabolite 33 42;62 63	camelliol C
+R2	Isolated_From Arg1:T10 Arg2:T9	
+R3	Isolated_From Arg1:T7 Arg2:T9	
+R4	Isolated_From Arg1:T2 Arg2:T9	
+R5	Associated_With Arg1:T2 Arg2:T16	
+R6	Associated_With Arg1:T1 Arg2:T16	
+R7	Associated_With Arg1:T7 Arg2:T16	
+R8	Associated_With Arg1:T4 Arg2:T16	
+R9	Associated_With Arg1:T10 Arg2:T16	
+R10	Associated_With Arg1:T8 Arg2:T16	

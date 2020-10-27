@@ -1,0 +1,56 @@
+T1	Chemical 34 56	4-anilino quinazolines
+#1	AnnotatorNotes T1	Class of chemicals
+T2	Chemical 85 88	ATP
+T3	Protein 101 133	epidermal growth factor receptor
+T4	Protein 135 140	EGF-R
+T5	Biological_Activity 92 96	bind
+T6	Chemical 151 154	EGF
+#2	AnnotatorNotes T6	Peptide 
+T9	Protein 210 215	EGF-R
+R1	Associated_With Arg1:T1 Arg2:T5	
+R2	Associated_With Arg1:T2 Arg2:T5	
+T11	Biological_Activity 143 150	inhibit
+R3	Associated_With Arg1:T1 Arg2:T11	
+T13	Chemical 283 286	ATP
+T14	Chemical 325 347	4-anilino quinazolines
+#3	AnnotatorNotes T14	Class of chemicals
+T15	Protein 498 503	EGF-R
+T18	Biological_Activity 484 494	inhibitors
+T20	Protein 597 602	EGF-R
+T21	Protein 597 609	EGF-R kinase
+T23	Chemical 700 755	N-[4-[(3-bromophenyl)amino]-6-quinazolinyl]2-butynamide
+T24	Chemical 766 776	CL-387,785
+T25	Protein 812 817	EGF-R
+T27	Biological_Activity 840 849	inhibited
+R7	Associated_With Arg1:T23 Arg2:T27	
+T28	Protein 912 915	EGF
+T29	Biological_Activity 931 946	phosphorylation
+T30	Biological_Activity 999 1008	inhibited
+R11	Associated_With Arg1:T23 Arg2:T30	
+T32	Protein 1111 1116	EGF-R
+T33	Protein 1120 1128	c-erbB-2
+T34	Biological_Activity 1145 1152	blocked
+R13	Associated_With Arg1:T23 Arg2:T34	
+T36	Protein 1195 1200	EGF-R
+T39	Species 1204 1213	nude mice
+T40	Chemical 1287 1297	CL-387,785
+T43	Protein 1361 1366	EGF-R
+R19	Binds_With Arg1:T1 Arg2:T3	
+R20	Binds_With Arg1:T1 Arg2:T4	
+R15	Binds_With Arg1:T2 Arg2:T3	
+R16	Associated_With Arg1:T1 Arg2:T5	
+T16	Chemical 189 206	tyrosine residues
+T44	Biological_Activity 170 185	phosphorylation
+T12	Biological_Activity 689 698	inhibitor
+R4	Associated_With Arg1:T23 Arg2:T12	
+R21	Associated_With Arg1:T24 Arg2:T12	
+R5	Binds_With Arg1:T23 Arg2:T25	
+R6	Binds_With Arg1:T24 Arg2:T25	
+T17	Biological_Activity 850 856	kinase
+T19	Protein 873 880	protein
+T22	Biological_Activity 904 911	blocked
+R9	Associated_With Arg1:T23 Arg2:T22	
+R14	Associated_With Arg1:T40 Arg2:T34	
+R12	Associated_With Arg1:T40 Arg2:T30	
+R10	Associated_With Arg1:T40 Arg2:T22	
+R8	Associated_With Arg1:T40 Arg2:T27	

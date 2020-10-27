@@ -1,0 +1,24 @@
+T1	Chemical 16 21	NADPH
+T2	Chemical 32 43	sepiapterin
+T3	Protein 16 53	NADPH-dependent sepiapterin reductase
+T4	Chemical 97 108	sepiapterin
+T5	Chemical 112 136	l-threo-dihydrobiopterin
+T6	Species 191 209	Chlorobium tepidum
+T8	Protein 251 257	enzyme
+T9	Protein 320 326	enzyme
+T10	Protein 389 395	enzyme
+T11	Chemical 467 478	sepiapterin
+T12	Chemical 483 488	NADPH
+T13	Chemical 559 567	Diacetyl
+T14	Chemical 648 665	N-acetylserotonin
+T15	Chemical 667 683	N-acetyldopamine
+T16	Chemical 688 697	melatonin
+T17	Biological_Activity 626 636	inhibitory
+T18	Chemical 731 747	N-acetyldopamine
+R3	Associated_With Arg1:T14 Arg2:T17	
+R4	Associated_With Arg1:T15 Arg2:T17	
+R5	Associated_With Arg1:T16 Arg2:T17	
+T19	Chemical 780 801	N-terminal amino acid
+T20	Protein 1035 1057	sepiapterin reductases
+T21	Chemical 827 973	Met-Lys-His-Ile-Leu-Leu-Ile-Thr-Gly-Ala-Xaa-Lys - Lys - Ile - Xaa - Arg - Ala - Ile - Ala - Leu - Glu - Xaa - Ala - Arg - Xaa-Xaa-Xaa-His-His-His-
+T7	Biological_Activity 84 93	reduction

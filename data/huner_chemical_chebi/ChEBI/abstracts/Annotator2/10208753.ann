@@ -1,0 +1,74 @@
+T1	Species 3 11	starfish
+T2	Chemical 48 55	hormone
+T3	Biological_Activity 48 55	hormone
+T4	Chemical 57 72	1-methyladenine
+T5	Metabolite 57 72	1-methyladenine
+T6	Chemical 74 78	1-MA
+T7	Metabolite 74 78	1-MA
+T8	Protein 100 109	receptors
+R1	Associated_With Arg1:T5 Arg2:T3	
+R2	Associated_With Arg1:T4 Arg2:T3	
+R3	Associated_With Arg1:T7 Arg2:T3	
+R4	Associated_With Arg1:T6 Arg2:T3	
+R5	Isolated_From Arg1:T5 Arg2:T1	
+R6	Isolated_From Arg1:T7 Arg2:T1	
+T10	Biological_Activity 87 92	binds
+R7	Associated_With Arg1:T7 Arg2:T10	
+R8	Associated_With Arg1:T6 Arg2:T10	
+R11	Associated_With Arg1:T5 Arg2:T10	
+R12	Associated_With Arg1:T4 Arg2:T10	
+T11	Chemical 178 182	1-MA
+T12	Metabolite 178 182	1-MA
+T13	Protein 213 222	G protein
+T14	Biological_Activity 183 193	stimulates
+T16	Protein 278 287	G protein
+T17	Protein 289 300	Gbetagamma)
+T15	Protein 308 324	pertussis  toxin
+T18	Protein 389 399	Gbetagamma
+R15	Associated_With Arg1:T12 Arg2:T14	
+R16	Associated_With Arg1:T11 Arg2:T14	
+T19	Metabolite 413 417	1-MA
+T20	Chemical 413 417	1-MA
+T21	Protein 422 432	Gbetagamma
+T24	Protein 497 511	62-kDa protein
+T26	Chemical 549 553	1-MA
+T27	Metabolite 549 553	1-MA
+T28	Protein 618 632	62-kDa protein
+T30	Chemical 708 712	1-MA
+T31	Metabolite 708 712	1-MA
+T32	Protein 716 726	Gbetagamma
+T33	Protein 732 742	Gbetagamma
+T35	Chemical 808 818	wortmannin
+T36	Protein 776 790	62-kDa protein
+T37	Chemical 822 830	LY294002
+T38	Biological_Activity 868 877	inhibitor
+T40	Protein 882 911	phosphatidylinositol 3-kinase
+T43	Protein 913 917	PI3K
+R22	Associated_With Arg1:T35 Arg2:T38	
+R26	Associated_With Arg1:T37 Arg2:T38	
+T44	Chemical 920 928	LY294002
+T46	Biological_Activity 934 943	inhibited
+R29	Associated_With Arg1:T44 Arg2:T46	
+T47	Metabolite 967 971	1-MA
+T48	Chemical 967 971	1-MA
+T49	Protein 944 954	Gbetagamma
+T50	Protein 1052 1066	62-kDa protein
+T51	Protein 1091 1101	Gbetagamma
+T52	Protein 1106 1110	PI3K
+T54	Chemical 1145 1149	1-MA
+T55	Metabolite 1145 1149	1-MA
+T57	Protein 1213 1227	62-kDa protein
+T59	Species 1158 1166	starfish
+T58	Biological_Activity 1252 1262	activation
+T22	Biological_Activity 795 804	inhibited
+R9	Binds_With Arg1:T7 Arg2:T8	
+R10	Binds_With Arg1:T6 Arg2:T8	
+R13	Binds_With Arg1:T5 Arg2:T8	
+R14	Binds_With Arg1:T4 Arg2:T8	
+R17	Associated_With Arg1:T35 Arg2:T22	
+R18	Associated_With Arg1:T37 Arg2:T22	
+R19	Binds_With Arg1:T37 Arg2:T40	
+R20	Binds_With Arg1:T37 Arg2:T43	
+R21	Binds_With Arg1:T35 Arg2:T40	
+R23	Binds_With Arg1:T35 Arg2:T43	
+T9	Biological_Activity 1266 1286	maturation-promoting

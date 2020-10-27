@@ -1,0 +1,1259 @@
+T1	Species 70 75	human
+T2	Biological_Activity 88 103	Chemoprevention
+T3	Biological_Activity 108 120	chemotherapy
+T4	Species 146 151	human
+T5	Chemical 223 239	natural products
+T6	Metabolite 223 239	natural products
+T7	Species 243 248	plant
+T8	Chemical 257 271	phytochemicals
+T9	Metabolite 257 271	phytochemicals
+T10	Biological_Activity 304 319	chemopreventive
+T11	Biological_Activity 304 309;323 334	chemo therapeutic
+T12	Chemical 370 384	phytochemicals
+T13	Metabolite 370 384	phytochemicals
+T14	Biological_Activity 481 497	chemotherapeutic
+T15	Species 518 524	plants
+T16	Chemical 553 563	paclitaxel
+T17	Metabolite 553 563	paclitaxel
+T18	Chemical 565 570	Taxol
+T19	Metabolite 565 570	Taxol
+T20	Chemical 573 584	vincristine
+T21	Metabolite 573 584	vincristine
+T22	Chemical 586 593	Oncovin
+T23	Metabolite 586 593	Oncovin
+T24	Chemical 596 611	podophyllotoxin
+T25	Metabolite 596 611	podophyllotoxin
+T26	Chemical 616 627	captothecin
+T27	Metabolite 616 627	captothecin
+R1	Isolated_From Arg1:T17 Arg2:T15	
+R2	Isolated_From Arg1:T19 Arg2:T15	
+R3	Isolated_From Arg1:T21 Arg2:T15	
+R4	Isolated_From Arg1:T23 Arg2:T15	
+R5	Isolated_From Arg1:T25 Arg2:T15	
+R6	Isolated_From Arg1:T27 Arg2:T15	
+R7	Associated_With Arg1:T17 Arg2:T14	
+R8	Associated_With Arg1:T16 Arg2:T14	
+R9	Associated_With Arg1:T19 Arg2:T14	
+R10	Associated_With Arg1:T18 Arg2:T14	
+R11	Associated_With Arg1:T21 Arg2:T14	
+R12	Associated_With Arg1:T20 Arg2:T14	
+R13	Associated_With Arg1:T23 Arg2:T14	
+R14	Associated_With Arg1:T22 Arg2:T14	
+R15	Associated_With Arg1:T25 Arg2:T14	
+R16	Associated_With Arg1:T24 Arg2:T14	
+R17	Associated_With Arg1:T27 Arg2:T14	
+R18	Associated_With Arg1:T26 Arg2:T14	
+T28	Species 669 674	human
+T29	Chemical 754 763	chemicals
+T30	Biological_Activity 895 905	inhibiting
+T31	Biological_Activity 965 973	suppress
+T32	Species 999 1005	animal
+T33	Biological_Activity 1052 1062	antitumour
+T34	Chemical 1078 1088	flavonoids
+T35	Species 1194 1200	humans
+T36	Species 1168 1173	fruit
+T37	Chemical 1202 1212	Flavonoids
+T38	Chemical 1239 1247	chemical
+T39	Chemical 1264 1272	flavones
+T40	Chemical 1274 1290	7,8-benzoflavone
+T41	Chemical 1294 1311	α -naphthoflavone
+T42	Chemical 1314 1325	isoflavones
+T43	Chemical 1327 1336	genistein
+T44	Chemical 1339 1348	flavonols
+T45	Chemical 1350 1359	quercetin
+T46	Chemical 1362 1371	flavanols
+T47	Chemical 1373 1385	(+)-catechin
+T48	Chemical 1388 1398	flavanones
+T49	Chemical 1400 1410	naringenin
+T50	Chemical 1416 1425	chalcones
+T51	Chemical 1427 1438	xanthohumol
+T52	Chemical 1107 1116;1128 1140	synthetic constituents
+T53	Chemical 1120 1140	natural constituents
+T54	Metabolite 1120 1140	natural constituents
+T55	Species 1160 1163	tea
+R19	Isolated_From Arg1:T54 Arg2:T55	
+R20	Isolated_From Arg1:T54 Arg2:T36	
+T56	Chemical 1447 1456	compounds
+T57	Chemical 1497 1504	flavane
+T58	Chemical 1547 1555;1569 1581	hydroxyl substituents
+T59	Chemical 1560 1581	methoxyl substituents
+T60	Chemical 1603 1613	Flavanones
+T61	Chemical 1684 1691	flavane
+T62	Chemical 1726 1736	naringenin
+T63	Chemical 1748 1756	chalcone
+T64	Chemical 1758 1774	chalconaringenin
+T65	Chemical 1776 1785	Chalcones
+T66	Chemical 1802 1812	flavonoids
+T67	Chemical 1830 1844	aromatic rings
+T68	Chemical 1867 1873	carbon
+T69	Chemical 1874 1900	α ,β -unsaturated carbonyl
+T70	Chemical 1923 1932	Chalcones
+T71	Chemical 1950 1960	flavanones
+T72	Chemical 2004 2018	sodium acetate
+T73	Chemical 2022 2032	methanolic
+T74	Biological_Activity 2045 2058	enzymatically
+T75	Protein 2062 2080	chalcone isomerase
+T76	Chemical 2062 2070	chalcone
+T77	Chemical 2111 2121	Flavonoids
+T78	Chemical 2133 2142	chalcones
+T79	Chemical 2147 2157	flavanones
+T80	Biological_Activity 2178 2185	inhibit
+T81	Biological_Activity 2224 2231	inhibit
+R21	Associated_With Arg1:T79 Arg2:T80	
+R22	Associated_With Arg1:T78 Arg2:T80	
+R23	Associated_With Arg1:T77 Arg2:T80	
+T82	Biological_Activity 2412 2422	biological
+T83	Chemical 2438 2447	chalcones
+T84	Chemical 2464 2472	chemical
+T85	Chemical 2497 2503;2516 2537	methyl substituted chalcones
+T86	Chemical 2508 2537	hydroxy substituted chalcones
+T87	Biological_Activity 2542 2551	cytotoxic
+R24	Associated_With Arg1:T85 Arg2:T87	
+R25	Associated_With Arg1:T86 Arg2:T87	
+T88	Chemical 2627 2656	hydroxy substituted chalcones
+T89	Species 2683 2687	mice
+T90	Chemical 2721 2730	chalcones
+T91	Chemical 2740 2768	3′-methyl-3-hydroxy-chalcone
+T92	Biological_Activity 2790 2800	antitumour
+T93	Biological_Activity 2805 2815	antitumour
+R26	Associated_With Arg1:T91 Arg2:T92	
+T94	Biological_Activity 2918 2925	inhibit
+T95	Chemical 2896 2904	compound
+R27	Associated_With Arg1:T91 Arg2:T94	
+T96	Species 2964 2969	human
+T97	Chemical 3119 3127	chalcone
+T98	Biological_Activity 3171 3187	anticarcinogenic
+T99	Chemical 3199 3207	chalcone
+T100	Chemical 3199 3217	chalcone compounds
+T101	Chemical 3233 3242	chalcones
+T102	Metabolite 3233 3242	chalcones
+T103	Chemical 3244 3255	xanthohumol
+T104	Metabolite 3244 3255	xanthohumol
+T105	Chemical 3257 3298	2′,4′,6′,4-tetrahydroxy-3′-prenylchalcone
+T106	Metabolite 3257 3298	2′,4′,6′,4-tetrahydroxy-3′-prenylchalcone
+T107	Chemical 3300 3342	2′,4′,6′,4-tetrahydroxy-3′-geranylchalcone
+T108	Metabolite 3300 3342	2′,4′,6′,4-tetrahydroxy-3′-geranylchalcone
+T109	Chemical 3344 3364	5′-prenylxanthohumol
+T110	Metabolite 3344 3364	5′-prenylxanthohumol
+T111	Chemical 3366 3389	dehydrocycloxanthohumol
+T112	Metabolite 3366 3389	dehydrocycloxanthohumol
+T113	Chemical 3394 3425	dehydrocycloxanthohumol hydrate
+T114	Metabolite 3394 3425	dehydrocycloxanthohumol hydrate
+T115	Chemical 3437 3447	flavanones
+T116	Metabolite 3437 3447	flavanones
+T117	Chemical 3449 3463	isoxanthohumol
+T118	Metabolite 3449 3463	isoxanthohumol
+T119	Chemical 3465 3483	6-prenylnaringenin
+T120	Metabolite 3465 3483	6-prenylnaringenin
+T121	Chemical 3488 3506	8-prenylnaringenin
+T122	Metabolite 3488 3506	8-prenylnaringenin
+T123	Species 3532 3536	hops
+R28	Isolated_From Arg1:T104 Arg2:T123	
+R29	Isolated_From Arg1:T106 Arg2:T123	
+R30	Isolated_From Arg1:T108 Arg2:T123	
+R31	Isolated_From Arg1:T110 Arg2:T123	
+R32	Isolated_From Arg1:T112 Arg2:T123	
+R33	Isolated_From Arg1:T114 Arg2:T123	
+R34	Isolated_From Arg1:T118 Arg2:T123	
+R35	Isolated_From Arg1:T120 Arg2:T123	
+R36	Isolated_From Arg1:T122 Arg2:T123	
+T124	Species 3576 3579	hop
+T125	Chemical 3580 3590	flavonoids
+T126	Chemical 3596 3609	prenyl groups
+T127	Chemical 3611 3622	xanthohumol
+T128	Metabolite 3580 3590	flavonoids
+T129	Metabolite 3611 3622	xanthohumol
+T130	Chemical 3624 3638	isoxanthohumol
+T131	Metabolite 3624 3638	isoxanthohumol
+T132	Chemical 3640 3658	6-prenylnaringenin
+T133	Metabolite 3640 3658	6-prenylnaringenin
+T134	Chemical 3663 3681	8-prenylnaringenin
+T135	Metabolite 3663 3681	8-prenylnaringenin
+T136	Chemical 3739 3750	Xanthohumol
+T137	Metabolite 3739 3750	Xanthohumol
+T138	Chemical 3772 3792	prenylated flavonoid
+T139	Metabolite 3772 3792	prenylated flavonoid
+T140	Chemical 3783 3792	flavonoid
+T141	Metabolite 3783 3792	flavonoid
+T142	Species 3696 3699	hop
+T143	Species 3796 3800	hops
+T144	Chemical 3809 3823	isoxanthohumol
+T145	Metabolite 3809 3823	isoxanthohumol
+T146	Chemical 3845 3854	flavonoid
+T147	Metabolite 3845 3854	flavonoid
+T148	Chemical 3914 3928	Isoxanthohumol
+T149	Metabolite 3914 3928	Isoxanthohumol
+T150	Chemical 3973 3984	xanthohumol
+T151	Metabolite 3973 3984	xanthohumol
+T152	Species 4075 4078	hop
+T153	Chemical 4064 4074;4079 4088	prenylated compounds
+T154	Chemical 4090 4101	xanthohumol
+T155	Metabolite 4090 4101	xanthohumol
+T156	Chemical 4106 4120	isoxanthohumol
+T157	Metabolite 4106 4120	isoxanthohumol
+T158	Biological_Activity 4125 4139	antineoplastic
+T159	Chemical 4167 4188	prenylated flavonoids
+T160	Metabolite 4167 4188	prenylated flavonoids
+T161	Chemical 4178 4188	flavonoids
+T162	Metabolite 4178 4188	flavonoids
+T163	Biological_Activity 4197 4206	cytotoxic
+T164	Chemical 4301 4322	prenylated flavonoids
+T165	Metabolite 4301 4322	prenylated flavonoids
+T166	Chemical 4312 4322	flavonoids
+T167	Metabolite 4312 4322	flavonoids
+T168	Species 4328 4332	hops
+T169	Biological_Activity 4366 4373	inhibit
+T170	Biological_Activity 4450 4465	chemopreventive
+T171	Biological_Activity 4538 4555	antiproliferative
+T172	Biological_Activity 4560 4569	cytotoxic
+T173	Chemical 4584 4605	prenylated flavonoids
+T174	Metabolite 4584 4605	prenylated flavonoids
+T175	Chemical 4595 4605	flavonoids
+T176	Metabolite 4595 4605	flavonoids
+T177	Species 4611 4615	hops
+T178	Species 4617 4632	Humulus lupulus
+T179	Species 4638 4643	human
+T180	Biological_Activity 4737 4749	cytotoxicity
+T181	Species 4759 4762	hop
+T182	Species 4796 4799	rat
+T183	Biological_Activity 4888 4896	toxicity
+T184	Species 4911 4917	animal
+T185	Biological_Activity 4927 4935	toxicity
+T186	Chemical 4992 4996	drug
+T187	Species 5086 5089	hop
+T188	Chemical 5090 5100	flavonoids
+T189	Metabolite 5090 5100	flavonoids
+T190	Biological_Activity 5114 5124	preventive
+T191	Species 5146 5152	humans
+T192	Chemical 5183 5192	Chemicals
+T193	Chemical 5197 5205	chalcone
+T194	Chemical 5197 5215	chalcone compounds
+T195	Biological_Activity 5244 5261	growth-inhibitory
+T196	Chemical 5278 5289	xanthohumol
+T197	Metabolite 5278 5289	xanthohumol
+T198	Chemical 5291 5293	XN
+T199	Metabolite 5291 5293	XN
+T200	Chemical 5296 5337	2′,4′,6′,4-tetrahydroxy-3′-prenylchalcone
+T201	Metabolite 5296 5337	2′,4′,6′,4-tetrahydroxy-3′-prenylchalcone
+T202	Chemical 5339 5341	TP
+T203	Metabolite 5339 5341	TP
+T204	Chemical 5344 5386	2′,4′,6′,4-tetrahydroxy-3′-geranylchalcone
+T205	Metabolite 5344 5386	2′,4′,6′,4-tetrahydroxy-3′-geranylchalcone
+T206	Chemical 5388 5390	TG
+T207	Metabolite 5388 5390	TG
+T208	Chemical 5393 5416	dehydrocycloxanthohumol
+T209	Metabolite 5393 5416	dehydrocycloxanthohumol
+T210	Chemical 5418 5420	DX
+T211	Metabolite 5418 5420	DX
+T212	Chemical 5427 5458	dehydrocycloxanthohumol hydrate
+T213	Metabolite 5427 5458	dehydrocycloxanthohumol hydrate
+T214	Chemical 5460 5462	DH
+T215	Metabolite 5197 5205	chalcone
+T216	Metabolite 5460 5462	DH
+T217	Chemical 5475 5483	chalcone
+T218	Metabolite 5475 5483	chalcone
+T219	Chemical 5485 5505	5′-prenylxanthohumol
+T220	Metabolite 5485 5505	5′-prenylxanthohumol
+T221	Species 5521 5525	hops
+T222	Chemical 5585 5599	Isoxanthohumol
+T223	Metabolite 5585 5599	Isoxanthohumol
+T224	Chemical 5601 5603	IX
+T225	Metabolite 5601 5603	IX
+T226	Chemical 5608 5617	flavanone
+T227	Metabolite 5608 5617	flavanone
+T228	Chemical 5608 5628	flavanone derivative
+T229	Chemical 5632 5634	XN
+T230	Metabolite 5632 5634	XN
+T231	Species 5655 5659	hops
+T232	Biological_Activity 5711 5728	antiproliferative
+T233	Chemical 5764 5780	Sulforhodamine B
+T234	Chemical 5782 5785	SRB
+T235	Protein 5930 5941	Collagenase
+T236	Chemical 6022 6043	Methyl -3 H]thymidine
+T237	Species 6155 6160	human
+T238	Protein 6180 6198	oestrogen receptor
+T239	Biological_Activity 6180 6189	oestrogen
+T240	Species 6237 6242	human
+T241	Species 6274 6279	human
+T242	Biological_Activity 6329 6341	cytotoxicity
+T243	Chemical 6597 6611	Sulforhodamine
+T244	Chemical 6622 6638	sulforhodamine B
+T245	Chemical 6640 6643	SRB
+T246	Biological_Activity 6709 6719	antitumour
+T247	Species 6847 6850	hop
+T248	Chemical 6847 6860	hop compounds
+T249	Metabolite 6847 6860	hop compounds
+T250	Biological_Activity 6864 6874	inhibiting
+T251	Species 6961 6966	human
+T252	Biological_Activity 6992 7009	antiproliferative
+T253	Chemical 7036 7046	flavonoids
+T254	Metabolite 7036 7046	flavonoids
+T255	Chemical 7052 7055	SRB
+T256	Protein 7085 7092	protein
+T257	Chemical 7410 7413	CO2
+T258	Species 7491 7494	hop
+T259	Chemical 7495 7505	flavonoids
+T260	Metabolite 7495 7505	flavonoids
+T261	Chemical 7571 7581	flavonoids
+T262	Metabolite 7571 7581	flavonoids
+T263	Chemical 7610 7617	ethanol
+T264	Chemical 7694 7701	ethanol
+T265	Chemical 7783 7789	phenol
+T266	Species 7891 7897	bovine
+T267	Chemical 7915 7925	penicillin
+T268	Chemical 7941 7953	streptomycin
+T269	Chemical 8141 8148	ethanol
+T270	Chemical 8266 8286	trichloroacetic acid
+T271	Chemical 8288 8291	TCA
+T272	Biological_Activity 8324 8337	proliferative
+T273	Chemical 8501 8506	water
+T274	Chemical 8517 8520	TCA
+T275	Chemical 8588 8591	SRB
+T276	Chemical 8608 8619	acetic acid
+T277	Chemical 8621 8624	SRB
+T278	Chemical 8689 8700	acetic acid
+T279	Chemical 8719 8722	dye
+T280	Chemical 8802 8805	dye
+T281	Biological_Activity 8796 8801	bound
+T282	Chemical 8858 8867	Tris base
+T283	Biological_Activity 9125 9142	antiproliferative
+T284	Chemical 9374 9384	flavonoids
+T285	Metabolite 9374 9384	flavonoids
+T286	Chemical 9915 9924	flavonoid
+T287	Metabolite 9915 9924	flavonoid
+T288	Biological_Activity 9944 9954	inhibition
+T289	Chemical 10108 10110	XN
+T290	Metabolite 10108 10110	XN
+T291	Chemical 10115 10117	IX
+T292	Metabolite 10115 10117	IX
+T293	Chemical 10164 10175	trypan blue
+T294	Chemical 10293 10299	phenol
+T295	Chemical 10340 10343	FBS
+T296	Chemical 10397 10399	XN
+T297	Metabolite 10397 10399	XN
+T298	Chemical 10403 10405	IX
+T299	Metabolite 10403 10405	IX
+T300	Chemical 10486 10489	FBS
+T301	Chemical 10586 10593	ethanol
+T302	Chemical 10711 10722	trypan blue
+T303	Chemical 10900 10903	FBS
+T304	Biological_Activity 10938 10947	cytotoxic
+T305	Biological_Activity 10952 10969	antiproliferative
+T306	Chemical 10984 10986	XN
+T307	Metabolite 10984 10986	XN
+T308	Chemical 10991 10993	IX
+T309	Metabolite 10991 10993	IX
+T310	Biological_Activity 11090 11107	Antiproliferative
+T311	Biological_Activity 11204 11220	Cytotoxicity    
+T312	Chemical 11331 11333	XN
+T313	Metabolite 11331 11333	XN
+T314	Chemical 11338 11340	IX
+T315	Metabolite 11338 11340	IX
+T316	Chemical 11473 11479	phenol
+T317	Chemical 11514 11517	FBS
+T318	Chemical 11602 11604	XN
+T319	Metabolite 11602 11604	XN
+T320	Chemical 11608 11610	IX
+T321	Metabolite 11608 11610	IX
+T322	Chemical 11638 11641	FBS
+T323	Chemical 11701 11708	ethanol
+T324	Chemical 11765 11771	phenol
+T325	Chemical 11825 11847	[methyl -3 H]thymidine
+T326	Chemical 11941 11944	TCA
+T327	Chemical 12004 12007	TCA
+T328	Chemical 12102 12106	NaOH
+T329	Chemical 12174 12177	HCl
+T330	Chemical 12485 12492	ethanol
+T331	Chemical 12607 12609	XN
+T332	Metabolite 12607 12609	XN
+T333	Chemical 12614 12616	IX
+T334	Metabolite 12614 12616	IX
+T335	Biological_Activity 12617 12623	induce
+T336	Biological_Activity 12624 12633	apoptosis
+T337	Chemical 12686 12693	agarose
+T338	Chemical 12794 12797	FBS
+T339	Chemical 12868 12870	XN
+T340	Metabolite 12868 12870	XN
+T341	Chemical 12874 12876	IX
+T342	Metabolite 12874 12876	IX
+T343	Chemical 12907 12914	ethanol
+T344	Chemical 12926 12936	flavonoids
+T345	Metabolite 12926 12936	flavonoids
+T346	Chemical 12983 12986	CO2
+T347	Chemical 13370 13377	ethanol
+T348	Chemical 13660 13667	ethanol
+T349	Chemical 13721 13726	water
+T350	Chemical 13864 13871	agarose
+T351	Chemical 13887 13903	ethidium bromide
+T352	Chemical 13937 13949	Tris-acetate
+T353	Chemical 13960 13964	EDTA
+T354	Chemical 13918 13921	TAE
+T355	Chemical 13996 14012	ethidium bromide
+T356	Chemical 14032 14037	water
+T357	Protein 14049 14056	RNAse A
+T358	Spectral_Data 14073 14075	UV
+T359	Species 14335 14338	rat
+T360	Species 14383 14402	Sprague–Dawley rats
+T361	Chemical 14557 14564	calcium
+T362	Protein 14604 14623	collagenase Type II
+T363	Chemical 14835 14842	insulin
+T364	Chemical 14857 14871	hydrocortisone
+T365	Species 14891 14897	bovine
+T366	Chemical 14905 14927	potassium penicillin G
+T367	Chemical 14939 14959	streptomycin sulfate
+T368	Chemical 14978 14992	amphotericin B
+T369	Chemical 15056 15061	nylon
+T370	Chemical 15170 15181	trypan blue
+T371	Chemical 15341 15346	CO2  
+T372	Chemical 15376 15381	CO2  
+T373	Species 15724 15727	hop
+T374	Chemical 15728 15738	flavonoids
+T375	Metabolite 15728 15738	flavonoids
+T376	Chemical 15792 15802	flavonoids
+T377	Metabolite 15792 15802	flavonoids
+T378	Chemical 15807 15814	ethanol
+T379	Metabolite 15807 15814	ethanol
+T380	Chemical 15871 15873	XN
+T381	Metabolite 15871 15873	XN
+T382	Chemical 15878 15880	IX
+T383	Metabolite 15878 15880	IX
+T384	Chemical 15949 15956	ethanol
+T385	Chemical 16077 16084	ethanol
+T386	Chemical 16113 16120	ethanol
+T387	Chemical 16171 16178	ethanol
+T388	Protein 16338 16359	lactate dehydrogenase
+T389	Biological_Activity 16339 16359	actate dehydrogenase
+T390	Chemical 16507 16513	Enzyme
+T391	Biological_Activity 16507 16513	Enzyme
+T392	Chemical 16745 16759	Sulforhodamine
+T393	Chemical 16770 16773	SRB
+T394	Chemical 16936 16939	SRB
+T395	Protein 16995 17002	protein
+T396	Chemical 17229 17232	SRB
+T397	Protein 16361 16364	LDH
+T398	Biological_Activity 16361 16364	LDH
+T399	Biological_Activity 17351 17368	antiproliferative
+T400	Chemical 17464 17473	flavonoid
+T401	Metabolite 17464 17473	flavonoid
+T402	Chemical 17495 17502	ethanol
+T403	Biological_Activity 17528 17540	Cytotoxicity
+T404	Chemical 17563 17566	SRB
+T405	Chemical 17617 17626	flavonoid
+T406	Metabolite 17617 17626	flavonoid
+T407	Chemical 17766 17775	flavonoid
+T408	Metabolite 17766 17775	flavonoid
+T409	Chemical 17779 17786	ethanol
+T410	Biological_Activity 17916 17928	cytotoxicity
+T411	Biological_Activity 17962 17979	antiproliferative
+T412	Biological_Activity 17948 17958	inhibition
+T413	Chemical 18113 18116	hop
+T414	Chemical 18117 18127	flavonoids
+T415	Metabolite 18117 18127	flavonoids
+T416	Biological_Activity 18182 18194	Cytotoxicity
+T417	Chemical 18202 18212	flavonoids
+T418	Metabolite 18202 18212	flavonoids
+T419	Chemical 18356 18365	chalcones
+T420	Metabolite 18356 18365	chalcones
+T421	Chemical 18374 18383	flavanone
+T422	Metabolite 18374 18383	flavanone
+T423	Chemical 18385 18387	IX
+T424	Metabolite 18385 18387	IX
+T425	Species 18432 18437	human
+T426	Chemical 18544 18546	DX
+T427	Metabolite 18544 18546	DX
+T428	Biological_Activity 18568 18578	inhibition
+R37	Associated_With Arg1:T427 Arg2:T428	
+R38	Associated_With Arg1:T426 Arg2:T428	
+T429	Biological_Activity 18673 18690	growth-inhibitory
+T430	Chemical 18661 18663	XN
+T431	Metabolite 18661 18663	XN
+T432	Chemical 18703 18705	DX
+T433	Metabolite 18703 18705	DX
+T434	Chemical 18707 18709	IX
+T435	Metabolite 18707 18709	IX
+T436	Chemical 18714 18716	TG
+T437	Metabolite 18714 18716	TG
+R39	Associated_With Arg1:T431 Arg2:T429	
+R40	Associated_With Arg1:T430 Arg2:T429	
+R41	Associated_With Arg1:T433 Arg2:T429	
+R42	Associated_With Arg1:T432 Arg2:T429	
+R43	Associated_With Arg1:T435 Arg2:T429	
+R44	Associated_With Arg1:T434 Arg2:T429	
+R45	Associated_With Arg1:T437 Arg2:T429	
+R46	Associated_With Arg1:T436 Arg2:T429	
+T438	Chemical 18753 18763	flavonoids
+T439	Metabolite 18753 18763	flavonoids
+T440	Biological_Activity 18792 18801	inhibited
+T441	Chemical 18771 18773	TP
+T442	Metabolite 18771 18773	TP
+R49	Associated_With Arg1:T439 Arg2:T440	
+R50	Associated_With Arg1:T438 Arg2:T440	
+T443	Biological_Activity 18847 18857	inhibition
+T444	Chemical 18917 18919	XN
+T445	Metabolite 18917 18919	XN
+T446	Chemical 18921 18923	DX
+T447	Metabolite 18921 18923	DX
+T448	Chemical 18928 18930	IX
+T449	Metabolite 18928 18930	IX
+T450	Chemical 18983 18985	XN
+T451	Metabolite 18983 18985	XN
+T452	Chemical 19006 19015	flavonoid
+T453	Metabolite 19006 19015	flavonoid
+T454	Chemical 19038 19048	flavonoids
+T455	Metabolite 19038 19048	flavonoids
+T456	Biological_Activity 19067 19076	inhibited
+T457	Species 19168 19171	hop
+T458	Chemical 19172 19182	flavonoids
+T459	Species 19196 19201	human
+T460	Species 19286 19291	human
+T461	Biological_Activity 19337 19346	inhibited
+T462	Chemical 19388 19390	XN
+T463	Metabolite 19388 19390	XN
+T464	Chemical 19395 19397	DX
+T465	Metabolite 19395 19397	DX
+T466	Chemical 19495 19497	TP
+T467	Metabolite 19495 19497	TP
+T468	Chemical 19499 19501	DH
+T469	Metabolite 19499 19501	DH
+T470	Chemical 19506 19508	IX
+T471	Metabolite 19506 19508	IX
+T472	Chemical 19594 19604	flavonoids
+T473	Metabolite 19594 19604	flavonoids
+T474	Biological_Activity 19613 19620	inhibit
+T475	Chemical 19685 19695	flavonoids
+T476	Metabolite 19685 19695	flavonoids
+T477	Biological_Activity 19714 19723	inhibited
+T478	Biological_Activity 19813 19830	antiproliferative
+T479	Metabolite 19172 19182	flavonoids
+T480	Species 19843 19846	hop
+T481	Chemical 19847 19857	flavonoids
+T482	Metabolite 19847 19857	flavonoids
+T483	Biological_Activity 19934 19943	inhibited
+T484	Chemical 19955 19965	flavonoids
+T485	Metabolite 19955 19965	flavonoids
+T486	Chemical 19984 19986	XN
+T487	Metabolite 19984 19986	XN
+T488	Chemical 19988 19990	TP
+T489	Metabolite 19988 19990	TP
+T490	Chemical 19995 19997	TG
+T491	Metabolite 19995 19997	TG
+R47	Associated_With Arg1:T487 Arg2:T478	
+R48	Associated_With Arg1:T486 Arg2:T478	
+R51	Associated_With Arg1:T489 Arg2:T478	
+R52	Associated_With Arg1:T488 Arg2:T478	
+R53	Associated_With Arg1:T491 Arg2:T478	
+R54	Associated_With Arg1:T490 Arg2:T478	
+T492	Biological_Activity 20058 20068	inhibition
+T493	Chemical 20113 20115	TP
+T494	Metabolite 20113 20115	TP
+T495	Chemical 20120 20122	TG
+T496	Metabolite 20120 20122	TG
+T497	Chemical 20145 20155	flavonoids
+T498	Metabolite 20145 20155	flavonoids
+T499	Biological_Activity 20168 20173	toxic
+R55	Associated_With Arg1:T498 Arg2:T499	
+R56	Associated_With Arg1:T497 Arg2:T499	
+R57	Associated_With Arg1:T494 Arg2:T499	
+R58	Associated_With Arg1:T493 Arg2:T499	
+R59	Associated_With Arg1:T496 Arg2:T499	
+R60	Associated_With Arg1:T495 Arg2:T499	
+R61	Associated_With Arg1:T487 Arg2:T499	
+R62	Associated_With Arg1:T487 Arg2:T499	
+T500	Chemical 20214 20224	flavonoids
+T501	Metabolite 20214 20224	flavonoids
+T502	Chemical 20256 20258	XN
+T503	Metabolite 20256 20258	XN
+T504	Biological_Activity 20270 20279	inhibited
+T505	Chemical 20351 20361	flavonoids
+T506	Metabolite 20351 20361	flavonoids
+T507	Biological_Activity 20380 20389	inhibited
+T508	Biological_Activity 20532 20549	growth-inhibitory
+T509	Chemical 20562 20564	XN
+T510	Metabolite 20562 20564	XN
+T511	Chemical 20566 20568	DX
+T512	Metabolite 20566 20568	DX
+T513	Chemical 20573 20575	IX
+T514	Metabolite 20573 20575	IX
+R63	Associated_With Arg1:T510 Arg2:T508	
+R64	Associated_With Arg1:T509 Arg2:T508	
+T515	Chemical 20663 20673	flavonoids
+T516	Metabolite 20663 20673	flavonoids
+T517	Biological_Activity 20758 20765	inhibit
+T518	Biological_Activity 20842 20859	antiproliferative
+T519	Chemical 20872 20874	XN
+T520	Metabolite 20872 20874	XN
+T521	Species 20931 20936	human
+R65	Associated_With Arg1:T482 Arg2:T478	
+R66	Associated_With Arg1:T481 Arg2:T478	
+T522	Biological_Activity 21017 21034	growth-inhibitory
+T523	Chemical 21047 21049	XN
+T524	Metabolite 21047 21049	XN
+T525	Chemical 21123 21125	XN
+T526	Metabolite 21123 21125	XN
+T527	Chemical 21213 21215	XN
+T528	Metabolite 21213 21215	XN
+T529	Chemical 21217 21219	DX
+T530	Metabolite 21217 21219	DX
+T531	Chemical 21224 21226	IX
+T532	Species 21340 21345	human
+T533	Chemical 21379 21389	flavonoids
+T534	Metabolite 21379 21389	flavonoids
+T535	Chemical 21391 21393	XN
+T536	Metabolite 21391 21393	XN
+T537	Chemical 21395 21397	DX
+T538	Metabolite 21395 21397	DX
+T539	Chemical 21402 21404	IX
+T540	Metabolite 21402 21404	IX
+T541	Biological_Activity 21416 21426	inhibitory
+T542	Chemical 21491 21493	XN
+T543	Metabolite 21491 21493	XN
+T544	Chemical 21518 21520	DX
+T545	Metabolite 21518 21520	DX
+T546	Chemical 21524 21526	IX
+T547	Metabolite 21524 21526	IX
+T548	Biological_Activity 21530 21540	inhibiting
+T549	Biological_Activity 21599 21616	Antiproliferative
+T550	Chemical 21628 21630	XN
+T551	Metabolite 21628 21630	XN
+T552	Chemical 21635 21637	IX
+T553	Metabolite 21635 21637	IX
+T554	Chemical 21694 21705	trypan blue
+T555	Biological_Activity 21755 21772	antiproliferative
+T556	Chemical 21787 21789	XN
+T557	Metabolite 21787 21789	XN
+T558	Chemical 21794 21796	IX
+T559	Metabolite 21794 21796	IX
+R67	Associated_With Arg1:T553 Arg2:T549	
+R68	Associated_With Arg1:T552 Arg2:T549	
+T560	Chemical 21980 21982	XN
+T561	Metabolite 21980 21982	XN
+T562	Chemical 21987 21989	IX
+T563	Metabolite 21987 21989	IX
+T564	Biological_Activity 22030 22043	proliferation
+T565	Chemical 22123 22133	flavonoids
+T566	Metabolite 22123 22133	flavonoids
+T567	Biological_Activity 22148 22157	inhibited
+T568	Chemical 22234 22236	XN
+T569	Metabolite 22234 22236	XN
+T570	Biological_Activity 22251 22260	inhibited
+T571	Biological_Activity 22265 22278	proliferation
+T572	Chemical 22369 22371	IX
+T573	Metabolite 22369 22371	IX
+T574	Biological_Activity 22426 22436	inhibition
+T575	Biological_Activity 22437 22444	induced
+T576	Chemical 22448 22450	XN
+T577	Metabolite 22448 22450	XN
+R69	Associated_With Arg1:T577 Arg2:T575	
+R70	Associated_With Arg1:T576 Arg2:T575	
+T578	Chemical 22486 22488	IX
+T579	Metabolite 22486 22488	IX
+T580	Biological_Activity 22496 22506	inhibitory
+T581	Chemical 22541 22543	XN
+T582	Metabolite 22541 22543	XN
+T583	Chemical 22548 22550	IX
+T584	Metabolite 22548 22550	IX
+T585	Biological_Activity 22571 22581	inhibition
+T586	Chemical 22674 22677	FBS
+T587	Biological_Activity 22713 22722	Cytotoxic
+T588	Chemical 22734 22736	XN
+T589	Metabolite 22734 22736	XN
+T590	Chemical 22741 22743	IX
+T591	Metabolite 22741 22743	IX
+R71	Associated_With Arg1:T589 Arg2:T587	
+R72	Associated_With Arg1:T588 Arg2:T587	
+R73	Associated_With Arg1:T591 Arg2:T587	
+R74	Associated_With Arg1:T590 Arg2:T587	
+T592	Chemical 22800 22811	trypan blue
+T593	Biological_Activity 22829 22841	Cytotoxicity
+T594	Chemical 22845 22847	XN
+T595	Metabolite 22845 22847	XN
+T596	Chemical 22852 22854	IX
+T597	Metabolite 22852 22854	IX
+T598	Chemical 22897 22908	trypan blue
+T599	Chemical 22935 22937	XN
+T600	Metabolite 22935 22937	XN
+T601	Chemical 22942 22944	IX
+T602	Metabolite 22942 22944	IX
+T603	Biological_Activity 22972 22984	cytotoxicity
+T604	Chemical 23060 23070	flavonoids
+T605	Metabolite 23060 23070	flavonoids
+T606	Chemical 23111 23113	XN
+T607	Metabolite 23111 23113	XN
+T608	Chemical 23122 23124	IX
+T609	Metabolite 23122 23124	IX
+T610	Biological_Activity 23138 23143	toxic
+T611	Chemical 23218 23220	XN
+T612	Metabolite 23218 23220	XN
+T613	Biological_Activity 23237 23242	toxic
+T614	Chemical 23315 23317	IX
+T615	Metabolite 23315 23317	IX
+T616	Biological_Activity 23337 23345	toxicity
+T617	Chemical 23374 23376	XN
+T618	Metabolite 23374 23376	XN
+T619	Chemical 23380 23382	IX
+T620	Metabolite 23380 23382	IX
+T621	Chemical 23583 23585	XN
+T622	Metabolite 23583 23585	XN
+T623	Chemical 23590 23592	IX
+T624	Metabolite 23590 23592	IX
+T625	Chemical 23640 23642	XN
+T626	Metabolite 23640 23642	XN
+T627	Chemical 23647 23649	IX
+T628	Metabolite 23647 23649	IX
+T629	Biological_Activity 23653 23666	DNA synthesis
+T630	Biological_Activity 11344 11357	DNA synthesis
+T631	Biological_Activity 23596 23609	DNA synthesis
+T632	Biological_Activity 23808 23821	DNA synthesis
+T633	Chemical 23685 23699	[3 H]thymidine
+T634	Chemical 23760 23762	XN
+T635	Metabolite 23760 23762	XN
+T636	Chemical 23767 23769	IX
+T637	Metabolite 23767 23769	IX
+T638	Biological_Activity 23794 23804	inhibition
+R75	Associated_With Arg1:T637 Arg2:T638	
+R76	Associated_With Arg1:T636 Arg2:T638	
+R77	Associated_With Arg1:T635 Arg2:T638	
+R78	Associated_With Arg1:T634 Arg2:T638	
+R79	Associated_With Arg1:T637 Arg2:T632	
+R80	Associated_With Arg1:T636 Arg2:T632	
+R81	Associated_With Arg1:T635 Arg2:T632	
+R82	Associated_With Arg1:T634 Arg2:T632	
+T639	Chemical 23861 23863	XN
+T640	Metabolite 23861 23863	XN
+T641	Biological_Activity 23864 23873	inhibited
+T642	Chemical 23874 23888	[3 H]thymidine
+T643	Chemical 23937 23939	IX
+T644	Metabolite 23937 23939	IX
+T645	Chemical 23986 24000	[3 H]thymidine
+T646	Chemical 24056 24058	XN
+T647	Metabolite 24056 24058	XN
+T648	Chemical 24074 24076	IX
+T649	Metabolite 24074 24076	IX
+T650	Biological_Activity 24099 24109	inhibition
+T651	Biological_Activity 24113 24126	DNA synthesis
+T652	Chemical 24200 24202	IX
+T653	Metabolite 24200 24202	IX
+T654	Chemical 24227 24229	XN
+T655	Metabolite 24227 24229	XN
+T656	Biological_Activity 24233 24243	inhibiting
+T657	Chemical 24244 24253	thymidine
+T658	Chemical 24318 24320	XN
+T659	Metabolite 24318 24320	XN
+T660	Chemical 24346 24348	IX
+T661	Metabolite 24346 24348	IX
+T662	Biological_Activity 24330 24340	inhibitory
+T663	Chemical 24350 24352	XN
+T664	Metabolite 24350 24352	XN
+T665	Biological_Activity 24382 24392	inhibition
+T666	Chemical 24396 24405	thymidine
+T667	Biological_Activity 24459 24469	inhibition
+T668	Biological_Activity 24557 24567	inhibitory
+T669	Chemical 24578 24580	XN
+T670	Metabolite 24578 24580	XN
+T671	Chemical 24665 24672	Agarose
+T672	Biological_Activity 24689 24706	DNA fragmentation
+T673	Biological_Activity 24731 24740	apoptosis
+T674	Chemical 24818 24820	Ca
+T675	Protein 24834 24847	endonucleases
+T676	Chemical 25036 25043	agarose
+T677	Chemical 25058 25060	XN
+T678	Metabolite 25058 25060	XN
+T679	Chemical 25065 25067	IX
+T680	Metabolite 25065 25067	IX
+T681	Biological_Activity 25115 25132	DNA fragmentation
+T682	Biological_Activity 25209 25217	Toxicity
+T683	Species 25221 25224	hop
+T684	Chemical 25225 25235	flavonoids
+T685	Metabolite 25225 25235	flavonoids
+T686	Species 25239 25242	rat
+T687	Chemical 25279 25281	XN
+T688	Biological_Activity 25267 25275	toxicity
+T689	Metabolite 25279 25281	XN
+T690	Chemical 25283 25285	TP
+T691	Metabolite 25283 25285	TP
+T692	Chemical 25287 25289	TG
+T693	Metabolite 25287 25289	TG
+T694	Chemical 25291 25293	DH
+T695	Metabolite 25291 25293	DH
+T696	Chemical 25298 25300	IX
+T697	Metabolite 25298 25300	IX
+T698	Species 25324 25327	rat
+T699	Protein 25371 25392	lactate dehydrogenase
+T700	Chemical 25471 25481	flavonoids
+T701	Metabolite 25471 25481	flavonoids
+T702	Biological_Activity 25627 25632	toxic
+T703	Chemical 25605 25607	XN
+T704	Metabolite 25605 25607	XN
+T705	Chemical 25612 25614	IX
+T706	Metabolite 25612 25614	IX
+R83	Associated_With Arg1:T706 Arg2:T702	
+R84	Associated_With Arg1:T705 Arg2:T702	
+R85	Associated_With Arg1:T704 Arg2:T702	
+R86	Associated_With Arg1:T703 Arg2:T702	
+T707	Biological_Activity 25657 25665	toxicity
+T708	Chemical 25669 25671	TP
+T709	Metabolite 25669 25671	TP
+T710	Chemical 25673 25675	TG
+T711	Metabolite 25673 25675	TG
+T712	Chemical 25680 25682	DH
+T713	Metabolite 25680 25682	DH
+T714	Chemical 25753 25763	flavonoids
+T715	Metabolite 25753 25763	flavonoids
+T716	Biological_Activity 25814 25822	toxicity
+T717	Species 25837 25840	rat
+T718	Chemical 25864 25866	DX
+T719	Metabolite 25864 25866	DX
+T720	Species 25954 25957	hop
+T721	Chemical 25958 25968	flavonoids
+T722	Metabolite 25958 25968	flavonoids
+T723	Biological_Activity 25976 25983	inhibit
+T724	Species 26067 26070	rat
+T728	Species 26336 26340	hops
+T729	Biological_Activity 26350 26367	antiproliferative
+T730	Chemical 26512 26521	chalcones
+T731	Chemical 26523 26529	butein
+T732	Chemical 26531 26549	2′-hydroxychalcone
+T733	Chemical 26551 26568	2-hydroxychalcone
+T734	Chemical 26570 26604	2′,6′-dihydroxy-4′-methoxychalcone
+T735	Chemical 26609 26631	2′,4-dihydroxychalcone
+T736	Biological_Activity 26636 26646	inhibitors
+T737	Chemical 26753 26768	hydroxyl groups
+T738	Chemical 26776 26784	chalcone
+T739	Chemical 26911 26919	hydroxyl
+T740	Chemical 26979 26991	prenyl group
+T741	Biological_Activity 27014 27031	antiproliferative
+T742	Chemical 27044 27053	chalcones
+T743	Chemical 27129 27147	chalcone compounds
+T725	Chemical 26268 26279;26303 26321	synthesized chalcone compounds
+T726	Chemical 26283 26321	naturally-occurring chalcone compounds
+T727	Metabolite 26283 26321	naturally-occurring chalcone compounds
+R87	Associated_With Arg1:T727 Arg2:T729	
+R88	Associated_With Arg1:T726 Arg2:T729	
+R89	Associated_With Arg1:T725 Arg2:T729	
+T744	Metabolite 27129 27147	chalcone compounds
+T745	Species 27157 27161	hops
+T746	Biological_Activity 27167 27184	antiproliferative
+T747	Species 27204 27209	human
+T748	Chemical 27272 27286	sulforhodamine
+T749	Species 27317 27320	hop
+T750	Metabolite 27321 27330	chalcones
+T751	Chemical 27321 27330	chalcones
+T752	Chemical 27339 27341	XN
+T753	Biological_Activity 27365 27382	antiproliferative
+T754	Metabolite 27339 27341	XN
+T755	Species 27392 27397	human
+T756	Chemical 27489 27491	IX
+T757	Metabolite 27489 27491	IX
+T758	Biological_Activity 27516 27525	inhibitor
+T759	Chemical 27560 27562	TP
+T760	Metabolite 27560 27562	TP
+T761	Chemical 27567 27569	DH
+T762	Metabolite 27567 27569	DH
+T763	Biological_Activity 27687 27704	antiproliferative
+T764	Species 27728 27731	hop
+T765	Chemical 27732 27742	flavonoids
+T766	Metabolite 27732 27742	flavonoids
+T767	Chemical 27784 27793	chalcones
+T768	Chemical 27881 27889	chalcone
+T769	Chemical 27918 27931	methoxy group
+T770	Chemical 27936 27938	XN
+T771	Metabolite 27936 27938	XN
+T772	Chemical 27954 27968	hydroxyl group
+T773	Chemical 27973 27975	TP
+T774	Metabolite 27973 27975	TP
+T775	Biological_Activity 28043 28053	inhibitory
+T776	Chemical 28070 28078	chalcone
+T777	Metabolite 28070 28078	chalcone
+T778	Metabolite 27784 27793	chalcones
+T779	Chemical 28181 28193	prenyl group
+T780	Chemical 28201 28214	geranyl group
+T781	Chemical 28235 28237	TP
+T782	Metabolite 28235 28237	TP
+T783	Chemical 28241 28243	TG
+T784	Metabolite 28241 28243	TG
+T785	Chemical 28324 28338	hydroxyl group
+T786	Chemical 28342 28344	DX
+T787	Metabolite 28342 28344	DX
+T788	Chemical 28352 28354	DH
+T789	Metabolite 28352 28354	DH
+T790	Biological_Activity 28370 28387	antiproliferative
+T791	Chemical 28454 28462	chalcone
+T792	Metabolite 28454 28462	chalcone
+T793	Chemical 28468 28477	flavanone
+T794	Metabolite 28468 28477	flavanone
+T795	Chemical 28479 28481	XN
+T796	Metabolite 28479 28481	XN
+T797	Chemical 28485 28487	IX
+T798	Metabolite 28485 28487	IX
+T799	Biological_Activity 28514 28531	antiproliferative
+T800	Chemical 28568 28570	IX
+T801	Metabolite 28568 28570	IX
+T802	Species 28595 28599	hops
+T803	Chemical 28625 28634	flavonoid
+T804	Metabolite 28625 28634	flavonoid
+T805	Chemical 28686 28688	XN
+T806	Metabolite 28686 28688	XN
+T807	Biological_Activity 28849 28854	toxic
+T808	Chemical 28866 28868	XN
+T809	Metabolite 28866 28868	XN
+T810	Chemical 28870 28872	TP
+T811	Metabolite 28870 28872	TP
+T812	Chemical 28877 28879	TG
+T813	Metabolite 28877 28879	TG
+T814	Biological_Activity 28944 28953	cytotoxic
+T815	Chemical 28929 28938	chalcones
+T816	Metabolite 28929 28938	chalcones
+T817	Chemical 29024 29026	TP
+T818	Metabolite 29024 29026	TP
+T819	Chemical 29030 29032	TG
+T820	Metabolite 29030 29032	TG
+T821	Biological_Activity 29073 29080	inhibit
+T822	Chemical 29135 29137	XN
+T823	Metabolite 29135 29137	XN
+T824	Chemical 29288 29290	DX
+T825	Metabolite 29288 29290	DX
+T826	Chemical 29295 29297	IX
+T827	Metabolite 29295 29297	IX
+T828	Species 29380 29383	hop
+T829	Chemical 29384 29394	flavonoids
+T830	Metabolite 29384 29394	flavonoids
+T831	Biological_Activity 29580 29597	antiproliferative
+T832	Species 29614 29617	hop
+T833	Chemical 29618 29628	flavonoids
+T834	Metabolite 29618 29628	flavonoids
+T835	Biological_Activity 29668 29682	detoxification
+T836	Chemical 29690 29700	flavonoids
+T837	Metabolite 29690 29700	flavonoids
+T838	Chemical 29826 29836	flavonoids
+T839	Metabolite 29826 29836	flavonoids
+T840	Chemical 29863 29873	flavonoids
+T841	Metabolite 29863 29873	flavonoids
+T842	Biological_Activity 29883 29893	inhibitory
+T843	Chemical 29863 29872;29894 29905	flavonoid metabolites
+T844	Metabolite 29863 29872;29894 29905	flavonoid metabolites
+T845	Biological_Activity 29967 29981	detoxification
+T846	Species 30051 30054	rat
+T847	Protein 30055 30067	P450 enzymes
+T848	Chemical 30083 30091	hydroxyl
+T849	Chemical 30115 30125	flavanones
+T850	Chemical 30127 30135	flavones
+T851	Chemical 30139 30148	flavonols
+T852	Protein 30200 30223	cytochrome P450 enzymes
+T853	Biological_Activity 30244 30254	metabolism
+T854	Chemical 30258 30260	XN
+T855	Metabolite 30258 30260	XN
+T856	Species 30264 30267	rat
+T857	Species 30333 30338	human
+T858	Biological_Activity 30356 30364	detoxify
+T859	Species 30369 30372	hop
+T860	Chemical 30373 30383	flavonoids
+T861	Metabolite 30373 30383	flavonoids
+T862	Biological_Activity 30400 30409	metabolic
+T863	Species 30428 30431	hop
+T864	Chemical 30432 30442	flavonoids
+T865	Metabolite 30432 30442	flavonoids
+T866	Species 30450 30455	human
+T867	Species 30533 30538	human
+T868	Biological_Activity 30593 30603	metabolism
+T869	Species 30632 30635	hop
+T870	Chemical 30636 30645	chalcones
+T871	Metabolite 30636 30645	chalcones
+T872	Biological_Activity 30665 30675	inhibiting
+T873	Chemical 30761 30770	chalcones
+T874	Biological_Activity 30795 30812	antiproliferative
+R90	Associated_With Arg1:T873 Arg2:T874	
+T875	Chemical 30970 30975	drugs
+T876	Protein 31004 31018	P-glycoprotein
+T877	Protein 31157 31171	P-glycoprotein
+T878	Chemical 31213 31215	XN
+T879	Metabolite 31213 31215	XN
+T880	Chemical 31268 31278	flavonoids
+T881	Metabolite 31268 31278	flavonoids
+T882	Chemical 31297 31318	prenylated flavonoids
+T883	Metabolite 31297 31318	prenylated flavonoids
+T884	Metabolite 31308 31318	flavonoids
+T885	Biological_Activity 31338 31348	inactivate
+T886	Protein 31353 31367	P-glycoprotein
+T887	Chemical 31408 31411	ATP
+T888	Chemical 31308 31318	flavonoids
+R91	Associated_With Arg1:T883 Arg2:T885	
+R92	Associated_With Arg1:T882 Arg2:T885	
+R93	Binds_With Arg1:T883 Arg2:T886	
+R94	Binds_With Arg1:T882 Arg2:T886	
+T889	Chemical 31416 31423	steroid
+T890	Protein 31424 31437	binding sites
+T891	Protein 31445 31452	protein
+T892	Species 31485 31488	hop
+T893	Chemical 31489 31499	flavonoids
+T894	Metabolite 31489 31499	flavonoids
+T895	Protein 31525 31532	protein
+T896	Biological_Activity 31560 31577	growth-inhibitory
+T897	Species 31652 31655	hop
+T898	Chemical 31656 31666	flavonoids
+T899	Metabolite 31656 31666	flavonoids
+T900	Protein 31672 31686	P-glycoprotein
+T901	Species 31787 31790	hop
+T902	Chemical 31791 31801	flavonoids
+T903	Metabolite 31791 31801	flavonoids
+T904	Biological_Activity 31866 31883	antiproliferative
+T905	Biological_Activity 31902 31914	cytotoxicity
+T906	Chemical 31918 31920	XN
+T907	Metabolite 31918 31920	XN
+T908	Chemical 31925 31927	IX
+T909	Metabolite 31925 31927	IX
+T910	Chemical 32081 32092	trypan blue
+T911	Chemical 32307 32309	XN
+T912	Metabolite 32307 32309	XN
+T913	Biological_Activity 32310 32319	inhibited
+T914	Biological_Activity 32413 32421	toxicity
+T915	Chemical 32466 32468	IX
+T916	Metabolite 32466 32468	IX
+T917	Biological_Activity 32473 32490	growth-inhibitory
+T918	Chemical 32542 32544	XN
+T919	Metabolite 32542 32544	XN
+T920	Chemical 32549 32551	IX
+T921	Metabolite 32549 32551	IX
+T922	Biological_Activity 32552 32561	inhibited
+T923	Biological_Activity 32684 32701	antiproliferative
+T924	Chemical 32714 32716	XN
+T925	Metabolite 32714 32716	XN
+T926	Chemical 32721 32723	IX
+T927	Metabolite 32721 32723	IX
+T928	Biological_Activity 32784 32793	cytotoxic
+T929	Chemical 32811 32821	flavonoids
+T930	Metabolite 32811 32821	flavonoids
+T931	Biological_Activity 32927 32944	antiproliferative
+T932	Chemical 32957 32959	XN
+T933	Metabolite 32957 32959	XN
+T934	Chemical 32964 32966	IX
+T935	Metabolite 32964 32966	IX
+T936	Biological_Activity 33026 33036	inhibition
+T937	Chemical 33118 33128	flavonoids
+T938	Metabolite 33118 33128	flavonoids
+T939	Species 33159 33164	human
+T940	Chemical 33226 33240	sulforhodamine
+T941	Biological_Activity 33394 33404	Inhibition
+T942	Biological_Activity 33408 33421	DNA synthesis
+T943	Chemical 33460 33462	XN
+T944	Metabolite 33460 33462	XN
+T945	Chemical 33467 33469	IX
+T946	Metabolite 33467 33469	IX
+T947	Biological_Activity 33482 33499	antiproliferative
+T948	Chemical 33546 33548	XN
+T949	Metabolite 33546 33548	XN
+T950	Chemical 33553 33555	IX
+T951	Metabolite 33553 33555	IX
+T952	Biological_Activity 33580 33590	inhibition
+T953	Biological_Activity 33594 33607	DNA synthesis
+T954	Chemical 33624 33638	[3 H]thymidine
+T955	Chemical 33719 33721	XN
+T956	Metabolite 33719 33721	XN
+T957	Chemical 33756 33758	IX
+T958	Metabolite 33756 33758	IX
+T959	Biological_Activity 33781 33791	inhibiting
+T960	Biological_Activity 33866 33876	inhibition
+T961	Chemical 33895 33897	XN
+T962	Metabolite 33895 33897	XN
+T963	Chemical 33903 33905	IX
+T964	Metabolite 33903 33905	IX
+T965	Biological_Activity 34000 34017	antiproliferative
+T966	Chemical 34030 34032	XN
+T967	Metabolite 34030 34032	XN
+T968	Chemical 34037 34039	IX
+T969	Metabolite 34037 34039	IX
+T970	Chemical 34060 34070	isoflavone
+T971	Chemical 34071 34080	genistein
+T972	Biological_Activity 34089 34101	cytotoxicity
+R95	Associated_With Arg1:T971 Arg2:T972	
+T973	Biological_Activity 34106 34123	growth inhibition
+R96	Associated_With Arg1:T971 Arg2:T973	
+T974	Biological_Activity 34156 34166	inhibition
+T975	Biological_Activity 34170 34183	DNA synthesis
+T976	Protein 34185 34209	protein tyrosine kinases
+T977	Protein 34225 34243	DNA topoisomerases
+T978	Biological_Activity 34282 34291	induction
+T979	Biological_Activity 34295 34304	apoptosis
+R97	Associated_With Arg1:T971 Arg2:T974	
+R98	Associated_With Arg1:T971 Arg2:T975	
+R99	Associated_With Arg1:T971 Arg2:T978	
+R100	Associated_With Arg1:T971 Arg2:T979	
+R101	Binds_With Arg1:T971 Arg2:T976	
+R102	Binds_With Arg1:T971 Arg2:T977	
+T980	Chemical 34343 34350	flavone
+T981	Chemical 34351 34363	flavopiridol
+T982	Biological_Activity 34364 34371	induces
+T983	Biological_Activity 34081 34088	induces
+R103	Associated_With Arg1:T971 Arg2:T983	
+T984	Biological_Activity 34395 34404	apoptosis
+R104	Associated_With Arg1:T981 Arg2:T982	
+T985	Biological_Activity 34377 34390	growth arrest
+R105	Associated_With Arg1:T981 Arg2:T985	
+R106	Associated_With Arg1:T981 Arg2:T984	
+T986	Species 34481 34484	hop
+T987	Chemical 34485 34495	flavonoids
+T988	Metabolite 34485 34495	flavonoids
+T989	Biological_Activity 34506 34519	growth arrest
+R107	Associated_With Arg1:T988 Arg2:T989	
+R108	Associated_With Arg1:T987 Arg2:T989	
+T990	Chemical 34570 34590	prenylated chalcones
+T991	Metabolite 34570 34590	prenylated chalcones
+T992	Chemical 34581 34590	chalcones
+T993	Metabolite 34581 34590	chalcones
+T994	Biological_Activity 34610 34616	induce
+T995	Biological_Activity 34617 34626	apoptosis
+R109	Associated_With Arg1:T991 Arg2:T995	
+R110	Associated_With Arg1:T990 Arg2:T995	
+R111	Associated_With Arg1:T991 Arg2:T994	
+R112	Associated_With Arg1:T990 Arg2:T994	
+T996	Biological_Activity 34678 34687	apoptosis
+T997	Species 34726 34729	hop
+T998	Chemical 34730 34740	flavonoids
+T999	Metabolite 34730 34740	flavonoids
+T1000	Chemical 34749 34751	XN
+T1001	Metabolite 34749 34751	XN
+T1002	Chemical 34756 34758	IX
+T1003	Metabolite 34756 34758	IX
+T1004	Chemical 34849 34851	XN
+T1005	Metabolite 34849 34851	XN
+T1006	Chemical 34856 34858	IX
+T1007	Metabolite 34856 34858	IX
+T1008	Biological_Activity 34882 34888	induce
+T1009	Biological_Activity 34889 34898	apoptosis
+T1010	Chemical 34950 34957	agarose
+T1011	Biological_Activity 35029 35038	apoptosis
+T1012	Chemical 35049 35052	TdT
+T1013	Chemical 35147 35149	XN
+T1014	Metabolite 35147 35149	XN
+T1015	Chemical 35154 35156	IX
+T1016	Metabolite 35154 35156	IX
+T1017	Biological_Activity 35164 35170	induce
+T1018	Biological_Activity 35171 35180	apoptosis
+T1019	Chemical 35214 35216	XN
+T1020	Metabolite 35214 35216	XN
+T1021	Biological_Activity 35220 35235	anti-neoplastic
+T1022	Biological_Activity 35313 35327	inhibit growth
+T1023	Chemical 35372 35382	flavonoids
+T1024	Metabolite 35372 35382	flavonoids
+T1025	Chemical 35391 35400	genistein
+T1026	Chemical 35402 35411	Genistein
+T1027	Biological_Activity 35412 35421;35426 35432	inhibited growth
+R113	Associated_With Arg1:T1026 Arg2:T1027	
+T1028	Chemical 35458 35461	SRB
+T1029	Chemical 35610 35619	genistein
+T1030	Chemical 35684 35686	XN
+T1031	Metabolite 35684 35686	XN
+T1032	Biological_Activity 35762 35771	inhibitor
+T1033	Biological_Activity 35775 35788	DNA synthesis
+T1034	Chemical 35805 35814	genistein
+T1035	Chemical 35876 35878	XN
+T1036	Metabolite 35876 35878	XN
+T1037	Chemical 35963 35965	XN
+T1038	Metabolite 35963 35965	XN
+T1039	Biological_Activity 36000 36017	antiproliferative
+T1040	Chemical 36029 36038	genistein
+T1041	Metabolite 36029 36038	genistein
+T1042	Metabolite 34071 34080	genistein
+R114	Associated_With Arg1:T1042 Arg2:T983	
+R115	Associated_With Arg1:T1042 Arg2:T972	
+R116	Associated_With Arg1:T1042 Arg2:T973	
+R117	Associated_With Arg1:T1042 Arg2:T974	
+R118	Associated_With Arg1:T1042 Arg2:T975	
+R119	Binds_With Arg1:T1042 Arg2:T976	
+R120	Binds_With Arg1:T1042 Arg2:T977	
+R121	Associated_With Arg1:T1042 Arg2:T978	
+R122	Associated_With Arg1:T1042 Arg2:T979	
+T1043	Chemical 36042 36051	flavonoid
+T1044	Metabolite 36042 36051	flavonoid
+T1045	Biological_Activity 36091 36106	chemopreventive
+R123	Associated_With Arg1:T1041 Arg2:T1039	
+R124	Associated_With Arg1:T1040 Arg2:T1039	
+R125	Associated_With Arg1:T1041 Arg2:T1045	
+R126	Associated_With Arg1:T1040 Arg2:T1045	
+T1046	Species 36146 36152	citrus
+T1047	Metabolite 36153 36163	flavanones
+T1048	Chemical 36153 36163	flavanones
+T1049	Chemical 36165 36175	naringenin
+T1050	Metabolite 36165 36175	naringenin
+T1051	Chemical 36180 36190	hesperetin
+T1052	Metabolite 36180 36190	hesperetin
+T1053	Biological_Activity 36211 36218	inhibit
+T1054	Biological_Activity 36223 36236	proliferation
+T1055	Protein 36240 36258	oestrogen receptor
+T1056	Protein 36283 36301	oestrogen receptor
+T1057	Species 36317 36322	human
+T1058	Chemical 36360 36374	[3 H]thymidine
+R127	Associated_With Arg1:T1052 Arg2:T1053	
+R128	Associated_With Arg1:T1051 Arg2:T1053	
+R129	Associated_With Arg1:T1050 Arg2:T1053	
+R130	Associated_With Arg1:T1050 Arg2:T1054	
+R131	Associated_With Arg1:T1049 Arg2:T1053	
+R132	Associated_With Arg1:T1049 Arg2:T1054	
+R133	Associated_With Arg1:T1052 Arg2:T1054	
+R134	Associated_With Arg1:T1051 Arg2:T1054	
+T1059	Chemical 36455 36465	flavanones
+T1060	Metabolite 36455 36465	flavanones
+T1061	Chemical 36550 36560	naringenin
+T1062	Metabolite 36550 36560	naringenin
+T1063	Chemical 36565 36575	hesperetin
+T1064	Metabolite 36565 36575	hesperetin
+T1065	Chemical 36654 36656	IX
+T1066	Metabolite 36654 36656	IX
+T1067	Biological_Activity 36657 36666	inhibited
+T1068	Chemical 36667 36681	[3 H]thymidine
+T1069	Chemical 36773 36793	prenylated flavanone
+T1070	Metabolite 36773 36793	prenylated flavanone
+T1071	Chemical 36784 36793	flavanone
+T1072	Metabolite 36784 36793	flavanone
+T1073	Species 36799 36803	hops
+T1074	Species 36840 36846	citrus
+T1075	Chemical 36847 36857	flavanones
+T1076	Metabolite 36847 36857	flavanones
+T1077	Biological_Activity 36864 36881	antiproliferative
+T1078	Chemical 36955 36957	IX
+T1079	Metabolite 36955 36957	IX
+T1080	Biological_Activity 36963 36970	inhibit
+T1081	Biological_Activity 36971 36984	tumour growth
+T1082	Species 37008 37012	mice
+T1083	Chemical 37029 37031	XN
+T1084	Metabolite 37029 37031	XN
+T1085	Species 37075 37078	hop
+T1086	Chemical 37079 37088	flavonoid
+T1087	Metabolite 37079 37088	flavonoid
+T1088	Biological_Activity 37099 37109	inhibiting
+T1089	Biological_Activity 37114 37127	proliferation
+T1090	Species 37137 37142	human
+T1091	Chemical 37203 37205	XN
+T1092	Metabolite 37203 37205	XN
+T1093	Chemical 37225 37234	flavonoid
+T1094	Metabolite 37225 37234	flavonoid
+T1095	Species 37238 37242	hops
+T1096	Biological_Activity 37265 37276	suppressing
+T1097	Species 37291 37296	human
+T1098	Chemical 37360 37362	IX
+T1099	Metabolite 37360 37362	IX
+T1100	Chemical 37368 37377	flavanone
+T1101	Metabolite 37368 37377	flavanone
+T1102	Chemical 37388 37390	XN
+T1103	Metabolite 37388 37390	XN
+T1104	Chemical 37413 37433	prenylated flavonoid
+T1105	Metabolite 37413 37433	prenylated flavonoid
+T1106	Chemical 37424 37433	flavonoid
+T1107	Metabolite 37424 37433	flavonoid
+T1108	Biological_Activity 37469 37478	inhibitor
+T1109	Biological_Activity 37469 37488	inhibitor of growth
+T1110	Species 37437 37440	hop
+T1111	Biological_Activity 37528 37548	Inhibition of growth
+T1112	Biological_Activity 37528 37538	Inhibition
+T1113	Chemical 37567 37569	XN
+T1114	Metabolite 37567 37569	XN
+T1115	Chemical 37574 37576	IX
+T1116	Metabolite 37574 37576	IX
+T1117	Biological_Activity 37597 37607	inhibition
+T1118	Biological_Activity 37611 37624	DNA synthesis
+T1119	Biological_Activity 37686 37696	anticancer
+T1120	Chemical 37711 37713	XN
+T1121	Metabolite 37711 37713	XN
+T1122	Chemical 37718 37720	IX
+T1123	Metabolite 37718 37720	IX
+T1124	Species 37735 37741	animal
+T1125	Species 37806 37809	Hop

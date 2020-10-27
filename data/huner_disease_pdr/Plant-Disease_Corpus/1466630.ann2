@@ -1,0 +1,8 @@
+T1	Disease 39 67	chronic respiratory symptoms
+T2	Disease 786 796	byssinosis
+T3	Disease 917 945	chronic respiratory symptoms
+T4	Disease 950 984	impairment of ventilatory capacity
+T5	Plant 172 176	hemp
+T6	Plant 878 882	hemp
+T7	Cause_of_disease 892 897	cause
+E1	Cause_of_disease:T7 Theme:T3 Theme2:T4 Cause:T6

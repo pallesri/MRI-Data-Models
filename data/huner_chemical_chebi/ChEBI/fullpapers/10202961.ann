@@ -1,0 +1,450 @@
+T1	Chemical 1 10	Digitoxin
+T2	Species 69 80	individuals
+T3	Chemical 179 188	digitoxin
+T4	Chemical 203 210	steroid
+T5	Chemical 227 234	lactone
+T6	Chemical 289 299;306 314	digitoxose residues
+T7	Chemical 378 393	acetyldigitoxin
+T8	Chemical 398 419	digitoxin monoacetate
+T9	Chemical 434 446	acetyl group
+T10	Chemical 467 482	hydroxyl groups
+T11	Chemical 490 500	digitoxose
+T12	Chemical 511 526	Acetyldigitoxin
+T13	Chemical 630 639	digitoxin
+T14	Chemical 644 659	acetyldigitoxin
+T15	Protein 687 703	carrier proteins
+T16	Biological_Activity 726 733	binding
+R1	Associated_With Arg1:T13 Arg2:T16	
+R2	Associated_With Arg1:T14 Arg2:T16	
+R3	Binds_With Arg1:T13 Arg2:T15	
+R4	Binds_With Arg1:T14 Arg2:T15	
+T17	Protein 864 879	carrier protein
+T18	Species 883 888	human
+T19	Protein 883 902	human serum albumin
+T20	Protein 904 909	HSA).
+T21	Protein 910 913	HSA
+T22	Protein 935 942	protein
+T23	Species 946 951	human
+T24	Chemical 1051 1060	bilirubin
+T25	Chemical 1062 1073	fatty acids
+T26	Chemical 1075 1083	warfarin
+T27	Chemical 1085 1095	tryptophan
+T28	Chemical 1100 1115	benzodiazepines
+R5	Binds_With Arg1:T24 Arg2:T21	
+R6	Binds_With Arg1:T25 Arg2:T21	
+R7	Binds_With Arg1:T26 Arg2:T21	
+R8	Binds_With Arg1:T27 Arg2:T21	
+R9	Binds_With Arg1:T28 Arg2:T21	
+R10	Binds_With Arg1:T24 Arg2:T19	
+R11	Binds_With Arg1:T25 Arg2:T19	
+R12	Binds_With Arg1:T26 Arg2:T19	
+R13	Binds_With Arg1:T27 Arg2:T19	
+R14	Binds_With Arg1:T28 Arg2:T19	
+T29	Chemical 1182 1191	digitoxin
+T30	Chemical 1196 1211	acetyldigitoxin
+T31	Protein 1220 1223	HSA
+R15	Binds_With Arg1:T29 Arg2:T31	
+R16	Binds_With Arg1:T30 Arg2:T31	
+T32	Chemical 1296 1311	acetyldigitoxin
+T33	Chemical 1334 1343	digitoxin
+T34	Protein 1349 1352	HSA
+T35	Chemical 1390 1399	digitoxin
+T36	Protein 1423 1426	HSA
+T37	Protein 1507 1510	HSA
+T38	Chemical 1522 1530	warfarin
+T39	Chemical 1531 1543	azapropazone
+T40	Chemical 1548 1554	indole
+T41	Chemical 1555 1569	benzodiazepine
+T42	Protein 1522 1543;1570 1583	warfarin-azapropazone binding sites
+T43	Protein 1548 1583	indole-benzodiazepine binding sites
+T44	Protein 1668 1671	HSA
+T45	Chemical 1686 1695	digitoxin
+T46	Protein 1686 1700	digitoxin site
+T47	Chemical 1747 1756	digitoxin
+T48	Protein 1789 1796	protein
+R17	Binds_With Arg1:T47 Arg2:T46	
+T49	Biological_Activity 1955 1962	binding
+T50	Chemical 1971 1980	digitoxin
+T51	Chemical 1985 2000	acetyldigitoxin
+R18	Associated_With Arg1:T50 Arg2:T49	
+R19	Associated_With Arg1:T51 Arg2:T49	
+T52	Protein 2006 2009	HSA
+R20	Binds_With Arg1:T51 Arg2:T52	
+R21	Binds_With Arg1:T50 Arg2:T52	
+T53	Biological_Activity 2095 2102	binding
+T54	Chemical 2111 2120	digitoxin
+T55	Chemical 2125 2140	acetyldigitoxin
+R22	Associated_With Arg1:T54 Arg2:T53	
+R23	Associated_With Arg1:T55 Arg2:T53	
+T56	Protein 2146 2149	HSA
+R24	Binds_With Arg1:T54 Arg2:T56	
+R25	Binds_With Arg1:T55 Arg2:T56	
+T57	Protein 2276 2279	HSA
+T58	Chemical 2318 2324	silica
+T59	Protein 2375 2378	HSA
+T60	Biological_Activity 2434 2441	binding
+T61	Protein 2648 2651	HSA
+T62	Protein 2694 2697	HSA
+T63	Chemical 2876 2880	drug
+T64	Protein 2881 2888	protein
+R26	Binds_With Arg1:T63 Arg2:T64	
+T65	Protein 2925 2928	HSA
+T66	Chemical 2991 3000	digitoxin
+T67	Chemical 3005 3020	acetyldigitoxin
+T68	Chemical 3213 3228	acetyldigitoxin
+T69	Chemical 3234 3243	digitoxin
+T70	Chemical 3342 3350	warfarin
+T71	Chemical 3355 3367	L-tryptophan
+T72	Chemical 3414 3423	digitoxin
+T73	Chemical 3428 3443	acetyldigitoxin
+T74	Protein 3468 3471	HSA
+T75	Protein 3529 3536	protein
+T76	Biological_Activity 3646 3653	binding
+T77	Protein 3657 3660	HSA
+T78	Chemical 3664 3673	digitoxin
+R27	Binds_With Arg1:T78 Arg2:T77	
+R28	Associated_With Arg1:T78 Arg2:T76	
+T79	Biological_Activity 3711 3718	binding
+T80	Chemical 3722 3731	digitoxin
+T81	Chemical 3736 3751	acetyldigitoxin
+T82	Protein 3755 3758	HSA
+R29	Associated_With Arg1:T80 Arg2:T79	
+R30	Associated_With Arg1:T81 Arg2:T79	
+R31	Binds_With Arg1:T80 Arg2:T82	
+R32	Binds_With Arg1:T81 Arg2:T82	
+T83	Protein 3964 3967	HSA
+T84	Chemical 4457 4471	β-cyclodextrin
+T85	Chemical 4532 4541	digitoxin
+T86	Chemical 4546 4561	acetyldigitoxin
+T87	Biological_Activity 6822 6829	binding
+T88	Chemical 6963 6972	Digitoxin
+T89	Chemical 6977 6992	acetyldigitoxin
+T90	Chemical 6977 6992;7007 7021	acetyldigitoxin α- and β-forms
+T91	Chemical 7024 7038	β-cyclodextrin
+T92	Protein 7040 7043	HSA
+T93	Protein 7066 7074	globulin
+T94	Chemical 7099 7115	racemic warfarin
+T95	Chemical 7120 7132	L-tryptophan
+T96	Protein 7184 7187	HSA
+T97	Chemical 7192 7196	diol
+T98	Chemical 7204 7210	silica
+T99	Chemical 7257 7263	silica
+T100	Chemical 7422 7429	aqueous
+T101	Chemical 7460 7465	water
+T102	Chemical 7489 7494	water
+T103	Chemical 8087 8092	water
+T104	Chemical 8263 8272	Digitoxin
+T105	Chemical 8277 8292	acetyldigitoxin
+T106	Chemical 8327 8343	phosphate buffer
+T107	Chemical 8353 8367	β-cyclodextrin
+T108	Chemical 8505 8514	digitoxin
+T109	Chemical 8519 8534	acetyldigitoxin
+T110	Chemical 7192 7210	diol-bonded silica
+T111	Chemical 8616 8620	Diol
+T112	Chemical 8628 8634	silica
+T113	Chemical 8616 8634	Diol-bonded silica
+T114	Chemical 8683 8687	diol
+T115	Chemical 8762 8768	silica
+T116	Chemical 8857 8868	Schiff base
+T117	Protein 8910 8913	HSA
+T118	Chemical 8922 8926	diol
+T119	Chemical 8947 8965	bicinchoninic acid
+T120	Chemical 8967 8970	BCA
+T121	Protein 9021 9024	HSA
+T122	Protein 9039 9042	HSA
+T123	Chemical 9063 9081	diol-bonded silica
+T124	Protein 9172 9175	HSA
+T125	Protein 9211 9214	HSA
+T126	Chemical 9227 9233	silica
+T127	Protein 9338 9341	HSA
+T128	Chemical 9342 9348	silica
+T129	Chemical 9424 9450	potassium phosphate buffer
+T130	Chemical 9474 9488	β-cyclodextrin
+T131	Chemical 9577 9586	digitoxin
+T132	Chemical 9588 9603	acetyldigitoxin
+T133	Chemical 9607 9615	warfarin
+T134	Chemical 9632 9644	L-tryptophan
+T135	Chemical 9785 9794	digitoxin
+T136	Chemical 9798 9813	acetyldigitoxin
+T137	Chemical 10013 10022	digitoxin
+T138	Protein 10190 10193	HSA
+T139	Chemical 10360 10375	acetyldigitoxin
+T140	Chemical 10379 10388	digitoxin
+T141	Chemical 10776 10791	acetyldigitoxin
+T142	Chemical 10796 10805	digitoxin
+T143	Chemical 11027 11041	sodium nitrate
+T144	Chemical 11107 11116	digitoxin
+T145	Chemical 11121 11136	acetyldigitoxin
+T146	Chemical 11204 11222	diol-bonded silica
+T147	Biological_Activity 11700 11707	binding
+T148	Protein 11867 11874	protein
+T149	Chemical 12982 12991	digitoxin
+T150	Chemical 12996 13011	acetyldigitoxin
+T151	Protein 13029 13032	HSA
+T152	Chemical 13087 13092	water
+T153	Biological_Activity 13512 13519	binding
+T154	Protein 13567 13570	HSA
+T155	Chemical 13642 13656	β-cyclodextrin
+T156	Chemical 13685 13687;13693 13705	α- cyclodextrin
+T157	Chemical 13691 13705	γ-cyclodextrin
+T158	Biological_Activity 13799 13806	binding
+T159	Chemical 13886 13900	β-cyclodextrin
+T160	Chemical 13923 13938	acetyldigitoxin
+T161	Chemical 13943 13952	digitoxin
+T162	Chemical 13970 13986	phosphate buffer
+T163	Chemical 14190 14205	acetyldigitoxin
+T164	Chemical 14209 14218	digitoxin
+T165	Chemical 14363 14377	β-Cyclodextrin
+T166	Chemical 14419 14434	acetyldigitoxin
+T167	Chemical 14439 14448	digitoxin
+T168	Biological_Activity 14470 14474	bind
+R33	Associated_With Arg1:T165 Arg2:T168	
+T169	Biological_Activity 14539 14546	binding
+T170	Protein 14550 14553	HSA
+T171	Chemical 14596 14610	β-cyclodextrin
+T172	Biological_Activity 14678 14685	binding
+T173	Protein 14706 14709	HSA
+T174	Chemical 14727 14742	acetyldigitoxin
+T175	Chemical 14747 14756	digitoxin
+R34	Binds_With Arg1:T174 Arg2:T173	
+R35	Binds_With Arg1:T175 Arg2:T173	
+R36	Associated_With Arg1:T174 Arg2:T172	
+R37	Associated_With Arg1:T175 Arg2:T172	
+T176	Chemical 14767 14781	β-cyclodextrin
+T177	Protein 14786 14789	HSA
+T178	Chemical 14864 14878	β-cyclodextrin
+T179	Chemical 14910 14925	acetyldigitoxin
+T180	Chemical 14930 14939	digitoxin
+T181	Chemical 15125 15128;15141 15152	cis -clomiphene
+T182	Chemical 15135 15140;15141 15152	trans -clomiphene
+T183	Protein 15170 15173	HSA
+T184	Chemical 15201 15215	β-cyclodextrin
+T185	Chemical 15251 15265	β-cyclodextrin
+T186	Protein 15434 15441	protein
+T187	Chemical 15481 15495	β-cyclodextrin
+T188	Chemical 15555 15570	acetyldigitoxin
+T189	Chemical 15575 15584	digitoxin
+T190	Chemical 15718 15732	β-cyclodextrin
+T191	Protein 15798 15801	HSA
+T192	Chemical 15868 15883	acetyldigitoxin
+T193	Chemical 15887 15896	digitoxin
+T194	Chemical 15973 15987	β-cyclodextrin
+T195	Chemical 16057 16072	acetyldigitoxin
+T196	Chemical 16074 16083	digitoxin
+T197	Chemical 16085 16097	L-tryptophan
+T198	Chemical 16101 16113	R/S-warfarin
+T199	Chemical 16331 16345	β-cyclodextrin
+T200	Chemical 16511 16526	acetyldigitoxin
+T201	Chemical 16531 16540	digitoxin
+T202	Chemical 16600 16614	β-cyclodextrin
+T203	Biological_Activity 16883 16890	binding
+T204	Chemical 16964 16979	acetyldigitoxin
+T205	Chemical 16983 16992	digitoxin
+T206	Chemical 17050 17054	diol
+T207	Protein 17110 17113	HSA
+T208	Chemical 18562 18571	digitoxin
+T209	Chemical 18698 18707	digitoxin
+T210	Chemical 18712 18727	acetyldigitoxin
+T211	Chemical 18747 18756	digitoxin
+T212	Chemical 18956 18970	β-cyclodextrin
+T213	Chemical 19080 19089	digitoxin
+T214	Chemical 19093 19108	acetyldigitoxin
+T215	Chemical 19226 19236	clomiphene
+T216	Biological_Activity 19237 19244	binding
+T217	Protein 19248 19251	HSA
+T218	Protein 19271 19285	β-cyclodextrin
+R38	Associated_With Arg1:T215 Arg2:T216	
+R39	Binds_With Arg1:T215 Arg2:T217	
+T219	Chemical 19411 19420	digitoxin
+T220	Chemical 19424 19439	acetyldigitoxin
+T221	Chemical 19565 19574	digitoxin
+T222	Chemical 19600 19609	digitoxin
+T223	Chemical 19658 19667	digitoxin
+T224	Chemical 19935 19949	β-cyclodextrin
+T225	Chemical 19994 20003	digitoxin
+T226	Chemical 20004 20013	digitoxin
+T227	Chemical 20166 20180	β-cyclodextrin
+T228	Chemical 20331 20345	β-cyclodextrin
+T229	Chemical 20407 20416	digitoxin
+T230	Chemical 20417 20426	digitoxin
+T231	Chemical 20530 20539	digitoxin
+T232	Protein 20578 20581	HSA
+R40	Binds_With Arg1:T231 Arg2:T232	
+T233	Chemical 20718 20727	digitoxin
+T234	Chemical 20766 20775	digitoxin
+T235	Protein 20819 20822	HSA
+T236	Biological_Activity 20957 20964	binding
+T237	Protein 20981 20984	HSA
+R41	Binds_With Arg1:T234 Arg2:T235	
+T238	Chemical 20968 20977	digitoxin
+R42	Associated_With Arg1:T238 Arg2:T236	
+R43	Binds_With Arg1:T238 Arg2:T237	
+T239	Biological_Activity 21024 21031	binding
+T240	Chemical 21063 21078	acetyldigitoxin
+T241	Chemical 21083 21092	digitoxin
+T242	Chemical 21123 21138	acetyldigitoxin
+T243	Chemical 21160 21169	digitoxin
+T244	Chemical 21457 21471	β-cyclodextrin
+T245	Chemical 21582 21596	β-cyclodextrin
+T246	Chemical 21716 21730	β-cyclodextrin
+T247	Chemical 21878 21887	digitoxin
+T248	Chemical 21926 21941	acetyldigitoxin
+T249	Protein 21946 21949	HSA
+T250	Biological_Activity 21950 21957	binding
+R44	Associated_With Arg1:T248 Arg2:T250	
+R45	Associated_With Arg1:T247 Arg2:T250	
+R46	Binds_With Arg1:T248 Arg2:T249	
+R47	Binds_With Arg1:T247 Arg2:T249	
+T251	Chemical 22065 22074	digitoxin
+T252	Protein 22121 22124	HSA
+T253	Biological_Activity 22146 22153	binding
+T254	Chemical 22199 22214	acetyldigitoxin
+T255	Chemical 22215 22224	digitoxin
+T256	Chemical 22260 22269	digitoxin
+T257	Chemical 22274 22289	acetyldigitoxin
+T258	Protein 22313 22316	HSA
+T259	Biological_Activity 22347 22354	binding
+T260	Chemical 22376 22385	digitoxin
+T261	Chemical 22386 22395	digitoxin
+R48	Associated_With Arg1:T256 Arg2:T259	
+R49	Associated_With Arg1:T257 Arg2:T259	
+R50	Binds_With Arg1:T256 Arg2:T258	
+R51	Binds_With Arg1:T257 Arg2:T258	
+T262	Biological_Activity 22435 22442	binding
+T263	Chemical 22457 22472	acetyldigitoxin
+T264	Chemical 22565 22580	acetyldigitoxin
+T265	Chemical 22600 22615	acetyldigitoxin
+T266	Chemical 22667 22676	digitoxin
+T267	Chemical 22745 22760	acetyldigitoxin
+T268	Chemical 23036 23050	β-cyclodextrin
+T269	Biological_Activity 23163 23170	binding
+T270	Chemical 23179 23194	acetyldigitoxin
+T271	Protein 23199 23202	HSA
+R52	Associated_With Arg1:T270 Arg2:T269	
+R53	Binds_With Arg1:T270 Arg2:T271	
+T272	Chemical 23367 23382	acetyldigitoxin
+T273	Protein 23421 23424	HSA
+T274	Chemical 23491 23500	digitoxin
+T275	Chemical 23520 23535	acetyldigitoxin
+T276	Chemical 23600 23615	acetyldigitoxin
+T277	Chemical 23778 23792	β-cyclodextrin
+T278	Chemical 23875 23889	β-cyclodextrin
+T279	Chemical 24106 24121	acetyldigitoxin
+T280	Chemical 24152 24161	digitoxin
+T281	Biological_Activity 24167 24174	binding
+T282	Protein 24178 24181	HSA
+R54	Associated_With Arg1:T279 Arg2:T281	
+R55	Associated_With Arg1:T280 Arg2:T281	
+R56	Binds_With Arg1:T279 Arg2:T282	
+R57	Binds_With Arg1:T280 Arg2:T282	
+T283	Chemical 24266 24281	acetyldigitoxin
+T284	Protein 24404 24407	HSA
+T285	Biological_Activity 24386 24393	binding
+T286	Biological_Activity 24426 24433	binding
+T287	Chemical 24448 24456	warfarin
+T288	Chemical 24460 24472	L-tryptophan
+T289	Chemical 24555 24564	digitoxin
+T290	Protein 24588 24591	HSA
+T291	Chemical 24618 24626	warfarin
+T292	Chemical 24631 24637	indole
+T293	Biological_Activity 24638 24645	binding
+R58	Binds_With Arg1:T289 Arg2:T290	
+R59	Binds_With Arg1:T291 Arg2:T290	
+R60	Binds_With Arg1:T292 Arg2:T290	
+R61	Associated_With Arg1:T289 Arg2:T293	
+R62	Associated_With Arg1:T291 Arg2:T293	
+R63	Associated_With Arg1:T292 Arg2:T293	
+T294	Chemical 24691 24700	digitoxin
+T295	Chemical 24723 24731	warfarin
+T296	Chemical 24735 24743	diazepam
+T297	Chemical 24762 24768	indole
+T298	Protein 24762 24780	indole site of HSA
+T299	Protein 24777 24780	HSA
+T300	Species 24801 24804	rat
+T301	Protein 24805 24818	α-fetoprotein
+T302	Protein 24801 24818	rat α-fetoprotein
+T303	Protein 24848 24851	HSA
+T304	Biological_Activity 24880 24887	binding
+T305	Chemical 24912 24921	digitoxin
+T306	Biological_Activity 24900 24907	binding
+T307	Chemical 24926 24941	acetyldigitoxin
+T308	Chemical 24949 24957	warfarin
+T309	Chemical 24962 24968	indole
+T310	Protein 24949 24957;24969 24974;24975 24981	warfarin sites of HSA
+T311	Protein 24962 24981	indole sites of HSA
+T312	Chemical 25089 25097	warfarin
+T313	Chemical 25101 25113	L-tryptophan
+T314	Chemical 25154 25162	warfarin
+T315	Protein 25154 25162;25174 25186	warfarin sites of HSA
+T316	Chemical 25167 25173	indole
+T317	Protein 25167 25186	indole sites of HSA
+T318	Chemical 25262 25271	digitoxin
+T319	Chemical 25275 25290	acetyldigitoxin
+T320	Chemical 25312 25320	warfarin
+T321	Chemical 25441 25456	acetyldigitoxin
+T322	Chemical 25461 25470	digitoxin
+T323	Chemical 25485 25493	warfarin
+T324	Chemical 25545 25560	acetyldigitoxin
+T325	Chemical 25565 25574	digitoxin
+T326	Chemical 25606 25614	warfarin
+T327	Chemical 25899 25907	warfarin
+T328	Protein 25912 25932	binding sites on HSA
+T329	Biological_Activity 25912 25919	binding
+T330	Protein 25929 25932	HSA
+T331	Chemical 26000 26009	digitoxin
+T332	Chemical 26014 26029	acetyldigitoxin
+T333	Biological_Activity 26039 26046	binding
+T334	Chemical 26054 26062	warfarin
+T335	Protein 26054 26074	warfarin site of HSA
+T336	Protein 26071 26074	HSA
+T337	Chemical 26112 26121	digitoxin
+T338	Chemical 26125 26140	acetyldigitoxin
+T339	Chemical 26145 26157	L-tryptophan
+T340	Chemical 26285 26300	acetyldigitoxin
+T341	Chemical 26305 26314	digitoxin
+T342	Chemical 26329 26341	L-tryptophan
+T343	Chemical 26437 26449	L-tryptophan
+T344	Chemical 26665 26674	digitoxin
+T345	Chemical 26679 26694	acetyldigitoxin
+T346	Chemical 26719 26731	L-tryptophan
+T347	Chemical 26784 26790	indole
+T348	Protein 26784 26802	indole site of HSA
+T349	Protein 26799 26802	HSA
+T350	Chemical 26927 26936	digitoxin
+T351	Chemical 26941 26956	acetyldigitoxin
+T352	Protein 26972 26975	HSA
+T353	Chemical 26982 26996	β-cyclodextrin
+T354	Chemical 27086 27095	digitoxin
+T355	Chemical 27100 27115	acetyldigitoxin
+T356	Biological_Activity 27141 27148	binding
+T357	Protein 27157 27160	HSA
+R64	Associated_With Arg1:T354 Arg2:T356	
+R65	Associated_With Arg1:T355 Arg2:T356	
+R66	Binds_With Arg1:T354 Arg2:T357	
+R67	Binds_With Arg1:T355 Arg2:T357	
+T358	Chemical 27366 27375	digitoxin
+T359	Chemical 27379 27394	acetyldigitoxin
+T360	Chemical 27423 27431	warfarin
+T361	Chemical 27435 27447	L-tryptophan
+T362	Biological_Activity 27479 27486	binding
+T363	Chemical 27494 27502	warfarin
+T364	Chemical 27503 27515	azapropazone
+T365	Protein 27494 27515;27542 27554	warfarin-azapropazone sites of HSA
+T366	Chemical 27520 27526	indole
+T367	Chemical 27527 27541	benzodiazepine
+T368	Protein 27520 27554	indole-benzodiazepine sites of HSA
+T369	Protein 27551 27554	HSA
+T370	Protein 27598 27601	HSA
+T371	Biological_Activity 27617 27624	binding
+T372	Chemical 27636 27645	digitoxin
+T373	Chemical 27636 27663	digitoxin-related compounds
+T374	Biological_Activity 27714 27721	binding
+R68	Associated_With Arg1:T373 Arg2:T371	
+R69	Associated_With Arg1:T372 Arg2:T371	
+R70	Binds_With Arg1:T373 Arg2:T370	
+R71	Binds_With Arg1:T372 Arg2:T370	
+T375	Biological_Activity 27759 27766	binding
+T376	Protein 27789 27792	HSA
+T377	Chemical 27804 27813	digitoxin
+T378	Chemical 27904 27913	digitoxin
+T379	Chemical 27917 27932	acetyldigitoxin

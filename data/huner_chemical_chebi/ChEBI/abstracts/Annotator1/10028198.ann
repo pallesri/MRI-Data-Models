@@ -1,0 +1,40 @@
+T1	Chemical 87 110	1,2-dimethylnaphthalene
+T2	Chemical 87 122	1,2-dimethylnaphthalene-[ring-U-3H]
+T3	Species 126 130	rats
+T4	Species 191 195	rats
+T5	Chemical 262 271	olive oil
+T7	Spectral_Data 521 526	GC-MS
+T8	Chemical 583 590	tritium
+T9	Chemical 330 332	3H
+T10	Chemical 788 790	3H
+T11	Chemical 1077 1084	tritium
+T12	Chemical 1176 1203	1,2-dimethylthionaphthalene
+T13	Chemical 1208 1228	1,2-dimethylnaphthol
+T14	Metabolite 1208 1228	1,2-dimethylnaphthol
+T15	Chemical 1233 1263	1-methylnaphthalene-2-methanol
+T16	Metabolite 1233 1263	1-methylnaphthalene-2-methanol
+T17	Chemical 1268 1294	1-methyl-2-naphthoic  acid
+T18	Metabolite 1268 1294	1-methyl-2-naphthoic  acid
+T19	Chemical 1302 1335	1,2-dimethylmethylthionaphthalene
+T20	Metabolite 1302 1335	1,2-dimethylmethylthionaphthalene
+R1	Associated_With Arg1:T14 Arg2:T7	
+R2	Associated_With Arg1:T16 Arg2:T7	
+R3	Associated_With Arg1:T18 Arg2:T7	
+R4	Associated_With Arg1:T20 Arg2:T7	
+T21	Species 1420 1423	rat
+T22	Chemical 1352 1375	1,2-dimethylnaphthalene
+T23	Chemical 1526 1537	glutathione
+T24	Chemical 1561 1573	thionaphthol
+T25	Chemical 1603 1617	naphthoic acid
+T26	Biological_Activity 1578 1589	oxygenation
+T27	Metabolite 1176 1203	1,2-dimethylthionaphthalene
+R5	Associated_With Arg1:T27 Arg2:T7	
+R6	Associated_With Arg1:T24 Arg2:T26	
+R7	Metabolite_Of Arg1:T20 Arg2:T1	
+R8	Metabolite_Of Arg1:T18 Arg2:T1	
+R9	Metabolite_Of Arg1:T16 Arg2:T1	
+R10	Metabolite_Of Arg1:T14 Arg2:T1	
+R11	Metabolite_Of Arg1:T27 Arg2:T1	
+T6	Chemical 688 695	tritium
+T28	Biological_Activity 73 83	metabolism
+T29	Biological_Activity 1480 1490	metabolism

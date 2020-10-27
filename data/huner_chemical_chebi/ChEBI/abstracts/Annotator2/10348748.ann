@@ -1,0 +1,54 @@
+T1	Chemical 17 27	atovaquone
+T2	Chemical 32 41	proguanil
+T4	Chemical 157 167	atovaquone
+T5	Chemical 267 272	drugs
+T6	Chemical 280 289	proguanil
+T10	Chemical 426 436	atovaquone
+T12	Chemical 576 585	biguanide
+T13	Chemical 555 564	Proguanil
+T14	Metabolite 605 615	metabolite
+T15	Chemical 605 615	metabolite
+T16	Chemical 616 627	cycloguanil
+T17	Metabolite 616 627	cycloguanil
+T18	Protein 631 663	parasite dihydrofolate reductase
+T19	Protein 665 669	DHFR
+T22	Biological_Activity 671 680	inhibitor
+T25	Chemical 697 707	atovaquone
+T26	Biological_Activity 729 738	inhibitor
+T27	Protein 724 728	DHFR
+R8	Associated_With Arg1:T17 Arg2:T22	
+R10	Associated_With Arg1:T16 Arg2:T22	
+T29	Chemical 740 753	pyrimethamine
+R12	Associated_With Arg1:T29 Arg2:T26	
+T30	Chemical 785 794	Proguanil
+T31	Chemical 833 843	atovaquone
+T32	Biological_Activity 906 915	inhibitor
+T33	Chemical 926 938	myxothiazole
+T34	Chemical 943 952	antimycin
+T35	Chemical 987 997	proguanil.
+R15	Associated_With Arg1:T31 Arg2:T32	
+R16	Associated_With Arg1:T33 Arg2:T32	
+R17	Associated_With Arg1:T34 Arg2:T32	
+T37	Chemical 1012 1021	proguanil
+T38	Biological_Activity 1067 1074	inhibit
+T39	Chemical 1053 1063	atovaquone
+R19	Associated_With Arg1:T39 Arg2:T38	
+T40	Chemical 1157 1166	proguanil
+T41	Biological_Activity 1174 1181	prodrug
+R20	Associated_With Arg1:T40 Arg2:T41	
+T42	Chemical 1208 1218	atovaquone
+T43	Chemical 1268 1278	atovaquone
+T45	Chemical 1372 1382	atovaquone
+T46	Chemical 1383 1392	proguanil
+T47	Chemical 1427 1436	proguanil
+T48	Chemical 1511 1521	atovaquone
+T49	Chemical 1522 1531	proguanil
+T51	Chemical 1511 1543	atovaquone-proguanil combination
+T52	Chemical 1372 1404	atovaquone-proguanil combination
+R1	Binds_With Arg1:T29 Arg2:T27	
+R2	Binds_With Arg1:T17 Arg2:T18	
+R3	Binds_With Arg1:T16 Arg2:T18	
+R4	Binds_With Arg1:T16 Arg2:T19	
+R5	Binds_With Arg1:T17 Arg2:T19	
+T3	Species 1584 1592	parasite
+T7	Species 631 639	parasite

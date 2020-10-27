@@ -1,0 +1,39 @@
+T1	Chemical 70 82	acetyl group
+#1	AnnotatorNotes T1	Part of a molecule
+T2	Chemical 88 114	platelet-activating factor
+T3	Chemical 116 119	PAF
+T4	Chemical 126 129	CoA
+T5	Chemical 152 167	lysoplasmalogen
+T6	Chemical 171 182	sphingosine
+T7	Species 235 238	rat
+T8	Protein 269 322	PAF:lysoplasmalogen (lysophospholipid) transacetylase
+T9	Protein 327 357	PAF:sphingosine transacetylase
+T10	Protein 433 461	PAF-dependent transacetylase
+T11	Species 479 482	rat
+T14	Protein 555 589	PAF:lysoplasmalogen transacetylase
+T15	Biological_Activity 575 589	transacetylase
+T21	Chemical 698 706	Tween 20
+T22	Chemical 878 882	DEAE
+T23	Chemical 883 892	Sepharose
+T24	Chemical 894 908	hydroxyapatite
+T25	Chemical 910 926	phenyl-Sepharose
+T26	Chemical 992 1006	polyacrylamide
+T27	Chemical 1108 1173	1-O-hexadecyl-2-N-methylcarbamyl-sn-glycero-3-phosphoethanolamine
+T28	Biological_Activity 1083 1092	inhibitor
+R1	Associated_With Arg1:T27 Arg2:T28	
+#2	AnnotatorNotes T28	the enzyme is PAF-dependent transacetylase
+T29	Chemical 1206 1218	CH-Sepharose
+T30	Chemical 1383 1395	acetyl group
+T31	Chemical 1410 1413	PAF
+T32	Chemical 1418 1433	lysoplasmalogen
+T33	Chemical 1442 1468	plasmalogen analogs of PAF
+T34	Chemical 1442 1453	plasmalogen
+T35	Chemical 1465 1468	PAF
+T36	Chemical 1482 1493	sphingosine
+T37	Chemical 1504 1523	N-acetylsphingosine
+T38	Chemical 1525 1536	C2-ceramide
+T39	Protein 1576 1595	PAF-acetylhydrolase
+T40	Chemical 1614 1619	lipid
+T41	Protein 1667 1695	PAF-dependent transacetylase
+T42	Chemical 1749 1752	PAF
+T43	Chemical 1789 1794	lipid

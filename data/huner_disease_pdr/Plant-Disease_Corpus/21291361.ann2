@@ -1,0 +1,40 @@
+T1	Disease 125 137	hypertension
+T4	Disease 847 862	atherosclerosis
+T5	Disease 1136 1150	hyperammonemia
+T7	Disease 1304 1310	cancer
+T8	Disease 1341 1349	leukemia
+T9	Disease 1354 1368	gastric cancer
+T10	Disease 1466 1486	diabetic nephropathy
+T11	Disease 1587 1602	atherosclerosis
+T12	Disease 1604 1617	liver disease
+T13	Disease 1619 1625	cancer
+T15	Plant 0 25	Hibiscus sabdariffa Linne
+T16	Plant 43 59	Chinese rose tea
+T17	Disease 139 162	inflammatory conditions
+T19	Plant 230 237	flowers
+T20	Plant 241 257	H. sabdariffa L.
+T21	Plant 415 437	H. sabdariffa extracts
+T22	Plant 469 472	HSE
+T23	Plant 474 518	H. sabdariffa polyphenol-rich extracts (HPE)
+T2	Disease 657 673	oxidative damage
+T3	Plant 520 552	H. sabdariffa anthocyanins (HAs)
+T25	Plant 627 630	PCA
+T27	Treatment_of_disease 639 648	protected
+E1	Treatment_of_disease:T27 Theme:T2 Cause:T26
+T26	Plant 635 638	HAs
+T28	Plant 823 826	HSE
+T6	Plant 1152 1155	PCA
+T29	Plant 1265 1268	HAs
+T30	Plant 1273 1276	HPE
+T31	Plant 1428 1431	HSE
+T32	Plant 1436 1439	HPE
+T33	Treatment_of_disease 1418 1424	effect
+E2	Treatment_of_disease:T33 Cause:T31 Cause2:T32 Theme:T10
+T34	Plant 1537 1559	H. sabdariffa extracts
+T35	Treatment_of_disease 1560 1567	exhibit
+E3	Treatment_of_disease:T35 Cause:T34 Theme:T11 Theme2:T12 Theme3:T13 Theme4:T14 Theme5:T36
+T14	Disease 1627 1635	diabetes
+T36	Disease 1646 1665	metabolic syndromes
+T37	Plant 1757 1770	H. sabdariffa
+T38	Plant 164 177	H. sabdariffa
+T18	Plant 196 199	HSE

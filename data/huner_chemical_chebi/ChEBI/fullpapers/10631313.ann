@@ -1,0 +1,294 @@
+T1	Protein 47 55	isozymes
+T2	Protein 59 100	prostaglandin (PG)-forming cyclooxygenase
+T3	Protein 115 131	cyclooxygenase-1
+T4	Protein 146 162	cyclooxygenase-2
+T5	Species 205 210	mouse
+T6	Species 171 179	MC3T3-E1
+T7	Chemical 361 363	E2
+T8	Metabolite 361 363	E2
+#1	AnnotatorNotes T7	I assume this is prostaglandin E2
+T9	Chemical 375 387	arachidonate
+T10	Metabolite 375 387	arachidonate
+R1	Metabolite_Of Arg1:T8 Arg2:T9	
+R2	Isolated_From Arg1:T8 Arg2:T6	
+T11	Protein 443 457	cyclooxygenase
+T12	Species 519 527	MC3T3-E1
+T13	Protein 552 568	cyclooxygenase-2
+T14	Chemical 589 596	humulon
+T15	Metabolite 589 596	humulon
+T16	Chemical 598 695	(R )-3,5,6-trihydroxy-4,6-bis(3-methyl-2-butenyl)-2-(3-methyl-1-oxobutyl)-2,4-cyclohexadien-1-one
+T17	Metabolite 598 695	(R )-3,5,6-trihydroxy-4,6-bis(3-methyl-2-butenyl)-2-(3-methyl-1-oxobutyl)-2,4-cyclohexadien-1-one
+T18	Species 726 741	Humulus lupulus
+R3	Isolated_From Arg1:T17 Arg2:T18	
+R4	Isolated_From Arg1:T15 Arg2:T18	
+T19	Biological_Activity 771 780	inhibitor
+R5	Associated_With Arg1:T15 Arg2:T19	
+R6	Associated_With Arg1:T14 Arg2:T19	
+R7	Associated_With Arg1:T17 Arg2:T19	
+R8	Associated_With Arg1:T16 Arg2:T19	
+T20	Chemical 849 856	humulon
+T21	Metabolite 849 856	humulon
+T22	Chemical 928 935	humulon
+T23	Metabolite 928 935	humulon
+T24	Protein 939 955	cyclooxygenase-2
+T25	Metabolite 993 997	PGE2
+T26	Chemical 993 997	PGE2
+T27	Species 721 724	hop
+R9	Isolated_From Arg1:T15 Arg2:T27	
+R10	Isolated_From Arg1:T17 Arg2:T27	
+T28	Chemical 1072 1079	Humulon
+T29	Metabolite 1072 1079	Humulon
+T30	Species 1098 1101	hop
+R11	Isolated_From Arg1:T29 Arg2:T30	
+T31	Chemical 1182 1200	dimethyl sulfoxide
+T32	Species 1230 1238	MC3T3-E1
+T33	Chemical 1378 1383	α-MEM
+T34	Species 1456 1462	bovine
+T35	Protein 1666 1682	cyclooxygenase-1
+T36	Protein 1666 1680;1687 1689	cyclooxygenase -2
+T37	Protein 1705 1721	cyclooxygenase-1
+T38	Species 1757 1762	sheep
+T39	Chemical 1853 1869	phosphate buffer
+T40	Chemical 1895 1905	tryptophan
+T41	Protein 1911 1927	cyclooxygenase-2
+T42	Species 1947 1956	 MC3T3-E1
+T43	Chemical 1990 2021	phorbol 12-myristate 13-acetate
+T44	Chemical 2033 2039	A23187
+T45	Chemical 2231 2239	Tris–HCl
+T46	Chemical 2265 2275	tryptophan
+T47	Protein 2343 2359	Cyclooxygenase-2
+T48	Species 2370 2378	MC3T3-E1
+T49	Protein 2422 2445	tumor necrosis factor α
+T50	Protein 2447 2451	TNFα
+T51	Chemical 2489 2493	PGE2
+T52	Metabolite 2489 2493	PGE2
+T53	Species 2568 2576	MC3T3-E1
+T54	Chemical 2622 2626	PGE2
+T55	Metabolite 2622 2626	PGE2
+T56	Chemical 2756 2763	Tris–HC
+T57	Chemical 2790 2800	tryptophan
+T58	Chemical 2892 2916	[1-14 C]arachidonic acid
+T59	Chemical 3027 3035	Tris–HCl
+T60	Chemical 3051 3058	hematin
+T61	Chemical 3069 3079	tryptophan
+T62	Species 3206 3214	MC3T3-E1
+T63	Protein 3306 3322	cyclooxygenase-2
+T64	Protein 3327 3334	β-actin
+T65	Species 3485 3490	mouse
+T66	Protein 3491 3507	cyclooxygenase-2
+T67	Protein 3569 3579	luciferase
+T68	Chemical 3646 3661	oligonucleotide
+T69	Chemical 3690 3704	glucocorticoid
+T70	Chemical 3723 3762	5′-AGAGGATCTGTACA   GGATGTTCT   AGAT-3′
+T71	Chemical 3790 3804	glucocorticoid
+T72	Chemical 3918 3933	oligonucleotide
+T73	Chemical 3941 3955	glucocorticoid
+T74	Protein 3974 3978	NFκB
+T75	Protein 4004 4010	NF-IL6
+T76	Species 4062 4082	herpes simplex virus
+T77	Protein 4083 4099	thymidine kinase
+T78	Protein 4164 4174	luciferase
+T79	Protein 4261 4276	β-galactosidase
+T80	Chemical 4367 4372	α-MEM
+T81	Chemical 4443 4448	α-MEM
+T82	Species 4464 4470	bovine
+T83	Chemical 4608 4613	α-MEM
+T84	Protein 4690 4700	luciferase
+T85	Protein 4784 4799	β-galactosidase
+T86	Chemical 4859 4866	humulon
+T87	Protein 4882 4886	TNFα
+T88	Protein 4909 4925	cyclooxygenase-2
+T89	Species 4932 4940	MC3T3-E1
+T90	Protein 4976 4980	TNFα
+T91	Chemical 5000 5007	humulon
+T92	Chemical 5041 5045	PGE2
+T93	Metabolite 5041 5045	PGE2
+T94	Chemical 5090 5097	humulon
+T95	Protein 5165 5179	cyclooxygenase
+T96	Biological_Activity 5165 5179	cyclooxygenase
+T97	Protein 5196 5200	TNFα
+T98	Chemical 5230 5237	humulon
+T99	Chemical 5320 5327	humulon
+T100	Protein 5343 5347	TNFα
+T101	Protein 5368 5384	cyclooxygenase-2
+T102	Protein 5443 5453	luciferase
+T103	Protein 5464 5480	cyclooxygenase-2
+T104	Species 5522 5530	MC3T3-E1
+T105	Biological_Activity 5568 5578	luciferase
+T106	Protein 5568 5578	luciferase
+T107	Protein 5656 5660	TNFα
+T108	Chemical 5706 5713	humulon
+T109	Chemical 5750 5757	humulon
+T110	Chemical 5809 5813	PGE2
+T111	Metabolite 5809 5813	PGE2
+T112	Biological_Activity 5823 5829	enzyme
+T113	Protein 5908 5924	cyclooxygenase-2
+T114	Protein 5928 5932	TNFα
+T115	Biological_Activity 5937 5946	inhibited
+T116	Chemical 6010 6017	humulon
+T117	Biological_Activity 6018 6027	inhibited
+T118	Protein 6056 6070;6071 6073	cyclooxygenase -1
+T119	Protein 6056 6070;6078 6080	cyclooxygenase -2
+T120	Protein 6107 6123	cyclooxygenase-1
+T121	Chemical 6156 6163	humulon
+T122	Protein 6189 6205	cyclooxygenase-2
+T123	Biological_Activity 6219 6228	inhibited
+R12	Associated_With Arg1:T121 Arg2:T123	
+T124	Protein 6298 6314	cyclooxygenase-2
+T125	Biological_Activity 6319 6328	inhibited
+T126	Chemical 6332 6339	humulon
+R13	Associated_With Arg1:T126 Arg2:T125	
+R14	Binds_With Arg1:T126 Arg2:T124	
+R15	Binds_With Arg1:T121 Arg2:T122	
+T127	Protein 6421 6437	cyclooxygenase-2
+T128	Protein 6496 6500	TNFα
+T129	Protein 6511 6527	cyclooxygenase-2
+T130	Species 6541 6549	MC3T3-E1
+T131	Chemical 6574 6587	dexamethasone
+T132	Biological_Activity 6620 6637	anti-inflammatory
+R16	Associated_With Arg1:T131 Arg2:T132	
+T133	Protein 6663 6679	cyclooxygenase-2
+T134	Chemical 6742 6755	dexamethasone
+T135	Species 6759 6767	MC3T3-E1
+T136	Protein 6819 6823	TNFα
+T137	Chemical 6857 6861	PGE2
+T138	Metabolite 6857 6861	PGE2
+T139	Protein 6881 6897	cyclooxygenase-2
+T140	Chemical 6968 6981	dexamethasone
+T141	Protein 7023 7039	cyclooxygenase-2
+T142	Chemical 7089 7102	dexamethasone
+T143	Protein 7108 7112	TNFα
+T144	Protein 7123 7133	luciferase
+T145	Biological_Activity 7123 7133	luciferase
+T146	Chemical 7165 7178	dexamethasone
+T147	Chemical 7245 7258	dexamethasone
+T148	Protein 7274 7290	cyclooxygenase-2
+T149	Species 7331 7339	MC3T3-E1
+T150	Species 7370 7378	MC3T3-E1
+T151	Protein 7418 7419	F
+T152	Protein 7426 7432	NF-IL6
+T153	Protein 7465 7481	cyclooxygenase-2
+T154	Protein 7495 7499	TNFα
+T155	Chemical 7537 7544	humulon
+T156	Chemical 7549 7562	dexamethasone
+T157	Protein 7590 7594	NFκB
+T158	Protein 7626 7632	NF-IL6
+T159	Protein 7717 7727	luciferase
+T160	Protein 7746 7762	thymidine kinase
+T161	Protein 7772 7776	NFκB
+T162	Protein 7780 7786	NF-IL6
+T163	Species 7836 7844	MC3T3-E1
+T164	Protein 7860 7870	luciferase
+T165	Biological_Activity 7860 7870	luciferase
+T166	Chemical 7899 7906	humulon
+T167	Chemical 7911 7924	dexamethasone
+T168	Protein 7939 7949	luciferase
+T169	Biological_Activity 7939 7949	luciferase
+T170	Protein 7970 7974	TNFα
+T171	Chemical 8008 8015	humulon
+T172	Chemical 8020 8033	dexamethasone
+T173	Protein 8041 8057	cyclooxygenase-2
+T174	Protein 8099 8103	NFκB
+T175	Protein 8107 8113	NF-IL6
+T176	Chemical 8153 8160	humulon
+T177	Protein 8170 8193	glucocorticoid receptor
+T178	Chemical 8203 8208	RU486
+T179	Protein 8214 8237	glucocorticoid receptor
+T180	Biological_Activity 8238 8248	antagonist
+R17	Associated_With Arg1:T178 Arg2:T180	
+R18	Binds_With Arg1:T178 Arg2:T179	
+T181	Protein 8260 8264	TNFα
+T182	Chemical 8275 8279	PGE2
+T183	Metabolite 8275 8279	PGE2
+T184	Chemical 8304 8317	dexamethasone
+T185	Chemical 8334 8339	RU486
+T186	Chemical 8392 8396	PGE2
+T187	Metabolite 8392 8396	PGE2
+T188	Chemical 8411 8418	humulon
+T189	Protein 8480 8490	luciferase
+T190	Protein 8509 8525	thymidine kinase
+T191	Chemical 8535 8549	glucocorticoid
+T192	Species 8609 8617	MC3T3-E1
+T193	Protein 8633 8643	luciferase
+T194	Biological_Activity 8633 8643	luciferase
+T195	Protein 8712 8716	TNFα
+T196	Chemical 8722 8735	dexamethasone
+T197	Chemical 8739 8746	humulon
+T198	Chemical 8786 8799	dexamethasone
+T199	Protein 8810 8820	luciferase
+T200	Biological_Activity 8810 8820	luciferase
+T201	Species 8833 8841	MC3T3-E1
+T202	Chemical 8874 8887	dexamethasone
+T204	Protein 8901 8924	glucocorticoid receptor
+T205	Chemical 8941 8955	glucocorticoid
+T206	Chemical 9034 9041	humulon
+T207	Protein 9047 9057	luciferase
+T208	Biological_Activity 9047 9057	luciferase
+T209	Chemical 9116 9123	humulon
+T210	Protein 9149 9165	cyclooxygenase-2
+T212	Protein 9196 9219	glucocorticoid receptor
+T203	Protein 9260 9274	cyclooxygenase
+T211	Chemical 9296 9310	glucocorticoid
+T213	Biological_Activity 9246 9255	inhibitor
+R19	Associated_With Arg1:T211 Arg2:T213	
+T214	Protein 9338 9354	cyclooxygenase-2
+T215	Chemical 9372 9385	phorbol ester
+T216	Species 9394 9399	human
+T217	Chemical 9430 9441	resveratrol
+T218	Biological_Activity 9417 9426	inhibited
+R20	Associated_With Arg1:T217 Arg2:T218	
+T219	Metabolite 9430 9441	resveratrol
+T220	Species 9475 9481	grapes
+R21	Isolated_From Arg1:T219 Arg2:T220	
+T221	Protein 9535 9541	enzyme
+T222	Chemical 9620 9631	Resveratrol
+T223	Metabolite 9620 9631	Resveratrol
+T224	Protein 9645 9661	cyclooxygenase-2
+T225	Protein 9676 9694	protein kinase C-α
+T226	Protein 9696 9700	ERK1
+T227	Protein 9706 9711	c-Jun
+T228	Biological_Activity 9662 9672	activation
+T229	Metabolite 9454 9465	phytoalexin
+T230	Chemical 9454 9465	phytoalexin
+T231	Chemical 9732 9749	sodium salicylate
+T232	Chemical 9754 9761	aspirin
+T233	Biological_Activity 9809 9818	inhibited
+R22	Associated_With Arg1:T231 Arg2:T233	
+R23	Associated_With Arg1:T232 Arg2:T233	
+T234	Protein 9819 9835	cyclooxygenase-2
+T235	Chemical 9861 9874	phorbol ester
+T236	Protein 9876 9890	interleukin-1β
+T237	Chemical 9896 9914	lipopolysaccharide
+T238	Chemical 9916 9919	LPS
+T239	Chemical 9951 9965	glucocorticoid
+T240	Biological_Activity 9966 9971	binds
+T241	Protein 9993 10001	receptor
+R24	Associated_With Arg1:T239 Arg2:T240	
+R25	Binds_With Arg1:T239 Arg2:T241	
+T242	Chemical 10033 10040	steroid
+T243	Protein 10041 10049	receptor
+T244	Chemical 10069 10083	glucocorticoid
+T245	Protein 10199 10215	cyclooxygenase-2
+T246	Biological_Activity 10181 10191	activation
+T247	Chemical 10233 10236	LPS
+T248	Chemical 10255 10269	glucocorticoid
+T249	Protein 10327 10350	glucocorticoid receptor
+T250	Chemical 10435 10449	glucocorticoid
+T251	Protein 10493 10509	cyclooxygenase-2
+T252	Protein 10547 10551	NFκB
+T253	Chemical 10610 10613	LPS
+T254	Species 10622 10627	human
+T255	Protein 10622 10644	human cyclooxygenase-2
+T256	Species 10664 10674	U937 cells
+T257	Chemical 10698 10711	dexamethasone
+T258	Chemical 10716 10728	herbimycin A
+T259	Chemical 10781 10788	humulon
+T260	Chemical 10795 10809	glucocorticoid
+T261	Protein 10839 10843	TNFα
+T262	Protein 10852 10868	cyclooxygenase-2
+T263	Protein 10935 10958	glucocorticoid receptor
+T264	Biological_Activity 11064 11081	anti-inflammatory
+T265	Chemical 11092 11099	humulon
+R26	Associated_With Arg1:T265 Arg2:T264	
+T266	Species 11186 11206	herpes simplex virus
+T267	Protein 11207 11223	thymidine kinase

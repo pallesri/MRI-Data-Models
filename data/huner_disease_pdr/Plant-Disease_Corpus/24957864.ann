@@ -1,0 +1,24 @@
+T2	Disease 252 265	schizophrenia
+T3	Disease 282 302	psychiatric disorder
+T5	Disease 435 448	schizophrenia
+T7	Disease 535 544	psychosis
+T8	Disease 587 596	psychosis
+T10	Disease 740 753	schizophrenia
+T14	Disease 1092 1105	schizophrenia
+T16	Disease 1250 1286	impact of environmental risk factors
+T18	Plant 0 8	Cannabis
+T19	Plant 235 243	cannabis
+T20	Plant 398 406	cannabis
+T21	Plant 501 509	cannabis
+T22	Plant 628 636	cannabis
+T23	Plant 778 786	cannabis
+T24	Plant 866 874	cannabis
+T25	Plant 1018 1026	cannabis
+T26	Plant 1110 1118	cannabis
+T27	Plant 1298 1306	cannabis
+T1	Cause_of_disease 426 431	cause
+E1	Cause_of_disease:T1 Theme:T5 Cause:T20
+T4	Cause_of_disease 527 531	risk
+E2	Cause_of_disease:T4 Theme:T7 Cause:T21
+T6	Cause_of_disease 620 624	risk
+E3	Cause_of_disease:T6 Cause:T22 Theme:T8

@@ -1,0 +1,302 @@
+T1	Chemical 1 51	3-Deoxy-d -glycero -d -galacto -2-nonulosonic acid
+T2	Metabolite 1 51	3-Deoxy-d -glycero -d -galacto -2-nonulosonic acid
+T3	Chemical 53 56	Kdn
+T4	Metabolite 53 56	Kdn
+T5	Chemical 93 104	sialic acid
+T6	Chemical 70 104	deaminated analogue of sialic acid
+T7	Species 146 159	rainbow trout
+T8	Protein 164 185	polysialoglycoprotein
+T9	Protein 187 191	PSGP
+R1	Isolated_From Arg1:T4 Arg2:T7	
+R2	Isolated_From Arg1:T2 Arg2:T7	
+T10	Chemical 199 202	Kdn
+T11	Metabolite 199 202	Kdn
+T12	Chemical 224 234	glycosylic
+T13	Species 333 337	fish
+T14	Species 350 359	amphibian
+T15	Species 369 377	bacteria
+R3	Isolated_From Arg1:T11 Arg2:T13	
+R4	Isolated_From Arg1:T11 Arg2:T14	
+R5	Isolated_From Arg1:T11 Arg2:T15	
+T16	Chemical 435 438	Kdn
+T17	Metabolite 435 438	Kdn
+T18	Chemical 526 529	Kdn
+T19	Metabolite 526 529	Kdn
+T20	Biological_Activity 549 559	protecting
+T21	Protein 568 577	sialidase
+T22	Biological_Activity 578 587	digestion
+R6	Associated_With Arg1:T19 Arg2:T20	
+R7	Associated_With Arg1:T18 Arg2:T20	
+T23	Chemical 664 667	Kdn
+T24	Chemical 664 667;676 685	Kdn analogues
+T25	Chemical 698 714	oligosaccharides
+T26	Chemical 789 813	N -acetylneuraminic acid
+T28	Metabolite 664 667	Kdn
+T27	Chemical 815 820	NeuAc
+T29	Protein 851 866	Kdn-transferase
+T30	Chemical 851 854	Kdn
+T31	Metabolite 851 854	Kdn
+T32	Protein 910 925	Kdn-transferase
+T33	Chemical 910 913	Kdn
+T34	Metabolite 910 914	Kdn-
+T35	Protein 1006 1024	sialyltransferases
+T36	Chemical 1079 1088	sialoside
+T37	Chemical 1079 1088;1094 1103	sialoside analogues
+T38	Chemical 1114 1150	Kdn-α-(2→3)-Gal-β-(1→4)-Glc-β-1-OAll
+T39	Species 1167 1176	bacterial
+T40	Protein 1177 1202	α-(2→6) sialyltransferase
+T41	Chemical 1250 1255	NeuAc
+T42	Chemical 1272 1278	sialyl
+T43	Biological_Activity 1279 1288	acceptors
+T44	Protein 1326 1332	enzyme
+T45	Chemical 1421 1424	Kdn
+T46	Metabolite 1421 1424	Kdn
+T47	Chemical 1421 1441;1451 1460	Kdn oligosaccharides analogues
+T48	Chemical 1421 1440	Kdn oligosaccharide
+T49	Protein 1470 1476	enzyme
+T50	Chemical 1670 1673	Kdn
+T51	Metabolite 1670 1673	Kdn
+T52	Chemical 1677 1712	methyl N -acetyl-β-d -lactosaminide
+T53	Chemical 1717 1752	4-methylumbelliferyl β-d -lactoside
+T54	Species 1756 1765	bacterial
+T55	Protein 1766 1791	α-(2→6)-sialyltransferase
+T56	Chemical 1821 1833	CMP-β-d -Kdn
+T57	Spectral_Data 2056 2063	1 H NMR
+T58	Chemical 2088 2109	phosphite derivatives
+T59	Chemical 2088 2097	phosphite
+T60	Chemical 2144 2147	Kdn
+T61	Metabolite 2144 2147	Kdn
+T62	Chemical 2182 2185	Kdn
+T63	Metabolite 2182 2185	Kdn
+T64	Chemical 2361 2370	phosphite
+T65	Chemical 2371 2372	4
+T66	Chemical 2448 2449	4
+T67	Chemical 2492 2501	phosphate
+T68	Chemical 2502 2503	5
+T69	Spectral_Data 2543 2559	1 H NMR spectrum
+T70	Chemical 2605 2617	CMP-β-d -Kdn
+T71	Chemical 2618 2619	6
+R8	Associated_With Arg1:T70 Arg2:T69	
+R9	Associated_With Arg1:T71 Arg2:T69	
+T72	Chemical 2656 2668	CMP-α-d -Kdn
+T73	Chemical 2719 2731	CMP-α-d -Kdn
+T74	Chemical 2758 2759	6
+T75	Chemical 2810 2816	NH4 OH
+T76	Chemical 2832 2842	compound 6
+T77	Spectral_Data 2866 2873	1 H NMR
+T78	Chemical 2954 2973	Kdn-oligosaccharide
+T79	Chemical 2974 2975	8
+T80	Species 2987 2996	bacterial
+T81	Protein 2997 3022	α-(2→6)-sialyltransferase
+T82	Chemical 3096 3105	sialoside
+T83	Protein 3151 3157	enzyme
+T84	Chemical 3184 3187	Kdn
+T85	Metabolite 3184 3187	Kdn
+T86	Chemical 3191 3225	methyl β-d -N -acetyllactosaminide
+T87	Chemical 3227 3228	7
+T88	Chemical 3256 3288	Kdn-N -acetyl-β-d -lactosaminide
+T89	Spectral_Data 3351 3354;3370 3381	1 H NMR spectra
+T90	Spectral_Data 3367 3381	2D NMR spectra
+R10	Associated_With Arg1:T88 Arg2:T89	
+R11	Associated_With Arg1:T88 Arg2:T90	
+T91	Protein 3383 3389	Enzyme
+T92	Chemical 3402 3437	4-methylumbelliferyl β-d -lactoside
+T93	Chemical 3480 3492	CMP-β-d -Kdn
+T94	Chemical 3542 3556	CMP-β-d -NeuAc
+T95	Chemical 3599 3611	CMP-β-d -Kdn
+T96	Chemical 3639 3653	CMP-β-d -NeuAc
+T97	Chemical 3697 3712	acetamido group
+T98	Chemical 3720 3734	hydroxyl group
+T99	Biological_Activity 3766 3773	binding
+T100	Chemical 3855 3887	Kdn-N -acetyl-β-d -lactosaminide
+T101	Species 3915 3924	mammalian
+T102	Protein 3925 3950	α-(2→6)-sialyltransferase
+T103	Chemical 3979 3984	NeuAc
+T104	Chemical 3993 4000	lactose
+T105	Chemical 4005 4031	N -acetyl-β-d -lactosamine
+T106	Species 4042 4051	bacterial
+T107	Protein 4052 4069	sialyltransferase
+T108	Chemical 4088 4091	Kdn
+T109	Metabolite 4088 4091	Kdn
+T110	Chemical 4100 4107	lactose
+T111	Chemical 4112 4138	N -acetyl-β-d -lactosamine
+T112	Chemical 4198 4201	Kdn
+T113	Metabolite 4198 4201	Kdn
+T114	Chemical 4198 4218	Kdn oligosaccharides
+T115	Chemical 2954 2957	Kdn
+T116	Metabolite 2954 2957	Kdn
+T117	Species 4241 4250	bacterial
+T118	Protein 4251 4268	sialyltransferase
+T119	Chemical 4295 4298	Kdn
+T120	Metabolite 4295 4298	Kdn
+T121	Chemical 4307 4342	methyl N -acetyl-β-d -lactosaminide
+T122	Chemical 4347 4382	4-methylumbelliferyl β-d -lactoside
+T123	Protein 4428 4434	enzyme
+T124	Chemical 4474 4487	disaccharides
+T125	Chemical 4492 4507	monosaccharides
+T126	Protein 4526 4532	enzyme
+T127	Chemical 4612 4628	CMP-modified-Kdn
+T128	Species 4633 4642	bacterial
+T129	Protein 4643 4660	sialyltransferase
+T130	Chemical 4674 4677	Kdn
+T131	Metabolite 4674 4677	Kdn
+T132	Chemical 4674 4693	Kdn-oligosaccharide
+T133	Chemical 4674 4703	Kdn-oligosaccharide analogues
+T134	Chemical 4749 4752	Kdn
+T135	Metabolite 4749 4752	Kdn
+T136	Chemical 4764 4767	Kdn
+T137	Metabolite 4764 4767	Kdn
+T138	Protein 4788 4797	sialidase
+T139	Biological_Activity 4798 4808	digestion,
+T140	Chemical 4813 4816	Kdn
+T141	Metabolite 4813 4816	Kdn
+T142	Chemical 4813 4816;4824 4833	Kdn analogues
+T143	Chemical 4877 4889	galactosides
+T144	Protein 4920 4932	glycoprotein
+T145	Biological_Activity 4985 4993	blocking
+T146	Spectral_Data 5063 5078	1 H NMR spectra
+T147	Spectral_Data 5149 5165	31 P NMR spectra
+T148	Chemical 5281 5287	H3 PO4
+T149	Spectral_Data 5375 5403	High-resolution mass spectra
+T150	Chemical 5512 5518	Silica
+T151	Chemical 5578 5584	H2 SO4
+T152	Chemical 5589 5593	MeOH
+T153	Chemical 5600 5684	Methyl 4,5,7,8,9-penta-O-acetyl-3-deoxy-d -glycero-β-d -galacto-2-nonulopyranosonate
+T155	Chemical 5707 5727	thiophenyl glycoside
+T156	Chemical 5764 5771	acetone
+T157	Chemical 5772 5776	H2 O
+T158	Chemical 5795 5798	NBS
+T159	Chemical 5885 5890	EtOAc
+T160	Chemical 5921 5927	NaHCO3
+T161	Chemical 5968 5973	MgSO4
+T162	Chemical 6074 6083	n -hexane
+T163	Chemical 6084 6089	EtOAc
+T165	Chemical 6142 6147	CHCl3
+T166	Spectral_Data 6166 6542	1 H NMR (270 MHz, CDCl3 ): δ  7.34–7.52 (m, 5 H, SPh), 5.20 (dd, 1 H, H-7), 5.04 (ddd, 1 H, J  7.4 Hz, H-8), 5.09 (ddd, 1 H, J  11.8 Hz, H-4), 4.79 (dd, 1 H, J  7.4 Hz, H-5), 4.21 (dd, 1 H, J  2.9 Hz, H-9), 4.19 (dd, 1 H, J  10.3, 2.1 Hz, H-6), 3.97 (dd, 1 H, J  12.4, 6.0 Hz, H-9), 3.66 (s, 3H, COOMe), 2.15 (dd, 1 H, J  5.1, 12.8 Hz, H-3eq), 1.83–1.93 (m, 16 H, OAc, H-3ax).
+T167	Chemical 6184 6189	CDCl3
+T168	Chemical 6215 6218	SPh
+T169	Chemical 6462 6467	COOMe
+R12	Associated_With Arg1:T153 Arg2:T166	
+T170	Chemical 6559 6570	C20 H28 O14
+T171	Chemical 6623 6784	2-Cyanoethyl (2′,3′-di-O-acetyl-N4 -acetylcytidine-5′-yl) (methyl 4,5,7,8,9-penta-O-acetyl-3-deoxy-β-d -glycero-β-d -galacto-2-non-ulopyranosid-2′′-yl) phosphite
+T172	Chemical 6786 6787	4
+T173	Chemical 6794 6809	pentaacetyl-Kdn
+T174	Chemical 6837 6859	cytidine 5′-O -amidite
+T175	Chemical 6938 6945	toluene
+T176	Chemical 6995 6999	MeCN
+T177	Chemical 7036 7051	[1H ]-tetrazole
+T178	Chemical 7089 7094	argon
+T179	Chemical 7254 7259	EtOAc
+T180	Chemical 7295 7301	NaHCO3
+T181	Chemical 7324 7329	MgSO4
+T182	Chemical 7468 7472	MeOH
+T183	Chemical 7484 7495	phosphite 4
+T184	Chemical 7516 7529	diastereomers
+T185	Spectral_Data 7545 7552	1 H NMR
+T186	Spectral_Data 7598 7655	31 P NMR (500 MHz, CDCl3 ): δ  135.0, 135.9, 137.2, 137.3
+T187	Chemical 7617 7622	CDCl3
+T188	Spectral_Data 7657 7664	HRFABMS
+R14	Associated_With Arg1:T171 Arg2:T185	
+R15	Associated_With Arg1:T171 Arg2:T186	
+R16	Associated_With Arg1:T171 Arg2:T188	
+T189	Chemical 7676 7692	C38 H50 N4 O23 P
+T190	Chemical 7743 7759	C38 H49 N4 O23 P
+T191	Chemical 7829 7988	2-Cyanoethyl (2′,3′-di-O-acetyl-N4 -acetylcytidine 5′-yl) (methyl 4,5,7,8,9-penta-O-acetyl-3-deoxy-β-d -glycero-d -galacto-2-nonulo-pyranosid 2′′-yl) phosphate
+T193	Chemical 8011 8022	phosphite 4
+T194	Chemical 8046 8050	MeCN
+T195	Chemical 8070 8081	tert -BuOOH
+T196	Chemical 8092 8099	toluene
+T197	Chemical 8188 8193	EtOAc
+T198	Chemical 8210 8216	NaHCO3
+T199	Chemical 8246 8251	MgSO4
+T200	Chemical 8393 8400	CH2 Cl2
+T201	Chemical 8412 8423	phosphate 5
+T202	Chemical 8443 8456	diastereomers
+T203	Spectral_Data 8459 8599	1 H NMR: δ  9.64 (NHAc), 8.00–8.25 (H-6), 7.39–7.50 (H-5), 6.08–6.20 (H-1′), 3.89 (COOMe), 2.78–2.88 (H-3′′eq), 2.24 (NAc), 1.98–2.11 (OAc);
+T204	Chemical 8477 8481	NHAc
+T205	Chemical 8542 8547	COOMe
+T206	Chemical 8577 8580	NAc
+T207	Chemical 8594 8597	OAc
+T208	Spectral_Data 8600 8658	31 P NMR (500 MHz, CDCl3 ): δ  −6.33, −6.23, −6.23, −6.14.
+T209	Chemical 8619 8624	CDCl3
+T210	Spectral_Data 8659 8666	HRFABMS
+T211	Chemical 8678 8694	C38 H50 N4 O24 P
+R17	Associated_With Arg1:T191 Arg2:T208	
+R18	Associated_With Arg1:T191 Arg2:T203	
+R19	Associated_With Arg1:T191 Arg2:T210	
+R20	Associated_With Arg1:T201 Arg2:T203	
+R21	Associated_With Arg1:T201 Arg2:T208	
+R22	Associated_With Arg1:T201 Arg2:T210	
+T212	Chemical 8734 8746	CMP-β-d -Kdn
+T213	Chemical 8748 8749	6
+T214	Chemical 8779 8786	CMP-Kdn
+T215	Chemical 8811 8814	THF
+T216	Chemical 8834 8869	1,8-diazabicyclo-[5.4.0]-7-undecene
+T217	Chemical 8939 8944	NaOMe
+T218	Chemical 8969 8973	MeOH
+T219	Chemical 8974 8978	H2 O
+T220	Chemical 9159 9165	NH4 OH
+T221	Chemical 9182 9194	CMP-β-d -Kdn
+T222	Chemical 9195 9196	6
+T223	Spectral_Data 9211 9725	1 H NMR (HOD=4.81 ppm): δ  7.96 (d, 1 H, J  7.5 Hz, H-6), 6.10 (d, 1 H, J  7.5 Hz, H-5), 5.97 (d, 1 H, J  4.5 Hz, H-1′′), 4.33 (dd, 1 H, H-4′), 4.27 (dd, 1 H, H-2′), 4.21 (d, 3 H, H-3′, 5′a, 5′b), 4.06 (d, 1 H, J  9.6 Hz, H-6′′), 4.00 (ddd, 1 H, J  4.9, 9.6, 12.4 Hz, H-4′′), 3.92 (d, 1 H, J  12.1 Hz, H-9′′a), 3.88 (d, 1 H, H-7′′), 3.72 (m, 1 H, H-8′′), 3.65 (dd, 1 H, J  6.8, 12.1 Hz, H-9′′b), 3.57 (dd, 1 H, J  9.6, 9.6 Hz, H-5′′), 2.41 (dd, 1 H, J  4.9, 12.4 Hz), 1.57 (ddd, 1 H, J  5.9, 12.4, 12.4 Hz, H-3ax);
+T224	Chemical 9220 9223	HOD
+T225	Spectral_Data 9726 9751	31 P NMR (D2 O): δ  −4.43
+T226	Chemical 9736 9740	D2 O
+T227	Spectral_Data 9753 9760	HRFABMS
+T228	Chemical 9772 9791	C18 H26 N3 O16 PNa3
+R23	Associated_With Arg1:T212 Arg2:T223	
+R24	Associated_With Arg1:T212 Arg2:T225	
+R25	Associated_With Arg1:T212 Arg2:T227	
+R26	Associated_With Arg1:T213 Arg2:T223	
+R27	Associated_With Arg1:T213 Arg2:T225	
+R28	Associated_With Arg1:T213 Arg2:T227	
+T229	Chemical 9835 9980	Methyl (3-deoxy-d -glycero-α-d -galacto-2-nonulopyranosylonic acid)-(2→6)-(β-d -galactopyranosyl)-(1→4)-2-acetoamido-2-deoxy-β-d -glucopyranoside
+T230	Chemical 9982 9983	8
+T231	Chemical 10012 10024	CMP-β-d -Kdn
+T232	Chemical 10047 10053	sodium
+T233	Chemical 10061 10086	methyl β-d -lactosaminide
+T234	Chemical 10087 10088	7
+T235	Protein 10122 10142	alkaline phosphatase
+T236	Protein 10160 10177	sialyltransferase
+T237	Chemical 10189 10194	HEPES
+T238	Chemical 10327 10333	silica
+T239	Chemical 10379 10385	Silica
+T240	Chemical 10420 10427	n -PrOH
+T241	Chemical 10428 10432	H2 O
+T242	Chemical 10433 10439	NH4 OH
+T243	Chemical 10523 10528	water
+T244	Spectral_Data 10556 10993	1 H NMR (500 MHz, D2 O): δ  4.47 (d, 1 H, J  8.1 Hz, H-1), 4.43 (d, 1 H, J  7.9 Hz, H-1′), 3.99 (dd, 1 H, J  2.1, 13.0 Hz, H-6), 3.98 (dd, 1 H, J  9.5, 9.5 Hz, H-6′), 3.91 (d, 1 H, J  3.4 Hz, H-4′), 3.82 (dd, 1 H, J  5.6, 13.0 Hz, H-6), 3.52 (dd, 1 H, J  8.0, 10.4 Hz, H-2′), 3.50 (s, 3 H, OMe), 3.47 (dd, 1 H, J  9.4, 9.4 Hz, H-5′′), 2.61 (dd, 1 H, J  4.6, 12.4 Hz, H-3′′eq), 2.05 (s, 3 H, Ac), 1.67 (dd, 1 H, J  12.4, 12.4 Hz, H-3′′ax)
+T245	Chemical 10574 10578	D2 O
+T246	Chemical 10846 10849	OMe
+T247	Chemical 10947 10949	Ac
+T248	Spectral_Data 10995 11207	13 C NMR (D2 O, dioxane=67.48 ppm): δ  175.39, 174.36, 174.16, 104.22, 102.51, 100.66, 81.35, 75.39, 74.61, 74.44, 73.36, 73.20, 72.86, 71.52, 70.85, 69.29, 69.00, 64.45, 63.59, 61.12, 57.89, 55.66, 40.45, 23.16.
+T249	Chemical 11005 11009	D2 O
+T250	Chemical 11011 11018	dioxane
+T251	Spectral_Data 11208 11215	HRFABMS
+T252	Chemical 11227 11242	C24 H41 NO19 Na
+R29	Associated_With Arg1:T229 Arg2:T244	
+R30	Associated_With Arg1:T229 Arg2:T248	
+R31	Associated_With Arg1:T229 Arg2:T251	
+R32	Associated_With Arg1:T230 Arg2:T244	
+R33	Associated_With Arg1:T230 Arg2:T248	
+R34	Associated_With Arg1:T230 Arg2:T251	
+T253	Protein 11282 11288	Enzyme
+T254	Chemical 11295 11312	Sialyltransferase
+T255	Chemical 11342 11347	HEPES
+T256	Chemical 11399 11411	CMP-β-d -Kdn
+T257	Chemical 11443 11457	CMP-β-d -NeuAc
+T258	Chemical 11488 11523	4-methylumbelliferyl β-d -lactoside
+T259	Chemical 11534 11537	BSA
+T260	Chemical 11546 11557	Triton X100
+T261	Protein 11570 11587	sialyltransferase
+T262	Chemical 11593 11605	CMP-β-d -Kdn
+T263	Chemical 11619 11633	CMP-β-d -NeuAc
+T264	Biological_Activity 11731 11736	donor
+T265	Chemical 11803 11810	dry ice
+T266	Chemical 11811 11818	acetone
+T267	Chemical 11829 11832	Kdn
+T268	Metabolite 11829 11832	Kdn
+T269	Chemical 11836 11841	NeuAc
+T270	Chemical 11907 11911	MeCN
+T271	Chemical 11912 11916	H2 O
+T272	Spectral_Data 12201 12219	mass spectroscopic

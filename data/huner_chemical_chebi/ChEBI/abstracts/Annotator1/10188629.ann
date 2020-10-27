@@ -1,0 +1,48 @@
+T1	Chemical 0 10	Amiodarone
+T2	Chemical 12 14	AD
+T3	Biological_Activity 32 46	antidysrythmic
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T3	
+T6	Biological_Activity 159 177	photosensitization
+R7	Associated_With Arg1:T1 Arg2:T6	
+R8	Associated_With Arg1:T2 Arg2:T6	
+T9	Biological_Activity 267 282	porphyrinogenic
+T10	Chemical 311 321	Amiodarone
+T11	Chemical 438 440	AD
+T12	Protein 530 558	5-aminolevulinate synthetase
+T13	Protein 560 565	ALA-S
+T14	Protein 530 547;572 583	5-aminolevulinate dehydratase
+T15	Protein 568 583	ALA dehydratase
+T16	Protein 585 590	ALA-D
+T17	Protein 593 611	porphobilinogenase
+T18	Protein 593 608;629 638	porphobilinogen deaminase
+T19	Protein 613 619	PBGase
+T20	Protein 625 638	PBG-deaminase
+T21	Protein 640 645	PBG-D
+T22	Chemical 694 704	porphyrins
+T23	Chemical 715 718	ALA
+T24	Chemical 720 723	PBG
+T25	Chemical 728 738	porphyrins
+T26	Species 747 762	mice strain CF1
+T27	Chemical 776 778	AD
+T28	Chemical 912 914	AD
+T29	Species 984 989	human
+T30	Species 1001 1005	mice
+T31	Protein 1071 1076	ALA-S
+T32	Protein 1078 1083	ALA-D
+T33	Protein 1085 1091	PBGase
+T34	Protein 1093 1098	PBG-D
+T35	Protein 1103 1133	uroporphyrinogen decarboxylase
+T36	Chemical 1180 1182	AD
+T37	Chemical 1202 1204	AD
+T38	Species 1317 1325	patients
+T39	Chemical 1332 1334	AD
+T41	Chemical 1527 1529	AD
+T43	Species 374 382	patients
+T45	Protein 1394 1406	heme enzymes
+T7	Chemical 472 476	heme
+T8	Biological_Activity 477 487	metabolism
+T40	Biological_Activity 1231 1248	enzyme activities
+T46	Protein 1231 1237	enzyme
+T44	Chemical 1442 1452	porphyrins
+T4	Chemical 1558 1562	drug

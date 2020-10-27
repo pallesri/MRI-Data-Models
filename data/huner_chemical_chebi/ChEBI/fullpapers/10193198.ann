@@ -1,0 +1,243 @@
+T1	Chemical 68 87	conducting polymers
+T5	Chemical 299 302	ion
+T9	Chemical 539 546	aqueous
+T11	Chemical 603 608	water
+T13	Chemical 622 633	polypyrrole
+T14	Chemical 635 638	PPy
+T15	Chemical 644 666	poly(N -methylpyrrole)
+T16	Chemical 668 672	PMPy
+T17	Chemical 703 708	water
+T19	Chemical 732 738	cation
+T3	Chemical 754 757	PPy
+T2	Chemical 885 890	water
+T4	Chemical 908 913	anion
+T6	Chemical 929 933	PMPy
+T7	Chemical 1100 1105	water
+T8	Chemical 1110 1113	ion
+T10	Chemical 1231 1250	conducting polymers
+T12	Chemical 1254 1276	polar aprotic solvents
+T18	Chemical 1316 1318	Li
+T20	Chemical 1418 1425	aqueous
+T21	Chemical 1365 1373	solvents
+T22	Chemical 1478 1483	anion
+T23	Chemical 1530 1541	polyaniline
+T24	Chemical 1543 1546	PAn
+T25	Chemical 1557 1569	acetonitrile
+T26	Chemical 1571 1573	AN
+T27	Chemical 1586 1592	LiClO4
+T28	Chemical 1636 1655	propylene carbonate
+T29	Chemical 1657 1659	PC
+T30	Chemical 1733 1738	anion
+T31	Chemical 1778 1781	PAn
+T32	Chemical 1793 1795	PC
+T33	Chemical 1870 1875	anion
+T34	Chemical 1882 1889	solvent
+T35	Chemical 1921 1936	polybithiophene
+T36	Chemical 1946 1948	AN
+T37	Chemical 1984 1987	ion
+T38	Chemical 2001 2006	anion
+T39	Chemical 2031 2065	poly(N -alkyl-substituted pyrrole)
+T40	Chemical 2078 2080	AN
+T41	Chemical 2104 2106	AN
+T42	Chemical 2151 2156	anion
+T43	Chemical 2195 2210	aprotic solvent
+T44	Chemical 2307 2310	ion
+T45	Chemical 2315 2322	solvent
+T46	Chemical 2346 2349	PPy
+T47	Chemical 2354 2358	PMPy
+T48	Chemical 2368 2370	AN
+T49	Chemical 2549 2552	PPy
+T50	Chemical 2557 2561	PMPy
+T51	Chemical 2822 2825	PPy
+T52	Chemical 2837 2841	PMPy
+T53	Chemical 2873 2880	solvent
+T54	Chemical 2922 2929	Pyrrole
+T55	Chemical 2931 2947	N -methylpyrrole
+T56	Chemical 2953 2955	AN
+T57	Chemical 3263 3265	Ag
+T58	Chemical 3268 3271	Ag+
+T59	Chemical 3281 3286	AgNO3
+T60	Chemical 3291 3293	AN
+T61	Chemical 3321 3323	Pt
+T62	Chemical 3396 3403	calomel
+T63	Chemical 2424 2430	quartz
+T64	Chemical 3436 3442	quartz
+T65	Chemical 3477 3479	Au
+T66	Chemical 3572 3578	quartz
+T67	Chemical 3771 3774	PPy
+T68	Chemical 3852 3859	pyrrole
+T69	Chemical 3832 3834	AN
+T70	Chemical 3887 3891	PMPy
+T71	Chemical 3916 3918	AN
+T72	Chemical 3945 3961	N -methylpyrrole
+T73	Chemical 4050 4054	TEA+
+T74	Chemical 4064 4069	anion
+T75	Chemical 4248 4250	AN
+T76	Chemical 4275 4277	Ar
+T77	Chemical 4613 4616	PPy
+T78	Chemical 4653 4655	AN
+T79	Chemical 4671 4677	LiClO4
+T80	Chemical 4952 4958	anions
+T81	Chemical 4999 5006	cations
+T82	Chemical 5177 5180	Li+
+T83	Chemical 5355 5362	solvent
+T84	Chemical 5388 5391	Li+
+T85	Chemical 5469 5473	PMPy
+T86	Chemical 5750 5755	anion
+T87	Chemical 5974 5980	cation
+T88	Chemical 5991 5998	solvent
+T89	Chemical 6110 6115	anion
+T90	Chemical 6209 6216	aqueous
+T91	Chemical 6267 6270	PPy
+T92	Chemical 6271 6306	copper phthalocyaninetetrasulfonate
+T93	Chemical 6318 6324	cation
+T94	Chemical 6386 6390	PMPy
+T95	Chemical 6402 6407	anion
+T96	Chemical 6466 6468	AN
+T97	Chemical 6550 6553	PPy
+T98	Chemical 6565 6571	cation
+T99	Chemical 6632 6636	PMPy
+T100	Chemical 6653 6658	anion
+T101	Chemical 6796 6799	PPy
+T102	Chemical 6808 6816	LiClO4  
+T103	Chemical 7007 7012	anion
+T104	Chemical 7085 7091	cation
+T105	Chemical 7308 7315	TBAClO4
+T106	Chemical 7329 7333	TBA+
+T107	Chemical 7362 7368	cation
+T108	Chemical 7386 7389	Li+
+T109	Chemical 7527 7533	cation
+T110	Chemical 7582 7589	TBAClO4
+T111	Chemical 7625 7631	cation
+T112	Chemical 7689 7692	PPy
+T113	Chemical 7730 7734	PMPy
+T114	Chemical 7743 7749	LiClO4
+T115	Chemical 7900 7905	Anion
+T116	Chemical 7996 8000	PMPy
+T117	Chemical 8009 8016	TBAClO4
+T118	Chemical 8031 8034	PPy
+T119	Chemical 8132 8136	TBA+
+T120	Chemical 8165 8171	cation
+T121	Chemical 8183 8186	Li+
+T122	Chemical 8219 8225	cation
+T123	Chemical 8281 8285	PMPy
+T124	Chemical 8405 8408	PPy
+T125	Chemical 8431 8435	PMPy
+T126	Chemical 8459 8467	LiClO4  
+T127	Chemical 8766 8769	PPy
+T128	Chemical 8802 8805	PPy
+T129	Chemical 9005 9010	anion
+T130	Chemical 9155 9161	cation
+T131	Chemical 9242 9245	PPy
+T132	Chemical 9258 9264	LiClO4
+T133	Chemical 9371 9374	Li+
+T134	Chemical 9379 9382	Li+
+T135	Chemical 9424 9427	PPy
+T136	Chemical 9449 9456	TEAClO4
+T137	Chemical 9538 9544	cation
+T138	Chemical 9604 9608	salt
+T139	Chemical 9637 9644	solvent
+T140	Chemical 9688 9695	TEAClO4
+T141	Chemical 9762 9770	LiClO4  
+T142	Chemical 9850 9854	salt
+T143	Chemical 9907 9916	TEAClO4  
+T144	Chemical 9980 9989	TEAClO4  
+T145	Chemical 10018 10025	TEAClO4
+T146	Chemical 10071 10075	salt
+T147	Chemical 10114 10118	salt
+T148	Chemical 10269 10276	solvent
+T149	Chemical 10296 10302	cation
+T150	Chemical 10317 10324	solvent
+T151	Chemical 10446 10452	cation
+T152	Chemical 10459 10466	solvent
+T153	Chemical 10521 10528	solvent
+T154	Chemical 10543 10549	cation
+T155	Chemical 10592 10600	LiClO4  
+T156	Chemical 10711 10718	solvent
+T157	Chemical 10786 10793	TEAClO4
+T158	Chemical 10863 10871	LiClO4  
+T159	Chemical 10918 10925	solvent
+T160	Chemical 10949 10955	cation
+T161	Chemical 11006 11015	TEAClO4  
+T162	Chemical 11045 11054	TEAClO4  
+T163	Chemical 11092 11099	solvent
+T164	Chemical 11260 11263	ion
+T165	Chemical 11351 11354	PPy
+T166	Chemical 11385 11391	ClO4 −
+T167	Chemical 11552 11558	ClO4 −
+T168	Chemical 11577 11582	anion
+T169	Chemical 11594 11600	cation
+T170	Chemical 11605 11612	solvent
+T171	Chemical 11660 11665	anion
+T172	Chemical 11696 11700	PMPy
+T173	Chemical 11733 11737	PMPy
+T174	Chemical 11999 12005	LiClO4
+T175	Chemical 12045 12051	ClO4 −
+T176	Chemical 12102 12108	ClO4 −
+T177	Chemical 12129 12135	ClO4 −
+T178	Chemical 12213 12219	cation
+T179	Chemical 12279 12285	cation
+T180	Chemical 12297 12301	salt
+T181	Chemical 12329 12335	ClO4 −
+T182	Chemical 12419 12425	cation
+T183	Chemical 12437 12441	salt
+T184	Chemical 12481 12486	anion
+T185	Chemical 12566 12573	solvent
+T186	Chemical 12620 12625	anion
+T187	Chemical 12627 12633	ClO4 −
+T188	Chemical 12840 12844	PMPy
+T189	Chemical 12857 12866	TEAClO4  
+T190	Chemical 13027 13033	quartz
+T191	Chemical 13124 13130	quartz
+T192	Chemical 13671 13675	PMPy
+T193	Chemical 13687 13689	AN
+T194	Chemical 13961 13968	solvent
+T195	Chemical 14018 14023	anion
+T196	Chemical 14054 14059	anion
+T197	Chemical 14074 14081	solvent
+T198	Chemical 14210 14215	anion
+T199	Chemical 14222 14229	solvent
+T200	Chemical 14284 14291	solvent
+T201	Chemical 14306 14311	anion
+T202	Chemical 14344 14348	PMPy
+T203	Chemical 14358 14364	ClO4 −
+T204	Chemical 14377 14379	AN
+T205	Chemical 14427 14429	AN
+T206	Chemical 14455 14461	ClO4 −
+T207	Chemical 14498 14504	ClO4 −
+T208	Chemical 14555 14560	anion
+T209	Chemical 14588 14592	PMPy
+T210	Chemical 14662 14667	BF4 −
+T211	Chemical 14673 14682	CF3 SO3 −
+T212	Chemical 14764 14770	ClO4 −
+T213	Chemical 14844 14851	LiBF4  
+T214	Chemical 14855 14861	TBABF4
+T215	Chemical 14904 14913	LiCF3 SO3
+T216	Chemical 14919 14929	TBACF3 SO3
+T217	Chemical 14984 14989	BF4 −
+T218	Chemical 15003 15012	CF3 SO3 −
+T219	Chemical 15051 15057	cation
+T220	Chemical 15087 15092	BF4 −
+T221	Chemical 15098 15107	CF3 SO3 −
+T222	Chemical 15135 15141	cation
+T223	Chemical 15153 15157	salt
+T224	Chemical 15211 15218	solvent
+T225	Chemical 15263 15266	Ion
+T226	Chemical 15271 15278	solvent
+T227	Chemical 15302 15305	PPy
+T228	Chemical 15310 15314	PMPy
+T229	Chemical 15324 15326	AN
+T230	Chemical 15376 15383	Cations
+T231	Chemical 15395 15401	anions
+T232	Chemical 15415 15418	ion
+T233	Chemical 15458 15461	PPy
+T234	Chemical 15473 15475	AN
+T235	Chemical 15523 15529	cation
+T236	Chemical 15606 15608	AN
+T237	Chemical 15652 15656	TBA+
+T238	Chemical 15679 15685	cation
+T239	Chemical 15731 15737	cation
+T240	Chemical 15758 15763	anion
+T241	Chemical 15815 15819	PMPy
+T242	Chemical 15827 15829	AN
+T243	Chemical 15881 15886	anion

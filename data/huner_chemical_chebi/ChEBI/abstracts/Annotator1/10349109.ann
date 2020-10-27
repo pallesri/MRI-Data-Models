@@ -1,0 +1,21 @@
+T1	Chemical 0 15	Ethylene glycol
+T2	Biological_Activity 29 34	toxin
+T3	Species 40 48	children
+R1	Associated_With Arg1:T1 Arg2:T2	
+T6	Chemical 195 205	fomepizole
+T7	Chemical 207 223	4-methylpyrazole
+T8	Biological_Activity 257 265	antidote
+T10	Chemical 286 301	ethylene glycol
+R2	Associated_With Arg1:T6 Arg2:T8	
+R5	Associated_With Arg1:T7 Arg2:T8	
+T11	Species 316 322	adults
+T12	Chemical 367 377	fomepizole
+T13	Species 383 392	pediatric
+T14	Chemical 393 408	ethylene glycol
+T15	Chemical 461 476	ethylene glycol
+T16	Biological_Activity 477 486	poisoning
+T17	Species 490 498	children
+T18	Chemical 552 559	ethanol
+T20	Chemical 626 636	fomepizole
+T4	Biological_Activity 302 311	poisoning
+R3	Associated_With Arg1:T10 Arg2:T4	

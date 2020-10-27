@@ -1,0 +1,29 @@
+T1	Chemical 0 33	Phosphorothioate oligonucleotides
+T2	Chemical 35 43	S-oligos
+T3	Chemical 49 73	nucleic acid derivatives
+T4	Biological_Activity 100 109	antisense
+R1	Associated_With Arg1:T1 Arg2:T4	
+R2	Associated_With Arg1:T2 Arg2:T4	
+T5	Chemical 169 185	oligonucleotides
+T6	Biological_Activity 208 221	immunological
+R3	Associated_With Arg1:T1 Arg2:T6	
+R4	Associated_With Arg1:T2 Arg2:T6	
+T7	Biological_Activity 296 308	antigenicity
+T8	Chemical 325 333	S-oligos
+T9	Protein 372 391	anti-DNA antibodies
+T10	Species 405 413	patients
+T12	Chemical 459 467	S-oligos
+T13	Protein 482 501	anti-DNA antibodies
+T14	Species 531 535	calf
+T15	Chemical 670 678	S-oligos
+T16	Chemical 723 731	S-oligos
+T17	Chemical 876 899	phosphodiester oligomer
+T18	Chemical 924 940	phosphorothioate
+T19	Chemical 1051 1058	S-oligo
+T20	Biological_Activity 1085 1092	binding
+T21	Protein 1105 1115	antibodies
+T22	Chemical 1251 1259	S-oligos
+R7	Associated_With Arg1:T8 Arg2:T7	
+T11	Biological_Activity 1155 1167	antigenicity
+R5	Binds_With Arg1:T12 Arg2:T13	
+T23	Biological_Activity 468 473	bound

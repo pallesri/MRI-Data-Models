@@ -1,0 +1,18 @@
+T1	Disease 137 149	colon cancer
+T2	Disease 430 441	colon tumor
+T3	Disease 665 677	colon cancer
+T4	Disease 799 804	tumor
+T5	Disease 865 877	colon cancer
+T6	Disease 953 958	tumor
+T7	Disease 1083 1089	tumors
+T8	Disease 1258 1271	colon cancers
+T10	Plant 59 65	garlic
+T12	Plant 284 290	garlic
+T14	Plant 511 517	garlic
+T16	Plant 647 653	garlic
+T17	Plant 916 922	garlic
+T19	Plant 1009 1015	garlic
+T21	Plant 1120 1126	garlic
+T23	Plant 1200 1206	garlic
+T9	Treatment_of_disease 1250 1257	prevent
+E1	Treatment_of_disease:T9 Theme:T8 Cause:T23

@@ -1,0 +1,9 @@
+T2	Disease 1007 1013	cancer
+T3	Plant 137 144	tobacco
+T4	Plant 267 274	tobacco
+T5	Plant 764 771	tobacco
+T6	Plant 944 951	tobacco
+T7	Plant 991 998	tobacco
+T8	Plant 1742 1749	tobacco
+T1	Cause_of_disease 999 1006	related
+E1	Cause_of_disease:T1 Cause:T7 Theme:T2

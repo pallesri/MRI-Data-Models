@@ -1,0 +1,122 @@
+T1	Chemical 1 13	Chlozolinate
+T2	Chemical 29 37	chemical
+T3	Chemical 61 68	octanol
+T4	Chemical 69 74	water
+T5	Chemical 130 135	water
+T6	Chemical 158 167	fungicide
+T7	Biological_Activity 158 167	fungicide
+T8	Chemical 185 198	dicarboximide
+T9	Species 242 261	fruiting vegetables
+T10	Species 263 275	stone fruits
+T11	Species 277 287	artichokes
+T12	Species 289 296	carrots
+T13	Species 298 304	grapes
+T14	Species 306 314	potatoes
+T15	Species 319 331	strawberries
+R1	Associated_With Arg1:T1 Arg2:T7	
+T16	Species 553 565	stone fruits
+T17	Species 570 576	grapes
+R2	Associated_With Arg1:T8 Arg2:T7	
+T18	Chemical 816 829	dicarboximide
+T19	Chemical 830 840	fungicides
+T20	Biological_Activity 830 840	fungicides
+T21	Chemical 871 890	3,5-dichloroaniline
+T22	Chemical 937 949	chlozolinate
+T23	Chemical 974 985	metabolites
+T24	Metabolite 974 985	metabolites
+T25	Chemical 1037 1052	parent compound
+T26	Chemical 1103 1115	chlozolinate
+T27	Species 1266 1273	peaches
+T28	Species 1275 1283	apricots
+T29	Species 1288 1294	grapes
+T30	Species 1308 1314	grapes
+T31	Chemical 1534 1546	chlozolinate
+T32	Chemical 1655 1667	chlozolinate
+T33	Chemical 1767 1776	fungicide
+T34	Biological_Activity 1767 1776	fungicide
+T35	Chemical 1880 1892	chlozolinate
+T36	Chemical 1906 1914	chlorine
+T37	Chemical 1942 1950	nitrogen
+T38	Chemical 2258 2266	reagents
+T39	Chemical 2309 2318	pesticide
+T40	Biological_Activity 2309 2318	pesticide
+T41	Chemical 2443 2450	toluene
+T42	Chemical 2461 2472	propan-2-ol
+T43	Chemical 2528 2535	toluene
+T44	Chemical 2586 2592	quartz
+T45	Chemical 2755 2762	Na2 SO4
+T46	Chemical 2827 2834	toluene
+T47	Chemical 2888 2896	charcoal
+T48	Chemical 2917 2923	Celite
+T49	Species 3091 3097	grapes
+T50	Species 3099 3106	peaches
+T51	Species 3108 3116	apricots
+T52	Species 3121 3126	plums
+T53	Species 3298 3304	grapes
+T54	Species 3468 3473	Plums
+T55	Species 3496 3508	stone fruits
+T56	Chemical 3627 3639	chlozolinate
+T57	Species 3730 3736	apples
+T58	Chemical 3985 3994	pesticide
+T59	Biological_Activity 3985 3994	pesticide
+T60	Species 4035 4040	grape
+T61	Species 4079 4085	grapes
+T62	Species 4154 4160	grapes
+T63	Chemical 4217 4229	chlozolinate
+T64	Chemical 4577 4583	helium
+T65	Chemical 4588 4596	nitrogen
+T66	Chemical 4638 4644	silica
+T67	Chemical 4704 4712;4725 4737	diphenyl polysiloxane
+T68	Chemical 4717 4737	dimethylpolysiloxane
+T69	Chemical 4807 4809	He
+T70	Chemical 4900 4902	He
+T71	Chemical 5319 5328	pesticide
+T72	Biological_Activity 5319 5328	pesticide
+T73	Species 5537 5543	grapes
+T74	Species 5545 5550	plums
+T75	Species 5552 5560	apricots
+T76	Species 5565 5572	peaches
+T77	Species 5609 5615	apples
+T78	Species 5620 5630	aubergines
+T79	Chemical 7831 7843	chlozolinate
+T80	Species 7981 7986	grape
+T81	Species 7991 7995	plum
+T82	Species 8107 8113	grapes
+T83	Species 8118 8123	plums
+T84	Chemical 8398 8410	chlozolinate
+T85	Chemical 8553 8565	chlozolinate
+T86	Chemical 8890 8902	chlozolinate
+T87	Species 8933 8939	grapes
+T88	Species 9355 9361	grapes
+T89	Species 9363 9368	plums
+T90	Species 9370 9378	apricots
+T91	Species 9383 9390	peaches
+T92	Species 9436 9442	apples
+T93	Species 9447 9457	aubergines
+T94	Chemical 10909 10921	chlozolinate
+T95	Species 10969 10974	grape
+T96	Chemical 10998 11010	chlozolinate
+T97	Species 11023 11028	grape
+T98	Chemical 11048 11058	pesticides
+T99	Biological_Activity 11048 11058	pesticides
+T100	Chemical 11178 11190	chlozolinate
+T101	Chemical 11281 11292	penconazole
+T102	Chemical 11297 11315	heptachlor epoxide
+T103	Chemical 11375 11387	chlozolinate
+T104	Chemical 11405 11423	Heptachlor epoxide
+T105	Chemical 11507 11519	chlozolinate
+T106	Chemical 11560 11571	penconazole
+T107	Chemical 11576 11588	chlozolinate
+T108	Spectral_Data 11735 11737	MS
+T109	Chemical 11820 11828;11841 11853	diphenyl polysiloxane
+T110	Chemical 11833 11853	dimethylpolysiloxane
+T111	Chemical 11960 11972	chlozolinate
+T112	Chemical 11977 11988	penconazole
+T113	Chemical 12779 12791	chlozolinate
+T114	Species 12811 12816	grape
+T115	Chemical 13003 13015	chlozolinate
+T116	Chemical 13156 13168	chlozolinate
+R3	Isolated_From Arg1:T113 Arg2:T114	
+T117	Chemical 13571 13583	chlozolinate
+T118	Species 13596 13602	fruits
+T119	Species 13607 13617	vegetables

@@ -1,0 +1,35 @@
+T1	Disease 124 132	Diabetes
+T2	Disease 134 146	hypertension
+T3	Disease 148 171	cardiovascular diseases
+T4	Disease 173 210	oropharyngeal and oesophageal cancers
+T5	Disease 322 339	systemic diseases
+T6	Disease 377 398	systemic inflammation
+T7	Disease 464 481	systemic diseases
+T8	Disease 542 563	systemic inflammation
+T9	Disease 1748 1769	systemic inflammation
+T10	Disease 2120 2141	systemic inflammation
+T11	Disease 2184 2205	systemic inflammation
+T12	Disease 2271 2288	systemic diseases
+T13	Plant 12 17	Areca
+T15	Plant 71 84	Areca catechu
+T19	Plant 237 242	areca
+T20	Plant 282 287	areca
+T21	Plant 421 426	areca
+T22	Plant 570 575	areca
+T23	Plant 682 687	areca
+T24	Plant 1128 1133	areca
+T25	Plant 1239 1244	areca
+T26	Plant 1313 1318	Areca
+T27	Plant 1512 1517	areca
+T28	Plant 1676 1681	areca
+T29	Plant 1823 1828	areca
+T30	Plant 1846 1853	tobacco
+T31	Plant 1934 1939	areca
+T32	Plant 2067 2072	Areca
+T33	Plant 2235 2240	areca
+T14	Cause_of_disease 314 318	risk
+E1	Cause_of_disease:T14 Theme:T5 Cause:T20
+T16	Cause_of_disease 221 231	associated
+E2	Cause_of_disease:T16 Cause:T19 Theme:T4 Theme2:T3 Theme3:T2 Theme4:T1
+T17	Cause_of_disease 2263 2267	risk
+E3	Cause_of_disease:T17 Theme:T12 Cause:T33

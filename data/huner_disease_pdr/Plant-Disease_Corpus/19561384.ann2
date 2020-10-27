@@ -1,0 +1,18 @@
+T1	Disease 62 79	colorectal cancer
+T2	Disease 189 206	colorectal cancer
+T3	Disease 362 379	colorectal cancer
+T4	Disease 480 497	colorectal cancer
+T5	Disease 827 844	colorectal cancer
+T6	Disease 1109 1126	colorectal cancer
+T8	Plant 27 41	Plantago ovata
+T7	Treatment_of_disease 46 53	protect
+E1	Treatment_of_disease:T7 Theme:T1 Cause:T8
+T9	Plant 248 255	P ovata
+T10	Plant 323 330	P ovata
+T11	Plant 564 571	P ovata
+T12	Plant 765 772	P ovata
+T13	Plant 1097 1104	P ovata
+T14	Cause_of_disease 786 811	inversely correlated with
+E2	Cause_of_disease:T14 Theme:T5 Cause:T12
+T15	Cause_of_disease 1056 1069	inverse trend
+E3	Cause_of_disease:T15 Cause:T13 Theme:T6

@@ -1,0 +1,29 @@
+T1	Chemical 0 12	Nitric oxide
+T2	Chemical 14 16	NO
+T3	Protein 22 49	tumor necrosis factor alpha
+T4	Protein 51 60	TNF-alpha
+T7	Chemical 196 217	sesquiterpene lactone
+T8	Chemical 228 249	dehydrocostus lactone
+T9	Species 286 301	Saussurea lappa
+T10	Metabolite 228 249	dehydrocostus lactone
+R5	Isolated_From Arg1:T10 Arg2:T9	
+T11	Biological_Activity 303 312	inhibited
+R6	Associated_With Arg1:T10 Arg2:T11	
+R7	Associated_With Arg1:T8 Arg2:T11	
+T12	Chemical 337 355	lipopolysaccharide
+T13	Chemical 357 360	LPS
+T14	Protein 413 434	nitric oxide synthase
+T15	Species 372 381	RAW 264.7
+T16	Biological_Activity 391 402	suppressing
+R8	Associated_With Arg1:T8 Arg2:T16	
+R9	Associated_With Arg1:T10 Arg2:T16	
+T18	Chemical 506 509	LPS
+T19	Chemical 556 577	dehydrocostus lactone
+T20	Metabolite 556 577	dehydrocostus lactone
+T22	Protein 435 441	enzyme
+T17	Protein 487 496	TNF-alpha
+T23	Chemical 331 333	NO
+T24	Metabolite 331 333	NO
+T5	Chemical 697 699	NO
+T6	Metabolite 697 699	NO
+T21	Protein 704 713	TNF-alpha

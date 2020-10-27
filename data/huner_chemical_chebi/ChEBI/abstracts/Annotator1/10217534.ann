@@ -1,0 +1,89 @@
+T1	Biological_Activity 3 16	Bioactivation
+T2	Chemical 20 37	sulphamethoxazole
+T3	Chemical 39 42	SMX
+T4	Metabolite 67 78	metabolites
+T5	Chemical 67 78	metabolites
+T7	Chemical 143 146	SMX
+T12	Chemical 248 251	SMX
+T13	Chemical 248 251;260 271	SMX metabolites
+T14	Metabolite 248 251;260 271	SMX metabolites
+R1	Metabolite_Of Arg1:T14 Arg2:T2	
+R2	Metabolite_Of Arg1:T14 Arg2:T12	
+T15	Chemical 320 329;362 380	N-hydroxy metabolites of SMX
+T16	Chemical 377 380	SMX
+T17	Metabolite 320 329;362 380	N-hydroxy metabolites of SMX
+T18	Chemical 331 339	SMX-NHOH
+T19	Metabolite 331 339	SMX-NHOH
+T20	Chemical 345 352;362 380	nitroso metabolites of SMX
+T21	Metabolite 345 352;362 380	nitroso metabolites of SMX
+T22	Chemical 354 360	SMX-NO
+T23	Metabolite 354 360	SMX-NO
+T24	Chemical 394 397	SMX
+T25	Biological_Activity 309 316	binding
+R3	Associated_With Arg1:T19 Arg2:T25	
+R4	Associated_With Arg1:T18 Arg2:T25	
+R5	Associated_With Arg1:T17 Arg2:T25	
+R6	Associated_With Arg1:T15 Arg2:T25	
+R7	Associated_With Arg1:T21 Arg2:T25	
+R8	Associated_With Arg1:T20 Arg2:T25	
+R9	Associated_With Arg1:T22 Arg2:T25	
+R10	Associated_With Arg1:T23 Arg2:T25	
+T27	Chemical 474 480	SMX-NO
+T28	Metabolite 474 480	SMX-NO
+T29	Chemical 506 517	glutathione
+T30	Chemical 519 522	GSH
+T31	Chemical 528 536	SMX-NHOH
+T32	Metabolite 528 536	SMX-NHOH
+T33	Chemical 541 547	SMX-NO
+T34	Metabolite 541 547	SMX-NO
+R14	Metabolite_Of Arg1:T23 Arg2:T24	
+R15	Metabolite_Of Arg1:T19 Arg2:T24	
+R13	Metabolite_Of Arg1:T21 Arg2:T24	
+R16	Metabolite_Of Arg1:T17 Arg2:T24	
+T35	Biological_Activity 459 470	haptenation
+R17	Associated_With Arg1:T27 Arg2:T35	
+R18	Associated_With Arg1:T28 Arg2:T35	
+T36	Chemical 600 608	cysteine
+T37	Chemical 610 613	CYS
+T38	Chemical 616 619	GSH
+T44	Chemical 774 782	SMX-NHOH
+T45	Metabolite 774 782	SMX-NHOH
+T46	Chemical 787 793	SMX-NO
+T47	Metabolite 787 793	SMX-NO
+T48	Chemical 803 806	CYS
+T49	Chemical 811 814	GSH
+T50	Chemical 818 824	buffer
+T52	Biological_Activity 885 894	apoptosis
+T53	Biological_Activity 899 909	inhibition
+T54	Chemical 973 981	SMX-NHOH
+T55	Metabolite 973 981	SMX-NHOH
+T56	Chemical 986 992	SMX-NO
+T57	Metabolite 986 992	SMX-NO
+R43	Associated_With Arg1:T55 Arg2:T52	
+R44	Associated_With Arg1:T54 Arg2:T52	
+R45	Associated_With Arg1:T57 Arg2:T53	
+R46	Associated_With Arg1:T56 Arg2:T53	
+T58	Chemical 1046 1049	SMX
+T59	Chemical 1159 1165	SMX-NO
+T60	Metabolite 1159 1165	SMX-NO
+T61	Biological_Activity 1138 1147	cytotoxic
+R47	Associated_With Arg1:T60 Arg2:T61	
+R48	Associated_With Arg1:T59 Arg2:T61	
+T62	Chemical 1203 1211	SMX-NHOH
+T63	Metabolite 1203 1211	SMX-NHOH
+T64	Chemical 1280 1304	hydroxylamine of dapsone
+T66	Chemical 1367 1370	SMX
+T68	Chemical 1367 1370;1384 1395	SMX metabolites
+T69	Metabolite 1367 1370;1384 1395	SMX metabolites
+T71	Biological_Activity 1488 1499	haptenation
+T72	Metabolite 1513 1524	metabolites
+T73	Chemical 1513 1524	metabolites
+T74	Protein 1535 1543	proteins
+R53	Metabolite_Of Arg1:T4 Arg2:T2	
+R54	Metabolite_Of Arg1:T4 Arg2:T3	
+T78	Protein 94 101	protein
+T6	Chemical 1612 1616	drug
+T8	Biological_Activity 205 215	metabolism
+T9	Biological_Activity 1378 1383	toxic
+T10	Biological_Activity 1406 1415	reduction
+T11	Biological_Activity 1507 1512	toxic

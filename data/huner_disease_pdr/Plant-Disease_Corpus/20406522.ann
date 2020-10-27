@@ -1,0 +1,28 @@
+T1	Disease 90 106	major depression
+T2	Disease 108 110	MD
+T3	Disease 144 163	nicotine dependence
+T4	Disease 165 167	ND
+T5	Disease 332 334	MD
+T6	Disease 343 345	ND
+T7	Disease 561 563	MD
+T8	Disease 573 575	ND
+T9	Disease 643 645	MD
+T10	Disease 666 668	MD
+T11	Disease 673 675	ND
+T12	Disease 716 718	MD
+T13	Disease 780 782	MD
+T14	Disease 787 789	ND
+T15	Disease 866 868	ND
+T16	Disease 951 956	MD-RU
+T17	Disease 961 966	MD-ND
+T18	Disease 1094 1096	MD
+T19	Disease 1105 1107	ND
+T20	Disease 1493 1495	MD
+T21	Plant 124 131	tobacco
+T22	Plant 474 481	tobacco
+T23	Plant 1343 1350	tobacco
+T24	Plant 1500 1507	tobacco
+*	Equiv T1 T2
+*	Equiv T3 T4
+T25	Treatment_of_disease 61 81	positive association
+E1	Treatment_of_disease:T25 Theme:T1 Cause:T21

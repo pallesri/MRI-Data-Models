@@ -1,0 +1,40 @@
+T1	Chemical 0 22	Organic nitrate esters
+T2	Chemical 32 51	glyceryl trinitrate
+T3	Chemical 56 76	isosorbide dinitrate
+T5	Chemical 215 227	nitric oxide
+T6	Chemical 229 231	NO
+T7	Metabolite 215 227	nitric oxide
+T8	Metabolite 229 231	NO
+R4	Metabolite_Of Arg1:T7 Arg2:T2	
+R5	Metabolite_Of Arg1:T7 Arg2:T3	
+R6	Metabolite_Of Arg1:T8 Arg2:T3	
+R7	Metabolite_Of Arg1:T8 Arg2:T2	
+T10	Chemical 349 351	NO
+T11	Metabolite 349 351	NO
+T12	Chemical 371 393	organic nitrate esters
+R12	Metabolite_Of Arg1:T11 Arg2:T12	
+T13	Chemical 532 539	flavins
+T14	Chemical 544 550	thiols
+T15	Chemical 554 575	organic nitrate ester
+T16	Biological_Activity 576 589	bioactivation
+R13	Associated_With Arg1:T13 Arg2:T16	
+R14	Associated_With Arg1:T14 Arg2:T16	
+T17	Chemical 638 645	flavins
+T18	Chemical 650 656	thiols
+T19	Chemical 662 684	organic nitrate esters
+T20	Chemical 746 748	NO
+T22	Chemical 838 859	organic nitrate ester
+T23	Biological_Activity 860 873	bioactivation
+T24	Chemical 900 921	organic nitrite ester
+T25	Metabolite 900 921	organic nitrite ester
+R15	Metabolite_Of Arg1:T25 Arg2:T22	
+T26	Chemical 950 962	nitrosothiol
+T27	Metabolite 950 962	nitrosothiol
+R16	Metabolite_Of Arg1:T27 Arg2:T24	
+T28	Chemical 979 981	NO
+T29	Metabolite 979 981	NO
+T30	Chemical 987 1000	nitrosothiols
+T31	Metabolite 987 1000	nitrosothiols
+R17	Metabolite_Of Arg1:T29 Arg2:T30	
+T32	Chemical 1063 1077	dihydroflavins
+T33	Chemical 1082 1086	NADH

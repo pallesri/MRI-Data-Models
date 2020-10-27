@@ -1,0 +1,80 @@
+T1	Chemical 0 8	Curcumin
+T2	Metabolite 0 8	Curcumin
+T3	Species 32 40	turmeric
+R1	Isolated_From Arg1:T2 Arg2:T3	
+T5	Biological_Activity 56 69	antioxidative
+T6	Biological_Activity 74 90	anticarcinogenic
+R3	Associated_With Arg1:T1 Arg2:T5	
+R4	Associated_With Arg1:T1 Arg2:T6	
+R6	Associated_With Arg1:T2 Arg2:T5	
+R7	Associated_With Arg1:T2 Arg2:T6	
+T7	Metabolite 168 176	curcumin
+T8	Chemical 168 176	curcumin
+T9	Species 180 184	mice
+T10	Chemical 215 223	curcumin
+T11	Metabolite 215 223	curcumin
+T12	Species 239 243	mice
+T13	Chemical 269 277	curcumin
+T14	Metabolite 269 277	curcumin
+T15	Chemical 368 376	curcumin
+T16	Metabolite 368 376	curcumin
+T17	Chemical 590 598	curcumin
+T18	Metabolite 590 598	curcumin
+T19	Chemical 656 675	putative conjugates
+#1	AnnotatorNotes T19	unspecified metabolites
+T20	Metabolite 656 675	putative conjugates
+#2	AnnotatorNotes T20	unspecified metabolites
+T21	Protein 721 739	beta-glucuronidase
+#3	AnnotatorNotes T21	An enzyme
+T22	Metabolite 798 817	putative conjugates
+T23	Chemical 798 817	putative conjugates
+T24	Metabolite 852 870	tetrahydrocurcumin
+T25	Chemical 852 870	tetrahydrocurcumin
+T26	Chemical 881 889	curcumin
+T27	Metabolite 881 889	curcumin
+T28	Metabolite 940 962	glucuronide conjugates
+T29	Chemical 940 962	glucuronide conjugates
+T30	Spectral_Data 1073 1117	mass spectrometry/mass spectrometry analysis
+T31	Chemical 1171 1186	dihydrocurcumin
+T32	Metabolite 1171 1186	dihydrocurcumin
+T33	Chemical 1191 1194	THC
+T34	Metabolite 1191 1194	THC
+T35	Chemical 872 875	THC
+T36	Metabolite 872 875	THC
+T37	Chemical 1251 1266	monoglucuronide
+T38	Chemical 1251 1277	monoglucuronide conjugates
+T39	Metabolite 1251 1277	monoglucuronide conjugates
+T40	Metabolite 1251 1266	monoglucuronide
+T41	Metabolite 1287 1290	THC
+T42	Chemical 1287 1290	THC
+T43	Chemical 1326 1334	curcumin
+T44	Metabolite 1326 1334	curcumin
+T45	Chemical 1464 1467	THC
+T46	Metabolite 1464 1467	THC
+T47	Chemical 1489 1497	curcumin
+T48	Metabolite 1489 1497	curcumin
+T49	Chemical 1507 1523	phosphate buffer
+T50	Chemical 1609 1631	curcumin-glucuronoside
+T51	Metabolite 1609 1631	curcumin-glucuronoside
+T52	Chemical 1633 1662	dihydrocurcumin-glucuronoside
+T53	Metabolite 1633 1662	dihydrocurcumin-glucuronoside
+T54	Chemical 1664 1681	THC-glucuronoside
+T55	Metabolite 1664 1681	THC-glucuronoside
+T56	Chemical 1687 1690	THC
+T57	Metabolite 1687 1690	THC
+T58	Chemical 1716 1724	curcumin
+T59	Metabolite 1716 1724	curcumin
+R8	Associated_With Arg1:T29 Arg2:T30	
+R9	Associated_With Arg1:T28 Arg2:T30	
+T60	Chemical 1134 1142	curcumin
+T61	Metabolite 1134 1142	curcumin
+R10	Metabolite_Of Arg1:T32 Arg2:T60	
+R11	Metabolite_Of Arg1:T34 Arg2:T31	
+R12	Metabolite_Of Arg1:T39 Arg2:T31	
+R13	Metabolite_Of Arg1:T39 Arg2:T33	
+R14	Metabolite_Of Arg1:T41 Arg2:T43	
+R15	Metabolite_Of Arg1:T57 Arg2:T58	
+R16	Metabolite_Of Arg1:T55 Arg2:T56	
+R17	Metabolite_Of Arg1:T55 Arg2:T58	
+R18	Metabolite_Of Arg1:T53 Arg2:T58	
+R19	Metabolite_Of Arg1:T51 Arg2:T58	

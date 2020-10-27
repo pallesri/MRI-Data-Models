@@ -1,0 +1,19 @@
+T1	Disease 239 261	cardiovascular disease
+T2	Disease 1495 1525	nonfatal myocardial infarction
+T3	Disease 1530 1544	coronary death
+T4	Disease 1890 1904	cardiac deaths
+T5	Disease 2097 2119	cardiovascular disease
+T6	Plant 102 116	red yeast rice
+T10	Plant 121 127	garlic
+T15	Plant 487 493	garlic
+T16	Plant 1439 1453	red yeast rice
+T20	Plant 1583 1589	garlic
+T21	Plant 1766 1772	garlic
+T23	Plant 1964 1978	Red yeast rice
+T26	Plant 2066 2072	garlic
+T7	Plant 459 473	red yeast rice
+T8	Disease 1000 1013	cardiac death
+T9	Disease 1298 1318	fatal cardiac events
+T11	Disease 1987 2009	adverse cardiac events
+T12	Treatment_of_disease 1979 1986	reduces
+E1	Treatment_of_disease:T12 Cause:T23 Theme:T11

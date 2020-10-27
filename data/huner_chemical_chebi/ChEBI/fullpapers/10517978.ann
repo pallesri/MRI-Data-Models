@@ -1,0 +1,519 @@
+T1	Chemical 129 143	phytochemicals
+T2	Metabolite 129 143	phytochemicals
+T3	Biological_Activity 161 176	chemopreventive
+R1	Associated_With Arg1:T2 Arg2:T3	
+R2	Associated_With Arg1:T1 Arg2:T3	
+T4	Chemical 196 204	Curcumin
+T5	Metabolite 196 204	Curcumin
+T6	Species 257 276	Curcuma longa  Linn
+T7	Species 247 255	turmeric
+T8	Species 278 291	Zingiberaceae
+T9	Biological_Activity 318 335	anti-carcinogenic
+T10	Biological_Activity 339 353	anti-mutagenic
+T11	Species 373 379	animal
+R3	Isolated_From Arg1:T5 Arg2:T7	
+R4	Isolated_From Arg1:T5 Arg2:T6	
+R5	Isolated_From Arg1:T5 Arg2:T8	
+R6	Associated_With Arg1:T5 Arg2:T9	
+R7	Associated_With Arg1:T5 Arg2:T10	
+R8	Associated_With Arg1:T4 Arg2:T9	
+R9	Associated_With Arg1:T4 Arg2:T10	
+T12	Biological_Activity 467 482	chemopreventive
+T13	Chemical 497 505	curcumin
+T14	Metabolite 497 505	curcumin
+R10	Associated_With Arg1:T14 Arg2:T12	
+R11	Associated_With Arg1:T13 Arg2:T12	
+T15	Biological_Activity 533 543	inhibition
+R12	Associated_With Arg1:T14 Arg2:T15	
+R13	Associated_With Arg1:T13 Arg2:T15	
+T16	Species 610 634	Alpinia oxyphylla  Mique
+T17	Species 661 667	ginger
+T18	Species 676 689	Zingiberaceae
+T19	Chemical 734 747	Yakuchinone A
+T20	Metabolite 734 747	Yakuchinone A
+T21	Chemical 749 801	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenyl-3-heptanone
+T22	Metabolite 749 801	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenyl-3-heptanone
+T23	Chemical 807 820	yakuchinone B
+T24	Metabolite 807 820	yakuchinone B
+T25	Chemical 822 877	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenylhept-1-en-3-one
+T26	Metabolite 822 877	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenylhept-1-en-3-one
+T27	Species 900 912	A. oxyphylla
+T28	Biological_Activity 946 956	inhibitors
+T29	Chemical 960 973	prostaglandin
+T30	Metabolite 960 973	prostaglandin
+R14	Isolated_From Arg1:T26 Arg2:T27	
+R15	Isolated_From Arg1:T24 Arg2:T27	
+R16	Isolated_From Arg1:T22 Arg2:T27	
+R17	Isolated_From Arg1:T20 Arg2:T27	
+R18	Associated_With Arg1:T26 Arg2:T28	
+R19	Associated_With Arg1:T25 Arg2:T28	
+R20	Associated_With Arg1:T24 Arg2:T28	
+R21	Associated_With Arg1:T23 Arg2:T28	
+R22	Associated_With Arg1:T22 Arg2:T28	
+R23	Associated_With Arg1:T21 Arg2:T28	
+R24	Associated_With Arg1:T20 Arg2:T28	
+R25	Associated_With Arg1:T19 Arg2:T28	
+T31	Chemical 1002 1010	curcumin
+T32	Metabolite 1002 1010	curcumin
+T33	Chemical 1036 1058	diarylheptanoid moiety
+T34	Chemical 1066 1074;1086 1091	carbonyl group
+T35	Biological_Activity 1169 1184	chemopreventive
+T36	Biological_Activity 1238 1250	inflammation
+T37	Biological_Activity 1255 1271	oxidative stress
+T38	Biological_Activity 1323 1337	anti-oxidative
+T39	Biological_Activity 1342 1359	anti-inflammatory
+T40	Biological_Activity 1382 1392	anti-tumor
+T41	Biological_Activity 1446 1456	anti-tumor
+T42	Chemical 1495 1511	diarylheptanoids
+T43	Metabolite 1495 1511	diarylheptanoids
+T44	Species 1525 1537	A. oxyphylla
+T45	Biological_Activity 1571 1579	suppress
+T46	Protein 1614 1637	ornithine decarboxylase
+T47	Protein 1639 1642	ODC
+T48	Biological_Activity 1614 1637	ornithine decarboxylase
+T49	Biological_Activity 1639 1642	ODC
+T50	Biological_Activity 1393 1402	promoters
+T51	Biological_Activity 1653 1660	induced
+T52	Biological_Activity 1674 1682	promoter
+T53	Chemical 1684 1721	12-O -tetradecanoylphorbol-13-acetate
+T54	Chemical 1723 1726	TPA
+T55	Species 1731 1736	mouse
+R26	Associated_With Arg1:T53 Arg2:T52	
+R27	Associated_With Arg1:T53 Arg2:T51	
+R28	Associated_With Arg1:T53 Arg2:T49	
+R29	Associated_With Arg1:T53 Arg2:T48	
+R30	Binds_With Arg1:T53 Arg2:T47	
+R31	Binds_With Arg1:T53 Arg2:T46	
+R32	Associated_With Arg1:T54 Arg2:T52	
+R33	Associated_With Arg1:T54 Arg2:T51	
+R34	Associated_With Arg1:T54 Arg2:T49	
+R35	Associated_With Arg1:T54 Arg2:T48	
+R36	Binds_With Arg1:T54 Arg2:T47	
+R37	Binds_With Arg1:T54 Arg2:T46	
+T56	Chemical 1760 1763	TPA
+T57	Biological_Activity 1764 1774	stimulated
+R38	Associated_With Arg1:T56 Arg2:T57	
+T58	Protein 1801 1824	tumor necrosis factor-α
+T59	Biological_Activity 1893 1900	binding
+T60	Protein 1908 1928	transcription factor
+T61	Protein 1930 1949	activator protein-1
+T62	Protein 1951 1955	AP-1
+T63	Species 1839 1844	human
+T64	Chemical 2032 2035	TPA
+T65	Chemical 2093 2112	Thiobarbituric acid
+T66	Chemical 2114 2117	TBA
+T67	Protein 2120 2132	cytochrome c
+T68	Chemical 2135 2151	sodium ascorbate
+T69	Chemical 2156 2168	l -ornithine
+T70	Chemical 2217 2240	dl -[1−14 C  ]Ornithine
+T71	Species 2326 2332	bovine
+T72	Species 2461 2466	Human
+T73	Protein 2609 2612	ODC
+T74	Biological_Activity 2609 2612	ODC
+T75	Chemical 2693 2700	14 CO 2
+T76	Chemical 2708 2731	dl -[1−14 C  ]ornithine
+T77	Protein 2854 2874	bovine serum albumin
+T78	Protein 2911 2916	TNF-α
+T79	Species 3066 3072	bovine
+T80	Chemical 3102 3115	yakuchinone A
+T81	Metabolite 3102 3115	yakuchinone A
+T82	Chemical 3119 3132	yakuchinone B
+T83	Metabolite 3119 3132	yakuchinone B
+T84	Chemical 3157 3160	TPA
+T85	Protein 3262 3267	TNF-α
+T86	Species 3308 3313	human
+T87	Protein 3314 3319	TNF-α
+T88	Chemical 1775 1785	superoxide
+T89	Chemical 3444 3454	superoxide
+T90	Chemical 3614 3624	gentamicin
+T91	Chemical 3771 3775	DMSO
+T92	Chemical 3842 3845	CO2
+T93	Chemical 3919 3944	phosphate-buffered saline
+T94	Chemical 4037 4040	TPA
+T95	Protein 4052 4064	cytochrome c
+T96	Chemical 4179 4184	Lipid
+T97	Species 4201 4204	rat
+T98	Species 4263 4282	Sprague–Dawley rats
+T99	Chemical 4307 4310	KCl
+T100	Chemical 4522 4525	KCl
+T101	Chemical 4566 4571	Lipid
+T102	Chemical 4614 4629	ferric chloride
+T103	Chemical 4668 4681	ascorbic acid
+T104	Chemical 4784 4804	trichloroacetic acid
+T105	Chemical 4836 4839	TBA
+T106	Chemical 4854 4858	NaOH
+T107	Protein 5085 5089	AP-1
+T108	Chemical 5213 5223	penicillin
+T109	Chemical 5241 5253	streptomycin
+T110	Chemical 5298 5301	CO2
+T111	Protein 5320 5328	proteins
+T112	Chemical 5423 5426	ice
+T113	Chemical 5448 5453	HEPES
+T114	Chemical 5469 5472	KCl
+T115	Chemical 5481 5485	EDTA
+T116	Chemical 5492 5506	dithiothreitol
+T117	Chemical 5513 5518	NP-40
+T118	Protein 5531 5539	protease
+T119	Biological_Activity 5540 5549	inhibitor
+T120	Chemical 5696 5701	HEPES
+T121	Chemical 5717 5721	NaCl
+T122	Chemical 5728 5732	EDTA
+T123	Chemical 5739 5753	dithiothreitol
+T124	Protein 5766 5774	protease
+T125	Biological_Activity 5775 5784	inhibitor
+T126	Chemical 5811 5814	ice
+T127	Protein 5910 5917	protein
+T128	Protein 6001 6005	AP-1
+T129	Chemical 6006 6021	oligonucleotide
+T130	Chemical 6069 6084	oligonucleotide
+T131	Chemical 6086 6122	5′-CGC TTG ATG ACT CA   G CCG GAA-3′
+T132	Protein 6182 6186	AP-1
+T133	Biological_Activity 6187 6194	binding
+T134	Chemical 6219 6232	[α−32 P  ]CTP
+T135	Protein 6237 6250	Klenow enzyme
+T136	Chemical 6279 6287	proteins
+T137	Chemical 6362 6373	poly(dI–dC)
+T138	Chemical 6477 6491	polyacrylamide
+T139	Chemical 6512 6515	TBE
+T140	Chemical 6697 6705	methanol
+T141	Species 6717 6729	A. oxyphylla
+T142	Species 6758 6762	mice
+T143	Biological_Activity 6791 6800	promotion
+T144	Biological_Activity 6810 6820	suppressed
+T145	Species 6884 6889	mouse
+T146	Biological_Activity 6921 6929	promoter
+T147	Chemical 6931 6934	TPA
+T148	Chemical 6983 6996	yakuchinone A
+T149	Chemical 7001 7014	yakuchinone B
+T150	Metabolite 6983 6996	yakuchinone A
+T151	Metabolite 7001 7014	yakuchinone B
+T152	Species 7055 7067	A. oxyphylla
+T153	Biological_Activity 7079 7089	anti-tumor
+T154	Biological_Activity 7090 7099	promoting
+T155	Biological_Activity 7133 7143	inhibition
+T156	Chemical 7147 7160	phorbol ester
+T157	Biological_Activity 7161 7168	induced
+T158	Protein 7169 7172	ODC
+T159	Biological_Activity 7169 7172	ODC
+R39	Associated_With Arg1:T151 Arg2:T155	
+R40	Associated_With Arg1:T149 Arg2:T155	
+R41	Associated_With Arg1:T150 Arg2:T155	
+R42	Associated_With Arg1:T148 Arg2:T155	
+R43	Associated_With Arg1:T151 Arg2:T159	
+R44	Associated_With Arg1:T149 Arg2:T159	
+R45	Associated_With Arg1:T150 Arg2:T159	
+R46	Associated_With Arg1:T148 Arg2:T159	
+T160	Protein 7183 7186	ODC
+T161	Protein 7206 7212	enzyme
+T162	Chemical 7233 7243	polyamines
+T163	Protein 7302 7305	ODC
+T164	Biological_Activity 7317 7324	induced
+T165	Biological_Activity 7333 7342	mitogenic
+T166	Biological_Activity 7343 7350	stimuli
+T167	Chemical 7361 7364	TPA
+T168	Biological_Activity 7462 7472	anti-tumor
+T169	Biological_Activity 7498 7508	inhibitory
+T170	Protein 7551 7557	enzyme
+T171	Species 7636 7640	mice
+T172	Chemical 7657 7660	TPA
+T173	Chemical 7683 7696	yakuchinone A
+T174	Metabolite 7683 7696	yakuchinone A
+T175	Chemical 7701 7714	yakuchinone B
+T176	Metabolite 7701 7714	yakuchinone B
+T177	Biological_Activity 7715 7724	inhibited
+T178	Protein 7739 7742	ODC
+T179	Biological_Activity 7739 7742	ODC
+T180	Biological_Activity 7856 7866	inhibition
+T181	Biological_Activity 7939 7951	Inflammation
+T182	Biological_Activity 7989 7998	promotion
+T183	Protein 8034 8043	cytokines
+T184	Protein 8047 8052	IL-1α
+T185	Protein 8057 8062	TNF-α
+T186	Biological_Activity 8076 8088	inflammatory
+T187	Biological_Activity 8120 8130	stimulated
+T188	Chemical 8134 8147	phorbol ester
+R47	Associated_With Arg1:T188 Arg2:T187	
+R48	Associated_With Arg1:T188 Arg2:T186	
+T189	Chemical 8215 8218	TPA
+T190	Species 8222 8227	mouse
+T191	Protein 8264 8269	TNF-α
+T192	Protein 8330 8338	cytokine
+T193	Biological_Activity 8375 8387	inflammatory
+T194	Biological_Activity 8392 8404	hyperplastic
+T195	Biological_Activity 8437 8445	promoter
+T196	Protein 8460 8465	TNF-α
+T197	Biological_Activity 8475 8485	stimulated
+T198	Biological_Activity 8519 8526	induced
+T199	Chemical 8530 8550	3-methylcholanthrene
+T200	Biological_Activity 8603 8611	promoter
+T201	Chemical 8613 8637	Epigallocatechin gallate
+T202	Metabolite 8613 8637	Epigallocatechin gallate
+T203	Biological_Activity 8641 8656	chemopreventive
+T204	Chemical 8657 8667	polyphenol
+T205	Species 8679 8688	green tea
+T206	Protein 8717 8722	TNF-α
+R49	Associated_With Arg1:T202 Arg2:T203	
+R50	Associated_With Arg1:T201 Arg2:T203	
+R51	Isolated_From Arg1:T202 Arg2:T205	
+T207	Biological_Activity 8708 8716	suppress
+T208	Biological_Activity 8780 8788	promoter
+T209	Chemical 8789 8801	okadaic acid
+R52	Associated_With Arg1:T209 Arg2:T208	
+T210	Chemical 8844 8847	TPA
+T211	Protein 8874 8879	TNF-α
+T212	Chemical 8962 8975	yakuchinone A
+T213	Metabolite 8962 8975	yakuchinone A
+T214	Chemical 8979 8992	yakuchinone B
+T215	Metabolite 8979 8992	yakuchinone B
+T216	Chemical 9038 9041	TPA
+T217	Biological_Activity 9042 9052	stimulated
+T218	Protein 9067 9072	TNF-α
+R53	Associated_With Arg1:T216 Arg2:T217	
+T219	Chemical 9118 9121	TPA
+T220	Biological_Activity 9122 9129	induced
+T221	Protein 9144 9149	TNF-α
+T222	Species 9173 9178	mouse
+T223	Chemical 9213 9229	diarylheptanoids
+T224	Biological_Activity 9317 9333	oxidative stress
+T225	Chemical 9344 9367	reactive oxygen species
+T226	Chemical 9369 9372	ROS
+T227	Biological_Activity 9404 9418	carcinogenesis
+T228	Biological_Activity 9449 9458	promotion
+T229	Biological_Activity 9482 9495	anti-oxidants
+T230	Biological_Activity 9528 9538	anti-tumor
+T231	Biological_Activity 9539 9548	promoters
+R54	Associated_With Arg1:T225 Arg2:T224	
+R55	Associated_With Arg1:T226 Arg2:T224	
+R56	Associated_With Arg1:T226 Arg2:T227	
+R57	Associated_With Arg1:T225 Arg2:T227	
+T232	Chemical 9559 9567	Curcumin
+T233	Metabolite 9559 9567	Curcumin
+T234	Biological_Activity 9604 9613	alleviate
+T235	Chemical 9618 9621	TPA
+T236	Biological_Activity 9622 9629	induced
+T237	Biological_Activity 9640 9650	DNA damage
+T238	Species 9654 9659	mouse
+T239	Species 9693 9698	mouse
+R58	Associated_With Arg1:T233 Arg2:T234	
+R59	Associated_With Arg1:T232 Arg2:T234	
+R60	Associated_With Arg1:T233 Arg2:T237	
+R61	Associated_With Arg1:T232 Arg2:T237	
+T240	Biological_Activity 9741 9751	suppressed
+T241	Chemical 9752 9762	superoxide
+T242	Chemical 9802 9805	TPA
+T243	Biological_Activity 9789 9798	activated
+T244	Chemical 9823 9836	yakuchinone A
+T245	Metabolite 9823 9836	yakuchinone A
+T246	Chemical 9841 9854	yakuchinone B
+T247	Metabolite 9841 9854	yakuchinone B
+T248	Chemical 9870 9873	TPA
+T249	Biological_Activity 9874 9884	stimulated
+T250	Chemical 9899 9915	superoxide anion
+T251	Biological_Activity 9996 10006	suppressed
+T252	Chemical 10007 10012	lipid
+R62	Associated_With Arg1:T247 Arg2:T251	
+R63	Associated_With Arg1:T246 Arg2:T251	
+R64	Associated_With Arg1:T245 Arg2:T251	
+R65	Associated_With Arg1:T244 Arg2:T251	
+T253	Protein 10064 10068	AP-1
+T254	Protein 10087 10107	transcription factor
+T255	Biological_Activity 10262 10278	oxidative stress
+T256	Biological_Activity 10459 10466	binding
+T257	Biological_Activity 10334 10344	activation
+T258	Protein 10348 10352	AP-1
+T259	Chemical 10421 10424	TPA
+T260	Biological_Activity 10425 10432	induced
+T261	Protein 10470 10474	AP-1
+T262	Chemical 10482 10485	TPA
+T263	Chemical 10512 10515	TPA
+T264	Biological_Activity 10516 10526	stimulated
+T265	Biological_Activity 10572 10585	transcription
+T266	Chemical 10668 10676	curcumin
+T267	Metabolite 10668 10676	curcumin
+T268	Biological_Activity 10677 10687	suppresses
+T269	Chemical 10688 10691	TPA
+T270	Biological_Activity 10692 10699	induced
+T271	Biological_Activity 10704 10711	binding
+T272	Protein 10724 10729	c-Jun
+T273	Protein 10730 10734	AP-1
+T274	Biological_Activity 10762 10772	anti-tumor
+T275	Biological_Activity 10773 10782	promoting
+T276	Biological_Activity 10798 10813	chemopreventive
+T277	Chemical 10798 10819	chemopreventive agent
+R66	Associated_With Arg1:T267 Arg2:T274	
+R67	Associated_With Arg1:T266 Arg2:T274	
+R68	Associated_With Arg1:T267 Arg2:T268	
+R69	Associated_With Arg1:T266 Arg2:T268	
+T278	Chemical 10836 10844	curcumin
+T279	Metabolite 10836 10844	curcumin
+T280	Biological_Activity 10866 10873	inhibit
+T281	Protein 10874 10879	TNF-α
+T282	Biological_Activity 10880 10887	induced
+T283	Biological_Activity 10888 10895	binding
+T284	Protein 10899 10903	AP-1
+T285	Species 10914 10920	bovine
+R70	Associated_With Arg1:T279 Arg2:T280	
+R71	Associated_With Arg1:T278 Arg2:T280	
+T286	Species 10969 10974	mouse
+T287	Chemical 11046 11059	yakuchinone A
+T288	Metabolite 11046 11059	yakuchinone A
+T289	Chemical 11064 11077	yakuchinone B
+T290	Metabolite 11064 11077	yakuchinone B
+T291	Chemical 11092 11095	TPA
+T292	Biological_Activity 11096 11103	induced
+T293	Protein 11115 11119	AP-1
+T294	Biological_Activity 11147 11154	induced
+T295	Protein 11155 11159	AP-1
+T296	Biological_Activity 11160 11170	activation
+T297	Biological_Activity 11192 11201	inhibited
+T298	Biological_Activity 11205 11218	anti-oxidants
+T299	Chemical 11250 11253	ROS
+T300	Biological_Activity 11321 11332	suppression
+T301	Protein 11336 11340	AP-1
+T302	Biological_Activity 11341 11351	activation
+T303	Chemical 11355 11367	yakuchinones
+T304	Metabolite 11355 11367	yakuchinones
+T305	Biological_Activity 11403 11415	anti-oxidant
+T306	Chemical 11444 11457	yakuchinone A
+T307	Metabolite 11444 11457	yakuchinone A
+T308	Chemical 11462 11475	yakuchinone B
+T309	Metabolite 11462 11475	yakuchinone B
+T310	Biological_Activity 11500 11517	anti-inflammatory
+T311	Chemical 11500 11524	anti-inflammatory agents
+T312	Biological_Activity 11555 11565	inhibition
+R72	Associated_With Arg1:T309 Arg2:T310	
+R73	Associated_With Arg1:T308 Arg2:T310	
+R74	Associated_With Arg1:T307 Arg2:T310	
+R75	Associated_With Arg1:T306 Arg2:T310	
+R76	Associated_With Arg1:T309 Arg2:T305	
+R77	Associated_With Arg1:T308 Arg2:T305	
+R78	Associated_With Arg1:T307 Arg2:T305	
+R79	Associated_With Arg1:T306 Arg2:T305	
+T313	Chemical 11569 11582	prostaglandin
+T314	Metabolite 11569 11582	prostaglandin
+T315	Species 11599 11605	bovine
+T316	Protein 11622 11636	cyclooxygenase
+T317	Species 11648 11654	rabbit
+T318	Biological_Activity 11768 11779	suppression
+T319	Chemical 11783 11796	prostaglandin
+T320	Metabolite 11783 11796	prostaglandin
+T321	Biological_Activity 11825 11835	inhibition
+T322	Protein 11839 11853	cyclooxygenase
+T323	Protein 11868 11884	cyclooxygenase-2
+T324	Biological_Activity 11894 11903	inducible
+T325	Biological_Activity 11929 11936	stimuli
+T326	Biological_Activity 11986 12001	chemoprevention
+T327	Biological_Activity 12009 12019	Inhibitors
+T328	Chemical 12023 12039	arachidonic acid
+T329	Metabolite 12023 12039	arachidonic acid
+T330	Biological_Activity 12040 12050	metabolism
+T331	Biological_Activity 12070 12076	induce
+T332	Biological_Activity 12097 12106	apoptosis
+T333	Chemical 12160 12196	nonsteroidal anti-inflammatory drugs
+T334	Biological_Activity 12173 12190	anti-inflammatory
+T335	Chemical 12208 12216	sulindac
+T336	Chemical 12221 12228	aspirin
+T337	Biological_Activity 12260 12278	anti-proliferative
+T338	Biological_Activity 12309 12318	induction
+T339	Biological_Activity 12322 12331	apoptosis
+R80	Associated_With Arg1:T335 Arg2:T334	
+R81	Associated_With Arg1:T336 Arg2:T334	
+R82	Associated_With Arg1:T336 Arg2:T337	
+R83	Associated_With Arg1:T335 Arg2:T337	
+R84	Associated_With Arg1:T336 Arg2:T338	
+R85	Associated_With Arg1:T335 Arg2:T338	
+R86	Associated_With Arg1:T336 Arg2:T339	
+R87	Associated_With Arg1:T335 Arg2:T339	
+T340	Biological_Activity 12389 12399	inhibitors
+T341	Chemical 12403 12419	arachidonic acid
+T342	Biological_Activity 12420 12430	metabolism
+T343	Biological_Activity 12434 12440	induce
+T344	Biological_Activity 12441 12450	apoptosis
+T345	Metabolite 12403 12419	arachidonic acid
+T346	Biological_Activity 12454 12462	suppress
+T347	Biological_Activity 12463 12476	proliferation
+T348	Biological_Activity 12489 12498	malignant
+T349	Species 12534 12539	human
+T350	Chemical 12572 12588	prostaglandin E2
+T351	Biological_Activity 12590 12599	inhibited
+T352	Biological_Activity 12600 12609	apoptosis
+T353	Biological_Activity 12614 12623	induction
+T354	Metabolite 12572 12588	prostaglandin E2
+T355	Protein 12627 12652	death suppressing protein
+T356	Protein 12653 12658	Bcl-2
+R88	Associated_With Arg1:T354 Arg2:T351	
+R89	Associated_With Arg1:T350 Arg2:T351	
+R90	Associated_With Arg1:T354 Arg2:T352	
+R91	Associated_With Arg1:T350 Arg2:T352	
+R92	Associated_With Arg1:T354 Arg2:T353	
+R93	Associated_With Arg1:T350 Arg2:T353	
+T357	Chemical 12702 12715	yakuchinone A
+T358	Metabolite 12702 12715	yakuchinone A
+T359	Chemical 12720 12733	yakuchinone B
+T360	Metabolite 12720 12733	yakuchinone B
+T361	Biological_Activity 12734 12740	induce
+T362	Biological_Activity 12741 12750	apoptotic
+T363	Biological_Activity 12798 12816	anti-proliferative
+R94	Associated_With Arg1:T360 Arg2:T361	
+R95	Associated_With Arg1:T359 Arg2:T361	
+R96	Associated_With Arg1:T358 Arg2:T361	
+R97	Associated_With Arg1:T357 Arg2:T361	
+R98	Associated_With Arg1:T360 Arg2:T362	
+R99	Associated_With Arg1:T359 Arg2:T362	
+R100	Associated_With Arg1:T358 Arg2:T362	
+R101	Associated_With Arg1:T357 Arg2:T362	
+R102	Associated_With Arg1:T360 Arg2:T363	
+R103	Associated_With Arg1:T359 Arg2:T363	
+R104	Associated_With Arg1:T358 Arg2:T363	
+R105	Associated_With Arg1:T357 Arg2:T363	
+T364	Chemical 12875 12891	diarylheptanoids
+T365	Metabolite 12875 12891	diarylheptanoids
+T366	Biological_Activity 12892 12898	induce
+T367	Biological_Activity 12899 12908	apoptosis
+T368	Biological_Activity 12972 12981	cytotoxic
+R106	Associated_With Arg1:T360 Arg2:T368	
+R107	Associated_With Arg1:T359 Arg2:T368	
+R108	Associated_With Arg1:T358 Arg2:T368	
+R109	Associated_With Arg1:T357 Arg2:T368	
+T369	Chemical 13047 13055	curcumin
+T370	Metabolite 13047 13055	curcumin
+T371	Biological_Activity 13056 13063	induces
+T372	Biological_Activity 13064 13073	apoptosis
+T373	Species 13130 13135	human
+T374	Chemical 13152 13160	compound
+R110	Associated_With Arg1:T370 Arg2:T371	
+R111	Associated_With Arg1:T369 Arg2:T371	
+R112	Associated_With Arg1:T370 Arg2:T372	
+R113	Associated_With Arg1:T369 Arg2:T372	
+T375	Chemical 13265 13278	yakuchinone A
+T376	Metabolite 13265 13278	yakuchinone A
+T377	Chemical 13283 13296	yakuchinone B
+T378	Metabolite 13283 13296	yakuchinone B
+T379	Species 13310 13330	A. oxyphylla  Miquel
+T380	Biological_Activity 13332 13339	inhibit
+T381	Biological_Activity 13340 13349	promotion
+T382	Biological_Activity 13358 13371	tumorigenesis
+T383	Biological_Activity 13382 13390	promoter
+T384	Biological_Activity 13391 13398	induced
+T385	Protein 13409 13412	ODC
+T386	Biological_Activity 13409 13412	ODC
+T387	Species 13425 13429	mice
+T388	Biological_Activity 11104 11111	binding
+T389	Chemical 13437 13453	diarylheptanoids
+T390	Metabolite 13437 13453	diarylheptanoids
+T391	Biological_Activity 13459 13469	suppressed
+T392	Chemical 13470 13473	TPA
+T393	Biological_Activity 13474 13484	stimulated
+T394	Protein 13499 13504	TNF-α
+T395	Chemical 13509 13519	superoxide
+T396	Chemical 13558 13561	TPA
+T397	Biological_Activity 13562 13569	induced
+T398	Protein 13570 13575	c-Jun
+T399	Protein 13576 13580	AP-1
+T400	Biological_Activity 13581 13591	activation
+T401	Biological_Activity 13730 13740	anti-tumor
+T402	Biological_Activity 13741 13750	promoting
+T403	Chemical 13762 13775	yakuchinone A
+T404	Metabolite 13762 13775	yakuchinone A
+T405	Chemical 13780 13793	yakuchinone B
+T406	Metabolite 13780 13793	yakuchinone B

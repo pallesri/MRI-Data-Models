@@ -1,0 +1,17 @@
+T1	Disease 0 37	Fungal infections of the nasal cavity
+T2	Disease 60 73	nasal disease
+T3	Disease 264 276	nasal polyps
+T4	Disease 481 494	nasal disease
+T5	Plant 94 115	Aspergillus fumigatus
+T7	Plant 147 170	Cryptococcus neoformans
+T9	Plant 371 381	Exophiala,
+T10	Plant 382 393	Alternaria,
+T11	Plant 394 407	Trichosporon,
+T12	Plant 408 420	Blastomyces,
+T13	Plant 425 436	Histoplasma
+T6	Plant 446 461	alga Prototheca
+T14	Cause_of_disease 475 480	cause
+E1	Cause_of_disease:T14 Cause:T15 Theme:T4 Cause2:T9
+T15	Plant 354 359	fungi
+T16	Plant 220 234	Rhinosporidium
+T8	Disease 235 244	infection

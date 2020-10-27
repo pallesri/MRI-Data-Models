@@ -1,0 +1,43 @@
+T1	Chemical 41 59	fluvastatin sodium
+T2	Chemical 130 140	copper ion
+T5	Chemical 296 314	Fluvastatin sodium
+T6	Chemical 496 514	Fluvastatin sodium
+T7	Chemical 519 535	alpha-tocopherol
+T8	Chemical 665 681	alpha-tocopherol
+T9	Chemical 687 705	fluvastatin sodium
+T10	Chemical 711 727	alpha-tocopherol
+T11	Chemical 809 827	fluvastatin sodium
+T12	Biological_Activity 844 857	antioxidative
+T13	Chemical 875 891	alpha-tocopherol
+T14	Biological_Activity 901 914	pro-oxidative
+T15	Biological_Activity 938 951	antioxidative
+T16	Chemical 964 982	fluvastatin sodium
+T17	Chemical 1004 1020	alpha-tocopherol
+T18	Chemical 1057 1109	double bond-reduced derivative of fluvastatin sodium
+T20	Chemical 1114 1132	pravastatin sodium
+T21	Biological_Activity 1185 1198	antioxidative
+T22	Chemical 1209 1227	fluvastatin sodium
+T23	Protein 1256 1313	3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase
+T26	Biological_Activity 1314 1323	inhibitor
+T28	Protein 80 103	low-density lipoprotein
+T29	Protein 105 108	LDL
+T30	Protein 1417 1420	LDL
+T31	Chemical 1480 1498	fluvastatin sodium
+T32	Protein 1573 1576	LDL
+T33	Protein 1607 1610	LDL
+T34	Biological_Activity 1596 1606	protecting
+R2	Associated_With Arg1:T11 Arg2:T12	
+R3	Associated_With Arg1:T13 Arg2:T14	
+R4	Associated_With Arg1:T16 Arg2:T15	
+R5	Associated_With Arg1:T22 Arg2:T21	
+R6	Associated_With Arg1:T22 Arg2:T26	
+R7	Associated_With Arg1:T31 Arg2:T34	
+T36	Spectral_Data 219 232	UV absorbance
+T37	Chemical 278 294	conjugated diene
+#1	AnnotatorNotes T37	structural feature
+R8	Associated_With Arg1:T37 Arg2:T36	
+R9	Associated_With Arg1:T17 Arg2:T15	
+T19	Biological_Activity 20 30	protective
+R11	Associated_With Arg1:T1 Arg2:T19	
+T24	Biological_Activity 1144 1154	protective
+T3	Biological_Activity 1391 1400	oxidative

@@ -1,0 +1,7 @@
+T2	Disease 132 146	liver toxicity
+T9	Plant 89 107	Flaveria trinervia
+T11	Plant 254 261	ethanol
+T12	Plant 534 541	ethanol
+T13	Plant 977 984	ethanol
+T8	Treatment_of_disease 108 115	against
+E1	Treatment_of_disease:T8 Theme:T2 Cause:T9

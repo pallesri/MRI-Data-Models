@@ -1,0 +1,15 @@
+T2	Disease 75 84	hepatitis
+T4	Disease 366 375	hepatitis
+T6	Disease 669 678	hepatitis
+T7	Plant 2 8	coffee
+T9	Plant 305 314	green tea
+T11	Plant 328 334	coffee
+T12	Plant 476 482	coffee
+T14	Plant 625 631	coffee
+T16	Plant 703 709	coffee
+T1	Treatment_of_disease 31 41	suppressed
+E1	Treatment_of_disease:T1 Theme:T2 Cause:T7
+T3	Treatment_of_disease 343 353	suppressed
+E2	Treatment_of_disease:T3 Theme:T4 Cause:T11
+T5	Treatment_of_disease 636 643	protect
+E3	Treatment_of_disease:T5 Theme:T6 Cause:T14

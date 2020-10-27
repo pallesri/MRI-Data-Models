@@ -1,0 +1,15 @@
+T1	Disease 12 28	Chronic diarrhea
+T3	Disease 247 273	inflammatory bowel disease
+T5	Disease 471 487	chronic diarrhea
+T6	Disease 542 558	chronic diarrhea
+T7	Disease 835 851	chronic diarrhea
+T8	Plant 185 192	Coconut
+T9	Plant 441 448	coconut
+T10	Plant 618 625	coconut
+T11	Plant 875 882	coconut
+T2	Disease 311 319	diarrhea
+T4	Treatment_of_disease 202 206	used
+E1	Treatment_of_disease:T4 Cause:T8 Theme:T3
+T12	Treatment_of_disease 449 458	decreases
+E2	Treatment_of_disease:T12 Cause:T9 Theme:T5
+T13	Disease 974 982	diarrhea

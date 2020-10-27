@@ -1,0 +1,38 @@
+T1	Disease 51 57	cancer
+T2	Disease 125 141	new malignancies
+T3	Disease 196 202	cancer
+T4	Disease 273 279	cancer
+T5	Disease 323 329	cancer
+T6	Disease 531 537	cancer
+T7	Disease 581 587	cancer
+T8	Disease 724 731	cancers
+T9	Disease 865 887	acute myeloid leukemia
+T10	Disease 921 927	cancer
+T11	Disease 1069 1075	cancer
+T12	Disease 1130 1136	cancer
+T13	Disease 1217 1223	cancer
+T14	Disease 1265 1271	cancer
+T15	Disease 1377 1383	cancer
+T16	Disease 1426 1432	cancer
+T17	Disease 1505 1511	cancer
+T18	Disease 1573 1579	cancer
+T19	Disease 1633 1639	cancer
+T20	Disease 1716 1722	cancer
+T21	Disease 1944 1950	cancer
+T22	Plant 180 187	tobacco
+T23	Plant 233 240	tobacco
+T24	Plant 501 508	tobacco
+T25	Plant 621 628	tobacco
+T26	Plant 708 715	Tobacco
+T27	Plant 1155 1162	tobacco
+T28	Plant 1557 1564	tobacco
+T29	Plant 1886 1893	tobacco
+T30	Plant 1928 1935	tobacco
+T31	Cause_of_disease 188 195	related
+E1	Cause_of_disease:T31 Theme:T3 Cause:T22
+T32	Cause_of_disease 716 723	related
+E2	Cause_of_disease:T32 Theme:T8 Cause:T26
+T33	Cause_of_disease 1565 1572	related
+E3	Cause_of_disease:T33 Theme:T18 Cause:T28
+T34	Cause_of_disease 1936 1943	related
+E4	Cause_of_disease:T34 Theme:T21 Cause:T30

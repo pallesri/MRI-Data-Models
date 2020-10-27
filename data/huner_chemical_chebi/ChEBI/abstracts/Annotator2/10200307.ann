@@ -1,0 +1,65 @@
+T1	Chemical 10 31	benzamide derivatives
+T2	Protein 79 98	histone deacetylase
+T4	Biological_Activity 71 78	inhibit
+T5	Protein 100 103	HDA
+R1	Associated_With Arg1:T1 Arg2:T4	
+T7	Chemical 144 165	benzamide derivatives
+T8	Chemical 167 177	MS-27-275,
+T9	Biological_Activity 236 245	antitumor
+R4	Associated_With Arg1:T8 Arg2:T9	
+T10	Chemical 256 265	MS-27-275
+T11	Biological_Activity 266 275	inhibited
+T12	Biological_Activity 316 332	hyperacetylation
+T13	Species 295 300	human
+R5	Associated_With Arg1:T10 Arg2:T12	
+T14	Protein 301 304	HDA
+R6	Associated_With Arg1:T10 Arg2:T11	
+T16	Biological_Activity 426 435	inhibitor
+T17	Protein 422 425	HDA
+T19	Chemical 446 461	sodium butyrate
+T20	Chemical 466 481	trichostatin  A
+R8	Associated_With Arg1:T19 Arg2:T16	
+R9	Associated_With Arg1:T20 Arg2:T16	
+T21	Chemical 483 492	MS-27-275
+T22	Chemical 422 436	HDA inhibitors
+T24	Biological_Activity 493 500	induced
+T28	Species 692 697	human
+T29	Chemical 666 675	MS-27-275
+T30	Chemical 771 785	antitumor agen
+T31	Biological_Activity 771 780	antitumor
+T32	Chemical 788 802	5-fluorouracil
+R17	Associated_With Arg1:T32 Arg2:T31	
+T34	Chemical 920 929	MS-27-275
+T35	Chemical 931 940	MS-27-275
+T36	Biological_Activity 970 979	inhibited
+T37	Species 1041 1045	mice
+T38	Chemical 1089 1103	5-fluorouracil
+R18	Associated_With Arg1:T35 Arg2:T36	
+T39	Chemical 1142 1151	MS-27-275
+T40	Biological_Activity 1164 1174	inhibiting
+T41	Protein 1160 1163	HDA
+T42	Chemical 1303 1312	MS-27-275
+T43	Biological_Activity 1324 1333	antitumor
+T44	Biological_Activity 1348 1362	HDA inhibition
+T45	Protein 1348 1351	HDA
+T47	Chemical 1452 1468	antitumor agents
+T48	Biological_Activity 1452 1461	antitumor
+T49	Chemical 1107 1151	structurally analogous compound to MS-27-275
+R19	Associated_With Arg1:T39 Arg2:T40	
+R21	Associated_With Arg1:T42 Arg2:T43	
+R22	Associated_With Arg1:T42 Arg2:T44	
+R34	Binds_With Arg1:T1 Arg2:T2	
+R35	Binds_With Arg1:T1 Arg2:T5	
+R2	Binds_With Arg1:T10 Arg2:T14	
+R3	Binds_With Arg1:T19 Arg2:T17	
+R7	Binds_With Arg1:T20 Arg2:T17	
+T3	Protein 520 528	gelsolin
+T6	Protein 501 515	p21(WAF1/CIP1)
+R10	Associated_With Arg1:T21 Arg2:T24	
+R11	Binds_With Arg1:T21 Arg2:T6	
+R12	Binds_With Arg1:T21 Arg2:T3	
+T15	Protein 842 856	p21(WAF1/CIP1)
+R13	Binds_With Arg1:T39 Arg2:T41	
+T18	Chemical 1324 1339	antitumor agent
+R14	Binds_With Arg1:T42 Arg2:T45	
+T23	Protein 344 351	histone

@@ -1,0 +1,464 @@
+T1	Protein 1 6	Actin
+T2	Protein 109 114	actin
+T3	Protein 152 159	G-actin
+T4	Protein 213 228	monomeric actin
+T5	Protein 268 273	actin
+T6	Protein 223 228	actin
+T7	Chemical 346 357	β-thymosins
+T8	Species 468 479	vertebrates
+T9	Species 487 492	human
+T10	Species 497 504	chicken
+T11	Chemical 573 584	β-thymosins
+T12	Species 588 597	mammalian
+T13	Chemical 609 620	thymosin β4
+T14	Chemical 730 741	thymosin β4
+T15	Protein 763 768	actin
+T16	Protein 763 788	actin-sequestering factor
+T17	Protein 789 791	Fx
+T18	Chemical 800 811	Thymosin β4
+T19	Chemical 876 883	peptide
+T20	Species 892 901	mammalian
+T21	Protein 948 955	G-actin
+T22	Biological_Activity 965 975	inhibiting
+T23	Protein 1007 1014	F-actin
+T24	Chemical 1043 1054	thymosin β4
+T25	Chemical 1173 1184	thymosin β4
+T26	Chemical 1328 1339	thymosin β4
+T27	Chemical 1374 1381	peptide
+T28	Protein 1353 1360	G-actin
+T29	Species 1393 1398	human
+T30	Chemical 1568 1579	thymosin β4
+T31	Chemical 1681 1688	peptide
+T32	Species 1723 1728	human
+T33	Chemical 1851 1862	thymosin β4
+T34	Chemical 1927 1938	β-thymosins
+T35	Biological_Activity 1958 1967	apoptosis
+T36	Protein 1975 1992	Transglutaminases
+T37	Chemical 1997 2001	Ca2+
+T38	Protein 2075 2083	proteins
+T39	Chemical 2108 2122	primary amines
+T40	Chemical 2127 2134	ammonia
+T41	Chemical 2142 2159	carboxamide group
+T42	Chemical 2163 2181	glutamine residues
+T43	Protein 2183 2190	Peptide
+T44	Chemical 2197 2212	lysine residues
+T45	Chemical 2236 2246	polyamines
+T46	Chemical 2277 2290	primary amine
+T47	Protein 2327 2334	peptide
+T48	Chemical 2341 2356	lysine residues
+T49	Chemical 2366 2376	isopeptide
+T50	Protein 2437 2454	Transglutaminases
+T51	Chemical 2484 2497	primary amine
+T52	Protein 2532 2540	proteins
+T53	Chemical 2556 2566	glutaminyl
+T54	Protein 2632 2649	transglutaminases
+T55	Biological_Activity 2789 2798	apoptosis
+T56	Chemical 2849 2855	Lys-38
+T57	Chemical 2859 2870	thymosin β4
+T58	Chemical 2875 2881	Gln-41
+T59	Protein 2885 2890	actin
+T60	Protein 2908 2924	transglutaminase
+T61	Chemical 2968 2979	thymosin β4
+T62	Chemical 3058 3069	thymosin β4
+T63	Protein 3089 3106	transglutaminases
+T64	Chemical 3121 3132	thymosin β4
+T65	Chemical 3151 3167	dansylcadaverine
+T66	Protein 3171 3187	transglutaminase
+T67	Chemical 3218 3228	glutaminyl
+T68	Chemical 3346 3357	thymosin β4
+T69	Protein 3383 3390	G-actin
+T70	Chemical 3574 3590	LiChroprep RP-18
+T71	Chemical 3606 3626	trifluoroacetic acid
+T72	Chemical 3628 3631	TFA
+T73	Chemical 3674 3721	1-ethyl-3-[3-(dimethylamino)propyl]carbodiimide
+T74	Chemical 3723 3726	EDC
+T75	Chemical 3729 3749	monodansylcadaverine
+T76	Chemical 3751 3812	N -(5-aminopentyl)-5-(dimethylamino)naphthalene-1-sulfonamide
+T77	Chemical 3815 3818	DNC
+T78	Species 3825 3835	guinea pig
+T79	Protein 3825 3858	guinea pig liver transglutaminase
+T80	Protein 3842 3858	transglutaminase
+T81	Protein 3871 3886	AsnC proteinase
+T82	Protein 3935 3942	trypsin
+T83	Species 4040 4046	bovine
+T84	Species 4056 4062	rabbit
+T85	Chemical 4171 4185	Sephacryl S300
+T86	Chemical 4223 4231	G buffer
+T87	Chemical 4238 4246	Tris–HCl
+T88	Chemical 4255 4258	ATP
+T89	Chemical 4267 4272	CaCl2
+T90	Chemical 4282 4297	mercaptoethanol
+T91	Chemical 4305 4309	NaN3
+T92	Protein 4321 4328	G-actin
+T93	Chemical 4343 4351	G buffer
+T94	Species 4360 4366	Rabbit
+T95	Protein 4360 4388	Rabbit skeletal muscle actin
+T96	Protein 4383 4388	actin
+T97	Chemical 4445 4456	Thymosin β4
+T98	Species 4476 4482	bovine
+T99	Chemical 4603 4614	thymosin β4
+T100	Protein 4620 4625	actin
+T101	Chemical 4645 4655	amino acid
+T102	Chemical 4671 4675	acid
+T103	Chemical 4692 4695	HCl
+T104	Chemical 4743 4762	o -phthaldialdehyde
+T105	Chemical 4763 4787	3-mercaptopropionic acid
+T106	Chemical 4830 4841	thymosin β4
+T108	Protein 4913 4932	AsnC endoproteinase
+T109	Protein 4974 4982	protease
+T110	Chemical 5015 5029	sodium acetate
+T111	Chemical 5046 5049	DTT
+T112	Chemical 5058 5062	EDTA
+T113	Protein 5065 5072	trypsin
+T115	Protein 5116 5123	trypsin
+T116	Chemical 5136 5144	NH4 HCO3
+T117	Chemical 5275 5278	TFA
+T118	Spectral_Data 5301 5313	MALDI-TOF-MS
+T119	Chemical 5876 5879	TFA
+T120	Chemical 5912 5924	acetonitrile
+T121	Chemical 6065 6078	fluorescamine
+T122	Chemical 6157 6177	trifluoroacetic acid
+T123	Chemical 6210 6222	acetonitrile
+T124	Chemical 6398 6420	SDS polyacrylamide gel
+T125	Chemical 6631 6642	thymosin β4
+T126	Chemical 6649 6665	dansylcadaverine
+T127	Chemical 6718 6729	thymosin β4
+T128	Chemical 6759 6775	dansylcadaverine
+T129	Chemical 6819 6827	Tris–HCl
+T130	Chemical 6843 6848	CaCl2
+T131	Chemical 6856 6859	DTT
+T132	Protein 6907 6923	transglutaminase
+T133	Protein 6959 6965	enzyme
+T134	Chemical 7055 7058	TFA
+T135	Chemical 7157 7168	thymosin β4
+T136	Chemical 7225 7241	dansylcadaverine
+T137	Protein 7259 7275	transglutaminase
+T138	Chemical 7430 7433	TFA
+T139	Chemical 7575 7585	amino acid
+T140	Spectral_Data 7599 7626	MALDI-TOF mass spectrometry
+T141	Spectral_Data 7633 7683	Matrix-assisted laser desorption mass spectrometry
+T142	Chemical 8165 8168	TFA
+T143	Chemical 8184 8196	acetonitrile
+T144	Chemical 8307 8337	α-cyano-4-hydroxycinnamic acid
+T145	Chemical 8363 8366	TFA
+T146	Chemical 8372 8384	acetonitrile
+T147	Protein 8693 8700	G-actin
+T148	Chemical 8732 8740	G buffer
+T149	Chemical 8772 8783	thymosin β4
+T150	Chemical 8788 8804	dansylcadaverine
+T151	Chemical 8879 8886	MgCl2  
+T152	Chemical 8475 8478	EDC
+T153	Chemical 9176 9179	EDC
+T154	Chemical 9231 9234	EDC
+T155	Chemical 15203 15206	EDC
+T156	Chemical 15643 15646	EDC
+T157	Chemical 9397 9404	SDS gel
+T158	Chemical 9491 9502	thymosin β4
+T159	Protein 9523 9530	G-actin
+T160	Protein 9531 9538	G-actin
+T161	Chemical 9543 9554	thymosin β4
+T162	Protein 9576 9592	transglutaminase
+T163	Chemical 9623 9639	dansylcadaverine
+T164	Chemical 9672 9680	Tris–HCl
+T165	Chemical 9695 9700	CaCl2
+T166	Chemical 9708 9711	DTE
+T167	Chemical 9720 9723	ATP
+T168	Chemical 9732 9738	NaN3  
+T169	Chemical 9803 9814	thymosin β4
+T170	Chemical 9821 9837	dansylcadaverine
+T171	Protein 9841 9857	transglutaminase
+T172	Chemical 9879 9890	thymosin β4
+T173	Chemical 9909 9919	glutaminyl
+T174	Species 9934 9944	guinea pig
+T175	Protein 9945 9961	transglutaminase
+T176	Protein 9934 9961	guinea pig transglutaminase
+T177	Chemical 9992 10008	dansylcadaverine
+T178	Protein 10055 10071	transglutaminase
+T179	Chemical 10253 10264	thymosin β4
+T180	Chemical 10253 10264;10298 10307	thymosin β4 sulfoxide
+T181	Chemical 10309 10316	Tβ4 (o)
+T182	Chemical 10350 10372	thymosin β4  sulfoxide
+T183	Chemical 10377 10388	thymosin β4
+T184	Chemical 10565 10577	Gln residues
+T185	Chemical 10789 10800	thymosin β4
+T186	Chemical 10854 10858	TG47
+T187	Chemical 10867 10871	TG48
+T188	Chemical 10954 10958	TG49
+T189	Chemical 11066 11070	TG51
+T190	Chemical 11110 11114	TG47
+T191	Chemical 11119 11123	TG48
+T192	Chemical 11214 11218	TG55
+T193	Chemical 11543 11553	Amino acid
+T194	Chemical 11605 11615	amino acid
+T195	Spectral_Data 11713 11730	mass spectroscopy
+T196	Spectral_Data 11732 11850	Table 1  summarizes the observed molecular masses, assigned molecular formulas, calculated masses and their deviations
+T197	Chemical 11901 11912	thymosin β4
+T198	Chemical 11915 11918	Tβ4
+T199	Chemical 11931 11934	DNC
+T200	Chemical 11949 11960	Tβ4 ∗(DNC)1
+T201	Chemical 11964 11968	TG47
+T202	Chemical 11973 11977	TG48
+T203	Chemical 12001 12031	bis-DNC thymosin β4  sulfoxide
+T204	Chemical 12034 12049	Tβ4 (o) ∗(DNC)2
+T205	Chemical 12053 12057	TG49
+T206	Protein 12093 12113	tris-DNC thymosin β4
+T207	Protein 12117 12128	Tβ4 ∗(DNC)3
+T208	Protein 12132 12136	TG55
+T209	Protein 12141 12160	bis-DNC thymosin β4
+T210	Protein 12163 12177	[Tβ4 ∗(DNC)2 ]
+T211	Protein 12179 12183	TG51
+T212	Chemical 12254 12266	Gln residues
+T213	Chemical 12316 12328	Gln residues
+T214	Chemical 12356 12367	thymosin β4
+T215	Chemical 12389 12393	TG47
+T216	Chemical 12395 12399	TG48
+T217	Chemical 12405 12409	TG51
+T218	Protein 12415 12430	AsnC proteinase
+T219	Spectral_Data 12459 12471	MALDI-TOF-MS
+T221	Chemical 12513 12524	Asn residue
+T222	Chemical 12581 12589	Tβ4 1–26
+T223	Chemical 12595 12604	Tβ4 27–43
+T224	Chemical 12637 12649	Gln residues
+T225	Chemical 12481 12492	thymosin β4
+T220	Chemical 403 411	peptides
+T226	Protein 855 862	G-actin
+R1	Associated_With Arg1:T34 Arg2:T35	
+R2	Binds_With Arg1:T18 Arg2:T21	
+R3	Associated_With Arg1:T18 Arg2:T22	
+T227	Protein 2729 2741	factor XIIIa
+T228	Protein 4016 4021	Actin
+T107	Chemical 4847 4867	modified thymosin β4
+T229	Chemical 4820 4828	peptides
+T230	Chemical 4942 4949	peptide
+T114	Chemical 5080 5087	peptide
+T231	Spectral_Data 7684 8452	Mass determinations were performed with a Biflex™ III MALDI-TOF mass spectrometer (Bruker Daltonics, Germany). The instrument is equipped with a nitrogen laser (λ =337 nm) and a reflectron. Laser-desorbed positive ions were analyzed after being accelerated by 19 kV in the reflection mode. External calibration was performed by use of a standard peptide mixture. Usually, 30 individual spectra were averaged to produce a mass spectrum. Dried peptide samples were dissolved in 0.1% TFA containing 33% acetonitrile to a final concentration of about 20 ng/μl. Each sample (1 μl) was mixed with 2 μl of a saturated solution of α-cyano-4-hydroxycinnamic acid (Sigma, Germany) in 0.1% TFA, 33% acetonitrile and 1 μl of this mixture was spotted onto a stainless steel target.
+T232	Chemical 8813 8821	peptides
+T233	Chemical 9378 9386	G buffer
+T234	Chemical 9979 9986	peptide
+T235	Chemical 11014 11036	thymosin β4  sulfoxide
+T236	Chemical 12680 12691	thymosin β4
+T237	Spectral_Data 12694 12797	the two expected fragments appeared at molecular masses of 3109.7 (m /z ) and 1871.7 (m /z ) (Table 2 )
+R4	Associated_With Arg1:T236 Arg2:T237	
+T238	Chemical 12837 12841	TG47
+T239	Spectral_Data 12806 12824	MALDI mass spectra
+T240	Spectral_Data 12842 12895	the C-terminal fragment was shifted to 2189.6 (m /z )
+R5	Associated_With Arg1:T238 Arg2:T240	
+T241	Chemical 12920 12924	TG48
+T242	Spectral_Data 12929 13042	signal for the N-terminal fragment appeared at 3430.8 (m /z ) corresponding to the addition of one DNC (335.5 Da)
+R6	Associated_With Arg1:T241 Arg2:T242	
+T243	Chemical 13064 13070	Gln-23
+T244	Chemical 13074 13078	TG48
+T245	Chemical 13090 13096	Gln-36
+T246	Chemical 13090 13094;13100 13102	Gln- 39
+T247	Chemical 13106 13110	TG47
+T248	Chemical 13153 13157	TG51
+T249	Chemical 13208 13214	Gln-23
+T250	Chemical 13239 13251	Gln residues
+T251	Chemical 13384 13388	TG51
+T252	Protein 13394 13401	trypsin
+T253	Chemical 13420 13424	TG51
+T254	Protein 13439 13446	trypsin
+T255	Spectral_Data 13571 13583	MALDI-TOF-MS
+T256	Chemical 13587 13590	DNC
+T257	Chemical 13617 13626	TG5119–25
+T258	Spectral_Data 13628 13658	(m /z =1181.4; expected 1182.4
+R7	Associated_With Arg1:T257 Arg2:T258	
+T259	Chemical 13664 13673	TG5132–38
+T260	Spectral_Data 13676 13705	m /z =1194.6; expected 1195.3
+R8	Associated_With Arg1:T259 Arg2:T260	
+T261	Chemical 13547 13557	amino acid
+T262	Chemical 13756 13775;13818 13823;13856 13863	amino acid residues 20–31 of TG51
+T263	Spectral_Data 13783 13812	m /z =1053.3; expected 1054.3
+T264	Chemical 13756 13781;13856 13863	amino acid residues 20–25 of TG51
+R9	Associated_With Arg1:T264 Arg2:T263	
+T265	Spectral_Data 13825 13854	m /z =1690.0; expected 1691.0
+R10	Associated_With Arg1:T262 Arg2:T265	
+T266	Chemical 13868 13871	DNC
+T267	Chemical 13906 13915	TG5139–43
+T268	Chemical 13942 13948	Gln-36
+T269	Protein 14001 14017	transglutaminase
+T270	Chemical 14048 14059	thymosin β4
+T271	Protein 14066 14073	G-actin
+T272	Chemical 14126 14134	peptides
+T273	Chemical 14172 14183	thymosin β4
+T274	Protein 14217 14224	G-actin
+T275	Biological_Activity 14262 14272	inhibiting
+T276	Chemical 14289 14297	peptides
+T277	Protein 14351 14356	actin
+T278	Chemical 14426 14437	thymosin β4
+T279	Biological_Activity 14553 14563	inhibition
+T280	Chemical 14610 14632	thymosin β4  sulfoxide
+T281	Chemical 14634 14641	Tβ4 (o)
+R11	Associated_With Arg1:T278 Arg2:T279	
+T282	Protein 14731 14738	G-actin
+T283	Biological_Activity 14663 14670	inhibit
+R12	Associated_With Arg1:T280 Arg2:T283	
+R13	Associated_With Arg1:T281 Arg2:T283	
+T284	Protein 14927 14934	G-actin
+T285	Chemical 15001 15018	glutamyl residues
+T286	Chemical 15022 15033	thymosin β4
+T287	Biological_Activity 15048 15058	inhibition
+T289	Spectral_Data 15291 15302	UV analysis
+T290	Protein 15446 15451	actin
+T291	Chemical 15482 15490	peptides
+T292	Protein 15617 15622	actin
+T293	Chemical 15650 15661	β-thymosins
+T294	Chemical 15690 15701	thymosin β4
+T295	Protein 15722 15729	G-actin
+T296	Protein 15730 15737	G-actin
+T297	Chemical 15762 15772	glutaminyl
+T298	Protein 15786 15802	transglutaminase
+T299	Protein 15817 15833	transglutaminase
+T300	Protein 15871 15878	G-actin
+T301	Chemical 15883 15894	thymosin β4
+T302	Protein 15945 15952	G-actin
+T303	Chemical 15972 15983	thymosin β4
+T304	Chemical 15989 16005	dansylcadaverine
+T305	Chemical 16030 16046	dansylcadaverine
+T307	Protein 16105 16110	actin
+T308	Chemical 16111 16122	thymosin β4
+T309	Chemical 16166 16182	dansylcadaverine
+T310	Protein 16187 16203	transglutaminase
+T312	Protein 16248 16272;16299 16304	dansylcadaverine-labeled actin
+T313	Protein 16299 16304	actin
+T314	Chemical 16248 16284	dansylcadaverine-labeled thymosin β4
+T311	Chemical 16329 16343	Coomassie blue
+T315	Protein 16375 16380	actin
+T316	Chemical 16385 16396	thymosin β4
+T317	Protein 16433 16449	transglutaminase
+T318	Chemical 16529 16545	dansylcadaverine
+T319	Chemical 16560 16572	Lys residues
+T320	Protein 16583 16590	G-actin
+T321	Chemical 16594 16605	thymosin β4
+T322	Chemical 16643 16654	thymosin β4
+T323	Protein 16657 16687	dansylcadaverine-labeled actin
+T324	Chemical 16657 16673	dansylcadaverine
+T325	Protein 16703 16710	F-actin
+T326	Chemical 16817 16824	calcium
+T327	Protein 16864 16880	transglutaminase
+T328	Protein 16902 16907	actin
+T329	Biological_Activity 16939 16948	inhibited
+T330	Chemical 16975 16986	thymosin β4
+R14	Associated_With Arg1:T330 Arg2:T329	
+T331	Chemical 17019 17030	thymosin β4
+T332	Chemical 17042 17056	Coomassie blue
+T333	Protein 17109 17116	G-actin
+T334	Chemical 17138 17149	thymosin β4
+T335	Chemical 17186 17202	dansylcadaverine
+T336	Chemical 17292 17303	thymosin β4
+T337	Species 17347 17357	guinea pig
+T338	Protein 17347 17380	guinea pig liver transglutaminase
+T339	Species 17466 17493	MALDI-TOF mass spectroscopy
+T340	Chemical 17514 17526	Gln residues
+T341	Chemical 17590 17596	Gln-39
+T342	Chemical 17514 17525;17527 17529	Gln residue 23
+T343	Chemical 17514 17525;17534 17536	Gln residue 36
+T344	Chemical 17693 17704	thymosin β4
+T345	Chemical 17711 17727	dansylcadaverine
+T346	Protein 17792 17799	G-actin
+T347	Chemical 17982 17993	thymosin β4
+T348	Protein 18137 18154	transglutaminases
+T349	Chemical 18228 18239	thymosin β4
+T350	Protein 18245 18261	transglutaminase
+T351	Chemical 18306 18317	thymosin β4
+T352	Chemical 18336 18346	glutaminyl
+T353	Species 18361 18371	guinea pig
+T354	Protein 18372 18388	transglutaminase
+T355	Chemical 18480 18491	thymosin β4
+T356	Species 18514 18519	human
+T357	Chemical 18586 18596	glutaminyl
+T358	Protein 18611 18623	factor XIIIa
+T359	Chemical 18659 18671	Gln residues
+T360	Chemical 18675 18686	thymosin β4
+T361	Protein 18719 18735	transglutaminase
+T362	Chemical 18779 18789	glutaminyl
+T363	Protein 18815 18827	factor XIIIa
+T364	Species 18832 18842	guinea pig
+T365	Protein 18832 18865	guinea pig liver transglutaminase
+T366	Protein 18849 18865	transglutaminase
+T367	Chemical 18908 18918	amino acid
+T368	Chemical 18948 18955	peptide
+T369	Chemical 18983 19022	amino acid residues 161–175 of β-casein
+T370	Protein 19014 19022	β-casein
+T371	Protein 19051 19063	factor XIIIa
+T372	Chemical 19109 19112	Lys
+T373	Chemical 19118 19129	Gly residue
+T374	Chemical 19183 19193	glutaminyl
+T375	Protein 19214 19230	transglutaminase
+T376	Protein 19267 19279	factor XIIIa
+T377	Chemical 19296 19302;19314 19328	Gln-23 of thymosin β4
+T378	Chemical 19307 19313	Gln-36
+T379	Chemical 19317 19328	thymosin β4
+T380	Chemical 19307 19328	Gln-36 of thymosin β4
+T381	Chemical 19332 19343	Lys residue
+T382	Chemical 19393 19399	Gln-39
+T383	Chemical 19402 19413	Gly residue
+T384	Chemical 19463 19484	Gln-39 of thymosin β4
+T385	Protein 19541 19548	enzymes
+T386	Chemical 19609 19611;19617 19634	C- terminal residues
+T387	Chemical 19615 19634	N-terminal residues
+T388	Chemical 19699 19702	Gln
+T389	Chemical 19726 19729	Gln
+T390	Species 19768 19777	mammalian
+T391	Chemical 19778 19789	β-thymosins
+T392	Chemical 19797 19809	thymosin β15
+T393	Species 19873 19878	human
+T394	Chemical 19977 19986	LKKTETQEK
+T395	Chemical 19993 20004	thymosin β4
+T396	Protein 20025 20030	actin
+T397	Protein 20093 20098	actin
+T398	Protein 20119 20129	actobindin
+T399	Chemical 20232 20262	N-terminal amino acid residues
+T400	Protein 20306 20313	G-actin
+T401	Chemical 20348 20367	amino acid residues
+T402	Chemical 20461 20464	Gln
+T403	Chemical 20473 20489	dansylcadaverine
+T404	Protein 20506 20513	G-actin
+T405	Biological_Activity 20514 20521	binding
+T406	Protein 20589 20594	actin
+T407	Biological_Activity 20595 20602	binding
+T408	Chemical 20612 20615	Gln
+T409	Protein 20727 20734	G-actin
+T410	Chemical 20740 20750	glutaminyl
+T411	Protein 20769 20785	transglutaminase
+T412	Chemical 20819 20835	dansylcadaverine
+T413	Chemical 20859 20876	Gln-41 of G-actin
+T414	Protein 20869 20876	G-actin
+T415	Chemical 19473 19484	thymosin β4
+T416	Protein 20978 20985	G-actin
+T417	Protein 21024 21029	actin
+T418	Species 21035 21040	human
+T419	Species 21061 21067	rabbit
+T420	Protein 21084 21089	actin
+T421	Protein 21116 21128	factor XIIIa
+T422	Protein 21199 21215	transglutaminase
+T423	Protein 21234 21239	actin
+T424	Protein 21294 21299	actin
+T425	Protein 21353 21369	transglutaminase
+T426	Biological_Activity 21404 21413	apoptosis
+T427	Protein 21442 21450	proteins
+T429	Biological_Activity 21565 21574	apoptosis
+T431	Protein 21590 21595	actin
+T433	Chemical 21640 21661	hapten-labeled lysine
+T434	Chemical 21474 21495	hapten-labeled lysine
+T428	Chemical 21761 21772	thymosin β4
+T430	Species 21813 21823	guinea pig
+T432	Protein 21813 21840	guinea pig transglutaminase
+T435	Protein 21824 21840	transglutaminase
+T436	Protein 21853 21858	actin
+T437	Chemical 21926 21937	thymosin β4
+T438	Chemical 22049 22060	thymosin β4
+T439	Biological_Activity 22069 22078	apoptosis
+T440	Chemical 22163 22174	thymosin β4
+T441	Chemical 22191 22201	glutaminyl
+T442	Protein 22216 22233	transglutaminases
+T443	Protein 22290 22306	transglutaminase
+T288	Chemical 15222 15229	SDS-PAG
+T306	Chemical 16066 16073	SDS-PAG
+T444	Chemical 21962 21969	SDS-PAG
+T445	Chemical 15366 15380	Coomassie blue
+T446	Chemical 17322 17332	glutaminyl
+T447	Chemical 17848 17859	thymosin β4
+T448	Chemical 17887 17897	glutaminyl
+T449	Protein 17916 17932	transglutaminase
+T450	Protein 20670 20680	actobindin

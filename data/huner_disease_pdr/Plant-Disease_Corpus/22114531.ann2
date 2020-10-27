@@ -1,0 +1,12 @@
+T1	Disease 169 186	degree of amnesia
+T2	Plant 0 9	Coriander
+T4	Plant 143 152	coriander
+T6	Plant 223 232	coriander
+T9	Plant 282 300	Coriandrum sativum
+T11	Plant 379 388	coriander
+T13	Plant 726 735	coriander
+T15	Plant 1315 1324	coriander
+T17	Plant 1360 1369	coriander
+T19	Plant 1466 1475	coriander
+T3	Cause_of_disease 157 163	induce
+E1	Cause_of_disease:T3 Theme:T1 Cause:T4

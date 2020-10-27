@@ -1,0 +1,264 @@
+T1	Chemical 48 59	doxorubicin
+T2	Chemical 138 149	doxorubicin
+T3	Protein 308 322	P-glycoprotein
+T4	Chemical 323 327	drug
+T5	Chemical 397 409	Okadaic acid
+T6	Chemical 414 430	cantharidic acid
+T7	Biological_Activity 445 455	inhibitors
+T8	Protein 459 478;480 481	ser/thr phosphatase 1
+T9	Protein 459 478;486 488	ser/thr phosphatase 2A
+R1	Associated_With Arg1:T6 Arg2:T7	
+R2	Associated_With Arg1:T5 Arg2:T7	
+R3	Binds_With Arg1:T6 Arg2:T8	
+R4	Binds_With Arg1:T5 Arg2:T9	
+T10	Biological_Activity 552 562	inhibition
+T11	Protein 572 579	enzymes
+T12	Chemical 585 591	agents
+T13	Biological_Activity 618 627	apoptosis
+T14	Biological_Activity 611 617	induce
+T15	Species 636 641	human
+T16	Species 646 655	non-human
+R5	Associated_With Arg1:T6 Arg2:T13	
+R6	Associated_With Arg1:T5 Arg2:T13	
+R7	Associated_With Arg1:T5 Arg2:T14	
+R8	Associated_With Arg1:T6 Arg2:T14	
+T17	Chemical 874 886	okadaic acid
+T18	Chemical 940 956	cantharidic acid
+T19	Chemical 1031 1043	okadaic acid
+T20	Biological_Activity 1263 1272	apoptosis
+T21	Protein 1305 1316	phosphatase
+T22	Biological_Activity 1317 1327	inhibitors
+T23	Chemical 1328 1335;1351 1355	okadaic acid
+T24	Chemical 1339 1355	cantharidic acid
+R9	Binds_With Arg1:T24 Arg2:T21	
+R10	Binds_With Arg1:T23 Arg2:T21	
+R11	Associated_With Arg1:T23 Arg2:T22	
+R12	Associated_With Arg1:T24 Arg2:T22	
+T25	Chemical 1425 1436	doxorubicin
+T26	Chemical 1467 1474;1491 1495	okadaic acid
+T27	Chemical 1479 1495	cantharidic acid
+T28	Chemical 1558 1569	doxorubicin
+T29	Chemical 1584 1596	okadaic acid
+T30	Chemical 1666 1682	cantharidic acid
+T31	Species 1722 1725	rat
+T32	Chemical 1772 1784	okadaic acid
+T33	Chemical 1833 1844	doxorubicin
+T34	Chemical 1888 1900	okadaic acid
+T35	Chemical 1905 1916	doxorubicin
+T36	Chemical 1968 1979	Doxorubicin
+T37	Chemical 2019 2031	Okadaic acid
+T38	Chemical 2036 2052	cantharidic acid
+T39	Chemical 2119 2127	reagents
+T40	Protein 2132 2150	fetal bovine serum
+T41	Species 2138 2144	bovine
+T42	Protein 2202 2209	Caspase
+T43	Chemical 2220 2231	Ac-DEVD-pNA
+T44	Biological_Activity 2240 2249	inhibitor
+T45	Chemical 2250 2261	Ac-DEVD-CHO
+R13	Associated_With Arg1:T45 Arg2:T44	
+R14	Binds_With Arg1:T45 Arg2:T42	
+R15	Binds_With Arg1:T43 Arg2:T42	
+T46	Species 2376 2379	rat
+T47	Protein 2484 2500	fetal calf serum
+T48	Species 2490 2494	calf
+T49	Chemical 2502 2514	streptomycin
+T50	Chemical 2519 2529	penicillin
+T51	Chemical 2544 2547	CO2
+T52	Chemical 2662 2673	doxorubicin
+T53	Chemical 2675 2687	Okadaic acid
+T54	Chemical 2830 2842	okadaic acid
+T55	Chemical 2894 2906	Okadaic acid
+T56	Chemical 2986 2989	MTT
+T57	Chemical 3177 3181	drug
+T58	Protein 3200 3205	serum
+T59	Protein 3219 3230	transferrin
+T60	Protein 3211 3218	insulin
+T61	Chemical 3231 3239	selenite
+T62	Chemical 3281 3284	MTT
+T63	Chemical 3360 3363	SDS
+T64	Chemical 3374 3377	HCl
+T65	Chemical 3412 3415	MTT
+T66	Protein 3551 3560	caspase-3
+T67	Biological_Activity 3551 3560	caspase-3
+T68	Biological_Activity 3599 3611	cytotoxicity
+T69	Chemical 3626 3631	drugs
+T70	Biological_Activity 3635 3644	apoptotic
+T71	Biological_Activity 3679 3689	activation
+T72	Protein 3693 3701	caspases
+T73	Protein 3878 3883	serum
+T74	Chemical 3946 3950	PMSF
+T75	Chemical 4078 4081	PBS
+T76	Chemical 4100 4104	PMSF
+T77	Chemical 4198 4203	HEPES
+T78	Chemical 4208 4213	NP-40
+T79	Protein 4215 4227	Aprotinin 10
+T80	Chemical 4299 4307	nitrogen
+T81	Protein 4545 4552	protein
+T82	Chemical 4576 4579	BCA
+T83	Protein 4617 4624	Protein
+T84	Protein 4692 4699	protein
+T85	Chemical 4746 4749	DTT
+T86	Chemical 4842 4849	peptide
+T87	Chemical 4850 4861	Ac-DEVD-pNA
+T88	Protein 4891 4900	Caspase-3
+T89	Biological_Activity 4891 4900	Caspase-3
+T90	Chemical 4958 4973	p -nitroanilide
+T91	Chemical 5008 5014	Enzyme
+T92	Biological_Activity 5008 5014	Enzyme
+T93	Protein 5061 5068	protein
+T94	Biological_Activity 5098 5109	proteolytic
+T95	Protein 5239 5246	DEVDase
+T96	Biological_Activity 5247 5256	inhibitor
+T97	Chemical 5257 5264	peptide
+T98	Chemical 5265 5276	Ac-DEVD-CHO
+R16	Associated_With Arg1:T98 Arg2:T96	
+R17	Binds_With Arg1:T98 Arg2:T95	
+T99	Chemical 5326 5338	okadaic acid
+T100	Chemical 5352 5368	cantharidic acid
+T101	Biological_Activity 5501 5510	apoptotic
+T102	Protein 5580 5587	caspase
+T103	Biological_Activity 5580 5587	caspase
+T104	Chemical 5643 5654	Ac-DEVD-pNA
+T105	Protein 5668 5679	phosphatase
+T106	Biological_Activity 5680 5690	inhibitors
+T107	Chemical 5702 5713	doxorubicin
+T108	Chemical 5730 5742	tetrapeptide
+T109	Protein 5783 5790;5791 5793	caspase -3
+T110	Protein 5783 5790;5798 5800	caspase -7
+T111	Protein 5866 5873	DEVDase
+T112	Biological_Activity 5866 5873	DEVDase
+T113	Chemical 5918 5929	doxorubicin
+T114	Chemical 5950 5962	okadaic acid
+T115	Chemical 5984 6000	cantharidic acid
+T116	Biological_Activity 6080 6089	apoptosis
+T117	Protein 6095 6114;6116 6117	ser/thr phosphatase 1
+T118	Protein 6095 6114;6122 6124	ser/thr phosphatase 2A
+T119	Protein 6130 6137	enzymes
+T120	Biological_Activity 6152 6161	inhibited
+T121	Chemical 6165 6177	okadaic acid
+T122	Chemical 6182 6198	cantharidic acid
+T123	Biological_Activity 6228 6237	inhibited
+T124	Chemical 6349 6360	doxorubicin
+T125	Chemical 6378 6390	okadaic acid
+T126	Chemical 6407 6423	cantharidic acid
+T127	Chemical 6508 6514	agents
+T128	Chemical 6599 6610	doxorubicin
+T129	Chemical 6642 6658	cantharidic acid
+T130	Biological_Activity 6726 6734	toxicity
+T131	Chemical 6619 6631	okadaic acid
+R18	Associated_With Arg1:T128 Arg2:T130	
+R19	Associated_With Arg1:T131 Arg2:T130	
+R20	Associated_With Arg1:T129 Arg2:T130	
+T132	Chemical 6759 6765	agents
+T133	Chemical 6916 6927	doxorubicin
+T134	Chemical 6932 6944	okadaic acid
+T135	Chemical 7021 7037	cantharidic acid
+T136	Biological_Activity 7236 7248	cytotoxicity
+T137	Protein 7260 7271	phosphatase
+T138	Biological_Activity 7272 7282	inhibitors
+R21	Associated_With Arg1:T128 Arg2:T136	
+R22	Associated_With Arg1:T131 Arg2:T136	
+R23	Associated_With Arg1:T129 Arg2:T136	
+T139	Biological_Activity 7408 7416	toxicity
+T140	Chemical 7426 7432	agents
+T141	Chemical 7502 7513	doxorubicin
+T142	Chemical 7583 7594	doxorubicin
+T143	Protein 7665 7679	P-glycoprotein
+T144	Chemical 7859 7864	drugs
+T145	Chemical 7985 7996	doxorubicin
+T146	Biological_Activity 8035 8043	toxicity
+T147	Chemical 8082 8094	okadaic acid
+T148	Biological_Activity 8138 8146	toxicity
+T149	Chemical 8246 8262	cantharidic acid
+T150	Biological_Activity 8297 8305	toxicity
+T151	Chemical 8389 8394	agent
+T152	Chemical 8540 8556	cantharidic acid
+T153	Chemical 8569 8580	doxorubicin
+T154	Chemical 8585 8597	okadaic acid
+T155	Chemical 8631 8642	Ac-DEVD-pNA
+T156	Chemical 8693 8699	agents
+T157	Chemical 8722 8733	doxorubicin
+T158	Chemical 8738 8750	okadaic acid
+T159	Protein 8773 8782	caspase 3
+T160	Biological_Activity 8773 8782	caspase 3
+T161	Chemical 8869 8885	cantharidic acid
+T162	Biological_Activity 8904 8911	caspase
+T163	Protein 8904 8911	caspase
+T164	Protein 8978 8985	Caspase
+T165	Biological_Activity 8978 8985	Caspase
+T166	Protein 9120 9134	P-glycoprotein
+T167	Chemical 9187 9198	doxorubicin
+T168	Chemical 9240 9252	okadaic acid
+T169	Biological_Activity 9253 9261	toxicity
+T170	Chemical 9421 9433	okadaic acid
+T171	Chemical 9491 9503	okadaic acid
+T172	Protein 9655 9669	P-glycoprotein
+T173	Biological_Activity 9532 9542	protection
+T174	Chemical 9734 9746	okadaic acid
+T175	Protein 9779 9793	P-glycoprotein
+T176	Chemical 9827 9843	cantharidic acid
+T177	Chemical 9898 9910	okadaic acid
+T178	Species 9932 9935	rat
+T179	Chemical 9985 9997	okadaic acid
+T180	Chemical 10096 10108	okadaic acid
+T181	Biological_Activity 10109 10117	toxicity
+T182	Chemical 10236 10248	okadaic acid
+T183	Chemical 10398 10409	doxorubicin
+T184	Biological_Activity 10410 10418	toxicity
+T185	Chemical 10501 10513	okadaic acid
+T186	Chemical 10598 10614	cantharidic acid
+T187	Protein 10623 10631	toxicity
+T188	Chemical 10906 10910	drug
+T189	Chemical 10937 10948	doxorubicin
+T190	Chemical 11003 11014	doxorubicin
+T191	Biological_Activity 11019 11027	toxicity
+T192	Chemical 11031 11043	okadaic acid
+T193	Chemical 11048 11059	doxorubicin
+T194	Chemical 11287 11299	okadaic acid
+T195	Chemical 11558 11571	rhodamine 123
+T196	Protein 11600 11614	P-glycoprotein
+R24	Binds_With Arg1:T195 Arg2:T196	
+T197	Chemical 11682 11693	doxorubicin
+T198	Biological_Activity 11898 11908	inhibition
+T199	Protein 11912 11931;11945 11948	ser/thr phosphatase PP1
+T200	Protein 11912 11931;11953 11955	ser/thr phosphatase 2A
+T201	Biological_Activity 11970 11980	inhibitors
+T202	Chemical 11986 11998	okadaic acid
+T203	Chemical 12003 12019	cantharidic acid
+T204	Biological_Activity 12045 12054	cytotoxic
+T205	Chemical 12223 12234	doxorubicin
+T206	Chemical 12251 12257	agents
+T207	Chemical 12259 12271	okadaic acid
+T208	Chemical 12276 12292	cantharidic acid
+T209	Biological_Activity 12294 12301	induced
+T210	Biological_Activity 12302 12311	apoptosis
+T211	Chemical 12385 12391	agents
+T212	Chemical 12440 12452	okadaic acid
+T213	Biological_Activity 12453 12460	induced
+T214	Biological_Activity 12461 12470	apoptosis
+T215	Chemical 12661 12672	doxorubicin
+T216	Chemical 12725 12737	okadaic acid
+T217	Chemical 12793 12805	okadaic acid
+T218	Chemical 12871 12882	doxorubicin
+T219	Chemical 12932 12943	doxorubicin
+T220	Chemical 13013 13025	okadaic acid
+T221	Chemical 13044 13056	okadaic acid
+T222	Chemical 13077 13081	drug
+T223	Protein 13109 13123	P-glycoprotein
+T224	Biological_Activity 13149 13157	toxicity
+T225	Chemical 13166 13171	agent
+T226	Chemical 13176 13208	structurally related derivatives
+T227	Chemical 13250 13254	drug
+T228	Biological_Activity 13341 13353	cytotoxicity
+T229	Chemical 13357 13374	cantharidic acid,
+T230	Biological_Activity 13378 13387	inhibitor
+T231	Protein 13391 13394	PP1
+T232	Protein 13399 13403	PP2A
+T233	Chemical 13418 13430	okadaic acid
+T234	Protein 13569 13581	okadaic acid
+T235	Chemical 13695 13711	cantharidic acid
+T236	Protein 13751 13765	P-glycoprotein
+T237	Chemical 13793 13797	drug
+T238	Biological_Activity 13828 13837	cytotoxic
+T239	Protein 13851 13870	ser/thr phosphatase
+T240	Biological_Activity 13871 13881	inhibition

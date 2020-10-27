@@ -1,0 +1,22 @@
+T1	Species 0 25	Aspergillus candidus Link
+T2	Chemical 116 128	terphenyllin
+T3	Chemical 133 144	xanthoascin
+T4	Biological_Activity 104 113	mycotoxin
+T5	Metabolite 116 128	terphenyllin
+T6	Metabolite 133 144	xanthoascin
+R1	Associated_With Arg1:T5 Arg2:T4	
+R2	Associated_With Arg1:T6 Arg2:T4	
+R3	Associated_With Arg1:T2 Arg2:T4	
+R4	Associated_With Arg1:T3 Arg2:T4	
+T7	Metabolite 218 229	xanthoascin
+T8	Chemical 218 229	xanthoascin
+T11	Biological_Activity 298 306	necrosis
+R7	Associated_With Arg1:T7 Arg2:T11	
+R10	Associated_With Arg1:T8 Arg2:T11	
+T12	Species 337 341	mice
+T14	Biological_Activity 475 483	necrosis
+R12	Associated_With Arg1:T7 Arg2:T14	
+R14	Associated_With Arg1:T8 Arg2:T14	
+T17	Biological_Activity 707 716	mycotoxin
+R19	Isolated_From Arg1:T5 Arg2:T1	
+R20	Isolated_From Arg1:T6 Arg2:T1	

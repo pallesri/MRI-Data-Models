@@ -1,0 +1,53 @@
+T3	Protein 0 30	Dopamine D4-like binding sites
+T4	Chemical 85 100	[3H]nemonapride
+T6	Protein 204 225	D4-like binding sites
+T7	Protein 260 277	D4-like receptors
+T11	Protein 279 308	[3H]nemonapride binding sites
+T13	Protein 378 407	[3H]nemonapride binding sites
+T15	Chemical 438 447	clozapine
+T16	Chemical 456 466	raclopride
+T18	Biological_Activity 526 536	antagonist
+T19	Biological_Activity 580 590	antagonist
+T20	Chemical 591 600	MDL100907
+R2	Associated_With Arg1:T20 Arg2:T19	
+T21	Chemical 608 622	[3H]ketanserin
+T22	Biological_Activity 635 641	ligand
+R4	Associated_With Arg1:T21 Arg2:T22	
+T23	Chemical 643 654	nemonapride
+T24	Species 680 686	monkey
+T25	Species 713 718	human
+T27	Protein 733 749	5-HT2A receptors
+T28	Species 774 777	rat
+T29	Protein 778 787	receptors
+T32	Protein 867 888	D4-like binding sites
+T33	Chemical 900 915	[3H]nemonapride
+T36	Protein 1005 1021	5-HT2A receptors
+T38	Protein 972 974	D4
+#2	AnnotatorNotes T38	Implied at end of sentence
+T39	Chemical 1057 1068	nemonapride
+T40	Species 1073 1080	primate
+#3	AnnotatorNotes T40	Species class
+T41	Protein 1081 1096	5-HT2A receptor
+T43	Chemical 1159 1174	[3H]nemonapride
+T44	Protein 1198 1216	D4-like receptors.
+T1	Species 47 52	human
+T46	Species 142 147	human
+T47	Species 316 332	nonhuman primate
+T5	Chemical 523 537	D4 antagonists
+T8	Species 919 936	nonhuman primates
+T9	Protein 131 133	D4
+T10	Protein 573 579	5-HT2A
+R1	Binds_With Arg1:T4 Arg2:T3	
+R3	Binds_With Arg1:T15 Arg2:T13	
+R10	Binds_With Arg1:T20 Arg2:T13	
+R11	Binds_With Arg1:T20 Arg2:T10	
+T2	Protein 628 634	5-HT2A
+R12	Binds_With Arg1:T21 Arg2:T2	
+R6	Binds_With Arg1:T23 Arg2:T29	
+R5	Binds_With Arg1:T23 Arg2:T27	
+R7	Binds_With Arg1:T33 Arg2:T32	
+R8	Binds_With Arg1:T39 Arg2:T41	
+R9	Binds_With Arg1:T43 Arg2:T44	
+T12	Biological_Activity 484 491	binding
+T14	Chemical 468 483	[3H]nemonapride
+R13	Associated_With Arg1:T14 Arg2:T12	

@@ -1,0 +1,13 @@
+T1	Disease 80 95	cancer diseases
+T2	Disease 840 846	cancer
+T3	Disease 852 867	atherosclerosis
+T4	Plant 0 5	Olive
+T5	Plant 351 356	olive
+T6	Plant 1266 1271	olive
+T7	Plant 1413 1418	olive
+T8	Treatment_of_disease 25 35	protective
+E1	Treatment_of_disease:T8 Cause:T4 Theme:T1
+T9	Plant 242 248	oli ve
+T10	Plant 435 444	sunflower
+T11	Disease 947 959	inflammation
+T12	Disease 1013 1023	DNA damage

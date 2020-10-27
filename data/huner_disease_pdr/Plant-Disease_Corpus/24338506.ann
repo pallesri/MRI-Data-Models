@@ -1,0 +1,16 @@
+T1	Disease 24 40	burden of cancer
+T2	Disease 98 104	cancer
+T3	Disease 191 197	cancer
+T4	Disease 590 596	cancer
+T5	Disease 781 787	cancer
+T6	Disease 936 943	tumours
+T7	Disease 963 991	colorectal and liver cancers
+T8	Disease 1104 1110	cancer
+T9	Disease 1152 1159	tumours
+T10	Disease 1285 1302	colorectal cancer
+T11	Plant 920 927	tobacco
+T12	Plant 1136 1143	tobacco
+T13	Cause_of_disease 928 935	related
+E1	Cause_of_disease:T13 Theme:T6 Cause:T11 Theme2:T7
+T14	Cause_of_disease 1144 1151	related
+E2	Cause_of_disease:T14 Theme:T9 Cause:T12

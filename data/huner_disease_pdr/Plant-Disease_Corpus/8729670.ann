@@ -1,0 +1,27 @@
+T1	Disease 132 149	allergic diseases
+T2	Disease 1114 1123	hay fever
+T3	Disease 1135 1141	asthma
+T4	Disease 1162 1171	hay fever
+T5	Disease 1176 1182	asthma
+T6	Disease 1233 1242	hay fever
+T7	Disease 1297 1313	bronchial asthma
+T8	Disease 1652 1661	hay fever
+T9	Disease 1933 1939	asthma
+T11	Plant 12 17	Pecan
+T13	Plant 197 202	pecan
+T15	Plant 271 276	pecan
+T17	Plant 372 377	pecan
+T18	Plant 717 722	pecan
+T20	Plant 822 827	pecan
+T22	Plant 1035 1040	pecan
+T25	Plant 1084 1089	pecan
+T26	Plant 1190 1195	pecan
+T28	Plant 1411 1416	pecan
+T30	Plant 1478 1483	pecan
+T32	Plant 1558 1563	Pecan
+T35	Plant 1709 1714	pecan
+T36	Plant 1784 1789	olive
+T37	Plant 1794 1801	cypress
+T38	Plant 1860 1865	pecan
+T10	Cause_of_disease 1220 1229	incidence
+E1	Cause_of_disease:T10 Theme:T6 Cause:T26

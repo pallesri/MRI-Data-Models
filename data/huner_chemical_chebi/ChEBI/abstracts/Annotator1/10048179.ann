@@ -1,0 +1,14 @@
+T1	Chemical 25 35	gliclazide
+T2	Chemical 37 110	N-[(perhydrocyclopenta [c]pyrrol-2-yl)aminocarbonyl]-p-toluenesulfonamide
+T3	Biological_Activity 150 162	hypoglycemic
+T4	Chemical 304 313	molecules
+#1	AnnotatorNotes T4	Very high level term - not important
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T3	
+T5	Spectral_Data 4 21	crystal structure
+#2	AnnotatorNotes T5	Presumably from x-ray data
+R3	Associated_With Arg1:T1 Arg2:T5	
+R4	Associated_With Arg1:T2 Arg2:T5	
+T6	Chemical 188 197	molecules
+T7	Chemical 380 385	amino
+T8	Chemical 386 387	H

@@ -1,0 +1,380 @@
+T1	Chemical 1 18	l -cis  Diltiazem
+T2	Chemical 38 47	diltiazem
+T3	Chemical 49 66	d -cis  diltiazem
+T4	Chemical 88 92	Ca2+
+T5	Biological_Activity 102 110	blocking
+T6	Chemical 125 134	diltiazem
+R1	Associated_With Arg1:T1 Arg2:T5	
+R2	Associated_With Arg1:T2 Arg2:T5	
+R3	Associated_With Arg1:T3 Arg2:T5	
+T7	Chemical 158 175	l -cis  Diltiazem
+T8	Chemical 310 327	l -cis  diltiazem
+T9	Chemical 337 346	diltiazem
+T10	Protein 88 101	Ca2+  channel
+T11	Protein 361 386	cGMP-gated cation channel
+T12	Chemical 507 524	l -cis  diltiazem
+T13	Chemical 580 597	l -cis  diltiazem
+T14	Biological_Activity 674 682	inhibits
+R4	Associated_With Arg1:T13 Arg2:T14	
+T15	Chemical 714 725	fatty acids
+T16	Species 772 775	rat
+T17	Chemical 881 898	l -cis  diltiazem
+T18	Species 967 973	rabbit
+T19	Chemical 1019 1036	l -cis  diltiazem
+T20	Protein 1060 1073	Ca2+  channel
+T21	Biological_Activity 1074 1082	blocking
+R5	Associated_With Arg1:T19 Arg2:T21	
+T22	Chemical 1095 1104	diltiazem
+R6	Associated_With Arg1:T22 Arg2:T21	
+T23	Chemical 1133 1150	l -cis  diltiazem
+T24	Biological_Activity 1151 1159	protects
+R7	Associated_With Arg1:T23 Arg2:T24	
+T25	Biological_Activity 348 356	inhibits
+R8	Associated_With Arg1:T8 Arg2:T25	
+R9	Binds_With Arg1:T8 Arg2:T11	
+R10	Binds_With Arg1:T6 Arg2:T10	
+R11	Binds_With Arg1:T1 Arg2:T10	
+R12	Binds_With Arg1:T22 Arg2:T20	
+T26	Protein 1224 1237	Ca2+  channel
+T27	Chemical 1294 1311	l -cis  diltiazem
+T28	Species 1369 1375	rabbit
+T29	Chemical 1407 1411	Ca2+
+T30	Chemical 1731 1748	l -cis  diltiazem
+T31	Biological_Activity 1765 1775	protective
+R13	Associated_With Arg1:T30 Arg2:T31	
+T32	Biological_Activity 1859 1869	metabolism
+T33	Chemical 2016 2019	ATP
+T34	Chemical 2071 2075	Ca2+
+T35	Chemical 2186 2227	carbonyl cyanide m -chrolophenylhydrazone
+T36	Chemical 2229 2233	CCCP
+T37	Chemical 2286 2290	CCCP
+T38	Chemical 2325 2342	l -cis  diltiazem
+T39	Chemical 2366 2370	Ca2+
+T40	Chemical 2402 2406	Ca2+
+T41	Biological_Activity 2430 2440	inhibition
+T42	Species 2474 2484	guinea pig
+T43	Protein 2545 2558	Ca2+  channel
+T44	Chemical 2572 2575	Na+
+T45	Chemical 2577 2581	Ca2+
+T46	Chemical 2632 2636	Ca2+
+T47	Species 2792 2811	Hartley guinea pigs
+T48	Chemical 2927 2947	sodium pentobarbital
+T49	Chemical 3081 3096	Tyrode solution
+T50	Chemical 3070 3074	Ca2+
+T51	Protein 3150 3161	collagenase
+T52	Protein 3265 3271	enzyme
+T53	Chemical 3308 3310	K+
+T54	Chemical 3313 3317	Ca2+
+T55	Chemical 3334 3344;3350 3358	Kraftbrühe solution
+T56	Chemical 3346 3348;3350 3358	KB solution
+T57	Chemical 3522 3533	KB solution
+T58	Chemical 3594 3598	Ca2+
+T59	Chemical 3650 3654	NaCl
+T60	Chemical 3660 3663	KCl
+T61	Chemical 3669 3676	MgCl2  
+T62	Chemical 3679 3686	glucose
+T63	Chemical 3692 3697	HEPES
+T64	Chemical 3723 3727	tris
+T65	Chemical 3737 3752	Tyrode solution
+T66	Chemical 3779 3786	CaCl2  
+T67	Chemical 3799 3803	Ca2+
+T68	Protein 3824 3835	collagenase
+T69	Protein 3870 3881	collagenase
+T70	Protein 3896 3911	Collagenase S-1
+T71	Protein 3959 3970	collagenase
+T72	Chemical 4006 4013	CaCl2  
+T73	Chemical 4016 4020	Ca2+
+T74	Chemical 4027 4042	Tyrode solution
+T75	Protein 4060 4071	collagenase
+T76	Protein 4084 4097	collagenase A
+T77	Protein 4131 4139	protease
+T78	Protein 4156 4172	protease type IX
+T79	Chemical 4204 4208	Ca2+
+T80	Chemical 4215 4230	Tyrode solution
+T81	Chemical 4236 4247	KB solution
+T82	Chemical 4264 4283	potassium glutamate
+T83	Chemical 4288 4291	KCl
+T84	Chemical 4296 4307	oxalic acid
+T85	Chemical 4312 4319	KH2 PO4
+T86	Chemical 4325 4332	taurine
+T87	Chemical 4337 4344	glucose
+T88	Chemical 4350 4355	HEPES
+T89	Chemical 4359 4363	EGTA
+T90	Chemical 4391 4394	KOH
+T91	Chemical 4439 4445	fura-2
+T92	Chemical 4498 4502	Ca2+
+T93	Chemical 4530 4534	Ca2+
+T94	Chemical 4563 4588	fura-2/acetoxymethylester
+T95	Chemical 4590 4599	fura-2/AM
+T96	Chemical 4612 4621	Fura-2/AM
+T97	Chemical 4642 4659	dimethylsulfoxide
+T98	Chemical 4661 4665	DMSO
+T99	Chemical 4683 4694	KB solution
+T100	Chemical 4917 4923	fura-2
+T101	Chemical 4998 5013	Tyrode solution
+T102	Chemical 5032 5036	Ca2+
+T103	Chemical 5444 5448	CCCP
+T104	Chemical 6836 6840	CCCP
+T105	Chemical 6797 6801	CCCP
+T106	Chemical 6961 6965	CCCP
+T107	Chemical 7533 7537	CCCP
+T108	Chemical 7479 7483	CCCP
+T109	Chemical 7931 7935	CCCP
+T110	Chemical 7819 7823	CCCP
+T111	Chemical 9220 9224	CCCP
+T112	Chemical 10618 10622	CCCP
+T113	Chemical 10813 10817	CCCP
+T114	Chemical 10780 10784	CCCP
+T115	Chemical 11133 11137	CCCP
+T116	Chemical 11569 11573	CCCP
+T117	Chemical 11813 11817	CCCP
+T118	Chemical 12385 12389	CCCP
+T119	Chemical 12843 12847	CCCP
+T120	Chemical 13215 13219	CCCP
+T121	Chemical 13765 13769	CCCP
+T122	Chemical 14695 14699	CCCP
+T123	Chemical 15319 15323	CCCP
+T124	Chemical 18276 18280	CCCP
+T125	Chemical 5880 5884	Ca2+
+T126	Chemical 6243 6247	Ca2+
+T127	Chemical 6574 6578	Ca2+
+T128	Chemical 6779 6783	Ca2+
+T129	Chemical 7092 7096	Ca2+
+T130	Chemical 7233 7237	Ca2+
+T131	Chemical 7330 7334	Ca2+
+T132	Chemical 7568 7572	Ca2+
+T133	Chemical 7790 7794	Ca2+
+T134	Chemical 7890 7894	Ca2+
+T135	Chemical 8666 8670	Ca2+
+T136	Chemical 8303 8307	Ca2+
+T137	Chemical 8719 8723	Ca2+
+T138	Chemical 9070 9073	Na+
+T139	Chemical 9075 9079	Ca2+
+T140	Chemical 9339 9343	Ca2+
+T141	Chemical 10456 10460	Ca2+
+T142	Chemical 10245 10249	Ca2+
+T143	Chemical 10560 10564	Ca2+
+T144	Chemical 10639 10643	Ca2+
+T145	Chemical 10739 10743	Ca2+
+T146	Chemical 10820 10824	Ca2+
+T147	Chemical 10957 10961	Ca2+
+T148	Chemical 11171 11175	Ca2+
+T149	Chemical 11285 11289	Ca2+
+T150	Chemical 11419 11423	Ni2+
+T151	Chemical 11481 11484	Na+
+T152	Chemical 11485 11490	/Ca2+
+T153	Chemical 11024 11028	Ca2+
+T154	Chemical 11035 11039	Ca2+
+T155	Chemical 11046 11052	Tyrode
+T156	Chemical 11076 11082	Tyrode
+T157	Chemical 11543 11547	Ca2+
+T158	Chemical 11628 11632	Ca2+
+T159	Chemical 11730 11734	Ca2+
+T160	Chemical 11778 11782	Ca2+
+T161	Chemical 11917 11921	Ca2+
+T162	Chemical 11864 11868	Ca2+
+T163	Chemical 11963 11967	Ca2+
+T164	Chemical 12039 12043	Ca2+
+T165	Chemical 12065 12068	Na+
+T166	Chemical 12070 12074	Ca2+
+T167	Chemical 12594 12598	Ca2+
+T168	Chemical 12273 12278	[Ca2+
+T169	Chemical 12487 12491	Ca2+
+T170	Chemical 12694 12698	Ca2+
+T171	Chemical 13067 13071	Ca2+
+T172	Chemical 13323 13327	Ca2+
+T173	Chemical 13447 13451	Ca2+
+T174	Chemical 13545 13549	Ca2+
+T175	Chemical 13957 13961	Ca2+
+T176	Chemical 13619 13623	Ca2+
+T177	Chemical 14001 14004	Na+
+T178	Chemical 14006 14010	Ca2+
+T179	Chemical 14164 14168	Ca2+
+T180	Chemical 14330 14334	Ca2+
+T181	Chemical 14383 14387	Ca2+
+T182	Chemical 14394 14409	Tyrode solution
+T183	Chemical 14722 14737	Tyrode solution
+T184	Chemical 14567 14571	Ca2+
+T185	Chemical 14705 14709	Ca2+
+T186	Chemical 14647 14651	Ca2+
+T187	Chemical 14745 14749	Ca2+
+T188	Chemical 14948 14952	Ca2+
+T189	Chemical 14781 14785	Ni2+
+T190	Chemical 14790 14798	KB-R7943
+T191	Chemical 14828 14831	Na+
+T192	Chemical 14833 14837	Ca2+
+T193	Chemical 15003 15006	Na+
+T194	Chemical 15008 15012	Ca2+
+T195	Chemical 15071 15075	Ca2+
+T196	Chemical 15153 15157	Ca2+
+T197	Chemical 15266 15270	Ca2+
+T198	Chemical 15434 15438	Ca2+
+T199	Chemical 15622 15626	Ca2+
+T200	Chemical 16094 16098	Ca2+
+T201	Chemical 15836 15840	Ca2+
+T202	Chemical 16502 16506	Ca2+
+T203	Chemical 16942 16946	Ca2+
+T204	Chemical 17138 17142	Ca2+
+T205	Chemical 17262 17266	Ca2+
+T206	Chemical 17406 17409	Na+
+T207	Chemical 17411 17415	Ca2+
+T208	Chemical 17334 17338	Ca2+
+T209	Chemical 16653 16657	Ca2+
+T210	Chemical 16806 16810	Ca2+
+T211	Chemical 17182 17186	Ca2+
+T212	Chemical 17555 17558	Na+
+T213	Chemical 17576 17579	Na+
+T214	Species 17625 17635	guinea pig
+T215	Chemical 17688 17691	Na+
+T216	Chemical 18419 18423	Ca2+
+T217	Chemical 18579 18583	Ca2+
+T218	Chemical 5618 5633	Tyrode solution
+T219	Chemical 5770 5778	Caffeine
+T220	Chemical 5948 5956	caffeine
+T221	Chemical 6745 6760	Tyrode solution
+T222	Biological_Activity 6608 6618	inhibition
+T223	Biological_Activity 6727 6737	inhibition
+T224	Chemical 7040 7043	ATP
+T225	Chemical 7244 7259	Tyrode solution
+T226	Biological_Activity 7274 7284	inhibition
+T227	Biological_Activity 7401 7411	inhibition
+T228	Chemical 7948 7963	Tyrode solution
+T229	Biological_Activity 8087 8097	inhibition
+T230	Chemical 8432 8441	ionomycin
+T231	Chemical 8463 8478	Tyrode solution
+T232	Chemical 8532 8536	EGTA
+T233	Chemical 8552 8561	ionomycin
+T234	Chemical 8573 8588	Tyrode solution
+T235	Chemical 8962 8979	l -cis  Diltiazem
+T236	Chemical 8984 8993	diltiazem
+T237	Biological_Activity 9057 9066	inhibitor
+T238	Chemical 9092 9163	2-[2-[4-(4-nitrobenzyloxy) phenyl] ethyl] isothiourea methanesulphonate
+R14	Associated_With Arg1:T238 Arg2:T237	
+T239	Chemical 9165 9173	KB-R7943
+R15	Associated_With Arg1:T239 Arg2:T237	
+T240	Biological_Activity 9415 9425	inhibition
+T241	Chemical 10286 10294	caffeine
+T242	Chemical 10414 10422	caffeine
+T243	Biological_Activity 10478 10488	inhibition
+T244	Biological_Activity 11373 11383	inhibition
+T245	Chemical 11436 11444	KB-R7943
+T246	Biological_Activity 11463 11473	inhibitors
+R16	Associated_With Arg1:T150 Arg2:T246	
+R17	Associated_With Arg1:T245 Arg2:T246	
+T247	Chemical 11690 11702	nitrendipine
+T248	Chemical 11714 11729	dihydropyridine
+T249	Protein 11730 11743	Ca2+  channel
+T250	Biological_Activity 11744 11751	blocker
+R18	Associated_With Arg1:T247 Arg2:T250	
+T251	Chemical 11819 11830	Nicardipine
+T252	Chemical 11848 11863	dihydropyridine
+T253	Protein 11864 11877	Ca2+  channel
+T254	Biological_Activity 11878 11885	blocker
+R19	Associated_With Arg1:T251 Arg2:T254	
+T255	Protein 12032 12053	L-type Ca2+  channels
+T256	Biological_Activity 12136 12146	inhibition
+T257	Chemical 12163 12172	diltiazem
+T258	Chemical 12184 12201	l -cis  diltiazem
+T259	Chemical 12219 12236	l -cis  diltiazem
+T260	Chemical 12414 12423	diltiazem
+T261	Chemical 12541 12550	diltiazem
+T262	Chemical 12647 12664	l -cis  Diltiazem
+T263	Biological_Activity 12977 12987	inhibition
+T264	Chemical 13104 13121	l -cis  diltiazem
+T265	Chemical 13131 13140	diltiazem
+T266	Chemical 13150 13154	Ni2+
+T267	Chemical 13167 13175	KB-R7943
+T268	Chemical 13357 13366	diltiazem
+T269	Chemical 13465 13477	nitrendipine
+T270	Chemical 13490 13501	nicardipine
+T271	Biological_Activity 13641 13651	inhibition
+T272	Species 13676 13686	guinea pig
+T273	Chemical 13749 13752	ATP
+T274	Biological_Activity 13784 13793	inhibitor
+R20	Associated_With Arg1:T121 Arg2:T274	
+T275	Biological_Activity 13915 13925	inhibition
+T276	Biological_Activity 14235 14245	inhibition
+T277	Chemical 14289 14306	l -cis  diltiazem
+T278	Biological_Activity 14604 14614	inhibition
+T279	Biological_Activity 14811 14820	inhibitor
+R21	Associated_With Arg1:T190 Arg2:T279	
+R22	Associated_With Arg1:T189 Arg2:T279	
+T280	Chemical 14876 14888	nitrendipine
+T281	Chemical 14892 14903	nicardipine
+T282	Chemical 15045 15060	dihydropyridine
+T283	Protein 15071 15084	Ca2+  channel
+T284	Chemical 15132 15149	l -cis  diltiazem
+T285	Species 15171 15181	guinea pig
+T286	Chemical 15213 15230	l -cis  diltiazem
+T287	Chemical 15235 15244	diltiazem
+T288	Chemical 15371 15388	l -cis  diltiazem
+T289	Chemical 15393 15402	diltiazem
+T290	Chemical 15414 15425	veratridine
+T291	Species 15482 15485	rat
+T292	Chemical 15536 15553	l -cis  diltiazem
+T293	Biological_Activity 15611 15621	inhibiting
+T294	Chemical 15784 15801	l -cis  diltiazem
+T295	Chemical 15806 15815	diltiazem
+T296	Biological_Activity 15816 15823	protect
+R23	Associated_With Arg1:T294 Arg2:T296	
+R24	Associated_With Arg1:T295 Arg2:T296	
+T297	Biological_Activity 15872 15882	inhibition
+T298	Chemical 15990 16002	nitrendipine
+T299	Chemical 16007 16018	nicardipine
+T300	Protein 16087 16107	L-type Ca2+  channel
+T301	Biological_Activity 16108 16116	blocking
+T302	Chemical 16219 16236	l -cis  diltiazem
+T303	Chemical 16256 16265	diltiazem
+T304	Chemical 16304 16314	phosphates
+T305	Species 16361 16371	guinea pig
+T306	Chemical 16443 16452	diltiazem
+T307	Chemical 16576 16585	diltiazem
+T308	Chemical 16770 16779	diltiazem
+T309	Chemical 16921 16938	l -cis  diltiazem
+T310	Biological_Activity 16970 16980	inhibition
+T311	Biological_Activity 17074 17083	inhibited
+T312	Chemical 17092 17096	Ni2+
+T313	Chemical 17102 17110	KB-R7943
+R25	Associated_With Arg1:T312 Arg2:T311	
+R26	Associated_With Arg1:T313 Arg2:T311	
+T314	Protein 17175 17195	L-type Ca2+  channel
+T315	Chemical 17246 17261	dihydropyridine
+T316	Protein 17262 17275	Ca2+  channel
+T317	Biological_Activity 2559 2567	blockers
+T318	Biological_Activity 2593 2601	blockers
+T319	Biological_Activity 17276 17283	blocker
+T320	Chemical 17286 17298	nitrendipine
+T321	Chemical 17303 17314	nicardipine
+R27	Associated_With Arg1:T320 Arg2:T319	
+R28	Associated_With Arg1:T321 Arg2:T319	
+T322	Biological_Activity 17388 17398	inhibition
+T323	Biological_Activity 17464 17474	inhibition
+T324	Biological_Activity 17611 17621	inhibition
+T325	Biological_Activity 17726 17736	inhibition
+T326	Chemical 17813 17830	l -cis  diltiazem
+T327	Biological_Activity 17831 17840	inhibited
+T328	Chemical 17841 17852	veratridine
+T329	Chemical 17861 17864	Na+
+R29	Associated_With Arg1:T326 Arg2:T327	
+T330	Species 17878 17881	rat
+T331	Chemical 17942 17945	Na+
+T332	Species 18031 18032	a
+T333	Chemical 18092 18095	Na+
+T334	Protein 18092 18105	Na+  channels
+T335	Chemical 18129 18132	Na+
+T336	Chemical 18194 18211	l -cis  diltiazem
+T337	Chemical 18216 18225	diltiazem
+T338	Chemical 18377 18394	l -cis  diltiazem
+T339	Chemical 18399 18408	diltiazem
+T340	Chemical 18453 18456	Na+
+T341	Chemical 18546 18563	l -cis  diltiazem
+T342	Biological_Activity 18614 18624	inhibition
+T343	Species 18649 18659	guinea pig
+T344	Biological_Activity 18680 18690	protective
+T345	Chemical 18701 18718	l -cis  diltiazem
+R30	Associated_With Arg1:T345 Arg2:T344	
+T346	Chemical 18780 18797	l -cis  diltiazem
+T347	Biological_Activity 18845 18855	protection
+T348	Chemical 19192 19209	l -cis  diltiazem
+T349	Chemical 19214 19223	diltiazem
+T350	Chemical 19262 19271	KB-R 7943

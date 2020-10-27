@@ -1,0 +1,69 @@
+T1	Chemical 0 18	Phenylacetic acids
+T2	Chemical 113 126	phenylalanine
+T3	Chemical 83 102	aromatic substrates
+T4	Biological_Activity 61 71	metabolism
+T6	Species 158 175	Thauera aromatica
+T7	Chemical 176 189	phenylacetate
+T9	Chemical 255 266	benzoyl-CoA
+T10	Metabolite 255 266	benzoyl-CoA
+T11	Chemical 289 305	phenylacetyl-CoA
+T12	Metabolite 289 305	phenylacetyl-CoA
+T13	Chemical 310 326	phenylglyoxylate
+T14	Metabolite 310 326	phenylglyoxylate
+T15	Chemical 328 342	benzoylformate
+T16	Metabolite 328 342	benzoylformate
+R1	Metabolite_Of Arg1:T10 Arg2:T7	
+R2	Metabolite_Of Arg1:T12 Arg2:T7	
+R3	Metabolite_Of Arg1:T14 Arg2:T7	
+R4	Metabolite_Of Arg1:T16 Arg2:T7	
+T17	Protein 349 355	enzyme
+T19	Chemical 402 418	phenylacetyl-CoA
+T20	Metabolite 402 418	phenylacetyl-CoA
+T21	Species 447 456	bacterium
+T22	Protein 475 481	enzyme
+T24	Chemical 517 533	phenylacetyl-CoA
+T25	Chemical 538 545	quinone
+T26	Chemical 550 553	H2O
+T27	Chemical 558 574	phenylglyoxylate
+T28	Chemical 579 586	quinone
+T29	Chemical 587 589	H2
+T30	Chemical 592 597	CoASH
+T31	Metabolite 558 574	phenylglyoxylate
+T32	Metabolite 517 533	phenylacetyl-CoA
+R5	Metabolite_Of Arg1:T20 Arg2:T7	
+T33	Chemical 599 615	Phenylacetyl-CoA
+T34	Metabolite 599 615	Phenylacetyl-CoA
+T35	Protein 599 639	Phenylacetyl-CoA:acceptor oxidoreductase
+T36	Chemical 660 670	molybdenum
+T37	Chemical 671 675	iron
+T38	Chemical 676 682	sulfur
+T39	Protein 660 691	molybdenum-iron-sulfur protein.
+T40	Chemical 764 774	Ubiquinone
+T41	Biological_Activity 813 821	acceptor
+R6	Associated_With Arg1:T40 Arg2:T41	
+T42	Chemical 831 837	oxygen
+T43	Chemical 887 892	water
+T44	Protein 898 905	protein
+T45	Chemical 938 940	Mo
+T46	Chemical 949 951	Fe
+T47	Chemical 964 968	acid
+T48	Chemical 976 982	sulfur
+T49	Protein 994 1007	native enzyme
+T50	Chemical 1054 1073	Phenylglyoxylyl-CoA
+T51	Metabolite 1054 1073	Phenylglyoxylyl-CoA
+T52	Chemical 1083 1095	mandelyl-CoA
+T53	Protein 1138 1144	enzyme
+T55	Chemical 1210 1220	coenzyme A
+T56	Chemical 1226 1245	phenylglyoxylyl-CoA
+T57	Chemical 1259 1275	phenylacetyl-CoA
+R7	Metabolite_Of Arg1:T51 Arg2:T7	
+T58	Metabolite 1226 1245	phenylglyoxylyl-CoA
+T59	Metabolite 1259 1275	phenylacetyl-CoA
+T60	Protein 1281 1287	enzyme
+T61	Chemical 1341 1348	cyanide
+T62	Chemical 1391 1397	oxygen
+T63	Protein 1423 1438	molybdoproteins
+T64	Protein 1474 1480	enzyme
+T65	Biological_Activity 1507 1516	oxidation
+T66	Chemical 1580 1586	oxygen
+T5	Biological_Activity 389 398	oxidation

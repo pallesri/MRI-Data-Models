@@ -1,0 +1,10 @@
+T1	Species 57 76	Cyanophora paradoxa
+T2	Chemical 98 111	peptidoglycan
+T3	Chemical 150 168	N-acetylputrescine
+T4	Chemical 372 379	lipid I
+T5	Chemical 387 395	lipid II
+T6	Chemical 259 272	peptidoglycan
+T7	Chemical 237 242	lipid
+T8	Biological_Activity 273 285	biosynthesis
+T9	Biological_Activity 301 317	putrescinylation
+T10	Biological_Activity 333 344	acetylation

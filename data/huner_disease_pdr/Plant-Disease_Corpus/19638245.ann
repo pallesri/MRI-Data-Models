@@ -1,0 +1,27 @@
+T1	Disease 134 140	cancer
+T2	Disease 428 434	cancer
+T3	Disease 540 547	cancers
+T4	Disease 629 635	cancer
+T5	Disease 897 904	cancers
+T6	Disease 1311 1331	oropharyngeal cancer
+T7	Disease 1365 1380	prostate cancer
+T8	Disease 1695 1710	prostate cancer
+T10	Disease 1861 1868	cancers
+T11	Disease 1991 2000	US cancer
+T13	Disease 2246 2266	oropharyngeal cancer
+T14	Disease 2408 2415	cancers
+T15	Plant 44 51	tobacco
+T16	Plant 122 129	tobacco
+T17	Plant 233 240	tobacco
+T18	Plant 448 455	tobacco
+T19	Plant 522 529	tobacco
+T20	Plant 1016 1023	tobacco
+T21	Plant 1897 1904	tobacco
+T22	Plant 2061 2068	tobacco
+T23	Plant 2137 2144	tobacco
+T24	Plant 2204 2211	tobacco
+T25	Plant 2310 2317	tobacco
+T26	Plant 2387 2394	tobacco
+T9	Disease 1836 1848	kidney cance
+T12	Cause_of_disease 2270 2277	evident
+E1	Cause_of_disease:T12 Theme:T13 Cause:T25

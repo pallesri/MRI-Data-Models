@@ -1,0 +1,11 @@
+T1	Chemical 25 35	gliclazide
+T2	Chemical 37 110	N-[(perhydrocyclopenta [c]pyrrol-2-yl)aminocarbonyl]-p-toluenesulfonamide
+T3	Biological_Activity 150 162	hypoglycemic
+T4	Chemical 355 363	hydrogen
+T5	Chemical 386 393	H atoms
+T6	Chemical 380 385	amino
+#1	AnnotatorNotes T6	Chemical class
+R1	Associated_With Arg1:T2 Arg2:T3	
+R2	Associated_With Arg1:T1 Arg2:T3	
+T7	Chemical 188 197	molecules
+T8	Chemical 150 168	hypoglycemic agent

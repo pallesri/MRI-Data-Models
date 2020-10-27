@@ -1,0 +1,14 @@
+T1	Chemical 94 107	benzoic acids
+#1	AnnotatorNotes T1	Chemical class
+T2	Species 160 163	rat
+T3	Chemical 359 372	benzoic acids
+#2	AnnotatorNotes T3	Chemical class
+T4	Chemical 616 623	glycine
+T6	Chemical 639 661	glucuronide conjugates
+#3	AnnotatorNotes T6	Chemical class
+T7	Metabolite 616 623	glycine
+T8	Metabolite 639 661	glucuronide conjugates
+R1	Isolated_From Arg1:T7 Arg2:T2	
+R2	Isolated_From Arg1:T8 Arg2:T2	
+T9	Metabolite 94 107	benzoic acids
+T10	Metabolite 145 156	metabolites

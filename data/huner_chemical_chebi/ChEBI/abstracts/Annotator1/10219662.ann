@@ -1,0 +1,41 @@
+T1	Chemical 76 93	prolyl dipeptides
+T2	Chemical 95 98	Pro
+T3	Species 103 106	Hyp
+T4	Chemical 135 143	analytes
+T5	Chemical 163 230	4-(5,6-dimethoxy-2-phthalimidinyl)-2-methoxyphenylsulfonyl chloride
+T6	Chemical 263 274	derivatives
+T7	Chemical 459 476	prolyl dipeptides
+T8	Chemical 478 481	Pro
+T9	Chemical 486 489	Hyp
+T10	Metabolite 76 93	prolyl dipeptides
+T11	Metabolite 95 98	Pro
+T12	Metabolite 103 106	Hyp
+T13	Metabolite 459 476	prolyl dipeptides
+T14	Metabolite 478 481	Pro
+T15	Metabolite 486 489	Hyp
+T16	Chemical 557 573	o-phthalaldehyde
+T17	Chemical 668 675	Pro-Hyp
+T18	Chemical 677 684	Pro-Gly
+T19	Chemical 689 696	Pro-Pro
+T20	Metabolite 668 675	Pro-Hyp
+T21	Metabolite 677 684	Pro-Gly
+T22	Metabolite 689 696	Pro-Pro
+T23	Metabolite 716 733	prolyl dipeptides
+T24	Chemical 716 733	prolyl dipeptides
+T25	Species 916 921	human
+T26	Metabolite 867 874	Pro-Hyp
+T27	Metabolite 876 883	Pro-Gly
+T28	Metabolite 885 892	Pro-Pro
+T29	Metabolite 894 897	Pro
+T30	Metabolite 902 905	Hyp
+T31	Chemical 867 874	Pro-Hyp
+T32	Chemical 876 883	Pro-Gly
+T33	Chemical 885 892	Pro-Pro
+T34	Chemical 894 897	Pro
+T35	Chemical 902 905	Hyp
+R1	Isolated_From Arg1:T26 Arg2:T25	
+R2	Isolated_From Arg1:T27 Arg2:T25	
+R3	Isolated_From Arg1:T28 Arg2:T25	
+R4	Isolated_From Arg1:T29 Arg2:T25	
+R5	Isolated_From Arg1:T30 Arg2:T25	
+T36	Chemical 1019 1029	creatinine

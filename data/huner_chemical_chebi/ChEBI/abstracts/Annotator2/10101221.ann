@@ -1,0 +1,64 @@
+T1	Chemical 0 9	Manoalide
+T2	Biological_Activity 22 31	analgesic
+T3	Biological_Activity 36 52	antiinflammatory
+T4	Chemical 53 66	sesterterpene
+#1	AnnotatorNotes T4	Chemical class
+T5	Species 91 104	marine sponge
+R1	Associated_With Arg1:T1 Arg2:T2	
+R2	Associated_With Arg1:T1 Arg2:T3	
+T6	Biological_Activity 110 126	antiinflammatory
+T7	Chemical 139 148	manoalide
+T8	Biological_Activity 159 169	inhibition
+T9	Protein 173 177	PLA2
+T10	Chemical 219 225	lysine
+R4	Associated_With Arg1:T7 Arg2:T6	
+R5	Associated_With Arg1:T7 Arg2:T8	
+T11	Chemical 288 296	aldehyde
+T12	Chemical 337 346	manoalide
+#2	AnnotatorNotes T11	Chemical class
+T13	Chemical 359 367	aldehyde
+#3	AnnotatorNotes T13	Chemical class
+T14	Chemical 401 420	g-hydroxybutenolide
+T15	Chemical 455 473	cacospongionolides
+#4	AnnotatorNotes T15	Chemical class
+T16	Metabolite 455 473	cacospongionolides
+T17	Chemical 531 539	aldehyde
+#5	AnnotatorNotes T17	Chemical class
+T18	Biological_Activity 587 596	inhibitor
+T19	Protein 582 586	PLA2
+R7	Associated_With Arg1:T16 Arg2:T18	
+T20	Chemical 666 675	manoalide
+T22	Chemical 775 787	amino groups
+T23	Protein 791 795	PLA2
+T24	Chemical 796 802	lysine
+T25	Chemical 858 867;868 877	manoalide analogues
+T26	Species 902 917	marine sponges,
+T27	Biological_Activity 944 953	inhibitor
+T28	Protein 939 943	PLA2
+T29	Metabolite 0 9	Manoalide
+R3	Isolated_From Arg1:T29 Arg2:T5	
+R8	Associated_With Arg1:T29 Arg2:T2	
+R9	Associated_With Arg1:T29 Arg2:T3	
+T30	Metabolite 53 66	sesterterpene
+T32	Metabolite 139 148	manoalide
+R6	Associated_With Arg1:T32 Arg2:T6	
+R10	Associated_With Arg1:T32 Arg2:T8	
+T33	Metabolite 337 346	manoalide
+R13	Associated_With Arg1:T15 Arg2:T18	
+T21	Metabolite 666 675	manoalide
+T35	Biological_Activity 686 696	inhibition
+T36	Protein 681 685	PLA2
+T39	Metabolite 858 867;868 877	manoalide analogues
+R16	Isolated_From Arg1:T39 Arg2:T26	
+R17	Associated_With Arg1:T39 Arg2:T27	
+R18	Associated_With Arg1:T25 Arg2:T27	
+R11	Binds_With Arg1:T7 Arg2:T9	
+R12	Binds_With Arg1:T32 Arg2:T9	
+R14	Binds_With Arg1:T15 Arg2:T19	
+R15	Binds_With Arg1:T16 Arg2:T19	
+R19	Binds_With Arg1:T39 Arg2:T28	
+R20	Binds_With Arg1:T39 Arg2:T28	
+T31	Biological_Activity 200 207	binding
+R21	Associated_With Arg1:T32 Arg2:T31	
+R22	Associated_With Arg1:T7 Arg2:T31	
+T34	Biological_Activity 241 248	binding

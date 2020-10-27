@@ -1,0 +1,74 @@
+T1	Chemical 0 13	Retinaldehyde
+T2	Chemical 15 18	RAL
+T3	Chemical 43 51	retinoid
+#1	AnnotatorNotes T3	Chemical class
+T4	Chemical 74 87	retinoic acid
+T5	Chemical 89 91	RA
+T6	Chemical 127 134	retinol
+T7	Chemical 136 139	ROH
+T8	Chemical 182 196	retinyl esters
+#2	AnnotatorNotes T8	Chemical class
+T9	Chemical 218 227	vitamin A
+T10	Chemical 304 307	RAL
+T11	Chemical 386 388	RA
+T13	Biological_Activity 463 474	teratogenic
+T14	Biological_Activity 502 515	teratogenesis
+T15	Chemical 486 497	RAL isomers
+#3	AnnotatorNotes T15	Chemical class
+T16	Chemical 550 558	retinoid
+R1	Associated_With Arg1:T15 Arg2:T13	
+R2	Associated_With Arg1:T15 Arg2:T14	
+R3	Associated_With Arg1:T16 Arg2:T14	
+T17	Chemical 634 643	retinoids
+#4	AnnotatorNotes T17	Chemical class
+T18	Species 698 702	rats
+T20	Chemical 759 769;771 778;783 792	all-trans- 13-cis- 9-cis-RAL
+T21	Chemical 1008 1018;993 1002	13-cis-RAL all-trans
+T23	Chemical 918 927	retinoids
+#6	AnnotatorNotes T23	Chemical class
+#7	AnnotatorNotes T20	Linked to RAL
+#9	AnnotatorNotes T21	Linked to RAL
+T25	Chemical 1008 1018	13-cis-RAL
+T26	Chemical 1051 1059	9-cis-RA
+T27	Chemical 1061 1074	9,13-dicis-RA
+T28	Chemical 1080 1113	9-cis-retinoyl-beta-D-glucuronide
+T29	Chemical 1132 1141	9-cis-RAL
+T30	Chemical 1156 1168	all-trans-RA
+T31	Chemical 1362 1373	RAL isomers
+T32	Protein 1317 1324	enzymes
+#10	AnnotatorNotes T32	Protein class
+T33	Metabolite 0 13	Retinaldehyde
+T34	Metabolite 15 18	RAL
+T35	Metabolite 74 87	retinoic acid
+T36	Metabolite 89 91	RA
+T37	Metabolite 127 134	retinol
+T38	Metabolite 136 139	ROH
+T39	Metabolite 182 196	retinyl esters
+T40	Metabolite 218 227	vitamin A
+T41	Metabolite 634 643	retinoids
+R4	Isolated_From Arg1:T41 Arg2:T18	
+T42	Metabolite 1156 1168	all-trans-RA
+T43	Chemical 1174 1177	RAL
+R5	Metabolite_Of Arg1:T42 Arg2:T43	
+R6	Metabolite_Of Arg1:T35 Arg2:T1	
+R7	Metabolite_Of Arg1:T37 Arg2:T1	
+R8	Metabolite_Of Arg1:T39 Arg2:T7	
+T44	Metabolite 304 307	RAL
+T45	Metabolite 386 388	RA
+T12	Metabolite 486 497	RAL isomers
+T46	Metabolite 43 51	retinoid
+T47	Metabolite 550 558	retinoid
+T19	Metabolite 759 769;771 778;783 792	all-trans- 13-cis- 9-cis-RAL
+T22	Chemical 882 902	retinoid metabolites
+T24	Metabolite 882 902	retinoid metabolites
+T48	Metabolite 918 927	retinoids
+T49	Chemical 783 792	9-cis-RAL
+T50	Metabolite 783 792	9-cis-RAL
+T51	Metabolite 1051 1059	9-cis-RA
+T52	Metabolite 1061 1074	9,13-dicis-RA
+T53	Metabolite 1080 1113	9-cis-retinoyl-beta-D-glucuronide
+T54	Metabolite 1174 1177	RAL
+T55	Chemical 1250 1261	cis-isomers
+T56	Metabolite 1250 1261	cis-isomers
+T57	Biological_Activity 52 62	metabolism
+T58	Biological_Activity 269 279	metabolism

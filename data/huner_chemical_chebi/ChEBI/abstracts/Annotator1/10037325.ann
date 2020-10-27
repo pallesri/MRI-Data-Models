@@ -1,0 +1,27 @@
+T1	Chemical 48 71	diisopropylcarbodiimide
+T2	Chemical 73 76	DIC
+T3	Chemical 82 106	dicyclohexylcarbodiimide
+T4	Chemical 108 111	DCC
+T5	Biological_Activity 211 219	toxicity
+T7	Species 297 308	B6C3F1 mice
+T9	Chemical 568 571	DCC
+T10	Chemical 687 690	DIC
+T11	Chemical 811 814	DIC
+T12	Chemical 819 822	DCC
+T13	Species 831 840	F344 rats
+T14	Biological_Activity 999 1007	toxicity
+T15	Species 1015 1020	mouse
+T16	Chemical 1047 1050	DIC
+T17	Species 1185 1189	mice
+T18	Species 1194 1198	rats
+T19	Chemical 1395 1408	carbodiimides
+#1	AnnotatorNotes T19	Class of chemicals
+T21	Chemical 1599 1602	DIC
+T23	Species 1804 1808	mice
+T24	Chemical 1822 1825	DIC
+T25	Chemical 334 337	DIC
+T26	Species 771 775	mice
+R6	Associated_With Arg1:T11 Arg2:T14	
+R7	Associated_With Arg1:T12 Arg2:T14	
+T22	Biological_Activity 1760 1769	induction
+R2	Associated_With Arg1:T24 Arg2:T22	

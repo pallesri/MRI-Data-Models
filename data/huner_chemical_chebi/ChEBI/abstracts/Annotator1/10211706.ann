@@ -1,0 +1,71 @@
+T1	Chemical 37 55	glycosphingolipids
+T2	Chemical 37 55;6 18	glycosphingolipids sialosylated
+T3	Chemical 73 85	iso-neolacto
+T4	Species 110 117	porcine
+T5	Metabolite 37 55;6 18	glycosphingolipids sialosylated
+T6	Metabolite 37 55	glycosphingolipids
+R1	Isolated_From Arg1:T6 Arg2:T4	
+R2	Isolated_From Arg1:T5 Arg2:T4	
+T7	Protein 208 222	exoglycosidase
+T10	Protein 296 317;361 371	anti-Galalpha1-->3Gal antibodies
+T11	Protein 319 342;361 371	anti-type 2 lactosamine antibodies
+T12	Protein 347 371	anti-Lewis(x) antibodies
+T13	Spectral_Data 395 422	MALDI-TOF mass spectrometry
+T14	Spectral_Data 427 446	1H-NMR spectroscopy
+T15	Chemical 503 533	VI3VI'3(alphaGal)2-iso-nLc8Cer
+T16	Metabolite 503 533	VI3VI'3(alphaGal)2-iso-nLc8Cer
+T17	Chemical 463 474	glycolipids
+R3	Associated_With Arg1:T16 Arg2:T14	
+R4	Associated_With Arg1:T15 Arg2:T14	
+R5	Isolated_From Arg1:T16 Arg2:T4	
+T18	Chemical 624 662	VI3VI'3(alphaGal)2V'3alphaFuc-iso-nLc8
+T19	Metabolite 624 662	VI3VI'3(alphaGal)2V'3alphaFuc-iso-nLc8
+T20	Metabolite 668 712	VI3VI'3(alphaGal)2 V3V'3(alphaFuc)2-iso-nLc8
+T21	Chemical 668 712	VI3VI'3(alphaGal)2 V3V'3(alphaFuc)2-iso-nLc8
+T22	Chemical 592 609	Galalpha3Lewis(x)
+R6	Isolated_From Arg1:T19 Arg2:T4	
+R7	Isolated_From Arg1:T20 Arg2:T4	
+R8	Associated_With Arg1:T19 Arg2:T13	
+R9	Associated_With Arg1:T18 Arg2:T13	
+R10	Associated_With Arg1:T20 Arg2:T13	
+R11	Associated_With Arg1:T21 Arg2:T13	
+T23	Chemical 725 742	Galalpha3Lewis(x)
+R12	Associated_With Arg1:T16 Arg2:T13	
+R13	Associated_With Arg1:T15 Arg2:T13	
+R14	Associated_With Arg1:T19 Arg2:T14	
+R15	Associated_With Arg1:T18 Arg2:T14	
+R16	Associated_With Arg1:T20 Arg2:T14	
+R17	Associated_With Arg1:T21 Arg2:T14	
+T24	Chemical 797 821	sialosylated glycolipids
+T25	Metabolite 797 821	sialosylated glycolipids
+T26	Chemical 883 907	VI3VI'3(NeuAc)2-iso-nLc8
+T27	Chemical 913 942	VI3NeuAcVI'3alphaGal-iso-nLc8
+T28	Metabolite 883 907	VI3VI'3(NeuAc)2-iso-nLc8
+T29	Metabolite 913 942	VI3NeuAcVI'3alphaGal-iso-nLc8
+R18	Isolated_From Arg1:T28 Arg2:T4	
+R19	Isolated_From Arg1:T29 Arg2:T4	
+T30	Chemical 990 1007	Galalpha3Lewis(x)
+T31	Chemical 1050 1073	N-acetylneuraminic acid
+T32	Metabolite 1099 1139	VI3NeuAcVI'3alphaGalV'3alphaFuc-iso-nLc8
+T33	Chemical 1099 1139	VI3NeuAcVI'3alphaGalV'3alphaFuc-iso-nLc8
+R20	Isolated_From Arg1:T32 Arg2:T4	
+R21	Associated_With Arg1:T28 Arg2:T13	
+R22	Associated_With Arg1:T26 Arg2:T13	
+R23	Associated_With Arg1:T29 Arg2:T13	
+R24	Associated_With Arg1:T27 Arg2:T13	
+R25	Associated_With Arg1:T28 Arg2:T14	
+R26	Associated_With Arg1:T26 Arg2:T14	
+R27	Associated_With Arg1:T29 Arg2:T14	
+R28	Associated_With Arg1:T27 Arg2:T14	
+R29	Associated_With Arg1:T32 Arg2:T13	
+R30	Associated_With Arg1:T33 Arg2:T13	
+R31	Associated_With Arg1:T32 Arg2:T14	
+R32	Associated_With Arg1:T33 Arg2:T14	
+T34	Species 1183 1190	porcine
+T35	Protein 1183 1222	porcine kidney alpha3fucosyltransferase
+T36	Chemical 1239 1252	Gala3Lewis(x)
+T37	Chemical 1280 1288;1309 1332	6-linked Galalpha3neolactosamine
+T38	Chemical 1300 1332	3-linked Galalpha3neolactosamine
+T39	Chemical 1371 1392	sialosylated Lewis(x)
+T40	Chemical 1408 1434	neolactoseries glycolipids
+T41	Chemical 1423 1434	glycolipids

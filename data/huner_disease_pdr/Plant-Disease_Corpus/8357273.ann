@@ -1,0 +1,8 @@
+T1	Disease 75 92	esophageal cancer
+T2	Disease 113 130	esophageal cancer
+T3	Disease 334 340	cancer
+T4	Disease 564 581	esophageal cancer
+T5	Disease 932 949	esophageal cancer
+T6	Plant 12 19	tobacco
+T7	Cause_of_disease 58 62	risk
+E1	Cause_of_disease:T7 Theme:T1 Cause:T6

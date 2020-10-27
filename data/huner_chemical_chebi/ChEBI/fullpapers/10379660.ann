@@ -1,0 +1,555 @@
+T1	Chemical 1 17	Perillyl alcohol
+T2	Metabolite 1 17	Perillyl alcohol
+T3	Chemical 23 46	hydroxylated metabolite
+T4	Metabolite 23 46	hydroxylated metabolite
+T5	Chemical 50 61	d -limonene
+T6	Metabolite 50 61	d -limonene
+R1	Metabolite_Of Arg1:T6 Arg2:T1	
+T7	Chemical 110 121	monoterpene
+T8	Metabolite 110 121	monoterpene
+T9	Species 133 139	orange
+R2	Isolated_From Arg1:T6 Arg2:T9	
+T10	Chemical 150 166	Perillyl alcohol
+T11	Metabolite 150 166	Perillyl alcohol
+T12	Species 184 192	lavender
+T13	Species 194 199	mints
+T14	Species 205 211	celery
+R3	Isolated_From Arg1:T11 Arg2:T12	
+R4	Isolated_From Arg1:T11 Arg2:T13	
+R5	Isolated_From Arg1:T11 Arg2:T14	
+T15	Chemical 242 253	d -limonene
+T16	Metabolite 242 253	d -limonene
+T17	Chemical 258 269	metabolites
+T18	Metabolite 258 269	metabolites
+T19	Biological_Activity 278 295	chemopreventative
+T20	Biological_Activity 300 316	chemotherapeutic
+T21	Species 334 339	human
+T22	Biological_Activity 362 370	toxicity
+R6	Associated_With Arg1:T16 Arg2:T19	
+R7	Associated_With Arg1:T15 Arg2:T19	
+R8	Associated_With Arg1:T16 Arg2:T20	
+R9	Associated_With Arg1:T15 Arg2:T20	
+T23	Chemical 379 390	d -Limonene
+T24	Metabolite 379 390	d -Limonene
+T25	Biological_Activity 406 417	metabolized
+T26	Species 434 441	animals
+T27	Species 456 462	humans
+T28	Chemical 475 488	perillic acid
+T29	Metabolite 475 488	perillic acid
+T30	Chemical 493 513	dihydroperillic acid
+T31	Metabolite 493 513	dihydroperillic acid
+T32	Chemical 553 563	metabolite
+T33	Metabolite 553 564	metabolites
+T34	Chemical 584 600	perillyl alcohol
+T35	Metabolite 584 600	perillyl alcohol
+R10	Metabolite_Of Arg1:T29 Arg2:T23	
+R11	Metabolite_Of Arg1:T31 Arg2:T23	
+T36	Chemical 608 619	Metabolites
+T37	Metabolite 608 619	Metabolites
+T38	Chemical 623 631	limonene
+T39	Metabolite 623 631	limonene
+T40	Chemical 667 683	perillyl alcohol
+T41	Metabolite 667 683	perillyl alcohol
+T42	Chemical 685 711	perillic acid methyl ester
+T43	Metabolite 685 711	perillic acid methyl ester
+T44	Chemical 716 730	perillaldehyde
+T45	Metabolite 716 730	perillaldehyde
+T46	Biological_Activity 760 770	inhibitors
+T47	Protein 796 814	p21–26 kDa protein
+T48	Chemical 878 886	limonene
+T49	Metabolite 878 886	limonene
+R12	Associated_With Arg1:T45 Arg2:T46	
+R13	Associated_With Arg1:T44 Arg2:T46	
+R14	Associated_With Arg1:T43 Arg2:T46	
+R15	Associated_With Arg1:T42 Arg2:T46	
+R16	Associated_With Arg1:T41 Arg2:T46	
+R17	Associated_With Arg1:T40 Arg2:T46	
+R18	Metabolite_Of Arg1:T41 Arg2:T38	
+R19	Metabolite_Of Arg1:T43 Arg2:T38	
+R20	Metabolite_Of Arg1:T45 Arg2:T38	
+R21	Binds_With Arg1:T45 Arg2:T47	
+R22	Binds_With Arg1:T44 Arg2:T47	
+R23	Associated_With Arg1:T43 Arg2:T46	
+R24	Associated_With Arg1:T42 Arg2:T46	
+R25	Associated_With Arg1:T40 Arg2:T46	
+R26	Associated_With Arg1:T41 Arg2:T46	
+T50	Chemical 959 970	d -limonene
+T51	Metabolite 959 970	d -limonene
+T52	Chemical 904 920	perillyl alcohol
+T53	Metabolite 904 920	perillyl alcohol
+T54	Chemical 1044 1060	perillyl alcohol
+T55	Metabolite 1044 1060	perillyl alcohol
+T56	Species 1064 1068	dogs
+T57	Spectral_Data 1077 1082	GC–MS
+T58	Chemical 1167 1171	drug
+T59	Chemical 1266 1282	perillyl alcohol
+T60	Metabolite 1266 1282	perillyl alcohol
+T61	Spectral_Data 1401 1406	GC–MS
+T62	Chemical 1437 1453	perillyl alcohol
+T63	Metabolite 1437 1453	perillyl alcohol
+T64	Chemical 1462 1473	metabolites
+T65	Metabolite 1462 1473	metabolites
+T66	Chemical 1501 1525	isotope-labelled analogs
+R27	Associated_With Arg1:T63 Arg2:T61	
+R28	Associated_With Arg1:T62 Arg2:T61	
+R29	Associated_With Arg1:T65 Arg2:T61	
+R30	Associated_With Arg1:T64 Arg2:T61	
+T67	Spectral_Data 1629 1647	mass spectrometric
+T68	Chemical 1711 1736	(S )-(−)-Perillyl alcohol
+R31	Associated_With Arg1:T49 Arg2:T46	
+R32	Associated_With Arg1:T48 Arg2:T46	
+R33	Binds_With Arg1:T49 Arg2:T47	
+R34	Binds_With Arg1:T48 Arg2:T47	
+T69	Chemical 1738 1741	POH
+T70	Chemical 1792 1805	Perillic acid
+T71	Chemical 1807 1809	PA
+T72	Chemical 1812 1845	cis- /trans- dihydroperillic acid
+T73	Chemical 1847 1864	cis- /trans- DHPA
+T74	Chemical 1866 1927	cis- /trans- 4(1′-methylethenyl)cyclohexane-1-carboxylic acid
+T75	Chemical 1930 1949	perillyl alcohol-d3
+T76	Chemical 1952 1958	POH-d3
+T77	Chemical 1965 1987	perillic acid-d2 -13 C
+T78	Chemical 1989 1999	13 C-PA-d2
+T79	Chemical 2072 2078	POH-d3
+T80	Chemical 2118 2121	POH
+T81	Chemical 2131 2141	13 C-PA-d2
+T82	Chemical 2181 2183	PA
+T83	Chemical 2188 2204	cis-/trans -DHPA
+T84	Chemical 2206 2210;2223 2252	Cis- 1-carboxy-4-methylcyclohexane
+T85	Chemical 2216 2252	trans- 1-carboxy-4-methylcyclohexane
+T86	Chemical 2315 2334	synthetic compounds
+T87	Chemical 2368 2385	labeled compounds
+T88	Chemical 2395 2444	N,-O -Bis-(trimethylsilyl)silyltrifluoroacetamide
+T89	Chemical 2446 2451	BSTFA
+T90	Chemical 2499 2511	Acetonitrile
+T91	Chemical 2595 2611	organic solvents
+T92	Chemical 2616 2624	reagents
+T93	Chemical 2810 2822	acetonitrile
+T94	Chemical 2886 2894	nitrogen
+T95	Species 3048 3053	mouse
+T96	Species 3057 3062	human
+T97	Chemical 3071 3083	Acetonitrile
+T98	Protein 3122 3129	protein
+T99	Chemical 3292 3296	HCl.
+T100	Chemical 3341 3359	methylene chloride
+T101	Chemical 3461 3479	methylene chloride
+T102	Chemical 3565 3570	BSTFA
+T103	Chemical 3574 3586	acetonitrile
+T104	Spectral_Data 3685 3690	GC–MS
+T105	Spectral_Data 3697 3702	GC–MS
+T106	Spectral_Data 3712 3717	GC–MS
+T107	Chemical 3947 3953	silica
+T108	Chemical 4046 4065	phenyl-polysiloxane
+T109	Chemical 4031 4037;4053 4065	methyl polysiloxane
+T110	Chemical 4153 4159	helium
+T111	Chemical 4521 4528	ammonia
+T112	Chemical 4545 4552	reagent
+T113	Chemical 4703 4733	trimethylsilylated derivatives
+T114	Spectral_Data 4875 4883	13 C-NMR
+T115	Spectral_Data 4893 4901	13 C-NMR
+T116	Chemical 5071 5088	tetramethylsilane
+T117	Chemical 5118 5123	CDCl3
+T118	Chemical 5132 5139	solvent
+T119	Chemical 5160 5164;5177 5197	cis- dihydroperillic acid
+T120	Chemical 5170 5197	trans- dihydroperillic acid
+T121	Chemical 5221 5225;5238 5258	cis- dihydroperillic acid
+T122	Chemical 5231 5258	trans- dihydroperillic acid
+T123	Chemical 5359 5366	CH2 Cl2
+T124	Chemical 5414 5424	silica gel
+T125	Chemical 5534 5541	CH2 Cl2
+T126	Chemical 5543 5547	MeOH
+T127	Chemical 5773 5780	CH2 Cl2
+T128	Spectral_Data 5900 5905	GC–MS
+T129	Spectral_Data 5999 6004	GC–MS
+T130	Chemical 6031 6046	cis/trans -DHPA
+T131	Chemical 6521 6524	POH
+T132	Chemical 6526 6528	PA
+T133	Chemical 6530 6534;6547 6551	cis- DHPA
+T134	Chemical 6540 6551	trans- DHPA
+T135	Chemical 6668 6671	POH
+T136	Chemical 6748 6752;6765 6769	cis- DHPA
+T137	Chemical 6758 6769	trans- DHPA
+T138	Species 6963 6969	animal
+T139	Species 7011 7029	Sprague-Dawley rat
+T140	Species 7117 7123	animal
+T141	Chemical 7139 7155	perillyl alcohol
+T142	Chemical 7256 7262	saline
+T143	Species 7588 7591	rat
+T144	Chemical 7813 7825	acetonitrile
+T145	Protein 7845 7852	protein
+T146	Chemical 8063 8066	POH
+T147	Biological_Activity 8072 8089	chemopreventative
+T148	Chemical 8072 8095	chemopreventative agent
+R35	Associated_With Arg1:T146 Arg2:T147	
+T149	Species 8240 8248	Subjects
+T150	Species 8511 8519	subjects
+T151	Species 8620 8628	Patients
+T152	Species 8728 8736	patients
+T153	Chemical 9142 9149	dry-ice
+T154	Species 9282 9285	rat
+T155	Chemical 9438 9441	POH
+T156	Chemical 9443 9446	PA,
+T157	Chemical 9447 9464	cis- /trans- DHPA
+T158	Chemical 9609 9616	dry-ice
+T159	Chemical 9884 9888	Drug
+T160	Chemical 9893 9903	metabolite
+T161	Metabolite 9893 9903	metabolite
+T162	Chemical 10030 10046	perillyl alcohol
+T163	Chemical 10055 10066	metabolites
+T164	Metabolite 10055 10066	metabolites
+T165	Spectral_Data 10071 10089	GC–MS mass spectra
+T166	Chemical 10093 10096	POH
+T167	Chemical 10098 10100	PA
+T168	Chemical 10105 10122	cis- /trans- DHPA
+T169	Chemical 10153 10159	POH-d3
+T170	Chemical 10165 10175	13 C-PA-d2
+T171	Chemical 10209 10222	silylated POH
+R36	Associated_With Arg1:T166 Arg2:T165	
+R37	Associated_With Arg1:T167 Arg2:T165	
+R38	Associated_With Arg1:T168 Arg2:T165	
+R39	Associated_With Arg1:T169 Arg2:T165	
+R40	Associated_With Arg1:T170 Arg2:T165	
+R41	Associated_With Arg1:T171 Arg2:T165	
+T172	Chemical 10352 10367	TMS derivatives
+T173	Chemical 10426 10428	PA
+T174	Chemical 10433 10443	13 C-PA-d2
+T175	Chemical 10476 10493	cis- /trans- DHPA
+T176	Species 10640 10645	human
+T177	Species 10650 10653	rat
+T178	Chemical 10754 10758;10771 10775	cis- DHPA
+T179	Chemical 10764 10775	trans- DHPA
+T180	Chemical 10838 10841	POH
+T181	Chemical 10842 10848	POH-d3
+T182	Chemical 10862 10864	PA
+T183	Chemical 10865 10875	13 C-PA-d2
+T184	Chemical 10889 10898	cis- DHPA
+T185	Chemical 10915 10926	trans- DHPA
+T186	Chemical 10958 10962;10975 10979	cis- DHPA
+T187	Chemical 10968 10979	trans- DHPA
+T188	Species 11119 11124	human
+T189	Species 11128 11131	rat
+T190	Chemical 11434 11437	POH
+T191	Chemical 11446 11457	metabolites
+T192	Metabolite 11446 11457	metabolites
+R42	Metabolite_Of Arg1:T192 Arg2:T190	
+R43	Metabolite_Of Arg1:T164 Arg2:T162	
+T193	Chemical 11479 11482;11496 11500	cis DHPA
+T194	Metabolite 11489 11500	trans- DHPA
+T195	Spectral_Data 11529 11534	GC–MS
+T196	Chemical 11611 11615;11628 11632	cis- DHPA
+T197	Chemical 11621 11632	trans- DHPA
+T198	Spectral_Data 11664 11677	mass spectral
+T199	Chemical 11714 11721	isomers
+T200	Chemical 11907 11918	cis- isomer
+T201	Chemical 11966 11979	trans- isomer
+T202	Metabolite 10098 10100	PA
+T203	Metabolite 10105 10122	cis- /trans- DHPA
+R44	Metabolite_Of Arg1:T202 Arg2:T162	
+R45	Metabolite_Of Arg1:T203 Arg2:T162	
+T204	Metabolite 10426 10428	PA
+T205	Metabolite 10476 10493	cis- /trans- DHPA
+T206	Metabolite 10754 10758;10771 10775	cis- DHPA
+T207	Metabolite 10764 10775	trans- DHPA
+T208	Metabolite 10862 10864	PA
+T209	Metabolite 10889 10898	cis- DHPA
+T210	Metabolite 10915 10926	trans- DHPA
+T211	Metabolite 10958 10962;10975 10979	cis- DHPA
+T212	Metabolite 10968 10979	trans- DHPA
+T213	Metabolite 11479 11483;11496 11500	cis- DHPA
+T214	Metabolite 11611 11615;11628 11632	cis- DHPA
+T215	Metabolite 11621 11632	trans- DHPA
+T216	Metabolite 11907 11918	cis- isomer
+T217	Metabolite 11966 11979	trans- isomer
+T218	Spectral_Data 12021 12026	GC–MS
+R46	Associated_With Arg1:T216 Arg2:T198	
+R47	Associated_With Arg1:T200 Arg2:T198	
+R48	Associated_With Arg1:T217 Arg2:T198	
+R49	Associated_With Arg1:T201 Arg2:T198	
+T219	Chemical 12191 12198	isomers
+T220	Chemical 12287 12294	isomers
+T221	Spectral_Data 12354 12359	GC–MS
+T222	Spectral_Data 12444 12461	13 C-NMR spectrum
+T223	Chemical 12490 12494;12507 12511	cis- DHPA
+T224	Chemical 12500 12511	trans- DHPA
+T225	Chemical 12583 12587	COOH
+T226	Chemical 12821 12827	carbon
+T227	Chemical 12848 12854	methyl
+T228	Chemical 12860 12866	carbon
+T229	Chemical 12992 13004	monoterpenes
+T230	Chemical 13009 13020	cyclohexane
+R50	Associated_With Arg1:T223 Arg2:T222	
+R51	Associated_With Arg1:T224 Arg2:T222	
+T231	Spectral_Data 13064 13081	13 C-NMR spectrum
+T232	Chemical 13325 13337	cyclohexanol
+T233	Spectral_Data 13436 13452	13 C-NMR spectra
+T234	Chemical 13456 13460;13473 13496	cis- 1,4-methyl cyclohexanol
+T235	Chemical 13466 13496	trans- 1,4-methyl cyclohexanol
+T236	Chemical 13546 13550;13563 13586	cis- 1,4-t-butylcyclohexanol
+T237	Chemical 13556 13586	trans- 1,4-t-butylcyclohexanol
+R52	Associated_With Arg1:T234 Arg2:T233	
+R53	Associated_With Arg1:T235 Arg2:T233	
+R54	Associated_With Arg1:T236 Arg2:T233	
+R55	Associated_With Arg1:T237 Arg2:T233	
+T238	Chemical 13659 13670	cis- isomer
+T239	Chemical 13704 13717	trans- isomer
+T240	Chemical 13732 13743	DHPA isomer
+T242	Chemical 13858 13869	DHPA isomer
+T244	Chemical 13881 13892	cis- isomer
+T241	Spectral_Data 13955 13971	13 C-NMR spectra
+T243	Chemical 13985 13989;14002 14032	cis- 1-carboxyl-4-methylcyclohexane
+T245	Chemical 13995 14032	trans- 1-carboxyl-4-methylcyclohexane
+R56	Associated_With Arg1:T243 Arg2:T241	
+R57	Associated_With Arg1:T239 Arg2:T233	
+R58	Associated_With Arg1:T244 Arg2:T233	
+T246	Chemical 14123 14134	cis- isomer
+T247	Chemical 14179 14192	trans- isomer
+R59	Associated_With Arg1:T247 Arg2:T241	
+R60	Associated_With Arg1:T246 Arg2:T241	
+T248	Spectral_Data 14220 14225	GC–MS
+T249	Chemical 14249 14269;14276 14295	silyl derivatives of cyclohexane isomers
+T250	Chemical 14324 14328;14341 14371	cis- 1-carboxyl-4-methylcyclohexane
+T251	Chemical 14334 14371	trans- 1-carboxyl-4-methylcyclohexane
+T252	Chemical 14392 14398	BSTFA.
+R61	Associated_With Arg1:T249 Arg2:T248	
+T253	Spectral_Data 14403 14408	GC–MS
+T254	Chemical 14425 14436	cis- isomer
+T255	Chemical 14481 14494	trans- isomer
+T256	Chemical 14594 14598	DHPA
+R62	Associated_With Arg1:T254 Arg2:T253	
+R63	Associated_With Arg1:T255 Arg2:T253	
+T257	Chemical 14641 14652	DHPA isomer
+T258	Chemical 14693 14704	cis- isomer
+T259	Chemical 14753 14785	isomer with trans- configuration
+T260	Chemical 14975 14979	DHPA
+T261	Metabolite 14975 14979	DHPA
+T262	Chemical 14989 14999	metabolite
+T263	Metabolite 14989 14999	metabolite
+T264	Species 15269 15274	human
+T265	Species 15279 15282	rat
+T266	Chemical 15295 15298	POH
+T267	Chemical 15352 15354	PA
+T268	Metabolite 15352 15354	PA
+T269	Chemical 15359 15370	trans- DHPA
+T270	Metabolite 15359 15370	trans- DHPA
+T271	Chemical 15402 15411	cis- DHPA
+T272	Metabolite 15402 15411	cis- DHPA
+T273	Chemical 15487 15490	POH
+T274	Chemical 15512 15523	trans- DHPA
+T275	Metabolite 15512 15523	trans- DHPA
+T276	Chemical 15542 15551	cis- DHPA
+T277	Metabolite 15542 15551	cis- DHPA
+T278	Chemical 15588 15591	POH
+T279	Chemical 15596 15607	metabolites
+T280	Metabolite 15596 15607	metabolites
+T281	Species 15611 15614	rat
+T282	Species 15619 15624	human
+T283	Chemical 15887 15890	POH
+T284	Species 15894 15899	human
+T285	Species 15928 15931	rat
+T286	Species 16178 16183	human
+T287	Species 16203 16206	rat
+T288	Chemical 16138 16140	PA
+T289	Metabolite 16138 16140	PA
+R64	Isolated_From Arg1:T289 Arg2:T286	
+R65	Isolated_From Arg1:T289 Arg2:T287	
+T290	Chemical 16251 16260	cis- DHPA
+T291	Metabolite 16251 16260	cis- DHPA
+T292	Species 16264 16269	human
+T293	Species 16274 16277	rat
+R66	Isolated_From Arg1:T291 Arg2:T292	
+R67	Isolated_From Arg1:T291 Arg2:T293	
+T294	Chemical 16352 16363	trans- DHPA
+T295	Metabolite 16352 16363	trans- DHPA
+R68	Isolated_From Arg1:T295 Arg2:T292	
+R69	Isolated_From Arg1:T295 Arg2:T293	
+T296	Chemical 16485 16496	metabolites
+T297	Metabolite 16485 16496	metabolites
+T298	Chemical 16597 16600	POH
+T299	Chemical 16602 16604	PA
+T300	Metabolite 16602 16604	PA
+T301	Chemical 16606 16610;16623 16627	cis- DHPA
+T302	Metabolite 16606 16610;16623 16627	cis- DHPA
+T303	Chemical 16616 16627	trans- DHPA
+T304	Metabolite 16616 16627	trans- DHPA
+T305	Species 16685 16690	human
+T306	Species 16727 16730	rat
+T307	Chemical 16790 16793	POH
+T308	Chemical 16798 16808	metabolite
+T309	Metabolite 16798 16808	metabolite
+T310	Chemical 17018 17034	perillyl alcohol
+T311	Chemical 17043 17054	metabolites
+T312	Metabolite 17043 17054	metabolites
+T313	Species 17060 17063	rat
+T314	Chemical 17118 17121	POH
+T315	Chemical 17126 17137	metabolites
+T316	Metabolite 17126 17137	metabolites
+T317	Species 17145 17148	rat
+T318	Chemical 17155 17158	POH
+T319	Chemical 17186 17189	POH
+T320	Chemical 17374 17376	PA
+T321	Metabolite 17374 17376	PA
+T322	Chemical 17531 17536;17548 17552	Cis - DHPA
+T323	Metabolite 17531 17536;17548 17552	Cis - DHPA
+T324	Chemical 17541 17552	trans- DHPA
+T325	Metabolite 17541 17552	trans- DHPA
+T326	Chemical 17677 17694	trans- metabolite
+T327	Metabolite 17677 17694	trans- metabolite
+T328	Chemical 17739 17751	cis- isomer.
+T329	Metabolite 17739 17750	cis- isomer
+T330	Chemical 17763 17773	metabolite
+T331	Metabolite 17763 17773	metabolite
+T332	Chemical 17786 17788	M2
+T333	Metabolite 17786 17788	M2
+T334	Chemical 17842 17852	metabolite
+T335	Metabolite 17842 17852	metabolite
+T336	Chemical 17880 17882	PA
+T337	Metabolite 17880 17882	PA
+T338	Chemical 17921 17923	M2
+T339	Metabolite 17921 17923	M2
+T340	Chemical 17966 17968	PA
+T341	Metabolite 17966 17968	PA
+T342	Chemical 18064 18074	metabolite
+T343	Metabolite 18064 18074	metabolite
+T344	Chemical 18109 18111	PA
+T345	Metabolite 18109 18111	PA
+T346	Chemical 18152 18154	PA
+T347	Metabolite 18152 18154	PA
+T348	Chemical 18280 18296	perillyl alcohol
+T349	Chemical 18305 18316	metabolites
+T350	Metabolite 18305 18316	metabolites
+T351	Species 18322 18329	patient
+T352	Chemical 18372 18375	POH
+T353	Chemical 18384 18395	metabolites
+T354	Metabolite 18384 18395	metabolites
+T355	Species 18415 18422	patient
+T356	Chemical 18511 18514	POH
+T357	Chemical 18516 18518	PA
+T358	Metabolite 18516 18518	PA
+T359	Chemical 18520 18524;18537 18541	cis- DHPA
+T360	Metabolite 18520 18524;18537 18541	cis- DHPA
+T361	Chemical 18530 18541	trans- DHPA
+T362	Metabolite 18530 18541	trans- DHPA
+T363	Chemical 18573 18576	POH
+T364	Chemical 18781 18791	metabolite
+T365	Metabolite 18781 18791	metabolite
+T366	Chemical 18811 18813	PA
+T367	Metabolite 18811 18813	PA
+T368	Chemical 18865 18867	PA
+T369	Metabolite 18865 18867	PA
+T370	Chemical 18901 18904	POH
+T371	Species 19110 19113	rat
+T372	Chemical 19115 19124	cis- DHPA
+T373	Metabolite 19115 19124	cis- DHPA
+T374	Chemical 19191 19202	metabolites
+T375	Metabolite 19191 19202	metabolites
+T376	Chemical 19233 19235	M1
+T377	Metabolite 19233 19235	M1
+T378	Chemical 19273 19275	M2
+T379	Metabolite 19273 19275	M2
+T380	Species 19357 19360	rat
+T381	Chemical 19427 19429	PA
+T382	Metabolite 19427 19429	PA
+T383	Chemical 19441 19443	M2
+T384	Metabolite 19441 19443	M2
+T385	Chemical 19469 19471	PA
+T386	Metabolite 19469 19471	PA
+T387	Chemical 19497 19499	M1
+T388	Metabolite 19497 19499	M1
+T389	Chemical 19501 19503	M2
+T390	Metabolite 19501 19503	M2
+T391	Chemical 19542 19544	M1
+T392	Metabolite 19542 19544	M1
+T393	Spectral_Data 19603 19608	GC–MS
+T394	Chemical 19634 19637	POH
+R70	Metabolite_Of Arg1:T379 Arg2:T363	
+R71	Metabolite_Of Arg1:T377 Arg2:T363	
+R72	Metabolite_Of Arg1:T339 Arg2:T348	
+T395	Chemical 19908 19911	POH
+T396	Chemical 19920 19931	metabolites
+T397	Metabolite 19920 19931	metabolites
+T398	Chemical 19940 19942	PA
+T399	Metabolite 19940 19942	PA
+T400	Chemical 20063 20070	ammonia
+T401	Chemical 20206 20211	BSTFA
+T402	Chemical 20230 20233	POH
+T403	Chemical 20242 20253	metabolites
+T404	Metabolite 20242 20253	metabolites
+T405	Chemical 20418 20421	POH
+T406	Chemical 20426 20428	PA
+T407	Metabolite 20426 20428	PA
+T408	Spectral_Data 20601 20606	GC–MS
+T409	Chemical 20658 20661	POH
+T410	Chemical 20672 20675	POH
+T411	Chemical 20798 20802;20815 20819	cis- DHPA
+T412	Metabolite 20798 20802;20815 20819	cis- DHPA
+T413	Chemical 20808 20819	trans- DHPA
+T414	Metabolite 20808 20819	trans- DHPA
+T415	Chemical 20889 20900	cis- isomer
+T416	Metabolite 20889 20900	cis- isomer
+T417	Spectral_Data 20915 20918	NMR
+R73	Associated_With Arg1:T411 Arg2:T417	
+R74	Associated_With Arg1:T411 Arg2:T417	
+T418	Chemical 21074 21085	cis- isomer
+T419	Metabolite 21074 21085	cis- isomer
+T420	Species 21108 21111	rat
+T421	Species 21116 21121	human
+T422	Chemical 21153 21156	POH
+T423	Chemical 21216 21219	POH
+T424	Chemical 21251 21254	POH
+T425	Chemical 21236 21247	Metabolites
+T426	Metabolite 21236 21247	Metabolites
+T427	Species 21292 21295	rat
+T428	Species 21300 21305	human
+T429	Chemical 21314 21316	PA
+T430	Metabolite 21314 21316	PA
+R75	Isolated_From Arg1:T430 Arg2:T427	
+R76	Isolated_From Arg1:T430 Arg2:T428	
+T431	Chemical 21403 21406	POH
+T432	Biological_Activity 21423 21433	metabolism
+T433	Chemical 21440 21444;21457 21461	cis- DHPA
+T434	Metabolite 21440 21444;21457 21461	cis- DHPA
+T435	Chemical 21450 21461	trans- DHPA
+T436	Metabolite 21450 21461	trans- DHPA
+T437	Species 21497 21502	human
+T438	Species 21514 21517	rat
+R77	Isolated_From Arg1:T434 Arg2:T437	
+R78	Isolated_From Arg1:T434 Arg2:T438	
+R79	Isolated_From Arg1:T436 Arg2:T437	
+R80	Isolated_From Arg1:T436 Arg2:T438	
+T439	Chemical 21613 21624	metabolites
+T440	Metabolite 21613 21624	metabolites
+T441	Species 21664 21669	human
+T442	Species 21697 21700	rat
+T443	Chemical 21712 21723	metabolites
+T444	Metabolite 21712 21723	metabolites
+T445	Chemical 21733 21754	silylated derivatives
+T446	Chemical 21815 21827	silylated PA
+T447	Chemical 21890 21901	metabolites
+T448	Metabolite 21890 21901	metabolites
+T449	Chemical 22029 22045	perillyl alcohol
+T450	Spectral_Data 22063 22068	GC–MS
+T451	Chemical 22139 22155	perillyl alcohol
+T452	Chemical 22164 22175	metabolites
+T453	Metabolite 22164 22175	metabolites
+T454	Species 22179 22184	human
+T455	Species 22189 22195	animal
+T456	Chemical 22248 22264	perillyl alcohol
+T457	Species 22291 22296	human
+T458	Species 22301 22307	animal
+T459	Chemical 22361 22371	metabolite
+T460	Metabolite 22361 22371	metabolite
+T461	Chemical 22372 22376	DHPA
+T462	Metabolite 22372 22376	DHPA
+T463	Chemical 22505 22516	metabolites
+T464	Metabolite 22505 22516	metabolites
+T465	Spectral_Data 22542 22547	GC–MS
+T466	Chemical 22623 22639	perillyl alcohol
+T467	Biological_Activity 22650 22667	chemopreventative
+T468	Biological_Activity 22672 22690	chemotherapeutical
+R81	Associated_With Arg1:T466 Arg2:T467	
+R82	Associated_With Arg1:T466 Arg2:T468	
+T469	Chemical 22650 22667;22691 22696	chemopreventative agent
+T470	Chemical 22672 22696	chemotherapeutical agent
+R83	Isolated_From Arg1:T333 Arg2:T317	
+R84	Isolated_From Arg1:T392 Arg2:T421	
+R85	Isolated_From Arg1:T390 Arg2:T421	

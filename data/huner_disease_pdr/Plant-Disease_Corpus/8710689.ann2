@@ -1,0 +1,13 @@
+T1	Disease 532 544	colon tumors
+T3	Disease 601 606	tumor
+T4	Disease 673 678	tumor
+T6	Disease 851 856	tumor
+T8	Disease 1041 1053	colon tumors
+T9	Plant 45 49	corn
+T10	Plant 641 645	corn
+T11	Plant 825 829	corn
+T12	Treatment_of_disease 845 850	lower
+E1	Treatment_of_disease:T12 Theme:T6
+T5	Disease 702 708	tumors
+T7	Disease 881 887	tumors
+T2	Disease 584 596	colon tumors

@@ -1,0 +1,45 @@
+T1	Metabolite 62 82	trihydroxy bile acid
+T2	Chemical 62 82	trihydroxy bile acid
+T3	Chemical 92 106	hyocholic acid
+T4	Metabolite 92 106	hyocholic acid
+T5	Chemical 108 123	ursocholic acid
+T6	Metabolite 108 123	ursocholic acid
+T7	Chemical 125 128	UCA
+T8	Metabolite 125 128	UCA
+T9	Chemical 135 156	omega-muricholic acid
+T10	Metabolite 135 156	omega-muricholic acid
+T11	Chemical 158 167	omega-MCA
+T12	Metabolite 158 167	omega-MCA
+T13	Chemical 214 224	bile acids
+T14	Metabolite 214 224	bile acids
+T16	Chemical 333 353	ursodeoxycholic acid
+T17	Chemical 355 359	UDCA
+T18	Species 380 386	adults
+T20	Species 408 416	patients
+R1	Isolated_From Arg1:T4 Arg2:T18	
+R2	Isolated_From Arg1:T6 Arg2:T18	
+R3	Isolated_From Arg1:T8 Arg2:T18	
+R4	Isolated_From Arg1:T10 Arg2:T18	
+R5	Isolated_From Arg1:T12 Arg2:T18	
+R6	Isolated_From Arg1:T1 Arg2:T18	
+T21	Species 424 432	patients
+T23	Chemical 499 520	trihydroxy bile acids
+T24	Metabolite 499 520	trihydroxy bile acids
+T25	Species 615 623	patients
+T27	Protein 660 671	prothrombin
+T28	Chemical 706 716	bile acids
+T29	Species 863 870	patient
+T30	Chemical 887 891	UDCA
+T31	Chemical 942 952	bile acids
+T32	Metabolite 942 952	bile acids
+T33	Chemical 965 968	UCA
+T34	Metabolite 965 968	UCA
+T35	Chemical 973 982	omega-MCA
+T36	Metabolite 973 982	omega-MCA
+T40	Chemical 1085 1089	UDCA
+T41	Species 1128 1134	adults
+T42	Species 1167 1175	patients
+R7	Metabolite_Of Arg1:T36 Arg2:T40	
+R8	Metabolite_Of Arg1:T34 Arg2:T40	
+T45	Chemical 1239 1259	dihydroxy bile acids
+T46	Biological_Activity 1265 1279	detoxification

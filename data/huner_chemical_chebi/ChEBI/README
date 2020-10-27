@@ -1,0 +1,74 @@
+CHEBI CORPUS README
+====================
+
+1. DESCRIPTION
+--------------
+
+The ChEBI corpus contains 199 annotated abstracts and 100 annotated full papers. All documents in the corpus have been annotated for named entities and relations between these. In total, our corpus provides over 15000 named entity annotations and over 6,000 relations between entities. The entities were annotated according to the requirements of the curators of the ChEBI database (https://www.ebi.ac.uk/chebi/). We primarily annotated mentions of metabolites, as well as other entities that were capable of bearing interesting information related to metabolites, such as: Chemicals, Proteins, Species, Biological Activity and Spectral Data. The entities were annotated with an inter-annotator agreement of 0.80-0.89 (F1 score, strict-matching). The relations provided further information about the links between metabolites and other entities. We chose the following categories: Isolated From, Associated With, Binds With, Metabolite Of. The ChEBI corpus can be used to investigate interesting lexical properties of metabolites and related entities. In addition, it can be used to train machine learning algorithms to recognise the entities and relations that have been annotated.
+
+
+For further details about the corpus, please see http://www.nactem.ac.uk/chebi/ and the following article:
+
+Shardlow, M., Nguyen, NTH., Owen, G., Turner, S., O’Donovan, C., Leach, A., McNaught, J., and S. Ananiadou (2018). A New Corpus to Support Text Mining for the Curation of Metabolites in the ChEBI Database. In Proceedings of LREC, Miyazaki, Japan, pp. 280-285. http://www.lrec-conf.org/proceedings/lrec2018/pdf/229.pdf
+
+PLEASE NOTE: Although the paper states that the corpus contains 200 abstracts, the downloadable corpus only contains 199 abstracts, because we discovered on further processing that 2 of the abstracts were the same
+
+
+2. LICENCE
+----------
+
+The annotations in the ChEBI corpus are licensed under a Creative Commons Attribution 4.0 International License.  (https://creativecommons.org/licenses/by/4.0/).
+
+PLEASE CITE THE FOLLOWING ARTICLE WHEN USING THE CORPUS:
+
+Shardlow, M., Nguyen, NTH., Owen, G., Turner, S., O’Donovan, C., Leach, A., McNaught, J., and S. Ananiadou (2018). A New Corpus to Support Text Mining for the Curation of Metabolites in the ChEBI Database. In Proceedings of LREC, Miyazaki, Japan, pp. 280-285. http://www.lrec-conf.org/proceedings/lrec2018/pdf/229.pdf
+
+
+
+3. ANNOTATION FORMAT
+-------------------
+
+The downloadable corpus consists of:
+
+- A set of annotation (.ann) files, containing the manually-added annotations associated with each document file.
+- A set of text files corresponding to the abstracts.
+
+The text file and associated annotation files have the same base name, i.e., the PMIDs of the documents.
+
+An example of part of a .ann file is as follows: 
+
+T7	Chemical 297 326	guanidinium group of arginine
+T8	Chemical 373 390	carboxylate group
+T9	Chemical 373 393;401 411;424 431	carboxylate group of a glutamyl residue
+T10	Chemical 373 393;401 402;415 431	carboxylate group of a aspartyl residue
+T11	Chemical 497 514	phosphorylcholine
+T12	Species 523 528	mouse
+T13	Protein 523 544	mouse myeloma protein
+T14	Protein 546 552	HOPC-8
+T15	Chemical 573 584;601 607	gaunidinium groups
+T16	Chemical 589 607	carboxylate groups
+R1	Binds_With Arg1:T11 Arg2:T13
+
+There are two types of lines: 
+
+
+- Lines beginning with "T" (text-bound annotations) consist of the following information:
+
+    - A unique id for the annotation. By convention, this starts with T, followed by a numerical value.
+    - A TAB character.
+    - The semantic label assigned to the annotation. 
+    - The character-based offsets of the annotated span in the corresponding text file. There are two formats for the offsets, depending on whether the annotated span consists of a single, continuous span or a discontinuous span, consisting of multiple, connected spans.
+            - For continuous spans, there are two offsets, corresponding to the start and end offsets of the span. The first offset is separated by a space from the entity type label, and there is a space between the start and end offsets.
+            - For discontinuous spans (as in the lines beginning T9 and T10 in the example above), there are two or more pairs of start and end offsets, each separated by a semi-colon. Each pair of offsets corresponds to a part of the complete annotated span.
+    - Another TAB character
+    - The text covered by the annotated span in the corresponding text file.
+
+
+- Lines beginning with “R” (relations) consist of the following information:
+
+    - A unique id for the relation annotation. By convention, this starts with R, followed by a numerical value.
+    - A TAB character.
+    - The Relation type label assigned to the annotation. 
+    - Details of the two text spans that are linked in the relation. Each text span that is linked in a relation annotation is referred to as an argument. The first argument is denoted by the label "Arg1" and the second argument is denoted by the label "Arg2". In each case, the argument label is followed by a colon, and then by the ID of the corresponding text span (which corresponds to one of the T annotations introduced above).
+     
+

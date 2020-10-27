@@ -1,0 +1,35 @@
+T1	Protein 0 30	Phlorisovalerophenone synthase
+T2	Protein 32 35	VPS
+T3	Protein 46 74	aromatic polyketide synthase
+T4	Protein 116 123	protein
+T5	Species 146 149	hop
+T6	Species 151 169	Humulus lupulus L.
+T7	Protein 197 203	enzyme
+T8	Chemical 209 223	isovaleryl-CoA
+T9	Chemical 227 241	isobutyryl-CoA
+T10	Chemical 265 276	malonyl-CoA
+T11	Chemical 285 306	phlorisovalerophenone
+T12	Chemical 310 331	phlorisobutyrophenone
+T14	Species 374 377	hop
+T15	Chemical 403 412	beta-acid
+T16	Chemical 392 398;408 412	alpha- acid
+T17	Chemical 378 390	bitter acids
+T18	Protein 416 419	VPS
+T19	Protein 438 444	enzyme
+T20	Protein 486 492	enzyme
+T21	Chemical 528 542	isovaleryl-CoA
+T22	Chemical 558 572	isobutyryl-CoA
+T23	Protein 591 603	malonyl-CoA,
+T24	Chemical 620 630	amino-acid
+T25	Chemical 648 656	peptides
+T26	Protein 683 686	VPS
+T27	Protein 704 710	enzyme
+T28	Protein 735 759	plant chalcone synthases
+T29	Protein 812 815	VPS
+T30	Protein 826 855	aromatic polyketide synthases
+T31	Metabolite 285 306	phlorisovalerophenone
+T32	Metabolite 310 331	phlorisobutyrophenone
+T33	Metabolite 378 390	bitter acids
+T34	Metabolite 392 398;408 413	alpha- acids
+T35	Metabolite 403 412	beta-acid
+T13	Biological_Activity 354 366	biosynthesis

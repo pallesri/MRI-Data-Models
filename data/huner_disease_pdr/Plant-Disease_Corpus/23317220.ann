@@ -1,0 +1,16 @@
+T1	Disease 290 303	breast cancer
+T2	Disease 790 797	obesity
+T3	Disease 820 833	breast cancer
+T4	Disease 838 843	obese
+T5	Disease 888 903	various cancers
+T6	Disease 972 979	obesity
+T10	Plant 8 21	Allium cepa L
+T11	Plant 155 160	onion
+T12	Plant 935 940	onion
+T7	Treatment_of_disease 961 971	preventing
+E1	Treatment_of_disease:T7 Theme:T8 Cause:T12
+T8	Disease 988 998	malignancy
+T9	Plant 0 6	Onions
+*	Equiv T9 T10
+T13	Treatment_of_disease 251 260	apoptosis
+E2	Treatment_of_disease:T13 Theme:T1 Cause:T11

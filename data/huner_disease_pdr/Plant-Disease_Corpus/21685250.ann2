@@ -1,0 +1,17 @@
+T1	Disease 76 109	cutaneous squamous cell carcinoma
+T2	Disease 628 639	skin cancer
+T3	Disease 1474 1481	cancers
+T4	Plant 21 28	tobacco
+T5	Plant 250 257	tobacco
+T6	Plant 1269 1276	tobacco
+T7	Plant 1458 1465	tobacco
+T8	Disease 111 114	SCC
+*	Equiv T1 T8
+T9	Cause_of_disease 60 64	risk
+E1	Cause_of_disease:T9 Cause:T4 Theme:T1
+T10	Cause_of_disease 1466 1473	related
+E2	Cause_of_disease:T10 Cause:T7 Theme:T3
+T11	Disease 288 291	SCC
+T12	Disease 1314 1317	SCC
+T13	Cause_of_disease 273 284	development
+E3	Cause_of_disease:T13 Theme:T11 Cause:T5

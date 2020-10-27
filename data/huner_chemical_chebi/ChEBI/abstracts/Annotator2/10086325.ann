@@ -1,0 +1,32 @@
+T1	Chemical 0 6	Isatin
+T2	Chemical 24 30	indole
+T3	Biological_Activity 38 47	inhibitor
+T5	Protein 51 93	atrial natriuretic peptide (ANP) receptors
+T6	Protein 119 135	guanylyl cyclase
+T8	Protein 137 139	GC
+R1	Associated_With Arg1:T1 Arg2:T3	
+T11	Chemical 165 181	isatin analogues
+#1	AnnotatorNotes T11	Chemical class
+T12	Biological_Activity 197 207	inhibitors
+T13	Protein 211 228	ANP-stimulated GC
+T15	Species 232 235	rat
+R5	Associated_With Arg1:T11 Arg2:T12	
+T16	Protein 323 326	ANP
+T17	Protein 51 77	atrial natriuretic peptide
+T18	Protein 79 82	ANP
+T20	Chemical 386 407	5-substituted isatins
+#2	AnnotatorNotes T20	Chemical class
+T21	Chemical 409 424	5-hydroxyisatin
+T22	Chemical 426 440	5-methylisatin
+T23	Chemical 446 459	5-aminoisatin
+T24	Biological_Activity 486 496	inhibitory
+R7	Associated_With Arg1:T23 Arg2:T24	
+R8	Associated_With Arg1:T22 Arg2:T24	
+R9	Associated_With Arg1:T21 Arg2:T24	
+R10	Associated_With Arg1:T20 Arg2:T24	
+T25	Chemical 765 772	isatins
+#3	AnnotatorNotes T25	Chemical class
+T27	Protein 859 879;890 899	natriuretic peptides receptors
+T30	Metabolite 0 6	Isatin
+R12	Associated_With Arg1:T30 Arg2:T3	
+T4	Biological_Activity 736 746	inhibition

@@ -1,0 +1,94 @@
+T1	Species 12 23	Vegetarians
+T2	Chemical 73 104	n-3 polyunsaturated fatty acids
+T3	Metabolite 73 104	n-3 polyunsaturated fatty acids
+T4	Chemical 106 111	PUFAs
+T5	Metabolite 106 111	PUFAs
+T6	Species 121 130	omnivores
+R1	Isolated_From Arg1:T3 Arg2:T1	
+R2	Isolated_From Arg1:T3 Arg2:T6	
+R3	Isolated_From Arg1:T5 Arg2:T6	
+R4	Isolated_From Arg1:T5 Arg2:T1	
+T7	Species 156 172	male vegetarians
+T8	Species 216 225	omnivores
+T9	Biological_Activity 185 207	platelet aggregability
+T10	Species 262 278	male vegetarians
+T11	Chemical 332 352	alpha-linolenic acid
+T12	Metabolite 332 352	alpha-linolenic acid
+T13	Metabolite 354 357	ALA
+T14	Chemical 354 357	ALA
+T15	Chemical 405 410	PUFAs
+T16	Metabolite 405 410	PUFAs
+T17	Biological_Activity 447 469	platelet aggregability
+T18	Chemical 723 726	ALA
+T19	Chemical 612 615	fat
+T20	Chemical 634 648	vegetable oils
+T21	Chemical 653 663	margarines
+T22	Chemical 744 757	safflower oil
+T23	Chemical 762 791	safflower oil-based margarine
+T24	Chemical 840 843	ALA
+T25	Chemical 861 871	canola oil
+T26	Chemical 876 902	canola oil-based margarine
+T27	Chemical 914 917	ALA
+T28	Chemical 935 946	linseed oil
+T29	Chemical 951 978	linseed oil-based margarine
+T30	Chemical 1069 1090	Eicosapentaenoic acid
+T31	Chemical 1092 1113	docosapentaenoic acid
+T32	Chemical 1121 1130	n-3 PUFAs
+T33	Chemical 1149 1152;1160 1165	n-3 PUFAs
+T34	Chemical 1156 1165	n-6 PUFAs
+T35	Chemical 1228 1244	arachidonic acid
+T36	Chemical 1248 1269	eicosapentaenoic acid
+T37	Metabolite 723 726	ALA
+T38	Metabolite 840 843	ALA
+T39	Metabolite 744 757	safflower oil
+T40	Metabolite 861 871	canola oil
+T41	Metabolite 935 946	linseed oil
+T42	Metabolite 1069 1090	Eicosapentaenoic acid
+T43	Metabolite 1092 1113	docosapentaenoic acid
+T44	Metabolite 1121 1130	n-3 PUFAs
+T45	Metabolite 1149 1152;1160 1165	n-3 PUFAs
+T46	Metabolite 1156 1165	n-6 PUFAs
+T47	Metabolite 1228 1244	arachidonic acid
+T48	Metabolite 1248 1269	eicosapentaenoic acid
+T49	Chemical 1308 1321	phospholipids
+T50	Chemical 1330 1343	phospholipids
+T51	Chemical 1349 1365	triacylglycerols
+T52	Metabolite 1308 1321	phospholipids
+T53	Metabolite 1330 1343	phospholipids
+T54	Metabolite 1349 1365	triacylglycerols
+T55	Chemical 1392 1395	ALA
+T56	Metabolite 1392 1395	ALA
+T57	Chemical 1404 1407	ALA
+T58	Metabolite 1404 1407	ALA
+T59	Chemical 1435 1438	ALA
+T60	Metabolite 1435 1438	ALA
+T61	Metabolite 1527 1530	ALA
+T62	Chemical 1527 1530	ALA
+T63	Species 1552 1558	canola
+T64	Species 1563 1570	linseed
+T65	Species 744 753	safflower
+T66	Species 861 867	canola
+T67	Species 935 942	linseed
+R5	Isolated_From Arg1:T41 Arg2:T67	
+R6	Isolated_From Arg1:T40 Arg2:T66	
+R7	Isolated_From Arg1:T39 Arg2:T65	
+R8	Isolated_From Arg1:T61 Arg2:T63	
+R9	Isolated_From Arg1:T61 Arg2:T64	
+T68	Chemical 1599 1607	n-3 PUFA
+T69	Chemical 1635 1648	phospholipids
+T70	Metabolite 1635 1648	phospholipids
+T71	Chemical 1661 1667	lipids
+T72	Metabolite 1661 1667	lipids
+T73	Species 1671 1687	vegetarian males
+R10	Isolated_From Arg1:T70 Arg2:T73	
+R11	Isolated_From Arg1:T72 Arg2:T73	
+R12	Isolated_From Arg1:T42 Arg2:T73	
+R13	Isolated_From Arg1:T43 Arg2:T73	
+R14	Isolated_From Arg1:T47 Arg2:T73	
+R15	Isolated_From Arg1:T48 Arg2:T73	
+R16	Isolated_From Arg1:T52 Arg2:T73	
+R17	Isolated_From Arg1:T53 Arg2:T73	
+R18	Isolated_From Arg1:T54 Arg2:T73	
+T74	Chemical 419 430	thromboxane
+T75	Metabolite 419 430	thromboxane
+T76	Metabolite 1599 1607	n-3 PUFA

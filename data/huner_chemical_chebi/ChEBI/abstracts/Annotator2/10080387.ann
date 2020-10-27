@@ -1,0 +1,28 @@
+T1	Chemical 8 20	phospholipid
+#1	AnnotatorNotes T1	Chemical class
+T2	Metabolite 8 20	phospholipid
+T3	Species 61 78	Trypanosoma cruzi
+R1	Isolated_From Arg1:T2 Arg2:T3	
+T4	Spectral_Data 101 140	fast atom bombardment mass spectrometry
+T5	Spectral_Data 145 184	nuclear magnetic resonance spectroscopy
+T6	Chemical 190 211	plasmenylethanolamine
+T7	Metabolite 190 211	plasmenylethanolamine
+T8	Chemical 219 239	hexadec-l-enyl group
+T9	Chemical 304 317	octadecenoate
+T10	Chemical 322 338	octadecadienoate
+T11	Chemical 385 406	plasmenylethanolamine
+T12	Metabolite 385 406	plasmenylethanolamine
+R2	Isolated_From Arg1:T7 Arg2:T3	
+T13	Chemical 498 520	plasmenylethanolamines
+#2	AnnotatorNotes T13	Chemical class
+T14	Species 558 567	mammalian
+#3	AnnotatorNotes T14	Species class
+T15	Metabolite 498 520	plasmenylethanolamines
+R3	Isolated_From Arg1:T15 Arg2:T14	
+T16	Biological_Activity 628 636	epitopes
+R4	Associated_With Arg1:T15 Arg2:T16	
+R6	Associated_With Arg1:T2 Arg2:T4	
+R7	Associated_With Arg1:T1 Arg2:T4	
+R8	Associated_With Arg1:T1 Arg2:T5	
+R9	Associated_With Arg1:T2 Arg2:T5	
+T18	Species 453 461	patients

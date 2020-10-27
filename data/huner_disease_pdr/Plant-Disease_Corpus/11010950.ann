@@ -1,0 +1,22 @@
+T2	Disease 382 389	cancers	D009369
+T5	Disease 620 626	cancer	D009369
+T7	Disease 979 996	colorectal cancer	D015179
+T9	Disease 1089 1103	stomach cancer	D013274
+T10	Disease 1359 1366	cancers	D009369
+T12	Disease 1435 1441	cancer	D009369
+T14	Plant 118 124	garlic	4682
+T16	Plant 239 245	garlic	4682
+T18	Plant 495 501	garlic	4682
+T20	Plant 510 516	garlic	4682
+T22	Plant 530 536	garlic	4682
+T24	Plant 597 603	garlic	4682
+T27	Plant 1004 1010	garlic	4682
+T29	Plant 1034 1040	garlic	4682
+T30	Plant 1412 1418	garlic	4682
+T32	Plant 1543 1549	garlic	4682
+T4	Disease 319 335	prostate cancers	D011471
+T3	Disease 433 448	stomach cancers	D013274
+T1	Disease 1613 1631	colorectal cancers	D015179
+T6	Disease 681 695	stomach cancer	D013274
+T8	Treatment_of_disease 1586 1592	effect
+E1	Treatment_of_disease:T8 Theme:T1 Cause:T32

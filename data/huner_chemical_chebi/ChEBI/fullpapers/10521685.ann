@@ -1,0 +1,587 @@
+T1	Chemical 1 20	Heterocyclic amines
+T2	Species 32 41	bacterial
+T3	Biological_Activity 42 50	mutagens
+T4	Species 57 63	rodent
+T5	Chemical 64 75	carcinogens
+T6	Biological_Activity 64 75	carcinogens
+T7	Species 96 101	human
+T8	Biological_Activity 102 113	carcinogens
+T9	Chemical 102 113	carcinogens
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T1 Arg2:T6	
+T10	Chemical 133 152	heterocyclic amines
+T11	Chemical 315 333	heterocyclic amine
+T12	Biological_Activity 334 341	induced
+T13	Species 451 460	bacterial
+T14	Biological_Activity 461 473	mutagenicity
+T15	Chemical 477 496	heterocyclic amines
+T16	Chemical 508 521	chlorophyllin
+T17	Chemical 553 576	polyphenolic components
+T18	Metabolite 553 576	polyphenolic components
+T19	Species 582 585	tea
+T20	Species 587 593	coffee
+T21	Species 604 609	plant
+T22	Chemical 627 642	isothiocyanates
+T23	Chemical 652 690	1-O -hexyl-2,3,5-trimethylhydroquinone
+R3	Associated_With Arg1:T16 Arg2:T14	
+R4	Isolated_From Arg1:T18 Arg2:T19	
+R5	Isolated_From Arg1:T18 Arg2:T20	
+R6	Isolated_From Arg1:T18 Arg2:T21	
+R7	Associated_With Arg1:T22 Arg2:T14	
+R8	Associated_With Arg1:T23 Arg2:T14	
+T24	Species 709 720	madder root
+T25	Species 722 737	Rubia tinctorum
+T26	Chemical 761 782	hydroxyanthraquinones
+T27	Metabolite 761 782	hydroxyanthraquinones
+R9	Isolated_From Arg1:T27 Arg2:T25	
+R10	Isolated_From Arg1:T27 Arg2:T24	
+T28	Chemical 876 884	Purpurin
+T29	Chemical 886 921	1,2,4-trihydroxy-9,10-anthraquinone
+T30	Metabolite 876 884	Purpurin
+T31	Metabolite 886 921	1,2,4-trihydroxy-9,10-anthraquinone
+T32	Species 965 977	R. tinctorum
+T33	Chemical 998 1011	anthraquinone
+T34	Metabolite 998 1011	anthraquinone
+T35	Species 1025 1033	R. akane
+T36	Species 1036 1051	Japanese madder
+R11	Isolated_From Arg1:T30 Arg2:T32	
+R12	Isolated_From Arg1:T31 Arg2:T32	
+R13	Isolated_From Arg1:T30 Arg2:T35	
+R14	Isolated_From Arg1:T31 Arg2:T35	
+R15	Isolated_From Arg1:T31 Arg2:T36	
+R16	Isolated_From Arg1:T30 Arg2:T36	
+T37	Chemical 1138 1146	Purpurin
+T38	Metabolite 1138 1146	Purpurin
+T39	Biological_Activity 1150 1163	non-mutagenic
+T40	Biological_Activity 1231 1240	mutagenic
+R17	Associated_With Arg1:T38 Arg2:T40	
+R18	Associated_With Arg1:T37 Arg2:T40	
+T41	Biological_Activity 1292 1302	protective
+T42	Chemical 1316 1328	polyphenolic
+T43	Metabolite 1316 1328	polyphenolic
+T44	Species 1346 1355	bacterial
+T45	Biological_Activity 1356 1367	mutagenesis
+T46	Biological_Activity 1368 1375	induced
+T47	Chemical 1404 1423	heterocyclic amines
+T48	Chemical 1438 1479	3-amino-1-methyl-5H -pyrido[4,3-b ]indole
+T49	Chemical 1481 1488	Trp-P-2
+R19	Associated_With Arg1:T38 Arg2:T41	
+R20	Associated_With Arg1:T37 Arg2:T41	
+R21	Associated_With Arg1:T48 Arg2:T45	
+R22	Associated_With Arg1:T49 Arg2:T45	
+R23	Associated_With Arg1:T48 Arg2:T46	
+R24	Associated_With Arg1:T49 Arg2:T46	
+T50	Biological_Activity 1524 1534	metabolism
+T51	Chemical 1538 1557	heterocyclic amines
+T52	Biological_Activity 1561 1570	mutagenic
+T53	Protein 1612 1630	cytochrome P 4501A
+T54	Protein 1632 1637	CYP1A
+T55	Protein 1639 1647	isoforms
+T56	Protein 1663 1669	CYP1A2
+T57	Protein 1782 1806	prostaglandin H synthase
+T58	Chemical 1856 1868	free radical
+T59	Protein 1889 1921	NADPH-cytochrome P 450 reductase
+T60	Chemical 1967 1980	chlorophyllin
+T61	Biological_Activity 1998 2012	anti-mutagenic
+T62	Chemical 2013 2024	polyphenols
+T63	Metabolite 2013 2024	polyphenols
+T64	Biological_Activity 2071 2081	inhibition
+T65	Biological_Activity 2099 2109	metabolism
+T66	Protein 2085 2088	CYP
+T67	Chemical 2113 2132	heterocyclic amines
+T68	Chemical 2149 2174	hydroxylamine metabolites
+T69	Metabolite 2149 2175	hydroxylamine metabolites.
+R25	Metabolite_Of Arg1:T69 Arg2:T67	
+R26	Associated_With Arg1:T60 Arg2:T61	
+R27	Associated_With Arg1:T60 Arg2:T64	
+R28	Associated_With Arg1:T60 Arg2:T65	
+T70	Biological_Activity 2261 2275	anti-mutagenic
+R29	Associated_With Arg1:T38 Arg2:T39	
+R30	Associated_With Arg1:T37 Arg2:T39	
+T71	Chemical 2289 2297	purpurin
+T72	Metabolite 2289 2297	purpurin
+T73	Species 2321 2326	human
+T74	Protein 2327 2352	drug metabolizing enzymes
+T75	Species 2354 2359	human
+T76	Protein 2360 2366	CYP1A2
+T77	Species 2368 2373	human
+T78	Protein 2374 2406	NADPH-cytochrome P 450 reductase
+T79	Species 2412 2422	Salmonella
+T80	Protein 2423 2443	O -acetyltransferase
+T81	Chemical 2509 2544	1,2,4-trihydroxy-9,10-anthraquinone
+T82	Chemical 2499 2507	purpurin
+T83	Metabolite 2499 2507	purpurin
+T84	Metabolite 2509 2544	1,2,4-trihydroxy-9,10-anthraquinone
+T85	Chemical 2603 2622	heterocyclic amines
+T86	Chemical 2674 2687;2689 2699	chlorophyllin Cu–Na salt
+T87	Chemical 2753 2777	epigallocatechin gallate
+T88	Chemical 2779 2783	EGCG
+T89	Chemical 2873 2892	heterocyclic amines
+T90	Chemical 2935 2940	amine
+T91	Species 2946 2949	rat
+T92	Protein 2985 2992	protein
+T93	Chemical 3012 3019	acetone
+T94	Chemical 3106 3119	Trp-P-2(NHOH)
+T95	Chemical 3141 3148	Trp-P-2
+T96	Chemical 3153 3165	Trp-P-2(NO2)
+T97	Species 3207 3214	Animals
+T98	Species 3289 3293	rats
+T99	Chemical 3311 3317	PCB-54
+T100	Chemical 3343 3368	polychlorinated biphenyls
+T101	Species 3428 3437	Bacterial
+T102	Biological_Activity 3450 3458	mutation
+T103	Species 3466 3482;3484 3488	Bacterial strain TA98
+T104	Species 3466 3482;3494 3507	Bacterial strain TA98-1,8-DNP6
+T105	Species 3673 3679;3681 3688	Strain TA1538R
+T106	Species 3673 3679;3690 3698	Strain TA1538AR
+T107	Species 3673 3679;3703 3712	Strain TA1538ARO
+T108	Species 3728 3733	human
+T109	Protein 3734 3759	drug metabolizing enzymes
+T110	Biological_Activity 3815 3827	Mutagenicity
+T111	Protein 3933 3944;3951 3958	recombinant enzymes
+T112	Species 3945 3950	human
+T113	Biological_Activity 4009 4023	anti-mutagenic
+T114	Chemical 4038 4046	purpurin
+T115	Metabolite 4038 4046	purpurin
+R31	Associated_With Arg1:T115 Arg2:T113	
+R32	Associated_With Arg1:T114 Arg2:T113	
+T116	Biological_Activity 4052 4061	mutagenic
+T117	Chemical 4062 4081	heterocyclic amines
+T118	Chemical 4169 4177	purpurin
+T119	Metabolite 4169 4177	purpurin
+T120	Biological_Activity 4243 4259	anti-mutagenesis
+T121	Species 4327 4336	TA1538ARO
+T122	Species 4358 4363	human
+T123	Protein 4364 4370	CYP1A2
+T124	Species 4372 4377	human
+T125	Protein 4378 4410	NADPH-cytochrome P 450 reductase
+T126	Species 4416 4425	bacterial
+T127	Protein 4426 4446	O -acetyltransferase
+T128	Species 4448 4457	bacterial
+T129	Chemical 4507 4515	purpurin
+T130	Metabolite 4507 4515	purpurin
+T131	Species 4603 4611	bacteria
+T132	Species 4617 4625	bacteria
+T133	Chemical 4663 4671	nutrient
+T134	Biological_Activity 4663 4671	nutrient
+T135	Species 4716 4725	bacterial
+T136	Chemical 4759 4767	nutrient
+T137	Biological_Activity 4759 4767	nutrient
+T138	Protein 4831 4834	CYP
+T139	Protein 4839 4871	NADPH-cytochrome P 450 reductase
+T140	Protein 4878 4894	cytochrome P 450
+T141	Protein 4957 4989	NADPH-cytochrome P 450 reductase
+T142	Biological_Activity 4957 4989	NADPH-cytochrome P 450 reductase
+T143	Protein 5034 5046	cytochrome c
+T144	Biological_Activity 5141 5155	anti-mutagenic
+T145	Chemical 5169 5177	purpurin
+T146	Metabolite 5169 5177	purpurin
+T147	Chemical 5186 5204	heterocyclic amine
+T148	Biological_Activity 5205 5212	induced
+T149	Biological_Activity 5213 5225	mutagenicity
+T150	Species 5232 5261	Salmonella typhimurium  TA98.
+T151	Chemical 5262 5270	Purpurin
+T152	Metabolite 5262 5270	Purpurin
+T153	Biological_Activity 5297 5304	inhibit
+T154	Biological_Activity 5309 5321	mutagenicity
+T155	Chemical 5341 5359	heterocyclic amine
+R33	Associated_With Arg1:T152 Arg2:T153	
+R34	Associated_With Arg1:T151 Arg2:T153	
+R35	Associated_With Arg1:T152 Arg2:T154	
+R36	Associated_With Arg1:T151 Arg2:T154	
+T156	Biological_Activity 5610 5620	inhibition
+T157	Biological_Activity 5393 5403	inhibitory
+T158	Chemical 5624 5631	Trp-P-2
+T159	Biological_Activity 5642 5654	mutagenicity
+T160	Chemical 5658 5666	purpurin
+T161	Metabolite 5658 5666	purpurin
+T162	Biological_Activity 5693 5706	anti-mutagens
+T163	Chemical 5708 5712	EGCG
+T164	Chemical 5717 5730	chlorophyllin
+R37	Associated_With Arg1:T163 Arg2:T162	
+R38	Associated_With Arg1:T164 Arg2:T162	
+T165	Chemical 5751 5759	purpurin
+T166	Metabolite 5751 5759	purpurin
+T167	Biological_Activity 5776 5785	inhibitor
+T168	Biological_Activity 5789 5801	mutagenicity
+T169	Chemical 5886 5894	purpurin
+T170	Metabolite 5886 5894	purpurin
+T171	Biological_Activity 5900 5910	inhibition
+T172	Biological_Activity 5958 5971	anti-mutagens
+T173	Chemical 5973 5977	EGCG
+T174	Chemical 5996 6009	chlorophyllin
+T175	Biological_Activity 6026 6036	Inhibition
+T176	Chemical 6040 6053	Trp-P-2(NHOH)
+T177	Biological_Activity 6054 6066	mutagenicity
+R39	Associated_With Arg1:T176 Arg2:T177	
+T178	Biological_Activity 6122 6136	anti-mutagenic
+T179	Biological_Activity 6208 6217	mutagenic
+T180	Species 6288 6301	TA98-1,8-DNP6
+T181	Species 6308 6317	bacterial
+T182	Protein 6338 6361	N ,O -acetyltransferase
+T183	Chemical 6372 6383	aryl amines
+T184	Biological_Activity 6416 6429	bioactivation
+T185	Chemical 6476 6484	purpurin
+T186	Metabolite 6476 6484	purpurin
+T187	Biological_Activity 6496 6510	anti-mutagenic
+T188	Chemical 6565 6581	N -hydroxylamine
+T189	Biological_Activity 6596 6605	mutagenic
+T190	Chemical 6618 6631	Trp-P-2(NHOH)
+T191	Species 6635 6648	TA98-1,8-DNP6
+T192	Species 6665 6677	TA98 strains
+T193	Biological_Activity 6723 6733	inhibition
+T194	Chemical 6737 6745	purpurin
+T195	Metabolite 6737 6745	purpurin
+T196	Species 6823 6826	rat
+T197	Chemical 6839 6847	purpurin
+T198	Metabolite 6839 6847	purpurin
+T199	Biological_Activity 6867 6876	mutagenic
+T200	Chemical 6889 6902	Trp-P-2(NHOH)
+T201	Chemical 7022 7030	purpurin
+T202	Metabolite 7022 7030	purpurin
+T203	Biological_Activity 7031 7040	inhibited
+T204	Biological_Activity 7045 7054	mutagenic
+T205	Biological_Activity 7113 7125	mutagenicity
+T206	Chemical 7129 7142	Trp-P-2(NHOH)
+T207	Biological_Activity 7151 7161	inhibition
+T208	Chemical 7165 7173	purpurin
+T209	Metabolite 7165 7173	purpurin
+T210	Chemical 7228 7236	Purpurin
+T211	Metabolite 7228 7236	Purpurin
+T212	Biological_Activity 7241 7254	non-mutagenic
+T213	Species 7258 7276;7278 7285	Salmonella  strain TA1538R
+T214	Species 7258 7276;7287 7295	Salmonella  strain TA1538AR
+T215	Species 7258 7276;7300 7309	Salmonella  strain TA1538ARO
+T216	Protein 7330 7355	drug metabolizing enzymes
+T217	Species 7324 7329	human
+T218	Biological_Activity 7374 7386	cytotoxicity
+T219	Species 7403 7412	TA1538ARO
+R40	Associated_With Arg1:T211 Arg2:T218	
+R41	Associated_With Arg1:T210 Arg2:T218	
+T220	Biological_Activity 7442 7452	inhibition
+T221	Biological_Activity 7460 7472	mutagenicity
+T222	Chemical 7476 7483	Trp-P-2
+T223	Chemical 5431 5438	Trp-P-1
+T224	Chemical 5454 5461	Trp-P-2
+T225	Chemical 5551 5555	MeIQ
+T226	Chemical 5568 5570	IQ
+T227	Chemical 5586 5593	Glu-P-1
+T228	Chemical 7501 7509	purpurin
+T229	Metabolite 7501 7509	purpurin
+T230	Species 7513 7529	strain TA1538ARO
+T231	Chemical 7555 7563	purpurin
+T232	Metabolite 7555 7563	purpurin
+T233	Biological_Activity 7593 7602	mutagenic
+T234	Biological_Activity 7645 7657	mutagenicity
+T235	Species 7691 7700	TA1538ARO
+T236	Species 7701 7710	bacterial
+T237	Chemical 7724 7732	purpurin
+T238	Metabolite 7724 7732	purpurin
+T239	Biological_Activity 7762 7772	inhibition
+T240	Protein 7776 7808	NADPH-cytochrome P 450 reductase
+T241	Biological_Activity 7830 7841	degradation
+T242	Protein 7845 7848	CYP
+R42	Associated_With Arg1:T238 Arg2:T239	
+R43	Associated_With Arg1:T237 Arg2:T239	
+R44	Binds_With Arg1:T238 Arg2:T240	
+R45	Binds_With Arg1:T237 Arg2:T240	
+T243	Species 7886 7894	bacteria
+T244	Biological_Activity 7931 7940	mutagenic
+R46	Associated_With Arg1:T238 Arg2:T241	
+R47	Associated_With Arg1:T237 Arg2:T241	
+T245	Chemical 7975 7982	Trp-P-2
+T246	Chemical 8105 8113	purpurin
+T247	Metabolite 8105 8113	purpurin
+T248	Biological_Activity 8120 8129	inhibitor
+T249	Chemical 8133 8151	heterocyclic amine
+T250	Biological_Activity 8152 8159	induced
+T251	Biological_Activity 8160 8169	mutations
+T252	Species 8186 8195	bacterial
+T253	Chemical 8209 8217	Purpurin
+T254	Metabolite 8209 8217	Purpurin
+T255	Biological_Activity 8227 8236	inhibited
+T256	Biological_Activity 8241 8250	mutagenic
+T257	Chemical 8274 8293	heterocyclic amines
+T258	Biological_Activity 8326 8336	inhibition
+T259	Biological_Activity 8344 8355	activated  
+T260	Chemical 8355 8369	pyrido indoles
+T261	Chemical 8371 8378	Trp-P-1
+T262	Chemical 8383 8390	Trp-P-2
+T263	Biological_Activity 8407 8414	mutagen
+T264	Chemical 8415 8423	purpurin
+T265	Metabolite 8415 8423	purpurin
+T266	Biological_Activity 8448 8458	inhibition
+T267	Chemical 8462 8469	Trp-P-1
+T268	Biological_Activity 8470 8482	mutagenicity
+T269	Chemical 8533 8541	purpurin
+T270	Metabolite 8533 8541	purpurin
+T271	Biological_Activity 8703 8713	protective
+T272	Chemical 8724 8732	purpurin
+T273	Metabolite 8724 8732	purpurin
+T274	Biological_Activity 8741 8752	activated  
+T275	Chemical 8752 8759	Trp-P-2
+T276	Biological_Activity 8811 8824	anti-mutagens
+T277	Chemical 8826 8830	EGCG
+T278	Chemical 8835 8848	chlorophyllin
+T279	Chemical 8850 8858	purpurin
+T280	Metabolite 8850 8858	purpurin
+R48	Associated_With Arg1:T273 Arg2:T271	
+R49	Associated_With Arg1:T272 Arg2:T271	
+T281	Chemical 8914 8922	purpurin
+T282	Metabolite 8914 8922	purpurin
+T283	Chemical 9003 9011	purpurin
+T284	Metabolite 9003 9011	purpurin
+T285	Chemical 9055 9063	alkaline
+T286	Biological_Activity 9102 9112	inhibition
+T287	Chemical 9116 9129	Trp-P-2(NHOH)
+T288	Biological_Activity 9130 9142	mutagenicity
+T289	Chemical 9181 9187	acidic
+T290	Chemical 9254 9262	purpurin
+T291	Metabolite 9254 9262	purpurin
+T292	Biological_Activity 9279 9288	inhibited
+T293	Biological_Activity 9293 9302	mutagenic
+T294	Chemical 9451 9459	purpurin
+T295	Metabolite 9451 9459	purpurin
+T296	Chemical 9473 9479	acidic
+T297	Biological_Activity 9501 9515	anti-mutagenic
+T298	Biological_Activity 9490 9496	blocks
+T299	Biological_Activity 9548 9560	mutagenicity
+T300	Chemical 9564 9577	Trp-P-2(NHOH)
+T301	Chemical 9627 9635	purpurin
+T302	Metabolite 9627 9635	purpurin
+T303	Chemical 9668 9681	Trp-P-2(NHOH)
+T304	Chemical 9716 9722	acidic
+T305	Chemical 9787 9800	nitrenium ion
+T306	Chemical 9802 9810	Purpurin
+T307	Metabolite 9802 9810	Purpurin
+T308	Chemical 9880 9893	hydroxylamine
+T309	Biological_Activity 9899 9912	non-mutagenic
+T310	Chemical 9942 9955	Trp-P-2(NHOH)
+T311	Biological_Activity 9964 9973	mutagenic
+T312	Chemical 10070 10083	Monascus  red
+T313	Chemical 10088 10104	Monascus  yellow
+T314	Chemical 10114 10127	chlorophyllin
+T315	Chemical 10053 10061	pigments
+T316	Biological_Activity 10053 10061	pigments
+T317	Chemical 10140 10166	aromatic N -hydroxylamines
+T318	Biological_Activity 10183 10193	metabolism
+T319	Species 10197 10206	bacterial
+T320	Protein 10207 10231	N ,O -acetyltransferases
+T321	Biological_Activity 10240 10249	mutagenic
+T322	Chemical 10250 10266	N -acetoxyamines
+R50	Associated_With Arg1:T322 Arg2:T321	
+T323	Chemical 10289 10297	purpurin
+T324	Metabolite 10289 10297	purpurin
+T325	Chemical 10325 10341	N -hydroxylamine
+T326	Chemical 10349 10364	N -acetoxyamine
+T327	Biological_Activity 10370 10380	inhibition
+T328	Chemical 10384 10397	Trp-P-2(NHOH)
+T329	Biological_Activity 10398 10410	mutagenicity
+T330	Species 10427 10431	TA98
+T331	Protein 10440 10463	N ,O -acetyltransferase
+T332	Species 10474 10496	TA98-1,8-DNP6  strains
+T333	Biological_Activity 10507 10516	mutagenic
+T334	Chemical 10529 10542	Trp-P-2(NHOH)
+T335	Biological_Activity 10551 10561	inhibition
+T336	Chemical 10565 10573	purpurin
+T337	Metabolite 10565 10573	purpurin
+T338	Chemical 10649 10662	Trp-P-2(NHOH)
+T339	Biological_Activity 10663 10670	induced
+T340	Biological_Activity 10671 10680	mutations
+T341	Protein 10688 10711	N ,O -acetyltransferase
+T342	Chemical 10831 10847	N -hydroxylamine
+T343	Chemical 10856 10871	N -acetoxyamine
+T344	Chemical 10875 10882	Trp-P-2
+T345	Chemical 10918 10931	nitrenium ion
+T346	Chemical 10984 10992	purpurin
+T347	Biological_Activity 11014 11028	anti-mutagenic
+T348	Chemical 11060 11076	N -hydroxylamine
+T349	Chemical 11122 11130	purpurin
+T350	Metabolite 11122 11130	purpurin
+T351	Biological_Activity 11152 11164	mutagenicity
+T352	Chemical 11168 11181	Trp-P-2(NHOH)
+T353	Chemical 11240 11248	purpurin
+T354	Metabolite 11240 11248	purpurin
+T355	Biological_Activity 11261 11273	anti-mutagen
+T356	Biological_Activity 11387 11397	inhibitory
+T357	Biological_Activity 11484 11493	mutagenic
+T358	Biological_Activity 11568 11575	binding
+T359	Protein 11605 11612	protein
+T360	Chemical 11637 11645	purpurin
+T361	Metabolite 11637 11645	purpurin
+T362	Chemical 11805 11818	Trp-P-2(NHOH)
+T363	Chemical 11875 11883	purpurin
+T364	Metabolite 11875 11883	purpurin
+T365	Chemical 12004 12012	purpurin
+T366	Metabolite 12004 12012	purpurin
+T367	Protein 12068 12075	enzymes
+T368	Biological_Activity 12108 12120	metabolizing
+T369	Chemical 12121 12129	purpurin
+T370	Metabolite 12121 12129	purpurin
+T371	Biological_Activity 12150 12159	inhibitor
+T372	Chemical 12197 12205	purpurin
+T373	Metabolite 12197 12205	purpurin
+T374	Biological_Activity 12213 12220	mutagen
+T375	Chemical 12230 12251	hydroxyanthraquinones
+T376	Chemical 12263 12271	purpurin
+T377	Metabolite 12263 12271	purpurin
+T378	Chemical 12295 12306	carcinogens
+T379	Biological_Activity 12295 12306	carcinogens
+T380	Chemical 12213 12220	mutagen
+T381	Species 12311 12320	bacterial
+T382	Chemical 12321 12329	mutagens
+T383	Metabolite 12321 12329	mutagens
+T384	Chemical 12382 12390	purpurin
+T385	Metabolite 12382 12390	purpurin
+T386	Species 12414 12418	rats
+T387	Biological_Activity 12449 12460	hyperplasia
+R51	Associated_With Arg1:T385 Arg2:T387	
+R52	Associated_With Arg1:T384 Arg2:T387	
+T388	Chemical 12620 12628	purpurin
+T389	Metabolite 12620 12628	purpurin
+T390	Chemical 12652 12674	1-hydroxyanthraquinone
+T391	Biological_Activity 12685 12696	tumorigenic
+T392	Biological_Activity 12700 12713	toxicological
+T393	Biological_Activity 12846 12857	tumorigenic
+T394	Chemical 12881 12889	purpurin
+T395	Metabolite 12881 12889	purpurin
+T396	Chemical 12923 12936	free radicals
+T397	Protein 12956 12988	NADPH-cytochrome P 450 reductase
+T398	Biological_Activity 13005 13017	mutagenicity
+T399	Chemical 13021 13029	purpurin
+T400	Metabolite 13021 13029	purpurin
+T401	Species 13050 13059	bacterial
+T402	Protein 13091 13098	enzymes
+T403	Species 13060 13066;13099 13106	strain TA1538R
+T404	Species 13060 13066;13149 13157	strain TA1538AR
+T405	Species 13060 13066;13221 13230	strain TA1438ARO
+T406	Species 13108 13113	human
+T407	Protein 13114 13146	NADPH-cytochrome P 450 reductase
+T408	Species 13159 13164	human
+T409	Protein 13165 13197	NADPH-cytochrome P 450 reductase
+T410	Species 13202 13207	human
+T411	Protein 13208 13214	CYP1A2
+T412	Species 13232 13237	human
+T413	Protein 13238 13271	NADPH-cytochrome P 450 reductase,
+T414	Species 13272 13277	human
+T415	Protein 13278 13284	CYP1A2
+T416	Species 13290 13299	bacterial
+T417	Protein 13300 13320	O -acetyltransferase
+T418	Biological_Activity 13375 13387	mutagenicity
+T419	Chemical 13437 13445	Purpurin
+T420	Metabolite 13437 13445	Purpurin
+T421	Biological_Activity 13463 13475	cytotoxicity
+T422	Species 13479 13486;13530 13536	TA1538R strain
+T423	Species 13520 13536	TA1538ARO strain
+T424	Biological_Activity 13542 13554	cytotoxicity
+T425	Species 13562 13578	TA1538ARO strain
+T426	Chemical 13610 13618	purpurin
+T427	Metabolite 13610 13618	purpurin
+T428	Biological_Activity 13657 13666	cytotoxic
+T429	Metabolite 13657 13677	cytotoxic metabolite
+T430	Chemical 13657 13677	cytotoxic metabolite
+T431	Chemical 13762 13770	purpurin
+T432	Metabolite 13762 13770	purpurin
+T433	Species 13858 13865;13879 13885	TA1538R strain
+T434	Species 13870 13885	TA1538AR strain
+T435	Species 13948 13957	bacterial
+T436	Protein 13977 13997	O -acetyltransferase
+T437	Chemical 14071 14079	purpurin
+T438	Metabolite 14071 14079	purpurin
+T439	Biological_Activity 14097 14109	mutagenicity
+T440	Chemical 14113 14120	Trp-P-2
+T441	Biological_Activity 14125 14134	inhibited
+T442	Species 14159 14175	TA1538ARO strain
+T443	Chemical 14205 14213	purpurin
+T444	Metabolite 14205 14213	purpurin
+T445	Biological_Activity 14254 14263	mutagenic
+T446	Chemical 14337 14345	purpurin
+T447	Metabolite 14337 14345	purpurin
+T448	Species 14370 14379	bacterial
+T449	Protein 14434 14440	CYP1A2
+T450	Biological_Activity 14445 14455	inhibition
+T451	Protein 14459 14491	NADPH-cytochrome P 450 reductase
+T452	Biological_Activity 14419 14430	degradation
+T453	Biological_Activity 14507 14516	inhibited
+T454	Biological_Activity 14521 14534	bioactivation
+T455	Chemical 14538 14545	Trp-P-2
+T456	Chemical 14586 14593	Trp-P-2
+T457	Biological_Activity 14605 14617	mutagenicity
+T458	Protein 14622 14628	CYP1A2
+T459	Biological_Activity 14629 14640	degradation
+T460	Chemical 14692 14699	Trp-P-2
+T461	Biological_Activity 14711 14723	mutagenicity
+T462	Biological_Activity 14732 14742	inhibition
+T463	Protein 14746 14778	NADPH-cytochrome P 450 reductase
+T464	Chemical 14810 14818	purpurin
+T465	Metabolite 14810 14818	purpurin
+T466	Biological_Activity 14827 14837	inhibiting
+T467	Biological_Activity 14842 14855	bioactivation
+T468	Chemical 14859 14866	Trp-P-2
+T469	Protein 14870 14876	CYP1A2
+R53	Associated_With Arg1:T465 Arg2:T466	
+R54	Associated_With Arg1:T464 Arg2:T466	
+R55	Associated_With Arg1:T465 Arg2:T467	
+R56	Associated_With Arg1:T464 Arg2:T467	
+T470	Chemical 14886 14894	purpurin
+T471	Metabolite 14886 14894	purpurin
+T472	Protein 14910 14916	CYP1A2
+T473	Biological_Activity 14927 14932	binds
+T474	Protein 14940 14952	haemoprotein
+T475	Chemical 14989 15004	carbon monoxide
+T476	Chemical 15072 15080	purpurin
+T477	Metabolite 15072 15080	purpurin
+T478	Protein 15114 15119	CYP1A
+T479	Protein 15120 15128	isoforms
+T480	Chemical 15144 15152	purpurin
+T481	Metabolite 15144 15152	purpurin
+T482	Chemical 15170 15177	Trp-P-2
+T483	Protein 15211 15217	CYP1A1
+T484	Protein 15222 15228	CYP1A2
+T485	Chemical 15243 15251	purpurin
+T486	Metabolite 15243 15251	purpurin
+T487	Biological_Activity 15264 15273	inhibitor
+T488	Chemical 15277 15295	heterocyclic amine
+T489	Biological_Activity 15296 15303	induced
+T490	Species 15304 15313	bacterial
+T491	Biological_Activity 15314 15325	mutagenesis
+T492	Biological_Activity 15345 15356	activated  
+T493	Chemical 15356 15363	Trp-P-1
+T494	Chemical 15368 15375	Trp-P-2
+T495	Biological_Activity 15392 15406	anti-mutagenic
+T496	Chemical 15420 15428	purpurin
+T497	Metabolite 15420 15428	purpurin
+T498	Biological_Activity 15465 15478	anti-mutagens
+T499	Chemical 15480 15484	EGCG
+T500	Chemical 15489 15502	chlorophyllin
+T501	Biological_Activity 15521 15531	inhibition
+T502	Biological_Activity 15566 15577	activated  
+T503	Chemical 15577 15584	Trp-P-2
+T504	Chemical 15664 15670	acidic
+T505	Biological_Activity 15761 15771	inhibition
+T506	Biological_Activity 15775 15788	bioactivation
+T507	Protein 15792 15798	CYP1A2
+T508	Species 15811 15819	bacteria
+T509	Protein 15837 15862	drug metabolizing enzymes
+T510	Species 15831 15836	human
+T511	Biological_Activity 15928 15946	anticarcinogenesis
+T512	Species 15950 15956	humans
+T513	Chemical 15958 15966	Purpurin
+T514	Metabolite 15958 15966	Purpurin
+T515	Biological_Activity 15972 15980	inhibits
+T516	Biological_Activity 15992 16004	mutagenicity
+T517	Chemical 16008 16021	Trp-P-2(NHOH)
+T518	Biological_Activity 16075 16085	protective
+T519	Species 16148 16156	bacteria
+T520	Chemical 16158 16166	Purpurin
+T521	Metabolite 16158 16166	Purpurin
+T522	Species 16199 16205	rodent
+T523	Chemical 16206 16216	carcinogen
+T524	Biological_Activity 16206 16216	carcinogen
+T525	Species 16311 16317	animal
+T526	Chemical 16353 16361	purpurin
+T527	Metabolite 16353 16361	purpurin
+T528	Biological_Activity 16387 16402	chemopreventive
+T529	Chemical 16387 16408	chemopreventive agent
+T530	Chemical 16833 16841	purpurin
+T531	Metabolite 16833 16841	purpurin

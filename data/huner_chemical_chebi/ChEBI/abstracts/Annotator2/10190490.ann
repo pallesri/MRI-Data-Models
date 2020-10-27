@@ -1,0 +1,27 @@
+T1	Biological_Activity 47 63	antimutagenicity
+T2	Chemical 67 74	WR-1065
+R1	Associated_With Arg1:T2 Arg2:T1	
+T5	Biological_Activity 231 247	antimutagenicity
+T6	Chemical 251 258	WR-1065
+T7	Protein 266 282	thymidine kinase
+T10	Biological_Activity 394 410	antimutagenicity
+T11	Chemical 414 421	WR-1065
+R2	Associated_With Arg1:T11 Arg2:T10	
+T12	Chemical 540 547	WR-1065
+T14	Chemical 647 654	WR-1065
+T15	Biological_Activity 839 848	cytotoxic
+T16	Biological_Activity 853 862	mutagenic
+T17	Chemical 889 896	WR-1065
+T18	Chemical 1012 1019	WR-1065
+T19	Biological_Activity 1139 1149	scavenging
+T20	Biological_Activity 1204 1220	antimutagenicity
+T21	Chemical 1224 1231	WR-1065
+R6	Associated_With Arg1:T21 Arg2:T20	
+R8	Associated_With Arg1:T6 Arg2:T5	
+T3	Biological_Activity 565 576	stimulatory
+R3	Associated_With Arg1:T12 Arg2:T3	
+T4	Biological_Activity 817 826	protected
+R4	Associated_With Arg1:T17 Arg2:T4	
+T8	Biological_Activity 1106 1120	radioprotector
+R5	Associated_With Arg1:T18 Arg2:T8	
+R7	Associated_With Arg1:T18 Arg2:T19	

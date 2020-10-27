@@ -1,0 +1,30 @@
+T1	Biological_Activity 47 63	antimutagenicity
+T2	Chemical 67 74	WR-1065
+R1	Associated_With Arg1:T2 Arg2:T1	
+T4	Species 310 316	L5178Y
+#1	AnnotatorNotes T4	cell line from mouse
+T6	Biological_Activity 231 247	antimutagenicity
+T7	Chemical 251 258	WR-1065
+T8	Protein 266 282	thymidine kinase
+T9	Biological_Activity 394 410	antimutagenicity
+T10	Chemical 414 421	WR-1065
+T11	Biological_Activity 497 507	DSB repair
+R2	Associated_With Arg1:T7 Arg2:T6	
+R3	Associated_With Arg1:T10 Arg2:T9	
+T12	Chemical 540 547	WR-1065
+T13	Biological_Activity 587 600	DSB rejoining
+R4	Associated_With Arg1:T12 Arg2:T13	
+T14	Chemical 647 654	WR-1065
+T17	Chemical 889 896	WR-1065
+T18	Chemical 1012 1019	WR-1065
+T19	Biological_Activity 1131 1149	radical scavenging
+T20	Biological_Activity 1204 1220	antimutagenicity
+T21	Chemical 1224 1231	WR-1065
+R7	Associated_With Arg1:T21 Arg2:T20	
+T22	Biological_Activity 1106 1120	radioprotector
+R8	Associated_With Arg1:T18 Arg2:T22	
+T3	Biological_Activity 817 826	protected
+R5	Associated_With Arg1:T17 Arg2:T3	
+R6	Associated_With Arg1:T18 Arg2:T19	
+T5	Biological_Activity 839 848	cytotoxic
+T15	Biological_Activity 853 862	mutagenic

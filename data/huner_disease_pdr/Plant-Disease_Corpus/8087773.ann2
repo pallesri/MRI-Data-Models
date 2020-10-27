@@ -1,0 +1,10 @@
+T1	Disease 95 101	cancer
+T2	Disease 213 219	cancer
+T3	Disease 390 396	cancer
+T4	Plant 249 256	tobacco
+T5	Plant 462 469	tobacco
+T6	Plant 488 498	California
+T7	Plant 832 842	California
+T8	Plant 1287 1294	tobacco
+T9	Treatment_of_disease 200 209	effective
+E1	Treatment_of_disease:T9 Theme:T2 Cause:T4

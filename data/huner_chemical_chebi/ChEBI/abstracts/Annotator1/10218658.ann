@@ -1,0 +1,65 @@
+T1	Chemical 61 69	pyruvate
+T2	Biological_Activity 70 80	metabolism
+T3	Chemical 41 57	lipoic compounds
+T4	Chemical 97 110	R-lipoic acid
+T5	Chemical 112 116	R-LA
+T6	Chemical 119 132	S-lipoic acid
+T7	Chemical 134 138	S-LA
+T8	Chemical 144 177	1,2-diselenolane-3-pentanoic acid
+T9	Chemical 179 184	Se-LA
+T10	Species 211 220	mammalian
+T11	Protein 221 251	pyruvate dehydrogenase complex
+T12	Protein 253 256	PDC
+T13	Chemical 311 315	S-LA
+T14	Chemical 320 324	R-LA
+T15	Protein 344 347	PDC
+T16	Biological_Activity 334 343	inhibited
+R1	Associated_With Arg1:T13 Arg2:T16	
+R2	Associated_With Arg1:T14 Arg2:T16	
+T17	Chemical 366 371	Se-LA
+R3	Associated_With Arg1:T17 Arg2:T16	
+T18	Chemical 505 510	Se-LA
+T19	Protein 525 547	pyruvate dehydrogenase
+T21	Biological_Activity 511 520	inhibited
+R4	Associated_With Arg1:T18 Arg2:T21	
+T22	Chemical 567 571	R-LA
+T23	Chemical 576 580	S-LA
+T24	Protein 595 629	dihydrolipoamide acetyltransferase
+T26	Biological_Activity 581 590	inhibited
+R7	Associated_With Arg1:T23 Arg2:T26	
+T27	Chemical 651 667	lipoic compounds
+T28	Protein 676 708	dihydrolipoamide  dehydrogrenase
+T29	Protein 710 712	E3
+T34	Protein 787 789	E3
+T36	Chemical 807 811	R-LA
+T37	Chemical 816 821	Se-LA
+T39	Chemical 896 911	[1-14C]pyruvate
+T40	Chemical 903 911	pyruvate
+T41	Protein 916 919	PDC
+T42	Chemical 965 969	R-LA
+T43	Chemical 1001 1005	S-LA
+T44	Chemical 1010 1015	Se-LA
+T46	Protein 1059 1062	PDC
+T47	Chemical 1108 1124	lipoic compounds
+T48	Chemical 1185 1193	pyruvate
+T50	Chemical 1236 1240	R-LA
+T51	Chemical 1319 1323	R-LA
+T52	Biological_Activity 1330 1341	antioxidant
+R28	Associated_With Arg1:T51 Arg2:T52	
+R32	Binds_With Arg1:T13 Arg2:T15	
+R33	Binds_With Arg1:T14 Arg2:T15	
+R29	Binds_With Arg1:T17 Arg2:T15	
+R30	Binds_With Arg1:T18 Arg2:T19	
+R5	Binds_With Arg1:T23 Arg2:T24	
+R31	Binds_With Arg1:T22 Arg2:T24	
+R6	Associated_With Arg1:T22 Arg2:T26	
+R9	Binds_With Arg1:T18 Arg2:T29	
+R8	Binds_With Arg1:T18 Arg2:T28	
+R16	Binds_With Arg1:T22 Arg2:T28	
+R17	Binds_With Arg1:T23 Arg2:T28	
+R18	Binds_With Arg1:T22 Arg2:T29	
+R20	Binds_With Arg1:T23 Arg2:T29	
+R19	Binds_With Arg1:T36 Arg2:T34	
+R21	Binds_With Arg1:T37 Arg2:T34	
+T20	Biological_Activity 694 708	dehydrogrenase
+T25	Biological_Activity 1172 1181	oxidation

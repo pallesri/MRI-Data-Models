@@ -1,0 +1,24 @@
+T1	Disease 106 118	liver cancer
+T4	Disease 481 487	cancer
+T5	Disease 636 648	liver cancer
+T6	Disease 729 737	diabetes
+T7	Disease 742 763	chronic liver disease
+T8	Disease 837 849	liver cancer
+T9	Disease 1157 1169	liver cancer
+T10	Disease 1352 1364	liver cancer
+T12	Disease 1796 1808	liver cancer
+T13	Disease 1865 1877	liver cancer
+T15	Plant 86 92	coffee
+T17	Plant 314 320	coffee
+T19	Plant 916 922	coffee
+T20	Plant 1125 1131	coffee
+T23	Plant 1329 1335	coffee
+T24	Plant 1613 1619	coffee
+T26	Plant 1725 1731	Coffee
+T14	Treatment_of_disease 66 77	association
+E1	Treatment_of_disease:T14 Cause:T15 Theme:T1
+T2	Disease 217 229	liver cancer
+T11	Disease 1518 1523	obese
+T16	Treatment_of_disease 1767 1778	association
+E2	Treatment_of_disease:T16 Cause:T26 Theme:T12
+T3	Disease 372 384	liver cancer

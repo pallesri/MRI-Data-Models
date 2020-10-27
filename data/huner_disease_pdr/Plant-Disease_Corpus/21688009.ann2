@@ -1,0 +1,19 @@
+T1	Disease 12 39	Inflammatory bowel diseases
+T2	Disease 41 44	IBD
+T3	Disease 60 96	uncontrolled intestinal inflammation
+T4	Disease 108 126	mucosal disruption
+T6	Disease 656 663	colitis
+T10	Disease 1311 1318	colitis
+T11	Disease 1817 1824	colitis
+T13	Plant 385 398	Lemon verbena
+T16	Plant 400 417	Aloysia triphylla
+T18	Plant 559 572	lemon verbena
+T21	Plant 709 722	lemon verbena
+T24	Plant 1451 1464	lemon verbena
+T27	Plant 1736 1749	lemon verbena
+*	Equiv T16 T13
+T12	Treatment_of_disease 1786 1796	protection
+E1	Treatment_of_disease:T12 Theme:T11 Cause:T27
+T5	Treatment_of_disease 537 555	preventive effects
+E2	Treatment_of_disease:T5 Cause:T18 Theme:T6
+*	Equiv T1 T2

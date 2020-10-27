@@ -1,0 +1,45 @@
+T4	Species 139 142	pig
+T5	Species 168 176	primates
+T6	Species 230 233	pig
+T9	Species 318 323	human
+T10	Species 335 341	baboon
+T11	Species 416 422	rabbit
+T12	Biological_Activity 364 376	Cytotoxicity
+T21	Chemical 742 754	disaccharide
+#2	AnnotatorNotes T21	Chemical class
+T22	Chemical 756 770	trisaccharides
+#3	AnnotatorNotes T22	Chemical class
+T23	Chemical 790 805	pentasaccharide
+#4	AnnotatorNotes T23	Chemical class
+T24	Biological_Activity 817 829	Cytotoxicity
+T25	Species 833 838	human
+T26	Species 918 924	baboon
+T27	Species 978 983	human
+T30	Species 1107 1113	baboon
+T35	Biological_Activity 1276 1288	cytotoxicity
+T36	Species 1353 1358	human
+T37	Species 1363 1369	baboon
+T38	Biological_Activity 1451 1463	cytotoxicity
+T40	Protein 1468 1490	anti-alphaGal antibody
+T14	Protein 531 553	Anti-alphaGal antibody
+T8	Protein 259 281	anti-alphaGal antibody
+T29	Protein 993 1015	anti-alphaGal antibody
+T32	Protein 1140 1162	anti-alphaGal antibody
+T34	Protein 1237 1259	anti-alphaGal antibody
+T41	Species 1500 1505	human
+T42	Species 1510 1516	baboon
+T43	Protein 1629 1653	anti-alphaGal antibodies
+T45	Species 1673 1678	human
+T46	Species 1683 1689	baboon
+T47	Protein 1716 1740	anti-alphaGal antibodies
+T50	Protein 1798 1822	anti-alphaGal antibodies
+T51	Species 1890 1897	baboons
+T52	Species 1941 1947	humans
+T53	Species 1955 1958	pig
+T54	Species 1962 1969	primate
+T1	Protein 47 67;79 89	anti-Gal alpha1-3Gal antibodies
+T2	Protein 68 89	(alphaGal) antibodies
+T3	Biological_Activity 214 226	cytotoxicity
+T7	Chemical 479 494	fluorescent dye
+T13	Protein 590 623	alphaGal trisaccharide type 2-BSA
+T15	Protein 711 723	alphaGal-BSA

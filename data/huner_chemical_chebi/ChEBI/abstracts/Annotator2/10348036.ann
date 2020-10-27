@@ -1,0 +1,18 @@
+T1	Species 269 299	Penicillium minioluteum F-4627
+T3	Protein 147 150	NGF
+T4	Species 160 165	funga
+T5	Metabolite 167 177	metabolite
+T6	Chemical 167 177	metabolite
+T7	Chemical 179 217	phenylacetic acid hydrazide derivative
+T8	Chemical 218 224	NG-061
+T9	Metabolite 218 224	NG-061
+R1	Isolated_From Arg1:T9 Arg2:T1	
+T10	Biological_Activity 124 136	neurotrophic
+T11	Species 383 386	rat
+T12	Chemical 301 307	NG-061
+T13	Metabolite 301 307	NG-061
+T15	Biological_Activity 330 342	neurotrophic
+R2	Associated_With Arg1:T13 Arg2:T15	
+R3	Associated_With Arg1:T12 Arg2:T15	
+T2	Protein 353 356	NGF
+T14	Chemical 61 77	natural products

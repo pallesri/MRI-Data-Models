@@ -1,0 +1,18 @@
+T1	Disease 168 174	tumors
+T2	Disease 292 297	tumor
+T3	Disease 313 318	tumor
+T4	Disease 444 450	tumors
+T5	Disease 478 503	hepatocellular carcinomas
+T6	Disease 597 610	kidney tumors
+T7	Disease 666 678	liver tumors
+T8	Plant 27 33	garlic
+T10	Plant 38 44	garlic
+T12	Plant 103 107	toad
+T13	Plant 237 243	garlic
+T16	Plant 247 253	garlic
+T17	Plant 372 378	garlic
+T19	Plant 393 399	garlic
+T21	Plant 585 591	garlic
+T23	Plant 730 736	garlic
+T9	Treatment_of_disease 279 288	reduction
+E1	Treatment_of_disease:T9 Theme:T2 Cause:T16 Cause2:T13

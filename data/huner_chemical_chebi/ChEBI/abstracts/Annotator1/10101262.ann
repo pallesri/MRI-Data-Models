@@ -1,0 +1,38 @@
+T1	Protein 53 60	enzymes
+T2	Chemical 112 142	bis(monoacylglycerol)phosphate
+T3	Metabolite 112 142	bis(monoacylglycerol)phosphate
+T4	Chemical 148 168	phosphatidylglycerol
+T5	Metabolite 148 168	phosphatidylglycerol
+T6	Protein 189 201	transacylase
+#1	AnnotatorNotes T6	An enzyme
+T7	Chemical 333 368	sn-3:sn-1' lysophosphatidylglycerol
+T8	Chemical 377 418	sn-3:sn-1' bis(monoacylglycerol)phosphate
+T9	Metabolite 333 368	sn-3:sn-1' lysophosphatidylglycerol
+T10	Metabolite 377 418	sn-3:sn-1' bis(monoacylglycerol)phosphate
+T11	Protein 290 296	enzyme
+T12	Protein 450 456	enzyme
+T13	Chemical 466 490	lysophosphatidylglycerol
+T16	Chemical 604 610	lipids
+T17	Protein 648 654	enzyme
+T18	Chemical 663 683	saturated acyl chain
+#2	AnnotatorNotes T18	structural features
+T19	Chemical 673 683;688 702	acyl chain monounsaturate
+T20	Chemical 705 733	16 and 18 carbon fatty acids
+#3	AnnotatorNotes T20	Class of chemicals
+T21	Chemical 739 760	14 carbon fatty acids
+#4	AnnotatorNotes T21	Class of chemicals
+T22	Chemical 766 787	saturated acyl chains
+T23	Chemical 812 839	monounsaturated acyl chains
+T24	Chemical 864 887	ysophosphatidylglycerol
+T25	Biological_Activity 920 932	transacylase
+T26	Chemical 971 976	lipid
+T27	Chemical 977 982	water
+T28	Chemical 1002 1007	lipid
+T29	Chemical 848 859	sn-2 carbon
+#5	AnnotatorNotes T29	describes a carbon attached to a double bond
+T30	Chemical 321 329	glycerol
+R1	Metabolite_Of Arg1:T10 Arg2:T7	
+T14	Chemical 512 516	acyl
+T15	Chemical 542 546	acyl
+T31	Chemical 570 574	acyl
+T32	Protein 920 932	transacylase

@@ -1,0 +1,15 @@
+T1	Disease 70 77	malaria
+T2	Disease 103 110	malaria
+T3	Disease 302 309	malaria
+T4	Disease 644 651	malaria
+T5	Disease 692 699	malaria
+T6	Disease 913 920	malaria
+T9	Treatment_of_disease 88 95	prevent
+E1	Treatment_of_disease:T9 Theme:T2 Cause:T8 Cause2:T7
+T10	Disease 248 260	parasitaemia
+T11	Disease 326 333	anaemia
+T12	Plant 392 394	AM
+T13	Disease 758 765	anaemia
+T14	Disease 936 943	anaemia
+T7	Plant 0 17	Argemone mexicana
+T8	Plant 19 21	AM

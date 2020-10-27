@@ -1,0 +1,15 @@
+T1	Biological_Activity 22 35	antimicrobial
+T2	Chemical 66 105	cephalosporinic beta-lactam antibiotics
+T3	Biological_Activity 94 105	antibiotics
+T4	Chemical 194 220	substituted cephalosporins
+T5	Biological_Activity 247 257	antibiotic
+T6	Chemical 228 263	anti Gram-positive antibiotic drugs
+T7	Biological_Activity 318 331	antibacterial
+T8	Species 367 390	Gram-positive pathogens
+T9	Chemical 278 287	compounds
+T10	Chemical 501 510	compounds
+T11	Species 565 587	Gram-negative bacteria
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T2 Arg2:T3	
+R3	Associated_With Arg1:T4 Arg2:T5	
+R4	Associated_With Arg1:T9 Arg2:T7	

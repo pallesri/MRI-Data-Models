@@ -1,0 +1,326 @@
+T1	Protein 39 57	ribosomal proteins
+T2	Chemical 61 76	dansyl chloride
+T3	Chemical 86 99	iodoacetamide
+T4	Protein 162 170	proteins
+T5	Species 174 177	rat
+T6	Protein 216 224	proteins
+T7	Chemical 256 259	MAI
+T8	Chemical 261 279	methyl acetimidate
+T9	Chemical 281 284	NPA
+T10	Chemical 286 307	p-nitrophenyl acetate
+T11	Chemical 309 312	TEA
+T12	Chemical 314 332	triethanol-  amine
+T13	Chemical 377 389	amino groups
+T14	Chemical 393 396	NPA
+T15	Chemical 403 406	MAI
+T16	Protein 567 575	proteins
+T17	Chemical 630 638	[~4C]MAI
+T18	Chemical 717 735	[~4C] acetonitrile
+T19	Chemical 789 796	[3H]NPA
+T20	Species 929 932	rat
+T21	Chemical 997 1000	KCI
+T22	Chemical 1008 1015	TEA HC1
+T23	Chemical 1032 1037	MgC12
+T24	Chemical 1045 1063	fi-mercaptoethanol
+T25	Chemical 1075 1084	puromycin
+T26	Chemical 1283 1290	TEA HC1
+T27	Chemical 1306 1311	MgC12
+T28	Chemical 1380 1387	TEA HC1
+T29	Chemical 1404 1407	KC1
+T30	Chemical 1417 1422	MgC12
+T31	Chemical 1424 1432	buffer A
+T32	Protein 1505 1513	proteins
+T33	Chemical 1601 1604	HC1
+T34	Chemical 1625 1628	RNA
+T35	Chemical 1727 1730	KC1
+T36	Chemical 1738 1745	TEA HC1
+T37	Chemical 1761 1766	MgC12
+T38	Chemical 1772 1776	urea
+T39	Chemical 1778 1786	buffer B
+T40	Protein 1806 1814	proteins
+T41	Chemical 1840 1863	[~4C]methyl acetimidate
+T42	Species 1882 1899	ribosomal protein
+T43	Chemical 1916 1924	buffer B
+T44	Chemical 1964 1972	buffer A
+T45	Chemical 1983 1986	MAI
+T46	Chemical 2048 2053	NH4C1
+T47	Protein 2109 2117	proteins
+T48	Chemical 2173 2177	urea
+T49	Chemical 2184 2203	methylamine acetate
+T50	Chemical 2218 2239	fi-mercap-  toethanol
+T51	Protein 2316 2323	protein
+T52	Chemical 2384 2399	sodium  acetate
+T53	Chemical 2433 2450	hyamine hydroxide
+T54	Protein 2507 2514	Protein
+T55	Protein 2556 2573	ribosomal protein
+T56	Chemical 2631 2649	acetimidoyl groups
+T57	Protein 2712 2720	proteins
+T58	Protein 2780 2788	proteins
+T59	Chemical 2824 2842	acetimidoyl groups
+T60	Protein 2897 2905	proteins
+T61	Chemical 2931 2957	[3 H]p-nitrophenyl acetate
+T62	Chemical 3007 3010	NPA
+T63	Chemical 3189 3192	HC1
+T64	Protein 3235 3243	PROTEINS
+T65	Species 3286 3289	RAT
+T66	Chemical 3331 3355	[14C]METHYL  ACETIMIDATE
+T67	Chemical 3362 3390	[ 3H ]ao-NITROPHENYL ACETATE
+T68	Protein 3523 3531	proteins
+T69	Protein 3571 3582	protein    
+T70	Chemical 3613 3637	[ 14C]methyl acetimidate
+T71	Protein 3591 3599	proteins
+T72	Protein 3650 3658	proteins
+T73	Chemical 3672 3698	[3H ]p-nitrophenyl acetate
+T74	Protein 3744 3753	Protein  
+T75	Protein 3784 3793	Protein  
+T76	Protein 6362 6370	PROTEINS
+T77	Species 6413 6416	RAT
+T78	Chemical 6461 6485	[ 14C]METHYL ACETIMIDATE
+T79	Protein 7098 7113	Protein        
+T80	Protein 6820 6833	protein      
+T81	Protein 6895 6904	protein  
+T82	Protein 6904 6919	Protein        
+T83	Chemical 7000 7010	cation    
+T84	Chemical 7195 7205	cation    
+T85	Protein 9530 9538	proteins
+T86	Chemical 9665 9678	acetyl groups
+T87	Protein 9698 9705	protein
+T88	Protein 9750 9760	PROTEINS  
+T89	Species 9785 9790	RAT  
+T90	Protein 10011 10026	protein        
+T91	Chemical 10027 10033	Methyl
+T92	Chemical 10043 10056	p-Nitrophenyl
+T93	Chemical 10062 10066	Iodo
+T94	Chemical 10069 10086	acetimidate      
+T95	Chemical 10086 10105	acetate            
+T96	Chemical 10106 10119	acetamide    
+T97	Protein 11302 11313	protein    
+T98	Chemical 12594 12612	polyacrylamide gel
+T99	Protein 12669 12679	proteins  
+T100	Protein 12716 12723	protein
+T101	Chemical 12836 12855	Brillant Blue G 250
+T102	Chemical 12862 12882	trichloroacetic acid
+T103	Protein 12943 12951	proteins
+T104	Chemical 13190 13207	hyamine hydroxide
+T105	Chemical 13240 13247	toluene
+T106	Chemical 13359 13380	2,5-  diphenyloxazole
+T107	Chemical 13388 13424	1,4-bis-(5-phenyloxazol-2-yl)benzene
+T108	Chemical 13430 13444	Triton X-  100
+T109	Chemical 13451 13462	acetic acid
+T110	Chemical 13466 13473	toluene
+T111	Protein 13748 13756	proteins
+T112	Chemical 13792 13795	MAI
+T113	Chemical 13824 13836	amino groups
+T114	Protein 13840 13848	proteins
+T115	Chemical 13863 13866	NPA
+T116	Chemical 13884 13892;13906 13914	tyrosine residues
+T117	Chemical 13897 13914	cysteine residues
+T118	Chemical 13953 13959	lysine
+T119	Chemical 13988 13996	tyrosine
+T120	Chemical 14001 14009	cysteine
+T121	Protein 14014 14032	ribosomal proteins
+T122	Species 14036 14039	rat
+T123	Chemical 14079 14099	tyrosine OH-  groups
+T124	Chemical 14170 14182	amino groups
+T125	Protein 14205 14222	ribosomal protein
+T126	Protein 14306 14314	proteins
+T127	Chemical 14389 14395;14418 14424	acetyl groups
+T128	Chemical 14406 14424	acetimidoyl groups
+T129	Protein 14467 14475	proteins
+T130	Chemical 14507 14525	acetimidoyl groups
+T131	Protein 14575 14583	proteins
+T132	Protein 14664 14671	protein
+T133	Chemical 14685 14688	NPA
+T134	Protein 14889 14897	proteins
+T135	Protein 14966 14974	proteins
+T136	Protein 15064 15072	Proteins
+T137	Protein 15177 15185	proteins
+T138	Protein 15273 15281	proteins
+T139	Protein 15394 15402	proteins
+T140	Chemical 15408 15411	MAI
+T141	Protein 15510 15518	proteins
+T142	Protein 15569 15577	proteins
+T143	Biological_Activity 15635 15644	inhibited
+T144	Protein 15708 15715	protein
+T145	Protein 15729 15737	proteins
+T146	Protein 15834 15843	protein  
+T147	Protein 15893 15901	proteins
+T148	Biological_Activity 16067 16077	inhibition
+T149	Chemical 16097 16100	MAI
+T150	Protein 16106 16114	proteins
+T151	Protein 16238 16245	protein
+T152	Protein 15064 15071;15077 15079	Protein 14
+T153	Protein 15064 15071;15082 15084	Protein 19
+T154	Protein 15064 15071;15086 15088	Protein 20
+T155	Protein 15064 15071;15090 15092	Protein 23
+T156	Protein 15064 15071;15094 15096	Protein 24
+T157	Protein 15064 15071;15098 15100	Protein 25
+T158	Protein 15064 15071;15102 15104	Protein 28
+T159	Protein 15064 15071;15109 15111	Protein 30
+T160	Protein 15064 15071;15073 15075	Protein $9
+T161	Protein 15177 15184;15216 15217	protein 5
+T162	Protein 15177 15184;15219 15221	protein 13
+T163	Protein 15177 15184;15223 15225	protein 16
+T164	Protein 15177 15184;15227 15229	protein 17
+T165	Protein 15177 15184;15232 15234	protein 18
+T166	Protein 15177 15184;15236 15238	protein 21
+T167	Protein 15177 15184;15240 15242	protein 26
+T168	Protein 15177 15184;15247 15249	protein 29
+T169	Protein 15177 15184;15212 15214	protein $1
+T170	Protein 15273 15280;15289 15290	protein 6
+T171	Protein 15273 15280;15292 15293	protein 8
+T172	Protein 15273 15280;15295 15297	protein 10
+T173	Protein 15273 15280;15299 15301	protein 11
+T174	Protein 15273 15280;15303 15305	protein 12
+T175	Protein 15273 15280;15308 15310	protein 15
+T176	Protein 15273 15280;15312 15314	protein 22
+T177	Protein 15273 15280;15319 15321	protein 27
+T179	Protein 15273 15280;15282 15284	protein $2
+T180	Protein 15569 15576;15578 15580	protein $4
+T181	Protein 15569 15576;15586 15588	protein 12
+T182	Protein 15569 15576;15590 15592	protein 14
+T183	Protein 15569 15576;15594 15596	protein 21
+T184	Protein 15569 15576;15598 15600	protein 24
+T185	Protein 15569 15576;15602 15604	protein 25
+T186	Protein 15569 15576;15606 15610	protein 27  
+T187	Protein 15569 15576;15614 15616	protein 29
+T188	Protein 15569 15576;15582 15584	protein 11
+T189	Protein 15729 15736;15738 15740	protein $5
+T190	Protein 15729 15736;15745 15747	protein 10
+T191	Protein 15729 15736;15752 15754	protein 16
+T192	Protein 15729 15736;15742 15743	protein 7
+T193	Protein 15893 15900;15903 15904	protein S
+T194	Protein 15893 15900;15910 15911	protein 8
+T195	Protein 15893 15900;15913 15914	protein 9
+T196	Protein 15893 15900;15916 15918	protein 13
+T197	Protein 15893 15900;15921 15923	protein 15
+T198	Protein 15893 15900;15925 15927	protein 18
+T199	Protein 15893 15900;15929 15931	protein 19
+T200	Protein 15893 15900;15933 15935	protein 20
+T201	Protein 15893 15900;15937 15939	protein 22
+T202	Protein 15893 15900;15944 15946	protein 26
+T203	Protein 15893 15900;15907 15908	protein 2
+T204	Protein 16255 16263	Proteins
+T205	Protein 16255 16262;16268 16269	Protein 8
+T206	Protein 16255 16262;16271 16272	Protein 9
+T207	Protein 16255 16262;16274 16276	Protein 10
+T208	Protein 16255 16262;16278 16280	Protein 11
+T209	Protein 16255 16262;16282 16284	Protein 19
+T210	Protein 16255 16262;16287 16289	Protein 22
+T211	Protein 16255 16262;16291 16293	Protein 31
+T212	Protein 16255 16262;16298 16300	Protein 32
+T213	Protein 16255 16262;16264 16266	Protein L2
+T214	Protein 16410 16417	protein
+T215	Protein 16477 16485	proteins
+T216	Protein 16477 16484;16487 16489	protein L4
+T217	Protein 16477 16484;16491 16492	protein 7
+T218	Protein 16477 16484;16494 16496	protein 20
+T219	Protein 16477 16484;16498 16500	protein 21
+T220	Protein 16477 16484;16502 16504	protein 27
+T221	Protein 16477 16484;16506 16508	protein 28
+T222	Protein 16477 16484;16510 16514	protein 35  
+T223	Protein 16477 16484;16518 16520	protein 36
+T224	Protein 16567 16569	L5
+T225	Protein 16567 16568;16571 16572	L 6
+T226	Protein 16567 16568;16574 16576	L 13
+T227	Protein 16567 16568;16578 16580	L 15
+T228	Protein 16567 16568;16582 16584	L 17
+T229	Protein 16567 16568;16587 16589	L 23
+T230	Protein 16567 16568;16591 16593	L 24
+T231	Protein 16567 16568;16595 16597	L 25
+T232	Protein 16567 16568;16599 16601	L 26
+T233	Protein 16567 16568;16603 16605	L 29
+T234	Protein 16567 16568;16607 16609	L 30
+T235	Protein 16567 16568;16611 16613	L 33
+T236	Protein 16567 16568;16615 16617	L 34
+T237	Protein 16567 16568;16622 16624	L 38
+T238	Protein 16733 16751	ribosomal proteins
+T239	Chemical 16755 16766	iodoacetate
+T240	Chemical 16771 16797	2-  methoxy-5-nitrotropone
+T241	Chemical 16804 16830	fluorescein isothiocyanate
+T242	Chemical 16837 16853	acetanhy-  dride
+T243	Chemical 16860 16866	iodine
+T244	Chemical 16876 16912	5,5-dithiobis-(2-nitro-benzoic acid)
+T245	Chemical 16919 16938	N-  ethyl-maleimide
+T246	Chemical 16943 16956	iodoacetamide
+T247	Chemical 16963 16972	aldehydes
+T248	Chemical 16982 16990	kethoxal
+T249	Protein 17056 17064	proteins
+T250	Species 17093 17100	E. coli
+T251	Protein 17135 17143	proteins
+T252	Species 17186 17189	rat
+T253	Chemical 17232 17235	MAI
+T254	Chemical 17245 17248	NPA
+T255	Protein 17315 17322	protein
+T256	Chemical 17396 17412	iodoacet-  amide
+T257	Chemical 17418 17442	2-methoxy-5-nitrotropone
+T258	Chemical 17548 17551	MAI
+T259	Chemical 17556 17559	NPA
+T260	Chemical 17601 17604	NPA
+T261	Protein 17612 17620	proteins
+T262	Biological_Activity 17666 17675	inhibited
+T263	Chemical 17713 17716	MAI
+T264	Protein 17744 17751	protein
+T265	Chemical 17815 17820	NPA  
+T266	Chemical 17932 17935	MAI
+T267	Protein 17972 17980	proteins
+T268	Chemical 18015 18018	MAI
+T269	Protein 18140 18147	protein
+T270	Protein 18271 18278	protein
+T271	Chemical 18500 18503	NPA
+T272	Biological_Activity 18507 18516	inhibited
+T273	Chemical 18598 18610	amino groups
+T274	Species 18655 18662	E. coli
+T275	Chemical 18708 18730	methyl  picolinimidate
+T276	Protein 18749 18757	proteins
+T277	Protein 18970 18978	proteins
+T278	Protein 18970 18977;18979 18982	protein $14
+T279	Protein 18970 18977;18988 18990	protein L8
+T280	Protein 18970 18977;18992 18994	protein 10
+T281	Protein 18970 18977;18996 18998	protein 11
+T282	Protein 18970 18977;19000 19002	protein 19
+T283	Protein 18970 18977;19004 19006	protein 31
+T284	Protein 18970 18977;19011 19013	protein 32
+T285	Protein 18970 18977;18984 18986	protein 25
+T178	Protein 15273 15280;15286 15287	protein 4
+T286	Protein 19041 19052	pro-  teins
+T287	Protein 19041 19051;19053 19056	pro-  tein L15
+T288	Protein 19041 19051;19058 19060	pro-  tein 17
+T289	Protein 19041 19051;19062 19064	pro-  tein 25
+T290	Protein 19041 19051;19066 19068	pro-  tein 29
+T291	Protein 19041 19051;19070 19072	pro-  tein 33
+T292	Protein 19041 19051;19074 19076	pro-  tein 34
+T293	Protein 19041 19051;19081 19083	pro-  tein 38
+T294	Protein 19115 19125	proteins  
+T295	Protein 19254 19262	proteins
+T296	Protein 19294 19301	trypsin
+T297	Chemical 19372 19376	LiC1
+T298	Protein 19459 19467	proteins
+T299	Protein 19459 19466;19468 19470	protein $9
+T300	Protein 19459 19466;19472 19474	protein 19
+T301	Protein 19459 19466;19476 19478	protein 20
+T302	Protein 19459 19466;19480 19482	protein 24
+T303	Protein 19459 19466;19484 19486	protein 27
+T304	Protein 19459 19466;19488 19490	protein 29
+T305	Protein 19459 19466;19492 19494	protein 30
+T306	Protein 19459 19466;19496 19498	protein L1
+T307	Protein 19459 19466;19500 19501	protein 7
+T308	Protein 19459 19466;19506 19508	protein 28
+T309	Protein 19546 19554	proteins
+T310	Protein 19546 19553;19555 19557	protein $2
+T311	Protein 19546 19553;19557 19559	protein ,5
+T312	Protein 19546 19553;19561 19562	protein 7
+T313	Protein 19546 19553;19564 19565	protein 8
+T314	Protein 19546 19553;19567 19569	protein 10
+T315	Protein 19546 19553;19571 19573	protein 13
+T316	Protein 19546 19553;19575 19578	protein L20
+T317	Protein 19546 19553;19580 19582	protein 24
+T318	Protein 19546 19553;19584 19586	protein 27
+T319	Protein 19546 19553;19591 19593	protein 35
+T320	Protein 19637 19645	proteins
+T321	Protein 19637 19644;19681 19684	protein L17
+T322	Protein 19637 19644;19686 19688	protein 24
+T323	Protein 19637 19644;19693 19695	protein 29
+T324	Species 19751 19754	rat
+T325	Chemical 19776 19800	2-methoxy-5-nitrotropone
+T326	Chemical 19805 19821	glutaraldehyde  

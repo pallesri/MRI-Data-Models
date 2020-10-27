@@ -1,0 +1,44 @@
+T1	Protein 53 60	enzymes
+T2	Chemical 112 142	bis(monoacylglycerol)phosphate
+#1	AnnotatorNotes T2	Chemical class
+T3	Chemical 148 168	phosphatidylglycerol
+#2	AnnotatorNotes T3	Chemical class
+T4	Protein 189 201	transacylase
+T5	Protein 290 296	enzyme
+T6	Chemical 321 329	glycerol
+T7	Chemical 333 368	sn-3:sn-1' lysophosphatidylglycerol
+T8	Chemical 377 418	sn-3:sn-1' bis(monoacylglycerol)phosphate
+T9	Chemical 466 490	lysophosphatidylglycerol
+#3	AnnotatorNotes T9	Chemical class
+#4	AnnotatorNotes T7	Chemical class
+#5	AnnotatorNotes T8	Chemical class
+T10	Chemical 604 610	lipids
+#6	AnnotatorNotes T10	Chemical class
+T14	Protein 648 654	enzyme
+T22	Chemical 853 859	carbon
+T23	Chemical 864 887	ysophosphatidylglycerol
+#9	AnnotatorNotes T23	Chemical class
+T25	Protein 920 932	transacylase
+T26	Chemical 971 976	lipid
+#10	AnnotatorNotes T26	Chemical class
+T27	Chemical 1002 1007	lipid
+#11	AnnotatorNotes T27	Chemical class
+T28	Chemical 977 982	water
+T29	Metabolite 112 142	bis(monoacylglycerol)phosphate
+R1	Metabolite_Of Arg1:T29 Arg2:T3	
+T30	Metabolite 377 418	sn-3:sn-1' bis(monoacylglycerol)phosphate
+R2	Metabolite_Of Arg1:T30 Arg2:T7	
+T24	Metabolite 148 168	phosphatidylglycerol
+T31	Protein 450 456	enzyme
+T11	Biological_Activity 517 522	donor
+T12	Biological_Activity 547 555	acceptor
+R3	Associated_With Arg1:T9 Arg2:T11	
+R4	Associated_With Arg1:T9 Arg2:T12	
+T13	Chemical 688 703	monounsaturates
+T16	Chemical 712 733	18 carbon fatty acids
+T15	Chemical 705 707;715 733	16 carbon fatty acids
+T17	Chemical 739 760	14 carbon fatty acids
+T18	Chemical 776 787	acyl chains
+T19	Chemical 828 839	acyl chains
+T20	Biological_Activity 96 108	biosynthesis
+T21	Biological_Activity 920 932	transacylase

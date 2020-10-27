@@ -1,0 +1,13 @@
+T1	Disease 137 144	cancers
+T2	Disease 184 191	cancers
+T3	Disease 331 337	cancer
+T4	Disease 417 443	obtained of 10 new cancers
+T5	Disease 457 464	cancers
+T6	Disease 474 497	precancerous conditions
+T7	Disease 562 568	cancer
+T8	Disease 671 684	breast cancer
+T9	Disease 689 700	oral cancer
+T10	Plant 121 128	tobacco
+T11	Plant 226 233	tobacco
+T12	Cause_of_disease 129 136	related
+E1	Cause_of_disease:T12 Theme:T1 Cause:T10

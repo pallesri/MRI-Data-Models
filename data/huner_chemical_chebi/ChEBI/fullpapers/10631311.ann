@@ -1,0 +1,816 @@
+T1	Chemical 53 55	NO
+T2	Chemical 61 72	L -arginine
+T3	Metabolite 53 55	NO
+T4	Metabolite 61 72	L -arginine
+R1	Metabolite_Of Arg1:T3 Arg2:T2	
+T5	Protein 90 111	inducible NO synthase
+T6	Protein 113 117	iNOS
+T7	Chemical 120 122	NO
+T8	Metabolite 120 122	NO
+T9	Chemical 343 345	NO
+T10	Metabolite 343 345	NO
+T11	Protein 548 557	Cytokines
+T12	Protein 566 578	interferon-γ
+T13	Protein 579 585	(IFN-γ
+T14	Protein 588 599;604 606	interleukin -2
+T15	Protein 601 603;604 606	IL -2
+T16	Species 647 656	bacterial
+T17	Protein 707 711	iNOS
+T18	Protein 806 811	TNF-α
+T19	Protein 781 804	tumor necrosis factor-α
+T20	Chemical 857 859	NO
+T21	Metabolite 857 859	NO
+T22	Protein 873 878	IFN-γ
+T23	Protein 957 962	NF-κB
+T24	Protein 938 955	nuclear factor κB
+T25	Protein 1062 1066	iNOS
+T26	Protein 1071 1076	TNF-α
+T27	Protein 1078 1083	NF-κB
+T28	Protein 1179 1188	cytokines
+T29	Protein 1244 1249	NF-κB
+T30	Biological_Activity 1250 1260	stimulates
+T31	Protein 1279 1283	IL-1
+T32	Protein 1285 1289	IL-6
+T33	Protein 1291 1296	TNF-α
+T34	Protein 1298 1309	lymphotoxin
+T35	Protein 1315 1320	IFN-γ
+T36	Protein 1349 1358	cytokines
+T37	Protein 1365 1369	IL-1
+T38	Protein 1374 1379	TNF-α
+T39	Protein 1390 1395	NF-κB
+T40	Protein 1457 1462	NF-κB
+T41	Biological_Activity 1113 1123	activation
+T42	Biological_Activity 1381 1389	activate
+T43	Biological_Activity 1463 1473	activation
+T44	Protein 1542 1549	protein
+T45	Protein 1550 1553	IκB
+T46	Biological_Activity 1637 1647	inhibition
+T47	Biological_Activity 1659 1670	antioxidant
+T48	Protein 1686 1691	NF-κB
+T49	Biological_Activity 1692 1702	activation
+T50	Chemical 1775 1777	NO
+T51	Metabolite 1775 1777	NO
+T52	Protein 1782 1787	TNF-α
+T53	Biological_Activity 1795 1808	antimicrobial
+T54	Biological_Activity 1813 1824	tumoricidal
+T55	Chemical 1932 1934	NO
+T56	Metabolite 1932 1934	NO
+T57	Protein 1950 1955	TNF-α
+T58	Chemical 2046 2056	flavonoids
+T59	Metabolite 2046 2056	flavonoids
+T60	Chemical 2179 2197	phenolic compounds
+T61	Biological_Activity 2223 2235	antioxidants
+T62	Biological_Activity 2249 2265	antiinflammatory
+T63	Biological_Activity 2267 2276	antiviral
+T64	Biological_Activity 2278 2295	antiproliferative
+T65	Biological_Activity 2301 2317	anticarcinogenic
+T66	Species 2458 2478	French maritime pine
+T67	Species 2480 2494	Pinus maritima
+T68	Chemical 2516 2526	Pycnogenol
+T69	Metabolite 2516 2526	Pycnogenol
+T70	Chemical 2528 2531	PYC
+T71	Metabolite 2528 2531	PYC
+T72	Chemical 2497 2514	Pine bark extract
+T73	Metabolite 2497 2514	Pine bark extract
+T74	Chemical 2556 2563	phenols
+T75	Chemical 2568 2579	polyphenols
+T76	Chemical 2617 2625	catechin
+T77	Metabolite 2617 2625	catechin
+R2	Isolated_From Arg1:T77 Arg2:T67	
+T78	Chemical 2627 2638	epicatechin
+T79	Metabolite 2627 2638	epicatechin
+R3	Isolated_From Arg1:T79 Arg2:T67	
+T80	Chemical 2643 2652	taxifolin
+T81	Metabolite 2643 2652	taxifolin
+R4	Isolated_From Arg1:T81 Arg2:T67	
+T82	Chemical 2602 2610	monomers
+T83	Chemical 2655 2661	dimers
+T84	Chemical 2668 2682	procyanidin B1
+T85	Metabolite 2668 2682	procyanidin B1
+T86	Chemical 2668 2679;2684 2686	procyanidin B2
+T87	Chemical 2668 2679;2688 2690	procyanidin B3
+T88	Chemical 2668 2679;2696 2698	procyanidin B7
+T89	Metabolite 2668 2679;2684 2686	procyanidin B2
+T90	Metabolite 2668 2679;2688 2690	procyanidin B3
+T91	Metabolite 2668 2679;2696 2698	procyanidin B7
+R5	Isolated_From Arg1:T85 Arg2:T67	
+R6	Isolated_From Arg1:T91 Arg2:T67	
+R7	Isolated_From Arg1:T90 Arg2:T67	
+R8	Isolated_From Arg1:T89 Arg2:T67	
+T92	Chemical 2701 2708	trimers
+T93	Chemical 2715 2729	procyanidin C1
+T94	Metabolite 2715 2729	procyanidin C1
+T95	Chemical 2715 2726;2731 2733	procyanidin C2
+T96	Metabolite 2715 2726;2731 2733	procyanidin C2
+R9	Isolated_From Arg1:T94 Arg2:T67	
+R10	Isolated_From Arg1:T96 Arg2:T67	
+T97	Chemical 2740 2749	oligomers
+T98	Chemical 2767 2770	PYC
+T99	Metabolite 2767 2770	PYC
+T100	Chemical 2785 2799	phenolic acids
+T101	Chemical 2808 2815;2847 2851	caffeic acid
+T102	Metabolite 2808 2815;2847 2851	caffeic acid
+T103	Chemical 2817 2824;2847 2851	ferulic acid
+T104	Metabolite 2817 2824;2847 2851	ferulic acid
+T105	Chemical 2829 2851	p -hydroxybenzoic acid
+T106	Metabolite 2829 2851	p -hydroxybenzoic acid
+R11	Isolated_From Arg1:T106 Arg2:T67	
+R12	Isolated_From Arg1:T104 Arg2:T67	
+R13	Isolated_From Arg1:T102 Arg2:T67	
+T107	Chemical 2881 2894	Bioflavonoids
+T108	Biological_Activity 2913 2924	antioxidant
+R14	Associated_With Arg1:T107 Arg2:T108	
+T109	Chemical 2976 2985	vitamin E
+T110	Metabolite 2976 2985	vitamin E
+T111	Chemical 2996 3007	glutathione
+T112	Metabolite 2996 3007	glutathione
+T113	Chemical 3015 3018	PYC
+T114	Metabolite 3015 3018	PYC
+T115	Chemical 3034 3036	NO
+T116	Metabolite 3034 3036	NO
+T117	Biological_Activity 3037 3047	metabolism
+T118	Protein 3092 3096	iNOS
+T119	Protein 3117 3121	iNOS
+T120	Chemical 3202 3205	PYC
+T121	Metabolite 3202 3205	PYC
+T122	Biological_Activity 3218 3234	immunomodulatory
+R15	Associated_With Arg1:T121 Arg2:T122	
+R16	Associated_With Arg1:T120 Arg2:T122	
+T123	Chemical 3329 3338;3362 3372	monomeric flavonoids
+T124	Metabolite 3329 3338;3362 3372	monomeric flavonoids
+T125	Chemical 3340 3347;3362 3372	dimeric flavonoids
+T126	Metabolite 3340 3347;3362 3372	dimeric flavonoids
+T127	Chemical 3353 3372	trimeric flavonoids
+T128	Metabolite 3353 3372	trimeric flavonoids
+T129	Chemical 3390 3393	PYC
+T130	Metabolite 3390 3393	PYC
+T131	Protein 3407 3412	NF-κB
+T132	Chemical 3435 3437	NO
+T133	Metabolite 3435 3437	NO
+T134	Protein 3453 3458	TNF-α
+T135	Species 3534 3540	Murine
+T136	Protein 3534 3558	Murine recombinant IFN-γ
+T137	Species 3574 3580	murine
+T138	Protein 3574 3598	murine recombinant TNF-α
+T139	Species 3614 3620	rabbit
+T140	Species 3626 3632	murine
+T141	Protein 3614 3658	rabbit anti-murine TNF-α polyclonal antibody
+T142	Protein 3654 3655	b
+T143	Protein 3660 3662	Ab
+T144	Species 3669 3676	hamster
+T145	Species 3682 3688	murine
+T146	Protein 3669 3708	hamster anti-murine TNF-α monoclonal Ab
+T147	Chemical 3751 3757	phenol
+T148	Species 3768 3790	Salmonella enteritidis
+T149	Chemical 3794 3802	catechin
+T150	Chemical 3804 3815	epicatechin
+T151	Chemical 3821 3830	taxifolin
+T152	Metabolite 3794 3802	catechin
+T153	Metabolite 3804 3815	epicatechin
+T154	Metabolite 3821 3830	taxifolin
+T155	Species 3888 3892	calf
+T156	Chemical 3992 3996	RPMI
+T157	Chemical 4008 4019	L -arginine
+T158	Chemical 4032 4061	Hanks’ balanced salt solution
+T159	Chemical 4160 4170	Pycnogenol
+T160	Metabolite 4160 4170	Pycnogenol
+T161	Chemical 4225 4236;4238 4240	Procyanidin B1
+T162	Chemical 4225 4236;4242 4244	Procyanidin B2
+T163	Metabolite 4225 4236;4238 4240	Procyanidin B1
+T164	Metabolite 4225 4236;4242 4244	Procyanidin B2
+T165	Species 4256 4262	apples
+R17	Isolated_From Arg1:T164 Arg2:T165	
+R18	Isolated_From Arg1:T163 Arg2:T165	
+T166	Chemical 4225 4236;4281 4283	Procyanidin C2
+T167	Metabolite 4225 4236;4281 4283	Procyanidin C2
+T168	Species 4290 4296	barley
+R19	Isolated_From Arg1:T167 Arg2:T168	
+T169	Species 4413 4419	murine
+T170	Chemical 4661 4670	RPMI 1640
+T171	Species 4705 4709	calf
+T172	Chemical 4745 4755	penicillin
+T173	Chemical 4770 4782	streptomycin
+T174	Chemical 5049 5054	CO2  
+T175	Protein 5163 5168	IFN-γ
+T176	Chemical 5244 5255	Neutral red
+T177	Chemical 5280 5291	neutral red
+T178	Chemical 5524 5535	neutral red
+T179	Chemical 5713 5720	ethanol
+T180	Chemical 5726 5730	H2 O
+T181	Chemical 5735 5754	glacial acetic acid
+T182	Protein 5977 5982	TNF-α
+T183	Protein 5993 5998	TNF-α
+T184	Species 6178 6184	murine
+T185	Protein 6227 6232	TNF-α
+T186	Protein 6178 6232	murine monoclonal Ab with specificity for murine TNF-α
+T187	Chemical 6325 6350	phosphate-buufered saline
+T188	Chemical 6352 6355	PBS
+T189	Chemical 6380 6388	Tween-20
+T190	Chemical 6404 6407	PBS
+T191	Protein 6439 6445	rTNF-α
+T192	Protein 6517 6522	TNF-α
+T193	Species 6592 6598	rabbit
+T194	Protein 6592 6609	rabbit anti-TNF-α
+T195	Protein 6611 6622	phosphatase
+T196	Species 6634 6638	goat
+T197	Protein 6611 6654	phosphatase-conjugated goat anti-rabbit IgG
+T198	Chemical 6660 6684	p -nitrophenyl phosphate
+T199	Chemical 6779 6786	nitrite
+T200	Chemical 6791 6798	nitrate
+T201	Chemical 6813 6815	NO
+T202	Metabolite 6813 6815	NO
+T203	Chemical 6935 6942	nitrite
+T204	Chemical 6944 6949	NO2 −
+T205	Chemical 7039 7053	Griess reagent
+T206	Chemical 7058 7071	sulfanilamide
+T207	Chemical 7077 7124	N -(1-naphthyl)-ethylenediamine dihydrochloride
+T208	Chemical 7130 7136	H3 PO4
+T209	Chemical 7185 7192	Nitrite
+T210	Chemical 7261 7268	NaNO2  
+T211	Spectral_Data 7239 7259	absorbance at 540 nm
+R20	Associated_With Arg1:T209 Arg2:T211	
+T212	Chemical 7346 7353	nitrite
+T213	Chemical 7461 7468	Nitrate
+T214	Chemical 7470 7475	NO3 −
+T215	Chemical 7503 7510	nitrate
+T216	Chemical 7514 7521	nitrite
+T217	Species 7527 7536	bacterial
+T218	Protein 7537 7554	nitrate reductase
+T219	Chemical 7571 7578	nitrite
+T220	Chemical 7588 7602	Griess reagent
+T221	Chemical 7682 7696	Griess reagent
+T222	Species 7939 7948	Renilla  
+T223	Protein 7948 7958	luciferase
+T224	Chemical 8044 8052	Fugene 6
+T225	Chemical 8267 8275	Fugene 6
+T226	Protein 8343 8348	IFN-γ
+T227	Protein 10898 10903	IFN-γ
+T228	Protein 11255 11260	IFN-γ
+T229	Protein 10118 10123	IFN-γ
+T230	Protein 11379 11384	IFN-γ
+T231	Protein 11458 11463	IFN-γ
+T232	Protein 11699 11704	IFN-γ
+T233	Protein 11982 11987	IFN-γ
+T234	Protein 12169 12174	IFN-γ
+T235	Protein 12246 12251	IFN-γ
+T236	Protein 12432 12437	IFN-γ
+T237	Protein 12516 12521	IFN-γ
+T238	Protein 12585 12590	IFN-γ
+T239	Protein 12977 12982	IFN-γ
+T240	Protein 13180 13185	IFN-γ
+T241	Protein 13435 13440	IFN-γ
+T242	Protein 13888 13893	IFN-γ
+T243	Protein 14029 14034	IFN-γ
+T244	Protein 15531 15536	IFN-γ
+T245	Protein 16683 16688	IFN-γ
+T246	Protein 16811 16816	IFN-γ
+T247	Protein 17367 17372	IFN-γ
+T248	Protein 18573 18578	IFN-γ
+T249	Protein 18602 18607	IFN-γ
+T250	Protein 18412 18417	IFN-γ
+T251	Protein 19912 19917	IFN-γ
+T252	Protein 19981 19986	IFN-γ
+T253	Protein 20103 20108	IFN-γ
+T254	Protein 20232 20237	IFN-γ
+T255	Protein 20336 20341	IFN-γ
+T256	Protein 20350 20355	IFN-γ
+T257	Protein 7984 8000	thymidine kinase
+T258	Protein 8438 8448	luciferase
+T259	Protein 8489 8499	luciferase
+T260	Protein 8610 8620	luciferase
+T261	Species 8670 8677	firefly
+T262	Species 8702 8711	Renilla  
+T263	Protein 8725 8735	luciferase
+T264	Species 8791 8798	firefly
+T265	Protein 8799 8809	luciferase
+T266	Species 8858 8867	Renilla  
+T267	Protein 8867 8877	luciferase
+T268	Chemical 8957 8964	Lipid A
+T269	Metabolite 8974 8977	PYC
+T270	Chemical 8974 8977	PYC
+T271	Chemical 9009 9016	lipid A
+T272	Chemical 10083 10086	PYC
+T273	Metabolite 10083 10086	PYC
+T274	Chemical 10800 10803	PYC
+T275	Metabolite 10800 10803	PYC
+T276	Chemical 11428 11431	PYC
+T277	Metabolite 11428 11431	PYC
+T278	Chemical 11525 11528	PYC
+T279	Metabolite 11525 11528	PYC
+T280	Chemical 12488 12491	PYC
+T281	Metabolite 12488 12491	PYC
+T282	Chemical 13384 13387	PYC
+T283	Metabolite 13384 13387	PYC
+T284	Chemical 13616 13619	PYC
+T285	Metabolite 13616 13619	PYC
+T286	Chemical 13488 13491	PYC
+T287	Metabolite 13488 13491	PYC
+T288	Chemical 14203 14206	PYC
+T289	Metabolite 14203 14206	PYC
+T290	Chemical 14098 14101	PYC
+T291	Metabolite 14098 14101	PYC
+T292	Chemical 14833 14836	PYC
+T293	Metabolite 14833 14836	PYC
+T294	Chemical 17169 17172	PYC
+T295	Metabolite 17169 17172	PYC
+T296	Chemical 17104 17107	PYC
+T297	Metabolite 17104 17107	PYC
+T298	Chemical 16930 16933	PYC
+T299	Metabolite 16930 16933	PYC
+T300	Chemical 16759 16762	PYC
+T301	Metabolite 16759 16762	PYC
+T302	Chemical 17593 17596	PYC
+T303	Metabolite 17593 17596	PYC
+T304	Chemical 17419 17422	PYC
+T305	Metabolite 17419 17422	PYC
+T306	Chemical 18912 18915	PYC
+T307	Metabolite 18912 18915	PYC
+T308	Chemical 19621 19624	PYC
+T309	Metabolite 19621 19624	PYC
+T310	Chemical 19867 19870	PYC
+T311	Metabolite 19867 19870	PYC
+T312	Chemical 20019 20022	PYC
+T313	Metabolite 20019 20022	PYC
+T314	Chemical 20058 20061	PYC
+T315	Metabolite 20058 20061	PYC
+T316	Chemical 20191 20194	PYC
+T317	Metabolite 20191 20194	PYC
+T318	Chemical 20919 20922	PYC
+T319	Metabolite 20919 20922	PYC
+T320	Chemical 20383 20386	PYC
+T321	Metabolite 20383 20386	PYC
+T322	Chemical 20270 20273	PYC
+T323	Metabolite 20270 20273	PYC
+T324	Chemical 5624 5635	neutral red
+T325	Spectral_Data 5853 5873	absorbance at 510 nm
+R21	Associated_With Arg1:T324 Arg2:T325	
+T326	Species 9080 9096	Escherichia coli
+T327	Species 9080 9103	Escherichia coli  D31m4
+T328	Chemical 9123 9127	EDTA
+T329	Chemical 9147 9151	DEAE
+T330	Chemical 9152 9161	cellulose
+T331	Chemical 9256 9259	HCl
+T332	Chemical 9289 9311	monophosphoryl lipid A
+T333	Chemical 9326 9336	chloroform
+T334	Chemical 9337 9345	methanol
+T335	Chemical 9488 9498	chloroform
+T336	Chemical 9499 9507	methanol
+T337	Chemical 9522 9532	silica gel
+T338	Chemical 9571 9581	chloroform
+T339	Chemical 9582 9590	methanol
+T340	Chemical 9591 9596	water
+T341	Chemical 9610 9628	ammonium hydroxide
+T342	Chemical 9696 9706	dichromate
+T343	Chemical 9707 9720	sulfuric acid
+T344	Protein 9893 9898	TNF-α
+T345	Chemical 9939 9949	flavonoids
+T346	Biological_Activity 10003 10012	cytotoxic
+T347	Chemical 10029 10038;10061 10071	monomeric flavonoids
+T348	Chemical 10040 10047;10061 10071	dimeric flavonoids
+T349	Chemical 10052 10071	trimeric flavonoids
+T350	Metabolite 9939 9949	flavonoids
+T351	Metabolite 10029 10038;10061 10071	monomeric flavonoids
+T352	Metabolite 10040 10047;10061 10071	dimeric flavonoids
+T353	Metabolite 10052 10071	trimeric flavonoids
+T354	Chemical 10253 10261	catechin
+T355	Metabolite 10253 10261	catechin
+T356	Chemical 10263 10274	epicatechin
+T357	Metabolite 10263 10274	epicatechin
+T358	Chemical 10286 10292	PCA B1
+T359	Chemical 10294 10300	PCA B2
+T360	Chemical 10305 10311	PCA C2
+T361	Chemical 10425 10434	taxifolin
+T362	Biological_Activity 10474 10483	cytotoxic
+R22	Associated_With Arg1:T361 Arg2:T362	
+T363	Protein 10560 10565	TNF-α
+T364	Chemical 10648 10657;10669 10679	monomeric flavonoids
+T365	Metabolite 10648 10657;10669 10679	monomeric flavonoids
+T366	Chemical 10661 10679	dimeric flavonoids
+T367	Metabolite 10661 10679	dimeric flavonoids
+T368	Protein 10739 10744	TNF-α
+T369	Chemical 10790 10796	PCA C2
+T370	Protein 10827 10832	TNF-α
+T371	Protein 10939 10944	TNF-α
+T372	Chemical 11007 11027	monomeric flavonoids
+T373	Metabolite 11007 11027	monomeric flavonoids
+T374	Chemical 11036 11044	catechin
+T375	Chemical 11046 11057	epicatechin
+T376	Chemical 11063 11072	taxifolin
+T377	Metabolite 11036 11044	catechin
+T378	Metabolite 11046 11057	epicatechin
+T379	Metabolite 11063 11072	taxifolin
+T380	Protein 11101 11106	TNF-α
+T381	Metabolite 10286 10292	PCA B1
+T382	Metabolite 10294 10300	PCA B2
+T383	Metabolite 10305 10311	PCA C2
+T384	Chemical 11218 11224	PCA B1
+T385	Metabolite 11218 11224	PCA B1
+T386	Chemical 11199 11217	dimeric flavonoids
+T387	Metabolite 11199 11217	dimeric flavonoids
+T388	Chemical 11229 11235	PCA B2
+T389	Metabolite 11229 11235	PCA B2
+T390	Biological_Activity 11245 11254	inhibited
+R23	Associated_With Arg1:T385 Arg2:T390	
+R24	Associated_With Arg1:T389 Arg2:T390	
+R25	Associated_With Arg1:T384 Arg2:T390	
+R26	Associated_With Arg1:T388 Arg2:T390	
+T391	Biological_Activity 11269 11274	TNF-α
+T392	Chemical 11290 11308	trimeric flavonoid
+T393	Metabolite 11290 11308	trimeric flavonoid
+T394	Chemical 11309 11315	PCA C2
+T395	Metabolite 11309 11315	PCA C2
+T396	Protein 11370 11375	TNF-α
+T397	Chemical 11420 11426	PCA C2
+T398	Metabolite 11420 11426	PCA C2
+T399	Protein 11467 11472	TNF-α
+T400	Protein 11501 11506	TNF-α
+T401	Chemical 11514 11520	PCA C2
+T402	Metabolite 11514 11520	PCA C2
+T403	Chemical 11659 11678	trimeric flavonoids
+T404	Metabolite 11659 11678	trimeric flavonoids
+T405	Chemical 11635 11644;11668 11678	monomeric flavonoids
+T406	Metabolite 11635 11644;11668 11678	monomeric flavonoids
+T407	Chemical 11646 11653;11668 11678	dimeric flavonoids
+T408	Metabolite 11646 11653;11668 11678	dimeric flavonoids
+T409	Chemical 11682 11684	NO
+T410	Metabolite 11682 11684	NO
+T411	Protein 11769 11774	TNF-α
+T412	Chemical 11813 11823	flavonoids
+T413	Metabolite 11813 11823	flavonoids
+T414	Chemical 11827 11829	NO
+T415	Metabolite 11827 11829	NO
+T416	Chemical 11958 11960	NO
+T417	Metabolite 11958 11960	NO
+T418	Chemical 12049 12051	NO
+T419	Metabolite 12049 12051	NO
+T420	Chemical 12108 12116	catechin
+T421	Chemical 12118 12129	epicatechin
+T422	Chemical 12135 12144	taxifolin
+T423	Metabolite 12108 12116	catechin
+T424	Metabolite 12118 12129	epicatechin
+T425	Metabolite 12135 12144	taxifolin
+T426	Chemical 12183 12185	NO
+T427	Metabolite 12183 12185	NO
+T428	Chemical 12271 12289	dimeric flavonoids
+T429	Metabolite 12271 12289	dimeric flavonoids
+T430	Chemical 12290 12296	PCA B1
+T431	Metabolite 12290 12296	PCA B1
+T432	Chemical 12301 12307	PCA B2
+T433	Metabolite 12301 12307	PCA B2
+T434	Biological_Activity 12326 12336	inhibitory
+T435	Chemical 12347 12349	NO
+T436	Metabolite 12347 12349	NO
+R27	Associated_With Arg1:T430 Arg2:T434	
+R28	Associated_With Arg1:T432 Arg2:T434	
+R29	Associated_With Arg1:T431 Arg2:T434	
+R30	Associated_With Arg1:T433 Arg2:T434	
+T437	Chemical 12381 12390;12403 12415	monomeric procyanidins
+T438	Metabolite 12381 12390;12403 12415	monomeric procyanidins
+T439	Chemical 12395 12415	dimeric procyanidins
+T440	Metabolite 12395 12415	dimeric procyanidins
+T441	Chemical 12470 12476	PCA C2
+T442	Metabolite 12470 12476	PCA C2
+T443	Chemical 12530 12532	NO
+T444	Metabolite 12530 12532	NO
+T445	Protein 12550 12555	NF-κB
+T446	Chemical 12630 12640	flavonoids
+T447	Metabolite 12630 12640	flavonoids
+T448	Protein 12654 12659	TNF-α
+T449	Protein 12664 12668	iNOS
+T450	Biological_Activity 12703 12713	activation
+T451	Protein 12717 12722	NF-κB
+T452	Chemical 12761 12771	flavonoids
+T453	Metabolite 12761 12771	flavonoids
+T454	Protein 12775 12780	NF-κB
+T455	Protein 12822 12832	luciferase
+T456	Protein 12896 12906	luciferase
+T457	Biological_Activity 12896 12906	luciferase
+T458	Biological_Activity 8438 8448	luciferase
+T459	Biological_Activity 8725 8735	luciferase
+T460	Biological_Activity 8799 8809	luciferase
+T461	Biological_Activity 8867 8877	luciferase
+T462	Protein 13305 13315	luciferase
+T463	Biological_Activity 13305 13315	luciferase
+T464	Protein 13412 13422	luciferase
+T465	Biological_Activity 13412 13422	luciferase
+T466	Protein 13061 13066	TNF-α
+T467	Chemical 13081 13083	NO
+T468	Metabolite 13081 13083	NO
+T469	Chemical 13099 13119	monomeric flavonoids
+T470	Chemical 13099 13119	monomeric flavonoids
+T471	Chemical 13120 13128	catechin
+T472	Chemical 13130 13141	epicatechin
+T473	Chemical 13146 13155	taxifolin
+T474	Metabolite 13120 13128	catechin
+T475	Metabolite 13130 13141	epicatechin
+T476	Metabolite 13146 13155	taxifolin
+T477	Protein 13194 13199	NF-κB
+T478	Chemical 13250 13256	PCA B1
+T479	Metabolite 13250 13256	PCA B1
+T480	Chemical 13261 13267	PCA B2
+T481	Metabolite 13261 13267	PCA B2
+T482	Chemical 13352 13360	monomers
+T483	Chemical 13365 13371	dimers
+T484	Chemical 13373 13379	PCA C2
+T485	Metabolite 13373 13379	PCA C2
+T486	Chemical 13476 13482	PCA C2
+T487	Metabolite 13476 13482	PCA C2
+T488	Protein 13500 13505	NF-κB
+T489	Biological_Activity 13506 13516	activation
+T490	Biological_Activity 13529 13538	inhibited
+T491	Protein 13555 13588	anti-murine TNF-α-neutralizing Ab
+T492	Chemical 13606 13612	PCA C2
+T493	Metabolite 13606 13612	PCA C2
+T494	Protein 13628 13633	TNF-α
+T495	Protein 13659 13664	NF-κB
+T496	Biological_Activity 13665 13675	activation
+T497	Protein 13722 13727	TNF-α
+T498	Protein 13738 13743	TNF-α
+T499	Biological_Activity 13872 13882	stimulated
+T500	Protein 13935 13940	TNF-α
+T501	Chemical 14073 14079	trimer
+T502	Chemical 14080 14086	PCA C2
+T503	Metabolite 14080 14086	PCA C2
+T504	Protein 14125 14130	TNF-α
+T505	Chemical 14192 14198	PCA C2
+T506	Metabolite 14192 14198	PCA C2
+T507	Chemical 14211 14220	flavonoid
+T508	Chemical 14226 14247	flavone-8-acetic acid
+T509	Chemical 14249 14252	FAA
+T510	Chemical 14226 14247	flavone-8-acetic acid
+T511	Species 14270 14275	mouse
+T512	Protein 14326 14331	TNF-α
+T513	Protein 14384 14400	recombinant IL-2
+T514	Species 14422 14428	murine
+T515	Chemical 14472 14482	polyphenol
+T516	Chemical 14483 14494	resveratrol
+T517	Metabolite 14483 14494	resveratrol
+T518	Protein 14555 14560	TNF-α
+T519	Protein 14608 14613	TNF-α
+T520	Protein 14695 14700	TNF-α
+T521	Biological_Activity 14752 14761	antitumor
+T522	Chemical 14822 14828	PCA C2
+T523	Metabolite 14822 14828	PCA C2
+T524	Chemical 14841 14861	monomeric flavonoids
+T525	Metabolite 14841 14861	monomeric flavonoids
+T526	Chemical 14863 14871	catechin
+T527	Chemical 14873 14884	epicatechin
+T528	Chemical 14890 14899	taxifolin
+T529	Metabolite 14863 14871	catechin
+T530	Metabolite 14873 14884	epicatechin
+T531	Metabolite 14890 14899	taxifolin
+T532	Biological_Activity 14996 15006	inhibitory
+R31	Associated_With Arg1:T529 Arg2:T532	
+R32	Associated_With Arg1:T526 Arg2:T532	
+R33	Associated_With Arg1:T530 Arg2:T532	
+R34	Associated_With Arg1:T527 Arg2:T532	
+R35	Associated_With Arg1:T531 Arg2:T532	
+R36	Associated_With Arg1:T528 Arg2:T532	
+T533	Chemical 14950 14968	dimeric flavonoids
+T534	Metabolite 14950 14968	dimeric flavonoids
+T535	Chemical 14969 14975	PCA B1
+T536	Metabolite 14969 14975	PCA B1
+T537	Chemical 14980 14986	PCA B2
+T538	Metabolite 14980 14986	PCA B2
+R37	Associated_With Arg1:T536 Arg2:T532	
+R38	Associated_With Arg1:T538 Arg2:T532	
+R40	Associated_With Arg1:T535 Arg2:T532	
+R41	Associated_With Arg1:T537 Arg2:T532	
+T539	Protein 15034 15039	TNF-α
+T540	Species 15088 15097	green tea
+T541	Chemical 15098 15109	polyphenols
+T542	Metabolite 15098 15109	polyphenols
+T543	Protein 15139 15144	TNF-α
+T544	Chemical 15149 15151	NO
+T545	Metabolite 15149 15151	NO
+T546	Species 15174 15180	murine
+T547	Species 15222 15234	BALB/c mouse
+T548	Species 15229 15234	mouse
+T549	Chemical 15293 15303	flavonoids
+T550	Metabolite 15293 15303	flavonoids
+T551	Protein 15346 15351	TNF-α
+T552	Chemical 15366 15368	NO
+T553	Metabolite 15366 15368	NO
+T554	Chemical 15414 15416	NO
+T555	Metabolite 15414 15416	NO
+T556	Chemical 15432 15452	monomeric flavonoids
+T557	Metabolite 15432 15452	monomeric flavonoids
+T558	Chemical 15453 15461	catechin
+T559	Chemical 15463 15474	epicatechin
+T560	Chemical 15480 15489	taxifolin
+T561	Metabolite 15453 15461	catechin
+T562	Metabolite 15463 15474	epicatechin
+T563	Metabolite 15480 15489	taxifolin
+T564	Biological_Activity 15504 15513	inhibited
+T565	Metabolite 15514 15516	NO
+T566	Chemical 15514 15516	NO
+R39	Associated_With Arg1:T561 Arg2:T564	
+R42	Associated_With Arg1:T562 Arg2:T564	
+R43	Associated_With Arg1:T563 Arg2:T564	
+R44	Associated_With Arg1:T558 Arg2:T564	
+R45	Associated_With Arg1:T559 Arg2:T564	
+R46	Associated_With Arg1:T560 Arg2:T564	
+T567	Chemical 15588 15598	flavonoids
+T568	Metabolite 15588 15598	flavonoids
+T569	Chemical 15613 15615	NO
+T570	Metabolite 15613 15615	NO
+T571	Chemical 15791 15793	NO
+T572	Metabolite 15791 15793	NO
+T573	Biological_Activity 15794 15804	scavenging
+T574	Biological_Activity 15815 15825	inhibition
+T575	Protein 15829 15833	iNOS
+T576	Biological_Activity 15855 15865	inhibition
+T577	Protein 15869 15873	iNOS
+T578	Biological_Activity 15967 15977	stimulated
+T579	Chemical 16027 16029	NO
+T580	Metabolite 16027 16029	NO
+T581	Chemical 16095 16105	flavonoids
+T582	Metabolite 16095 16105	flavonoids
+T583	Chemical 16136 16145	flavonoid
+T584	Metabolite 16136 16145	flavonoid
+T585	Species 16353 16362	bacterial
+T586	Biological_Activity 16399 16409	inhibition
+T587	Chemical 16431 16433	NO
+T588	Metabolite 16431 16433	NO
+T589	Chemical 16493 16503	flavonoids
+T590	Metabolite 16493 16503	flavonoids
+T591	Chemical 16714 16723;16736 16746	monomeric flavonoids
+T592	Metabolite 16714 16723;16736 16746	monomeric flavonoids
+T593	Chemical 16728 16746	dimeric flavonoids
+T594	Metabolite 16728 16746	dimeric flavonoids
+T595	Chemical 16748 16754	PCA C2
+T596	Metabolite 16748 16754	PCA C2
+T597	Chemical 16805 16807	NO
+T598	Metabolite 16805 16807	NO
+T599	Chemical 16919 16925	PCA C2
+T600	Metabolite 16919 16925	PCA C2
+T601	Protein 16978 16983	TNF-α
+T602	Chemical 17034 17036	NO
+T603	Metabolite 17034 17036	NO
+T604	Chemical 16221 16228	lipid A
+T605	Chemical 17072 17094	monophosphoryl lipid A
+T606	Chemical 17133 17140	lipid A
+T607	Chemical 21930 21937	lipid A
+T608	Protein 20406 20411	NF-κB
+T609	Protein 17470 17475	NF-κB
+T610	Chemical 657 675	lipopolysaccharide
+T611	Chemical 677 680	LPS
+T612	Metabolite 657 675	lipopolysaccharide
+T613	Metabolite 677 680	LPS
+T614	Metabolite 886 889	LPS
+T615	Chemical 886 889	LPS
+T616	Chemical 3746 3749	LPS
+T617	Metabolite 3746 3749	LPS
+T618	Metabolite 9071 9074	LPS
+T619	Chemical 9071 9074	LPS
+R47	Isolated_From Arg1:T618 Arg2:T327	
+T620	Chemical 15983 15986	LPS
+T621	Metabolite 15983 15986	LPS
+T622	Chemical 16073 16074	P
+T623	Metabolite 16072 16075	LPS
+R48	Associated_With Arg1:T621 Arg2:T578	
+R49	Associated_With Arg1:T620 Arg2:T578	
+T624	Biological_Activity 16040 16051	stimulation
+R50	Associated_With Arg1:T623 Arg2:T624	
+R51	Associated_With Arg1:T622 Arg2:T624	
+T625	Chemical 16213 16216	LPS
+T626	Metabolite 16213 16216	LPS
+T627	Chemical 16597 16600	LPS
+T628	Metabolite 16597 16600	LPS
+T629	Chemical 17237 17240	LPS
+T630	Metabolite 17237 17240	LPS
+T631	Species 17208 17230	Gram-negative bacteria
+T632	Chemical 17296 17298	NO
+T633	Metabolite 17296 17298	NO
+T634	Protein 17311 17316	TNF-α
+T635	Protein 17331 17336	NF-κB
+T636	Biological_Activity 17337 17347	activation
+T637	Chemical 17408 17414	PCA C2
+T638	Metabolite 17408 17414	PCA C2
+T639	Biological_Activity 17456 17466	activation
+T640	Biological_Activity 17510 17519	inhibited
+T641	Protein 17534 17554	anti-murine TNF-α Ab
+T642	Species 17539 17545	murine
+T643	Chemical 17581 17587	PCA C2
+T644	Protein 17581 17587	PCA C2
+T645	Protein 17616 17621	TNF-α
+T646	Protein 17698 17703	NF-κB
+T647	Biological_Activity 17704 17714	activation
+T648	Metabolite 17738 17740	NO
+T649	Chemical 17738 17740	NO
+T650	Protein 17757 17762	NF-κB
+T651	Protein 17809 17814	TNF-α
+T652	Protein 17882 17887	TNF-α
+T653	Protein 18090 18095	TNF-α
+T654	Protein 18118 18123	NF-κB
+T655	Protein 18196 18201	TNF-α
+T656	Protein 18258 18262	iNOS
+T657	Biological_Activity 18335 18345	activation
+T658	Chemical 18349 18352	LPS
+T659	Metabolite 18349 18352	LPS
+R52	Associated_With Arg1:T659 Arg2:T657	
+R53	Associated_With Arg1:T658 Arg2:T657	
+T660	Biological_Activity 18532 18542	activation
+T661	Protein 18552 18557	NF-κB
+T662	Biological_Activity 18625 18632	binding
+T663	Chemical 18712 18722	flavonoids
+T664	Metabolite 18712 18722	flavonoids
+T665	Protein 18735 18740	NF-κB
+T666	Protein 18782 18792	luciferase
+T667	Protein 18844 18849	TNF-α
+T668	Metabolite 18854 18856	NO
+T669	Chemical 18854 18856	NO
+T670	Chemical 18862 18882	monomeric flavonoids
+T671	Metabolite 18862 18882	monomeric flavonoids
+T672	Chemical 18901 18907	PCA C2
+T673	Metabolite 18901 18907	PCA C2
+T674	Protein 18926 18931	NF-κB
+T675	Protein 18989 18994	TNF-α
+T676	Chemical 19009 19011	NO
+T677	Metabolite 19009 19011	NO
+T678	Biological_Activity 19076 19086	activation
+T679	Biological_Activity 19090 19100	inhibition
+T680	Protein 19104 19109	NF-κB
+T681	Protein 19173 19178	NF-κB
+T682	Biological_Activity 19220 19229	inhibited
+T683	Chemical 19233 19245	antioxidants
+T684	Biological_Activity 19287 19298	antioxidant
+T685	Chemical 19313 19321	catechin
+T686	Chemical 19323 19334	epicatechin
+T687	Metabolite 19313 19321	catechin
+T688	Metabolite 19323 19334	epicatechin
+T689	Chemical 19364 19371;19385 19395	dimeric flavonoids
+T690	Metabolite 19364 19371;19385 19395	dimeric flavonoids
+T691	Chemical 19376 19395	trimeric flavonoids
+T692	Metabolite 19376 19395	trimeric flavonoids
+R54	Associated_With Arg1:T687 Arg2:T684	
+R55	Associated_With Arg1:T685 Arg2:T684	
+R56	Associated_With Arg1:T688 Arg2:T684	
+R57	Associated_With Arg1:T686 Arg2:T684	
+T693	Biological_Activity 19459 19470	antioxidant
+T694	Chemical 19487 19494	aqueous
+T695	Chemical 19516 19525;19538 19548	monomeric flavonoids
+T696	Metabolite 19516 19525;19538 19548	monomeric flavonoids
+T697	Chemical 19529 19548	trimeric flavonoids
+T698	Metabolite 19529 19548	trimeric flavonoids
+T699	Chemical 19584 19602	trimeric flavonoid
+T700	Metabolite 19584 19602	trimeric flavonoid
+T701	Chemical 19603 19609	PCA C2
+T702	Metabolite 19603 19609	PCA C2
+T703	Protein 19661 19666	NF-κB
+T704	Protein 19685 19690	NF-κB
+T705	Chemical 19724 19734	flavonoids
+T706	Metabolite 19724 19734	flavonoids
+T707	Biological_Activity 19781 19792	antioxidant
+T708	Protein 19874 19879	NF-κB
+T709	Biological_Activity 19880 19890	activation
+T710	Chemical 19895 19897	NO
+T711	Metabolite 19895 19897	NO
+T712	Species 19933 19939	murine
+T713	Protein 20040 20045	NF-κB
+T714	Biological_Activity 20046 20056	activation
+T715	Biological_Activity 20215 20226	stimulation
+T716	Species 20451 20457	murine
+T717	Chemical 20487 20497	Flavonoids
+T718	Metabolite 20487 20497	Flavonoids
+T719	Chemical 20526 20549	phenolic phytochemicals
+T720	Metabolite 20526 20549	phenolic phytochemicals
+T721	Biological_Activity 20555 20566	antioxidant
+R58	Associated_With Arg1:T718 Arg2:T721	
+R59	Associated_With Arg1:T717 Arg2:T721	
+T722	Biological_Activity 20657 20667	scavenging
+T723	Metabolite 20704 20714	flavonoids
+T724	Chemical 20704 20714	flavonoids
+R60	Associated_With Arg1:T723 Arg2:T722	
+R61	Associated_With Arg1:T724 Arg2:T722	
+T725	Chemical 20864 20873;20897 20907	monomeric flavonoids
+T726	Metabolite 20864 20873;20897 20907	monomeric flavonoids
+T727	Chemical 20875 20882;20897 20907	dimeric flavonoids
+T728	Metabolite 20875 20882;20897 20907	dimeric flavonoids
+T729	Chemical 20888 20907	trimeric flavonoids
+T730	Metabolite 20888 20907	trimeric flavonoids
+T731	Protein 20964 20969	TNF-α
+T732	Chemical 20981 20983	NO
+T733	Metabolite 20981 20983	NO
+T734	Protein 20999 21004	NF-κB
+T735	Chemical 21136 21146	flavonoids
+T736	Metabolite 21136 21146	flavonoids
+T737	Chemical 21210 21220	flavonoids
+T738	Metabolite 21210 21220	flavonoids
+T739	Biological_Activity 21237 21253	immunomodulatory
+T740	Biological_Activity 21258 21274	antiinflammatory
+R62	Associated_With Arg1:T738 Arg2:T739	
+R63	Associated_With Arg1:T738 Arg2:T740	
+R64	Associated_With Arg1:T737 Arg2:T739	
+R65	Associated_With Arg1:T737 Arg2:T740	
+T741	Chemical 21307 21317	flavonoids
+T742	Metabolite 21307 21317	flavonoids
+T743	Metabolite 21469 21483	plant extracts
+T744	Metabolite 19918 19921	LPS
+T745	Chemical 19918 19921	LPS
+T746	Chemical 19987 19990	LPS
+T747	Metabolite 19987 19990	LPS
+T748	Chemical 20109 20112	LPS
+T749	Metabolite 20109 20112	LPS
+T750	Chemical 20342 20345	LPS
+T751	Metabolite 20342 20345	LPS

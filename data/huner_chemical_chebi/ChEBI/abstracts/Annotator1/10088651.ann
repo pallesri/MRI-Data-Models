@@ -1,0 +1,33 @@
+T1	Biological_Activity 37 52	neuroprotection
+T5	Chemical 563 572	ibotenate
+T7	Protein 641 670	N-methyl-D-aspartate receptor
+T10	Chemical 921 930	ibotenate
+T11	Chemical 981 990	ibotenate
+T12	Species 1009 1014	mouse
+T13	Chemical 1102 1116	kynurenic acid
+T14	Chemical 1173 1193	N-methyl-D-aspartate
+T15	Protein 1173 1202	N-methyl-D-aspartate receptor
+T17	Biological_Activity 1121 1131	antagonist
+R2	Associated_With Arg1:T13 Arg2:T17	
+T18	Chemical 1212 1233	N(G)-nitro-L-arginine
+T19	Biological_Activity 1238 1247	inhibitor
+R3	Associated_With Arg1:T18 Arg2:T19	
+T20	Biological_Activity 1300 1315	neuroprotective
+R4	Associated_With Arg1:T13 Arg2:T20	
+R5	Associated_With Arg1:T18 Arg2:T20	
+T21	Chemical 1337 1350	inc gluconate
+T22	Chemical 1398 1418	N-methyl-D-aspartate
+T23	Protein 1398 1427	N-methyl-D-aspartate receptor
+T25	Biological_Activity 1448 1457	scavenger
+T26	Chemical 1459 1466	U74389F
+R6	Associated_With Arg1:T26 Arg2:T25	
+T27	Biological_Activity 1354 1368	blocking agent
+R7	Associated_With Arg1:T21 Arg2:T27	
+T28	Species 1645 1650	mouse
+T6	Biological_Activity 735 743	necrosis
+T31	Species 756 761	human
+T34	Protein 371 380	cytokines
+R1	Binds_With Arg1:T13 Arg2:T15	
+T2	Chemical 1152 1159	glycine
+T3	Chemical 1251 1263	nitric oxide
+R8	Binds_With Arg1:T21 Arg2:T23	

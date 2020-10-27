@@ -1,0 +1,49 @@
+T1	Chemical 22 32	adrenaline
+T2	Chemical 34 47	noradrenaline
+T3	Chemical 49 57	dopamine
+T4	Chemical 59 70	aldosterone
+T8	Species 154 162	patients
+#1	AnnotatorNotes T8	Implies the species is human
+T9	Species 200 208	patients
+#2	AnnotatorNotes T9	Implies human
+T10	Chemical 223 230	digoxin
+T5	Biological_Activity 95 102	hormone
+T7	Metabolite 22 32	adrenaline
+T12	Metabolite 34 47	noradrenaline
+T13	Metabolite 49 57	dopamine
+T14	Metabolite 59 70	aldosterone
+T15	Chemical 318 325	digoxin
+T16	Chemical 451 458	digoxin
+T17	Chemical 502 509	digoxin
+T18	Species 332 340	patients
+T19	Species 535 543	patients
+T20	Species 596 604	patients
+T21	Chemical 634 647	noradrenaline
+T22	Metabolite 634 647	noradrenaline
+T23	Metabolite 649 657	dopamine
+T24	Chemical 649 657	dopamine
+T25	Protein 663 668	renin
+T27	Chemical 689 700	aldosterone
+T28	Metabolite 689 700	aldosterone
+T29	Chemical 709 735	atrial natriuretic hormone
+T30	Biological_Activity 728 735	hormone
+T31	Species 771 779	patients
+T33	Chemical 996 1006	adrenaline
+T34	Metabolite 996 1006	adrenaline
+T35	Chemical 1089 1096	digoxin
+T37	Metabolite 1199 1209	adrenaline
+T38	Chemical 1199 1209	adrenaline
+T39	Chemical 1238 1245	digoxin
+R1	Isolated_From Arg1:T7 Arg2:T8	
+R2	Isolated_From Arg1:T12 Arg2:T8	
+R3	Isolated_From Arg1:T13 Arg2:T8	
+R4	Isolated_From Arg1:T14 Arg2:T8	
+T40	Chemical 837 844	digoxin
+R5	Isolated_From Arg1:T22 Arg2:T31	
+R6	Isolated_From Arg1:T23 Arg2:T31	
+R7	Isolated_From Arg1:T28 Arg2:T31	
+T11	Chemical 76 102	atrial natriuretic hormone
+R8	Isolated_From Arg1:T29 Arg2:T31	
+T32	Species 1045 1053	patients
+R9	Isolated_From Arg1:T34 Arg2:T32	
+T41	Protein 115 120	renin

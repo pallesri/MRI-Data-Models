@@ -1,0 +1,24 @@
+T1	Chemical 85 97	BNPS-skatole
+T2	Chemical 99 143	2-(2-nitrophenyl)-3-methyl-3-bromoindolenine
+T4	Protein 207 225	beta-lactoglobulin
+T5	Species 200 206	bovine
+T6	Chemical 312 323	acetic acid
+T7	Chemical 325 345	trifluoroacetic acid
+T8	Chemical 347 350	TFA
+T9	Chemical 357 364	ethanol
+T10	Chemical 365 368	TFA
+T11	Chemical 374 386	BNPS-skatole
+T12	Chemical 410 415	water
+T13	Chemical 419 430	ethyl ether
+T14	Protein 227 230	BLG
+T15	Protein 765 768	BLG
+T16	Chemical 784 795	acetic acid
+T17	Chemical 835 840	water
+T18	Chemical 1040 1050	amino acid
+T19	Spectral_Data 688 705	mass spectrometry
+T20	Chemical 498 506;508 512	peptides 1-19
+R3	Associated_With Arg1:T20 Arg2:T19	
+#1	AnnotatorNotes T20	The other peptide fragments are too big to be classed as small molecules
+T21	Spectral_Data 1014 1031	mass spectrometry
+T22	Chemical 1066 1079	peptides 1-19
+R4	Associated_With Arg1:T22 Arg2:T21	

@@ -1,0 +1,13 @@
+T1	Disease 150 167	cerebral ischemia
+T2	Disease 270 276	trauma
+T3	Disease 454 460	Trauma
+T4	Disease 856 869	neuronal loss
+T5	Disease 989 995	trauma
+T6	Disease 1102 1108	trauma
+T7	Disease 1228 1234	trauma
+T11	Plant 90 102	Morus alba L
+T8	Plant 75 88	mulberry wood
+*	Equiv T8 T11
+T9	Treatment_of_disease 123 141	protective effects
+E1	Treatment_of_disease:T9 Cause:T8 Theme:T1
+T10	Disease 1194 1201	gliosis

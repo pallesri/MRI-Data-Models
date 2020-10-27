@@ -1,0 +1,52 @@
+T1	Protein 0 30	Dopamine D4-like binding sites
+T3	Chemical 85 100	[3H]nemonapride
+T6	Chemical 279 294	[3H]nemonapride
+T7	Species 316 332	nonhuman primate
+#1	AnnotatorNotes T7	Not really a species, but better than nothing!
+T8	Chemical 378 393	[3H]nemonapride
+T11	Chemical 438 447	clozapine
+T12	Chemical 456 466	raclopride
+T13	Chemical 468 483	[3H]nemonapride
+T14	Biological_Activity 526 536	antagonist
+T15	Biological_Activity 580 590	antagonist
+T16	Chemical 591 600	MDL100907
+T17	Chemical 608 622	[3H]ketanserin
+T19	Chemical 643 654	nemonapride
+T20	Species 680 686	monkey
+T21	Species 713 718	human
+T23	Protein 573 579	5-HT2A
+T24	Protein 628 634	5-HT2A
+T26	Species 774 777	rat
+T27	Chemical 900 915	[3H]nemonapride
+T29	Protein 1012 1021;972 974	receptors D4
+T31	Protein 1005 1011	5-HT2A
+T33	Chemical 523 537	D4 antagonists
+#2	AnnotatorNotes T33	Compounds that have this biological activity
+T35	Protein 260 277	D4-like receptors
+T36	Protein 280 308	3H]nemonapride binding sites
+T37	Protein 733 739	5-HT2A
+T38	Protein 131 133	D4
+T39	Protein 1081 1096	5-HT2A receptor
+T40	Protein 1081 1087	5-HT2A
+T42	Protein 733 749	5-HT2A receptors
+T43	Protein 1005 1021	5-HT2A receptors
+T44	Species 919 936	nonhuman primates
+#3	AnnotatorNotes T44	Not really a species, but species-related
+T45	Species 47 52	human
+T46	Biological_Activity 484 491	binding
+R2	Associated_With Arg1:T16 Arg2:T15	
+T48	Protein 849 888	cerebral cortical D4-like binding sites
+T49	Chemical 1057 1068	nemonapride
+T50	Species 1073 1080	primate
+T51	Chemical 1159 1174	[3H]nemonapride
+T52	Protein 1198 1215	D4-like receptors
+T54	Protein 204 225	D4-like binding sites
+T55	Protein 378 407	[3H]nemonapride binding sites
+T56	Species 142 147	human
+R3	Binds_With Arg1:T3 Arg2:T1	
+R5	Binds_With Arg1:T16 Arg2:T55	
+R4	Binds_With Arg1:T11 Arg2:T55	
+R1	Associated_With Arg1:T13 Arg2:T46	
+R6	Binds_With Arg1:T16 Arg2:T23	
+R8	Binds_With Arg1:T19 Arg2:T42	
+R7	Binds_With Arg1:T49 Arg2:T39	

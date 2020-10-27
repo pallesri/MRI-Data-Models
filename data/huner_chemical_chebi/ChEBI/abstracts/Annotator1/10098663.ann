@@ -1,0 +1,54 @@
+T1	Protein 45 68	dipeptidyl peptidase IV
+T2	Protein 70 76	DPP-IV
+T5	Biological_Activity 78 87	inhibitor
+T6	Chemical 97 125	N-phenylphthalimide skeleton
+#1	AnnotatorNotes T6	general structure
+T7	Chemical 179 219	4-amino-(2,6-dimethylphenyl)phthalimides
+T9	Chemical 232 272	5-hydroxy-(2,6-diethylphenyl)phthalimide
+T12	Chemical 286 330	4-hydroxy-(2,6-diisopropylphenyl)phthalimide
+T14	Chemical 341 399;404 445	thiocarbonyl analogs of (2,6-diisopropylphenyl)phthalimide their 4,5,6,7-tetrafluorinated derivative
+T15	Chemical 448 450	18
+T16	Chemical 452 454	19
+T17	Chemical 459 461	20
+T18	Biological_Activity 517 526	inhibitor
+T19	Chemical 529 540	Pro-boroPro
+T20	Chemical 542 545	PBP
+T21	Chemical 560 562	18
+T22	Biological_Activity 600 609	inhibitor
+T24	Protein 675 684	peptidase
+T25	Protein 686 702	aminopeptidase N
+T23	Protein 704 707	APN
+R1	Associated_With Arg1:T21 Arg2:T22	
+R2	Associated_With Arg1:T19 Arg2:T18	
+R3	Associated_With Arg1:T20 Arg2:T18	
+R4	Associated_With Arg1:T7 Arg2:T5	
+R6	Associated_With Arg1:T9 Arg2:T5	
+R11	Associated_With Arg1:T15 Arg2:T5	
+R12	Associated_With Arg1:T16 Arg2:T5	
+R13	Associated_With Arg1:T17 Arg2:T5	
+T28	Biological_Activity 640 650	inhibitory
+R14	Associated_With Arg1:T16 Arg2:T28	
+R15	Associated_With Arg1:T17 Arg2:T28	
+R16	Associated_With Arg1:T7 Arg2:T28	
+T29	Chemical 225 227;234 272	4- hydroxy-(2,6-diethylphenyl)phthalimide
+R22	Associated_With Arg1:T29 Arg2:T5	
+T27	Protein 501 507	DPP-IV
+R23	Binds_With Arg1:T19 Arg2:T27	
+R24	Binds_With Arg1:T20 Arg2:T27	
+R25	Binds_With Arg1:T7 Arg2:T1	
+R26	Binds_With Arg1:T7 Arg2:T2	
+R27	Binds_With Arg1:T29 Arg2:T1	
+R28	Binds_With Arg1:T29 Arg2:T2	
+R29	Binds_With Arg1:T9 Arg2:T1	
+R30	Binds_With Arg1:T9 Arg2:T2	
+R5	Binds_With Arg1:T12 Arg2:T2	
+R7	Binds_With Arg1:T12 Arg2:T1	
+R8	Associated_With Arg1:T12 Arg2:T5	
+T3	Protein 584 590	DPP-IV
+R9	Binds_With Arg1:T15 Arg2:T1	
+R10	Binds_With Arg1:T16 Arg2:T1	
+R17	Binds_With Arg1:T17 Arg2:T1	
+R18	Binds_With Arg1:T15 Arg2:T27	
+R19	Binds_With Arg1:T16 Arg2:T27	
+R20	Binds_With Arg1:T17 Arg2:T27	
+R21	Binds_With Arg1:T21 Arg2:T3	

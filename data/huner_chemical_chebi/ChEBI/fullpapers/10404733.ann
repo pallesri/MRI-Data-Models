@@ -1,0 +1,154 @@
+T1	Biological_Activity 18 28	metabolism
+T2	Chemical 89 100	metabolites
+T3	Metabolite 89 100	metabolites
+T4	Chemical 121 130	compounds
+T5	Biological_Activity 244 261	organic acidemias
+T6	Chemical 377 388	metabolites
+T7	Spectral_Data 432 468	gas chromatography/mass spectrometry
+T8	Spectral_Data 470 475	GC/MS
+T9	Species 599 607	patients
+T10	Spectral_Data 788 796	GC/MS/MS
+T11	Biological_Activity 821 838	diagnostic marker
+T12	Chemical 839 848	compounds
+T13	Spectral_Data 850 855	MS/MS
+T14	Spectral_Data 859 883	tandem mass spectrometry
+T15	Chemical 999 1008	compounds
+T16	Spectral_Data 1070 1088	tandem-in-space MS
+T17	Spectral_Data 1131 1136	MS/MS
+T18	Spectral_Data 1281 1290	tandem MS
+T19	Spectral_Data 1691 1696	MS/MS
+T20	Spectral_Data 1797 1802	GC/MS
+T21	Chemical 1918 1931	organic acids
+T22	Spectral_Data 1937 1946	tandem MS
+T23	Spectral_Data 2110 2119	tandem MS
+T24	Spectral_Data 2212 2220	GC/MS/MS
+T25	Chemical 2221 2233	organic acid
+T26	Biological_Activity 2274 2291	diagnostic marker
+T27	Chemical 2292 2301	compounds
+T28	Spectral_Data 2398 2403	GC/MS
+T29	Spectral_Data 2456 2461	MS/MS
+T30	Chemical 2528 2534	silica
+T31	Chemical 2738 2744	Helium
+T32	Chemical 3218 3227	Chemicals
+T33	Chemical 3232 3245	organic acids
+T34	Chemical 3319 3331	acylglycines
+T35	Chemical 3354 3361	glycine
+T36	Chemical 3366 3380	acylanhydrides
+T37	Chemical 3384 3397	acylchlorides
+T38	Chemical 3422 3465	N ,O -Bis(trimethylsilyl)trifluoroacetamide
+T39	Chemical 3467 3472	BSTFA
+T40	Chemical 3482 3503	trimethylchlorosilane
+T41	Chemical 3505 3509	TMCS
+T42	Chemical 3909 3911	Hg
+T43	Chemical 3947 3950	HCl
+T44	Chemical 3966 3970	NaCl
+T45	Chemical 3991 3996	water
+T46	Chemical 4006 4014	methanol
+T47	Chemical 4028 4039	ethylactate
+T48	Chemical 4148 4158	creatinine
+T49	Chemical 4403 4408	water
+T50	Chemical 4437 4455	2-ketocaproic acid
+T51	Chemical 4477 4504	hydroxylamine hydrochloride
+T52	Chemical 4598 4601	HCl
+T53	Chemical 4680 4692	ethylacetate
+T54	Chemical 4703 4708	Water
+T55	Chemical 4741 4755	sodium sulfate
+T56	Chemical 4785 4793	nitrogen
+T57	Chemical 4826 4831	BSTFA
+T58	Chemical 4834 4838	TMCS
+T59	Chemical 4908 4914	hexane
+T60	Spectral_Data 4921 4926	MS/MS
+T61	Chemical 5102 5110	compound
+T62	Spectral_Data 5202 5204	MS
+T63	Spectral_Data 6020 6032	ion spectrum
+T64	Chemical 6288 6301	organic acids
+T65	Biological_Activity 6343 6352	metabolic
+T66	Spectral_Data 6382 6390	GC/MS/MS
+T67	Chemical 6492 6513	2-ketoisocaproic acid
+T68	Chemical 8087 8105	methylmalonic acid
+T69	Chemical 8171 8183	organic acid
+T70	Biological_Activity 8184 8191	markers
+T71	Chemical 8209 8225	propionylglycine
+T72	Chemical 8237 8250	glutaric acid
+T73	Chemical 8397 8409	ethylacetate
+T74	Chemical 8556 8568	organic acid
+T75	Biological_Activity 8569 8576	markers
+T76	Chemical 8584 8596	sebacic acid
+T77	Chemical 9033 9051	2-ketocaproic acid
+T78	Chemical 9206 9219	organic acids
+T79	Chemical 9338 9351	organic acids
+T80	Chemical 9414 9427	organic acids
+T81	Species 9489 9497	patients
+T82	Biological_Activity 9517 9526	metabolic
+T83	Chemical 9984 9994	fatty acid
+T84	Chemical 10069 10075;10097 10101	adipic acid
+T85	Chemical 10077 10084;10097 10101	suberic acid
+T86	Chemical 10089 10101	sebacic acid
+T87	Metabolite 10069 10075;10097 10101	adipic acid
+T88	Metabolite 10077 10084;10097 10101	suberic acid
+T89	Metabolite 10089 10101	sebacic acid
+T90	Chemical 10236 10242;10264 10268	adipic acid
+T91	Metabolite 10236 10242;10264 10268	adipic acid
+T92	Chemical 10244 10251;10264 10268	suberic acid
+T93	Metabolite 10244 10251;10264 10268	suberic acid
+T94	Chemical 10256 10268	sebacic acid
+T95	Metabolite 10256 10268	sebacic acid
+T96	Species 10281 10288	patient
+R1	Isolated_From Arg1:T95 Arg2:T96	
+R2	Isolated_From Arg1:T93 Arg2:T96	
+R3	Isolated_From Arg1:T91 Arg2:T96	
+T97	Chemical 10383 10396	triglycerides
+T98	Metabolite 10383 10396	triglycerides
+T99	Spectral_Data 10416 10424	GC/MS/MS
+T100	Biological_Activity 10496 10513	organic acidurias
+T101	Biological_Activity 10672 10682	metabolism
+T102	Protein 10706 10714	fumarase
+T103	Spectral_Data 10840 10845	GC/MS
+T104	Biological_Activity 11087 11093	marker
+T105	Chemical 11094 11103	compounds
+T106	Chemical 11296 11308	ethylacetate
+T107	Spectral_Data 11507 11516	tandem MS
+T108	Chemical 11687 11710	3-methylcrotonylglycine
+T109	Chemical 11715 11728	tiglylglycine
+T110	Spectral_Data 11824 11836	mass spectra
+T111	Metabolite 11687 11710	3-methylcrotonylglycine
+T112	Metabolite 11715 11728	tiglylglycine
+R4	Associated_With Arg1:T112 Arg2:T110	
+R5	Associated_With Arg1:T109 Arg2:T110	
+R6	Associated_With Arg1:T111 Arg2:T110	
+R7	Associated_With Arg1:T108 Arg2:T110	
+T113	Chemical 11945 11958	organic acids
+T114	Chemical 12085 12094	compounds
+T115	Species 12178 12185	patient
+T116	Spectral_Data 12384 12389	MS/MS
+T117	Chemical 12629 12641	organic acid
+T118	Biological_Activity 12642 12649	markers
+T119	Chemical 12793 12805	organic acid
+T120	Biological_Activity 12806 12813	markers
+T121	Chemical 12862 12874	fumaric acid
+T122	Metabolite 12862 12874	fumaric acid
+T123	Chemical 12876 12889	glutaric acid
+T124	Metabolite 12876 12889	glutaric acid
+T125	Chemical 12891 12905	butyrylglycine
+T126	Metabolite 12891 12905	butyrylglycine
+T127	Chemical 12910 12921	adipic acid
+T128	Metabolite 12910 12921	adipic acid
+R8	Associated_With Arg1:T122 Arg2:T120	
+R9	Associated_With Arg1:T121 Arg2:T120	
+R10	Associated_With Arg1:T124 Arg2:T120	
+R11	Associated_With Arg1:T123 Arg2:T120	
+R12	Associated_With Arg1:T126 Arg2:T120	
+R13	Associated_With Arg1:T125 Arg2:T120	
+R14	Associated_With Arg1:T128 Arg2:T120	
+R15	Associated_With Arg1:T127 Arg2:T120	
+T129	Chemical 13604 13616	organic acid
+T130	Biological_Activity 13617 13624	markers
+T131	Chemical 13853 13861	compound
+T132	Chemical 13944 13962	2-ketocaproic acid
+T133	Chemical 14137 14155	2-ketocaproic acid
+T134	Chemical 14634 14646	organic acid
+T135	Biological_Activity 14647 14654	markers
+T136	Biological_Activity 14925 14942	organic acidurias
+T137	Biological_Activity 15045 15054	metabolic
+T138	Species 15076 15084	patients
+T139	Biological_Activity 15151 15160	metabolic

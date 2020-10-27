@@ -1,0 +1,72 @@
+T1	Species 10 15	human
+T2	Metabolite 66 76	creatinine
+T3	Chemical 66 76	creatinine
+T4	Chemical 82 105	2-ethylhydracrylic acid
+T5	Metabolite 82 105	2-ethylhydracrylic acid
+T6	Metabolite 250 260	isoleucine
+R1	Isolated_From Arg1:T2 Arg2:T1	
+R2	Isolated_From Arg1:T5 Arg2:T1	
+T7	Chemical 286 309	2-ethylhydracrylic acid
+T8	Metabolite 286 309	2-ethylhydracrylic acid
+T9	Protein 409 431	3-oxoacyl-CoA thiolase
+T10	Chemical 409 422	3-oxoacyl-CoA
+#1	AnnotatorNotes T10	Chemical class
+T11	Protein 447 471	methylmalonyl-CoA mutase
+T12	Chemical 447 464	methylmalonyl-CoA
+T13	Chemical 565 588	branched-chain oxo acid
+#2	AnnotatorNotes T13	Chemical class
+T14	Protein 565 602	branched-chain oxo acid decarboxylase
+T15	Chemical 346 356	isoleucine
+T16	Chemical 685 706	R(-)-2-methylbutyrate
+T20	Metabolite 685 706	R(-)-2-methylbutyrate
+T22	Chemical 747 766	2-ethylhydracrylate
+T23	Metabolite 747 766	2-ethylhydracrylate
+T24	Species 784 790	mammal
+#3	AnnotatorNotes T24	Species class
+T25	Species 791 794	rat
+T26	Species 796 802	rabbit
+T27	Species 807 810	dog
+T29	Chemical 846 871	S(+)-2-methylbutyric acid
+T30	Metabolite 846 871	S(+)-2-methylbutyric acid
+T33	Metabolite 1118 1136	R 2-methylbutyrate
+T34	Chemical 1118 1136	R 2-methylbutyrate
+T35	Chemical 1142 1165	2-ethylhydracrylic acid
+T36	Metabolite 1142 1165	2-ethylhydracrylic acid
+R3	Metabolite_Of Arg1:T36 Arg2:T34	
+T37	Chemical 1209 1228	2-ethylacrylic acid
+T38	Metabolite 1209 1228	2-ethylacrylic acid
+R4	Metabolite_Of Arg1:T38 Arg2:T34	
+T39	Chemical 1259 1282	2-ethylhydracrylic acid
+T40	Metabolite 1259 1282	2-ethylhydracrylic acid
+T41	Chemical 1286 1303	ethylmalonic acid
+T42	Metabolite 1286 1303	ethylmalonic acid
+T45	Chemical 1373 1388	methyl malonate
+R5	Metabolite_Of Arg1:T42 Arg2:T39	
+R6	Metabolite_Of Arg1:T36 Arg2:T37	
+T46	Chemical 1393 1399	Valine
+T47	Chemical 1439 1449	isoleucine
+R9	Isolated_From Arg1:T23 Arg2:T24	
+R10	Isolated_From Arg1:T23 Arg2:T25	
+R11	Isolated_From Arg1:T23 Arg2:T26	
+R12	Isolated_From Arg1:T23 Arg2:T27	
+T17	Chemical 250 260	isoleucine
+T49	Metabolite 233 260	R metabolites of isoleucine
+T50	Chemical 233 260	R metabolites of isoleucine
+T51	Metabolite 346 356	isoleucine
+T19	Chemical 685 690;711 726	R(-)- 2-ethylacrylate
+T21	Metabolite 685 690;711 726	R(-)- 2-ethylacrylate
+T18	Chemical 662 682	R-pathway metabolite
+T55	Metabolite 662 683	R-pathway metabolites
+T28	Chemical 831 844	S metabolites
+T56	Metabolite 831 844	S metabolites
+T31	Chemical 846 851;876 887	S(+)- tiglic acid
+T48	Metabolite 846 851;876 887	S(+)- tiglic acid
+T32	Chemical 1021 1034	R metabolites
+T57	Metabolite 1021 1034	R metabolites
+T58	Metabolite 1015 1016;1023 1034	S metabolites
+T59	Chemical 1015 1016;1023 1034	S metabolites
+T43	Chemical 1346 1358	S-metabolite
+T44	Metabolite 1346 1358	S-metabolite
+T60	Metabolite 1439 1449	isoleucine
+T61	Metabolite 1393 1411	Valine metabolites
+T62	Chemical 1393 1411	Valine metabolites

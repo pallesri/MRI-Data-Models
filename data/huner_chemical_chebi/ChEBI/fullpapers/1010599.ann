@@ -1,0 +1,561 @@
+T1	Species 44 50	rabbit
+T2	Protein 51 61	antibodies
+T3	Chemical 69 97	p-azophenylphosphorylcholine
+T4	Chemical 99 103	APPC
+T5	Chemical 297 314	guanidinium group
+T6	Chemical 318 326	arginine
+T7	Chemical 297 326	guanidinium group of arginine
+T8	Chemical 373 390	carboxylate group
+T9	Chemical 373 393;401 411;424 431	carboxylate group of a glutamyl residue
+T10	Chemical 373 393;401 402;415 431	carboxylate group of a aspartyl residue
+T11	Chemical 497 514	phosphorylcholine
+T12	Species 523 528	mouse
+T13	Protein 523 544	mouse myeloma protein
+T14	Protein 546 552	HOPC-8
+T15	Chemical 573 584;601 607	gaunidinium groups
+T16	Chemical 589 607	carboxylate groups
+R1	Binds_With Arg1:T11 Arg2:T13	
+T17	Biological_Activity 615 622	binding
+T18	Biological_Activity 515 522	binding
+T19	Biological_Activity 694 701	binding
+T20	Biological_Activity 738 745	binding
+T21	Chemical 814 818	APPC
+T22	Protein 809 829	anti-APPC antibodies
+T23	Protein 839 845	HOPC-8
+T24	Biological_Activity 874 881	binding
+T25	Species 889 895	rabbit
+T26	Chemical 901 905	APPC
+T27	Protein 896 916	anti-APPC antibodies
+T28	Protein 928 943	myeloma protein
+T29	Biological_Activity 1010 1017	binding
+T30	Biological_Activity 1092 1099	binding
+T31	Protein 1109 1129	anti-APPC antibodies
+T32	Chemical 1114 1118	APPC
+T33	Protein 1134 1140	HOPC-8
+T34	Chemical 1363 1367	APPC
+T35	Chemical 1369 1397	p-azophenylphosphorylcholine
+T36	Chemical 1399 1403	NPPC
+T37	Chemical 1405 1435	p-nitrophenylphosphorylcholine
+T38	Chemical 1437 1439	PC
+T39	Chemical 1441 1458	phosphorylcholine
+T40	Chemical 1460 1463	GPC
+T41	Chemical 1465 1493	L-a-glycerophosphorylcholine
+T42	Chemical 1495 1498	AcC
+T43	Chemical 1500 1513	acetylcholine
+T44	Chemical 1515 1519	I-Ap
+T45	Chemical 1521 1550	p-iodophenyltrimethylammonium
+T46	Chemical 1552 1555	PO3
+T47	Chemical 1557 1572	phenylphosphate
+T48	Chemical 1574 1576	03
+T49	Chemical 1579 1596	phenylphosphonate
+T50	Chemical 1598 1601	BBS
+T51	Chemical 1603 1625	borate buffered saline
+T52	Chemical 1662 1706	p-Diazonium phenylphosphorylcholine chloride
+T53	Chemical 1708 1712	DPPC
+T54	Chemical 1831 1834	HCl
+T55	Chemical 1853 1856	HCl
+T56	Chemical 1895 1906	Haptens    
+T57	Chemical 1907 1914	Haptens
+T58	Species 2000 2004	Goat
+T59	Species 2010 2016	rabbit
+T60	Protein 2005 2020	anti-rabbit IgG
+T61	Species 2102 2108	Rabbit
+T62	Species 2114 2119	mouse
+T63	Protein 2109 2123	anti-mouse IgA
+T64	Species 2237 2244	rabbits
+T65	Protein 2250 2274	MOPC-315 myeloma protein
+T66	Protein 2279 2299	Anti-APPC antibodies
+T67	Chemical 2284 2288	APPC
+T68	Species 2323 2329	rabbit
+T69	Chemical 2346 2350	APPC
+T70	Protein 2416 2426	antibodies
+T71	Species 2443 2450	rabbits
+T72	Species 2571 2578	rabbits
+T73	Species 2571 2578;2588 2592	rabbits 6057
+T74	Species 2571 2583	rabbits 6055
+T75	Protein 2620 2640	anti-APPC antibodies
+T76	Chemical 2625 2629	APPC
+T77	Species 2666 2677	rabbit 5920
+T78	Protein 2684 2698	gamma globulin
+T79	Protein 2711 2720	anti-APPC
+T80	Chemical 2716 2720	APPC
+T81	Protein 2731 2753	HOPC-8 myeloma protein
+T82	Species 2808 2812	mice
+T83	Species 3029 3035	Rabbit
+T84	Protein 3029 3049	Rabbit serum albumin
+T85	Protein 3051 3054	RSA
+T86	Protein 3125 3128	RSA
+T87	Chemical 3129 3133	APPC
+T88	Protein 3178 3181	RSA
+T89	Chemical 3207 3220	borate buffer
+T90	Chemical 3239 3243	DPPC
+T91	Chemical 3301 3304	BBS
+T92	Protein 3412 3415	RSA
+T93	Protein 3425 3428	RSA
+T94	Chemical 3416 3420	APPC
+T95	Chemical 3429 3433	APPC
+T96	Chemical 3568 3571	BBS
+T97	Protein 3412 3420	RSA-APPC
+T98	Protein 3425 3433	RSA-APPC
+T99	Protein 3605 3613	RSA-APPC
+T100	Protein 3605 3608	RSA
+T101	Chemical 3609 3613	APPC
+T102	Chemical 3627 3629	KI
+T103	Chemical 3457 3461	'251
+T104	Chemical 3642 3646	'ZSI
+T105	Chemical 3665 3677	chloromine T
+T106	Chemical 3754 3763	bisulfite
+T107	Chemical 3812 3820	reagents
+T108	Biological_Activity 3888 3895	binding
+T109	Chemical 3922 3929	haptens
+T110	Protein 4029 4037	antibody
+T111	Protein 4053 4065	antiglobulin
+T112	Chemical 4114 4142	p-azophenylphosphory1choline
+T113	Species 4159 4165	rabbit
+T114	Protein 4159 4179	rabbit serum albumin
+T115	Chemical 4214 4218	1251
+#1	AnnotatorNotes T104	I think this should be (superscript125)I - [radioactive iodine]
+#2	AnnotatorNotes T115	I think this should be 125I  [radioactive iodine]
+T116	Chemical 4220 4235	Labeled antigen
+T117	Protein 4270 4278	antibody
+T118	Chemical 4297 4304	antigen
+T119	Protein 4351 4365	gamma globulin
+T120	Protein 4390 4398	antibody
+T121	Protein 4425 4433	globulin
+T122	Species 4440 4444	goat
+T123	Protein 4445 4466	antiglobulin antibody
+T124	Protein 4423 4433	y globulin
+T125	Biological_Activity 4541 4548	binding
+T126	Chemical 4584 4591	haptens
+T127	Biological_Activity 4638 4645	inhibit
+T128	Chemical 4670 4677	antigen
+T129	Protein 4683 4691	antibody
+T130	Protein 4707 4715	antibody
+T131	Chemical 4760 4767	antigen
+T132	Protein 4781 4789	antibody
+T133	Chemical 4808 4814	hapten
+T134	Chemical 4847 4854	antigen
+T135	Protein 4906 4909	RSA
+T136	Chemical 4910 4914	APPC
+T137	Protein 4906 4914	RSA-APPC
+T138	Protein 4930 4933	RSA
+T139	Chemical 4942 4945	BBS
+T140	Protein 4977 4985	antibody
+T141	Species 5008 5014	rabbit
+T142	Chemical 5043 5046	BBS
+T143	Protein 5048 5070	HOPC-8 myeloma protein
+T144	Species 5093 5098	mouse
+T145	Protein 5131 5139	antibody
+T146	Protein 5144 5150	HOPC-8
+T147	Protein 5180 5193	'251-RSA-APPC
+T148	Chemical 5214 5220	hapten
+T149	Chemical 5238 5241	BBS
+T150	Chemical 5243 5249	Hapten
+T151	Chemical 5320 5326	hapten
+T152	Chemical 5352 5358	buffer
+T153	Chemical 5386 5393	antigen
+T154	Chemical 5425 5431	hapten
+T155	Species 5508 5514	rabbit
+T156	Species 5519 5524	mouse
+T157	Protein 5544 5552	antibody
+T158	Chemical 5564 5571	antigen
+T159	Chemical 5586 5592	buffer
+T160	Protein 5652 5665	anti-globulin
+T161	Protein 5777 5785	globulin
+T162	Species 5802 5806	Goat
+T163	Species 5812 5818	rabbit
+T164	Protein 5807 5829	anti-rabbit y-globulin
+T165	Species 5858 5864	rabbit
+T166	Protein 5865 5875	antibodies
+T167	Species 5880 5886	rabbit
+T168	Species 5892 5897	mouse
+T169	Protein 5887 5901	anti-mouse IgA
+T170	Protein 5930 5952	HOPC-8 myeloma protein
+T171	Chemical 6154 6160	saline
+T172	Biological_Activity 6264 6274	inhibition
+T173	Biological_Activity 6474 6484	inhibition
+T174	Chemical 6488 6495	haptens
+T175	Protein 6515 6518	RSA
+T176	Chemical 6519 6523	APPC
+T177	Protein 6515 6523	RSA-APPC
+T178	Chemical 6524 6531	antigen
+T179	Protein 6535 6553	anti-APPC antibody
+T180	Species 6559 6571	rabbit  6055
+T181	Chemical 6674 6680	hapten
+T182	Chemical 6684 6691	antigen
+T183	Protein 6724 6733	anti-APPC
+T184	Species 6739 6750	rabbit 6055
+T185	Protein 6769 6778	anti-APPC
+T186	Species 6784 6795	rabbit 5920
+T187	Biological_Activity 6503 6512	binding  
+T188	Biological_Activity 6692 6699	binding
+T189	Chemical 19223 19251	p-Azophenylphosphorylcholine
+T190	Protein 19218 19262	Anti-p-Azophenylphosphorylcholine Antibodies
+T191	Protein 6811 6820	anti-APPC
+T193	Species 6826 6837	rabbit 6057
+T192	Chemical 6963 6969	hapten
+T194	Chemical 6360 6368	NPPC    
+T195	Biological_Activity 6291 6301	Inhibition
+T196	Biological_Activity 7022 7036	inhibition    
+T197	Chemical 6971 6975	NPPC
+T198	Chemical 7009 7013	NPPC
+T199	Biological_Activity 6952 6962	inhibitory
+R2	Associated_With Arg1:T197 Arg2:T199	
+T200	Chemical 7041 7047	HAPTEN
+T201	Biological_Activity 7134 7144	inhibitors
+T202	Chemical 7239 7272	p-iodophenyltrimethylammonium ion
+T203	Biological_Activity 7289 7299	inhibition
+R3	Associated_With Arg1:T202 Arg2:T203	
+T204	Chemical 7333 7340	haptens
+T205	Biological_Activity 7056 7070	inhibition    
+T206	Protein 7389 7409	anti-APPC antibodies
+T207	Chemical 7469 7476	haptens
+T208	Chemical 7494 7522	phenyltrimethylammonium ions
+T209	Protein 7530 7539	ANTI-APPC
+T210	Chemical 7599 7610	CHOLINE    
+T211	Chemical 7572 7576	NPPC
+T212	Chemical 6368 6371	GPC
+T213	Protein 6311 6320	ANTI-APPC
+T214	Chemical 7947 7973	Azophenylphosphorylcholine
+T215	Protein 7940 7984	Anti-p-Azophenylphosphorylcholine Antibodies
+T216	Chemical 8027 8034	haptens
+T217	Chemical 8046 8050	APPC
+T218	Chemical 7394 7398	APPC
+T219	Protein 7731 7734	RSA
+T220	Chemical 7735 7739	APPC
+T221	Chemical 7756 7760	APPC
+T222	Protein 7751 7769	anti-APPC antibody
+T223	Species 7775 7783	rabbit  
+T224	Species 7775 7787	rabbit  5920
+T225	Protein 8039 8061	anti   APPC antibodies
+T226	Biological_Activity 7690 7700	inhibition
+T227	Biological_Activity 7719 7728	binding  
+T228	Biological_Activity 8006 8013	binding
+T229	Chemical 8080 8110	 t.-a-glycerophosphorylcholine
+T230	Chemical 8112 8133	Phosphorylcholine    
+T231	Chemical 8133 8146	I-Ap  Choline
+T232	Chemical 8148 8167	Phenylphosphonate  
+T233	Chemical 8167 8186	Phenylphosphate    
+T234	Species 8187 8193	Rabbit
+T235	Chemical 8393 8408	phenylarsonates
+T236	Chemical 8413 8423	sulfonates
+T237	Chemical 8479 8486	haptens
+T238	Biological_Activity 8525 8535	inhibition
+T239	Species 8553 8558	mouse
+T240	Protein 8553 8581	mouse myeloma protein HOPC-8
+T241	Biological_Activity 8612 8622	inhibition
+T242	Chemical 8655 8662	haptens
+T243	Biological_Activity 8694 8701	inhibit
+T244	Chemical 8879 8886	TEPC-15
+T245	Species 8929 8941	pneumococcus
+T246	Chemical 8909 8925	C-polysaccharide
+T247	Chemical 8948 8955	antigen
+T248	Protein 9022 9028	HOPC-8
+T249	Protein 9033 9040	TEPC-15
+T250	Protein 9201 9207	HOPC-8
+T251	Protein 9263 9270	TECP-15
+T252	Chemical 9299 9303	APPC
+T253	Protein 9294 9303	anti-APPC
+T254	Species 9309 9315	rabbit
+T255	Species 9309 9320	rabbit 6055
+T256	Protein 9379 9385	HOPC-8
+T257	Biological_Activity 9436 9446	inhibition
+T258	Protein 9581 9587	HOPC-8
+T259	Chemical 9592 9609	phosphory1choline
+T260	Chemical 9611 9613	PC
+T261	Chemical 9619 9649	p-nitrophenylphosphorylcholine
+T262	Chemical 9651 9655	NPPC
+T263	Biological_Activity 9735 9745	inhibition
+T264	Protein 9793 9799	HOPC-8
+T265	Chemical 9825 9827	PC
+T266	Biological_Activity 9804 9811	binding
+T267	Chemical 9872 9876	NPPC
+R4	Binds_With Arg1:T265 Arg2:T264	
+R5	Associated_With Arg1:T265 Arg2:T266	
+R6	Binds_With Arg1:T267 Arg2:T264	
+R7	Associated_With Arg1:T267 Arg2:T266	
+T268	Biological_Activity 9560 9567	binding
+T269	Chemical 10013 10020	Haptens
+T270	Biological_Activity 10031 10038	inhibit
+T271	Biological_Activity 10039 10046	binding
+T272	Protein 10050 10053	RSA
+T273	Chemical 10054 10058	APPC
+T274	Chemical 10067 10071	APPC
+T275	Protein 10062 10082	anti-APPC antibodies
+T276	Chemical 10087 10100	Acetylcholine
+T277	Chemical 10101 10124	Phenyltrimethylammonium
+T278	Chemical 10125 10164	p-Aminophenyltrimethylammonium chloride
+T279	Chemical 10165 10179	Phenylarsonate
+T280	Chemical 10180 10201	p-Nitrophenylarsonate
+T281	Chemical 10202 10222	p-lodophenylarsonate
+T282	Chemical 10223 10254	Hydroxyphenylazo)phenylarsonate
+T283	Chemical 10255 10277	p-lodobenzenesulfonate
+T284	Chemical 10278 10301	Naphthalene-l-sulfonate
+T285	Chemical 10302 10339	5-Nitro-3-iodo-4-hydroxyphenylacetate
+T286	Chemical 10340 10370	5-Nitro-4-hydroxyphenylacetate
+T287	Chemical 10401 10405	NPPC
+T288	Biological_Activity 10436 10446	inhibition
+T289	Chemical 10456 10462	hapten
+T290	Biological_Activity 10591 10600	INHIBITOR
+T291	Biological_Activity 10648 10658	inhibition
+T292	Chemical 10662 10669	haptens
+T293	Biological_Activity 10677 10686	binding  
+T294	Protein 10689 10692	RSA
+T295	Chemical 10693 10697	APPC
+T296	Chemical 10698 10705	antigen
+T297	Species 10709 10714	mouse
+T298	Protein 10709 10738	mouse myeloma protein  HOPC-8
+T299	Chemical 10792 10798	hapten
+T300	Biological_Activity 10799 10809	inhibition
+T301	Biological_Activity 10885 10892	binding
+T302	Chemical 10914 10921	haptens
+T303	Protein 10925 10945	anti-APPC antibodies
+T304	Chemical 10930 10934	APPC
+T305	Chemical 10965 10971	hapten
+T306	Biological_Activity 10972 10982	inhibition
+T307	Chemical 11003 11010	ligands
+T308	Biological_Activity 11057 11061	bind
+T309	Chemical 11077 11081	NPPC
+T310	Chemical 11083 11107	glycerophosphorylcholine
+T311	Chemical 11109 11113	I-Ap
+T312	Chemical 11115 11122	choline
+T313	Chemical 11127 11144	phosphorylcholine
+R8	Associated_With Arg1:T309 Arg2:T308	
+R9	Associated_With Arg1:T310 Arg2:T308	
+R10	Associated_With Arg1:T311 Arg2:T308	
+R11	Associated_With Arg1:T312 Arg2:T308	
+R12	Associated_With Arg1:T313 Arg2:T308	
+R13	Binds_With Arg1:T309 Arg2:T303	
+R14	Binds_With Arg1:T310 Arg2:T303	
+R15	Binds_With Arg1:T311 Arg2:T303	
+R16	Binds_With Arg1:T312 Arg2:T303	
+R17	Binds_With Arg1:T313 Arg2:T303	
+T314	Chemical 11192 11199	haptens
+T315	Chemical 11293 11299	hapten
+T316	Biological_Activity 11323 11330	binding
+T317	Species 11345 11351	rabbit
+T318	Chemical 11357 11361	APPC
+T319	Protein 11352 11372	anti-APPC antibodies
+T320	Chemical 11408 11414	hapten
+T321	Chemical 11455 11472	p-azophenyl group
+T322	Chemical 11495 11517	phosphoryl ester group
+T323	Chemical 11544 11570	quarternary ammonium group
+T324	Biological_Activity 11620 11627	binding
+T325	Chemical 11635 11659	positively charged group
+T326	Chemical 11667 11674	haptens
+T327	Biological_Activity 11704 11714	inhibiting
+T328	Biological_Activity 11719 11726	binding
+T329	Chemical 11734 11738	APPC
+T330	Chemical 11734 11757	APPC-containing antigen
+T331	Protein 11761 11769	antibody
+R18	Associated_With Arg1:T330 Arg2:T328	
+R19	Binds_With Arg1:T330 Arg2:T331	
+R20	Associated_With Arg1:T325 Arg2:T324	
+T332	Chemical 11857 11870	choline group
+T333	Chemical 11876 11899	phenylphosphorylcholine
+T334	Biological_Activity 11914 11921	binding
+T335	Protein 11994 12000	HOPC-8
+T336	Protein 12002 12009	TEPC-15
+T337	Species 12016 12022	rabbit
+T338	Chemical 12028 12032	APPC
+T339	Protein 12023 12041	anti-APPC antibody
+T340	Chemical 12045 12051	Hapten
+T341	Protein 12055 12061	HOPC-8
+T342	Species 12129 12135	Rabbit
+T343	Chemical 12142 12146	APPC
+T344	Protein 12136 12146	anti  APPC
+T345	Protein 12162 12169	TEPC-15
+T346	Chemical 12172 12189	Phosphorylcholine
+T347	Chemical 12191 12195	NPPC
+T348	Chemical 12198 12222	a-glycerophosphorylchole
+T349	Chemical 12224 12228	I-Ap
+T350	Chemical 12230 12243	Acetylcholine
+T351	Chemical 12245 12252	Choline
+T352	Chemical 12254 12269	Phenylphosphate
+T353	Chemical 12271 12288	Phenylphosphonate
+T354	Biological_Activity 12445 12455	inhibition
+T355	Biological_Activity 12459 12466	binding
+T356	Chemical 12470 12486	c-polysaccharide
+T357	Species 12490 12502	Pneumococcus
+T358	Chemical 12559 12574	phosphorylchole
+T359	Chemical 12673 12680	choline
+T360	Protein 12686 12693	TEPC-15
+T361	Chemical 12774 12789	phenylphosphate
+T362	Chemical 12839 12843	NPPC
+T363	Chemical 12865 12894	p-iodophenyltrimethylammonium
+T364	Biological_Activity 12911 12921	inhibition
+R21	Associated_With Arg1:T363 Arg2:T364	
+T365	Chemical 12936 12940	APPC
+T366	Protein 12931 12940	anti-APPC
+T367	Chemical 13016 13023	choline
+T368	Biological_Activity 13024 13034	inhibitors
+T369	Chemical 13042 13061	p-nitrophenyl group
+T370	Chemical 13065 13069	NPPC
+T371	Chemical 13154 13168	glycerol group
+T372	Chemical 13244 13263	p-nitrophenyl group
+T373	Chemical 13273 13290	phosphorylcholine
+T374	Biological_Activity 13306 13313	binding
+T375	Chemical 13356 13373	phosphorylcholine
+T376	Biological_Activity 13374 13379	binds
+T377	Chemical 13408 13412	NPPC
+R22	Associated_With Arg1:T377 Arg2:T376	
+R23	Associated_With Arg1:T375 Arg2:T376	
+T378	Chemical 13439 13455	phosphoryl group
+T379	Protein 13509 13517	antibody
+T380	Chemical 13568 13585	phosphorylcholine
+T381	Chemical 13626 13633	choline
+T382	Chemical 13708 13715	choline
+T383	Protein 13730 13738	antibody
+T384	Chemical 13775 13790	phenylphosphate
+T385	Chemical 13805 13822	phenylphosphonate
+T386	Biological_Activity 13848 13855	binding
+T387	Protein 13863 13873	antibodies
+T388	Protein 13640 13648	antibody
+T389	Biological_Activity 13923 13930	binding
+T390	Chemical 14044 14059	arginyl residue
+T391	Chemical 14083 14087	APPC
+T392	Protein 14078 14096	anti-APPC antibody
+T393	Chemical 14160 14176	phosphoryl group
+T394	Species 14189 14195	rabbit
+T395	Chemical 14201 14205	APPC
+T396	Protein 14196 14216	anti-APPC antibodies
+T397	Species 14237 14242	mouse
+T398	Protein 14237 14258	mouse myeloma protein
+T399	Protein 14260 14266	HOPC-8
+T400	Protein 14338 14344	HOPC-8
+T401	Species 14393 14399	rabbit
+T402	Protein 14400 14408	antibody
+T403	Chemical 14468 14472	NPPC
+T404	Biological_Activity 14558 14565	binding
+T405	Protein 14584 14590	HOPC-8
+T406	Species 14599 14605	rabbit
+T407	Chemical 14611 14615	APPC
+T408	Protein 14606 14615	anti-APPC
+T409	Protein 14654 14660	HOPC-8
+T410	Species 14697 14703	rabbit
+T411	Protein 14704 14712	antibody
+T412	Biological_Activity 14733 14740	binding
+T413	Chemical 14754 14771	phosphorylcholine
+T414	Protein 14792 14798	HOPC-8
+T415	Species 14809 14815	rabbit
+T416	Protein 14816 14825	anti-APPC
+T417	Chemical 14821 14825	APPC
+R24	Binds_With Arg1:T413 Arg2:T414	
+R25	Binds_With Arg1:T413 Arg2:T416	
+T418	Protein 14848 14856	proteins
+T419	Chemical 14869 14893	glycerophosphorylcholine
+T420	Biological_Activity 14831 14838	binding
+T421	Chemical 14917 14923	chohne
+#3	AnnotatorNotes T421	presumably 'choline'
+T422	Chemical 14951 14964	acetylcholine
+R26	Associated_With Arg1:T419 Arg2:T420	
+R27	Associated_With Arg1:T421 Arg2:T420	
+R28	Associated_With Arg1:T422 Arg2:T420	
+T423	Chemical 15018 15034	phosphoryl group
+T424	Biological_Activity 15073 15080	binding
+T425	Protein 15084 15090	HOPC-8
+T426	Species 15103 15109	rabbit
+T427	Protein 15110 15118	antibody
+T428	Chemical 15144 15161	phosphorylcholine
+T429	Chemical 15187 15194	choline
+T430	Protein 15235 15241	HOPC-8
+R29	Binds_With Arg1:T428 Arg2:T430	
+R30	Binds_With Arg1:T429 Arg2:T430	
+T431	Species 15247 15253	rabbit
+T432	Protein 15254 15262	antibody
+R31	Associated_With Arg1:T423 Arg2:T424	
+T433	Chemical 15313 15328	phenylphosphate
+T434	Biological_Activity 15329 15334	binds
+R32	Associated_With Arg1:T433 Arg2:T434	
+T435	Protein 15371 15377	HOPC-8
+T436	Protein 15386 15404	anti-APPC antibody
+T437	Chemical 15391 15395	APPC
+R33	Binds_With Arg1:T433 Arg2:T435	
+R34	Binds_With Arg1:T433 Arg2:T436	
+T438	Chemical 15460 15479	p-nitrophenyl group
+T439	Chemical 15483 15500	phosphorylcholine
+T440	Biological_Activity 15540 15547	binding
+T441	Protein 15560 15566	HOPC-8
+T442	Biological_Activity 15604 15611	binding
+T443	Protein 15624 15642	anti-APPC antibody
+T444	Chemical 15629 15633	APPC
+T445	Protein 15664 15670	HOPC-8
+T446	Chemical 15711 15730	p-nitrophenyl group
+T447	Chemical 15734 15738	NPPC
+T448	Protein 15802 15810	McPC-603
+T449	Biological_Activity 15831 15836	binds
+T450	Chemical 15837 15864	phosphorylcholine analogues
+R35	Associated_With Arg1:T450 Arg2:T449	
+R36	Binds_With Arg1:T450 Arg2:T448	
+T451	Chemical 15978 15995	phosphorylcholine
+T452	Spectral_Data 16007 16039	X-ray crystallographic structure
+T453	Protein 16074 16082	McPC-603
+T454	Spectral_Data 16055 16058	Fab
+T455	Chemical 16180 16197	phosphorylcholine
+T456	Chemical 16326 16382	2-(5'-acetoxy-mercury-2'-thiemyl)-ethylphosphory1choline
+T457	Protein 16485 16491	HOPC-8
+T458	Protein 16507 16515	McPC-603
+T459	Protein 16548 16554	HOPC-8
+T460	Species 16565 16571	rabbit
+T461	Protein 16572 16581	anti-APPC
+T462	Chemical 16577 16581	APPC
+T463	Chemical 16634 16638	APPC
+T464	Protein 16653 16660	protein
+T465	Species 16692 16704	BALB/c mouse
+T466	Species 16699 16704	mouse
+T467	Protein 16714 16724	antibodies
+T468	Biological_Activity 16795 16802	binding
+T469	Protein 16826 16842	myeloma proteins
+T470	Protein 16888 16902	receptor sites
+T471	Chemical 16926 16930	APPC
+T472	Species 16938 16945	rabbits
+T473	Species 17028 17033	mouse
+T474	Species 17085 17091	rabbit
+T475	Protein 17092 17102	antibodies
+T476	Biological_Activity 17162 17169	binding
+T477	Protein 17284 17304	anti-APPC antibodies
+T478	Chemical 17289 17293	APPC
+T479	Species 17331 17337	rabbit
+T480	Species 17341 17347	rabbit
+T481	Chemical 17404 17433	p-iodophenyltrimethylammonium
+T482	Biological_Activity 17383 17390	binding
+T483	Chemical 17442 17449	choline
+T484	Protein 17459 17469	antibodies
+T485	Species 17475 17482;17492 17496	rabbits 5920
+T486	Species 17475 17481	rabbit
+T487	Species 17475 17481;17483 17487	rabbit 6055
+T488	Species 17539 17544	mouse
+T489	Protein 17545 17555	antibodies
+T490	Species 17675 17681	rabbit
+T491	Protein 17682 17692	antibodies
+T492	Protein 17697 17703	HOPC-8
+T493	Biological_Activity 17741 17748	binding
+T494	Chemical 17778 17804	quarternary ammonium group
+R37	Associated_With Arg1:T494 Arg2:T493	
+T495	Chemical 17857 17864	haptens
+T496	Chemical 17964 17981	carboxylate group
+T497	Protein 18088 18094	HOPC-8
+T498	Protein 18099 18119	anti-APPC antibodies
+T499	Chemical 18104 18108	APPC
+T500	Protein 18279 18287	antiAPPC
+T501	Chemical 18283 18287	APPC
+T502	Protein 18292 18298	HOPC-8
+T503	Protein 18324 18333	anti-APPC
+T504	Chemical 18329 18333	APPC
+T505	Chemical 18386 18398	phenyl group
+T506	Chemical 18402 18406	APPC
+T507	Biological_Activity 18442 18449	binding
+T508	Protein 18489 18495	HOPC-8
+T509	Chemical 18518 18530	phenyl group
+T510	Chemical 18572 18587	arginyl residue
+T511	Protein 18595 18601	HOPC-8
+T512	Chemical 18694 18710	phosphoryl group
+T513	Protein 18719 18728	anti-APPC
+T514	Chemical 18758 18773	arginyl residue
+T515	Chemical 18724 18728	APPC
+T516	Chemical 18800 18816	phosphoryl group
+T517	Protein 18899 18905	HOPC-8
+T518	Chemical 18956 18981	quaternary ammonium group
+T519	Chemical 18985 18992	choline
+T520	Chemical 19043 19060	carboxylate group
+T521	Chemical 867 873	hapten

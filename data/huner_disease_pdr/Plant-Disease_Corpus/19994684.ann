@@ -1,0 +1,9 @@
+T1	Disease 175 193	cardiac arrhythmia
+T2	Disease 231 249	cardiac arrhythmia
+T3	Disease 598 616	cardiac arrhythmia
+T4	Disease 1267 1285	cardiac arrhythmia
+T5	Plant 87 93	ginger
+T6	Plant 489 495	ginger
+T7	Plant 1217 1223	ginger
+T8	Treatment_of_disease 1168 1174	effect
+E1	Treatment_of_disease:T8 Cause:T7 Theme:T4

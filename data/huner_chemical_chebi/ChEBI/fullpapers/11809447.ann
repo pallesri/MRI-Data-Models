@@ -1,0 +1,1233 @@
+T1	Species 1 9	Salvia  
+T2	Species 124 132	Salvia  
+T3	Species 234 253	Salvia miltiorrhiza
+T4	Species 527 535	Salvia  
+T5	Chemical 568 580	diterpenoids
+T6	Chemical 589 600	tanshinones
+T7	Metabolite 568 580	diterpenoids
+T8	Metabolite 589 600	tanshinones
+T9	Chemical 950 955	water
+T10	Chemical 1152 1164	caffeic acid
+T11	Metabolite 1152 1164;1173 1184	caffeic acid metabolites
+T12	Metabolite 1152 1164	caffeic acid
+T13	Chemical 1152 1164;1173 1184	caffeic acid metabolites
+T14	Biological_Activity 1265 1276	antioxidant
+T15	Biological_Activity 1292 1301	antitumor
+T16	Biological_Activity 1306 1315	antiviral
+T17	Species 1478 1484	Salvia
+T18	Chemical 1490 1504	Phenolic acids
+T19	Chemical 1515 1529	phenolic acids
+T20	Chemical 1563 1568	water
+T21	Species 1595 1603	Salvia  
+T22	Chemical 1626 1640	phenolic acids
+T23	Species 1695 1710	S. miltiorrhiza
+T24	Species 1713 1725	S. chinensis
+T25	Species 1731 1745	S. yunnanensis
+T26	Species 1775 1783	Salvia  
+T27	Chemical 1811 1832	salvianolic acids A–K
+T28	Metabolite 1811 1832	salvianolic acids A–K
+T29	Metabolite 1836 1855	yunnaneic acids A–H
+T30	Chemical 1836 1855	yunnaneic acids A–H
+R1	Isolated_From Arg1:T29 Arg2:T25	
+R2	Isolated_From Arg1:T28 Arg2:T26	
+T31	Chemical 1921 1934	benzoic acids
+T32	Chemical 1943 1964	4-hydroxybenzoic acid
+T33	Chemical 1987 2012	3,4-dihydroxybenzoic acid
+T34	Chemical 2016 2035	protocatechuic acid
+T35	Chemical 2057 2088	3-methoxy-4-hydroxybenzoic acid
+T36	Chemical 2092 2105	vanillic acid
+T37	Chemical 2135 2160	2,4-dimethoxybenzoic acid
+T38	Chemical 2209 2232	hexyl 4-hydroxybenzoate
+T39	Chemical 2236 2269	di(4-hexyloxycarbonylphenyl)ether
+T40	Metabolite 2236 2269	di(4-hexyloxycarbonylphenyl)ether
+T41	Metabolite 1943 1964	4-hydroxybenzoic acid
+T42	Metabolite 1987 2012	3,4-dihydroxybenzoic acid
+T43	Metabolite 2016 2035	protocatechuic acid
+T44	Metabolite 2057 2088	3-methoxy-4-hydroxybenzoic acid
+T45	Metabolite 2092 2105	vanillic acid
+T46	Metabolite 2135 2160	2,4-dimethoxybenzoic acid
+T47	Chemical 2187 2232	ether linked dimer of hexyl 4-hydroxybenzoate
+T48	Chemical 2303 2312	coumarins
+T49	Chemical 2313 2334	6,7-dihydroxycoumarin
+T50	Metabolite 2313 2334	6,7-dihydroxycoumarin
+T51	Chemical 2336 2345	esculetin
+T52	Metabolite 2336 2345	esculetin
+T53	Chemical 2381 2398	7-methoxycoumarin
+T54	Metabolite 2381 2398	7-methoxycoumarin
+T55	Chemical 2400 2409	herniarin
+T56	Metabolite 2400 2409	herniarin
+T57	Chemical 2459 2473	phenolic acids
+T58	Species 2477 2492	Salvia  species
+R3	Isolated_From Arg1:T56 Arg2:T58	
+R4	Isolated_From Arg1:T54 Arg2:T58	
+R5	Isolated_From Arg1:T52 Arg2:T58	
+R6	Isolated_From Arg1:T50 Arg2:T58	
+R7	Isolated_From Arg1:T40 Arg2:T58	
+R8	Isolated_From Arg1:T46 Arg2:T58	
+R9	Isolated_From Arg1:T45 Arg2:T58	
+R10	Isolated_From Arg1:T44 Arg2:T58	
+R11	Isolated_From Arg1:T43 Arg2:T58	
+R12	Isolated_From Arg1:T42 Arg2:T58	
+R13	Isolated_From Arg1:T41 Arg2:T58	
+T59	Chemical 2518 2530	caffeic acid
+T60	Metabolite 2518 2530	caffeic acid
+T61	Chemical 2518 2530;2536 2547	caffeic acid derivatives
+T62	Species 2569 2577	Salvia  
+T63	Chemical 2588 2603	rosmarinic acid
+T64	Metabolite 2588 2603	rosmarinic acid
+T65	Chemical 2613 2630	lithospermic acid
+T66	Metabolite 2613 2630	lithospermic acid
+T67	Chemical_Structure 2637 2673	see Fig. 1   for chemical structures
+R14	Isolated_From Arg1:T64 Arg2:T62	
+R15	Isolated_From Arg1:T66 Arg2:T62	
+R16	Metabolite_Of Arg1:T64 Arg2:T59	
+R17	Metabolite_Of Arg1:T66 Arg2:T59	
+T68	Chemical 2680 2692	Caffeic acid
+T69	Metabolite 2680 2692	Caffeic acid
+T70	Chemical 2680 2704	Caffeic acid metabolites
+T71	Metabolite 2680 2704	Caffeic acid metabolites
+T72	Chemical 2705 2717	Caffeic acid
+T73	Metabolite 2705 2717	Caffeic acid
+T74	Species 2762 2771	Lamiaceae
+T75	Chemical 2818 2833	rosmarinic acid
+T76	Metabolite 2818 2833	rosmarinic acid
+R18	Metabolite_Of Arg1:T76 Arg2:T72	
+T77	Species 2874 2889	Salvia  species
+T78	Chemical 2894 2906	caffeic acid
+T79	Metabolite 2894 2906	caffeic acid
+R19	Isolated_From Arg1:T79 Arg2:T77	
+T82	Chemical 2894 2906;2988 2996	caffeic acid monomers
+T80	Metabolite 2894 2906;2988 2996	caffeic acid monomers
+T83	Chemical 2894 2906;3060 3069	caffeic acid oligomers
+T81	Metabolite 2894 2906;3060 3069	caffeic acid oligomers
+R20	Metabolite_Of Arg1:T80 Arg2:T78	
+R21	Metabolite_Of Arg1:T81 Arg2:T78	
+T84	Chemical 2894 2906;3087 3096	caffeic acid tetramers
+T85	Chemical 2894 2906;3075 3082	caffeic acid trimers
+T86	Metabolite 2894 2906;3075 3082	caffeic acid trimers
+T87	Metabolite 2894 2906;3087 3096	caffeic acid tetramers
+R22	Metabolite_Of Arg1:T87 Arg2:T78	
+R23	Metabolite_Of Arg1:T86 Arg2:T78	
+T88	Chemical 3229 3250	Caffeic acid monomers
+T89	Metabolite 3229 3250	Caffeic acid monomers
+T90	Species 3295 3303	Salvia  
+T91	Chemical 3322 3334	caffeic acid
+T92	Metabolite 3322 3334	caffeic acid
+R24	Isolated_From Arg1:T92 Arg2:T90	
+T93	Chemical 3346 3380	3-(3,4-dihydroxyphenyl)lactic acid
+T94	Metabolite 3346 3380	3-(3,4-dihydroxyphenyl)lactic acid
+R25	Metabolite_Of Arg1:T94 Arg2:T91	
+R26	Isolated_From Arg1:T94 Arg2:T90	
+T95	Chemical 3443 3452	danshensu
+T96	Metabolite 3443 3452	danshensu
+T97	Species 3533 3548	S. miltiorrhiza
+R27	Isolated_From Arg1:T94 Arg2:T97	
+R28	Isolated_From Arg1:T96 Arg2:T97	
+T98	Biological_Activity 3601 3612	vasodilator
+R29	Associated_With Arg1:T96 Arg2:T98	
+R30	Associated_With Arg1:T95 Arg2:T98	
+R31	Associated_With Arg1:T94 Arg2:T98	
+R32	Associated_With Arg1:T93 Arg2:T98	
+T99	Biological_Activity 3620 3628	scavenge
+R33	Associated_With Arg1:T95 Arg2:T99	
+R34	Associated_With Arg1:T96 Arg2:T99	
+R35	Associated_With Arg1:T93 Arg2:T99	
+R36	Associated_With Arg1:T94 Arg2:T99	
+T100	Protein 3735 3755	superoxide dismutase
+T101	Protein 3757 3760	SOD
+T102	Chemical 3801 3833	3-(3,4-dihydroxyphenyl)lactamide
+T103	Metabolite 3801 3833	3-(3,4-dihydroxyphenyl)lactamide
+T104	Species 3854 3869	S. miltiorrhiza
+R37	Isolated_From Arg1:T103 Arg2:T104	
+R38	Metabolite_Of Arg1:T103 Arg2:T91	
+T105	Biological_Activity 3909 3919	scavenging
+R39	Associated_With Arg1:T103 Arg2:T105	
+R40	Associated_With Arg1:T102 Arg2:T105	
+T106	Chemical 3942 3955	ascorbic acid
+T107	Chemical 3788 3793	amide
+T108	Metabolite 4016 4028	ferulic acid
+T109	Chemical 4016 4028	ferulic acid
+T110	Chemical 4055 4070	isoferulic acid
+T111	Metabolite 4055 4070	isoferulic acid
+T112	Chemical 4098 4117	caffeic acid esters
+T113	Chemical 4118 4155	mono-feruloyl-R ,R -(+)-tartaric acid
+T114	Metabolite 4118 4155	mono-feruloyl-R ,R -(+)-tartaric acid
+T115	Chemical 4186 4202	chlorogenic acid
+T116	Chemical 4204 4225	5-caffeoylquinic acid
+T117	Metabolite 4186 4202	chlorogenic acid
+T118	Metabolite 4204 4225	5-caffeoylquinic acid
+T119	Species 4294 4302	Salvia  
+R41	Isolated_From Arg1:T108 Arg2:T119	
+R42	Isolated_From Arg1:T111 Arg2:T119	
+R43	Isolated_From Arg1:T114 Arg2:T119	
+R44	Isolated_From Arg1:T117 Arg2:T119	
+R45	Isolated_From Arg1:T118 Arg2:T119	
+R46	Metabolite_Of Arg1:T108 Arg2:T91	
+R47	Metabolite_Of Arg1:T111 Arg2:T91	
+R48	Metabolite_Of Arg1:T114 Arg2:T91	
+R49	Metabolite_Of Arg1:T117 Arg2:T91	
+R50	Metabolite_Of Arg1:T118 Arg2:T91	
+T120	Chemical 4338 4375	mono-feruloyl-R ,R -(+)-tartaric acid
+T121	Metabolite 4338 4375	mono-feruloyl-R ,R -(+)-tartaric acid
+T122	Chemical 4440 4450;4469 4475	S ,S -(-)- isomer
+T123	Chemical 4455 4475	R ,S -(meso )-isomer
+T124	Chemical 4478 4494	Chlorogenic acid
+T125	Metabolite 4478 4494	Chlorogenic acid
+T126	Species 4571 4580	Lamiaceae
+T127	Chemical 4614 4629	rosmarinic acid
+T128	Metabolite 4614 4629	rosmarinic acid
+T129	Chemical 4663 4699	Caffeic acids esterified with sugars
+T130	Species 4751 4759	Salvia  
+T131	Chemical 4779 4798	Phenolic Glycosides
+T132	Chemical 4820 4839	Caffeic acid dimers
+T133	Chemical 4840 4855	Rosmarinic acid
+T134	Metabolite 4840 4855	Rosmarinic acid
+T135	Chemical 4882 4900	caffeic acid dimer
+T136	Species 4904 4919	Salvia  species
+T137	Chemical 5018 5035	phenolic compound
+T138	Biological_Activity 5061 5072	antioxidant
+T139	Species 5085 5093	Salvia  
+R51	Isolated_From Arg1:T134 Arg2:T136	
+R52	Associated_With Arg1:T134 Arg2:T138	
+R53	Associated_With Arg1:T133 Arg2:T138	
+T140	Chemical 5164 5179	rosmarinic acid
+T141	Metabolite 5164 5179	rosmarinic acid
+T142	Species 5246 5254	Salvia  
+T143	Biological_Activity 5458 5468	metabolism
+R54	Associated_With Arg1:T140 Arg2:T143	
+R55	Associated_With Arg1:T140 Arg2:T143	
+T144	Species 5472 5476	rats
+T145	Species 5543 5551	Salvia  
+T146	Chemical 5559 5579	przewalskinic acid A
+T147	Metabolite 5559 5579	przewalskinic acid A
+T148	Species 5607 5621	S. przewalskii
+R56	Isolated_From Arg1:T147 Arg2:T148	
+T149	Chemical 5643 5661	salvianolic acid G
+T150	Metabolite 5643 5661	salvianolic acid G
+T151	Chemical 5706 5724	salvianolic acid F
+T152	Chemical 5695 5705	stilbenoid
+T153	Metabolite 5706 5724	salvianolic acid F
+T154	Chemical 5728 5763	2-(3,4-dihydroxystyryl)caffeic acid
+T155	Metabolite 5728 5763	2-(3,4-dihydroxystyryl)caffeic acid
+T156	Species 5799 5814	S. miltiorrhiza
+R57	Isolated_From Arg1:T150 Arg2:T156	
+R58	Isolated_From Arg1:T153 Arg2:T156	
+R59	Isolated_From Arg1:T155 Arg2:T156	
+T157	Chemical 5821 5838	dihydrobenzofuran
+T158	Chemical 5848 5868	przewalskinic acid A
+T159	Metabolite 5848 5868	przewalskinic acid A
+T160	Chemical 5894 5911	lithospermic acid
+T161	Chemical 5921 5939	salvianolic acid B
+T162	Chemical 5943 5962	lithospermic acid B
+T163	Chemical 5978 5996	salvianolic acid G
+T164	Metabolite 5978 5996	salvianolic acid G
+T165	Chemical 6005 6018	dibenzooxepin
+T166	Species 6063 6069	Salvia
+T167	Chemical 6072 6090	Salvianolic acid F
+T168	Metabolite 6072 6090	Salvianolic acid F
+T169	Chemical 6169 6187	caffeic acid dimer
+T170	Chemical 6278 6303	caffeic acid ester dimers
+T171	Chemical 6314 6324	ether bond
+T172	Chemical 6337 6359;6375 6387	dioctyl 3-O -3′-di-cis -isoferulate
+T173	Metabolite 6337 6359;6375 6387	dioctyl 3-O -3′-di-cis -isoferulate
+T174	Chemical 6337 6353;6366 6387	dioctyl 3-O -3′- di-trans -isoferulate
+T175	Metabolite 6337 6353;6366 6387	dioctyl 3-O -3′- di-trans -isoferulate
+T176	Species 6402 6415	S. forskahlei
+R60	Isolated_From Arg1:T175 Arg2:T176	
+R61	Isolated_From Arg1:T173 Arg2:T176	
+T177	Chemical 6425 6445	Caffeic acid trimers
+T178	Chemical 6467 6479	caffeic acid
+T179	Metabolite 6467 6479	caffeic acid
+T180	Species 6527 6533	Salvia
+T181	Chemical 6567 6584	lithospermic acid
+T182	Metabolite 6567 6584	lithospermic acid
+R62	Isolated_From Arg1:T182 Arg2:T180	
+T183	Chemical 6612 6628;6630 6631	salvianolic acid H
+T184	Metabolite 6612 6628;6630 6631	salvianolic acid H
+R63	Isolated_From Arg1:T184 Arg2:T180	
+T185	Chemical 6612 6628;6661 6662	salvianolic acid I
+T186	Metabolite 6612 6628;6661 6662	salvianolic acid I
+R64	Isolated_From Arg1:T186 Arg2:T180	
+T187	Chemical 6612 6628;6692 6693	salvianolic acid J
+T188	Metabolite 6612 6628;6692 6693	salvianolic acid J
+R65	Isolated_From Arg1:T188 Arg2:T180	
+T189	Chemical 6612 6628;6723 6724	salvianolic acid K
+T190	Metabolite 6612 6628;6723 6724	salvianolic acid K
+R66	Isolated_From Arg1:T190 Arg2:T180	
+T191	Chemical 6773 6785	sagecoumarin
+T192	Metabolite 6773 6785	sagecoumarin
+R67	Isolated_From Arg1:T192 Arg2:T180	
+T194	Metabolite 6842 6858;6860 6861	salvianolic acid A
+R68	Isolated_From Arg1:T194 Arg2:T180	
+T195	Chemical 6842 6858;6888 6889	salvianolic acid C
+T196	Metabolite 6842 6858;6888 6889	salvianolic acid C
+T193	Chemical 6842 6858;6860 6861	salvianolic acid A
+R69	Isolated_From Arg1:T196 Arg2:T180	
+T197	Chemical 6919 6940	isosalvianolic acid C
+T198	Metabolite 6919 6940	isosalvianolic acid C
+R70	Isolated_From Arg1:T198 Arg2:T180	
+T199	Chemical 6979 6993;7025 7026	yunnaneic acid F
+T200	Chemical 6979 6993;7013 7014	yunnaneic acid E
+T201	Chemical 6979 6993;7004 7005	yunnaneic acid D
+T202	Chemical 6979 6993;6995 6996	yunnaneic acid C
+T203	Metabolite 6979 6993;7025 7026	yunnaneic acid F
+T204	Metabolite 6979 6993;7013 7014	yunnaneic acid E
+T205	Metabolite 6979 6993;7004 7005	yunnaneic acid D
+T206	Metabolite 6979 6993;6995 6996	yunnaneic acid C
+R71	Isolated_From Arg1:T206 Arg2:T180	
+R72	Isolated_From Arg1:T205 Arg2:T180	
+R73	Isolated_From Arg1:T204 Arg2:T180	
+R74	Isolated_From Arg1:T203 Arg2:T180	
+T207	Chemical 7120 7133	caffeic acids
+T208	Metabolite 7120 7133	caffeic acids
+T209	Chemical 7135 7152;7175 7189	Lithospermic acid dimethyl ester
+T210	Metabolite 7135 7152;7175 7189	Lithospermic acid dimethyl ester
+T211	Chemical 7135 7152	Lithospermic acid
+T212	Chemical 7135 7152;7166 7171;7177 7189	Lithospermic acid mono- methyl ester
+T213	Metabolite 7135 7152	Lithospermic acid
+T214	Metabolite 7135 7152;7166 7171;7177 7189	Lithospermic acid mono- methyl ester
+T215	Biological_Activity 7223 7232	inhibited
+T216	Protein 7233 7250	adenylate cyclase	
+R78	Associated_With Arg1:T213 Arg2:T215	
+R79	Associated_With Arg1:T211 Arg2:T215	
+R80	Associated_With Arg1:T210 Arg2:T215	
+R81	Associated_With Arg1:T209 Arg2:T215	
+R82	Associated_With Arg1:T214 Arg2:T215	
+R83	Associated_With Arg1:T212 Arg2:T215	
+T217	Chemical 7287 7309	dimethyl lithospermate
+T218	Metabolite 7287 7309	dimethyl lithospermate	
+T219	Biological_Activity 7350 7359	scavenger
+T220	Chemical 7365 7378	ascorbic acid
+R85	Associated_With Arg1:T220 Arg2:T219	
+R86	Associated_With Arg1:T218 Arg2:T219	
+R87	Associated_With Arg1:T217 Arg2:T219	
+R88	Associated_With Arg1:T210 Arg2:T219	
+R89	Associated_With Arg1:T209 Arg2:T219	
+T221	Chemical 7423 7446	salvianolic acid series
+T222	Metabolite 7423 7446	salvianolic acid series
+T223	Chemical 7450 7468	salvianolic acid K
+T224	Metabolite 7450 7468	salvianolic acid K
+T225	Species 7519 7534	Salvia  species
+R75	Isolated_From Arg1:T213 Arg2:T225	
+R76	Isolated_From Arg1:T214 Arg2:T225	
+R77	Isolated_From Arg1:T210 Arg2:T225
+R84	Isolated_From Arg1:T218 Arg2:T225
+R90	Isolated_From Arg1:T224 Arg2:T225
+T226	Chemical 7562 7580	Salvianolic acid A
+T227	Metabolite 7562 7580	Salvianolic acid A
+T228	Chemical 7586 7596	stilbenoid
+T229	Chemical 7597 7616	caffeic acid trimer
+T230	Chemical 7652 7671	oxygen free radical
+T231	Biological_Activity 7672 7682	scavenging
+R91	Associated_With Arg1:T227 Arg2:T231	
+R92	Associated_With Arg1:T226 Arg2:T231	
+T232	Chemical 7811 7829	Salvianolic acid A
+T233	Metabolite 7811 7829	Salvianolic acid A
+T234	Chemical 7922 7940	salvianolic acid C
+T235	Metabolite 7922 7940	salvianolic acid C
+T236	Chemical 7988 7999	formic acid
+T237	Chemical 8030 8048	salvianolic acid C
+T238	Chemical 8052 8071	benzofuran compound
+T239	Metabolite 8030 8048	salvianolic acid C
+T240	Chemical 8109 8127	salvianolic acid A
+T241	Metabolite 8109 8127	salvianolic acid A
+R93	Metabolite_Of Arg1:T239 Arg2:T240	
+T242	Chemical 8148 8169	Isosalvianolic acid C
+T243	Metabolite 8148 8169	Isosalvianolic acid C
+T244	Chemical 8180 8187	depside
+T245	Chemical 8191 8209	salvianolic acid G
+T246	Metabolite 8191 8209	salvianolic acid G
+T247	Chemical 8217 8230	dibenzooxepin
+T249	Species 8269 8281	S. chinensis
+R94	Isolated_From Arg1:T243 Arg2:T249	
+T248	Chemical 8294 8312	salvianolic acid D
+T250	Metabolite 8294 8312	salvianolic acid D
+R95	Isolated_From Arg1:T250 Arg2:T249	
+T251	Chemical 8387 8406	caffeic acid trimer
+T252	Species 8431 8446	S. miltiorrhiza
+R96	Isolated_From Arg1:T250 Arg2:T252	
+T253	Chemical 8468 8482;8484 8485	Yunnaneic acid C
+T254	Metabolite 8468 8482;8484 8485	Yunnaneic acid C
+T255	Chemical 8468 8482;8490 8491	Yunnaneic acid D
+T256	Metabolite 8468 8482;8490 8491	Yunnaneic acid D
+T257	Chemical 8518 8538	bicyclo[2.2.2]octane
+T258	Chemical 8624 8636	caffeic acid
+T259	Metabolite 8624 8636	caffeic acid
+T260	Chemical 8645 8651	phenol
+T261	Chemical 8664 8671	quinone
+T262	Chemical 8682 8697	rosmarinic acid
+T263	Chemical 8727 8743	yunnaneic acid C
+T264	Metabolite 8727 8743	yunnaneic acid C
+T265	Chemical 8773 8789	yunnaneic acid E
+T266	Metabolite 8773 8789	yunnaneic acid E
+R97	Metabolite_Of Arg1:T266 Arg2:T263	
+T267	Chemical 8815 8827	acetyl group
+T268	Chemical 8835 8872	bicyclo[2.2.2]octa-1,2-dione skeleton
+T269	Chemical 8876 8892	yunnaneic acid C
+T270	Metabolite 8876 8892	yunnaneic acid C
+T271	Chemical 8900 8916	yunnaneic acid F
+T272	Metabolite 8900 8916	yunnaneic acid F
+R98	Metabolite_Of Arg1:T272 Arg2:T269	
+T273	Chemical 8937 8959	Caffeic acid tetramers
+T274	Metabolite 8937 8959	Caffeic acid tetramers
+T275	Chemical 8960 8982	Caffeic acid tetramers
+T276	Metabolite 8960 8982	Caffeic acid tetramers
+T277	Chemical 8997 9023	dimerised rosmarinic acids
+T278	Chemical 9007 9023	rosmarinic acids
+T279	Metabolite 9007 9023	rosmarinic acids
+T280	Chemical 9030 9046;9048 9049	salvianolic acid B
+T281	Chemical 9030 9046;9076 9077	salvianolic acid E
+T282	Chemical 9030 9046;9107 9108	salvianolic acid L
+T283	Metabolite 9030 9046;9048 9049	salvianolic acid B
+T284	Metabolite 9030 9046;9076 9077	salvianolic acid E
+T285	Metabolite 9030 9046;9107 9108	salvianolic acid L
+T286	Chemical 9137 9146	rabdosiin
+T287	Metabolite 9137 9146	rabdosiin
+T288	Chemical 9154 9168;9170 9171	yunnaneic acid G
+T289	Chemical 9154 9168;9182 9183	yunnaneic acid H
+T290	Metabolite 9154 9168;9170 9171	yunnaneic acid G
+T291	Metabolite 9154 9168;9182 9183	yunnaneic acid H
+T292	Chemical 9218 9232	sagerinic acid
+T293	Metabolite 9218 9232	sagerinic acid
+T294	Chemical 9276 9294	salvianolic acid E
+T295	Metabolite 9276 9294	salvianolic acid E
+T296	Species 9344 9359	S. miltiorrhiza
+R99	Isolated_From Arg1:T295 Arg2:T296	
+T297	Chemical 9367 9385	salvianolic acid B
+T298	Metabolite 9367 9385;9486 9495;9519 9523	salvianolic acid B potassium salt
+T299	Chemical 9410 9429;9497 9505;9519 9523	lithospermic acid B ammonium salt
+T300	Metabolite 9410 9429	lithospermic acid B
+T301	Species 9449 9464	Salvia  species
+R101	Isolated_From Arg1:T300 Arg2:T301	
+T302	Chemical 9367 9385;9486 9495;9519 9523	salvianolic acid B potassium salt
+T303	Chemical 9367 9385;9497 9505;9519 9523	salvianolic acid B ammonium salt
+T304	Chemical 9367 9385;9509 9523	salvianolic acid B magnesium salt
+T305	Species 9586 9594	Salvia  
+T306	Species 9608 9612	sage
+T307	Metabolite 9367 9385;9497 9505;9519 9523	salvianolic acid B ammonium salt
+T308	Metabolite 9367 9385;9509 9523	salvianolic acid B magnesium salt
+T309	Metabolite 9367 9385	salvianolic acid B
+T310	Chemical 9410 9429;9486 9495;9519 9522	lithospermic acid B potassium sal
+T311	Chemical 9410 9429;9509 9523	lithospermic acid B magnesium salt
+T312	Chemical 9410 9429	lithospermic acid B
+R100	Isolated_From Arg1:T309 Arg2:T301	
+R102	Isolated_From Arg1:T298 Arg2:T301	
+R103	Isolated_From Arg1:T307 Arg2:T301	
+R104	Isolated_From Arg1:T308 Arg2:T301	
+T313	Metabolite 9410 9429;9509 9523	lithospermic acid B magnesium salt
+T314	Metabolite 9410 9429;9486 9495;9519 9522	lithospermic acid B potassium sal
+T315	Metabolite 9410 9429;9497 9505;9519 9523	lithospermic acid B ammonium salt
+R105	Isolated_From Arg1:T314 Arg2:T301	
+R106	Isolated_From Arg1:T315 Arg2:T301	
+R107	Isolated_From Arg1:T308 Arg2:T301	
+T316	Chemical 9635 9671	methyl esters of lithospermic acid B
+T317	Chemical 9684 9687;9695 9721	9′- monomethyl lithospermate B
+T318	Metabolite 9684 9687;9695 9721	9′- monomethyl lithospermate B
+T319	Chemical 9692 9721	9‴-monomethyl lithospermate B
+T320	Metabolite 9692 9721	9‴-monomethyl lithospermate B
+T321	Chemical 9726 9750	dimethyl lithospermate B
+T322	Metabolite 9726 9750	dimethyl lithospermate B
+T323	Species 9780 9792	Tibetan sage
+R108	Isolated_From Arg1:T318 Arg2:T323	
+R109	Isolated_From Arg1:T320 Arg2:T323	
+R110	Isolated_From Arg1:T322 Arg2:T323	
+T324	Chemical 9819 9841	polyphenolic compounds
+T325	Chemical 9882 9904	yunnaneic acids C to F
+T326	Metabolite 9882 9904	yunnaneic acids C to F
+T327	Chemical 9992 10014	rosmarinic acid dimers
+T328	Chemical 10022 10044	1,2-dihydronaphthalene
+T329	Chemical 10064 10073	rabdosiin
+T330	Metabolite 10064 10073	rabdosiin
+T331	Chemical 10075 10089;10091 10092	yunnaneic acid G
+T332	Chemical 10075 10089;10097 10098	yunnaneic acid H
+T333	Metabolite 10075 10089;10091 10092	yunnaneic acid G
+T334	Metabolite 10075 10089;10097 10098	yunnaneic acid H
+T335	Species 10102 10115	S. yunnanesis
+R111	Isolated_From Arg1:T334 Arg2:T335	
+R112	Isolated_From Arg1:T333 Arg2:T335	
+R113	Isolated_From Arg1:T330 Arg2:T335	
+T336	Chemical 10133 10151	salvianolic acid L
+T337	Metabolite 10133 10151	salvianolic acid L
+T338	Chemical 10166 10175	rabdosiin
+T339	Metabolite 10166 10175	rabdosiin
+T340	Chemical 10179 10195	yunnaneic acid G
+T341	Metabolite 10179 10195	yunnaneic acid G
+T342	Species 10215 10229	S. officinalis
+R114	Isolated_From Arg1:T337 Arg2:T342	
+T343	Chemical 10295 10316	rosmarinic acid dimer
+T344	Chemical 10320 10334	sagerinic acid
+T345	Metabolite 10320 10334	sagerinic acid
+T346	Species 10347 10361	S. officinalis
+R115	Isolated_From Arg1:T345 Arg2:T346	
+T347	Chemical 10382 10398	cyclobutane ring
+T348	Chemical 10406 10417	μ-truxinate
+T349	Chemical 10424 10438	Sagerinic acid
+T350	Metabolite 10424 10438	Sagerinic acid
+T351	Chemical 10473 10508	[2+2]-dimers of caffeic acid esters
+T352	Chemical 10524 10546	caffeic acid oligomers
+T353	Chemical 10547 10561;10563 10564	Yunnaneic acid A
+T354	Chemical 10547 10561;10575 10576	Yunnaneic acid B
+T355	Metabolite 10547 10561;10563 10564	Yunnaneic acid A
+T356	Metabolite 10547 10561;10575 10576	Yunnaneic acid B
+T357	Species 10592 10605	S. yunnanesis
+R116	Isolated_From Arg1:T356 Arg2:T357	
+R117	Isolated_From Arg1:T355 Arg2:T357	
+T358	Chemical 10649 10657	hexamers
+T359	Chemical 10661 10673	caffeic acid
+T360	Metabolite 10661 10673	caffeic acid
+T361	Chemical 10714 10725	spiroacetal
+T362	Chemical 10742 10758	yunnaneic acid C
+T363	Metabolite 10742 10758	yunnaneic acid C
+T364	Chemical 10769 10785	yunnaneic acid D
+T365	Metabolite 10769 10785	yunnaneic acid D
+T366	Species 10875 10888	S. yunnanesis
+T367	Biological_Activity 10944 10954	metabolism
+T368	Chemical 10962 10981	Phenolic glycosides
+T369	Chemical 10986 11005	phenolic glycosides
+T370	Species 11040 11048	Salvia  
+T371	Chemical 11052 11080	rosmarinic acid 3′-glucoside
+T372	Metabolite 11052 11080	rosmarinic acid 3′-glucoside
+T373	Chemical 11366 11379	salviaflaside
+T374	Metabolite 11366 11379	salviaflaside
+T375	Chemical 11366 11379;11395 11407	salviaflaside methyl ester
+T376	Metabolite 11366 11379;11395 11407	salviaflaside methyl ester
+T377	Chemical 11127 11134	glucose
+T378	Chemical 11136 11145	galactose
+T379	Chemical 11147 11153	xylose
+T380	Chemical 11155 11164	arabinose
+T381	Chemical 11166 11174	rhamnose
+T382	Chemical 11176 11184	fructose
+T383	Chemical 11189 11195	apiose
+T384	Chemical 11203 11221	β-d -glucopyranose
+T385	Chemical 11223 11243	β-d -galactopyranose
+T386	Chemical 11245 11262	β-d -xylopyranose
+T387	Chemical 11264 11283	α-l -arabiopyranose
+T388	Chemical 11285 11304	α-l -rhamnopyranose
+T389	Chemical 11306 11325	β-d -fructofuranose
+T390	Chemical 11330 11347	β-d -apiofuranose
+T391	Chemical 11445 11450;11460 11506	cis   -p -coumaric acid 4-O -(2-O -apiosyl)glucoside
+T392	Metabolite 11445 11450;11460 11506	cis   -p -coumaric acid 4-O -(2-O -apiosyl)glucoside
+T393	Chemical 11454 11506	trans -p -coumaric acid 4-O -(2-O -apiosyl)glucoside
+T394	Metabolite 11454 11506	trans -p -coumaric acid 4-O -(2-O -apiosyl)glucoside
+T395	Chemical 11568 11595	glycosylated phenolic acids
+T396	Chemical 11613 11650	phenolic acids esterified with sugars
+T397	Chemical 11613 11627	phenolic acids
+T398	Chemical 11644 11650	sugars
+T399	Chemical 11665 11679	phenolic acids
+T400	Chemical 11722 11737	acylated sugars
+T401	Chemical 11762 11777	acylated sugars
+R118	Isolated_From Arg1:T374 Arg2:T370	
+R119	Isolated_From Arg1:T376 Arg2:T370	
+R120	Isolated_From Arg1:T392 Arg2:T370	
+R121	Isolated_From Arg1:T394 Arg2:T370	
+R122	Isolated_From Arg1:T372 Arg2:T370	
+T402	Chemical 11786 11802;11809 11816	6-O -feruloyl-α- glucose
+T403	Metabolite 11786 11802;11809 11816	6-O -feruloyl-α- glucose
+T404	Chemical 11786 11800;11807 11816	6-O -feruloyl- β-glucose
+T405	Metabolite 11786 11800;11807 11816	6-O -feruloyl- β-glucose
+T406	Chemical 11850 11910	1-O -(2,3,4-trihydroxy-3-methyl)butyl-6-O -feruloylglucoside
+T407	Metabolite 11850 11910	1-O -(2,3,4-trihydroxy-3-methyl)butyl-6-O -feruloylglucoside
+T408	Chemical 11939 11979	6-O -caffeoyl-1-O -fructosyl-α-glucoside
+T409	Metabolite 11939 11979	6-O -caffeoyl-1-O -fructosyl-α-glucoside
+T410	Chemical 11987 12022	1-O -caffeoyl-6-O -apiosylglucoside
+T411	Metabolite 11987 12022	1-O -caffeoyl-6-O -apiosylglucoside
+T412	Chemical 12030 12074	1-O -p -hydroxybenzoyl-6-O -apiosylglucoside
+T413	Metabolite 12030 12074	1-O -p -hydroxybenzoyl-6-O -apiosylglucoside
+T414	Species 12091 12105	S. officinalis
+R123	Isolated_From Arg1:T405 Arg2:T414	
+R124	Isolated_From Arg1:T403 Arg2:T414	
+R125	Isolated_From Arg1:T407 Arg2:T414	
+R126	Isolated_From Arg1:T409 Arg2:T414	
+R127	Isolated_From Arg1:T411 Arg2:T414	
+R128	Isolated_From Arg1:T413 Arg2:T414	
+T415	Chemical 12133 12145;12147 12148	prionitiside A
+T416	Metabolite 12133 12145;12147 12148	prionitiside A
+T417	Species 12172 12184	S. prionitis
+R129	Isolated_From Arg1:T416 Arg2:T417	
+T418	Chemical 12133 12145;12159 12160	prionitiside B
+T419	Metabolite 12133 12145;12159 12160	prionitiside B
+R130	Isolated_From Arg1:T419 Arg2:T417	
+T420	Chemical 12205 12217;12219 12220	prionitiside A
+T421	Chemical 12205 12217;12225 12226	prionitiside B
+T422	Metabolite 12205 12217;12219 12220	prionitiside A
+T423	Metabolite 12205 12217;12225 12226	prionitiside B
+T424	Chemical 12246 12315	2-(3,4-dihydroxyphenyl)-3-glucosyloxycarbonyl-4,6-dihydroxybenzofuran
+T425	Metabolite 12246 12315	2-(3,4-dihydroxyphenyl)-3-glucosyloxycarbonyl-4,6-dihydroxybenzofuran
+T426	Chemical 12320 12391	2-(3,4-dihydroxyphenyl)-3-rutinosyloxy carbonyl-4,6-dihydroxybenzofuran
+T427	Metabolite 12320 12391	2-(3,4-dihydroxyphenyl)-3-rutinosyloxy carbonyl-4,6-dihydroxybenzofuran
+R131	Isolated_From Arg1:T425 Arg2:T417	
+R132	Isolated_From Arg1:T427 Arg2:T417	
+T428	Chemical 12437 12469	phenolic acetophenone glycosides
+T429	Species 12499 12513	S. officinalis
+T430	Chemical 12533 12569	4-hydroxyacetophenone 4-O -glucoside
+T431	Chemical 12571 12577	picein
+T432	Metabolite 12571 12577	picein
+T433	Metabolite 12533 12569	4-hydroxyacetophenone 4-O -glucoside
+R133	Isolated_From Arg1:T433 Arg2:T429	
+R134	Isolated_From Arg1:T432 Arg2:T429	
+T434	Chemical 12586 12636	4-hydroxyacetophenone 4-O -(6-O -apiosyl)glucoside
+T435	Metabolite 12586 12636	4-hydroxyacetophenone 4-O -(6-O -apiosyl)glucoside
+R135	Isolated_From Arg1:T435 Arg2:T429	
+T436	Chemical 12644 12710	4-hydroxyacetophenone 4-O -(2-O -(5-O -syringoylapiosyl)glucoside)
+T437	Metabolite 12644 12710	4-hydroxyacetophenone 4-O -(2-O -(5-O -syringoylapiosyl)glucoside)
+R136	Isolated_From Arg1:T437 Arg2:T429	
+T438	Species 12755 12769	S. officinalis
+T439	Chemical 12775 12785	glycosides
+T440	Chemical 12459 12469	glycosides
+T441	Chemical 12789 12799	neolignans
+T442	Chemical 12807 12842	1-hydroxypinoresinol 1-O -glucoside
+T443	Metabolite 12807 12842	1-hydroxypinoresinol 1-O -glucoside
+R137	Isolated_From Arg1:T443 Arg2:T438	
+T444	Chemical 12850 12882	isolariciresinol 3α-O -glucoside
+T445	Metabolite 12850 12882	isolariciresinol 3α-O -glucoside
+R138	Isolated_From Arg1:T445 Arg2:T438	
+T446	Chemical 12893 12994	2-(3-methoxy-4-glucosyloxyphenyl)-3-hydroxymethyl-5-(3-hydroxypropyl)-7-methoxy-2,3-dihydrobenzofuran
+T447	Metabolite 12893 12994	2-(3-methoxy-4-glucosyloxyphenyl)-3-hydroxymethyl-5-(3-hydroxypropyl)-7-methoxy-2,3-dihydrobenzofuran
+R139	Isolated_From Arg1:T447 Arg2:T438	
+T448	Chemical 13047 13073	isolariciresinol compounds
+T449	Chemical 13074 13122	feruloyl-secoisolariciresinol 12-methylmyristate
+T450	Metabolite 13074 13122	feruloyl-secoisolariciresinol 12-methylmyristate
+T451	Chemical 13162 13205	secoisolariciresinol di(12-methylmyristate)
+T452	Metabolite 13162 13205	secoisolariciresinol di(12-methylmyristate)
+T453	Chemical 13284 13368	2-(3-methoxy-4-hydroxyphenyl)-5-(3-hydroxypropyl)-7-methoxybenzofuran-3-carbaldehyde
+T454	Metabolite 13284 13368	2-(3-methoxy-4-hydroxyphenyl)-5-(3-hydroxypropyl)-7-methoxybenzofuran-3-carbaldehyde
+T455	Species 13430 13440	S. plebeia
+T456	Species 13461 13476	S. miltiorrhiza
+R140	Isolated_From Arg1:T450 Arg2:T455	
+R141	Isolated_From Arg1:T452 Arg2:T455	
+R142	Isolated_From Arg1:T454 Arg2:T456	
+T457	Protein 13587 13608	adenosine A1 receptor
+R143	Binds_With Arg1:T453 Arg2:T457	
+R144	Binds_With Arg1:T454 Arg2:T457	
+T458	Chemical 13621 13631	Flavonoids
+T459	Chemical 13632 13642	Flavonoids
+T460	Metabolite 13621 13631	Flavonoids
+T461	Metabolite 13632 13642	Flavonoids
+T462	Species 13680 13688	Salvia  
+T463	Chemical 13822 13830	flavones
+T464	Chemical 13832 13841	flavonols
+T465	Chemical 13852 13862	glycosides
+T466	Chemical 13892 13915	6-hydroxylated flavones
+T467	Chemical 14039 14046;14060 14069	Flavone aglycones
+T468	Chemical 14051 14069	flavonol aglycones
+T469	Chemical 14086 14096	flavonoids
+T470	Metabolite 14086 14096	flavonoids
+T471	Chemical 14101 14109	flavones
+T472	Chemical 14113 14121	apigenin
+T473	Metabolite 14113 14121	apigenin
+T474	Chemical 14123 14147	5,7,4′-trihydroxyflavone
+T475	Metabolite 14123 14147	5,7,4′-trihydroxyflavone
+T476	Chemical 14159 14167	luteolin
+T477	Metabolite 14159 14167	luteolin
+T478	Chemical 14169 14198	5,7,3′,4′-tetrahydroxyflavone
+T479	Metabolite 14169 14198	5,7,3′,4′-tetrahydroxyflavone
+T480	Chemical 14159 14167;14230 14256	luteolin 6-hydroxylated derivatives
+T481	Chemical 14113 14121;14230 14256	apigenin 6-hydroxylated derivatives
+T482	Chemical 14262 14287	methyl ethers of flavones
+T483	Species 14328 14336	Salvia  
+T484	Chemical 14442 14450	apigenin
+T485	Chemical 14485 14498	phenolic 7-OH
+T486	Chemical 14509 14517	catechol
+T487	Chemical 14528 14536	luteolin
+T488	Chemical 14575 14598	apigenin 7-methyl ether
+T489	Metabolite 14575 14598	apigenin 7-methyl ether
+T490	Chemical 14600 14609	genkwanin
+T491	Metabolite 14600 14609	genkwanin
+T492	Chemical 14575 14583;14621 14640	apigenin 7,4′-dimethyl ether
+T493	Metabolite 14575 14583;14621 14640	apigenin 7,4′-dimethyl ether
+T494	Chemical 14575 14583;14696 14711	apigenin 4′-methyl ether
+T495	Metabolite 14575 14583;14696 14711	apigenin 4′-methyl ether
+T496	Chemical 14713 14721	acacetin
+T497	Metabolite 14713 14721	acacetin
+T498	Species 14752 14767	S. nicolsoniana
+R145	Isolated_From Arg1:T497 Arg2:T498	
+R146	Isolated_From Arg1:T495 Arg2:T498	
+T499	Species 14809 14823	S. yosgadensis
+R147	Isolated_From Arg1:T495 Arg2:T499	
+R148	Isolated_From Arg1:T497 Arg2:T499	
+T500	Chemical 14858 14882	luteolin 3′-methyl ether
+T501	Metabolite 14858 14882	luteolin 3′-methyl ether
+T502	Chemical 14884 14895	chrysoeriol
+T503	Metabolite 14884 14895	chrysoeriol
+T504	Chemical 14858 14866;14907 14922	luteolin 4′-methyl ether
+T505	Metabolite 14858 14866;14907 14922	luteolin 4′-methyl ether
+T506	Chemical 14924 14933	diosmetin
+T507	Metabolite 14924 14933	diosmetin
+T508	Chemical 14858 14866;15034 15047	luteolin 7-methyl ethe
+T509	Metabolite 14858 14866;15034 15048	luteolin 7-methyl ether
+T510	Chemical 14858 14866;15059 15082	luteolin 7,3′,4′-trimethyl ether
+T511	Metabolite 14858 14866;15059 15082	luteolin 7,3′,4′-trimethyl ether
+T512	Chemical 15120 15148	Luteolin 7,4′-dimethyl ether
+T513	Metabolite 15120 15148	Luteolin 7,4′-dimethyl ether
+T514	Species 15283 15296	S. palaestina
+R149	Isolated_From Arg1:T513 Arg2:T514	
+T515	Chemical 15120 15128;15181 15201	Luteolin 3′,4′-dimethyl ether
+T516	Metabolite 15120 15128;15181 15201	Luteolin 3′,4′-dimethyl ether
+T517	Species 15302 15317	S. nicolsoniana
+R150	Isolated_From Arg1:T516 Arg2:T517	
+T518	Chemical 15338 15355	6-hydroxyflavones
+T519	Chemical 15364 15374	flavonoids
+T520	Species 15404 15410	Salvia
+T521	Chemical 15439 15462;15476 15487	6-hydroxylated apigenin derivatives
+T522	Chemical 15439 15453;15467 15487	6-hydroxylated luteolin derivatives
+T523	Chemical 15494 15530	6-hydroxyapigenin-6,7-dimethyl ether
+T524	Metabolite 15494 15530	6-hydroxyapigenin-6,7-dimethyl ether
+T525	Chemical 15532 15544	cirsimaritin
+T526	Metabolite 15532 15544	cirsimaritin
+T527	Chemical 15494 15512;15553 15575	6-hydroxyapigenin- 6,7,4′-trimethyl ether
+T528	Metabolite 15494 15512;15553 15575	6-hydroxyapigenin- 6,7,4′-trimethyl ether
+T529	Chemical 15577 15587	salvigenin
+T530	Metabolite 15577 15587	salvigenin
+T531	Chemical 15600 15632	6-hydroxyluteolin 6-methyl ether
+T532	Metabolite 15600 15632	6-hydroxyluteolin 6-methyl ether
+T533	Chemical 15634 15641	nepetin
+T534	Chemical 15645 15654	eupafolin
+T535	Metabolite 15634 15641	nepetin
+T536	Metabolite 15645 15654	eupafolin
+T537	Chemical 15600 15617;15663 15681	6-hydroxyluteolin 6,7-dimethyl ether
+T538	Metabolite 15600 15617;15663 15681	6-hydroxyluteolin 6,7-dimethyl ether
+T539	Chemical 15683 15692	cirsiliol
+T540	Metabolite 15683 15692	cirsiliol
+T541	Chemical 15600 15617;15701 15723	6-hydroxyluteolin 6,7,4′-trimethyl ether
+T542	Metabolite 15600 15617;15701 15723	6-hydroxyluteolin 6,7,4′-trimethyl ether
+T543	Chemical 15725 15734	eupatorin
+T544	Metabolite 15725 15734	eupatorin
+T545	Chemical 15600 15617;15746 15773	6-hydroxyluteolin 6,7,3′,4′-tetramethyl ether
+T546	Metabolite 15600 15617;15746 15773	6-hydroxyluteolin 6,7,3′,4′-tetramethyl ether
+T547	Chemical 15859 15876	6-Hydroxyapigenin
+T548	Metabolite 15859 15876	6-Hydroxyapigenin
+T549	Chemical 15878 15890	scutellarein
+T550	Metabolite 15878 15890	scutellarein
+T551	Species 15926 15930	sage
+R151	Isolated_From Arg1:T548 Arg2:T551	
+R152	Isolated_From Arg1:T550 Arg2:T551	
+T552	Chemical 15983 16014	6-hydroxyapigenin methyl ethers
+T553	Chemical 15983 16000;16025 16039	6-hydroxyapigenin 6-methyl ether
+T554	Metabolite 15983 16000;16025 16039	6-hydroxyapigenin 6-methyl ether
+T555	Chemical 15983 16000;16106 16125	6-hydroxyapigenin 7,4′-dimethyl ether
+T556	Chemical 15983 16000;16136 16162	6-hydroxyapigenin 5,6,7,4′-tetramethyl ether
+T557	Chemical 15983 16000;16060 16079	6-hydroxyapigenin 6,4′-dimethyl ether
+T558	Metabolite 15983 16000;16136 16162	6-hydroxyapigenin 5,6,7,4′-tetramethyl ether
+T559	Metabolite 15983 16000;16106 16125	6-hydroxyapigenin 7,4′-dimethyl ether
+T560	Metabolite 15983 16000;16060 16079	6-hydroxyapigenin 6,4′-dimethyl ether
+T561	Chemical 16041 16051	hispidulin
+T562	Metabolite 16041 16051	hispidulin
+T563	Chemical 16081 16097	pectolinarigenin
+T564	Metabolite 16081 16097	pectolinarigenin
+T565	Chemical 16164 16183	5-methoxysalvigenin
+T566	Metabolite 16164 16183	5-methoxysalvigenin
+T567	Chemical 16236 16268	6-hydroxyluteolin 7-methyl ether
+T568	Metabolite 16236 16268	6-hydroxyluteolin 7-methyl ether
+T569	Chemical 16270 16279	pedalitin
+T570	Metabolite 16270 16279	pedalitin
+T571	Chemical 16236 16253;16288 16307	6-hydroxyluteolin 6,3′-dimethyl ether
+T572	Chemical 16236 16253;16367 16389	6-hydroxyluteolin 6,7,3′-trimethyl ether
+T573	Chemical 16236 16253;16414 16437	6-hydroxyluteolin 6,3′,4′-trimethyl ether
+T574	Chemical 16236 16253;16328 16347	6-hydroxyluteolin 7,4′-dimethyl ether
+T575	Metabolite 16236 16253;16414 16437	6-hydroxyluteolin 6,3′,4′-trimethyl ether
+T576	Metabolite 16236 16253;16367 16389	6-hydroxyluteolin 6,7,3′-trimethyl ether
+T577	Metabolite 16236 16253;16288 16307	6-hydroxyluteolin 6,3′-dimethyl ether
+T578	Metabolite 16236 16253;16328 16347	6-hydroxyluteolin 7,4′-dimethyl ether
+T579	Chemical 16309 16319	jaceosidin
+T580	Metabolite 16309 16319	jaceosidin
+T581	Chemical 16349 16358	nuchensin
+T582	Metabolite 16349 16358	nuchensin
+T583	Chemical 16391 16402	cirsilineol
+T584	Metabolite 16391 16402	cirsilineol
+T585	Chemical 16439 16448	eupatilin
+T586	Metabolite 16439 16448	eupatilin
+T587	Chemical 16457 16469	Cirsimaritin
+T588	Metabolite 16457 16469	Cirsimaritin
+T589	Biological_Activity 16498 16512	anti-microbial
+R153	Associated_With Arg1:T588 Arg2:T589	
+R154	Associated_With Arg1:T587 Arg2:T589	
+T590	Chemical 16583 16593	hispidulin
+T591	Metabolite 16583 16593	hispidulin
+T592	Biological_Activity 16604 16619	antihepatotoxic
+R155	Associated_With Arg1:T591 Arg2:T592	
+R156	Associated_With Arg1:T590 Arg2:T592	
+T593	Chemical 16737 16746	cirsiliol
+T594	Metabolite 16737 16746	cirsiliol
+T595	Chemical 16773 16780	flavone
+T596	Chemical 16816 16845	6,7,3′,4′-tetramethoxyflavone
+T597	Metabolite 16816 16845	6,7,3′,4′-tetramethoxyflavone
+T598	Chemical 16896 16919	8-hydroxylated flavones
+T599	Species 16932 16938	Salvia
+T600	Chemical 16946 16978	8-hydroxyapigenin 7-methyl ether
+T601	Metabolite 16946 16978	8-hydroxyapigenin 7-methyl ether
+T602	Species 17035 17045	S. plebeia
+T603	Chemical 16980 16988	salvitin
+T604	Metabolite 16980 16988	salvitin
+R157	Isolated_From Arg1:T604 Arg2:T602	
+R158	Isolated_From Arg1:T601 Arg2:T602	
+T605	Chemical 17075 17092	8-hydroxyapigenin
+T606	Metabolite 17075 17092	8-hydroxyapigenin
+T607	Chemical 17094 17109	isoscutellarein
+T608	Metabolite 17094 17109	isoscutellarein
+T609	Species 17148 17152	sage
+R159	Isolated_From Arg1:T608 Arg2:T609	
+R160	Isolated_From Arg1:T606 Arg2:T609	
+T610	Chemical 17196 17211	dihydroflavones
+T611	Species 17248 17256	Salvia  
+T612	Chemical 17264 17292	5-hydroxy-7-methoxyflavanone
+T613	Metabolite 17264 17292	5-hydroxy-7-methoxyflavanone
+R161	Isolated_From Arg1:T613 Arg2:T611	
+T614	Chemical 17325 17358	5,7-dihydroxy-4′-methoxyflavanone
+T615	Metabolite 17325 17358	5,7-dihydroxy-4′-methoxyflavanone
+T616	Chemical 17360 17374	isosakuranetin
+T617	Metabolite 17360 17374	isosakuranetin
+T618	Chemical 17378 17403	narigenin-4′-methyl ether
+T619	Metabolite 17378 17403	narigenin-4′-methyl ether
+R162	Isolated_From Arg1:T615 Arg2:T611	
+R163	Isolated_From Arg1:T617 Arg2:T611	
+R164	Isolated_From Arg1:T619 Arg2:T611	
+T620	Chemical 17448 17485	5,7,3′-trihydroxy-4′-methoxyflavanone
+T621	Metabolite 17448 17485	5,7,3′-trihydroxy-4′-methoxyflavanone
+T622	Chemical 17487 17497	hesperetin
+T623	Metabolite 17487 17497	hesperetin
+R165	Isolated_From Arg1:T621 Arg2:T611	
+R166	Isolated_From Arg1:T623 Arg2:T611	
+T624	Chemical 17682 17691	Flavonols
+T625	Chemical 17712 17722;17798 17811	kaempferol methyl ethers
+T626	Chemical 17724 17749;17798 17811	5,7,4′-trihydroxyflavonol methyl ethers
+T627	Chemical 17755 17764;17798 17811	quercetin methyl ethers
+T628	Chemical 17766 17796;17798 17811	5,7,3′,4′-tetrahydroxyflavonol methyl ethers
+T629	Chemical 17813 17823	Kaempferol
+T630	Metabolite 17813 17823	Kaempferol
+T631	Species 17852 17864	S. farinacea
+R167	Isolated_From Arg1:T630 Arg2:T631	
+T632	Species 17892 17901	S. folium
+R168	Isolated_From Arg1:T630 Arg2:T632	
+T633	Chemical 17931 17940	quercetin
+T634	Metabolite 17931 17940	quercetin
+T635	Species 17962 17971	S. dorrii
+R169	Isolated_From Arg1:T634 Arg2:T635	
+T636	Chemical 18002 18027	Kaempferol 3-methyl ether
+T637	Metabolite 18002 18027	Kaempferol 3-methyl ether
+T638	Chemical 18029 18043	isokaempferide
+T639	Metabolite 18029 18043	isokaempferide
+T640	Chemical 18002 18012;18052 18070	Kaempferol 3,7-dimethyl ether
+T641	Metabolite 18002 18012;18052 18070	Kaempferol 3,7-dimethyl ether
+T642	Chemical 18072 18083	kumatakenin
+T643	Metabolite 18072 18083	kumatakenin
+T644	Chemical 18095 18119	quercetin 3-methyl ether
+T645	Metabolite 18095 18119	quercetin 3-methyl ether
+T646	Chemical 18095 18104;18127 18142	quercetin 3′-methyl ether
+T647	Chemical 18095 18104;18165 18184	quercetin 3,3′-dimethyl ether
+T648	Chemical 18095 18104;18195 18217	quercetin 3,7,4′-trimethyl ether
+T649	Metabolite 18095 18104;18127 18142	quercetin 3′-methyl ether
+T650	Metabolite 18095 18104;18165 18184	quercetin 3,3′-dimethyl ether
+T651	Metabolite 18095 18104;18195 18217	quercetin 3,7,4′-trimethyl ether
+T652	Chemical 18144 18156	isorhamnetin
+T653	Metabolite 18144 18156	isorhamnetin
+T654	Chemical 18219 18225	ayanin
+T655	Metabolite 18219 18225	ayanin
+T656	Species 18248 18256	Salvia  
+R170	Isolated_From Arg1:T655 Arg2:T656	
+R171	Isolated_From Arg1:T651 Arg2:T656	
+R172	Isolated_From Arg1:T650 Arg2:T656	
+R173	Isolated_From Arg1:T653 Arg2:T656	
+R174	Isolated_From Arg1:T649 Arg2:T656	
+R175	Isolated_From Arg1:T645 Arg2:T656	
+R176	Isolated_From Arg1:T643 Arg2:T656	
+R177	Isolated_From Arg1:T641 Arg2:T656	
+R178	Isolated_From Arg1:T639 Arg2:T656	
+R179	Isolated_From Arg1:T637 Arg2:T656	
+T657	Chemical 18313 18338	Kaempferol-3-methyl ether
+T658	Metabolite 18313 18338	Kaempferol-3-methyl ether
+T659	Chemical 18366 18374	flavones
+T660	Species 18394 18408	S. yosgadensis
+R180	Isolated_From Arg1:T658 Arg2:T660	
+T661	Chemical 18433 18470	Quercetin 3,7,3′,4′-tetramethyl ether
+T662	Metabolite 18433 18470	Quercetin 3,7,3′,4′-tetramethyl ether
+T663	Chemical 18475 18482	retusin
+T664	Metabolite 18475 18482	retusin
+T665	Species 18514 18526	S. glutinosa
+R181	Isolated_From Arg1:T664 Arg2:T665	
+R182	Isolated_From Arg1:T662 Arg2:T665	
+T666	Chemical 18550 18574	6-Hydroxylated flavonols
+T667	Chemical 18598 18629	6-hydroxykaempferol derivatives
+T668	Chemical 18642 18680	6-hydroxykaempferol 3,6-dimethyl ether
+T669	Metabolite 18642 18680	6-hydroxykaempferol 3,6-dimethyl ether
+T670	Chemical 18642 18661;18711 18733	6-hydroxykaempferol 3,6,4′-trimethyl ether
+T671	Chemical 18642 18661;18802 18820	6-hydroxykaempferol 5,6-dimethyl ether
+T672	Metabolite 18642 18661;18711 18733	6-hydroxykaempferol 3,6,4′-trimethyl ether
+T673	Metabolite 18642 18661;18802 18820	6-hydroxykaempferol 5,6-dimethyl ether
+T674	Chemical 18735 18741	santin
+T675	Metabolite 18735 18741	santin
+T676	Species 18927 18942	Salvia  species
+R183	Isolated_From Arg1:T673 Arg2:T676	
+T677	Chemical 18960 18996	6-hydroxygalangin 5,6-dimethyl ether
+T678	Metabolite 18960 18996	6-hydroxygalangin 5,6-dimethyl ether
+T679	Species 19013 19027	S. columbariae
+R184	Isolated_From Arg1:T678 Arg2:T679	
+T680	Chemical 19084 19092	galangin
+T681	Chemical 19094 19115	5,7-dihydroxyflavonol
+T682	Species 19138 19144	Salvia
+T683	Chemical 19164 19194	6-hydroxyquercetin derivatives
+T684	Species 19225 19231	Salvia
+T685	Chemical 19239 19246;19260 19270	Flavone glycosides
+T686	Chemical 19251 19270	flavonol glycosides
+T687	Chemical 19271 19292	Flavone O -glycosides
+T688	Species 19318 19326	Salvia  
+T689	Chemical 19347 19367	flavone 7-glycosides
+T690	Chemical 19383 19403	apigenin 7-glucoside
+T691	Metabolite 19383 19403	apigenin 7-glucoside
+T692	Chemical 19405 19414	cosmosiin
+T693	Metabolite 19405 19414	cosmosiin
+T694	Chemical 19424 19444	luteolin 7-glucoside
+T695	Metabolite 19424 19444	luteolin 7-glucoside
+T696	Metabolite 19446 19456	cinaroside
+T697	Chemical 19446 19456	cinaroside
+T698	Chemical 19383 19391;19489 19502	apigenin 7-glucuronide
+T699	Metabolite 19383 19391;19489 19502	apigenin 7-glucuronide
+T700	Chemical 19424 19432;19489 19502	luteolin 7-glucuronide
+T701	Metabolite 19424 19432;19489 19502	luteolin 7-glucuronide
+R185	Isolated_From Arg1:T701 Arg2:T688	
+R186	Isolated_From Arg1:T699 Arg2:T688	
+R187	Isolated_From Arg1:T696 Arg2:T688	
+R188	Isolated_From Arg1:T695 Arg2:T688	
+R189	Isolated_From Arg1:T701 Arg2:T688	
+R190	Isolated_From Arg1:T693 Arg2:T688	
+R191	Isolated_From Arg1:T691 Arg2:T688	
+T702	Chemical 19536 19545	apigenins
+T703	Chemical 19576 19582	sugars
+T704	Chemical 19603 19628	apigenin 7,4′-diglucoside
+T705	Metabolite 19603 19628	apigenin 7,4′-diglucoside
+T706	Chemical 19660 19683	apigenin 7-cellobioside
+T707	Metabolite 19660 19683	apigenin 7-cellobioside
+T708	Chemical 19715 19736	apigenin 7-rutinoside
+T709	Metabolite 19715 19736	apigenin 7-rutinoside
+T710	Chemical 19782 19818	apigenin 7-cellobioside-4′-glucoside
+T711	Metabolite 19782 19818	apigenin 7-cellobioside-4′-glucoside
+T712	Chemical 19882 19895	trisaccharide
+T713	Chemical 19899 19907	flavones
+T714	Chemical 19926 19951	apigenin 7,4′-diglucoside
+T715	Metabolite 19926 19951	apigenin 7,4′-diglucoside
+T716	Chemical 19969 19989	apigenin derivatives
+T717	Chemical 20003 20027	phenolic hydroxyl groups
+T718	Chemical 20032 20044	glycosylated
+R192	Isolated_From Arg1:T705 Arg2:T688	
+R193	Isolated_From Arg1:T707 Arg2:T688	
+R194	Isolated_From Arg1:T709 Arg2:T688	
+R195	Isolated_From Arg1:T711 Arg2:T688	
+T719	Chemical 20046 20071	Apigenin 7,4′-diglucoside
+T720	Metabolite 20046 20071	Apigenin 7,4′-diglucoside
+T721	Species 20119 20128	S. patens
+R196	Isolated_From Arg1:T720 Arg2:T721	
+T722	Chemical 20160 20181	flavone disaccharides
+T723	Chemical 20187 20210	apigenin 7-cellobioside
+T724	Metabolite 20187 20210	apigenin 7-cellobioside
+T725	Chemical 20215 20251	apigenin 7-cellobioside-4′-glucoside
+T726	Metabolite 20215 20251	apigenin 7-cellobioside-4′-glucoside
+T727	Species 20263 20271	Salvia  
+R197	Isolated_From Arg1:T724 Arg2:T727	
+R198	Isolated_From Arg1:T726 Arg2:T727	
+T728	Chemical 20352 20360;20371 20381	apigenin glycosides
+T729	Chemical 20362 20381	luteolin glycosides
+T730	Metabolite 20410 20433	Luteolin 3′-glucuronide
+T731	Chemical 20410 20433	Luteolin 3′-glucuronide
+T732	Species 20456 20470	S. officinalis
+R199	Isolated_From Arg1:T730 Arg2:T732	
+T733	Chemical 20498 20521	luteolin 4′-glucuronide
+T734	Metabolite 20498 20521	luteolin 4′-glucuronide
+T735	Species 20542 20559	S. lavandulifolia
+R200	Isolated_From Arg1:T734 Arg2:T735	
+T736	Chemical 20578 20588	flavonoids
+T737	Chemical 20621 20638	3′-OH of luteolin
+T738	Chemical 20630 20638	luteolin
+T739	Chemical 20668 20690	chrysoeriol glycosides
+T740	Chemical 20668 20679;20699 20710	chrysoeriol 7-glucoside
+T741	Chemical 20668 20679;20719 20732	chrysoeriol 7-glucuronide
+T742	Chemical 20668 20679;20744 20754	chrysoeriol 7-xyloside
+T743	Metabolite 20668 20679;20699 20710	chrysoeriol 7-glucoside
+T744	Metabolite 20668 20679;20719 20732	chrysoeriol 7-glucuronide
+T745	Metabolite 20668 20679;20744 20754	chrysoeriol 7-xyloside
+T746	Species 20795 20803	Salvia  
+R201	Isolated_From Arg1:T745 Arg2:T746	
+R202	Isolated_From Arg1:T744 Arg2:T746	
+R203	Isolated_From Arg1:T743 Arg2:T746	
+T747	Chemical 20860 20882	luteolin disaccharides
+T748	Species 20907 20915	Salvia  
+T749	Chemical 20933 20968	luteolin 3′-glucoside-7-glucuronide
+T750	Metabolite 20933 20968	luteolin 3′-glucoside-7-glucuronide
+T751	Chemical 20933 20941;21001 21013	luteolin 7-rutinoside
+T752	Chemical 20933 20941;21084 21098	luteolin 7-cellobioside
+T753	Chemical 20933 20941;21127 21139	luteolin 5-rutinoside
+T754	Metabolite 20933 20941;21001 21013	luteolin 7-rutinoside
+T755	Metabolite 20933 20941;21084 21098	luteolin 7-cellobioside
+T756	Metabolite 20933 20941;21127 21139	luteolin 5-rutinoside
+R204	Isolated_From Arg1:T750 Arg2:T748	
+R205	Isolated_From Arg1:T756 Arg2:T748	
+R206	Isolated_From Arg1:T755 Arg2:T748	
+R207	Isolated_From Arg1:T754 Arg2:T748	
+T757	Chemical 21177 21204	6-hydroxyflavone glycosides
+T758	Chemical 21177 21204;21217 21226	6-hydroxyflavone glycosides aglycones
+T759	Species 21263 21269	Salvia
+T760	Chemical 21278 21306	6-hydroxyapigenin glycosides
+T761	Chemical 21332 21356	6-methylated derivatives
+T762	Chemical 21365 21394	6-methoxyapigenin 7-glucoside
+T763	Metabolite 21365 21394	6-methoxyapigenin 7-glucoside
+T764	Chemical 21365 21382;21424 21437	6-methoxyapigenin 7-glucuronide
+T765	Metabolite 21365 21382;21424 21437	6-methoxyapigenin 7-glucuronide
+T766	Chemical 21396 21411	homoplantagenin
+T767	Metabolite 21396 21411	homoplantagenin
+T768	Chemical 21446 21468	salvigenin 5-glucoside
+T769	Metabolite 21446 21468	salvigenin 5-glucoside
+T770	Chemical 21545 21573	6-hydroxyluteolin glycosides
+T771	Chemical 21654 21683	6-hydroxyluteolin 7-glucoside
+T772	Metabolite 21654 21683	6-hydroxyluteolin 7-glucoside
+T773	Chemical 21654 21671;21695 21708	6-hydroxyluteolin 7-glucuronide
+T774	Metabolite 21654 21671;21695 21708	6-hydroxyluteolin 7-glucuronide
+T775	Chemical 21737 21766	6-methoxyluteolin 7-glucoside
+T776	Metabolite 21737 21766	6-methoxyluteolin 7-glucoside
+T777	Chemical 21768 21776	nepitrin
+T778	Metabolite 21768 21776	nepitrin
+T779	Chemical 21737 21754;21786 21799	6-methoxyluteolin 7-glucuronide
+T780	Metabolite 21737 21754;21786 21799	6-methoxyluteolin 7-glucuronide
+T781	Chemical 21832 21861	6-hydroxyluteolin 5-glucoside
+T782	Metabolite 21832 21861	6-hydroxyluteolin 5-glucoside
+T783	Chemical 21898 21942	6-methoxyluteolin 7-methyl ether-5-glucoside
+T784	Metabolite 21898 21942	6-methoxyluteolin 7-methyl ether-5-glucoside
+T785	Species 21998 22004	Salvia
+R208	Isolated_From Arg1:T784 Arg2:T785	
+R209	Isolated_From Arg1:T782 Arg2:T785	
+R210	Isolated_From Arg1:T780 Arg2:T785	
+R211	Isolated_From Arg1:T778 Arg2:T785	
+R212	Isolated_From Arg1:T776 Arg2:T785	
+R213	Isolated_From Arg1:T774 Arg2:T785	
+R214	Isolated_From Arg1:T772 Arg2:T785	
+R215	Isolated_From Arg1:T765 Arg2:T759	
+R216	Isolated_From Arg1:T767 Arg2:T759	
+R217	Isolated_From Arg1:T763 Arg2:T759	
+R218	Isolated_From Arg1:T769 Arg2:T759	
+T786	Chemical 22039 22057	acetylpectolinarin
+T787	Metabolite 22039 22057	acetylpectolinarin
+T788	Chemical 22103 22149	6-methoxyapigenin 4′-methyl ether-7-rutinoside
+T789	Metabolite 22103 22149	6-methoxyapigenin 4′-methyl ether-7-rutinoside
+T790	Chemical 22181 22197	pectolinarigenin
+T791	Chemical 22199 22236	6-hydroxyapigenin 6,4′-dimethyl ether
+T792	Chemical 22252 22259	glucose
+T793	Chemical 22264 22272	rhamnose
+T794	Chemical 22274 22295	Flavone C -glycosides
+T795	Species 22342 22350	Salvia  
+T796	Chemical 22370 22378	apigenin
+T797	Chemical 22389 22412	apigenin 8-C -glucoside
+T798	Metabolite 22389 22412	apigenin 8-C -glucoside
+T799	Chemical 22414 22421	vitexin
+T800	Metabolite 22414 22421	vitexin
+T801	Chemical 22434 22459	apigenin 8-C -arabinoside
+T802	Metabolite 22434 22459	apigenin 8-C -arabinoside
+T803	Chemical 22461 22472	schaftoside
+T804	Metabolite 22461 22472	schaftoside
+T805	Species 22486 22503	S. blepharophylla
+R219	Isolated_From Arg1:T804 Arg2:T805	
+R220	Isolated_From Arg1:T802 Arg2:T805	
+R221	Isolated_From Arg1:T800 Arg2:T805	
+R222	Isolated_From Arg1:T798 Arg2:T805	
+T806	Chemical 22547 22575	apigenin 6,8-di-C -glucoside
+T807	Metabolite 22547 22575	apigenin 6,8-di-C -glucoside
+R223	Isolated_From Arg1:T807 Arg2:T795	
+T808	Chemical 22631 22659	Luteolin 6,8-di-C -glucoside
+T809	Metabolite 22631 22659	Luteolin 6,8-di-C -glucoside
+T810	Species 22672 22686	S. aegypteacae
+T811	Chemical 22728 22750	luteolin C -glycosides
+R224	Isolated_From Arg1:T809 Arg2:T810	
+T812	Chemical 22765 22784	flavonol glycosides
+T813	Species 22794 22802	Salvia  
+T814	Chemical 22765 22773;22831 22843	flavonol 3-glycosides
+T815	Chemical 22861 22882	kaempferol glycosides
+T816	Chemical 22977 22999	kaempferol 3-glucoside
+T817	Chemical 22930 22935;22942 22951	mono- glycoside
+T818	Chemical 22939 22951	triglycoside
+T819	Metabolite 22977 22999	kaempferol 3-glucoside
+T820	Chemical 23001 23011	astragalin
+T821	Metabolite 23001 23011	astragalin
+T822	Species 23023 23036	S. cavaleriei
+R225	Isolated_From Arg1:T821 Arg2:T822	
+R226	Isolated_From Arg1:T819 Arg2:T822	
+T823	Chemical 22977 22987;23060 23072	kaempferol 3-robinoside
+T824	Chemical 22977 22987;23084 23112	kaempferol 3-(2,6-dirhamnosylglucoside)
+T825	Chemical 22977 22987;23116 23143	kaempferol 3-(2G -rhamnosylrutinoside)
+T826	Metabolite 22977 22987;23084 23112	kaempferol 3-(2,6-dirhamnosylglucoside)
+T827	Metabolite 22977 22987;23116 23143	kaempferol 3-(2G -rhamnosylrutinoside)
+T828	Metabolite 22977 22987;23060 23072	kaempferol 3-robinoside
+T829	Species 23154 23165	S. farnacea
+R227	Isolated_From Arg1:T827 Arg2:T829	
+R228	Isolated_From Arg1:T826 Arg2:T829	
+R229	Isolated_From Arg1:T828 Arg2:T829	
+T830	Chemical 23194 23214	quercetin glycosides
+T831	Chemical 23234 23247	methyl ethers
+T832	Chemical 23194 23203;23285 23296	quercetin 3-glucoside
+T833	Chemical 23194 23203;23321 23334	quercetin 3-glucuronide
+T834	Chemical 23194 23203;23360 23372	quercetin 3-robinoside
+T835	Metabolite 23194 23203;23285 23296	quercetin 3-glucoside
+T836	Metabolite 23194 23203;23321 23334	quercetin 3-glucuronide
+T837	Metabolite 23194 23203;23360 23372	quercetin 3-robinoside
+T838	Chemical 23298 23311	isoquercitrin
+T839	Metabolite 23298 23311	isoquercitrin
+T840	Chemical 23336 23347	miquelianin
+T841	Metabolite 23336 23347	miquelianin
+T842	Species 23403 23420	S. blepharophylla
+R230	Isolated_From Arg1:T837 Arg2:T842	
+R231	Isolated_From Arg1:T836 Arg2:T842	
+R232	Isolated_From Arg1:T835 Arg2:T842	
+R233	Isolated_From Arg1:T841 Arg2:T842	
+R234	Isolated_From Arg1:T839 Arg2:T842	
+T843	Chemical 23445 23454;23482 23493	rhamnetin 3-glucoside
+T844	Metabolite 23445 23454;23482 23493	rhamnetin 3-glucoside
+T845	Chemical 23456 23480;23482 23493	quercetin 7-methyl ether 3-glucoside
+T846	Metabolite 23456 23480;23482 23493	quercetin 7-methyl ether 3-glucoside
+T847	Species 23506 23523	S. blepharophylla
+R235	Isolated_From Arg1:T846 Arg2:T847	
+R236	Isolated_From Arg1:T844 Arg2:T847	
+T848	Chemical 23548 23560;23589 23602	isorhamnetin 3-galactoside
+T849	Metabolite 23548 23560;23589 23602	isorhamnetin 3-galactoside
+T850	Chemical 23562 23587;23589 23602	quercetin 3′-methyl ether 3-galactoside
+T851	Metabolite 23562 23587;23589 23602	quercetin 3′-methyl ether 3-galactoside
+T852	Chemical 23548 23560;23614 23641	isorhamnetin 3-(2G -rhamnosylrutinoside)
+T853	Metabolite 23548 23560;23614 23641	isorhamnetin 3-(2G -rhamnosylrutinoside)
+T854	Chemical 23562 23587;23614 23641	quercetin 3′-methyl ether 3-(2G -rhamnosylrutinoside)
+T855	Metabolite 23562 23587;23614 23641	quercetin 3′-methyl ether 3-(2G -rhamnosylrutinoside)
+T856	Species 23659 23671	S. farinacea
+R237	Isolated_From Arg1:T855 Arg2:T856	
+R238	Isolated_From Arg1:T853 Arg2:T856	
+R239	Isolated_From Arg1:T851 Arg2:T856	
+R240	Isolated_From Arg1:T849 Arg2:T856	
+T857	Chemical 23725 23737	Anthocyanins
+T858	Metabolite 23725 23737	Anthocyanins
+T859	Chemical 23742 23754	anthocyanins
+T860	Metabolite 23742 23754	anthocyanins
+T861	Species 23813 23821	Salvia  
+T862	Species 23936 23944	Salvia  
+T863	Chemical 23944 23956	anthocyanins
+T864	Metabolite 23944 23956	anthocyanins
+T865	Chemical 24051 24060	salvianin
+T866	Metabolite 24051 24060	salvianin
+T867	Chemical 24079 24103	pelargonidin diglucoside
+T868	Chemical 24109 24121	caffeic acid
+T869	Chemical 24126 24138	malonic acid
+T870	Chemical 24221 24230	salvianin
+T871	Metabolite 24221 24230	salvianin
+T872	Chemical 24234 24282	pelargonidin 3-(6-caffeoylglucoside)-5-glucoside
+T873	Metabolite 24356 24419	pelargonidin 3-(6-caffeoylglucoside)-5-(4,6-dimalonylglucoside)
+R241	Isolated_From Arg1:T873 Arg2:T862	
+R242	Isolated_From Arg1:T866 Arg2:T862	
+T874	Chemical 24527 24535	alcohols
+T875	Chemical 24562 24575	mineral acids
+T876	Chemical 24609 24616	malonyl
+T877	Chemical 24660 24665;24674 24694;24696 24708	mono- demalonyl derivative of salvianin
+T878	Chemical 24670 24694;24696 24708	bis-demalonyl derivative of salvianin
+T879	Metabolite 24660 24665;24674 24694;24696 24708	mono- demalonyl derivative of salvianin
+T880	Metabolite 24670 24694;24696 24708	bis-demalonyl derivative of salvianin
+T881	Chemical 24817 24831	caffeoyl group
+T882	Chemical 24835 24844	salvianin
+T883	Metabolite 24835 24844	salvianin
+T884	Chemical 24866 24884	p -coumaroyl group
+T885	Chemical 24915 24982	pelargonidin 3-(6-p -coumaroylglucoside)-5-(4,6-dimalonylglucoside)
+T886	Metabolite 24915 24982	pelargonidin 3-(6-p -coumaroylglucoside)-5-(4,6-dimalonylglucoside)
+T887	Chemical 24986 24996	monardaein
+T888	Metabolite 24986 24996	monardaein
+T889	Chemical 25095 25116	pelargonidin aglycone
+T890	Species 25492 25500	Salvia  
+T891	Species 25841 25849	Salvia  
+T892	Species 26706 26721	Salvia  species
+T893	Species 27229 27237	Salvia  
+T894	Species 27434 27449	Salvia  species
+T895	Species 27722 27730	Salvia  
+T896	Species 27801 27809	Salvia  
+T897	Chemical 24986 24996;25012 25035	monardaein demalonated derivatives
+T898	Metabolite 24986 24996;25012 25035	monardaein demalonated derivatives
+T899	Chemical 25136 25144	cyanidin
+T900	Metabolite 25136 25144	cyanidin
+T901	Chemical 25146 25157	delphinidin
+T902	Metabolite 25146 25157	delphinidin
+T903	Chemical 25167 25175	malvidin
+T904	Metabolite 25167 25175	malvidin
+R243	Isolated_From Arg1:T880 Arg2:T862	
+R244	Isolated_From Arg1:T879 Arg2:T862	
+R245	Isolated_From Arg1:T886 Arg2:T862	
+R246	Isolated_From Arg1:T888 Arg2:T862	
+R247	Isolated_From Arg1:T898 Arg2:T862	
+T905	Chemical 25195 25203;25220 25263;25264 25265	cyanidin 3-(caffeoylglucoside)-5-(dimalonylglucoside )
+T906	Metabolite 25195 25203;25282 25329;25330 25331	cyanidin 3-(p -coumaroylglucoside)-5-(dimalonylglucoside )
+T907	Chemical 25208 25263;25264 25265	delphinidin 3-(caffeoylglucoside)-5-(dimalonylglucoside )
+T915	Metabolite 25195 25203;25220 25263;25264 25265	cyanidin 3-(caffeoylglucoside)-5-(dimalonylglucoside )
+T908	Chemical 25195 25203;25220 25263	cyanidin 3-(caffeoylglucoside)-5-(dimalonylglucoside
+T909	Metabolite 25208 25263;25264 25265	delphinidin 3-(caffeoylglucoside)-5-(dimalonylglucoside )
+T912	Chemical 25195 25203;25220 25263	cyanidin 3-(caffeoylglucoside)-5-(dimalonylglucoside
+T913	Chemical 25195 25203;25282 25329;25330 25331	cyanidin 3-(p -coumaroylglucoside)-5-(dimalonylglucoside )
+T917	Chemical 25208 25219;25282 25329;25330 25331	delphinidin 3-(p -coumaroylglucoside)-5-(dimalonylglucoside )
+T919	Metabolite 25208 25219;25282 25329;25330 25331	delphinidin 3-(p -coumaroylglucoside)-5-(dimalonylglucoside )
+T914	Chemical 25355 25378	demalonated derivatives
+T916	Metabolite 25355 25378	demalonated derivatives
+R248	Isolated_From Arg1:T916 Arg2:T890	
+R249	Isolated_From Arg1:T919 Arg2:T890	
+R250	Isolated_From Arg1:T906 Arg2:T890	
+R251	Isolated_From Arg1:T915 Arg2:T890	
+R252	Isolated_From Arg1:T909 Arg2:T890	
+T910	Chemical 25573 25632	Malvidin 3-(6-p -coumaroylglucoside)-5-(6-malonylglucoside)
+T911	Metabolite 25573 25632	Malvidin 3-(6-p -coumaroylglucoside)-5-(6-malonylglucoside)
+T918	Chemical 25634 25646	salviamalvin
+T920	Metabolite 25634 25646	salviamalvin
+T921	Chemical 25667 25682	malonylawobanin
+T922	Metabolite 25667 25682	malonylawobanin
+T923	Species 25735 25747	S. farinacea
+R253	Isolated_From Arg1:T922 Arg2:T923	
+R254	Isolated_From Arg1:T920 Arg2:T923	
+R255	Isolated_From Arg1:T911 Arg2:T923	
+T924	Chemical 25811 25823	anthocyanins
+T925	Chemical 25923 25935	pelargonidin
+T926	Metabolite 25923 25935	pelargonidin
+T927	Chemical 25955 25966	delphinidin
+T928	Metabolite 25955 25966	delphinidin
+T929	Chemical 26024 26044	cyanidin derivatives
+T930	Chemical 26071 26093	acetylated anthocyanin
+T931	Chemical 26095 26166	delphinidin 3-(6-p -coumaroylglucoside)-5-(4-acetyl-6-malonylglucoside)
+T932	Metabolite 26095 26166	delphinidin 3-(6-p -coumaroylglucoside)-5-(4-acetyl-6-malonylglucoside)
+T933	Species 26249 26261	S. uliginosa
+R256	Isolated_From Arg1:T932 Arg2:T933	
+T934	Chemical 26323 26335	anthocyanins
+T935	Chemical 26341 26351	flavonoids
+T936	Species 26414 26423	S. patens
+T937	Chemical 26453 26533	delphinidin 3-(6-p -coumaroylglucoside)-5-(6-malonylglucoside) (malonylawobanin)
+T938	Metabolite 26453 26533	delphinidin 3-(6-p -coumaroylglucoside)-5-(6-malonylglucoside) (malonylawobanin)
+R257	Isolated_From Arg1:T938 Arg2:T936	
+T939	Chemical 26542 26567	apigenin 7,4′-diglucoside
+T940	Metabolite 26542 26567	apigenin 7,4′-diglucoside
+R258	Isolated_From Arg1:T940 Arg2:T936	
+T941	Chemical 26579 26595	magnesium cation
+T942	Chemical 26625 26642	Proanthocyanidins
+T943	Chemical 26643 26660	Proanthocyanidins
+T944	Chemical 26675 26682	tannins
+T945	Metabolite 26806 26818	salviatannin
+R259	Isolated_From Arg1:T945 Arg2:T892	
+T946	Chemical 26895 26903	catechin
+T947	Chemical 26922 26930	catechol
+T948	Chemical 26935 26949	catechuic acid
+T949	Chemical 27003 27015	salviatannin
+T950	Chemical 26806 26818	salviatannin
+T951	Metabolite 27003 27015	salviatannin
+T952	Chemical 27210 27217	tannins
+T953	Chemical 27300 27309	polyamide
+T954	Protein 27357 27364	gelatin
+T955	Species 27466 27471	sages
+T956	Chemical 27537 27560	polyphenolic flavonoids
+T957	Chemical 27565 27579	phenolic acids
+T958	Chemical 27581 27589	Flavones
+T959	Chemical 27591 27600	flavonols
+T960	Chemical 27611 27621	glycosides
+T961	Chemical 27649 27659	flavonoids
+T962	Chemical 27669 27693	Malonylated anthocyanins
+T963	Chemical 27760 27777	proanthocyanidins
+T964	Chemical 27789 27796	tannins
+T965	Chemical 27854 27868	phenolic acids
+T966	Chemical 27900 27912	caffeic acid
+T967	Metabolite 27900 27912	caffeic acid
+T968	Chemical 27975 27987	caffeic acid
+T969	Chemical 27999 28007	depsides
+T970	Species 28099 28103	sage
+T971	Species 28194 28198	sage
+T972	Chemical 28253 28264	polyphenols
+T973	Chemical 28275 28285	flavonoids
+T974	Chemical 28290 28304	phenolic acids

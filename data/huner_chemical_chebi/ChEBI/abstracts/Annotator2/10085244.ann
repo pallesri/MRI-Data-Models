@@ -1,0 +1,60 @@
+T2	Chemical 11 34	fluorescent fatty acids
+#2	AnnotatorNotes T2	Chemical class
+T3	Species 38 44	bovine
+T4	Protein 38 86	bovine liver non-specific lipid-transfer protein
+T5	Protein 88 94	nsL-TP
+T6	Chemical 187 197	tryptophan
+T7	Protein 209 215	nsL-TP
+T8	Chemical 224 235	fluorophore
+#3	AnnotatorNotes T8	Chemical class
+T9	Chemical 255 277	pyrene dodecanoic acid
+T12	Chemical 279 286	Pyr-C12
+T13	Chemical 292 310	cis-parinaric acid
+T14	Protein 314 320	nsL-TP
+T15	Chemical 362 373	fatty acids
+#4	AnnotatorNotes T15	Chemical class
+T17	Chemical 444 454	tryptophan
+T18	Protein 399 417	lipid binding site
+T19	Chemical 513 524	fatty acids
+T20	Chemical 576 593	beta-cyclodextrin
+T21	Chemical 665 672	Pyr-C12
+T22	Chemical 682 689	Pyr-C12
+T24	Chemical 682 715	Pyr-C12-beta-cyclodextrin complex
+T25	Protein 719 725	nsL-TP
+T26	Chemical 787 793	pyrene
+T27	Chemical 857 863	pyrene
+T28	Protein 993 999	nsL-TP
+T29	Chemical 1103 1125	fatty acyl derivatives
+#6	AnnotatorNotes T29	Chemical class
+T30	Chemical 1138 1145	Pyr-C12
+T31	Protein 1155 1173	lipid binding site
+T32	Chemical 1213 1229	Hexadecanoyl-CoA
+T33	Chemical 1234 1252	2-hexadecenoyl-CoA
+T34	Protein 1284 1290	nsL-TP
+T35	Chemical 1300 1325	3-hydroxyhexadecanoyl-CoA
+T36	Chemical 1330 1352	3-ketohexadecanoyl-CoA
+T37	Chemical 1412 1449	very-long-chain fatty acyl-CoA esters
+#7	AnnotatorNotes T37	Chemical class
+T38	Chemical 1451 1459	24:0-CoA
+T39	Chemical 1461 1469	26:0-CoA
+T40	Chemical 1481 1498	enoyl derivatives
+#8	AnnotatorNotes T40	Chemical class
+T41	Chemical 1500 1508	24:1-CoA
+T42	Chemical 1510 1518	26:1-CoA
+T43	Chemical 1547 1564	hexadecanoic acid
+T44	Chemical 1569 1587	tetracosanoic acid
+T45	Chemical 1589 1593	24:0
+R1	Binds_With Arg1:T33 Arg2:T34	
+R2	Binds_With Arg1:T32 Arg2:T34	
+R3	Binds_With Arg1:T37 Arg2:T34	
+R4	Binds_With Arg1:T38 Arg2:T34	
+R5	Binds_With Arg1:T39 Arg2:T34	
+R6	Binds_With Arg1:T40 Arg2:T34	
+R7	Binds_With Arg1:T41 Arg2:T34	
+R8	Binds_With Arg1:T42 Arg2:T34	
+T1	Biological_Activity 0 7	Binding
+R9	Binds_With Arg1:T2 Arg2:T4	
+R10	Binds_With Arg1:T2 Arg2:T5	
+T10	Biological_Activity 476 483	binding
+T11	Biological_Activity 1268 1272	bind
+T16	Biological_Activity 1521 1528	Binding

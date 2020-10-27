@@ -1,0 +1,5 @@
+T1	Disease 71 76	tumor
+T2	Disease 1331 1338	cancers
+T4	Plant 33 40	soybean
+T3	Treatment_of_disease 62 70	inhibits
+E1	Treatment_of_disease:T3 Theme:T1 Cause:T4

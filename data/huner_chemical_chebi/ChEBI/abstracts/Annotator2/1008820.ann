@@ -1,0 +1,36 @@
+T1	Chemical 23 39	deoxystreptamine
+T2	Species 60 80	Streptomyces fradiae
+T3	Chemical 108 123	[6(-3)H]glucose
+T4	Chemical 127 141	[U-14C]glucose
+T5	Metabolite 188 196	neomycin
+T6	Chemical 188 196	neomycin
+R1	Isolated_From Arg1:T5 Arg2:T2	
+T7	Chemical 207 215	neamines
+T8	Chemical 230 232	3H
+T9	Chemical 266 269	14C
+T10	Chemical 333 340	neamine
+T11	Chemical 358 374	deoxystreptamine
+T12	Species 384 424	Streptomyces rimosus forma paromomycinus
+T13	Chemical 430 438	neomycin
+T14	Chemical 444 456	paromomycin)
+T16	Metabolite 430 438	neomycin
+R2	Metabolite_Of Arg1:T16 Arg2:T10	
+T17	Chemical 478 480	3H
+T18	Chemical 482 485	14C
+T19	Chemical 500 508	neomycin
+T20	Metabolite 500 508	neomycin
+T21	Chemical 541 548	neamine
+T15	Chemical 579 587	neomycin
+T22	Metabolite 579 587	neomycin
+T23	Chemical 603 610	neamine
+T24	Chemical 654 656	3H
+T25	Chemical 657 660	14C
+T26	Chemical 674 682	neomycin
+T27	Metabolite 674 682	neomycin
+T28	Chemical 730 746	deoxystreptamine
+T29	Chemical 796 804	neomycin
+T30	Metabolite 796 804	neomycin
+T31	Chemical 877 884	neamine
+T32	Chemical 1013 1021	neomycin
+T33	Metabolite 1013 1021	neomycin
+T34	Chemical 1042 1049	neamine

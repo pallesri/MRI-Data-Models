@@ -1,0 +1,15 @@
+T1	Biological_Activity 4 14	antifungal
+T2	Chemical 27 39	eberconazole
+T3	Chemical 47 67	imidazole derivative
+T4	Species 103 110	Candida
+T5	Species 168 191	Cryptococcus neoformans
+T6	Chemical 217 229	clotrimazole
+T7	Chemical 234 246	ketoconazole
+R1	Associated_With Arg1:T6 Arg2:T1	
+R2	Associated_With Arg1:T7 Arg2:T1	
+T8	Chemical 256 268	eberconazole
+R3	Associated_With Arg1:T2 Arg2:T1	
+T9	Chemical 416 422	azoles
+T10	Species 439 453	Candida krusei
+T11	Species 458 474	Candida glabrata
+T12	Chemical 507 516	triazoles

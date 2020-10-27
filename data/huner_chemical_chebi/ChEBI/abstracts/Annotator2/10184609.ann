@@ -1,0 +1,27 @@
+T4	Biological_Activity 681 695	antidepressant
+T5	Chemical 671 696	tricyclic antidepressants
+T6	Chemical 698 702	TCAs
+T7	Chemical 758 768	sertraline
+T8	Biological_Activity 807 817	inhibitors
+T9	Chemical 778 817	selective serotonin reuptake inhibitors
+T10	Chemical 819 824	SSRIs
+T13	Chemical 927 931	TCAs
+T15	Chemical 1090 1100	sertraline
+T16	Biological_Activity 1105 1119	antidepressant
+T17	Chemical 1105 1125	antidepressant drugs
+R4	Associated_With Arg1:T15 Arg2:T16	
+T18	Chemical 1182 1192	sertraline
+T19	Chemical 1536 1546	sertraline
+T20	Chemical 1576 1580	TCAs
+T21	Chemical 1648 1658	fluoxetine
+T23	Chemical 1793 1803	sertraline
+T24	Chemical 1983 1993	sertraline
+T25	Chemical 2040 2044	TCAs
+T26	Chemical 2004 2009	SSRIs
+T28	Chemical 2186 2207	antidepressant agents
+T29	Biological_Activity 2186 2200	antidepressant
+T30	Chemical 2277 2287	Sertraline
+T31	Chemical 2349 2353	TCAs
+T32	Chemical 2364 2369	SSRIs
+T34	Chemical 2379 2402	treatment of depression
+R1	Associated_With Arg1:T7 Arg2:T8	

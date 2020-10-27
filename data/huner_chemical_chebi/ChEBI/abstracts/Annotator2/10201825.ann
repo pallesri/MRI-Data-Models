@@ -1,0 +1,8 @@
+T1	Chemical 38 67	benzisothiazolone-1,1-dioxide
+T2	Biological_Activity 91 101	inhibitors
+T3	Protein 74 90	serine  protease
+T4	Chemical 126 142	carboxylic acids
+T5	Chemical 148 192	N-(bromomethyl)benzisothiazolone-1,1-dioxide
+T6	Biological_Activity 302 311	inhibitor
+T7	Protein 283 301	mast cell tryptase
+T8	Species 277 282	human

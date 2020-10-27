@@ -1,0 +1,106 @@
+T2	Species 112 123	Individuals
+T4	Species 443 450	persons
+T5	Species 606 623	influenza viruses
+T6	Chemical 817 842	1,25-dihydroxy-vitamin D3
+T7	Chemical 858 868	calcitriol
+T8	Protein 892 900	cytokine
+T9	Species 936 943	animals
+T10	Species 948 954	humans
+T11	Chemical 978 988	calcitriol
+T13	Chemical 1130 1137	antigen
+T1	Biological_Activity 916 931	immune function
+R1	Associated_With Arg1:T6 Arg2:T1	
+R2	Associated_With Arg1:T7 Arg2:T1	
+T3	Chemical 1159 1169	Calcitriol
+T12	Species 1221 1225	mice
+T14	Protein 1260 1268	antibody
+T15	Chemical 1309 1319	calcitriol
+T16	Species 1363 1370	animals
+T17	Species 1659 1665	humans
+T18	Chemical 1798 1808	calcitriol
+T19	Species 1915 1920	human
+T20	Chemical 1954 1964	calcitriol
+T21	Species 2253 2263	volunteers
+T22	Chemical 2558 2568	calcitriol
+T23	Chemical 2634 2640	saline
+T24	Chemical 2911 2921	calcitriol
+T25	Chemical 2942 2952	calcitriol
+T26	Species 2997 3003	animal
+T27	Species 3064 3069	human
+T28	Species 3070 3080	volunteers
+T29	Chemical 3095 3105	calcitriol
+T30	Chemical 4340 4348	steroids
+T31	Chemical 4370 4380	calcitriol
+T32	Chemical 4409 4416	calcium
+T33	Chemical 4562 4572	calcitriol
+T34	Chemical 4806 4816	calcitriol
+T35	Chemical 4850 4857	calcium
+T36	Chemical 4862 4872	phosphorus
+T37	Chemical 5515 5525	calcitriol
+T38	Protein 5630 5656	receptor destroying enzyme
+T39	Biological_Activity 5823 5833	inhibition
+T40	Chemical 5905 5913	antigens
+T41	Chemical 5915 5919	H1N1
+T42	Chemical 5921 5925	H3N2
+T43	Chemical 6243 6251	antigens
+T44	Chemical 6252 6256	H1N1
+T45	Chemical 6258 6262	H3N2
+T46	Protein 6334 6342	Antibody
+T47	Protein 6373 6386	hemagglutinin
+T48	Biological_Activity 6419 6429	inhibition
+T49	Chemical 6507 6511	H1N1
+T50	Chemical 6497 6505	antigens
+T51	Chemical 6513 6517	H3N2
+T52	Chemical 5930 5931	B
+T53	Chemical 6267 6268	B
+T54	Chemical 6522 6523	B
+T55	Species 6726 6734	patients
+T56	Chemical 7500 7510	calcitriol
+T57	Species 7592 7600	students
+T58	Chemical 7661 7671	calcitriol
+T59	Chemical 7827 7834	calcium
+T60	Chemical 7854 7864	calcitriol
+T61	Chemical 8159 8169	calcitriol
+T62	Chemical 8478 8488	calcitriol
+T63	Chemical 9046 9056	calcitriol
+T64	Chemical 9198 9206	antigens
+T65	Chemical 9232 9242	calcitriol
+T66	Chemical 9555 9562	antigen
+T67	Chemical 9678 9688	calcitriol
+T68	Chemical 9785 9789	H1N1
+T69	Chemical 9791 9795	H3N2
+T70	Chemical 9799 9818	influenza B antigen
+T71	Chemical 9877 9895	influenza antigens
+T72	Chemical 9914 9924	calcitriol
+T73	Chemical 10039 10057	influenza antigens
+T74	Chemical 10087 10091	H1N1
+T75	Chemical 10093 10097	H3N2
+T76	Chemical 10282 10292	calcitriol
+T77	Chemical 10356 10374	influenza antigens
+T78	Chemical 10697 10707	calcitriol
+T79	Chemical 10840 10850	calcitriol
+T80	Chemical 10966 10972	saline
+T81	Chemical 10982 10992	Calcitriol
+T82	Chemical 11325 11335	calcitriol
+T83	Chemical 11520 11530	calcitriol
+T84	Chemical 11669 11679	calcitriol
+T85	Chemical 11859 11866	antigen
+T86	Species 12089 12097	students
+T87	Species 12126 12131	staff
+T88	Chemical 12512 12522	calcitriol
+T89	Chemical 12694 12704	calcitriol
+T90	Chemical 12813 12823	calcitriol
+T91	Chemical 13234 13244	calcitriol
+T92	Chemical 13403 13413	calcitriol
+T93	Chemical 13518 13528	calcitriol
+T94	Chemical 13534 13552	influenza antigens
+T95	Chemical 13736 13746	calcitriol
+T96	Protein 13904 13912	antibody
+T97	Species 13976 13980	mice
+T98	Protein 14016 14024	antibody
+T99	Chemical 14049 14059	calcitriol
+T100	Protein 14109 14119	antibodies
+T101	Chemical 14175 14185	calcitriol
+T102	Protein 14294 14304	antibodies
+T103	Chemical 14318 14328	calcitriol
+T104	Chemical 14559 14569	calcitriol

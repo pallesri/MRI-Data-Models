@@ -1,0 +1,23 @@
+T1	Disease 66 83	malignant lesions
+T2	Disease 220 231	lung cancer
+T3	Disease 352 363	lung cancer
+T4	Disease 504 521	malignant lesions
+T5	Disease 673 679	tumors
+T6	Disease 758 770	lung cancers
+T7	Disease 784 790	tumors
+T10	Plant 0 7	Tobacco
+T11	Plant 198 205	tobacco
+T12	Plant 399 406	tobacco
+T13	Plant 650 657	tobacco
+T14	Plant 967 974	tobacco
+T15	Plant 1034 1041	tobacco
+T16	Plant 1413 1420	tobacco
+T17	Cause_of_disease 57 65	produces
+E1	Cause_of_disease:T17 Cause:T10 Theme:T1
+T18	Cause_of_disease 212 219	induced
+E2	Cause_of_disease:T18 Cause:T11 Theme:T2
+T19	Cause_of_disease 625 632	exposed
+E3	Cause_of_disease:T19 Cause:T13 Theme:T5
+T8	Disease 1063 1073	lung tumor
+T20	Cause_of_disease 1023 1030	respond
+E4	Cause_of_disease:T20 Cause:T15 Theme:T8

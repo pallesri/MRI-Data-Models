@@ -1,0 +1,18 @@
+T1	Disease 234 243	pneumonia
+T2	Disease 339 348	pneumonia
+T3	Disease 683 689	cancer
+T4	Disease 691 712	myocardial infarction
+T5	Disease 886 895	pneumonia
+T6	Disease 995 1004	pneumonia
+T7	Disease 1051 1060	pneumonia
+T8	Disease 1469 1478	pneumonia
+T9	Plant 109 118	green tea
+T10	Plant 196 205	green tea
+T11	Plant 302 311	green tea
+T12	Plant 605 614	green tea
+T13	Plant 909 918	green tea
+T14	Plant 1112 1121	green tea
+T15	Plant 1400 1409	Green tea
+T16	Disease 714 720	stroke
+T17	Treatment_of_disease 1426 1436	associated
+E1	Treatment_of_disease:T17 Cause:T15 Theme:T8

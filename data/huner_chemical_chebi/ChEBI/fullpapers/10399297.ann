@@ -1,0 +1,541 @@
+T1	Chemical 1 10	Neu2en5Ac
+T2	Chemical 12 135	5-acetamido-2,6-anhydro-3,5-dideoxy-d -glycero -d -galacto -non-2-enonic acid, 2,3-dehydro-2-deoxy-N -acetylneuraminic acid
+T3	Chemical 137 138	1
+T4	Chemical 191 211	sialoglycoconjugates
+T5	Chemical 213 214	2
+T6	Chemical 232 238	Neu5Ac
+T7	Chemical 240 264	N -acetylneuraminic acid
+T8	Protein 273 282	sialidase
+T9	Chemical 266 267	3
+T10	Biological_Activity 298 307	inhibitor
+T11	Protein 316 325	sialidase
+T12	Metabolite 1 10	Neu2en5Ac
+T13	Metabolite 12 135	5-acetamido-2,6-anhydro-3,5-dideoxy-d -glycero -d -galacto -non-2-enonic acid, 2,3-dehydro-2-deoxy-N -acetylneuraminic acid
+T14	Metabolite 137 138	1
+R1	Associated_With Arg1:T14 Arg2:T10	
+R2	Associated_With Arg1:T3 Arg2:T10	
+T15	Chemical 334 343	Neu2en5Ac
+R3	Associated_With Arg1:T13 Arg2:T10	
+R4	Associated_With Arg1:T2 Arg2:T10	
+R5	Associated_With Arg1:T12 Arg2:T10	
+R6	Associated_With Arg1:T1 Arg2:T10	
+T16	Metabolite 334 343	Neu2en5Ac
+T17	Species 400 407	patient
+R7	Isolated_From Arg1:T16 Arg2:T17	
+R8	Binds_With Arg1:T14 Arg2:T11	
+R9	Binds_With Arg1:T3 Arg2:T11	
+R10	Binds_With Arg1:T13 Arg2:T11	
+R11	Binds_With Arg1:T2 Arg2:T11	
+R12	Binds_With Arg1:T12 Arg2:T11	
+R13	Binds_With Arg1:T1 Arg2:T11	
+T18	Chemical 565 575	metabolite
+T19	Metabolite 565 575	metabolite
+T20	Species 579 588	mammalian
+T21	Chemical 630 639	Neu2en5Ac
+T22	Metabolite 630 639	Neu2en5Ac
+R14	Isolated_From Arg1:T22 Arg2:T20	
+T23	Spectral_Data 678 680	MS
+R15	Associated_With Arg1:T22 Arg2:T23	
+R16	Associated_With Arg1:T21 Arg2:T23	
+T24	Protein 704 712	antibody
+T25	Chemical 716 725	Neu2en5Ac
+T26	Metabolite 716 725	Neu2en5Ac
+T27	Chemical 795 804	Neu2en5Ac
+T28	Metabolite 795 804	Neu2en5Ac
+T29	Biological_Activity 929 935	hapten
+T30	Biological_Activity 941 948	induces
+T31	Protein 949 959	antibodies
+T32	Chemical 963 972	Neu2en5Ac
+T33	Metabolite 963 972	Neu2en5Ac
+T34	Protein 994 997	MAb
+T35	Chemical 1014 1023	Neu2en5Ac
+T36	Metabolite 1014 1023	Neu2en5Ac
+T37	Chemical 929 935	hapten
+T38	Chemical 1091 1097	hapten
+T39	Biological_Activity 1091 1097	hapten
+T40	Chemical 1102 1119	carboxylate group
+T41	Chemical 1123 1129	Neu5Ac
+T42	Chemical 1229 1235	hapten
+T43	Biological_Activity 1229 1235	hapten
+T44	Chemical 1359 1367	Hapten 8
+T45	Biological_Activity 1359 1365	Hapten
+T46	Chemical 1390 1494	methyl 5-acetamido-4,7,8,9-tetra-O -acetyl-2,6-anhydro-3,5-dideoxy-d -glycero -d -galacto -non-2-enonate
+T47	Chemical 1496 1497	4
+T48	Chemical 1520 1530	Compound 4
+T49	Chemical 1549 1554	NaOMe
+T50	Chemical 1569 1596	p -toluenesulfonyl chloride
+T51	Chemical 1608 1626	tosyl derivative 5
+T52	Chemical 1642 1652	Compound 5
+T53	Chemical 1671 1689	azide derivative 6
+T54	Chemical 1709 1721	sodium azide
+T55	Chemical 1776 1794	azide derivative 6
+T56	Chemical 1799 1817	triphenylphosphine
+T57	Chemical 1827 1845	amino derivative 7
+T58	Chemical 1897 1915	amino derivative 7
+T59	Chemical 1934 1952	glutaric anhydride
+T60	Chemical 1964 1972	hapten 8
+T61	Biological_Activity 1964 1970	hapten
+T62	Biological_Activity 2001 2007	hapten
+T63	Chemical 2001 2009	hapten 8
+T64	Species 2016 2022	bovine
+T65	Protein 2016 2036	bovine serum albumin
+T66	Protein 2038 2041	BSA
+T67	Protein 2061 2071	hemocyanin
+T68	Species 2046 2060	keyhole limpet
+T69	Protein 2073 2076	KLH
+T70	Biological_Activity 2092 2098	hapten
+T71	Chemical 2092 2100	hapten 8
+T72	Protein 2113 2116	BSA
+T73	Protein 2120 2123	KLH
+T74	Chemical 2141 2184	1-ethyl-3-(3-diaminopropyl)carbodiimide HCl
+T75	Chemical 2191 2198	EDC·HCl
+T76	Species 2295 2299	mice
+T77	Biological_Activity 2300 2309	immunized
+T78	Protein 2315 2327	conjugate 10
+T79	Chemical 2410 2414	agar
+T80	Chemical 2460 2472	hypoxanthine
+T81	Chemical 2474 2485	aminopterin
+T82	Chemical 2491 2500	thymidine
+T83	Chemical 2531 2535	agar
+T84	Protein 2600 2606	enzyme
+T85	Protein 2653 2664	conjugate 9
+T86	Protein 2670 2676	fetuin
+T87	Biological_Activity 2690 2698	antigens
+T88	Chemical 2734 2738	agar
+T89	Protein 2834 2855	monoclonal antibodies
+T90	Protein 2857 2861	MAbs
+T91	Protein 2901 2911	antibodies
+T92	Biological_Activity 2922 2927	bound
+T93	Protein 2931 2937	fetuin
+T94	Protein 2991 2999	antibody
+T95	Biological_Activity 3005 3010	bound
+T96	Protein 3023 3034	conjugate 9
+T97	Protein 3050 3056	fetuin
+T98	Protein 2972 2978	SIC172
+T99	Protein 3069 3075	SIC172
+T100	Protein 3112 3118	SIC172
+T101	Protein 3119 3122	MAb
+T102	Protein 3157 3163	SIC172
+T103	Chemical 3301 3305	agar
+T104	Protein 3322 3326	MAbs
+T105	Protein 3350 3361	conjugate 9
+T106	Protein 3377 3383	fetuin
+T107	Protein 3390 3396	SIC172
+T108	Protein 3397 3400	MAb
+T109	Biological_Activity 3443 3450	binding
+T110	Protein 3465 3471	SIC172
+T111	Protein 3472 3475	MAb
+T112	Protein 3500 3511	conjugate 9
+T113	Protein 3517 3523	fetuin
+T114	Protein 3560 3564	SIC4
+T115	Protein 3565 3568	MAb
+T116	Biological_Activity 3574 3579	bound
+T117	Protein 3592 3601;3607 3608	conjugate 9
+T118	Protein 3614 3620	fetuin
+T119	Protein 3635 3641	SIC172
+T120	Protein 3642 3645	MAb
+T121	Biological_Activity 3659 3666	binding
+T122	Protein 3670 3681	conjugate 9
+T123	Biological_Activity 3818 3823	binds
+T124	Protein 3836 3842	fetuin
+T125	Protein 3974 3978	SIC4
+T126	Protein 3980 3981	A
+T127	Protein 3991 4002	conjugate 9
+T128	Protein 4008 4014	fetuin
+T129	Metabolite 4031 4040	Neu2en5Ac
+T130	Chemical 4031 4040	Neu2en5Ac
+T131	Chemical 4045 4051	Neu5Ac
+T132	Biological_Activity 4059 4066	binding
+T133	Protein 4070 4076	SIC172
+T134	Protein 4077 4080	MAb
+T135	Protein 4107 4118	conjugate 9
+T136	Chemical 4144 4152	Neu2en5A
+T137	Metabolite 4144 4152	Neu2en5A
+T138	Protein 4180 4191	conjugate 9
+T139	Chemical 4219 4228	Neu2en5Ac
+T140	Metabolite 4219 4228	Neu2en5Ac
+T141	Biological_Activity 4278 4285	binding
+T142	Biological_Activity 4341 4351	suppressed
+T143	Biological_Activity 4356 4363	binding
+R17	Associated_With Arg1:T140 Arg2:T141	
+R18	Associated_With Arg1:T139 Arg2:T141	
+R19	Associated_With Arg1:T140 Arg2:T142	
+R20	Associated_With Arg1:T139 Arg2:T142	
+T144	Chemical 4387 4396	Neu2en5Ac
+T145	Metabolite 4387 4396	Neu2en5Ac
+T146	Biological_Activity 4431 4438	binding
+T147	Protein 4442 4448	SIC172
+T148	Protein 4449 4452	MAb
+T149	Protein 4456 4467	conjugate 9
+T150	Chemical 4477 4483	Neu5Ac
+T151	Biological_Activity 4509 4516	binding
+T152	Biological_Activity 4572 4579	binding
+T153	Chemical 4605 4614	Neu2en5Ac
+T154	Metabolite 4605 4614	Neu2en5Ac
+R21	Associated_With Arg1:T150 Arg2:T152	
+R22	Associated_With Arg1:T150 Arg2:T152	
+T155	Biological_Activity 4630 4637	binding
+T156	Protein 4641 4647	SIC172
+T157	Protein 4648 4651	MAb
+T158	Protein 4655 4666	conjugate 9
+T159	Chemical 4684 4693	Neu2en5Ac
+T160	Metabolite 4684 4693	Neu2en5Ac
+T161	Protein 4806 4809	MAb
+T162	Chemical 4831 4837	Neu5Ac
+T163	Chemical 4873 4884	sialic acid
+T164	Protein 4999 5005	SIC172
+T165	Protein 5006 5009	MAb
+T166	Chemical 5047 5056	Neu2en5Ac
+T167	Metabolite 5047 5056	Neu2en5Ac
+T168	Protein 5082 5085	MAb
+T169	Biological_Activity 5118 5122	bind
+T170	Biological_Activity 5135 5142	antigen
+T171	Protein 5180 5183	MAb
+T172	Chemical 5231 5237	hapten
+T173	Biological_Activity 5231 5237	hapten
+T174	Protein 5300 5306	SIC172
+T175	Protein 5307 5310	MAb
+T176	Biological_Activity 5326 5333	binding
+T177	Protein 5346 5352	SIC172
+T178	Protein 5353 5356	MAb
+T179	Protein 5385 5392	protein
+T180	Chemical 5402 5409	agarose
+T181	Biological_Activity 5431 5438	binding
+T182	Protein 5464 5470	SIC172
+T183	Protein 5471 5474	MAb
+T184	Protein 5490 5501	conjugate 9
+T185	Protein 5510 5516	fetuin
+T186	Protein 5548 5551	MAb
+T187	Biological_Activity 5552 5557	bound
+T188	Protein 5561 5572	conjugate 9
+T189	Protein 5591 5594	MAb
+T190	Biological_Activity 5687 5692	bound
+T191	Protein 5701 5707	fetuin
+T192	Biological_Activity 5713 5720	binding
+T193	Protein 5724 5730	fetuin
+T194	Protein 5764 5775	conjugate 9
+T195	Chemical 5822 5829	haptens
+T196	Biological_Activity 5822 5829	haptens
+T197	Biological_Activity 5837 5844	binding
+R23	Associated_With Arg1:T44 Arg2:T45	
+T198	Protein 5857 5863	SIC172
+T199	Protein 5864 5867	MAb
+T200	Protein 5876 5887	conjugate 9
+T201	Protein 5896 5902	fetuin
+T202	Protein 5937 5948	conjugate 9
+T203	Biological_Activity 5926 5933	binding
+T204	Chemical 5997 6006	Neu2en5Ac
+T205	Metabolite 5997 6006	Neu2en5Ac
+T206	Protein 6039 6045	SIC172
+T207	Protein 6046 6049	MAb
+T208	Chemical 6055 6061	Neu5Ac
+T209	Biological_Activity 6100 6107	binding
+T210	Chemical 6123 6132	Neu2en5Ac
+T211	Metabolite 6123 6132	Neu2en5Ac
+T212	Biological_Activity 6137 6144	binding
+T213	Protein 6148 6154	fetuin
+R24	Associated_With Arg1:T195 Arg2:T197	
+T214	Chemical 6195 6204	Neu2en5Ac
+T215	Metabolite 6195 6204	Neu2en5Ac
+T216	Chemical 6209 6215	Neu5Ac
+T217	Protein 6233 6236	MAb
+R25	Binds_With Arg1:T215 Arg2:T213	
+R26	Binds_With Arg1:T214 Arg2:T213	
+R27	Binds_With Arg1:T216 Arg2:T213	
+T218	Chemical 6256 6265	Neu2en5Ac
+T219	Metabolite 6256 6265	Neu2en5Ac
+T220	Chemical 6316 6322	Neu5Ac
+T221	Chemical 6403 6410	haptens
+T222	Biological_Activity 6403 6410	haptens
+T223	Protein 6425 6431	fetuin
+T224	Protein 6433 6436	IgG
+T225	Protein 3127 3131	IgG3
+T226	Chemical 6441 6448	haptens
+T227	Biological_Activity 6441 6448	haptens
+T228	Protein 6526 6529	BSA
+T229	Protein 6560 6563	IgG
+T230	Protein 6586 6592	fetuin
+T231	Chemical 6633 6636	HCl
+T232	Chemical 6656 6668	sialic acids
+T233	Chemical 6678 6693	sialo-compounds
+T234	Protein 6712 6715	BSA
+T235	Chemical 6717 6726	Neu2en5Ac
+T236	Metabolite 6717 6726	Neu2en5Ac
+T237	Chemical 6823 6829	Neu5Ac
+T238	Protein 6899 6905	SIC172
+T239	Protein 6906 6909	MAb
+T240	Biological_Activity 6939 6943	bind
+T241	Protein 6947 6953	fetuin
+T242	Chemical 6978 6984	Neu5Ac
+T243	Protein 6986 6992	SIC172
+T244	Protein 6993 6996	MAb
+T245	Chemical 7012 7018	Neu5Ac
+T246	Protein 7039 7045	fetuin
+T247	Chemical 7047 7056	Neu2en5Ac
+T248	Metabolite 7047 7056	Neu2en5Ac
+T249	Chemical 7105 7111	Neu5Ac
+T250	Protein 7129 7135	SIC172
+T251	Protein 7136 7139	MAb
+T252	Chemical 7161 7170	Neu2en5Ac
+T253	Metabolite 7161 7170	Neu2en5Ac
+T254	Chemical 7179 7185	Neu5Ac
+R28	Binds_With Arg1:T253 Arg2:T250	
+R29	Binds_With Arg1:T252 Arg2:T250	
+R30	Binds_With Arg1:T254 Arg2:T250	
+T255	Chemical 7211 7220	Neu2en5Ac
+T256	Metabolite 7211 7220	Neu2en5Ac
+T257	Protein 7260 7263	MAb
+T258	Biological_Activity 7283 7290	binding
+T259	Protein 7294 7300	fetuin
+T260	Protein 7307 7310	MAb
+T261	Chemical 7364 7373	Neu2en5Ac
+T262	Metabolite 7364 7373	Neu2en5Ac
+T263	Chemical 7435 7444	Neu2en5Ac
+T264	Metabolite 7435 7444	Neu2en5Ac
+T265	Metabolite 232 238	Neu5Ac
+T266	Metabolite 1123 1129	Neu5Ac
+T267	Metabolite 4045 4051	Neu5Ac
+T268	Metabolite 4477 4483	Neu5Ac
+T269	Metabolite 4831 4837	Neu5Ac
+T270	Metabolite 6055 6061	Neu5Ac
+T271	Metabolite 6209 6215	Neu5Ac
+R31	Binds_With Arg1:T216 Arg2:T213	
+T272	Metabolite 6316 6322	Neu5Ac
+T273	Metabolite 6823 6829	Neu5Ac
+T274	Metabolite 6978 6984	Neu5Ac
+T275	Metabolite 7012 7018	Neu5Ac
+T276	Metabolite 7105 7111	Neu5Ac
+T277	Metabolite 7179 7185	Neu5Ac
+R32	Binds_With Arg1:T277 Arg2:T250	
+T278	Chemical 7450 7456	Neu5Ac
+T279	Metabolite 7450 7456	Neu5Ac
+T280	Metabolite 7549 7555	Neu5Ac
+T281	Metabolite 7654 7660	Neu5Ac
+T282	Chemical 7549 7555	Neu5Ac
+T283	Chemical 7476 7486	silica gel
+T284	Chemical 7609 7618	Neu2en5Ac
+T285	Metabolite 7609 7618	Neu2en5Ac
+T286	Chemical 7656 7657	u
+T287	Biological_Activity 7670 7675	bound
+T288	Chemical 7722 7734	carbohydrate
+T289	Protein 7745 7751	fetuin
+T290	Protein 7773 7779	SIC172
+T291	Protein 7780 7783	MAb
+T292	Biological_Activity 7808 7820	immunization
+T293	Chemical 7826 7835	Neu2en5Ac
+T294	Metabolite 7826 7835	Neu2en5Ac
+T295	Biological_Activity 7845 7850	bound
+T296	Chemical 7905 7915	amino acid
+T297	Protein 7928 7934	SIC172
+T298	Protein 7935 7938	MAb
+T299	Protein 7963 7966	MAb
+T300	Spectral_Data 8057 8072	1 H NMR spectra
+T301	Chemical 8218 8221	HOD
+T302	Spectral_Data 8330 8358	High-resolution mass spectra
+T303	Spectral_Data 8360 8365	HR-MS
+T304	Chemical 8495 8505	Silica Gel
+T305	Chemical 8570 8576	H2 SO4
+T306	Chemical 8581 8585	MeOH
+T307	Chemical 8602 8679	5-Acetamido-2,6-anhydro-3,5-dideoxy-d -glycero -d -galacto -non-2-enonic acid
+T308	Chemical 8681 8690	Neu2en5Ac
+T309	Metabolite 8681 8690	Neu2en5Ac
+T310	Chemical 8692 8698	Neu5Ac
+T311	Metabolite 8692 8698	Neu5Ac
+T312	Protein 8704 8710	fetuin
+T313	Chemical 8749 8847	Methyl 5-acetamido-2,6-anhydro-3,5-dideoxy-9-p-toluenesulfonyl-d -glycero-d -galacto-non-2-enonate
+T314	Chemical 8849 8850	5
+T315	Chemical 8870 8974	methyl 5-acetamido-4,7,8,9-tetra-O -acetyl-2,6-anhydro-3,5-dideoxy-d -glycero -d -galacto -non-2-enonate
+T316	Chemical 8976 8977	4
+T317	Chemical 9013 9017	MeOH
+T318	Chemical 9036 9041	NaOMe
+T319	Chemical 9166 9183	Dowex 50W×8 resin
+T320	Chemical 9211 9216	water
+T321	Chemical 9281 9288	residue
+T322	Chemical 9348 9355	residue
+T323	Chemical 9359 9367	pyridine
+T324	Chemical 9386 9413	p -toluenesulfonyl chloride
+T325	Chemical 9497 9501	MeOH
+T326	Chemical 9593 9600	residue
+T327	Chemical 9616 9626	silica gel
+T328	Chemical 9633 9638	EtOAc
+T329	Chemical 9639 9643	MeOH
+T330	Chemical 9697 9701	MeOH
+T331	Spectral_Data 9704 9709	HR-MS
+T332	Chemical 9732 9748	C19 H25 NO10 SNa
+T333	Chemical 9653 9654	5
+R33	Associated_With Arg1:T333 Arg2:T331	
+R34	Associated_With Arg1:T313 Arg2:T302	
+R35	Associated_With Arg1:T307 Arg2:T303	
+T334	Spectral_Data 9786 9798	1 H NMR data
+R36	Associated_With Arg1:T313 Arg2:T300	
+R37	Associated_With Arg1:T333 Arg2:T334	
+T335	Chemical 9861 9947	5-Acetamido-2,6-anhydro-9-azido-3,5,9-trideoxy-d -glycero-d -galacto-non-2-enonic acid
+T336	Chemical 9949 9950	6
+T337	Chemical 9970 9971	5
+T338	Chemical 9996 9999	DMF
+T339	Chemical 10017 10029	sodium azide
+T340	Chemical 10186 10196	silica gel
+T341	Chemical 10203 10208	EtOAc
+T342	Chemical 10209 10213	MeOH
+T343	Chemical 10223 10241	azide derivative 6
+T344	Spectral_Data 10253 10422	{1 H NMR (D2 O): δ  5.91 (d, 1 H, J  2.64 Hz, H-3), 3.76 (s, 3 H, OMe), 3.54 (dd, 1 H, J  2.64, 13.2 Hz, H-9a), 3.37 (dd, 1 H, J  6.6, 13.2 Hz, H-9b), 2.03 (s, 3 H, Ac)}
+T345	Chemical 10263 10267	D2 O
+T346	Chemical 10319 10322	OMe
+R38	Associated_With Arg1:T343 Arg2:T344	
+T347	Chemical 10418 10420	Ac
+T348	Chemical 10223 10228	azide
+T349	Chemical 10428 10433	azide
+T350	Chemical 10428 10444	azide derivative
+T351	Chemical 10472 10476	NaOH
+T352	Chemical 10477 10481	MeOH
+T353	Chemical 10593 10611	Dowex 50 W×8 resin
+T354	Chemical 10688 10695	residue
+T355	Chemical 10711 10721	silica gel
+T356	Chemical 10727 10732	EtOAc
+T357	Chemical 10733 10737	MeOH
+T358	Chemical 10747 10748	6
+T359	Chemical 10791 10795	MeOH
+T360	Spectral_Data 10798 10803	HR-MS
+T361	Chemical 10826 10842	C11 H16 N4 O7 Na
+T362	Chemical 10844 10851	Na salt
+R39	Associated_With Arg1:T358 Arg2:T360	
+T363	Chemical 10896 10980	Acetamido-9-amino-2,6-anhydro-3,5,9-trideoxy-d -glycero-d -galacto-non-2-enonic acid
+R40	Associated_With Arg1:T335 Arg2:T344	
+R41	Associated_With Arg1:T335 Arg2:T360	
+T364	Chemical 10982 10983	7
+T365	Chemical 11003 11021	azide derivative 6
+T366	Chemical 11003 11008	azide
+T367	Chemical 11049 11056	dioxane
+T368	Chemical 11062 11066	H2 O
+T369	Chemical 11086 11104	triphenylphosphine
+T370	Chemical 11244 11251	residue
+T371	Chemical 11267 11277	silica gel
+T372	Chemical 11285 11290	EtOAc
+T373	Chemical 11291 11295	MeOH
+T374	Chemical 11296 11300	H2 O
+T375	Chemical 11310 11328	amino derivative 7
+T376	Spectral_Data 11376 11381	HR-MS
+T377	Chemical 11404 11417	C11 H19 N2 O7
+R42	Associated_With Arg1:T375 Arg2:T376	
+R43	Associated_With Arg1:T363 Arg2:T376	
+T378	Chemical 11460 11552	5-Acetamido-2,6-anhydro-9-glutaramido-3,5,9-trideoxy-d -glycero-d -galacto-non-2-enonic acid
+T379	Chemical 11554 11555	8
+T380	Chemical 11575 11593	amino derivative 7
+T381	Chemical 11624 11628	MeOH
+T382	Chemical 11629 11633	H2 O
+T383	Chemical 11634 11639	Et3 N
+T384	Chemical 11659 11682	glutaric acid anhydride
+T385	Chemical 11823 11830	residue
+T386	Chemical 11846 11856	silica gel
+T387	Chemical 11864 11869	EtOAc
+T388	Chemical 11870 11874	MeOH
+T389	Chemical 11875 11879	H2 O
+T390	Chemical 11889 11907	amino derivative 8
+T391	Chemical 11369 11373	H2 O
+T392	Chemical 11947 11951	MeOH
+T393	Spectral_Data 11954 11959	HR-MS
+T394	Chemical 11982 11999	C16 H24 N2 O10 Na
+T395	Chemical 12001 12008	Na salt
+R44	Associated_With Arg1:T390 Arg2:T393	
+R45	Associated_With Arg1:T378 Arg2:T393	
+T396	Protein 12051 12062	Conjugate 9
+T397	Chemical 12114 12124	Compound 8
+T398	Chemical 12159 12163	H2 O
+T399	Chemical 12244 12250	NaHCO3
+T400	Protein 12280 12283	BSA
+T401	Chemical 12309 12316	EDC·HCl
+T402	Chemical 12476 12480	H2 O
+T403	Protein 12507 12510	BSA
+T404	Protein 12581 12584	KLH
+T405	Chemical 12602 12606	H2 O
+T406	Protein 12695 12698	KLH
+T407	Protein 12745 12757	conjugate 10
+T408	Protein 12819 12830	conjugate 9
+T409	Protein 12848 12860	Conjugate 10
+T410	Chemical 12896 12899	PBS
+T411	Chemical 12962 12966	GMDP
+T412	Chemical 12977 13025	N,N ′-dimethyl-N,N -dioctadecylammonium chloride
+T413	Chemical 13042 13060	Zn-proline complex
+T414	Species 13097 13118	MRL/MpJ-lpr/lpr  mice
+T415	Biological_Activity 13168 13177	immunized
+T417	Biological_Activity 13211 13218	antigen
+T416	Protein 13264 13276	conjugate 10
+T418	Species 13283 13287	mice
+T419	Biological_Activity 13301 13310	immunized
+T420	Biological_Activity 13367 13379	immunization
+T421	Protein 13394 13404	antibodies
+T422	Biological_Activity 13410 13415	bound
+T423	Protein 13419 13430	conjugate 9
+T424	Species 13500 13504	mice
+T425	Biological_Activity 13505 13514	immunized
+T426	Biological_Activity 13538 13550	immunization
+T427	Species 13599 13603	mice
+T428	Chemical 13679 13698	polyethylene glycol
+T429	Chemical 13812 13819	glucose
+T430	Chemical 13872 13884	hypoxanthine
+T431	Chemical 13893 13904	aminopterin
+T432	Chemical 13916 13925	thymidine
+T433	Chemical 13947 13950	FBS
+T434	Chemical 14011 14015	agar
+T436	Chemical 14084 14096	hypoxanthine
+T437	Chemical 14107 14116	thymidine
+T435	Protein 14194 14197	MAb
+T438	Protein 14215 14226	conjugate 9
+T439	Protein 14238 14244	fetuin
+T440	Protein 14349 14363	immunoglobulin
+T441	Species 14398 14403	Mouse
+T442	Protein 14463 14466	IgG
+T443	Protein 14467 14470	IgG
+T444	Chemical 14520 14536	ammonium sulfate
+T445	Biological_Activity 14592 14599	binding
+T446	Protein 14625 14632	protein
+T447	Chemical 14642 14649	agarose
+T448	Protein 14686 14689	IgG
+T449	Chemical 14706 14713	acetate
+T450	Chemical 14734 14741	glycine
+T451	Chemical 14742 14745	HCl
+T452	Chemical 14796 14805	Tris base
+T453	Protein 14840 14851	conjugate 9
+T454	Protein 14898 14904	fetuin
+T455	Chemical 14921 14927	Neu5Ac
+T456	Metabolite 14921 14927	Neu5Ac
+T457	Chemical 14954 14957	PBS
+T458	Biological_Activity 15062 15069	Antigen
+T459	Protein 15105 15108	BSA
+T460	Chemical 15112 15115	PBS
+T461	Chemical 15134 15142	Tween 20
+T462	Chemical 15146 15149	PBS
+T463	Protein 15220 15223	IgG
+T464	Protein 15256 15259	BSA
+T465	Chemical 15263 15266	PBS
+T466	Protein 15294 15297	MAb
+T467	Protein 15345 15348	BSA
+T468	Chemical 15421 15424	HCl
+T469	Chemical 15480 15483	PBS
+T470	Chemical 15498 15510	sialic acids
+T471	Protein 15550 15553	BSA
+T472	Chemical 15516 15531	sialo-compounds
+T473	Chemical 15578 15587	Neu2en5Ac
+T474	Metabolite 15578 15587	Neu2en5Ac
+T475	Chemical 15592 15598	Neu5Ac
+T476	Metabolite 15592 15598	Neu5Ac
+T477	Chemical 15623 15626	PBS
+T478	Chemical 15688 15692	NaOH
+T479	Chemical 15749 15752	PBS
+T480	Protein 15784 15787	IgG
+T481	Chemical 15872 15881	Neu2en5Ac
+T482	Metabolite 15872 15881	Neu2en5Ac
+T483	Chemical 15885 15891	Neu5Ac
+T484	Metabolite 15885 15891	Neu5Ac
+T485	Biological_Activity 16018 16025	antigen
+T486	Species 16051 16056	sheep
+T487	Species 16062 16067	mouse
+T488	Protein 16068 16083	immunoglobulins
+T489	Protein 16084 16092	antibody
+T490	Protein 16039 16092	POD-labeled sheep anti-mouse-immunoglobulins antibody
+T491	Protein 16117 16125	antibody
+T492	Protein 16127 16137	Peroxidase
+T493	Biological_Activity 16127 16137	Peroxidase
+T494	Chemical 16165 16184	o -phenylenediamine
+T495	Chemical 16189 16194	H2 O2
+T496	Spectral_Data 16418 16436	mass spectroscopic

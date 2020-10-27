@@ -1,0 +1,33 @@
+T2	Disease 359 368	arthritis
+T3	Disease 431 440	arthritis
+T5	Disease 574 594	synovial hyperplasia
+T6	Disease 903 908	tumor
+T7	Disease 1483 1492	arthritis
+T9	Plant 0 7	Ginseng
+T8	Plant 21 34	Panax ginseng
+T1	Disease 265 318	murine type II collagen (CII)-induced arthritis (CIA)
+T10	Disease 471 474	CIA
+T4	Disease 534 543	arthritis
+T11	Disease 596 626	inflammatory cell infiltration
+T12	Disease 628 644	pannus formation
+T13	Disease 650 670	erosion of cartilage
+T14	Disease 835 838	CIA
+T16	Disease 1178 1181	CIA
+T18	Plant 393 397	RGSE
+T19	Treatment_of_disease 410 417	reduced
+E1	Treatment_of_disease:T19 Cause:T18 Theme:T3
+T20	Plant 672 676	RGSE
+T21	Plant 865 869	RGSE
+T22	Disease 960 963	CIA
+T23	Plant 1111 1115	RGSE
+T24	Plant 1201 1205	RGSE
+T25	Treatment_of_disease 1221 1230	protected
+E2	Treatment_of_disease:T25 Cause:T24 Theme:T17
+T17	Disease 1239 1274	CIA-induced oxidative tissue damage
+T26	Plant 1423 1427	RGSE
+T27	Treatment_of_disease 1469 1476	improve
+E3	Treatment_of_disease:T27 Cause:T26 Theme:T7
+T28	Treatment_of_disease 875 882	reduced
+E4	Treatment_of_disease:T28 Theme:T6 Cause:T21
+T15	Plant 167 182	ginseng saponin
+T29	Plant 192 196	RGSE

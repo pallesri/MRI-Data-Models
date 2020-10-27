@@ -1,0 +1,560 @@
+T1	Species 1 15	Enterobacteria
+T2	Species 29 38	Proteus  
+T4	Species 88 93	human
+T3	Chemical 211 229	Lipopolysaccharide
+T5	Chemical 236 245	endotoxin
+T6	Chemical 231 234	LPS
+T7	Species 296 305	Proteus  
+T8	Species 338 347	bacterial
+T9	Metabolite 236 245	endotoxin
+T10	Metabolite 231 234	LPS
+T11	Metabolite 211 229	Lipopolysaccharide
+R1	Isolated_From Arg1:T9 Arg2:T7	
+R2	Isolated_From Arg1:T10 Arg2:T7	
+R3	Isolated_From Arg1:T11 Arg2:T7	
+T12	Chemical 401 404	LPS
+T13	Metabolite 401 404	LPS
+T14	Chemical 435 440	lipid
+T15	Chemical 447 454	lipid A
+T16	Metabolite 447 454	lipid A
+T17	Chemical 470 473	LPS
+T18	Metabolite 470 473	LPS
+T19	Biological_Activity 525 537	endotoxicity
+T20	Chemical 545 548	LPS
+T21	Metabolite 545 548	LPS
+R4	Associated_With Arg1:T21 Arg2:T19	
+R5	Associated_With Arg1:T20 Arg2:T19	
+R6	Associated_With Arg1:T16 Arg2:T19	
+R7	Associated_With Arg1:T15 Arg2:T19	
+T22	Metabolite 553 568	oligosaccharide
+T23	Chemical 553 568	oligosaccharide
+T24	Chemical 589 614	O-specific polysaccharide
+T25	Metabolite 589 614	O-specific polysaccharide
+T26	Chemical 622 625	OPS
+T27	Metabolite 622 625	OPS
+T28	Chemical 627 636	O-antigen
+T29	Metabolite 627 636	O-antigen
+T30	Biological_Activity 656 673	immunospecificity
+R8	Associated_With Arg1:T29 Arg2:T30	
+R9	Associated_With Arg1:T28 Arg2:T30	
+R10	Associated_With Arg1:T27 Arg2:T30	
+R11	Associated_With Arg1:T26 Arg2:T30	
+R12	Associated_With Arg1:T25 Arg2:T30	
+R13	Associated_With Arg1:T24 Arg2:T30	
+T31	Species 681 690	bacterium
+T32	Chemical 712 722	O-antigens
+T33	Metabolite 712 722	O-antigens
+T34	Species 735 744	Proteus  
+T35	Biological_Activity 980 989	antigenic
+T36	Biological_Activity 1030 1044	Immunochemical
+T37	Chemical 1056 1060	LPSs
+T38	Metabolite 1056 1060	LPSs
+T39	Species 1209 1218	Proteus  
+T40	Chemical 1248 1252	LPSs
+T41	Metabolite 1248 1252	LPSs
+T42	Species 1261 1270	Proteus  
+T43	Chemical 1291 1295	OPSs
+T44	Metabolite 1291 1295	OPSs
+T45	Chemical 1338 1351	acidic sugars
+T46	Chemical 1356 1376	non-sugar components
+T47	Species 1395 1411	Proteus vulgaris
+T48	Species 1417 1432	Proteus penneri
+T49	Chemical 1345 1351	sugars
+T50	Chemical 1360 1365	sugar
+T51	Chemical 1447 1451	OPSs
+T52	Metabolite 1447 1451	OPSs
+T53	Chemical 1495 1499	OPSs
+T54	Metabolite 1495 1499	OPSs
+R14	Isolated_From Arg1:T52 Arg2:T48	
+R15	Isolated_From Arg1:T52 Arg2:T47	
+T55	Species 1547 1564	Proteus mirabilis
+R16	Isolated_From Arg1:T54 Arg2:T55	
+T56	Species 1738 1743	human
+T57	Biological_Activity 1755 1769	Immunochemical
+T58	Chemical 1785 1789	OPSs
+T59	Metabolite 1785 1789	OPSs
+T60	Chemical 1794 1798	LPSs
+T61	Metabolite 1794 1798	LPSs
+T62	Biological_Activity 1837 1844	epitope
+T63	Protein 1879 1898	anti-LPS antibodies
+T64	Species 1920 1937	P. mirabilis  O24
+T65	Species 1990 1999	Bacterial
+T66	Chemical 2042 2046	LPSs
+T67	Metabolite 2042 2046	LPSs
+T68	Species 2047 2064;2069 2072	P. mirabilis  O24 O29
+T69	Species 2047 2059	P. mirabilis
+T70	Species 2047 2059;2082 2091	P. mirabilis PrK 47/57
+T71	Species 2047 2059;2082 2085;2096 2101	P. mirabilis PrK 52/57
+T72	Chemical 2232 2236	LPSs
+T73	Metabolite 2232 2236	LPSs
+T74	Chemical 2261 2267	phenol
+T75	Chemical 2268 2273	water
+T76	Protein 2320 2325	DNAse
+T77	Protein 2330 2335	RNAse
+T78	Chemical 2407 2411	LPSs
+T79	Metabolite 2407 2411	LPSs
+T80	Chemical 2437 2450	nucleic acids
+T81	Protein 2469 2477	proteins
+T82	Chemical 2499 2503	LPSs
+T83	Metabolite 2499 2503	LPSs
+T84	Chemical 2534 2545	acetic acid
+T85	Chemical 2731 2749	pyridinium acetate
+T86	Chemical 2875 2878	OPS
+T87	Metabolite 2875 2878	OPS
+T88	Chemical 2888 2903	oligosaccharide
+T89	Metabolite 2888 2903	oligosaccharide
+T90	Chemical 2915 2921	Alkali
+T91	Chemical 2930 2934	LPSs
+T92	Metabolite 2930 2934	LPSs
+T93	Chemical 2974 2978	LPSs
+T94	Metabolite 2974 2978	LPSs
+T95	Chemical 2999 3003	NaOH
+T96	Chemical 3042 3048	alkali
+T97	Chemical 3057 3060	LPS
+T98	Metabolite 3057 3060	LPS
+T99	Species 3066 3083	P. mirabilis  O24
+T100	Chemical 3109 3116	NaIO4  
+T101	Chemical 3182 3189	NaBH4  
+T102	Spectral_Data 3225 3241	NMR spectroscopy
+T103	Spectral_Data 3242 3253	NMR spectra
+T104	Chemical 3321 3325	D2 O
+T105	Chemical 3355 3362	acetone
+T106	Spectral_Data 3476 3484	NMR data
+T107	Spectral_Data 3546 3551	TOCSY
+T108	Spectral_Data 3556 3561	NOESY
+T109	Species 3579 3596	P. mirabilis  O29
+T110	Chemical 3597 3600	OPS
+T111	Metabolite 3597 3600	OPS
+T112	Spectral_Data 3631 3636	NOESY
+T113	Species 3653 3670	P. mirabilis  O24
+T114	Chemical 3671 3674	OPS
+T115	Metabolite 3671 3674	OPS
+T116	Spectral_Data 3689 3705	13 C-NMR spectra
+T117	Spectral_Data 3680 3684;3694 3705	1 H- NMR spectra
+T118	Spectral_Data 3742 3746	COSY
+T119	Spectral_Data 3748 3753	TOCSY
+T120	Spectral_Data 3770 3819	1 H,13 C heteronuclear multiple-quantum coherence
+T121	Spectral_Data 3821 3825	HMQC
+T122	Chemical 3867 3873	sugars
+T123	Spectral_Data 3952 3957	NOESY
+T124	Chemical 3986 4001	monosaccharides
+T125	Chemical 4074 4086	Amino sugars
+T126	Chemical 4136 4142	carbon
+T127	Chemical 4152 4160	nitrogen
+T128	Chemical 4182 4188	carbon
+T129	Spectral_Data 4227 4240	1 H,13 C HMQC
+T130	Spectral_Data 3770 3778;3821 3825	1 H,13 C HMQC
+T131	Chemical 4258 4263	Sugar
+T132	Chemical 4277 4281	OPSs
+T133	Metabolite 4277 4281	OPSs
+T134	Chemical 4307 4315	CF3 COOH
+T135	Chemical 4332 4340	methanol
+T136	Chemical 4354 4357	HCl
+T137	Chemical 4358 4362	MeOH
+T138	Chemical 4377 4389	Amino sugars
+T139	Chemical 4429 4439	amino acid
+T140	Chemical 4514 4535	cation-exchange resin
+T141	Chemical 4549 4563	sodium citrate
+T142	Chemical 4588 4602	Neutral sugars
+T143	Chemical 4642 4647	sugar
+T144	Chemical 4704 4724	anion-exchange resin
+T145	Chemical 4735 4748	sodium borate
+T146	Chemical 4772 4784	Uronic acids
+T147	Chemical 4809 4837	acetylated methyl glycosides
+T148	Chemical 5017 5032	monosaccharides
+T149	Chemical 5059 5093	acetylated (S )-2-butyl glycosides
+T150	Species 5213 5219	Rabbit
+T151	Chemical 5258 5266	antigens
+T152	Metabolite 5258 5266	antigens
+T153	Species 5270 5279	Proteus  
+T154	Species 5324 5342	New Zealand rabbit
+T155	Species 5389 5397	bacteria
+T156	Species 5553 5559	rabbit
+T157	Species 5667 5672	Human
+T158	Species 5734 5742	patients
+T159	Species 5860 5865	human
+T160	Species 5869 5875	rabbit
+T161	Chemical 5917 5925	antigens
+T162	Metabolite 5917 5925	antigens
+T163	Chemical 5927 5930	LPS
+T164	Metabolite 5927 5930	LPS
+T165	Species 5934 5943	Proteus  
+T166	Protein 5967 5977	antibodies
+T167	Chemical 5999 6021	horseradish peroxidase
+T168	Protein 6077 6089	Proteinase K
+T169	Species 6113 6122	bacterial
+T170	Chemical 6132 6136	LPSs
+T171	Metabolite 6132 6136	LPSs
+T172	Chemical 6206 6212	silver
+T173	Chemical 6279 6293	nitrocellulose
+T174	Species 6383 6389	rabbit
+T175	Protein 6406 6416	antibodies
+T176	Species 6043 6048	human
+T177	Species 6057 6063	rabbit
+T178	Protein 6064 6067	IgG
+T179	Protein 6431 6453	horseradish peroxidase
+T180	Species 6475 6481	rabbit
+T181	Protein 6482 6485	IgG
+T182	Protein 6507 6517	antibodies
+T183	Chemical 6592 6595	OPS
+T184	Metabolite 6592 6595	OPS
+T185	Species 6599 6616	P. mirabilis  O24
+T186	Chemical 6617 6622	Sugar
+T187	Chemical 6639 6642	OPS
+T188	Metabolite 6639 6642	OPS
+T189	Chemical 6654 6658	acid
+T190	Chemical 6729 6744	monosaccharides
+T191	Chemical 6755 6781	2-amino-2-deoxy-D -glucose
+T192	Chemical 6786 6814	2-amino-2-deoxy-D -galactose
+T193	Chemical 6844 6856	D -galactose
+T194	Spectral_Data 6862 7257	13 C-NMR spectrum of the OPS [6]  (Table 1 ) contained signals for four anomeric carbons in the region δ 102.5–106.6, three carbons linked to nitrogen (C2 of hexosamines) in the region δ 53.0–56.2, four HOC H2 -C groups (C6 of galactose and hexosamines) at δ 61.4–62.4, 13 other sugar ring carbons in the region δ 69.9–82.8, and three N -acetyl groups at δ 23.6–23.9 (CH3 ) and δ 175.4–175.7 (CO
+T195	Chemical 6887 6890	OPS
+T196	Metabolite 6887 6890	OPS
+R17	Associated_With Arg1:T196 Arg2:T194	
+R18	Associated_With Arg1:T195 Arg2:T194	
+T197	Chemical 6943 6949	carbon
+T198	Chemical 6986 6992	carbon
+T199	Chemical 7004 7012	nitrogen
+T200	Chemical 7020 7031	hexosamines
+T202	Chemical 7089 7098	galactose
+T201	Chemical 7103 7114	hexosamines
+T203	Chemical 7141 7146	sugar
+T204	Chemical 7152 7159	carbons
+T205	Chemical 7197 7213	N -acetyl groups
+T206	Spectral_Data 7277 7453	1 H-NMR spectrum of the OPS (Table 1 ) contained, inter alia, signals for four anomeric protons in the region δ 4.44–4.91 and three N -acetyl groups at δ 2.04 (6H) and 2.09 (3H
+T207	Chemical 7301 7304	OPS
+T208	Metabolite 7301 7304	OPS
+T209	Chemical 7409 7425	N -acetyl groups
+R19	Associated_With Arg1:T208 Arg2:T206	
+R20	Associated_With Arg1:T207 Arg2:T206	
+T210	Chemical 7471 7474	OPS
+T211	Metabolite 7471 7474	OPS
+T212	Chemical 7490 7505	tetrasaccharide
+T213	Chemical 7553 7565	D -galactose
+T214	Chemical 7570 7600	2-acetamido-2-deoxy-D -glucose
+T215	Chemical 7622 7654	2-acetamido-2-deoxy-D -galactose
+R21	Associated_With Arg1:T213 Arg2:T206	
+R22	Associated_With Arg1:T214 Arg2:T206	
+R23	Associated_With Arg1:T215 Arg2:T206	
+R24	Associated_With Arg1:T213 Arg2:T194	
+R25	Associated_With Arg1:T214 Arg2:T194	
+R26	Associated_With Arg1:T215 Arg2:T194	
+T216	Spectral_Data 7736 7752	1 H-NMR spectrum
+T217	Chemical 7760 7763	OPS
+T218	Metabolite 7760 7763	OPS
+T219	Chemical 7781 7795	monosaccharide
+T220	Chemical 7816 7824	pyranose
+T221	Spectral_Data 7851 8314	13 C-NMR spectrum of the OPS, the positions of the signals for C2–C6 of Gal at δ 72.2, 74.2, 69.9, 76.1, and 62.4 (or 62.0), respectively, were close to those of non-substituted β-Galp [16]  and, hence, Gal occupies the terminal position in the side chain. As a result of the glycosylation, the signals for C4 of one of the GlcNAc residues (GlcNAcI ), C3 of the other residue (GlcNAcII ), C3 and C4 of GalNAc were shifted downfield to δ 81.0, 82.8, 81.8, and 75.6
+T222	Chemical 7876 7879	OPS
+T223	Metabolite 7876 7879	OPS
+T224	Chemical 7923 7926	Gal
+T225	Chemical 8029 8035	β-Galp
+T226	Chemical 8054 8057	Gal
+R27	Associated_With Arg1:T225 Arg2:T221	
+T227	Chemical 8175 8181	GlcNAc
+T228	Chemical 8192 8198	GlcNAc
+T229	Chemical 8228 8234	GlcNAc
+T230	Chemical 8253 8259	GalNAc
+T231	Chemical 8410 8425	monosaccharides
+R28	Associated_With Arg1:T227 Arg2:T221	
+R29	Associated_With Arg1:T230 Arg2:T221	
+T232	Chemical 8460 8463	OPS
+T233	Metabolite 8460 8463	OPS
+T234	Chemical 8542 8557	monosaccharides
+T235	Spectral_Data 8563 8577	NOESY spectrum
+T236	Chemical 8585 8588	OPS
+T237	Metabolite 8585 8588	OPS
+R30	Associated_With Arg1:T237 Arg2:T235	
+R31	Associated_With Arg1:T236 Arg2:T235	
+T238	Chemical 8655 8658	Gal
+T239	Chemical 8662 8668	GalNAc
+T240	Chemical 8696 8702	GalNAc
+T241	Chemical 8706 8712	GlcNAc
+T242	Chemical 8719 8725	GlcNAc
+T243	Chemical 8731 8737	GlcNAc
+T244	Chemical 8749 8755	GlcNAc
+T245	Chemical 8762 8768	GalNAc
+T246	Chemical 8863 8877	monosaccharide
+T247	Chemical 8900 8906	GlcNAc
+T248	Chemical 8914 8917	Gal
+T249	Chemical 8934 8940	GalNAc
+T250	Chemical 9015 9029	monosaccharide
+R32	Associated_With Arg1:T238 Arg2:T235	
+R33	Associated_With Arg1:T239 Arg2:T235	
+R34	Associated_With Arg1:T241 Arg2:T235	
+T251	Chemical 9077 9080	OPS
+T252	Metabolite 9077 9080	OPS
+T253	Species 9084 9102	P. mirabilis  O24,
+T254	Chemical 9130 9133	OPS
+T255	Metabolite 9130 9133	OPS
+T256	Chemical 9230 9233	OPS
+T257	Metabolite 9230 9233	OPS
+T258	Species 9237 9254	P. mirabilis  O29
+T259	Chemical 9255 9260	Sugar
+T260	Chemical 9293 9321	2-amino-2-deoxy-D -galactose
+T261	Chemical 9326 9344	D -glucuronic acid
+T262	Chemical 9346 9353	D -GlcA
+T263	Chemical 9376 9379	OPS
+T264	Metabolite 9376 9379	OPS
+T265	Spectral_Data 9385 9402;9470 9749	13 C-NMR spectrum contained signals for four anomeric carbons at δ 96.2–105.0, three HOC H2 -C groups (C6 of GalN) at δ 61.9, three carbons bearing nitrogen (C2 of GalN) at δ 50.5, 51.5 and 53.8, 13 other sugar ring carbons at δ 68.6–81.5, and N -acetyl groups (CH3  at δ 23.6, CO at δ 175.2–176.2
+T266	Chemical 9410 9413	OPS
+T267	Metabolite 9410 9413	OPS
+T268	Chemical 9458 9465	polymer
+T269	Chemical 9506 9512	carbon
+T270	Chemical 9561 9565	GalN
+T271	Chemical 9584 9590	carbon
+T272	Chemical 9600 9608	nitrogen
+T273	Chemical 9616 9620	GalN
+T274	Chemical 9657 9662	sugar
+T275	Chemical 9668 9674	carbon
+T276	Chemical 9696 9712	N -acetyl groups
+T277	Spectral_Data 9769 9785	1 H-NMR spectrum
+T278	Chemical 9874 9879	sugar
+T279	Chemical 9919 9935	N -acetyl groups
+T280	Chemical 9967 9970	OPS
+T281	Metabolite 9967 9970	OPS
+T282	Chemical 9977 9992	tetrasaccharide
+T283	Chemical 10037 10069	2-acetamido-2-deoxy-D -galactose
+T284	Chemical 10089 10107	D -glucuronic acid
+T285	Chemical 10178 10184	GalNAc
+T286	Chemical 10195 10201	GalNAc
+T287	Chemical 10264 10268	GlcA
+T288	Chemical 10283 10289	GalNAc
+T289	Chemical 10300 10306	GalNAc
+T290	Chemical 10314 10320	GalNAc
+R35	Associated_With Arg1:T283 Arg2:T277	
+R36	Associated_With Arg1:T283 Arg2:T265	
+R37	Associated_With Arg1:T284 Arg2:T277	
+R38	Associated_With Arg1:T284 Arg2:T265	
+T291	Spectral_Data 10344 10358	NOESY spectrum
+T292	Chemical 10366 10372	GalNAc
+T293	Chemical 10380 10386	GalNAc
+T294	Chemical 10397 10403	GalNAc
+T295	Chemical 10410 10414	GlcA
+T296	Chemical 10465 10498	GalNAcIII (1→4)GalNAcII (1→4)GlcA
+R39	Associated_With Arg1:T296 Arg2:T291	
+T297	Chemical 10515 10521	GalNAc
+T298	Chemical 10577 10583	GalNAc
+T299	Chemical 10607 10635	α-(1→3)-linked disaccharides
+T300	Chemical 10692 10707	monosaccharides
+T301	Chemical 10731 10735	GlcA
+T302	Chemical 10775 10781	GalNAc
+T303	Spectral_Data 10794 10913	13 C-NMR spectrum of the OPS, the positions of the signals for C2–C6 of GalNAcI  at δ 50.5, 68.6, 69.4, 72.1, and 61.9,
+T304	Chemical 10819 10822	OPS
+T305	Metabolite 10819 10822	OPS
+T306	Chemical 10866 10872	GalNAc
+T307	Chemical 10964 10974	α-Galp NAc
+T308	Chemical 11038 11044	GalNAc
+T309	Chemical 11059 11063	GlcA
+T310	Chemical 11126 11136	β-Galp NAc
+T311	Chemical 11141 11149	β-Glcp A
+R40	Associated_With Arg1:T307 Arg2:T303	
+R41	Associated_With Arg1:T310 Arg2:T303	
+R42	Associated_With Arg1:T311 Arg2:T303	
+T312	Spectral_Data 11240 11245	NOESY
+T313	Chemical 11276 11280	GlcA
+T314	Chemical 11296 11302	GalNAc
+T315	Chemical 11354 11360	GalNAc
+T316	Chemical 11524 11534	β-Galp NAc
+R43	Associated_With Arg1:T316 Arg2:T312	
+T317	Chemical 11684 11697	trisaccharide
+T318	Chemical 11716 11722	GalNAc
+T319	Chemical 11782 11788	GalNAc
+T320	Chemical 11890 11893	OPS
+T321	Metabolite 11890 11893	OPS
+T322	Species 11897 11914	P. mirabilis  O29
+T323	Chemical 11954 11957	OPS
+T324	Metabolite 11954 11957	OPS
+T325	Species 11961 11978	P. mirabilis  O24
+T326	Species 12015 12024	Proteus  
+T327	Chemical 12024 12028	OPSs
+T328	Metabolite 12024 12028	OPSs
+T329	Chemical 12060 12063	OPS
+T330	Metabolite 12060 12063	OPS
+T331	Species 12067 12084	P. mirabilis  O29
+T332	Chemical 12100 12121	N -acetylamino sugars
+T333	Species 12139 12148	Proteus  
+T334	Chemical 12148 12152	OPSs
+T335	Metabolite 12148 12152	OPSs
+T336	Chemical 12165 12186	acidic polysaccharide
+T337	Chemical 12198 12216	D -glucuronic acid
+T338	Chemical 12233 12237	OPSs
+T339	Metabolite 12233 12237	OPSs
+T340	Species 12252 12261	Proteus  
+T341	Chemical 12300 12305	sugar
+T342	Chemical 12342 12346	OPSs
+T343	Species 12350 12367	P. mirabilis  O24
+T344	Species 12350 12362;12372 12375	P. mirabilis O29
+T345	Species 12497 12505	patients
+T346	Protein 12547 12550	IgG
+T347	Protein 12557 12567	antibodies
+T348	Chemical 12576 12580	LPSs
+T349	Metabolite 12576 12580	LPSs
+T350	Species 12584 12596	P. mirabilis
+T351	Species 12647 12664	P. mirabilis  O24
+T352	Species 12674 12691	P. mirabilis  O29
+T353	Protein 12692 12702	antibodies
+T354	Species 12731 12739	patients
+T355	Species 12760 12777	P. mirabilis  O24
+T356	Species 12760 12772;12782 12785	P. mirabilis O29
+T357	Chemical 12786 12790	LPSs
+T358	Metabolite 12786 12790	LPSs
+T359	Species 12880 12897	P. mirabilis  O24
+T360	Species 12880 12892;12902 12905	P. mirabilis O29
+T361	Species 12932 12938	humans
+T362	Species 12940 12957	P. mirabilis  O24
+T363	Chemical 12958 12961	LPS
+T364	Metabolite 12958 12961	LPS
+T365	Species 12975 12981	rabbit
+T366	Species 12987 13004	P. mirabilis  O24
+T367	Chemical 13089 13095	Alkali
+T368	Chemical 13104 13107	LPS
+T369	Metabolite 13104 13107	LPS
+T370	Chemical 13153 13156	LPS
+T371	Metabolite 13153 13156	LPS
+T372	Species 13166 13183	P. mirabilis  O24
+T373	Chemical 13184 13187	OPS
+T374	Metabolite 13184 13187	OPS
+T375	Chemical 13249 13252	OPS
+T376	Metabolite 13249 13252	OPS
+T377	Chemical 13306 13313	lipid A
+T378	Metabolite 13306 13313	lipid A
+T379	Chemical 13324 13327	LPS
+T380	Metabolite 13324 13327	LPS
+T381	Chemical 13351 13354	OPS
+T382	Metabolite 13351 13354	OPS
+T383	Protein 13373 13383	antibodies
+T384	Protein 13443 13453	antibodies
+T385	Chemical 13461 13464	LPS
+T386	Metabolite 13461 13464	LPS
+T387	Chemical 13500 13503	LPS
+T388	Metabolite 13500 13503	LPS
+T389	Chemical 13515 13530	oligosaccharide
+T390	Chemical 13573 13576	LPS
+T391	Metabolite 13573 13576	LPS
+T392	Chemical 13604 13607	LPS
+T393	Metabolite 13604 13607	LPS
+T394	Chemical 13612 13618	alkali
+T395	Chemical 13627 13630	LPS
+T396	Metabolite 13627 13630	LPS
+T397	Biological_Activity 13672 13681	inhibited
+T398	Species 13744 13761	P. mirabilis  O24
+T399	Species 13768 13785	P. mirabilis  O24
+T400	Chemical 13786 13789	LPS
+T401	Metabolite 13786 13789	LPS
+R44	Associated_With Arg1:T396 Arg2:T397	
+T402	Chemical 13795 13798	OPS
+T403	Metabolite 13795 13798	OPS
+R45	Associated_With Arg1:T395 Arg2:T397	
+T404	Biological_Activity 13799 13808	inhibited
+R46	Associated_With Arg1:T403 Arg2:T404	
+R47	Associated_With Arg1:T402 Arg2:T404	
+T405	Chemical 13890 13893	LPS
+T406	Metabolite 13890 13893	LPS
+T407	Chemical 13907 13922	oligosaccharide
+T408	Metabolite 13907 13922	oligosaccharide
+T409	Chemical 13961 13964	Gal
+T410	Chemical 14066 14070	LPSs
+T411	Metabolite 14066 14070	LPSs
+T412	Species 14084 14093	Proteus  
+T413	Species 14166 14172	rabbit
+T414	Species 14178 14195	P. mirabilis  O24
+T415	Species 14259 14276	P. mirabilis  O24
+T416	Species 14287 14304	P. mirabilis  O29
+T417	Chemical 14305 14308	LPS
+T418	Metabolite 14305 14308	LPS
+T419	Species 14395 14401	rabbit
+T420	Species 14430 14439	Proteus  
+T421	Species 14468 14485	P. mirabilis  O29
+T422	Species 14514 14531	P. mirabilis  O24
+T423	Chemical 14532 14535	LPS
+T424	Metabolite 14532 14535	LPS
+T425	Species 14605 14622	P. mirabilis  O24
+T426	Species 14605 14617;14627 14630	P. mirabilis O29
+T427	Chemical 14631 14635	LPSs
+T428	Metabolite 14631 14635	LPSs
+T429	Species 14695 14712	P. mirabilis  O24
+T430	Chemical 14739 14742	LPS
+T431	Metabolite 14739 14742	LPS
+T432	Species 14784 14801	P. mirabilis  O24
+T433	Species 14784 14796;14806 14809	P. mirabilis O29
+T434	Chemical 14810 14814	LPSs
+T435	Metabolite 14810 14814	LPSs
+T436	Species 14870 14887	P. mirabilis  O29
+T437	Chemical 14888 14891	LPS
+T438	Metabolite 14888 14891	LPS
+T439	Species 14929 14946	P. mirabilis  O24
+T440	Chemical 14947 14950	LPS
+T441	Metabolite 14947 14950	LPS
+T442	Species 14985 15002	P. mirabilis  O29
+T443	Chemical 15003 15006	LPS
+T444	Metabolite 15003 15006	LPS
+T445	Species 15027 15044	P. mirabilis  O29
+T446	Chemical 15058 15061	LPS
+T447	Metabolite 15058 15061	LPS
+T448	Species 15065 15082	P. mirabilis  O29
+T449	Species 15065 15077;15086 15089	P. mirabilis O24
+T450	Chemical 15137 15145	antigens
+T451	Biological_Activity 629 636	antigen
+T452	Biological_Activity 5258 5266	antigens
+T453	Biological_Activity 5917 5925	antigens
+T454	Biological_Activity 15137 15145	antigens
+T455	Species 15196 15213	P. mirabilis  O24
+T456	Species 15196 15208;15218 15221	P. mirabilis O29
+T457	Biological_Activity 15257 15264	epitope
+T458	Chemical 15275 15279	LPSs
+T459	Metabolite 15275 15279	LPSs
+T460	Species 15303 15312	Proteus  
+T461	Protein 15404 15414	antibodies
+T462	Chemical 15446 15461	oligosaccharide
+T463	Chemical 15479 15482	OPS
+T464	Metabolite 15479 15482	OPS
+T465	Chemical 15491 15503	disaccharide
+T466	Chemical 15509 15524	tetrasaccharide
+T467	Chemical 15549 15553	OPSs
+T468	Metabolite 15549 15553	OPSs
+T469	Species 15557 15574	P. mirabilis  O24
+T470	Species 15557 15569;15579 15582	P. mirabilis O29
+T471	Biological_Activity 15648 15655	epitope
+T472	Chemical 15729 15733	LPSs
+T473	Metabolite 15729 15733	LPSs
+T474	Chemical 15761 15765	OPSs
+T475	Metabolite 15761 15765	OPSs
+T476	Species 15805 15822	P. mirabilis  O24
+T477	Species 15832 15849	P. mirabilis  O29
+T478	Chemical 15939 15943	LPSs
+T479	Metabolite 15939 15943	LPSs
+T480	Species 15947 15964	P. mirabilis  O29
+T481	Species 15947 15959;15969 15972	P. mirabilis O24
+T482	Chemical 16039 16046	lipid A
+T483	Metabolite 16039 16046	lipid A
+T484	Biological_Activity 16193 16201	epitopes
+T485	Protein 16269 16279	antibodies
+T486	Chemical 16297 16304	lipid A
+T487	Metabolite 16297 16304	lipid A
+T488	Chemical 16319 16322	LPS
+T489	Metabolite 16319 16322	LPS
+T490	Chemical 16354 16357	OPS
+T491	Metabolite 16354 16357	OPS
+T492	Chemical 16436 16443	lipid A
+T493	Metabolite 16436 16443	lipid A
+T494	Protein 16444 16454	antibodies
+T495	Chemical 16485 16488	OPS
+T496	Metabolite 16485 16488	OPS
+T497	Chemical 16497 16500	LPS
+T498	Metabolite 16497 16500	LPS
+T499	Species 16527 16544;16549 16552	P. mirabilis  O24 O29
+T500	Species 16527 16539	P. mirabilis
+T501	Chemical 16602 16605	OPS
+T502	Metabolite 16602 16605	OPS
+T503	Species 16632 16651	P. mirabilis  S1959
+T504	Chemical 16652 16655	LPS
+T505	Metabolite 16652 16655	LPS
+T506	Species 16730 16739	Proteus  
+T507	Chemical 16775 16779	OPSs
+T508	Metabolite 16775 16779	OPSs
+T509	Protein 16826 16836	antibodies
+T510	Chemical 16868 16871	LPS
+T511	Metabolite 16868 16871	LPS
+T512	Chemical 16911 16914	LPS
+T513	Metabolite 16911 16914	LPS

@@ -1,0 +1,808 @@
+T1	Chemical 1 13	Carbohydrate
+T2	Chemical 38 49	Galα1→3 Gal
+T3	Chemical 67 80	α-Gal epitope
+T4	Biological_Activity 73 80	epitope
+T5	Biological_Activity 106 116	xenoactive
+T6	Chemical 117 125	antigens
+T7	Biological_Activity 117 125	antigens
+T8	Species 322 330	primates
+T9	Species 362 367	human
+T10	Protein 376 386	antibodies
+T11	Protein 398 406	anti-Gal
+T12	Protein 412 429	anti-Gal antibody
+T13	Protein 469 472	IgG
+T14	Protein 491 494	IgM
+T15	Species 498 503	human
+T16	Biological_Activity 519 523	bind
+T17	Biological_Activity 549 556	epitope
+T18	Chemical 543 556	α-Gal epitope
+T19	Biological_Activity 675 682	humoral
+T20	Biological_Activity 750 757	binding
+T21	Species 701 706	human
+T22	Chemical 761 774	α-Gal epitope
+T23	Biological_Activity 767 774	epitope
+T24	Chemical 786 801	glycoconjugates
+T25	Species 816 825	bacterial
+T26	Species 857 862	human
+T27	Protein 868 884	α-Gal antibodies
+T28	Protein 911 919	antibody
+R1	Binds_With Arg1:T18 Arg2:T14	
+R2	Binds_With Arg1:T18 Arg2:T13	
+R3	Binds_With Arg1:T18 Arg2:T12	
+T29	Biological_Activity 953 954	m
+T30	Species 975 984	bacterial
+T31	Protein 1035 1043	antibody
+T32	Biological_Activity 1050 1063	immunotherapy
+T33	Biological_Activity 1084 1098	immunogenicity
+T34	Protein 1125 1135	antibodies
+T35	Species 1196 1201	human
+T36	Protein 1210 1220	antibodies
+T37	Protein 1229 1237	anti-Gal
+T38	Species 1339 1348	bacterial
+T39	Species 1383 1392	bacterial
+T40	Protein 1417 1424	lectins
+T41	Protein 1504 1511	protein
+T42	Species 1619 1627	bacteria
+T43	Biological_Activity 1671 1677	immune
+T44	Biological_Activity 1717 1724	binding
+T45	Species 1740 1749	bacterial
+T46	Protein 1763 1770	lectins
+T47	Species 1801 1810	bacterial
+T48	Protein 1811 1818	lectins
+T49	Chemical 1836 1841	sugar
+T50	Protein 1887 1902	imbrial lectins
+T51	Protein 1911 1934	type 1 fimbrial lectins
+T52	Chemical 1958 1970	α-mannosides
+R4	Binds_With Arg1:T52 Arg2:T51	
+T53	Biological_Activity 1983 1990	binding
+T54	Protein 2007 2023	mannose receptor
+T55	Chemical 2029 2036	mannose
+R5	Binds_With Arg1:T55 Arg2:T54	
+T56	Chemical 2122 2134	carbohydrate
+T57	Biological_Activity 2143 2150	binding
+T58	Protein 2154 2162	proteins
+T59	Chemical 2198 2210	carbohydrate
+T60	Chemical 2269 2276	mannose
+T61	Chemical 2269 2301	mannose-containing glycopolymers
+T62	Chemical 2269 2287;2306 2321	mannose-containing glycodendrimers
+T63	Biological_Activity 2355 2365	inhibitory
+T64	Biological_Activity 2376 2383	binding
+T65	Species 2387 2392	yeast
+T66	Chemical 2393 2399	mannan
+T67	Species 2403 2417	Concanavalin A
+T68	Species 2422 2425	Pea
+T69	Protein 2426 2433	lectins
+R6	Associated_With Arg1:T62 Arg2:T63	
+R7	Associated_With Arg1:T61 Arg2:T63	
+R8	Associated_With Arg1:T62 Arg2:T64	
+R9	Associated_With Arg1:T61 Arg2:T64	
+R10	Binds_With Arg1:T66 Arg2:T69	
+T70	Chemical 2478 2493	glycodendrimers
+T71	Chemical 2519 2531	glycopolymer
+T72	Chemical 2562 2575	α-Gal epitope
+T73	Biological_Activity 2568 2575	epitope
+T74	Chemical 2580 2612	mannose containing glycopolymers
+T75	Chemical 2641 2654	glycopolymers
+T76	Chemical 2658 2665	mannose
+T77	Species 2675 2683	bacteria
+T78	Species 2712 2717	human
+T79	Protein 2726 2734	anti-Gal
+T80	Species 2785 2793	bacteria
+T81	Chemical 2814 2827	glycopolymers
+T82	Biological_Activity 2625 2632	Binding
+T83	Biological_Activity 2799 2806	binding
+T84	Species 2831 2839	bacteria
+T85	Biological_Activity 2855 2865	inhibition
+T86	Biological_Activity 2874 2887	agglutination
+T87	Species 2891 2896	yeast
+T88	Chemical 2897 2903	mannan
+T89	Species 2905 2918	S. cerevisiae
+T90	Species 2924 2931	E. coli
+T91	Species 2934 2939	Human
+T92	Protein 2948 2965	anti-Gal antibody
+T93	Biological_Activity 2966 2973	binding
+T94	Chemical 2981 3011	α-Gal containing glycopolymers
+R11	Binds_With Arg1:T94 Arg2:T92	
+T95	Biological_Activity 3041 3051	inhibition
+T96	Chemical 3098 3106	monomers
+T97	Chemical 3141 3148	lactose
+T98	Chemical 3153 3160	mannose
+T99	Chemical 3195 3216	β-lactosyl acrylamide
+T100	Chemical 3218 3219	5
+T101	Chemical 3256 3291	2-[2-(2-chloroethoxy)ethoxy]ethanol
+T102	Chemical 3293 3294	1
+T103	Chemical 3353 3361	chloride
+T104	Chemical 3365 3372	azide 2
+T105	Chemical 3397 3400	DMF
+T106	Chemical 3471 3502	α-lactosyl bromide heptaacetate
+T107	Chemical 3549 3559	compound 3
+T108	Spectral_Data 3625 3661	coupling constant of anomeric proton
+R12	Associated_With Arg1:T107 Arg2:T108	
+T109	Chemical 3682 3693	glycoside 3
+T110	Chemical 3743 3748	water
+T111	Chemical 3793 3803	compound 4
+T112	Chemical 3838 3855	acryloyl chloride
+T113	Chemical 3867 3886	monomer precursor 5
+T114	Chemical 3976 3997	α-mannosyl acrylamide
+T115	Chemical 4042 4052	compound 6
+T116	Spectral_Data 4122 4155	anomeric proton coupling constant
+R13	Associated_With Arg1:T115 Arg2:T116	
+T117	Chemical 4256 4279	peracetylated mannoside
+T118	Chemical 4314 4322	β-anomer
+T119	Chemical 4341 4349	α-anomer
+T120	Chemical 4365 4396	α-lactosyl bromide heptaacetate
+T121	Chemical 4398 4429	α-mannosyl bromide tetraacetate
+T122	Chemical 4468 4479	by-products
+T123	Biological_Activity 4513 4522	Enzymatic
+T124	Chemical 4539 4557	α-Gal disaccharide
+T125	Chemical 4600 4621	Galα1→3Gal acrylamide
+T126	Biological_Activity 4675 4684	enzymatic
+T127	Protein 4726 4741	α-galactosidase
+T128	Species 4747 4765	green coffee beans
+T129	Biological_Activity 4810 4819	enzymatic
+T130	Chemical 5030 5041	nitro group
+T131	Chemical 5045 5055	compound 9
+T132	Chemical 5065 5085	N -acryloyl function
+T133	Chemical 5107 5115	hydrogen
+T134	Chemical 5153 5170	acryloyl chloride
+T135	Chemical 5174 5182	methanol
+T136	Chemical 5191 5202	compound 11
+T137	Biological_Activity 5237 5246	enzymatic
+T138	Chemical 5262 5275	glycopolymers
+T139	Chemical 5287 5294	lactose
+T140	Chemical 5299 5306	mannose
+T141	Chemical 5311 5324	glycopolymers
+T142	Chemical 5333 5346	α-Gal epitope
+T143	Biological_Activity 5339 5346	epitope
+T144	Biological_Activity 5422 5429	epitope
+T145	Chemical 5422 5432	epitope 11
+T146	Chemical 5456 5463	mannose
+T147	Chemical 5456 5483	mannose monomer precursor 8
+T148	Chemical 5490 5500	acrylamide
+T149	Chemical 5597 5616	ammonium persulfate
+T150	Chemical 5621 5658	N,N,N′,N′ -tetramethylethylenediamine
+T151	Chemical 5750 5757	polymer
+T152	Spectral_Data 5883 5890	1 H NMR
+T153	Chemical 5894 5898	D2 O
+T154	Chemical 5961 5976	glycopolymer 12
+R14	Associated_With Arg1:T154 Arg2:T152	
+T155	Chemical 6039 6052	α-Gal epitope
+T156	Protein 6073 6099	α1-3 galactosyltransferase
+T157	Protein 6136 6154	recombinant enzyme
+T158	Chemical 6169 6178	galactose
+T159	Chemical 6184 6216	uridine 5′ diphosphate galactose
+T160	Chemical 6218 6225	UDP-Gal
+T161	Chemical 6232 6249	lactosyl acceptor
+T162	Biological_Activity 6241 6249	acceptor
+T163	Chemical 6255 6267	glycopolymer
+T164	Chemical 6285 6290	sugar
+T165	Chemical 6308 6315	mannose
+T166	Biological_Activity 6332 6340	acceptor
+T167	Protein 6348 6354	enzyme
+T168	Chemical 6463 6476	glycopolymers
+T169	Chemical 6495 6500	sugar
+T170	Biological_Activity 6519 6528	enzymatic
+T171	Chemical 6552 6560	polymers
+T172	Chemical 6584 6589	sugar
+T173	Chemical 6687 6705	oligoethoxyl group
+T174	Chemical 6738 6755	lactosyl acceptor
+T175	Biological_Activity 6747 6755	acceptor
+T176	Chemical 6808 6815	polymer
+T177	Protein 6832 6838	enzyme
+T178	Biological_Activity 6848 6852	bind
+T179	Biological_Activity 6860 6868	acceptor
+T180	Biological_Activity 6931 6940	enzymatic
+T181	Chemical 6979 6991;6993 6996;6997 6999	glycopolymer 15A –B
+T182	Chemical 6979 6991;6993 6995	glycopolymer 15
+T183	Chemical 7121 7134	glycopolymers
+T184	Chemical 7245 7252	polymer
+T185	Chemical 7342 7353	aromatic 13
+T186	Chemical 7376 7387	α-mannoside
+T187	Chemical 7360 7374	non-aromatic 8
+T188	Chemical 7404 7417	glycopolymers
+T189	Species 7484 7491	E. coli
+T190	Chemical 7531 7538	mannose
+T191	Chemical 7567 7589	aromatic α -mannosides
+T192	Chemical 7598 7633	p -nitrophenyl-α-d -mannopyranoside
+T193	Species 7658 7670	Salmonella  
+T194	Biological_Activity 7539 7546	binding
+T195	Biological_Activity 7690 7697	binding
+T196	Species 7734 7741	E. coli
+T197	Spectral_Data 7785 7802	13 C NMR spectrum
+T198	Chemical 7806 7822	glycopolymer 15B
+R15	Associated_With Arg1:T198 Arg2:T197	
+T199	Chemical 7914 7921	lactose
+T200	Chemical 7948 7955	mannose
+T201	Chemical 7988 7999	α-galactose
+T202	Chemical 8009 8015	carbon
+T203	Chemical 8089 8112	α-Gal-mannose conjugate
+T204	Chemical 8137 8148	compound 19
+T205	Chemical 8178 8191	α-Gal epitope
+T206	Biological_Activity 8184 8191	epitope
+T207	Chemical 8196 8207	α-mannoside
+T208	Chemical 8316 8341	methyl 6-hydroxyhexanoate
+T209	Chemical 8347 8378	α-lactosyl bromide heptaacetate
+T210	Chemical 8457 8468	compound 16
+T211	Chemical 8476 8488	glycoside 16
+T212	Chemical 8580 8582	17
+T213	Chemical 8597 8613	carboxylic group
+T214	Chemical 8619 8638	lactosyl derivative
+T215	Chemical 8661 8696	p -aminophenyl-α-d -mannopyranoside
+T216	Chemical 8703 8727	diphenylphosphoryl azide
+T217	Chemical 8729 8733	DPPA
+T218	Chemical 8784 8796	glycopeptide
+T219	Chemical 8830 8845	hydroxyl groups
+T220	Chemical 8881 8884	DMF
+T221	Chemical 8913 8925	conjugate 18
+T222	Biological_Activity 8942 8951	Enzymatic
+T223	Chemical 8971 8982	compound 18
+T224	Protein 8991 9017	α1-3 galactosyltransferase
+T225	Chemical 9031 9044	α-gal epitope
+T226	Biological_Activity 9037 9044	epitope
+T227	Chemical 9056 9068	conjugate 19
+T228	Biological_Activity 9073 9080	Binding
+T229	Chemical 9092 9121	α-Gal-mannose glycoconjugates
+T230	Species 9125 9133	bacteria
+T231	Chemical 9138 9165	α-Gal-mannose glycopolymers
+T232	Biological_Activity 9239 9246	binding
+T233	Species 9250 9269	E. coli  K-12 HB101
+T234	Species 9270 9279	bacterial
+T235	Species 9292 9299	E. coli
+T236	Chemical 9317 9324	mannose
+T237	Biological_Activity 9325 9332	binding
+T238	Species 9369 9377	bacteria
+T239	Biological_Activity 9389 9393	bind
+T240	Species 9394 9399	yeast
+T241	Species 9401 9425	Saccharomyces cerevisiae
+T242	Biological_Activity 9450 9463	agglutination
+T243	Chemical 9497 9509;9511 9513	glycopolymer 12
+T244	Chemical 9497 9509;9520 9523;9524 9526	glycopolymer 15A –B
+T245	Chemical 9497 9509;9520 9522	glycopolymer 15
+T246	Biological_Activity 9548 9558	inhibitory
+T247	Biological_Activity 9570 9583	agglutination
+T248	Chemical 9631 9658	methyl-α-d -mannopyranoside
+T249	Chemical 9660 9695	p -nitrophenyl α-d -mannopyranoside
+T250	Chemical 9697 9723	α-Gal-mannose conjugate 19
+T251	Chemical 9738 9755;9757 9760	mannose copolymer 15C
+T252	Chemical 9738 9755;9757 9759;9761 9762	mannose copolymer 15 D
+T253	Chemical 9796 9808;9810 9812	glycopolymer 12
+T254	Chemical 9796 9808;9819 9822	glycopolymer 15A
+T255	Chemical 9796 9808;9819 9821;9823 9825	glycopolymer 15 –B
+T256	Biological_Activity 9856 9869	agglutination
+R16	Associated_With Arg1:T254 Arg2:T256	
+R17	Associated_With Arg1:T255 Arg2:T256	
+R18	Associated_With Arg1:T253 Arg2:T256	
+T257	Chemical 9919 9946	methyl-α-d -mannopyranoside
+T258	Biological_Activity 9973 9983	inhibitory
+T259	Chemical 10022 10029	mannose
+T260	Chemical 10040 10075	p -nitrophenyl α-d -mannopyranoside
+R19	Associated_With Arg1:T257 Arg2:T258	
+T261	Biological_Activity 10108 10117	inhibitor
+R20	Associated_With Arg1:T260 Arg2:T261	
+T262	Biological_Activity 10147 10157	inhibition
+T263	Chemical 10204 10216	conjugate 19
+T264	Chemical 10223 10234	polymer 15B
+T265	Chemical 10259 10272	aromatic ring
+T266	Biological_Activity 10288 10298	inhibitory
+R21	Associated_With Arg1:T264 Arg2:T266	
+R22	Associated_With Arg1:T263 Arg2:T266	
+T267	Chemical 10416 10429	aromatic ring
+T268	Biological_Activity 10451 10458	binding
+T269	Species 10488 10496	bacteria
+T270	Biological_Activity 10523 10533	inhibition
+T271	Chemical 10552 10589	p -nitrophenyl α-d -galactopyranoside
+T272	Chemical 10610 10617	mannose
+T273	Biological_Activity 10618 10625	binding
+T274	Chemical 10653 10666	α-Gal residue
+T275	Chemical 10695 10702	mannose
+T276	Biological_Activity 10706 10713	binding
+T277	Species 10721 10730	bacterial
+T278	Protein 10731 10748	mannose receptors
+T279	Biological_Activity 10763 10770	Binding
+T280	Chemical 10782 10811	α-Gal-mannose glycoconjugates
+T281	Species 10815 10820	human
+T282	Protein 10829 10848	anti-Gal antibodies
+T283	Biological_Activity 10864 10874	inhibition
+T284	Chemical 10907 10936	α-Gal-mannose glycoconjugates
+T286	Biological_Activity 10937 10944	binding
+T285	Protein 10952 10973	anti α-Gal antibodies
+T287	Biological_Activity 11014 11024	inhibition
+T288	Species 11036 11041	Mouse
+T289	Protein 11042 11049	laminin
+T290	Chemical 11057 11070	α-Gal epitope
+T291	Biological_Activity 11063 11070	epitope
+T292	Biological_Activity 11113 11121	antigens
+T293	Chemical 11128 11143	glycoconjugates
+T294	Species 11169 11174	human
+T295	Protein 11175 11194	anti-Gal antibodies
+T296	Protein 11255 11277	horseradish peroxidase
+T297	Protein 11279 11282	HRP
+T298	Species 11300 11305	human
+T299	Protein 11306 11318	IgG antibody
+T300	Protein 11373 11376	HRP
+T301	Chemical 11394 11414	chromogenic compound
+T302	Chemical 11427 11439	conjugate 19
+T303	Chemical 11446 11457	polymer 15B
+T304	Chemical 11490 11503	α-Gal epitope
+T305	Biological_Activity 11496 11503	epitope
+T306	Chemical 11505 11522	Galα1→3Galβ1→4Glc
+T307	Chemical 11528 11549	mannose copolymer 15D
+T308	Chemical 11575 11587	conjugate 19
+T309	Chemical 11594 11605	polymer 15B
+T310	Biological_Activity 11608 11612	bind
+T311	Species 11628 11633	human
+T312	Protein 11634 11651	anti-Gal antibody
+R23	Associated_With Arg1:T309 Arg2:T310	
+R24	Associated_With Arg1:T308 Arg2:T310	
+R25	Binds_With Arg1:T309 Arg2:T312	
+R26	Binds_With Arg1:T308 Arg2:T312	
+T313	Chemical 11672 11685	α-Gal epitope
+T314	Biological_Activity 11678 11685	epitope
+T315	Chemical 11689 11700	polymer 15B
+T316	Biological_Activity 11745 11755	inhibition
+T317	Chemical 11759 11770	compound 19
+T318	Chemical 11778 11789	polymer 15B
+T319	Chemical 11821 11834	α-Gal epitope
+T320	Biological_Activity 11827 11834	epitope
+T321	Chemical 11837 11848	Polymer 15D
+T322	Chemical 11865 11878	α-Gal epitope
+T323	Biological_Activity 11871 11878	epitope
+T324	Biological_Activity 11886 11893	binding
+T325	Species 11897 11902	human
+T326	Protein 11903 11920	anti-Gal antibody
+T327	Chemical 11982 11989	mannose
+T328	Species 11994 11999	human
+T329	Protein 12008 12027	anti-Gal antibodies
+T330	Biological_Activity 12047 12057	inhibition
+T331	Protein 12096 12104	antibody
+T332	Chemical 12279 12295	α-Gal conjugates
+T333	Chemical 12307 12314	mannose
+T334	Chemical 12328 12333	α-Gal
+T335	Chemical 12328 12333;12346 12366	α-Gal containing compounds
+T336	Chemical 12338 12345	mannose
+T337	Chemical 12338 12366	mannose containing compounds
+T338	Biological_Activity 12405 12415	inhibitors
+T339	Biological_Activity 12428 12436	bindings
+T340	Species 12445 12450	yeast
+T341	Chemical 12451 12457	mannan
+T342	Species 12461 12476	E. coli ., K-12
+T343	Species 12481 12486	human
+T344	Protein 12495 12514	anti-Gal antibodies
+T345	Species 12518 12523	mouse
+T346	Protein 12524 12531	laminin
+R27	Associated_With Arg1:T335 Arg2:T338	
+R28	Associated_With Arg1:T335 Arg2:T339	
+R29	Associated_With Arg1:T337 Arg2:T338	
+R30	Associated_With Arg1:T337 Arg2:T339	
+T347	Chemical 12555 12562	mannose
+T348	Biological_Activity 12563 12570	binding
+T349	Protein 12574 12593	anti-Gal antibodies
+T350	Chemical 12598 12611	α-Gal residue
+T351	Biological_Activity 12612 12619	binding
+T352	Species 12623 12631	bacteria
+T353	Biological_Activity 12681 12688	binding
+T354	Chemical 12661 12670	compounds
+T355	Species 12733 12738	human
+T356	Biological_Activity 12747 12755	immunity
+T357	Species 12764 12773	bacterial
+T358	Biological_Activity 12774 12783	pathogens
+T359	Biological_Activity 12796 12806	xenoactive
+T360	Biological_Activity 12807 12815	epitopes
+T361	Chemical 12807 12815	epitopes
+T362	Biological_Activity 12832 12839	binding
+T363	Species 12857 12866	bacterial
+T364	Spectral_Data 12944 12947;12957 12964	1 H spectra
+T365	Spectral_Data 12952 12964	13 C spectra
+T366	Spectral_Data 13042 13054	Mass spectra
+T367	Spectral_Data 13056 13059	FAB
+T368	Spectral_Data 13063 13066	ESI
+T369	Spectral_Data 13084 13101	mass spectrometry
+T370	Chemical 13175 13188	glycopolymers
+T371	Chemical 13336 13342	silica
+T372	Chemical 13429 13435	silica
+T373	Chemical 13528 13533	water
+T374	Species 13574 13579	Mouse
+T375	Protein 13580 13587	laminin
+T376	Protein 13589 13594	L2020
+T377	Species 13600 13605	human
+T378	Species 13702 13721	E. coli  K-12 HB101
+T379	Chemical 13795 13923	2-[2-(2-Azidoethoxy)ethoxy]ethoxyl (2,3,4,6-tetra-O -acetyl-β-d -galactopyranosyl)-(14)-2,3,6-tri-O -acetyl-β-d -glucopyranoside
+T380	Chemical 13925 13926	3
+T381	Chemical 13929 13971	2,3,4,6-Hepta-O -acetyl-α-lactosyl bromide
+T382	Chemical 13994 14029	2-[2-(2-azidoethoxy)ethoxy]-ethanol
+T383	Chemical 14125 14130	CHCl3
+T384	Chemical 14188 14191	HgO
+T385	Chemical 14204 14211	HgBr2  
+T386	Chemical 14359 14365	Celite
+T387	Chemical 14373 14378	glass
+T388	Chemical 14413 14419	NaHCO3
+T389	Chemical 14424 14429	water
+T390	Chemical 14474 14481	Na2 SO4
+T391	Chemical 14553 14559	hexane
+T392	Chemical 14560 14565	EtOAc
+T393	Chemical 14582 14591	product 3
+T394	Spectral_Data 14613 14970	1  H NMR (CDCl3 ) Selected δ 5.31 (d, J =2.4 Hz, 1H), 5.16 (t, J =9.3 Hz, 1H), 5.07 (dd, J =7.8 Hz, 10.2, 1H), 4.85–4.94 (m, 2H), 4.54 (d, J =7.8 Hz, 1H), 4.48–4.44 (m, 2H), 3.36–4.11 (m, 18 H) 13  C δ 170.3, 170.1, 170.0, 169.7, 169.6, 169.0, 101.0, 100.5, 76.2, 72.7, 72.6, 71.6, 70.9, 70.6, 70.6, 70.3, 69.9, 69.1, 69.0, 66.6, 61.9, 60.8, 50.6, 20.5-20.8
+T395	Chemical 14623 14628	CDCl3
+T396	Spectral_Data 14972 14994	MS (m/z ) 816 (M+Na+ )
+T397	Spectral_Data 14996 15055	HRMS calcd for C32 H47 N3 O20 Na+  816.2651, found 816.2648
+R31	Associated_With Arg1:T393 Arg2:T394	
+R32	Associated_With Arg1:T393 Arg2:T397	
+R33	Associated_With Arg1:T393 Arg2:T396	
+R34	Associated_With Arg1:T379 Arg2:T394	
+R35	Associated_With Arg1:T379 Arg2:T396	
+R36	Associated_With Arg1:T379 Arg2:T397	
+T398	Chemical 15058 15142	2-[2-(2-Azidoethoxy)ethoxy]ethoxyl-β-d -galactopyranosyl)-(1→4)-β-d -glucopyranoside
+T399	Chemical 15144 15145	4
+T400	Chemical 15166 15167	3
+T401	Chemical 15189 15197	methanol
+T402	Chemical 15224 15229	NaOMe
+T403	Chemical 15285 15312	Dowex cation exchange resin
+T404	Chemical 15414 15415	4
+T405	Spectral_Data 15446 15672	1 H NMR (D2 O) δ4.35 (s, J =8.1 Hz, 1H), 4.27 (d, J =7.8 Hz, 1H), 3.32–3.91 (m, 23 H), 3.17 (t, J =7.5 Hz, 1H). 13 C δ 103.4, 102.5, 78.9, 75.8, 75.2, 74.8, 73.3, 73.0, 71.4, 70.0, 70.0, 69.9, 69.6, 69.2, 69.0, 61.5, 60.5, 50.
+T406	Chemical 15455 15459	D2 O
+R37	Associated_With Arg1:T398 Arg2:T405	
+R38	Associated_With Arg1:T404 Arg2:T405	
+T407	Chemical 15676 15773	2-[2-(2-N -acryloyl-aminoethoxy)ethoxy]ethoxyl-β-d -galactopyranosyl)-(1→4 )-β-d -glucopyranoside
+T408	Chemical 15775 15776	5
+T409	Chemical 15799 15805	PtO2  
+T410	Chemical 15830 15838	methanol
+T411	Chemical 15864 15872	hydrogen
+T412	Chemical 15919 15927	Pt black
+T413	Chemical 16029 16033	MeOH
+T414	Chemical 16053 16056	TEA
+T415	Chemical 16068 16085	acryloyl chloride
+T416	Chemical 16103 16113	chloroform
+T417	Chemical 16234 16247	anionic resin
+T418	Chemical 16259 16273	cationic resin
+T419	Chemical 16422 16423	5
+T420	Spectral_Data 16445 16698	1 H NMR (D2 O) δ 6.04–6.12 (m, 1H), 5.58–5.61 (m, 2H), 4.27 (d, J =8.0 Hz, 1H), 4.34 (d, J =7.5 Hz, 1H), 3.15–3.91 (m, 23 H) 3 C δ(130.4, 128.0, 103.5, 102.7, 78.9, 76.0, 75.4, 74.9, 73.4, 73.1, 71.5, 70.3, 70.2, 70.1, 70.0, 69.3, 69.1, 61.6, 60.6, 39.6
+T421	Chemical 16454 16458	D2 O
+T422	Spectral_Data 16700 16760	HRFABMS calcd for C21 H37 NO14 Na+  550.2112, found 550.2104
+R39	Associated_With Arg1:T419 Arg2:T420	
+R40	Associated_With Arg1:T419 Arg2:T422	
+R41	Associated_With Arg1:T407 Arg2:T420	
+R42	Associated_With Arg1:T407 Arg2:T422	
+T423	Chemical 16763 16842	2-[2-(2-Azidoethoxy)ethoxy]ethoxyl 2,3,4,6-tetra-O -acetyl-α-d -mannopyranoside
+T424	Chemical 16844 16845	6
+T425	Chemical 16849 16891	2,3,4,6-Tetra-O -acetyl-α-mannosyl bromide
+T426	Chemical 16911 16945	2-[2-(2-azidoethoxy)ethoxy]ethanol
+T427	Chemical 17045 17050	CHCl3
+T428	Chemical 17108 17111	HgO
+T429	Chemical 17124 17131	HgBr2  
+T430	Chemical 17279 17285	Celite
+T431	Chemical 17293 17298	glass
+T432	Chemical 17333 17341	NaHCO3  
+T433	Chemical 17345 17350	water
+T434	Chemical 17395 17402	Na2 SO4
+T435	Chemical 17474 17480	hexane
+T436	Chemical 17481 17486	EtOAc
+T437	Chemical 17503 17513	compound 6
+T438	Spectral_Data 17533 17878	1 H NMR (CDCl3 ) δ 5.21–5.34 (m, 3H), 4.83 (d, J =1.5 Hz, 1H), 4.25 (dd, J =8.5 Hz, 12.3 Hz, 1H), 4.00–4.07 (m, 2H), 3.74–3.80 (m, 1H), 3.67–3.61 (m, 9H), 3.36 (t, J =8.5 Hz, 2H), 2.11 (s, 3H), 2.06 (s, 3H), 2.00 (s, 3H), 1.95 (s, 3H) 13 C δ(170.6, 169.9, 169.8, 169.6, 97.7, 70.7, 70.6, 70.0, 69.5, 69.0, 68.4, 67.3, 66.1, 62.4, 50.6, 20.6-20.8
+T439	Chemical 17542 17547	CDCl3
+T440	Spectral_Data 17880 17902	MS (m/z ) 528 (M+Na+ )
+T441	Spectral_Data 17904 17963	HRMS calcd for C20 H31 N3 O12 Na+  528.1805, found 528.1853
+R43	Associated_With Arg1:T437 Arg2:T438	
+R44	Associated_With Arg1:T437 Arg2:T440	
+R45	Associated_With Arg1:T437 Arg2:T441	
+R46	Associated_With Arg1:T424 Arg2:T438	
+R47	Associated_With Arg1:T424 Arg2:T440	
+R48	Associated_With Arg1:T424 Arg2:T441	
+T442	Chemical 17966 18021	2-[2-(2-Azidoethoxy)ethoxy]ethoxyl-(-d -mannopyranoside
+T443	Chemical 18023 18024	7
+T444	Chemical 18045 18046	6
+T445	Chemical 18070 18078	methanol
+T446	Chemical 18105 18110	NaOMe
+T447	Chemical 18162 18189	Dowex cation exchange resin
+T448	Chemical 27371 27398	Dowex cation exchange resin
+T449	Chemical 27626 27653	Dowex cation exchange resin
+T450	Chemical 18291 18292	7
+T451	Spectral_Data 18323 18444	1 H NMR (D2 O) δ(4.72 (s, 1H), 3.33–3.80 (m, 18 H) 13 C δ 100.5, 73.3, 71.1, 70.5, 70.2, 70.1, 70.1, 69.9, 67.3, 67, 50.7
+T452	Chemical 18332 18336	D2 O
+R49	Associated_With Arg1:T450 Arg2:T451	
+R50	Associated_With Arg1:T443 Arg2:T451	
+T453	Chemical 18447 18514	2-[2-(2-N -acryloyl-aminoethoxy)ethoxy]ethoxyl-(-d -mannopyranoside
+T454	Chemical 18516 18517	8
+T455	Chemical 18540 18546	PtO2  
+T456	Chemical 18568 18576	methanol
+T457	Chemical 18602 18610	hydrogen
+T458	Chemical 18657 18665	Pt black
+T459	Chemical 18767 18771	MeOH
+T460	Chemical 18791 18794	TEA
+T461	Chemical 18806 18823	acryloyl chloride
+T462	Chemical 18841 18851	chloroform
+T463	Chemical 18972 18985	anionic resin
+T464	Chemical 18997 19011	cationic resin
+T465	Chemical 19160 19161	8
+T466	Spectral_Data 19183 19377	1 H NMR (D2 O) δ(6.13–6.00 (m, 2H), 5.59 (d, J =10.5 Hz, 1H), 4.70 (s, 1H), 3.30–3.78 (m, 18 H) 13 C δ 130.4, 128.0, 100.5, 73.3, 71.1, 70.1, 70.6, 70.2, 70.1, 70.1, 69.4, 67.3, 66.9, 61.5, 39.6
+T467	Chemical 19192 19196	D2 O
+T468	Spectral_Data 19379 19438	HRFABMS calcd for C15 H27 NO9 Na+  388.1584, found 388.1589
+R51	Associated_With Arg1:T465 Arg2:T466	
+R52	Associated_With Arg1:T465 Arg2:T468	
+R53	Associated_With Arg1:T453 Arg2:T466	
+R54	Associated_With Arg1:T453 Arg2:T468	
+T469	Chemical 19441 19505	p -Aminophenyl 3-O -α-d -galactopyranosyl-α-d -galactopyranoside
+T470	Chemical 19507 19511	10  
+T471	Chemical 19536 19540	Pd/C
+T472	Chemical 19629 19637	hydrogen
+T473	Chemical 19654 19662	methanol
+T474	Chemical 19710 19718	Pd black
+T475	Chemical 19782 19784	10
+T476	Spectral_Data 19808 20037	1 H NMR (D2 O) δ 6.87, 6.67 (2d, each 2H, J =8.1 Hz), 5.37 (d, J =3.3 Hz, 1H), 5.03 (d, J =3.3 Hz, 1H), 4.14–3.55 m, 12 H), 13 C δ 150.2, 141.4, 119.5, 118.3, 98.9, 95.6, 74.6, 71.8, 71.5, 69.8, 69.7, 68.7, 67.0, 65.9, 61.6, 61.5
+T477	Chemical 19817 19821	D2 O
+R55	Associated_With Arg1:T475 Arg2:T476	
+R56	Associated_With Arg1:T469 Arg2:T476	
+T478	Chemical 20040 20113	N -acryloyl-aminophenyl 3-O -α-d -galactopyranosyl-α-d -galactopyranoside
+T479	Chemical 20115 20119	11  
+T480	Chemical 20138 20149	compound 10
+T481	Chemical 20179 20183	MeOH
+T482	Chemical 20202 20205	TEA
+T483	Chemical 20219 20236	acryloyl chloride
+T484	Chemical 20365 20378	anionic resin
+T485	Chemical 20390 20404	cationic resin
+T486	Chemical 20554 20556	11
+T487	Spectral_Data 20579 20850	1 H NMR (D2 O) δ 7.29, 7.03 (2d, each 2H, J =8.5 Hz), 6.28–6.14 (m, 2H), 5.70 (d, J =10.0 Hz, 1H), 5.53 (d, J =4.0 Hz, 1H), 5.06 (d, J =4.0 Hz, 1H), 4.15–3.57 (m, 12H) 13 C δ 130.2, 128.0, 123.5, 117.8, 97.4, 95.1, 74.1, 71.5, 71, 69.3, 69.2, 68.2, 66.5, 65.4, 61.2, 61.2
+T488	Chemical 20588 20592	D2 O
+T489	Spectral_Data 20852 20912	HRFABMS calcd for C21 H29 NO12 Na+  510.1587, found 510.1601
+R57	Associated_With Arg1:T486 Arg2:T487	
+R58	Associated_With Arg1:T486 Arg2:T489	
+R59	Associated_With Arg1:T478 Arg2:T487	
+R60	Associated_With Arg1:T478 Arg2:T489	
+T490	Chemical 20915 21074	Poly {acrylamide-co -2-[2-(2-N -acrylamidoethoxy)ethoxy]ethoxyl-α-d -mannopyranoside-co -N -acrylamidophenyl 3-O -α-d -galactopyranosyl-α-d -galactopyranoside}
+T491	Chemical 21076 21080	12  
+T492	Chemical 21082 21092	Compound 8
+T493	Chemical 21104 21115	compound 11
+T494	Chemical 21130 21140	acrylamide
+T495	Chemical 21183 21188	water
+T496	Chemical 21197 21216	Ammonium persulfate
+T497	Chemical 21259 21264	TMEDA
+T498	Chemical 21328 21333	argon
+T499	Chemical 21442 21447	water
+T500	Chemical 21477 21484	polymer
+T501	Chemical 21531 21533	12
+T502	Spectral_Data 21557 21762	1  H NMR (D2 O) δ 7.24 (s, 2H), 7.03 (d, J =7.0 Hz, aromatic proton), 5.55 (s, anomeric proton), 5.06 (s, anomeric proton), 4.73 (s, anomeric proton), 3.26–4.15 (m), 2.17 and 2.02 (2bs), 1.60 and 1.48 (2bs
+T503	Chemical 21567 21571	D2 O
+T504	Chemical 21814 21826	Gal α1→3 Gal
+T505	Chemical 21827 21837	acrylamide
+T506	Chemical 21838 21845	mannose
+R61	Associated_With Arg1:T501 Arg2:T502	
+R62	Associated_With Arg1:T490 Arg2:T502	
+T507	Chemical 21849 21993	Poly {acrylamide-co -2-[2-(2-N -acrylamidoethoxy)ethoxy]ethoxyl-α-d -mannopyranoside-co -2-[2-(2-N -acrylamidoethoxy)ethoxy]ethoxyl-β-lactoside}
+T508	Chemical 21995 22000	14A  
+T509	Chemical 22002 22012	Compound 8
+T510	Chemical 22025 22035	compound 5
+T511	Chemical 22051 22061	acrylamide
+T512	Chemical 22105 22110	water
+T513	Chemical 22119 22138	Ammonium persulfate
+T514	Chemical 22182 22187	TMEDA
+T515	Chemical 22252 22257	argon
+T516	Chemical 22364 22369	water
+T517	Chemical 22399 22406	polymer
+T518	Chemical 22453 22456	14A
+T519	Spectral_Data 22476 22659	1 H NMR (D2 O) δ 4.72 (s, mannose anomeric proton), 4.35 (d, J =7.5 Hz, anomeric proton), 4.28 (d, J =7.8 Hz, anomeric proton), 3.26–4.79 (m), 2.17 and 2.01 (2bs), 1.58 and 1.47 (2bs)
+T520	Chemical 22485 22489	D2 O
+T521	Chemical 22502 22509	mannose
+T522	Chemical 22710 22717	lactose
+T523	Chemical 22718 22728	acrylamide
+T524	Chemical 22729 22736	mannose
+R63	Associated_With Arg1:T518 Arg2:T519	
+R64	Associated_With Arg1:T507 Arg2:T519	
+T525	Chemical 22740 22867	Poly {acrylamide-co -N -acryloyl-aminophenyl α-d -mannopyranoside-co -2 -[2 -(2 -N-acrylamidoethoxy)ethoxy]ethoxyl-β-lactoside}
+T526	Chemical 22869 22874	14B  
+T527	Chemical 22876 22887	Compound 13
+T528	Chemical 22938 22948	compound 5
+T529	Chemical 22964 22974	acrylamide
+T530	Chemical 23018 23023	water
+T531	Chemical 23032 23051	Ammonium persulfate
+T532	Chemical 23094 23099	TMEDA
+T533	Chemical 23163 23168	argon
+T534	Chemical 23278 23283	water
+T535	Chemical 23313 23320	polymer
+T536	Chemical 23371 23374	14B
+T537	Spectral_Data 23394 23590	1 H NMR (D2 O) (m, aromatic protons), 5.42 (bs, anomeric proton), 4.35 (d, J =7.5 Hz, anomeric proton), 4.28 (d, J =8.0 Hz, anomeric proton), 4.00–3.20 (m), 2.18 and 2.03 (2bs), 1.60 and 1.48 (2bs
+T538	Chemical 23403 23407	D2 O
+T539	Chemical 23643 23650	lactose
+T540	Chemical 23651 23661	acrylamide
+T541	Chemical 23662 23669	mannose
+R65	Associated_With Arg1:T536 Arg2:T537	
+R66	Associated_With Arg1:T525 Arg2:T537	
+T542	Chemical 23673 23680	Polymer
+T543	Chemical 23682 23687	15A  
+T544	Chemical 23698 23714	glycopolymer 14A
+T545	Chemical 23737 23744	lactose
+T546	Chemical 23747 23754	UDP-Gal
+T547	Protein 23767 23776	rα1-3GalT
+T548	Chemical 23819 23827	Tris–HCl
+T549	Chemical 23860 23864	Mn2+
+T550	Chemical 23960 23965	water
+T551	Chemical 24010 24022	glycopolymer
+T552	Chemical 24081 24086	15A  
+T553	Spectral_Data 24126 24270	13 C NMR (D2 O) 103.5, 102.7, 99.1 (mannose anomeric carbon) 96.0 (α-galactose anomeric carbon), 79.2 (C-4 of glucose), 77.8 (C-3 of β-galactose
+T554	Chemical 24162 24169	mannose
+T555	Chemical 24179 24185	carbon
+T556	Chemical 24193 24204	α-galactose
+T557	Chemical 24214 24220	carbon
+T558	Chemical 24236 24243	glucose
+T559	Chemical 24259 24270	β-galactose
+R67	Associated_With Arg1:T552 Arg2:T553	
+T560	Chemical 24274 24281	Polymer
+T561	Chemical 24283 24288	15B  
+T562	Chemical 24299 24315	glycopolymer 14B
+T563	Chemical 24338 24345	lactose
+T564	Chemical 24348 24355	UDP-Gal
+T565	Protein 24368 24377	rα1-3GalT
+T566	Chemical 24420 24428	Tris–HCl
+T567	Chemical 24461 24465	Mn2+
+T568	Chemical 24561 24566	water
+T569	Chemical 24611 24623	glycopolymer
+T570	Chemical 24682 24687	15B  
+T571	Spectral_Data 24727 24873	13 C NMR (D2 O) δ 103.4, 102.7, 100.4 (mannose anomeric carbon) 95.9 (α-galactose anomeric carbon), 79.1 (C-4 of glucose), 77.7 (C-3 of β-galactos
+T572	Chemical 24737 24741	D2 O
+T573	Chemical 24136 24140	D2 O
+T574	Chemical 24766 24773	mannose
+T575	Chemical 24783 24789	carbon
+T576	Chemical 24797 24808	α-galactose
+T577	Chemical 24818 24824	carbon
+T578	Chemical 24840 24847	glucose
+T579	Chemical 24863 24874	β-galactose
+R68	Associated_With Arg1:T570 Arg2:T571	
+T580	Chemical 24878 24963	Poly {acrylamide-co -2-[2-(2-N -acrylamidoethoxy)ethoxy]ethoxyl-α-d -mannopyranoside}
+T581	Chemical 24965 24968	15C
+T582	Chemical 24971 24984	Copolymer 15C
+T583	Chemical 25008 25018	compound 8
+T584	Chemical 25059 25073	terpolymer 14A
+T585	Chemical 25123 25133	acrylamide
+T586	Chemical 25134 25141	mannose
+T587	Chemical 25145 25211	Poly {acrylamide-co -N -acryloyl-aminophenyl α-d -mannopyranoside}
+T588	Chemical 25213 25216	15D
+T589	Chemical 25219 25232	Copolymer 15D
+T590	Chemical 25256 25267	compound 13
+T591	Chemical 25361 25371	acrylamide
+T592	Chemical 25372 25379	mannose
+T593	Chemical 25383 25459	Poly {acrylamide-co -2-[2-(2-N -acrylamidoethoxy)ethoxy]ethoxyl-β-lactoside}
+T594	Chemical 25461 25464	15E
+T595	Chemical 25467 25480	Copolymer 15E
+T596	Chemical 25504 25514	compound 5
+T597	Chemical 25555 25569	terpolymer 14A
+T598	Chemical 25620 25627	lactose
+T599	Chemical 25628 25638	acrylamide
+T600	Chemical 25642 25649	Polymer
+T601	Chemical 25651 25654	15F
+T602	Chemical 25657 25670	Copolymer 15F
+T603	Chemical 25726 25737	polymer 15A
+T604	Chemical 25786 25791	15F  
+T605	Biological_Activity 25745 25754	enzymatic
+T606	Chemical 25815 25826	Compound 16
+T607	Chemical 25829 25871	2,3,4,6-Hepta-O -acetyl-α-lactosyl bromide
+T608	Chemical 25892 25917	methyl 6-hydroxyhexanoate
+T609	Chemical 26023 26028	CHCl3
+T610	Chemical 26086 26089	HgO
+T611	Chemical 26102 26109	HgBr2  
+T612	Chemical 26260 26266	Celite
+T613	Chemical 26274 26279	glass
+T614	Chemical 26314 26322	NaHCO3  
+T615	Chemical 26326 26331	water
+T616	Chemical 26376 26383	Na2 SO4
+T617	Chemical 26455 26461	hexane
+T618	Chemical 26462 26467	EtOAc
+T619	Chemical 26492 26494	16
+T620	Spectral_Data 26515 27163	1 H NMR (CDCl3 ) δ 5.32 (d, J =2.5 Hz, 1H), 5.17 (t, J =9.0 Hz, 1H), 5.08 (dd, J =8.0, 10.5, 1H), 4.93 (dd, J =3.5, 10.5, 1H), 4.85 (dd, J =8.0, 10.5, 1H), 4.47–4.44 (m, 2H), 4.42 (d, J =8.0 Hz, 1H), 4.11–4.04 (m, 3H), 3.87–3.80 (m, 2H), 3.77 (t, J =9.5 Hz, 1H), 3.64 (s, 3H), 3.59–3.55 (m, 1H), 3.46–3.41 (m, 1H), 2.27 (t, J =7.5 Hz, 2H), 2.13, 2.10, 2.04, 2.021, 2.020, 2.01, 1.94 (7s, 7 acetyl groups), 1.64–1.50 (m, 4H), 1.38–1.28 (m, 2H). 13 C δ174.7, 171.1, 171.0, 170.8, 170.7, 170.5, 170.3, 169.8, 101.7, 101.2, 77.0, 73.5, 73.3, 72.4, 71.7, 71.3, 70.5, 69.8, 67.3, 62.7, 61.5, 34.6, 29.7, 26.0, 25.2, 21.54, 21.49, 21.4(b), 21.3(b), 21.2(b
+T621	Chemical 26524 26529	CDCl3
+T622	Spectral_Data 27166 27224	HRFABMS calcd for C33 H48 O20 Na+  787.2637, found 787.261
+R69	Associated_With Arg1:T619 Arg2:T620	
+R70	Associated_With Arg1:T619 Arg2:T622	
+T623	Chemical 27525 27529	MeOH
+T624	Chemical 27530 27534	H2 O
+T625	Chemical 27574 27578	LiOH
+T626	Chemical 27746 27750	17  
+T627	Spectral_Data 27780 28070	1 H NMR (D2 O) δ 4.45 (d, J =8.0 Hz, 1H), 4.41 (d, J =7.6 Hz, 1H), 3.96–3.49 (m, 13 H), 3.26 (t, J =8.0 Hz, 1H), 2.22 (t, J =7.2 Hz, 2H), 1.64–1.53 (m, 4H), 1.38–1.32 (m, 2H) 13 C δ183.3, 103.5, 102.6, 79.0, 76.0, 75.4, 75.1, 73.5, 73.1, 71.6, 71.1, 69.2, 61.6, 60.7, 37.1, 29.1, 25.8, 25.5
+T628	Chemical 27789 27793	D2 O
+T629	Spectral_Data 28072 28131	HRFABMS calcd for C18 H32 O13 Na+  479.1741, found 479.1762
+R71	Associated_With Arg1:T626 Arg2:T627	
+R72	Associated_With Arg1:T626 Arg2:T629	
+T630	Chemical 28134 28145	Compound 18
+T631	Chemical 28165 28169	17  
+T632	Chemical 28183 28218	p -aminophenyl-α-d -mannopyranoside
+T633	Chemical 28231 28234	DMF
+T634	Chemical 28260 28264	DPPA
+T635	Chemical 28278 28281	TEA
+T636	Chemical 28443 28448	water
+T637	Chemical 28479 28493	glycoconjugate
+T638	Chemical 28479 28493;28535 28539	glycoconjugate 18  
+T639	Spectral_Data 28569 28682	1 H NMR (D2 O) δ5.39 (s, 1H, anomeric proton of mannose), 4.26 (d, J =7.5 Hz, 2H, two anomeric protons of lactose
+T640	Chemical 28578 28582	D2 O
+T641	Chemical 28617 28624	mannose
+T642	Chemical 28675 28682	lactose
+T643	Spectral_Data 28700 28777	13  C (103.4 (C-1 of glucose), 102.5 (C-1 of galactose), 99.0 (C-1 of mannose
+T644	Chemical 28721 28728	glucose
+T645	Chemical 28745 28754	galactose
+T646	Chemical 28770 28777	mannose
+T647	Spectral_Data 28780 28840	HRFABMS calcd for C30 H47 NO18 Na+  732.2691, found 732.2665
+R73	Associated_With Arg1:T638 Arg2:T639	
+R74	Associated_With Arg1:T638 Arg2:T643	
+R75	Associated_With Arg1:T638 Arg2:T647	
+T648	Chemical 28843 28854	Compound 19
+T649	Chemical 28866 28883	glycoconjugate 18
+T650	Chemical 28896 28903	UDP-Gal
+T651	Chemical 28919 28922	BSA
+T652	Protein 28927 28936	rα1-3GalT
+T653	Chemical 28979 28987	Tris–HCl
+T654	Protein 28919 28922	BSA
+T655	Chemical 29020 29024	Mn2+
+T656	Chemical 29120 29125	water
+T657	Chemical 29236 29238	19
+T658	Spectral_Data 29276 29474	1 H NMR (D2 O) δ 5.52 (s, 1H, anomeric proton of mannose), 5.09, (d, J =3.2 Hz, 1H, anomeric proton of α-galactose), 4.45 (d, J =7.6 Hz, 1H, anomeric proton), 4.40 (d, J =8.0 Hz, 1H, anomeric proton
+T659	Chemical 29285 29289	D2 O
+T660	Chemical 29325 29332	mannose
+T661	Chemical 29379 29390	α-galactose
+T662	Spectral_Data 29486 29592	13 C δ 103.9 (C-1 of glucose), 103.1 (C-1 of β-galactose), 99.5 (C-1 of mannose), 96.5 (C-1 of α-galactose
+T663	Chemical 29507 29514	glucose
+T664	Chemical 29531 29542	β-galactose
+R76	Associated_With Arg1:T641 Arg2:T639	
+R77	Associated_With Arg1:T642 Arg2:T639	
+R78	Associated_With Arg1:T644 Arg2:T643	
+R79	Associated_With Arg1:T645 Arg2:T643	
+R80	Associated_With Arg1:T646 Arg2:T643	
+R81	Associated_With Arg1:T660 Arg2:T658	
+R82	Associated_With Arg1:T661 Arg2:T658	
+R83	Associated_With Arg1:T663 Arg2:T662	
+R84	Associated_With Arg1:T664 Arg2:T662	
+T665	Chemical 29558 29565	mannose
+T666	Chemical 29581 29592	α-galactose
+R85	Associated_With Arg1:T665 Arg2:T662	
+R86	Associated_With Arg1:T666 Arg2:T662	
+T667	Spectral_Data 29595 29655	HRFABMS calcd for C36 H57 NO23 Na+  894.3219, found 894.3223
+R87	Associated_With Arg1:T657 Arg2:T658	
+R88	Associated_With Arg1:T657 Arg2:T662	
+R89	Associated_With Arg1:T657 Arg2:T667	
+T668	Biological_Activity 29658 29671	Agglutination
+T669	Species 29678 29696	E. coli  K12 HB101
+T670	Chemical 29772 29775	PBS
+T671	Species 29821 29826	Yeast
+T672	Species 29828 29841	S. cerevisiae
+T673	Chemical 29927 29930	PBS
+T674	Biological_Activity 29971 29984	Agglutination
+T675	Species 30117 30126	bacterial
+T676	Species 30166 30171	yeast
+T677	Biological_Activity 30252 30265	Agglutination
+T678	Chemical 30298 30303	glass
+T679	Protein 30322 30334	anti-Gal IgG
+T680	Species 30340 30345	human
+T681	Protein 30363 30381	anti-Gal antibodie
+T682	Species 30406 30411	human
+T683	Chemical 30524 30529	water
+T684	Species 30479 30483	Male
+T685	Chemical 30559 30564	α-Gal
+T686	Chemical 30565 30574	Sepharose
+T687	Chemical 30613 30616	PBS
+T688	Chemical 30761 30764	PBS
+T689	Protein 30852 30871	anti-Gal antibodies
+T690	Chemical 30919 30930	glycine·HCl
+T691	Chemical 31077 31095	sodium bicarbonate
+T692	Species 31153 31158	Mouse
+T693	Protein 31159 31166	laminin
+T694	Chemical 31180 31189	carbonate
+T695	Chemical 31213 31220	antigen
+T696	Biological_Activity 31213 31220	antigen
+T697	Chemical 31370 31373	PBS
+T698	Species 31386 31391	human
+T699	Protein 31403 31415	anti-Gal IgG
+T700	Species 31457 31462	human
+T701	Protein 31463 31475	anti-Gal IgG
+T702	Biological_Activity 31532 31539	binding
+T703	Chemical 31555 31562	antigen
+T704	Biological_Activity 31555 31562	antigen
+T705	Chemical 31596 31599	BSA
+T706	Protein 31596 31599	BSA
+T707	Chemical 31603 31606	PBS
+T708	Chemical 31847 31850	PBS
+T709	Chemical 31857 31862	Tween
+T710	Species 31882 31886	goat
+T711	Species 31892 31897	human
+T712	Protein 31898 31912	IgG-peroxidase
+T713	Chemical 31982 31985	PBS
+T714	Chemical 31991 31996	Tween
+T715	Protein 32002 32012	peroxidase
+T716	Chemical 32053 32083	3,3′,5,5′-tetramethylbenzidine
+T717	Chemical 32084 32095	(TMB)/H2 O2
+T718	Chemical 32217 32249	uridine 5′ diphosphate galactose
+T719	Chemical 32251 32258	UDP-Gal

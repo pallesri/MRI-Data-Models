@@ -1,0 +1,6 @@
+T1	Disease 238 255	skin inflammation
+T4	Plant 0 17	Passiflora edulis
+T5	Plant 136 146	Passiflora
+T2	Treatment_of_disease 207 214	against
+E1	Treatment_of_disease:T2 Theme:T3 Cause:T5 Theme2:T1
+T3	Disease 228 233	fever

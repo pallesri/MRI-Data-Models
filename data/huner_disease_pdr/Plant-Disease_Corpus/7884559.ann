@@ -1,0 +1,14 @@
+T1	Disease 81 87	cancer
+T2	Disease 843 849	cancer
+T3	Disease 884 891	cancers
+T4	Disease 1080 1086	cancer
+T5	Plant 60 68	soybeans
+T7	Plant 147 154	soybean
+T8	Plant 310 317	soybean
+T11	Plant 565 572	soybean
+T12	Plant 586 593	Soybean
+T15	Plant 670 677	soybean
+T16	Plant 794 801	soybean
+T18	Plant 991 998	soybean
+T6	Treatment_of_disease 73 80	prevent
+E1	Treatment_of_disease:T6 Theme:T1 Cause:T5

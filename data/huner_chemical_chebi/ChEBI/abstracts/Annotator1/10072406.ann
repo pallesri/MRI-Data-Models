@@ -1,0 +1,41 @@
+T1	Chemical 53 84	oxidized fatty acid derivatives
+T2	Chemical 86 95	oxylipins
+T3	Metabolite 53 84	oxidized fatty acid derivatives
+T4	Metabolite 86 95	oxylipins
+T5	Species 100 106	potato
+T6	Species 153 175	Phytophthora infestans
+T7	Chemical 181 216	18-carbon divinyl ether fatty acids
+#1	AnnotatorNotes T7	Class of chemicals
+T8	Chemical 218 232	colneleic acid
+T9	Metabolite 218 232	colneleic acid
+T10	Chemical 237 252	colnelenic acid
+T11	Metabolite 237 252	colnelenic acid
+T12	Chemical 385 410	divinyl ether fatty acids
+#2	AnnotatorNotes T12	Class of chemicals
+T13	Species 438 444;525 540	potato cultivar Bintje
+T14	Chemical 567 582	Colnelenic acid
+T15	Metabolite 567 582	Colnelenic acid
+T16	Chemical 730 750	jasmonic acid family
+#3	AnnotatorNotes T16	Class of chemicals
+T17	Chemical 805 819	divinyl ethers
+T18	Species 876 883	tobacco
+T19	Species 889 909	tobacco mosaic virus
+T20	Metabolite 805 819	divinyl ethers
+T21	Chemical 911 920;936 940	Colneleic acid
+T22	Chemical 925 940	colnelenic acid
+T23	Metabolite 925 940	colnelenic acid
+T24	Metabolite 911 920;936 940	Colneleic acid
+T25	Biological_Activity 960 969	inhibitor
+T26	Species 974 986	P. infestans
+T27	Chemical 1031 1045	divinyl ethers
+#4	AnnotatorNotes T27	Class of chemicals
+T29	Species 438 461	potato cultivar Matilda
+T30	Metabolite 730 750	jasmonic acid family
+#5	AnnotatorNotes T30	Class of metabolites
+R1	Associated_With Arg1:T24 Arg2:T25	
+R2	Associated_With Arg1:T23 Arg2:T25	
+R4	Isolated_From Arg1:T9 Arg2:T5	
+R5	Isolated_From Arg1:T11 Arg2:T5	
+R6	Isolated_From Arg1:T30 Arg2:T5	
+R7	Isolated_From Arg1:T9 Arg2:T18	
+R8	Isolated_From Arg1:T11 Arg2:T18	

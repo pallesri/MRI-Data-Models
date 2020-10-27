@@ -1,0 +1,19 @@
+T1	Chemical 10 27	acyclonucleosides
+T2	Chemical 41 65	benzothiadiazine dioxide
+T3	Chemical 134 150	acyclic moieties
+T4	Chemical 162 181;223 229	acetoxyethoxymethyl groups
+T5	Chemical 183 198;223 229	benzyloxymethyl groups
+T6	Chemical 204 229	propargyloxymethyl groups
+T7	Chemical 313 316;324 335	N-1 derivatives
+T8	Chemical 320 335	N-3 derivatives
+T9	Protein 337 343	Lipase
+T11	Chemical 402 419	acyclonucleosides
+T13	Chemical 433 475	benzothiadiazine dioxide acyclonucleosides
+T15	Chemical 599 610	ganciclovir
+T16	Biological_Activity 674 686	cytotoxicity
+T17	Chemical 491 493	16
+T19	Biological_Activity 913 922	cytotoxic
+T20	Chemical 755 766	compound 16
+T23	Biological_Activity 767 776	inhibited
+R6	Associated_With Arg1:T20 Arg2:T23	
+R1	Associated_With Arg1:T17 Arg2:T16	

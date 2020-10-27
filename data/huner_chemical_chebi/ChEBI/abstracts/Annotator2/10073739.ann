@@ -1,0 +1,23 @@
+T1	Chemical 118 131;137 147;6 16	hydrochloride bitartrate Cysteamine
+T6	Chemical 155 179	sodium phosphocysteamine
+T10	Chemical 214 235	cysteamine bitartrate
+T11	Chemical 241 258	phosphocysteamine
+T13	Chemical 324 348	cysteamine hydrochloride
+T14	Chemical 481 491	cysteamine
+T16	Chemical 815 839	cysteamine hydrochloride
+T17	Chemical 841 858	phosphocysteamine
+T19	Chemical 864 885	cysteamine bitartrate
+T20	Chemical 1089 1099	cysteamine
+T21	Chemical 1195 1205	cysteamine
+T23	Chemical 1327 1351	cysteamine hydrochloride
+T24	Chemical 1374 1391	phosphocysteamine
+T26	Chemical 1413 1434	cysteamine bitartrate
+T27	Chemical 1591 1595	salt
+#1	AnnotatorNotes T27	Chemical class
+T28	Chemical 1677 1687	cysteamine
+T7	Species 88 96	patients
+T8	Species 1825 1833	patients
+T9	Species 506 527	adult male volunteers
+T2	Chemical 118 131	hydrochloride
+T4	Chemical 6 16	Cysteamine
+T3	Biological_Activity 1457 1470	adverse event

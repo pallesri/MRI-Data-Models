@@ -1,0 +1,19 @@
+T1	Disease 48 60	colon cancer
+T2	Disease 262 274	colon cancer
+T4	Disease 779 784	tumor
+T7	Disease 1162 1167	tumor
+T9	Disease 1543 1548	tumor
+T12	Plant 20 25	wheat
+T16	Plant 367 372	wheat
+T19	Plant 525 530	wheat
+T21	Plant 1017 1022	wheat
+T23	Plant 1179 1184	wheat
+T24	Plant 1416 1421	Wheat
+T27	Plant 1579 1584	Wheat
+T29	Plant 1694 1699	Wheat
+T30	Plant 201 206	wheat
+T6	Disease 999 1004	tumor
+T3	Disease 702 707	tumor
+T10	Disease 1646 1651	tumor
+T13	Treatment_of_disease 31 39	protects
+E1	Treatment_of_disease:T13 Cause:T12 Theme:T1

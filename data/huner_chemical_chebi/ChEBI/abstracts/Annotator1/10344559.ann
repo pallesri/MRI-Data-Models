@@ -1,0 +1,24 @@
+T1	Chemical 0 16;18 19	Phosphatoquinone A
+T2	Chemical 0 16;24 25	Phosphatoquinone B
+T3	Species 67 91	Streptomyces sp. TA-0363
+T4	Metabolite 0 16;18 19	Phosphatoquinone A
+T5	Metabolite 0 16;24 25	Phosphatoquinone B
+R1	Isolated_From Arg1:T4 Arg2:T3	
+R2	Isolated_From Arg1:T5 Arg2:T3	
+T6	Spectral_Data 132 154	spectroscopic analyses
+R3	Associated_With Arg1:T1 Arg2:T6	
+R4	Associated_With Arg1:T2 Arg2:T6	
+R5	Associated_With Arg1:T5 Arg2:T6	
+R6	Associated_With Arg1:T5 Arg2:T6	
+T7	Chemical 156 172;174 175	Phosphatoquinone A
+T8	Metabolite 156 172;180 181	Phosphatoquinone B
+T9	Biological_Activity 182 191	inhibited
+T10	Protein 196 224	protein tyrosine phosphatase
+R7	Associated_With Arg1:T7 Arg2:T9	
+R8	Associated_With Arg1:T8 Arg2:T9	
+T11	Chemical 156 172;180 181	Phosphatoquinone B
+T12	Metabolite 156 172;174 175	Phosphatoquinone A
+R9	Associated_With Arg1:T12 Arg2:T9	
+R10	Associated_With Arg1:T11 Arg2:T9	
+T13	Species 248 253	human
+T14	Biological_Activity 213 224	phosphatase

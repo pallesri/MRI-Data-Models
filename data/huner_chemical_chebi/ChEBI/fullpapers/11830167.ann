@@ -1,0 +1,313 @@
+T1	Species 1 15	Solanum torvum
+T2	Species 25 35	Solanaceae
+T3	Chemical 234 254	steroidal glycosides
+T4	Chemical 371 394	long chain hydrocarbons
+T5	Chemical 399 407	steroids
+T6	Species 467 476	S. torvum
+T7	Species 697 706	S. torvum
+T8	Chemical 715 735	isoflavonoid sulfate
+T9	Chemical 743 753	torvanol A
+T10	Metabolite 743 753	torvanol A
+T11	Chemical 771 790	steroidal glycoside
+T12	Chemical 798 809	torvoside H
+T13	Metabolite 798 809	torvoside H
+T14	Chemical 839 848	glycoside
+T15	Chemical 850 861	torvoside A
+T16	Metabolite 850 861	torvoside A
+T17	Chemical 895 899	MeOH
+T18	Species 911 920	S. torvum
+R1	Isolated_From Arg1:T10 Arg2:T18	
+R2	Isolated_From Arg1:T13 Arg2:T18	
+R3	Isolated_From Arg1:T16 Arg2:T18	
+T19	Chemical 961 971	Torvanol A
+T20	Metabolite 961 971	Torvanol A
+T21	Chemical 998 1002	MeOH
+T22	Species 1014 1023	S. torvum
+T23	Chemical 1100 1114	Sephadex LH-20
+R4	Isolated_From Arg1:T20 Arg2:T22	
+T24	Chemical 1168 1178	torvanol A
+T25	Metabolite 1168 1178	torvanol A
+T26	Chemical 1228 1242	aromatic rings
+T27	Chemical 1251 1264	methyl ethers
+T28	Chemical 1327 1331	D2 O
+T29	Spectral_Data 1309 1777	1 H NMR spectrum (D2 O) of torvanol A (1  ) showed two prominent methyl ether singlets (δ H  3.75 and 3.84), non-equivalent methylene protons attached to a carbon bearing an oxygen atom (δ H  4.17 and 4.25), methine protons (δ H  3.50 and 5.53), two trans  olefinic protons (δ H  6.31 and 7.24), and five aromatic protons (δ H  6.72–7.10). The J  value of 15.7 Hz of olefinic protons (H-7′ and H-8′) revealed a trans  geometry of the double bond between C-7′ and C-8′.
+T30	Chemical 1336 1346	torvanol A
+T31	Metabolite 1336 1346	torvanol A
+R5	Associated_With Arg1:T31 Arg2:T29	
+R6	Associated_With Arg1:T30 Arg2:T29	
+T32	Spectral_Data 1782 1956	13 C NMR spectrum of torvanol A (1  ) revealed 20 signals which were classified by the DEPT technique as nine methine, one methylene, two methyl, and eight quaternary carbons
+T33	Chemical 1803 1813	torvanol A
+T34	Metabolite 1803 1813	torvanol A
+R7	Associated_With Arg1:T34 Arg2:T32	
+R8	Associated_With Arg1:T33 Arg2:T32	
+T35	Spectral_Data 1962 2175	1 H–1 H COSY spectrum of torvanol A (1  ) revealed a partial structure from H-2 to H-4, and the existence of an ABX system of the aromatic ring A, as well as a meta  coupling between aromatic protons H-2′ and H-4′
+T36	Chemical 1987 1997	torvanol A
+T37	Metabolite 1987 1997	torvanol A
+R9	Associated_With Arg1:T37 Arg2:T35	
+R10	Associated_With Arg1:T36 Arg2:T35	
+T38	Spectral_Data 2177 2484	The HMBC spectral data (optimized for n J HC =8.0 Hz) of torvanol (1 ) showed correlations of H-2 to C-4 and C-1′; H-3 to C-4a and C-1′; H-4 to C-2 and C-5; H-5 to C-4, C-7 and C-8a; H-7 to C-5 and C-8a; H-8 to C-4a and C-6; both H-2′ and H-4′ to C-6′ and C-7′; H-7′ to C-2′, C-4′ and C-9′; and H-8′ to C-3′
+T39	Chemical 2234 2242	torvanol
+T40	Metabolite 2234 2242	torvanol
+T41	Spectral_Data 2492 2527	1 H–1 H COSY and HMBC spectral data
+T42	Chemical 2550 2560	torvanol A
+T43	Metabolite 2550 2560	torvanol A
+R13	Associated_With Arg1:T43 Arg2:T41	
+R14	Associated_With Arg1:T42 Arg2:T41	
+R15	Associated_With Arg1:T43 Arg2:T38	
+R16	Associated_With Arg1:T42 Arg2:T38	
+T44	Chemical 2580 2601	isoflavonoid skeleton
+T45	Chemical 2608 2622	methoxy groups
+T46	Spectral_Data 2656 2684	HMBC and NOESY spectral data
+T47	Chemical 2707 2717	torvanol A
+T48	Metabolite 2707 2717	torvanol A
+T49	Spectral_Data 2686 3170	The HMBC spectrum of torvanol A (1  ) showed correlation of 6-OMe protons to C-6, and 5′-OMe protons to C-5′, while the NOESY spectrum of (1  ) revealed cross peaks between 6-OMe protons and H-5, as well as between 5′-OMe protons and H-4′. The chemical shifts at C-4 (δ H  5.53 and δ C  88.3) suggested the presence of an ester in torvanol A (1  ), however, there were no further carbon resonances on the 13 C NMR of torvanol A (1  ), implying the existence of an inorganic ester in 1
+R11	Associated_With Arg1:T48 Arg2:T49	
+R12	Associated_With Arg1:T47 Arg2:T49	
+T50	Spectral_Data 3174 3362	The accurate mass of m /z  451.0677 [(M–H)− , Δ−2.2 mmu] obtained from the ESITOF mass spectrum (negative ion mode) of torvanol A (1  ) revealed a molecular formula of 1   as C20 H20 O10 S
+T51	Spectral_Data 3415 3575	IR spectrum of 1   indicated the presence of hydroxyl groups (ν max  3448 cm−1 ), conjugated carbonyl (ν max  1638 cm−1 ), and sulfate ester (ν max  1256 cm−1 )
+T52	Chemical 3460 3475	hydroxyl groups
+T53	Chemical 3396 3409	sulfate ester
+T54	Chemical 3497 3516	conjugated carbonyl
+T55	Chemical 3542 3555	sulfate ester
+T56	Chemical 3595 3614	sulfate ester group
+T57	Spectral_Data 3641 3771	EIMS spectrum of torvanol A (1  ), showing the prominent peak of the fragment ion at m /z  355 [M-97], due to the loss of [HSO4 ]−
+T58	Chemical 3658 3668	torvanol A
+T59	Metabolite 3658 3668	torvanol A
+R19	Associated_With Arg1:T59 Arg2:T51	
+R20	Associated_With Arg1:T58 Arg2:T51	
+R21	Associated_With Arg1:T59 Arg2:T57	
+R22	Associated_With Arg1:T58 Arg2:T57	
+T60	Chemical 3293 3303	torvanol A
+T61	Metabolite 3293 3303	torvanol A
+R23	Associated_With Arg1:T61 Arg2:T50	
+R24	Associated_With Arg1:T60 Arg2:T50	
+T62	Chemical 3792 3802	torvanol A
+T63	Metabolite 3792 3802	torvanol A
+T64	Chemical 3862 3874	sulfate salt
+T65	Spectral_Data 3891 3908	atomic absorption
+T66	Chemical 3951 3965	potassium salt
+T67	Chemical 4009 4019	torvanol A
+T68	Metabolite 4009 4019	torvanol A
+T69	Chemical 4030 4031	K
+R17	Associated_With Arg1:T68 Arg2:T65	
+R18	Associated_With Arg1:T67 Arg2:T65	
+T70	Chemical 4097 4107	torvanol A
+T71	Metabolite 4097 4107	torvanol A
+T72	Chemical 4179 4189	torvanol A
+T73	Metabolite 4179 4189	torvanol A
+T74	Spectral_Data 4220 4550	The 3 J 3,4  value of 6.4 Hz suggested a pseudo axial orientation of H-4, and the respective J H-2ax,H-3  and J H-2eq,H-3  of 7.0 and 4.7 Hz revealed that H-3 was also pseudo axial. The NOESY spectrum of torvanol A (1 ) showed correlations between H-4 and H-2ax, and H-3 and H-2eq, supporting the proposed relative stereochemistry
+R25	Associated_With Arg1:T73 Arg2:T74	
+R26	Associated_With Arg1:T72 Arg2:T74	
+T75	Spectral_Data 4556 4572	1 H NMR spectrum
+T76	Chemical 4573 4586	(pyridine-d 5
+T77	Chemical 4592 4603	torvoside H
+T78	Metabolite 4592 4603	torvoside H
+T79	Chemical 4681 4690	glycoside
+T80	Chemical 4642 4646	MeOH
+T81	Chemical 4692 4703	torvoside A
+T82	Metabolite 4692 4703	torvoside A
+R27	Associated_With Arg1:T78 Arg2:T75	
+R28	Associated_With Arg1:T77 Arg2:T75	
+T83	Spectral_Data 4753 4770	13 C NMR spectrum
+T84	Chemical 4774 4785	torvoside H
+T85	Metabolite 4774 4785	torvoside H
+T86	Chemical 4843 4865	hydroxy bearing carbon
+T87	Chemical 4970 4976	ketone
+R29	Associated_With Arg1:T85 Arg2:T83	
+R30	Associated_With Arg1:T84 Arg2:T83	
+T88	Spectral_Data 4843 4990	hydroxy bearing carbon signal at δ C  ca. 71.0 (C-3) in 2   was replaced by a signal at δ C  210.7 in 3  , characteristic of a ketone functionality
+R31	Associated_With Arg1:T85 Arg2:T88	
+R32	Associated_With Arg1:T84 Arg2:T88	
+T89	Spectral_Data 4996 5088	ketone moiety was also confirmed by an absorption peak at 1702 cm−1  in the IR spectrum of 3
+R33	Associated_With Arg1:T84 Arg2:T89	
+R34	Associated_With Arg1:T84 Arg2:T89	
+T90	Spectral_Data 5096 5170;5172 5208	ESITOF mass spectral data (negative ion mode) revealed quasi-molecular ion at m /z  901 [M–H]−  for torvoside H
+T91	Spectral_Data 5096 5170;5172 5181;5218 5245	ESITOF mass spectral data (negative ion mode) revealed quasi-molecular ion at m /z   903 [M–H]−  for torvoside A
+T92	Chemical 5197 5208	torvoside H
+T93	Metabolite 5197 5208	torvoside H
+R35	Associated_With Arg1:T93 Arg2:T90	
+R36	Associated_With Arg1:T92 Arg2:T90	
+T94	Chemical 5234 5245	torvoside A
+T95	Metabolite 5234 5245	torvoside A
+R37	Associated_With Arg1:T95 Arg2:T91	
+R38	Associated_With Arg1:T94 Arg2:T91	
+T96	Chemical 5266 5280	hydroxyl group
+T97	Chemical 5301 5307	ketone
+T98	Protein 5345 5359	β -glucosidase
+T99	Chemical 5361 5372	torvoside H
+T100	Metabolite 5361 5372	torvoside H
+T101	Chemical 5384 5391	glucose
+T102	Metabolite 5384 5391	glucose
+T103	Chemical 5442 5454	glucose unit
+T104	Chemical 5493 5504	torvoside A
+T105	Metabolite 5493 5504	torvoside A
+T106	Spectral_Data 5539 5710	ESITOF mass spectrum (negative ion mode) established the molecular formula of compound 5   as C39 H62 O12 , showing an accurate mass at m /z  721.4155 [(M–H)− , Δ−0.8 mmu]
+T107	Spectral_Data 5716 5746	1 H and 13 C NMR spectral data
+T108	Chemical 5784 5795	torvoside H
+T109	Metabolite 5784 5795	torvoside H
+T110	Chemical 7727 7824	(25S )-6α -hydroxy-5α -spirostan-3-one 6-O -[α -l -rhamnopyranosyl-(1→3)-β -d -quinovopyranoside]
+T111	Chemical 7860 7990	(25S )-26-O -(β -d -glucopyranosyl)-6α ,26-dihydroxy-5α -spirostan-3-one 6-O -[α -l -rhamnopyranosyl-(1→3)-β -D-quinovopyranoside]
+T112	Spectral_Data 6057 6309	1 H–13 C long-ranged correlations on the HMBC spectrum of compound 5  were as follows: H-2 and H-4 to C-3; H-4 to C-6; H-18 to C-1 and C-5; H-19 to C-12, C-14 and C-17; H-16 to C-20; H-21 to C-17 and C-22; H-24 to C-22; and H-26 to C-22, C-24 and C-27.
+R39	Associated_With Arg1:T110 Arg2:T112	
+T113	Chemical 6403 6412	quinovose
+T114	Chemical 6570 6579	quinovose
+T115	Chemical 6464 6472	rhamnose
+T116	Chemical 6588 6606	steroidal aglycone
+T117	Chemical 6649 6658	quinovose
+T118	Chemical 6663 6685	rhamnose (1→3 linkage)
+T120	Chemical 5617 5627	compound 5
+T119	Spectral_Data 6310 6483	The HMBC spectrum of 5  also demonstrated the correlation of the anomeric proton (H-qui1) of quinovose to C-6 and that of the anomeric proton (H-rha1) of rhamnose to C-qui3.
+R40	Associated_With Arg1:T110 Arg2:T119	
+T121	Spectral_Data 6691 6852	downfield shifts of H-qui3 (at δ H  4.21) and C-qui3 (at δ C  83.7) in the 1 H and 13 C NMR spectra of 5  also indicated the connectivity (1→3) of the two sugars
+T122	Spectral_Data 6909 7286	the J H-qui1,H-qui2  (7.8 Hz), J H-qui2,H-qui3  (9.0 Hz) and J H-qui3,H-qui4  (9.0 Hz), revealed axial orientations of H-qui1, H-qui2, H-qui3 and H-qui4, respectively, while those of J H-rha2,H-rha3  (3.2 Hz), J H-rha3,H-rha4  (9.3 Hz) and J H-rha4,H-rha5  (9.3 Hz) readily indicated the respective configurations of H-2, H-3, H-4 and H-5 as equatorial, axial, axial and axial.
+R41	Associated_With Arg1:T110 Arg2:T121	
+R42	Associated_With Arg1:T110 Arg2:T122	
+T123	Chemical 7830 7841	torvoside H
+T124	Metabolite 7830 7841	torvoside H
+T125	Metabolite 7860 7990	(25S )-26-O -(β -d -glucopyranosyl)-6α ,26-dihydroxy-5α -spirostan-3-one 6-O -[α -l -rhamnopyranosyl-(1→3)-β -D-quinovopyranoside]
+T126	Chemical 7992 8002	Torvanol A
+T127	Metabolite 7992 8002	Torvanol A
+T128	Chemical 8009 8020	torvoside H
+T129	Metabolite 8009 8020	torvoside H
+T130	Biological_Activity 8052 8061	antiviral
+R43	Associated_With Arg1:T127 Arg2:T130	
+R44	Associated_With Arg1:T126 Arg2:T130	
+R45	Associated_With Arg1:T129 Arg2:T130	
+R46	Associated_With Arg1:T128 Arg2:T130	
+R47	Associated_With Arg1:T110 Arg2:T130	
+R48	Associated_With Arg1:T111 Arg2:T130	
+R49	Associated_With Arg1:T111 Arg2:T130	
+T131	Species 8072 8099	herpes simplex virus type 1
+T132	Species 8218 8220;8234 8243	BC cell line
+T133	Species 8222 8224;8234 8243	KB cell line
+T134	Species 8229 8243	Vero cell line
+T135	Biological_Activity 8256 8265	antiviral
+T136	Species 8276 8288	herpes virus
+T137	Species 8293 8302	Solanum  
+T138	Chemical 8302 8322	steroidal glycosides
+T139	Biological_Activity 8406 8419	antimicrobial
+T140	Chemical 8293 8322	Solanum  steroidal glycosides
+T141	Metabolite 8293 8322	Solanum  steroidal glycosides
+R50	Associated_With Arg1:T141 Arg2:T135	
+R51	Associated_With Arg1:T140 Arg2:T135	
+T142	Chemical 8436 8446	methanolic
+T143	Species 8458 8467	S. torvum
+T144	Spectral_Data 8509 8743	1 H, 13 C, DEPTs, 1 H–1 H COSY, NOESY, HMQC (optimized for 1 J HC =145 Hz) and HMBC (optimized for n J HC =8.0 Hz as well as 4.0 Hz) spectra were recorded on a Bruker DRX 400, operating at 400.1 MHz for proton and 100.6 MHz for carbon
+T145	Chemical 8712 8718	proton
+T146	Chemical 8509 8512	1 H
+T147	Chemical 8514 8518	13 C
+T148	Chemical 8737 8743	carbon
+T149	Biological_Activity 8749 8821	ESITOF mass spectra were obtained from a Micromass LCT mass spectrometer
+T150	Spectral_Data 8833 8893	IR spectra were measured on a Perkin-Elmer 2000 spectrometer
+T151	Chemical 9009 9019	torvanol A
+T152	Metabolite 9009 9019	torvanol A
+T153	Chemical 8988 8993	metal
+T154	Species 9180 9189	S. torvum
+T155	Chemical 9291 9295	MeOH
+T156	Chemical 9391 9395	MeOH
+T157	Chemical 9435 9441	hexane
+T158	Chemical 9446 9451	EtOAc
+T159	Chemical 9489 9493	MeOH
+T160	Chemical 9495 9501	hexane
+T161	Chemical 9507 9512	EtOAc
+T162	Chemical 9631 9635	MeOH
+T163	Chemical 9659 9673	Sephadex LH-20
+T164	Chemical 9694 9698	MeOH
+T165	Chemical 9809 9819	torvanol A
+T166	Chemical 9944 9948	H2 O
+T167	Chemical 9949 9953	MeOH
+T168	Chemical 9987 9997	torvanol A
+T169	Metabolite 9809 9819	torvanol A
+T170	Metabolite 9987 9997	torvanol A
+T171	Chemical 10041 10055	Sephadex LH-20
+T172	Chemical 10128 10132	H2 O
+T173	Chemical 10133 10137	MeOH
+T174	Chemical 10171 10182	torvoside A
+T175	Metabolite 10171 10182	torvoside A
+T176	Chemical 10200 10211	torvoside H
+T177	Metabolite 10200 10211	torvoside H
+T178	Chemical 10317 10328	Ellipticine
+T179	Species 10381 10383;10391 10400	BC cell line
+T180	Species 10388 10400	KB cell line
+T181	Biological_Activity 10437 10446	Antiviral
+T182	Biological_Activity 10244 10253	cytotoxic
+R52	Associated_With Arg1:T178 Arg2:T182	
+T183	Species 10532 10559	Herpes simplex virus type 1
+T184	Species 10561 10566	HSV-1
+T185	Species 10590 10604	Vero cell line
+T186	Species 10630 10650	African green monkey
+T187	Chemical 10675 10707	Eagle’s minimum essential medium
+T188	Chemical 10748 10766	fetal bovine serum
+T189	Species 10754 10760	bovine
+T190	Chemical 10783 10794	antibiotics
+T191	Species 10922 10927	HSV-1
+T192	Species 10994 11004	Vero cells
+T193	Chemical 11101 11106	CO2  
+T194	Chemical 11248 11257	Acyclovir
+T195	Biological_Activity 11283 11292	antiviral
+R53	Associated_With Arg1:T194 Arg2:T195	
+T196	Species 11293 11298	HSV-1
+T197	Chemical 11333 11343	Torvanol A
+T198	Metabolite 11333 11343	Torvanol A
+T199	Spectral_Data 11410 11512	IR ν max  cm−1 : 3448, 2362, 1638, 1610, 1545, 1499, 1389, 1330, 1256, 1145, 1065, 985, 851, 822, 761;
+R54	Associated_With Arg1:T198 Arg2:T199	
+R55	Associated_With Arg1:T197 Arg2:T199	
+T200	Spectral_Data 11513 11548	UV (MeOH) λ max  nm: 203, 234, 283;
+R56	Associated_With Arg1:T198 Arg2:T200	
+R57	Associated_With Arg1:T197 Arg2:T200	
+T201	Spectral_Data 11549 11654	ESITOF MS (negative ion mode): m /z  451.0677, calc. for C20 H19 O10 S (M–H)− , free acid form, 451.0699;
+R58	Associated_With Arg1:T198 Arg2:T201	
+R59	Associated_With Arg1:T197 Arg2:T201	
+T202	Spectral_Data 11659 11662;11672 11694	1 H NMR spectra (Table 1 )
+T203	Spectral_Data 11667 11694	13 C NMR spectra (Table 1 )
+R60	Associated_With Arg1:T198 Arg2:T203	
+R61	Associated_With Arg1:T197 Arg2:T203	
+R62	Associated_With Arg1:T198 Arg2:T202	
+R63	Associated_With Arg1:T197 Arg2:T202	
+T204	Chemical 11701 11712	Torvoside H
+T205	Metabolite 11701 11712	Torvoside H
+T206	Chemical 11701 11712;11726 11741	Torvoside H derivative (5 )
+T207	Metabolite 11701 11712;11726 11741	Torvoside H derivative (5 )
+T208	Chemical 11742 11753	Torvoside H
+T209	Metabolite 11742 11753	Torvoside H
+T210	Spectral_Data 11846 11916	IR ν max  cm−1 : 3422, 2932, 1702, 1655, 1648, 1458, 1420, 1381, 1074;
+R64	Associated_With Arg1:T209 Arg2:T210	
+R65	Associated_With Arg1:T208 Arg2:T210	
+T211	Spectral_Data 11917 12003	ESITOF MS (negative ion mode): m /z  901.465, calc. for C45 H73 O18  (M–H)− , 901.479;
+R66	Associated_With Arg1:T209 Arg2:T211	
+R67	Associated_With Arg1:T208 Arg2:T211	
+T212	Spectral_Data 12008 12011;12021 12043	1 H NMR spectra (Table 2 )
+T213	Spectral_Data 12016 12043	13 C NMR spectra (Table 2 )
+R68	Associated_With Arg1:T209 Arg2:T212	
+R69	Associated_With Arg1:T208 Arg2:T212	
+R70	Associated_With Arg1:T209 Arg2:T213	
+R71	Associated_With Arg1:T208 Arg2:T213	
+T214	Chemical 12045 12056	Torvoside H
+T215	Metabolite 12045 12056	Torvoside H
+T216	Species 12100 12106	almond
+T217	Protein 12107 12120	β-glucosidase
+T218	Protein 12100 12120	almond β-glucosidase
+T219	Chemical 12131 12135	H2 O
+T220	Chemical 12237 12247	silica gel
+T221	Chemical 12268 12273	CHCl3
+T222	Chemical 12275 12279	MeOH
+T223	Chemical 12295 12307	β-d -glucose
+T224	Spectral_Data 12382 12469	ESITOF MS (negative ion mode): m /z  721.4155, calc. for C39 H61 O12  (M-H)− , 721.4163
+T225	Spectral_Data 12471 12474;12484 12498	1 H NMR (Table 2 )
+T226	Spectral_Data 12479 12498	13 C NMR (Table 2 )
+T227	Chemical 12045 12056;12314 12326	Torvoside H derivative 5
+T228	Metabolite 12045 12056;12314 12326	Torvoside H derivative 5
+R72	Associated_With Arg1:T228 Arg2:T224	
+R73	Associated_With Arg1:T228 Arg2:T225	
+R74	Associated_With Arg1:T228 Arg2:T226	
+R75	Associated_With Arg1:T227 Arg2:T224	
+R76	Associated_With Arg1:T227 Arg2:T225	
+R77	Associated_With Arg1:T227 Arg2:T226	
+R78	Associated_With Arg1:T120 Arg2:T107	
+R79	Associated_With Arg1:T120 Arg2:T106	
+T229	Spectral_Data 5913 5960	DEPT, 1 H–1 H COSY, HMQC and HMBC spectral data
+T230	Chemical 6115 6125	compound 5
+R80	Associated_With Arg1:T230 Arg2:T112	
+R81	Associated_With Arg1:T230 Arg2:T119	
+T231	Chemical 7712 7722	compound 5
+T232	Chemical 8030 8040	compound 5

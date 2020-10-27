@@ -1,0 +1,63 @@
+T1	Protein 11 26	cytochrome P450
+T2	Protein 37 60	lauric acid hydroxylase
+T3	Species 138 146	sea bass
+T4	Species 148 168	Dicentrarchus labrax
+T5	Chemical 210 238	(omega-1)-hydroxylauric acid
+T6	Metabolite 210 238	(omega-1)-hydroxylauric acid
+T7	Chemical 285 293;332 350	(omega)- hydroxylauric acid
+T8	Metabolite 285 293;332 350	(omega)- hydroxylauric acid
+T9	Chemical 295 305;332 350	(omega-2)- hydroxylauric acid
+T10	Metabolite 295 305;332 350	(omega-2)- hydroxylauric acid
+T11	Chemical 307 317	(omega-3)-
+T12	Metabolite 307 317	(omega-3)-
+T13	Chemical 322 350	(omega-4)-hydroxylauric acid
+T14	Metabolite 322 350	(omega-4)-hydroxylauric acid
+T15	Spectral_Data 390 404	GC-MS analysis
+R1	Associated_With Arg1:T6 Arg2:T15	
+R2	Associated_With Arg1:T5 Arg2:T15	
+R3	Associated_With Arg1:T8 Arg2:T15	
+R4	Associated_With Arg1:T7 Arg2:T15	
+R5	Associated_With Arg1:T10 Arg2:T15	
+R6	Associated_With Arg1:T9 Arg2:T15	
+R7	Associated_With Arg1:T12 Arg2:T15	
+R8	Associated_With Arg1:T11 Arg2:T15	
+R9	Associated_With Arg1:T14 Arg2:T15	
+R10	Associated_With Arg1:T13 Arg2:T15	
+T16	Biological_Activity 406 429	Peroxisome proliferator
+T17	Chemical 440 450	clofibrate
+R11	Associated_With Arg1:T17 Arg2:T16	
+T18	Chemical 466 492	di(2-ethylhexyl) phthalate
+R12	Associated_With Arg1:T18 Arg2:T16	
+T19	Protein 522 545	lauric acid hydroxylase
+T21	Chemical 575 596	11-hydroxylauric acid
+T23	Chemical 37 48	lauric acid
+T24	Protein 658 681	lauric acid hydroxylase
+T26	Chemical 789 799	clofibrate
+T27	Chemical 803 829	di(2-ethylhexyl) phthalate
+T28	Species 838 842	fish
+T29	Chemical 864 875	lauric acid
+T31	Biological_Activity 928 951	peroxisome proliferator
+T32	Protein 988 993	P450s
+T33	Chemical 1060 1071	lauric acid
+T34	Chemical 1060 1081	lauric acid analogues
+T35	Chemical 1083 1086;1093 1108	11- dodecynoic acid
+T36	Chemical 1090 1108	10-dodecynoic acid
+T37	Protein 1167 1190	lauric acid hydroxylase
+T39	Species 1240 1246	fish  
+T40	Chemical 1249 1259	phthalates
+R15	Isolated_From Arg1:T8 Arg2:T3	
+R19	Isolated_From Arg1:T8 Arg2:T4	
+R20	Isolated_From Arg1:T14 Arg2:T3	
+R21	Isolated_From Arg1:T14 Arg2:T4	
+R22	Isolated_From Arg1:T10 Arg2:T3	
+R23	Isolated_From Arg1:T10 Arg2:T4	
+R24	Isolated_From Arg1:T12 Arg2:T3	
+R25	Isolated_From Arg1:T12 Arg2:T4	
+R26	Isolated_From Arg1:T6 Arg2:T3	
+R27	Isolated_From Arg1:T6 Arg2:T4	
+T42	Biological_Activity 1375 1385	biomarkers
+R13	Binds_With Arg1:T17 Arg2:T19	
+R14	Binds_With Arg1:T18 Arg2:T19	
+R28	Binds_With Arg1:T35 Arg2:T37	
+R29	Binds_With Arg1:T36 Arg2:T37	
+T20	Biological_Activity 876 890	metabolisation

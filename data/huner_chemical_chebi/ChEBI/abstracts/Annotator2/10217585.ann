@@ -1,0 +1,19 @@
+T1	Chemical 0 10	Calcitriol
+T2	Chemical 26 51	1,25-dihydroxy-vitamin D3
+T5	Chemical 58 73	steroid hormone
+T6	Biological_Activity 66 73	hormone
+R1	Associated_With Arg1:T2 Arg2:T6	
+R2	Associated_With Arg1:T1 Arg2:T6	
+T7	Chemical 183 193	calcitriol
+T8	Species 230 234	mice
+T12	Chemical 316 326	calcitriol
+T14	Species 397 402	human
+T15	Chemical 494 504	calcitriol
+T18	Chemical 656 660;683 691	H1N1 antigens
+T19	Chemical 662 666;683 691	H3N2 antigens
+T20	Chemical 671 690	influenza B antigen
+T21	Chemical 791 801	calcitriol
+T23	Species 884 889	human
+T3	Protein 113 121	cytokine
+T4	Protein 270 278	antibody
+T9	Biological_Activity 630 640	inhibition

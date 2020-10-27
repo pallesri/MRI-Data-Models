@@ -1,0 +1,60 @@
+T1	Species 16 29	creosote bush
+T2	Species 31 48	Larrea tridentata
+T3	Species 57 71	Zygophyllaceae
+#1	AnnotatorNotes T3	Species class
+T4	Chemical 263 273	masoprocol
+T5	Species 309 322	creosote bush
+T6	Species 329 332	rat
+R1	Isolated_From Arg1:T4 Arg2:T5	
+T7	Chemical 453 467	streptozotocin
+T8	Chemical 469 472	STZ
+T9	Chemical 507 514	glucose
+T10	Chemical 556 565	metformin
+T11	Chemical 596 606	masoprocol
+T12	Chemical 658 667	Masoproco
+T13	Chemical 687 694	glucose
+T14	Chemical 819 828	metformin
+T15	Chemical 905 915	Masoprocol
+T16	Chemical 939 951	triglyceride
+#2	AnnotatorNotes T16	Chemical class
+T17	Chemical 1076 1085	metformin
+T18	Chemical 1131 1141	fatty acid
+#3	AnnotatorNotes T18	Chemical class
+T19	Chemical 1146 1154	glycerol
+T20	Chemical 1208 1218	masoprocol
+T21	Chemical 1296 1305	metformin
+T22	Chemical 1333 1343	masoprocol
+T23	Chemical 1423 1426	STZ
+T24	Chemical 1437 1444	glucose
+T26	Protein 882 889	insulin
+T27	Protein 1355 1362	insulin
+T28	Chemical 1372 1379	glucose
+T29	Chemical 1566 1573	glucose
+T30	Chemical 1609 1619	masoprocol
+T31	Species 1702 1706	rats
+T32	Chemical 1720 1729	metformin
+T33	Chemical 1746 1756	masoprocol
+T34	Chemical 1859 1869	masoprocol
+T36	Chemical 2017 2027	masoprocol
+T37	Chemical 2050 2057	glucose
+T38	Chemical 2062 2074	triglyceride
+#4	AnnotatorNotes T38	Chemical class
+T39	Chemical 2101 2104	STZ
+T40	Species 2105 2109	rats
+T42	Chemical 2166 2173	glucose
+T44	Species 158 174	native Americans
+T45	Metabolite 263 273	masoprocol
+T46	Metabolite 658 668	Masoprocol
+T47	Metabolite 596 606	masoprocol
+T49	Metabolite 905 915	Masoprocol
+T51	Metabolite 1208 1218	masoprocol
+T53	Species 1427 1431	rats
+T54	Metabolite 1333 1343	masoprocol
+T55	Protein 1474 1481	insulin
+T56	Metabolite 1609 1619	masoprocol
+T57	Metabolite 1746 1756	masoprocol
+T58	Metabolite 1859 1869	masoprocol
+T59	Metabolite 2017 2027	masoprocol
+T43	Protein 127 134	insulin
+T25	Protein 1907 1914	insulin
+T35	Chemical 1926 1933	glucose

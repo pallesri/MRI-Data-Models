@@ -1,0 +1,608 @@
+T1	Chemical 5 13	platinum
+T2	Chemical 5 36	platinum coordination complexes
+T3	Chemical 37 46	cisplatin
+T4	Biological_Activity 61 66	toxic
+T5	Chemical 75 86	carboplatin
+T6	Chemical 114 119	drugs
+R1	Associated_With Arg1:T3 Arg2:T4	
+R2	Associated_With Arg1:T5 Arg2:T4	
+T7	Chemical 224 229	drugs
+T8	Biological_Activity 380 390	antitumour
+T9	Chemical 463 472	cisplatin
+T10	Chemical 473 484	carboplatin
+T11	Chemical 639 650	carboplatin
+T12	Chemical 706 717	carboplatin
+T13	Chemical 741 749	platinum
+T14	Chemical 741 754	platinum drug
+T15	Chemical 756 761	JM216
+T16	Chemical 869 878	cisplatin
+T17	Chemical 918 926	platinum
+T18	Chemical 918 932	platinum drugs
+T19	Chemical 967 978	oxaliplatin
+T20	Chemical 1067 1081	5-fluorouracil
+T21	Chemical 1116 1120	drug
+T22	Chemical 1122 1128	AMD473
+T23	Chemical 1130 1136	ZD0473
+T24	Chemical 1192 1201	cisplatin
+T25	Species 1216 1221	human
+T26	Biological_Activity 1290 1299	antitumor
+T27	Chemical 1334 1339	drugs
+T28	Chemical 1420 1434	platinum drugs
+T29	Chemical 1420 1428	platinum
+T30	Chemical 1454 1462	platinum
+T31	Chemical 1454 1469	platinum agents
+T32	Biological_Activity 1476 1480	bind
+T33	Chemical 1522 1531	cisplatin
+T34	Chemical 1536 1547	carboplatin
+R3	Associated_With Arg1:T19 Arg2:T26	
+R4	Associated_With Arg1:T22 Arg2:T26	
+R5	Associated_With Arg1:T23 Arg2:T26	
+T35	Chemical 1686 1711	trans  platinum complexes
+T36	Chemical 1693 1701	platinum
+T37	Chemical 1837 1845	platinum
+T38	Chemical 1837 1855	platinum complexes
+T39	Chemical 1878 1890	cis  isomers
+T40	Biological_Activity 1909 1918	antitumor
+R6	Associated_With Arg1:T39 Arg2:T40	
+T41	Chemical 1942 1967	trans  platinum complexes
+T42	Chemical 1949 1957	platinum
+T43	Chemical 2002 2035	platinum(II) iminoether complexes
+T44	Chemical 2002 2010	platinum
+T45	Chemical 2129 2134	JM335
+T46	Chemical 2136 2197	trans  ammine (cyclohexylaminedichlorodihydroxo) platinum(IV)
+T47	Biological_Activity 2230 2239	antitumor
+T48	Chemical 2254 2259	JM335
+R7	Associated_With Arg1:T48 Arg2:T47	
+R8	Associated_With Arg1:T46 Arg2:T47	
+T49	Chemical 2418 2423	JM335
+T50	Chemical 2429 2440	cis  isomer
+T51	Chemical 2442 2447	JM149
+T52	Chemical 2469 2481	platinum(II)
+T53	Chemical 2496 2548	trans  ammine(cyclohexylamine) dichloro platinum(II)
+T54	Chemical 2549 2554	JM334
+T55	Chemical 2564 2575	cis  isomer
+T56	Chemical 2576 2581	JM118
+T58	Chemical 2643 2653	metabolite
+T57	Chemical 2666 2679	platinum drug
+T59	Chemical 2666 2674	platinum
+T60	Chemical 2680 2685	JM216
+T61	Metabolite 2643 2653	metabolite
+T62	Metabolite 2576 2581	JM118
+R9	Metabolite_Of Arg1:T62 Arg2:T60	
+T63	Species 2722 2727	human
+T64	Chemical 2780 2789	cisplatin
+T65	Chemical 2818 2827	cisplatin
+T66	Biological_Activity 2915 2925	inhibition
+T67	Chemical 2988 2996	platinum
+T68	Chemical 2988 3001	platinum drug
+T69	Biological_Activity 3026 3035	induction
+T70	Biological_Activity 3047 3056	apoptosis
+T71	Species 3129 3134	human
+T72	Chemical 3180 3189	cisplatin
+T73	Chemical 3327 3336	cisplatin
+T74	Chemical 3504 3513	cisplatin
+T75	Biological_Activity 3514 3521	induced
+T78	Biological_Activity 3548 3557	apoptosis
+R10	Associated_With Arg1:T74 Arg2:T75	
+R12	Associated_With Arg1:T74 Arg2:T78	
+T79	Species 3673 3679	bovine
+T80	Chemical 3692 3704	l -glutamine
+T81	Chemical 3719 3733	hydrocortisone
+T82	Chemical 3740 3743	CO2
+T83	Species 3814 3824	Mycoplasma
+T84	Chemical 3832 3846	Platinum drugs
+T85	Chemical 3832 3840	Platinum
+T86	Chemical 3858 3863	JM118
+T87	Chemical 3865 3870	JM149
+T88	Chemical 3872 3877	JM334
+T89	Chemical 3883 3888	JM335
+T90	Chemical 4026 4031	drugs
+T91	Chemical 4063 4067	NaCl
+T92	Biological_Activity 4162 4172	inhibition
+T93	Chemical 4201 4217	sulforhodamine B
+T94	Chemical 4219 4222	SRB
+T95	Chemical 4259 4273	platinum drugs
+T96	Chemical 4259 4267	platinum
+T97	Chemical 4493 4507	Platinum drugs
+T98	Chemical 4493 4501	Platinum
+T99	Chemical 4642 4655	Platinum drug
+T100	Chemical 4642 4650	Platinum
+T101	Chemical 4690 4694	drug
+T102	Chemical 4726 4751	phosphate buffered saline
+T103	Chemical 4753 4756	PBS
+T104	Chemical 4857 4861	drug
+T105	Chemical 4904 4907	SRB
+T106	Chemical 4915 4924	Chemicals
+T107	Chemical 4953 4964	acetic acid
+T108	Biological_Activity 4973 4983	inhibition
+T109	Chemical 5107 5115	Platinum
+T110	Biological_Activity 5131 5138	binding
+T111	Chemical 5153 5161	platinum
+T112	Biological_Activity 5177 5184	binding
+T113	Biological_Activity 5173 5176;5192 5203	DNA platination
+T114	Chemical 5250 5254	drug
+T115	Chemical 5324 5328	drug
+T116	Chemical 5368 5371	PBS
+T117	Chemical 5404 5407	ice
+T118	Chemical 5413 5416	PBS
+T119	Chemical 5492 5494	Pt
+T120	Spectral_Data 5511 5551	flameless atomic absorption spectroscopy
+T121	Spectral_Data 5553 5557	FAAS
+R13	Associated_With Arg1:T119 Arg2:T120	
+R14	Associated_With Arg1:T119 Arg2:T121	
+T122	Protein 5612 5619	protein
+T123	Biological_Activity 5653 5660	binding
+T124	Chemical 5762 5765	ice
+T125	Chemical 5771 5774	PBS
+T126	Chemical 5806 5814	nitrogen
+T127	Chemical 5845 5851	phenol
+T128	Chemical 5856 5863	ethanol
+T129	Chemical 5968 5979	nitric acid
+T130	Chemical 5984 5992	platinum
+T131	Spectral_Data 6013 6017	FAAS
+R15	Associated_With Arg1:T130 Arg2:T131	
+T132	Chemical 6053 6061	platinum
+T133	Chemical 6099 6101	Pt
+T134	Chemical 6162 6170	platinum
+T135	Biological_Activity 6171 6178	induced
+T136	Chemical 6343 6347	drug
+T137	Chemical 6416 6420	drug
+T138	Chemical 6455 6459	drug
+T139	Chemical 6520 6528	Tris–HCl
+T140	Chemical 6541 6545	EDTA
+T141	Chemical 6554 6558	NaCl
+T142	Chemical 6571 6574	SDS
+T143	Chemical 6592 6610	sodium perchlorate
+T144	Chemical 6700 6710	chloroform
+T145	Chemical 7019 7026	ethanol
+T146	Chemical 7068 7075	ethanol
+T147	Chemical 7142 7146	H2 O
+T148	Protein 7252 7266	Taq polymerase
+T149	Chemical 7290 7294	dATP
+T150	Chemical 7296 7300	dCTP
+T151	Chemical 7302 7306	dGTP
+T152	Chemical 7308 7312	dTTP
+T153	Chemical 7347 7354	MgCl2  
+T154	Chemical 7404 7408	DMSO
+T155	Chemical 7461 7467;7469 7473	α-32 P dCTP
+T156	Chemical 7555 7587	5′–GCC TGG TTA CTG TGT CCT GT–3′
+T157	Chemical 7611 7643	5′–GCC AGC CAC ATC TAC AGT AC–3′
+T158	Chemical 8111 8114	ice
+T159	Chemical 8127 8147	trichloroacetic acid
+T160	Chemical 8154 8180	tetra sodium pyrophosphate
+T161	Chemical 8182 8185	TCA
+T162	Chemical 8260 8271	α-32 P-dCTP
+T163	Chemical 8305 8308	TCA
+T164	Chemical 8331 8338	ethanol
+T165	Chemical 8815 8819	drug
+T166	Chemical 8977 8980	ice
+T167	Chemical 8986 8989	PBS
+T168	Protein 9027 9034	trypsin
+T169	Chemical 9138 9155	propridium iodide
+T170	Chemical 9157 9159	PI
+T171	Chemical 9183 9186	ice
+T172	Chemical 9573 9577	Tris
+T173	Chemical 9586 9590	EDTA
+T174	Chemical 9595 9618	sodium dodecyl sulphate
+T175	Protein 9639 9651	proteinase K
+T176	Protein 9770 9776	RNAase
+T177	Chemical 9909 9916	agarose
+T178	Chemical 9955 9959	Tris
+T179	Chemical 9967 9981	sodium acetate
+T180	Chemical 9988 9992	EDTA
+T181	Chemical 10363 10367	drug
+T182	Chemical 10456 10460	drug
+T183	Chemical 10559 10563	NaCl
+T184	Chemical 10571 10579	Tris–HCl
+T185	Chemical 10617 10646	phenylmethylsulphonylfluoride
+T186	Chemical 10648 10652	PMSF
+T187	Chemical 10661 10677	Na orthovanadate
+T188	Chemical 10700 10704	NP40
+T189	Chemical 10717 10720	SDS
+T190	Protein 10727 10736	aprotinin
+T191	Chemical 10763 10772	leupeptin
+T192	Chemical 10807 10810	ice
+T193	Protein 10955 10962	protein
+T194	Chemical 11214 11228	nitrocellulose
+T195	Chemical 11309 11318	Ponceau S
+T196	Chemical 11397 11400	PBS
+T197	Chemical 11417 11425	Tween 20
+T198	Chemical 11427 11431	PBST
+T199	Chemical 11507 11511	NaCl
+T200	Chemical 11519 11523	Tris
+T201	Protein 11530 11536	caesin
+T202	Chemical 11547 11557	thimerosal
+T203	Chemical 11634 11638	PBST
+T204	Protein 11668 11675	protein
+T205	Protein 11701 11709	antibody
+T206	Chemical 11841 11845	PBST
+T207	Protein 11891 11899	antibody
+T208	Protein 11912 11935	horse radish peroxidase
+T209	Chemical 11980 11988	reagents
+T210	Biological_Activity 12217 12227	inhibition
+T211	Biological_Activity 12239 12249	inhibitory
+T212	Chemical 12281 12286;12297 12304	cis   isomers
+T213	Chemical 12290 12304	trans  isomers
+T214	Chemical 12449 12454	JM118
+T215	Chemical 12464 12469	JM334
+T216	Chemical 12480 12485	JM149
+T217	Chemical 12499 12504	JM335
+T218	Chemical 12571 12577	agents
+T219	Chemical 12649 12654	JM118
+T220	Chemical 12676 12681	JM334
+T221	Chemical 12703 12708	JM149
+T222	Chemical 12732 12737	JM335
+T223	Chemical 12849 12865	trans  compounds
+T224	Chemical 12889 12894	JM118
+T225	Chemical 12918 12923	JM149
+T226	Chemical 12953 12958	JM334
+T227	Chemical 12982 12987	JM335
+T228	Chemical 13118 13123	drugs
+T229	Chemical 13169 13178	cisplatin
+T230	Chemical 13286 13302	Pt(II) compounds
+T231	Chemical 13286 13292	Pt(II)
+T232	Chemical 13303 13308	JM118
+T233	Chemical 13313 13318	JM334
+T234	Chemical 13346 13358	platinum(IV)
+T235	Chemical 13381 13394	trans  isomer
+T236	Chemical 13395 13400	JM335
+T237	Chemical 13440 13451	cis  isomer
+T238	Chemical 13482 13491	cisplatin
+T239	Chemical 13538 13550	platinum(II)
+T240	Chemical 13561 13574	cis  compound
+T241	Chemical 13575 13580	JM118
+T242	Chemical 13613 13618	JM334
+T243	Chemical 13689 13705	trans  compounds
+T244	Chemical 13737 13746	cisplatin
+T245	Chemical 13785 13799	cis  compounds
+T246	Chemical 13907 13912	JM334
+T247	Chemical 13920 13925	JM118
+T248	Chemical 13933 13941	Platinum
+T249	Biological_Activity 13963 13970	binding
+T250	Chemical 14046 14050	drug
+T251	Chemical 14180 14182	Pt
+T252	Protein 14186 14193	protein
+T253	Chemical 14308 14316	Platinum
+T254	Chemical 14381 14403	trans  Pt(II) compound
+T255	Chemical 14404 14409	JM334
+T256	Chemical 14431 14442	cis  isomer
+T257	Chemical 14443 14448	JM118
+T258	Chemical 14519 14531	platinum(IV)
+T259	Chemical 14541 14546	JM335
+T260	Chemical 14761 14766	JM118
+T261	Chemical 14859 14864	JM149
+T262	Chemical 14902 14910	Platinum
+T263	Chemical 14930 14946	trans  compounds
+T264	Chemical 14947 14952	JM334
+T265	Chemical 14957 14962	JM335
+T267	Chemical 15163 15167	drug
+T269	Chemical 15254 15259	JM118
+T270	Chemical 15348 15370	trans  Pt(II) compound
+T271	Chemical 15371 15376	JM334
+T272	Chemical 15389 15394	JM118
+T273	Chemical 15403 15415	platinum(IV)
+T274	Chemical 14519 14539	platinum(IV) homolog
+T275	Chemical 15403 15423	platinum(IV) homolog
+T276	Chemical 15424 15429	JM335
+T76	Chemical 15567 15572	JM334
+T77	Chemical 15580 15585	JM118
+T266	Chemical 15722 15731	cisplatin
+T268	Chemical 15764 15769	JM334
+T277	Chemical 15783 15799	Pt(IV) compounds
+T278	Chemical 15854 15869	trans  compound
+T279	Chemical 15886 15897	cis  isomer
+T280	Chemical 16011 16036	trans  platinum compounds
+T281	Chemical 16002 16007;16018 16036	cis   platinum compounds
+T282	Chemical 16147 16156	cisplatin
+T283	Chemical 16132 16141	compounds
+T284	Chemical 16246 16255	cisplatin
+T285	Chemical 16329 16333	drug
+T286	Chemical 16376 16388	platinum(IV)
+T287	Chemical 16376 16405	platinum(IV) cis /trans  pair
+T288	Chemical 16465 16474	cisplatin
+T289	Chemical 16546 16560	platinum drugs
+T290	Chemical 16546 16554	platinum
+T291	Biological_Activity 16684 16691	induced
+T292	Chemical 16695 16700	JM149
+R11	Associated_With Arg1:T292 Arg2:T291	
+T293	Chemical 16733 16742	cisplatin
+T294	Chemical 16789 16796	adducts
+T295	Chemical 16811 16824	cis  compound
+T296	Chemical 16826 16831	JM149
+T297	Chemical 16848 16863	trans  compound
+T298	Chemical 16865 16870	JM335
+T299	Chemical 16888 16894;16903 16912	Pt(II) compounds
+T300	Chemical 16978 16994	Pt(IV) compounds
+T301	Chemical 17054 17061	adducts
+T302	Chemical 17076 17096	cis  Pt(II) compound
+T303	Chemical 17097 17102	JM118
+T304	Chemical 17115 17121	Pt(IV)
+T305	Chemical 17165 17172	adducts
+T306	Chemical 17232 17239	adducts
+T307	Chemical 17187 17200	cis  compound
+T308	Chemical 17201 17206	JM118
+T309	Chemical 17254 17267	trans  isomer
+T310	Chemical 17269 17274	JM334
+T311	Chemical 17285 17294	cisplatin
+T312	Chemical 17389 17403	cis  compounds
+T313	Chemical 17404 17409	JM118
+T314	Chemical 17414 17419	JM149
+T315	Chemical 17522 17531	cisplatin
+T316	Biological_Activity 17532 17539	induced
+T318	Biological_Activity 17595 17602	induced
+T319	Chemical 17606 17611;17622 17640	cis   platinum compounds
+T320	Chemical 17615 17640	trans  platinum compounds
+T322	Biological_Activity 17723 17730	induced
+T323	Chemical 17738 17747	compounds
+T324	Chemical 17824 17828	drug
+T325	Chemical 17886 17895	compounds
+T326	Chemical 18054 18059	JM149
+T327	Chemical 18064 18069	JM335
+T328	Chemical 18153 18165	cis  isomers
+T329	Chemical 18166 18171	JM118
+T330	Chemical 18176 18181	JM149
+T331	Chemical 18279 18295	trans  compounds
+T332	Chemical 18325 18339	cis  compounds
+T333	Biological_Activity 18376 18385	apoptosis
+T334	Biological_Activity 18386 18393	induced
+T335	Chemical 18406 18431	trans  platinum compounds
+T336	Chemical 18397 18402;18413 18431	cis   platinum compounds
+T338	Biological_Activity 18538 18547	apoptosis
+T339	Biological_Activity 18586 18595	apoptotic
+T340	Chemical 18787 18807	cis  Pt(II) compound
+T341	Chemical 18808 18813	JM118
+T342	Chemical 18841 18846	JM334
+T343	Chemical 18869 18880	cis  isomer
+T344	Chemical 18881 18886	JM118
+T345	Biological_Activity 18957 18966	apoptosis
+T346	Chemical 19138 19143	JM118
+T347	Chemical 19163 19168	JM334
+T348	Chemical 19239 19244	JM334
+T349	Chemical 19591 19600	compounds
+T350	Biological_Activity 19675 19684	apoptotic
+T351	Chemical 19735 19744	compounds
+T352	Biological_Activity 19745 19752	induced
+T353	Biological_Activity 19753 19762	apoptosis
+R20	Associated_With Arg1:T347 Arg2:T352	
+R21	Associated_With Arg1:T347 Arg2:T353	
+R22	Associated_With Arg1:T346 Arg2:T352	
+R23	Associated_With Arg1:T346 Arg2:T353	
+R24	Associated_With Arg1:T330 Arg2:T352	
+R25	Associated_With Arg1:T330 Arg2:T353	
+R26	Associated_With Arg1:T327 Arg2:T352	
+R27	Associated_With Arg1:T327 Arg2:T353	
+T354	Chemical 19939 19948	compounds
+T355	Chemical 20155 20164	cisplatin
+T356	Biological_Activity 20248 20257	apoptosis
+T357	Biological_Activity 20549 20558	apoptosis
+T358	Chemical 20647 20670	cis  platinum compounds
+T359	Chemical 20652 20660	platinum
+T360	Chemical 20671 20676	JM118
+T361	Chemical 20737 20742	JM149
+T362	Chemical 20893 20909	trans  compounds
+T363	Chemical 18413 18421	platinum
+T364	Chemical 17622 17630	platinum
+T365	Chemical 16018 16026	platinum
+T366	Chemical 15403 15415	platinum(IV)
+T367	Chemical 15355 15361	Pt(II)
+T368	Chemical 15783 15789	Pt(IV)
+T369	Chemical 14388 14394	Pt(II)
+T370	Chemical 21058 21063	JM334
+T371	Chemical 21096 21101	JM334
+T372	Chemical 21106 21111	JM335
+T373	Chemical 21161 21166	JM334
+T374	Chemical 21171 21176	JM335
+T375	Chemical 21252 21257	JM334
+T376	Chemical 21319 21323	drug
+T377	Protein 21374 21385	P53 protein
+T378	Biological_Activity 21361 21370	Induction
+T379	Chemical 21389 21394;21405 21423	cis   platinum compounds
+T380	Chemical 21398 21422	trans  platinum compound
+T381	Chemical 21405 21413	platinum
+R28	Associated_With Arg1:T379 Arg2:T378	
+R29	Associated_With Arg1:T380 Arg2:T378	
+R30	Binds_With Arg1:T380 Arg2:T377	
+R31	Binds_With Arg1:T379 Arg2:T377	
+T382	Biological_Activity 21608 21618	DNA damage
+T383	Biological_Activity 21619 21626	induced
+T384	Chemical 21634 21639;21650 21668	cis   platinum compounds
+T385	Chemical 21643 21668	trans  platinum compounds
+T386	Chemical 21650 21658	platinum
+R32	Associated_With Arg1:T384 Arg2:T383	
+R33	Associated_With Arg1:T384 Arg2:T382	
+R34	Associated_With Arg1:T385 Arg2:T383	
+R35	Associated_With Arg1:T385 Arg2:T382	
+T387	Biological_Activity 21706 21715	apoptosis
+T388	Chemical 21843 21848	JM149
+T389	Chemical 21849 21854	JM335
+T390	Chemical 21863 21870	isomers
+T391	Chemical 21983 21987	drug
+T392	Biological_Activity 22032 22039	induced
+T393	Biological_Activity 22116 22125	induction
+T394	Chemical 22155 22170	trans  compound
+T395	Chemical 22171 22176	JM335
+T396	Chemical 22253 22261	platinum
+T397	Chemical 22253 22266	platinum drug
+T398	Chemical 22325 22350	trans  platinum complexes
+T399	Chemical 22332 22340	platinum
+T400	Chemical 22390 22415	trans  platinum complexes
+T401	Chemical 22397 22405	platinum
+T402	Biological_Activity 22560 22569	antitumor
+T403	Chemical 22632 22657	trans  platinum compounds
+T404	Chemical 22639 22647	platinum
+T405	Chemical 22673 22678	JM335
+T406	Chemical 22617 22622	amine
+T407	Chemical 22715 22720	JM335
+R36	Associated_With Arg1:T405 Arg2:T402	
+T408	Chemical 22759 22768	cisplatin
+T409	Chemical 22803 22808	JM335
+T410	Species 22866 22871	human
+T411	Chemical 22916 22928	platinum(II)
+T412	Chemical 22948 22953	JM334
+T413	Chemical 23117 23122	JM335
+T414	Chemical 23131 23140	cisplatin
+T415	Species 23151 23156	human
+T416	Chemical 23328 23333;23344 23360	cis   platinum isomers
+T417	Chemical 23337 23360	trans  platinum isomers
+T418	Chemical 23344 23352	platinum
+T419	Chemical 23381 23390	cisplatin
+T420	Species 23401 23406	human
+T421	Chemical 23533 23542	cisplatin
+T422	Biological_Activity 23564 23574	inhibition
+T423	Biological_Activity 23589 23596	binding
+T424	Biological_Activity 23619 23629	DNA repair
+T425	Biological_Activity 23634 23643	induction
+T427	Biological_Activity 23691 23701	inhibition
+T428	Chemical 23772 23781	cisplatin
+T429	Chemical 23804 23820	trans  compounds
+T430	Chemical 24007 24021	cis  compounds
+T431	Chemical 24033 24042	cisplatin
+T432	Chemical 24108 24124	trans  compounds
+T433	Chemical 24154 24173	trans  Pt compounds
+T434	Chemical 24161 24163	Pt
+T435	Chemical 24248 24259	glutathione
+T436	Chemical 24300 24303	GSH
+T437	Chemical 24398 24413	trans  compound
+T438	Chemical 24414 24419	JM335
+T439	Chemical 24478 24481	GSH
+T440	Chemical 24575 24591	trans  compounds
+T441	Chemical 24618 24627	cisplatin
+T442	Biological_Activity 24676 24679;24692 24698	DNA repair
+T443	Biological_Activity 24680 24687	binding
+T444	Chemical 24773 24787	cis  compounds
+T445	Chemical 24760 24765;24778 24787	trans compounds
+T446	Biological_Activity 24825 24835	DNA damage
+T447	Biological_Activity 24836 24843	induced
+R37	Associated_With Arg1:T444 Arg2:T447	
+R38	Associated_With Arg1:T444 Arg2:T446	
+R39	Associated_With Arg1:T445 Arg2:T447	
+R40	Associated_With Arg1:T445 Arg2:T446	
+T448	Chemical 24936 24943	adducts
+T449	Chemical 25006 25029	cis  platinum compounds
+T450	Chemical 25011 25019	platinum
+T451	Chemical 25030 25035	JM118
+T452	Chemical 25040 25045	JM149
+T453	Chemical 25081 25088	adducts
+T454	Chemical 25138 25143	JM334
+T455	Chemical 25148 25153	JM335
+R41	Associated_With Arg1:T451 Arg2:T447	
+R42	Associated_With Arg1:T452 Arg2:T447	
+R43	Associated_With Arg1:T454 Arg2:T447	
+R44	Associated_With Arg1:T455 Arg2:T447	
+R45	Associated_With Arg1:T451 Arg2:T446	
+R46	Associated_With Arg1:T452 Arg2:T446	
+R47	Associated_With Arg1:T454 Arg2:T446	
+R48	Associated_With Arg1:T455 Arg2:T446	
+T456	Chemical 25259 25263	drug
+T457	Chemical 25285 25301	trans  compounds
+T458	Chemical 25398 25406	platinum
+T459	Biological_Activity 25541 25551	inhibition
+T460	Biological_Activity 25577 25584	binding
+T461	Chemical 25619 25634	Pt(II) compound
+T462	Chemical 25619 25625	Pt(II)
+T463	Chemical 25721 25729	platinum
+T464	Chemical 25744 25748	drug
+T465	Chemical 25943 25948	JM334
+T466	Biological_Activity 25973 25980	binding
+T467	Chemical 25996 26001	thiol
+T468	Chemical 26119 26126	adducts
+T469	Chemical 26137 26140;26155 26174	cis platinum compounds,
+T470	Chemical 26148 26173	trans  platinum compounds
+T471	Chemical 26155 26163	platinum
+T472	Chemical 26242 26249	adducts
+T473	Chemical 26292 26301	compounds
+T474	Chemical 26427 26436	compounds
+T475	Biological_Activity 26519 26531	cytotoxicity
+T476	Chemical 26535 26553	platinum compounds
+T477	Chemical 26535 26543	platinum
+R49	Associated_With Arg1:T476 Arg2:T475	
+T478	Chemical 26611 26618	adducts
+T479	Chemical 26629 26634	JM216
+T480	Chemical 26712 26721	cisplatin
+T481	Species 26832 26837	human
+T482	Chemical 26884 26892	platinum
+T483	Biological_Activity 26893 26898	bound
+T484	Chemical 26986 26995	compounds
+T485	Biological_Activity 27098 27107	apoptosis
+T486	Biological_Activity 27112 27121	induction
+T487	Protein 27125 27136	p53 protein
+T488	Chemical 27167 27172	JM216
+T489	Chemical 27189 27194	JM216
+T490	Chemical 27250 27258	platinum
+T491	Chemical 27263 27270	adducts
+T492	Chemical 27333 27338;27349 27358	cis   compounds
+T493	Chemical 27342 27358	trans  compounds
+T494	Chemical 27380 27398	platinum compounds
+T495	Chemical 27380 27388	platinum
+T496	Biological_Activity 27399 27406	induced
+T498	Biological_Activity 27421 27430	apoptosis
+T499	Biological_Activity 27475 27484	apoptotic
+T500	Chemical 27501 27505	drug
+T501	Chemical 27637 27646	cisplatin
+T502	Biological_Activity 27751 27760	apoptotic
+T503	Chemical 27803 27808;27819 27837	cis   platinum compounds
+T504	Chemical 27812 27837	trans  platinum compounds
+T505	Biological_Activity 27861 27870	apoptosis
+T506	Chemical 27819 27827	platinum
+T507	Chemical 27921 27926	JM335
+T508	Chemical 27931 27936	JM149
+T509	Biological_Activity 27943 27952	apoptosis
+T510	Chemical 28006 28011	JM334
+T511	Chemical 28015 28020	JM335
+T512	Chemical 28055 28067	cis  isomers
+T513	Chemical 28084 28089	JM334
+T514	Biological_Activity 28090 28097	induced
+T515	Biological_Activity 28104 28113	apoptotic
+T317	Chemical 28128 28132	drug
+T321	Biological_Activity 28178 28187	apoptotic
+T337	Protein 28311 28314	p53
+T426	Protein 28321 28328	protein
+T497	Biological_Activity 28333 28340	induced
+T516	Chemical 28370 28375	JM149
+T517	Chemical 28379 28384	JM335
+T518	Biological_Activity 28390 28399	induction
+T519	Chemical 28432 28445	trans  isomer
+T520	Protein 28456 28459	p53
+T521	Biological_Activity 28460 28469	induction
+T522	Biological_Activity 28492 28501	apoptosis
+T523	Protein 28549 28552	p53
+T524	Biological_Activity 28563 28572	apoptosis
+T525	Chemical 28634 28643	compounds
+T526	Chemical 28763 28772	cisplatin
+T527	Biological_Activity 28882 28889	binding
+T528	Chemical 28901 28910	compounds
+T529	Chemical 28930 28946	trans  compounds
+T530	Chemical 28967 28983	trans  compounds
+T531	Chemical 29010 29042	cis -oriented platinum compounds
+T532	Chemical 29024 29032	platinum
+T533	Chemical 29072 29077	JM335
+T534	Chemical 29089 29096	adducts
+T535	Protein 29137 29156	monoclonal antibody
+T536	Chemical 29190 29199	cisplatin
+T537	Chemical 29201 29208	adducts
+T538	Biological_Activity 29209 29216	induced
+T539	Chemical 29220 29225	JM149
+T540	Chemical 29230 29236	JM 118
+T541	Chemical 29273 29278	JM335
+T542	Chemical 29375 29393	platinum complexes
+T543	Chemical 29375 29383	platinum
+T544	Biological_Activity 29395 29398;29413 29419	DNA breaks
+T545	Chemical 29448 29466	trans  iminoethers
+T546	Chemical 29455 29466	iminoethers
+T547	Chemical 29521 29528	adducts
+T548	Chemical 29532 29539	guanine
+T549	Chemical 29669 29694	trans -pyridine complexes
+T550	Chemical 29676 29684	pyridine
+T551	Chemical 29849 29864	trans  compound
+T552	Chemical 29865 29890	(PtCl2 (NH3 )(quinoline))
+T553	Chemical 29962 29973	transplatin
+T554	Chemical 30089 30114	trans  platinum complexes
+T555	Chemical 30115 30120	JM334
+T556	Chemical 30096 30104	platinum
+T557	Chemical 30125 30130	JM335
+T558	Chemical 30239 30248	compounds
+T559	Biological_Activity 30257 30264	induced
+T560	Biological_Activity 30265 30274	apoptosis
+T561	Chemical 30347 30363	trans  compounds
+T562	Chemical 30415 30424	cisplatin
+T563	Chemical 30541 30548	adducts

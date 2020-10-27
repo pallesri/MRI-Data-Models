@@ -1,0 +1,20 @@
+T1	Disease 79 93	liver fibrosis
+T2	Disease 273 287	liver fibrosis
+T3	Disease 1334 1348	liver fibrosis
+T6	Plant 55 75	Gardenia jasminoides
+T9	Plant 202 222	Gardenia jasminoides
+T12	Plant 249 269	Gardenia jasminoides
+T15	Plant 418 438	Gardenia jasminoides
+T18	Plant 504 524	Gardenia jasminoides
+T21	Plant 627 647	Gardenia jasminoides
+T24	Plant 744 764	Gardenia jasminoides
+T27	Plant 852 872	Gardenia jasminoides
+T30	Plant 1040 1060	Gardenia jasminoides
+T33	Plant 1183 1203	Gardenia jasminoides
+T36	Plant 1278 1298	Gardenia jasminoides
+T4	Treatment_of_disease 1319 1326	effects
+E1	Treatment_of_disease:T4 Theme:T3 Cause:T36
+T5	Treatment_of_disease 24 51	anti-hepatofibrotic effects
+E2	Treatment_of_disease:T5 Cause:T6 Theme:T1
+T7	Treatment_of_disease 238 245	effects
+E3	Treatment_of_disease:T7 Cause:T12 Theme:T2

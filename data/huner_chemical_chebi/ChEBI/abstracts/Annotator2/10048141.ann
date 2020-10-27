@@ -1,0 +1,53 @@
+T1	Chemical 0 19	1,2-Dichlorobenzene
+T2	Chemical 21 28	1,2-DCB
+T3	Biological_Activity 42 56	hepatotoxicant
+T5	Chemical 130 153	reactive oxygen species
+T6	Biological_Activity 193 207	hepatotoxicity
+R1	Associated_With Arg1:T2 Arg2:T3	
+R2	Associated_With Arg1:T1 Arg2:T3	
+R3	Associated_With Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes T5	Chemical class
+T7	Chemical 215 238	reactive oxygen species
+T8	Chemical 362 369	1,2-DCB
+T9	Chemical 406 421	4-hydroxynonena
+T10	Chemical 424 429	4-HNE
+T11	Chemical 469 485	conjugated diene
+#2	AnnotatorNotes T11	c
+T12	Species 605 614	F344 rats
+T13	Chemical 633 640	1,2-DCB
+T14	Chemical 776 781	4-HNE
+T15	Chemical 851 858	1,2-DCB
+T16	Chemical 985 992	1,2-DCB
+T17	Species 1001 1005	rats
+T18	Chemical 1046 1063	conjugated dienes
+#3	AnnotatorNotes T18	Chemical class
+T19	Chemical 1130 1137	1,2-DCB
+T21	Protein 1242 1266	alanine aminotransferase
+T23	Species 1375 1379	rats
+T24	Chemical 1401 1420	gadolinium chloride
+T25	Chemical 1422 1428	GdCl3;
+T26	Biological_Activity 1470 1479	inhibitor
+T27	Biological_Activity 1498 1512	hepatotoxicity
+R4	Associated_With Arg1:T25 Arg2:T26	
+R5	Associated_With Arg1:T24 Arg2:T26	
+T28	Chemical 1572 1588	Conjugated diene
+T29	Protein 406 444	4-hydroxynonenal (4-HNE) protein adduc
+T30	Protein 776 797	4-HNE protein adducts
+#4	AnnotatorNotes T28	c
+T31	Chemical 1658 1665	1,2-DCB
+T32	Chemical 1695 1700	4-HNE
+T33	Protein 1695 1715	4-HNE protein adduct
+T34	Chemical 1744 1751	1,2-DCB
+T35	Species 1760 1764	rats
+T36	Chemical 1781 1786	GdCl3
+T37	Chemical 1825 1832	1,2-DCB
+T38	Species 1841 1845	rats
+T39	Chemical 1874 1890	superoxide anion
+R6	Isolated_From Arg1:T39 Arg2:T38	
+T40	Chemical 2032 2039	1,2-DCB
+T41	Chemical 2084 2107	reactive oxygen species
+#5	AnnotatorNotes T41	Chemical class
+T4	Species 65 76;84 88	Fischer 344 rats
+T45	Species 78 82;84 88	F344 rats
+T46	Chemical 662 670	corn oil
+T20	Biological_Activity 1250 1266	aminotransferase

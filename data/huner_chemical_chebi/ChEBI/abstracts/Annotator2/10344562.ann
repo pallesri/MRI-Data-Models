@@ -1,0 +1,30 @@
+T1	Biological_Activity 4 16	biosynthesis
+T2	Chemical 20 33	polyketomycin
+T3	Chemical 62 80	13C-labeled acetat
+T4	Chemical 62 73;86 96	13C-labeled propionate
+T5	Species 124 164	Streptomyces diastatochromogenes Tu 6028
+T6	Metabolite 20 33	polyketomycin
+R1	Isolated_From Arg1:T6 Arg2:T5	
+T7	Spectral_Data 166 191	13C NMR spectral analysis
+T8	Chemical 209 219	polyketide
+T9	Chemical 234 242;270 278	aglycone moieties
+T10	Chemical 251 278	dimethylsalicyloyl moieties
+T11	Chemical 284 298	O-methyl group
+T12	Chemical 303 308	6-CH3
+T13	Chemical 316 324	aglycone
+T14	Chemical 336 342	3B-CH3
+T15	Chemical 346 355	L-axenose
+T16	Chemical 360 366	3C-CH3
+T17	Chemical 374 384	salicyloyl
+T18	Chemical 417 441	L-[methyl-13C]methionine
+T19	Chemical 448 459	deoxysugars
+T20	Chemical 473 482	D-glucose
+T21	Biological_Activity 488 500	biosynthesis
+T22	Chemical 508 516	aglycone
+T23	Chemical 541 550	glycoside
+T24	Chemical 570 583	polyketomycin
+T25	Biological_Activity 661 673	biosynthesis
+T26	Metabolite 570 583	polyketomycin
+R2	Associated_With Arg1:T8 Arg2:T7	
+R3	Associated_With Arg1:T9 Arg2:T7	
+R4	Associated_With Arg1:T10 Arg2:T7	

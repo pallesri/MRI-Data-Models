@@ -1,0 +1,11 @@
+T1	Disease 102 117	prostate cancer
+T2	Disease 133 138	tumor
+T3	Disease 559 564	tumor
+T4	Disease 957 972	prostate tumors
+T5	Disease 1046 1052	tumors
+T6	Disease 1081 1096	prostate tumors
+T7	Disease 1225 1240	prostate cancer
+T8	Disease 1390 1405	prostate cancer
+T11	Plant 37 59	Phellodendron amurense
+T9	Treatment_of_disease 74 84	suppresses
+E1	Treatment_of_disease:T9 Theme:T1 Cause:T11

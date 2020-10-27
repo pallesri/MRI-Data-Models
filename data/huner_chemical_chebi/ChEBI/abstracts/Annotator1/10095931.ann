@@ -1,0 +1,19 @@
+T1	Protein 61 82	monoclonal antibodies
+T2	Chemical 91 94	FTB
+T3	Chemical 163 166	FTB
+T4	Species 184 193	buckwheat
+T5	Species 195 199	rice
+T6	Species 205 209	corn
+T7	Protein 289 299	antibodies
+T8	Chemical 308 323	fumitremorgin B
+T9	Chemical 324 327	FTB
+T10	Protein 394 415	monoclonal antibodies
+T11	Chemical 433 440	antigen
+T12	Protein 536 557	monoclonal antibodies
+T13	Protein 611 619	antibody
+T14	Chemical 725 728	FTB
+T15	Chemical 834 837	FTB
+T16	Species 955 964	buckwheat
+T17	Chemical 991 994	FTB
+R3	Binds_With Arg1:T2 Arg2:T1	
+T18	Biological_Activity 908 918	mycotoxins

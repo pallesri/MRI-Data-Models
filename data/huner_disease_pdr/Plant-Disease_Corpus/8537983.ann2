@@ -1,0 +1,22 @@
+T1	Disease 490 496	cancer
+T2	Disease 657 671	breast cancers
+T3	Disease 913 919	cancer
+T4	Disease 956 962	cancer
+T5	Disease 1035 1041	cancer
+T6	Disease 1203 1217	breast cancers
+T7	Disease 1375 1381	cancer
+T9	Disease 1692 1709	colorectal cancer
+T10	Disease 1817 1830	breast cancer
+T11	Disease 2134 2141	cancers
+T12	Disease 2350 2374	stomach and lung cancers
+T13	Disease 2435 2465	Analysis of the tea and cancer
+T14	Disease 2666 2672	cancer
+T15	Disease 2710 2724	breast cancers
+T16	Disease 2856 2863	cancers
+T17	Disease 2877 2883	cancer
+T18	Plant 294 303	black tea
+T19	Plant 577 586	black tea
+T20	Plant 1412 1421	black tea
+T21	Plant 2811 2820	black tea
+T8	Treatment_of_disease 2821 2829	protects
+E1	Treatment_of_disease:T8 Theme:T16 Cause:T21

@@ -1,0 +1,51 @@
+T1	Protein 51 63	heme protein
+T4	Protein 110 172	heterodimeric transcription factor hypoxia-inducible  factor 1
+T6	Protein 174 179	HIF-1
+T8	Protein 250 264	erythropoietin
+T9	Chemical 266 269	Epo
+T10	Chemical 320 324	heme
+T11	Chemical 51 55	heme
+T13	Chemical 342 357	carbon monoxide
+T12	Chemical 362 374	nitric oxide
+T15	Biological_Activity 402 411	signaling
+R4	Associated_With Arg1:T12 Arg2:T15	
+T17	Chemical 435 437	CO
+T18	Biological_Activity 451 461	suppressed
+T20	Protein 480 485	HIF-1
+T21	Biological_Activity 490 499	induction
+T22	Protein 503 506	Epo
+R6	Associated_With Arg1:T17 Arg2:T18	
+R8	Associated_With Arg1:T17 Arg2:T21	
+T24	Biological_Activity 674 682	chelator
+T26	Chemical 683 698	desferrioxamine
+T27	Chemical 564 566	CO
+T28	Biological_Activity 588 597	induction
+T29	Protein 601 606	HIF-1
+T31	Protein 620 623	Epo
+T33	Chemical 646 661	cobalt chloride
+R11	Associated_With Arg1:T33 Arg2:T28	
+R14	Associated_With Arg1:T26 Arg2:T28	
+T34	Chemical 716 718	CO
+T35	Chemical 771 777	oxygen
+T36	Chemical 867 887	sodium nitroprusside
+T37	Chemical 916 918	NO
+T38	Chemical 923 925	CO
+T39	Biological_Activity 926 935	inhibited
+T41	Protein 936 941	HIF-1
+T42	Protein 1000 1010	HIF-1alpha
+R16	Associated_With Arg1:T38 Arg2:T39	
+R17	Associated_With Arg1:T37 Arg2:T39	
+T43	Chemical 1035 1037	NO
+T44	Chemical 1042 1044	CO
+T47	Protein 1191 1201	HIF-1alpha
+T48	Protein 1119 1129	HIF-1alpha
+T49	Chemical 1209 1211	NO
+T50	Chemical 1216 1218	CO
+T52	Chemical 1301 1316	desferrioxamine
+T53	Chemical 1329 1335	cobalt
+T5	Chemical 1278 1284	oxygen
+T2	Chemical 383 389	oxygen
+R3	Associated_With Arg1:T13 Arg2:T15	
+R1	Associated_With Arg1:T26 Arg2:T24	
+T3	Chemical 1080 1086	oxygen
+T7	Biological_Activity 1263 1270	binding

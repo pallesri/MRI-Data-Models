@@ -1,0 +1,69 @@
+T1	Chemical 0 18	Phenylacetic acids
+T2	Chemical 113 126	phenylalanine
+T4	Species 158 175	Thauera aromatica
+T5	Chemical 176 189	phenylacetate
+T7	Chemical 255 266	benzoyl-CoA
+T8	Metabolite 255 266	benzoyl-CoA
+T9	Chemical 289 305	phenylacetyl-CoA
+T10	Metabolite 289 305	phenylacetyl-CoA
+T11	Chemical 310 326	phenylglyoxylate
+T12	Metabolite 310 326	phenylglyoxylate
+T13	Metabolite 328 342	benzoylformate
+T14	Chemical 328 342	benzoylformate
+R2	Metabolite_Of Arg1:T8 Arg2:T11	
+R3	Metabolite_Of Arg1:T8 Arg2:T14	
+R4	Metabolite_Of Arg1:T10 Arg2:T5	
+R5	Metabolite_Of Arg1:T12 Arg2:T5	
+R6	Metabolite_Of Arg1:T13 Arg2:T5	
+T15	Protein 349 355	enzyme
+R7	Metabolite_Of Arg1:T12 Arg2:T9	
+R8	Metabolite_Of Arg1:T13 Arg2:T9	
+T16	Chemical 402 418	phenylacetyl-CoA
+T17	Metabolite 402 418	phenylacetyl-CoA
+T19	Species 447 456	bacterium
+T20	Chemical 517 533	phenylacetyl-CoA
+T21	Chemical 538 545	quinone
+T22	Chemical 550 553	H2O
+T23	Chemical 558 574	phenylglyoxylate
+T24	Chemical 579 589	quinone H2
+T25	Chemical 592 597	CoASH
+T26	Protein 599 639	Phenylacetyl-CoA:acceptor oxidoreductase
+T27	Chemical 660 670	molybdenum
+T28	Chemical 671 675	iron
+T29	Chemical 676 682	sulfur
+T30	Protein 683 690	protein
+T31	Chemical 764 774	Ubiquinone
+T32	Biological_Activity 804 821	electron acceptor
+R1	Associated_With Arg1:T31 Arg2:T32	
+T33	Chemical 831 842	oxygen atom
+T34	Chemical 887 892	water
+T35	Protein 898 905	protein
+T36	Chemical 938 940	Mo
+T37	Chemical 949 951	Fe
+T39	Chemical 976 982	sulfur
+T38	Protein 1001 1007	enzyme
+T40	Chemical 1054 1073	Phenylglyoxylyl-CoA
+T41	Chemical 1083 1095	mandelyl-CoA
+T42	Protein 1138 1144	enzyme
+T44	Chemical 1210 1220	coenzyme A
+T45	Chemical 1226 1245	phenylglyoxylyl-CoA
+T46	Chemical 1259 1275	phenylacetyl-CoA
+T47	Protein 1281 1287	enzyme
+T48	Chemical 1341 1348	cyanide
+T49	Chemical 1391 1397	oxygen
+T50	Protein 1423 1438	molybdoproteins
+T51	Protein 1474 1480	enzyme
+T53	Chemical 1570 1586	molecular oxygen
+T55	Biological_Activity 61 71	metabolism
+T56	Protein 475 481	enzyme
+T57	Metabolite 517 533	phenylacetyl-CoA
+T58	Metabolite 538 545	quinone
+T59	Metabolite 558 574	phenylglyoxylate
+T60	Metabolite 579 589	quinone H2
+T61	Metabolite 592 597	CoASH
+T62	Metabolite 764 774	Ubiquinone
+T63	Metabolite 1054 1073	Phenylglyoxylyl-CoA
+R9	Metabolite_Of Arg1:T63 Arg2:T20	
+R10	Metabolite_Of Arg1:T59 Arg2:T40	
+T64	Metabolite 1226 1245	phenylglyoxylyl-CoA
+T3	Chemical 1522 1551	CoA-activated carboxylic acid

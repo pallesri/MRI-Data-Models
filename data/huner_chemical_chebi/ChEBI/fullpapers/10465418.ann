@@ -1,0 +1,991 @@
+T1	Species 1 25	Hydrangeae Dulcis Folium
+T2	Species 98 151	Hydrangea macrophylla seringe  var. thunbergii makino
+T3	Species 154 167	Saxifragaceae
+T4	Chemical 412 431	dihydroisocoumarins
+T5	Metabolite 412 431	dihydroisocoumarins
+T6	Chemical 433 445;583 597	phyllodulcin 8-O -glucoside
+T7	Metabolite 433 445;583 597	phyllodulcin 8-O -glucoside
+T8	Chemical 447 448	1
+T9	Metabolite 447 448	1
+T10	Chemical 455 466;583 597	hydrangenol 8-O -glucoside
+T11	Metabolite 455 466;583 597	hydrangenol 8-O -glucoside
+T12	Chemical 468 469	3
+T13	Metabolite 468 469	3
+T14	Chemical 433 445	phyllodulcin
+T15	Metabolite 433 445	phyllodulcin
+T16	Chemical 455 466	hydrangenol
+T17	Metabolite 455 466	hydrangenol
+R1	Isolated_From Arg1:T15 Arg2:T1	
+R2	Isolated_From Arg1:T9 Arg2:T1	
+R3	Isolated_From Arg1:T17 Arg2:T1	
+R4	Isolated_From Arg1:T13 Arg2:T1	
+T18	Species 647 685	Hydrangea macrophylla  var. thunbergii
+R5	Isolated_From Arg1:T7 Arg2:T18	
+R6	Isolated_From Arg1:T11 Arg2:T18	
+T19	Species 748 772	Hydrangeae Dulcis Folium
+T20	Chemical 785 795	methanolic
+T21	Biological_Activity 854 866	antiallergic
+T22	Biological_Activity 868 881	antibacterial
+T23	Biological_Activity 883 896	antioxidative
+T24	Biological_Activity 898 907	antiulcer
+T25	Biological_Activity 912 921	cholagoic
+T26	Chemical 1008 1020	isocoumarins
+T27	Metabolite 1008 1020	isocoumarins
+T28	Chemical 1022 1034;1036 1037	thunberginol A
+T29	Metabolite 1022 1034;1048 1049	thunberginol B
+T30	Chemical 1022 1034;1048 1049	thunberginol B
+T31	Metabolite 1022 1034;1036 1037	thunberginol A
+T32	Chemical 1039 1041	11
+T33	Metabolite 1039 1041	11
+T34	Chemical 1051 1053	12
+T35	Metabolite 1051 1053	12
+T36	Chemical 1071 1090	dihydroisocoumarins
+T37	Metabolite 1071 1090	dihydroisocoumarins
+T38	Chemical 1092 1104;1106 1107	thunberginol C
+T39	Metabolite 1092 1104;1114 1115	thunberginol D
+T40	Chemical 1092 1104;1114 1115	thunberginol D
+T41	Chemical 1092 1104;1126 1127	thunberginol E
+T42	Metabolite 1092 1104;1126 1127	thunberginol E
+T43	Metabolite 1092 1104;1106 1107	thunberginol C
+T44	Chemical 1109 1110	6
+T45	Metabolite 1109 1110	6
+T46	Chemical 1117 1118	7
+T47	Metabolite 1117 1118	7
+T48	Chemical 1129 1130	8
+T49	Metabolite 1129 1130	8
+T50	Chemical 1141 1162	benzylideneph-thalide
+T51	Metabolite 1141 1162	benzylideneph-thalide
+T52	Chemical 1164 1178	thunberginol F
+T53	Metabolite 1164 1178	thunberginol F
+T54	Chemical 1180 1182	17
+T55	Metabolite 1180 1182	17
+T56	Chemical 1197 1226	dihydroisocoumarin glucosides
+T57	Metabolite 1197 1226	dihydroisocoumarin glucosides
+T58	Chemical 1228 1258	thunberginol G 3′-O -glucoside
+T59	Metabolite 1228 1258	thunberginol G 3′-O -glucoside
+T60	Chemical 1260 1264;1273 1300	(+)- hydrangenol 4′-O -glucoside
+T61	Metabolite 1260 1264;1273 1300	(+)- hydrangenol 4′-O -glucoside
+T62	Chemical 1269 1300	(−)-hydrangenol 4′-O -glucoside
+T63	Metabolite 1269 1300	(−)-hydrangenol 4′-O -glucoside
+T64	Chemical 1320 1330	phthalides
+T65	Metabolite 1320 1330	phthalides
+T66	Chemical 1332 1349;1351 1352	hydramacrophyllol A
+T67	Chemical 1332 1349;1363 1364	hydramacrophyllol B
+T68	Metabolite 1332 1349;1351 1352	hydramacrophyllol A
+T69	Metabolite 1332 1349;1363 1364	hydramacrophyllol B
+T70	Chemical 1354 1356	19
+T71	Metabolite 1354 1356	19
+T72	Chemical 1366 1368	20
+T73	Metabolite 1366 1368	20
+T74	Biological_Activity 1383 1395	antiallergic
+T75	Biological_Activity 1400 1413	antibacterial
+R7	Isolated_From Arg1:T31 Arg2:T19	
+R8	Isolated_From Arg1:T29 Arg2:T19	
+R9	Isolated_From Arg1:T33 Arg2:T19	
+R10	Isolated_From Arg1:T35 Arg2:T19	
+R11	Isolated_From Arg1:T43 Arg2:T19	
+R12	Isolated_From Arg1:T42 Arg2:T19	
+R13	Isolated_From Arg1:T39 Arg2:T19	
+R14	Isolated_From Arg1:T45 Arg2:T19	
+R15	Isolated_From Arg1:T47 Arg2:T19	
+R16	Isolated_From Arg1:T49 Arg2:T19	
+R17	Isolated_From Arg1:T53 Arg2:T19	
+R18	Isolated_From Arg1:T55 Arg2:T19	
+R19	Isolated_From Arg1:T59 Arg2:T19	
+R20	Isolated_From Arg1:T61 Arg2:T19	
+R21	Isolated_From Arg1:T63 Arg2:T19	
+R22	Isolated_From Arg1:T68 Arg2:T19	
+R23	Isolated_From Arg1:T69 Arg2:T19	
+R24	Isolated_From Arg1:T71 Arg2:T19	
+R25	Isolated_From Arg1:T73 Arg2:T19	
+R26	Associated_With Arg1:T73 Arg2:T74	
+R27	Associated_With Arg1:T72 Arg2:T74	
+R28	Associated_With Arg1:T73 Arg2:T75	
+R29	Associated_With Arg1:T72 Arg2:T75	
+R30	Associated_With Arg1:T69 Arg2:T74	
+R31	Associated_With Arg1:T67 Arg2:T74	
+R32	Associated_With Arg1:T69 Arg2:T75	
+R33	Associated_With Arg1:T67 Arg2:T75	
+R34	Associated_With Arg1:T71 Arg2:T74	
+R35	Associated_With Arg1:T70 Arg2:T74	
+R36	Associated_With Arg1:T71 Arg2:T75	
+R37	Associated_With Arg1:T70 Arg2:T75	
+R38	Associated_With Arg1:T68 Arg2:T74	
+R39	Associated_With Arg1:T66 Arg2:T74	
+R40	Associated_With Arg1:T68 Arg2:T75	
+R41	Associated_With Arg1:T66 Arg2:T75	
+R42	Associated_With Arg1:T61 Arg2:T74	
+R43	Associated_With Arg1:T60 Arg2:T74	
+R44	Associated_With Arg1:T61 Arg2:T75	
+R45	Associated_With Arg1:T60 Arg2:T75	
+R46	Associated_With Arg1:T63 Arg2:T74	
+R47	Associated_With Arg1:T62 Arg2:T74	
+R48	Associated_With Arg1:T63 Arg2:T75	
+R49	Associated_With Arg1:T62 Arg2:T75	
+R50	Associated_With Arg1:T59 Arg2:T74	
+R51	Associated_With Arg1:T58 Arg2:T74	
+R52	Associated_With Arg1:T59 Arg2:T75	
+R53	Associated_With Arg1:T58 Arg2:T75	
+R54	Associated_With Arg1:T55 Arg2:T74	
+R55	Associated_With Arg1:T54 Arg2:T74	
+R56	Associated_With Arg1:T55 Arg2:T75	
+R57	Associated_With Arg1:T54 Arg2:T75	
+R58	Associated_With Arg1:T53 Arg2:T74	
+R59	Associated_With Arg1:T52 Arg2:T74	
+R60	Associated_With Arg1:T53 Arg2:T75	
+R61	Associated_With Arg1:T52 Arg2:T75	
+R62	Associated_With Arg1:T49 Arg2:T74	
+R63	Associated_With Arg1:T48 Arg2:T74	
+R64	Associated_With Arg1:T49 Arg2:T75	
+R65	Associated_With Arg1:T48 Arg2:T75	
+R66	Associated_With Arg1:T42 Arg2:T74	
+R67	Associated_With Arg1:T41 Arg2:T74	
+R68	Associated_With Arg1:T42 Arg2:T75	
+R69	Associated_With Arg1:T41 Arg2:T75	
+R70	Associated_With Arg1:T47 Arg2:T74	
+R71	Associated_With Arg1:T46 Arg2:T74	
+R72	Associated_With Arg1:T47 Arg2:T75	
+R73	Associated_With Arg1:T46 Arg2:T75	
+R74	Associated_With Arg1:T39 Arg2:T74	
+R75	Associated_With Arg1:T40 Arg2:T74	
+R76	Associated_With Arg1:T39 Arg2:T75	
+R77	Associated_With Arg1:T40 Arg2:T75	
+R78	Associated_With Arg1:T45 Arg2:T74	
+R79	Associated_With Arg1:T44 Arg2:T74	
+R80	Associated_With Arg1:T45 Arg2:T75	
+R81	Associated_With Arg1:T44 Arg2:T75	
+R82	Associated_With Arg1:T43 Arg2:T74	
+R83	Associated_With Arg1:T44 Arg2:T74	
+R84	Associated_With Arg1:T45 Arg2:T75	
+R85	Associated_With Arg1:T44 Arg2:T75	
+R86	Associated_With Arg1:T43 Arg2:T74	
+R87	Associated_With Arg1:T38 Arg2:T74	
+R88	Associated_With Arg1:T43 Arg2:T75	
+R89	Associated_With Arg1:T38 Arg2:T75	
+R90	Associated_With Arg1:T35 Arg2:T74	
+R91	Associated_With Arg1:T34 Arg2:T74	
+R92	Associated_With Arg1:T34 Arg2:T75	
+R93	Associated_With Arg1:T35 Arg2:T75	
+R94	Associated_With Arg1:T29 Arg2:T74	
+R95	Associated_With Arg1:T30 Arg2:T74	
+R96	Associated_With Arg1:T30 Arg2:T75	
+R97	Associated_With Arg1:T30 Arg2:T75	
+R98	Associated_With Arg1:T33 Arg2:T74	
+R99	Associated_With Arg1:T32 Arg2:T74	
+R100	Associated_With Arg1:T32 Arg2:T75	
+R101	Associated_With Arg1:T32 Arg2:T75	
+R102	Associated_With Arg1:T31 Arg2:T74	
+R103	Associated_With Arg1:T28 Arg2:T74	
+R104	Associated_With Arg1:T28 Arg2:T75	
+R105	Associated_With Arg1:T28 Arg2:T75	
+T76	Chemical 1506 1524	dihydroisocoumarin
+T77	Chemical 1530 1550	benzylidenephthalide
+T78	Chemical 1555 1566	isocoumarin
+T79	Chemical 1613 1631	2-carboxystilbenes
+T80	Chemical 1691 1703	isocoumarins
+T81	Chemical 1705 1715	phthalides
+T82	Chemical 1720 1729	stilbenes
+T83	Biological_Activity 1755 1767	antiallergic
+T84	Biological_Activity 1835 1845	inhibitory
+T85	Chemical 1860 1872	isocoumarins
+T86	Metabolite 1860 1872	isocoumarins
+T87	Chemical 1874 1884	phthalides
+T88	Metabolite 1874 1884	phthalides
+T89	Chemical 1889 1898	stilbenes
+T90	Metabolite 1889 1898	stilbenes
+T91	Species 1904 1928	Hydrangeae Dulcis Folium
+T92	Species 1952 1990	Hydrangea macrophylla  var. thunbergii
+R106	Isolated_From Arg1:T90 Arg2:T91	
+R107	Isolated_From Arg1:T90 Arg2:T92	
+R108	Isolated_From Arg1:T88 Arg2:T91	
+R109	Isolated_From Arg1:T88 Arg2:T92	
+R110	Isolated_From Arg1:T86 Arg2:T91	
+R111	Isolated_From Arg1:T86 Arg2:T92	
+T93	Chemical 2002 2023	synthetic derivatives
+T94	Chemical 2031 2040	histamine
+T95	Biological_Activity 2049 2056	induced
+T96	Chemical 2060 2067	antigen
+T97	Biological_Activity 2060 2067	antigen
+T98	Protein 2068 2076	antibody
+R112	Associated_With Arg1:T86 Arg2:T84	
+R113	Associated_With Arg1:T85 Arg2:T84	
+R114	Associated_With Arg1:T88 Arg2:T84	
+R115	Associated_With Arg1:T87 Arg2:T84	
+R116	Associated_With Arg1:T90 Arg2:T84	
+R117	Associated_With Arg1:T89 Arg2:T84	
+T99	Chemical 2097 2111	compound 48/80
+T100	Chemical 2116 2123	calcium
+T101	Biological_Activity 2124 2133	ionophore
+T102	Chemical 2134 2140	A23187
+R118	Associated_With Arg1:T102 Arg2:T101	
+T103	Biological_Activity 2228 2238	inhibitory
+T104	Species 2385 2409	Hydrangeae Dulcis Folium
+T105	Biological_Activity 2496 2506	inhibition
+T106	Chemical 2510 2519	histamine
+T107	Chemical 2552 2566	Compound 48/80
+T108	Biological_Activity 2618 2631	degranulation
+T109	Chemical 2643 2647	Ca2+
+T110	Chemical 2668 2672	Ca2+
+T111	Chemical 2714 2718	Ca2+
+T112	Chemical 2745 2749	Ca2+
+T113	Chemical 2811 2815	Ca2+
+T114	Chemical 2818 2832	Compound 48/80
+T115	Protein 2869 2888	GTP binding protein
+T116	Protein 2903 2919	phospholipase Cγ
+T117	Protein 2921 2925	PLCγ
+T118	Chemical 2954 2981	inositol-1,3,5-triphosphate
+T119	Chemical 2983 2986	IP3
+T120	Chemical 3011 3015	Ca2+
+T121	Chemical 3084 3088	Ca2+
+T122	Biological_Activity 3147 3154	induces
+R119	Binds_With Arg1:T114 Arg2:T116	
+R120	Binds_With Arg1:T114 Arg2:T117	
+T123	Biological_Activity 2893 2902	activates
+R121	Associated_With Arg1:T114 Arg2:T123	
+T124	Chemical 3198 3212	compound 48/80
+T125	Biological_Activity 3213 3220	induced
+T126	Chemical 3221 3230	histamine
+T127	Chemical 3274 3286;3288 3289	Thunberginol A
+T128	Chemical 3274 3286;3306 3307	Thunberginol D
+T129	Chemical 3274 3286;3297 3298	Thunberginol B
+T130	Chemical 3274 3286;3314 3315	Thunberginol E
+T131	Chemical 3274 3286;3325 3326	Thunberginol F
+T132	Metabolite 3274 3286;3314 3315	Thunberginol E
+T133	Metabolite 3274 3286;3325 3326	Thunberginol F
+T134	Metabolite 3274 3286;3297 3298	Thunberginol B
+T135	Metabolite 3274 3286;3288 3289	Thunberginol A
+T136	Metabolite 3274 3286;3306 3307	Thunberginol D
+T137	Chemical 3291 3293	11
+T138	Metabolite 3291 3293	11
+T139	Chemical 3300 3302	12
+T140	Metabolite 3300 3302	12
+T141	Chemical 3309 3310	7
+T142	Metabolite 3309 3310	7
+T143	Chemical 3317 3318	8
+T144	Metabolite 3317 3318	8
+T145	Chemical 3337 3348	piceatannol
+T146	Metabolite 3337 3348	piceatannol
+T147	Chemical 3350 3352	25
+T148	Metabolite 3350 3352	25
+T149	Biological_Activity 3355 3364	inhibited
+T150	Chemical 3369 3378	histamine
+T151	Chemical 3328 3330	17
+T152	Metabolite 3328 3330	17
+R122	Associated_With Arg1:T148 Arg2:T149	
+R123	Associated_With Arg1:T147 Arg2:T149	
+R124	Associated_With Arg1:T146 Arg2:T149	
+R125	Associated_With Arg1:T145 Arg2:T149	
+R126	Associated_With Arg1:T152 Arg2:T149	
+R127	Associated_With Arg1:T151 Arg2:T149	
+R128	Associated_With Arg1:T133 Arg2:T149	
+R129	Associated_With Arg1:T131 Arg2:T149	
+R130	Associated_With Arg1:T144 Arg2:T149	
+R131	Associated_With Arg1:T143 Arg2:T149	
+R132	Associated_With Arg1:T132 Arg2:T149	
+R133	Associated_With Arg1:T130 Arg2:T149	
+R134	Associated_With Arg1:T142 Arg2:T149	
+R135	Associated_With Arg1:T141 Arg2:T149	
+R136	Associated_With Arg1:T136 Arg2:T149	
+R137	Associated_With Arg1:T128 Arg2:T149	
+R138	Associated_With Arg1:T140 Arg2:T149	
+R139	Associated_With Arg1:T139 Arg2:T149	
+R140	Associated_With Arg1:T134 Arg2:T149	
+R141	Associated_With Arg1:T129 Arg2:T149	
+R142	Associated_With Arg1:T138 Arg2:T149	
+R143	Associated_With Arg1:T137 Arg2:T149	
+R144	Associated_With Arg1:T135 Arg2:T149	
+R145	Associated_With Arg1:T127 Arg2:T149	
+T153	Biological_Activity 3431 3441	inhibitory
+T154	Chemical 3456 3468	isocoumarins
+T155	Metabolite 3456 3468	isocoumarins
+T156	Chemical 3477 3481	11  
+T157	Chemical 3485 3489	12  
+T158	Metabolite 3477 3481	11  
+T159	Metabolite 3485 3489	12  
+T160	Chemical 3520 3539	dihydroisocoumarins
+T161	Metabolite 3520 3539	dihydroisocoumarins
+T162	Biological_Activity 3594 3604	inhibitory
+T163	Chemical 3619 3639	benzilidenephthalide
+T164	Metabolite 3619 3639	benzilidenephthalide
+T165	Chemical 3641 3643	17
+T166	Metabolite 3641 3643	17
+T167	Chemical 3735 3746	hydrangenol
+T168	Metabolite 3735 3746	hydrangenol
+T169	Chemical 3748 3749	3
+T170	Metabolite 3748 3749	3
+T171	Chemical 3753 3754	7
+T172	Metabolite 3753 3754	7
+T173	Chemical 3757 3758	8
+T174	Metabolite 3757 3758	8
+T175	Chemical 3761 3763	25
+T176	Metabolite 3761 3763	25
+T177	Chemical 3769 3778	lunurarin
+T178	Metabolite 3769 3778	lunurarin
+T179	Chemical 3780 3782	26
+T180	Metabolite 3780 3782	26
+T181	Chemical 3791 3810	dihydroisocoumarins
+T182	Metabolite 3791 3810	dihydroisocoumarins
+T183	Chemical 3815 3824	stilbenes
+T184	Metabolite 3815 3824	stilbenes
+T185	Chemical 3858 3862	drug
+T186	Chemical 3864 3868	DSCG
+T187	Biological_Activity 3870 3880	suppressed
+T188	Chemical 3885 3894	histamine
+R146	Associated_With Arg1:T186 Arg2:T187	
+T189	Chemical 3960 3967	calcium
+T190	Biological_Activity 3968 3977	ionophore
+T191	Chemical 3978 3984	A23187
+T192	Biological_Activity 4024 4031	induces
+T193	Biological_Activity 4032 4041	transport
+T194	Chemical 4059 4063	Ca2+
+R147	Associated_With Arg1:T191 Arg2:T192	
+R148	Associated_With Arg1:T191 Arg2:T193	
+T195	Chemical 4094 4098	Ca2+
+T196	Chemical 4130 4134	Ca2+
+T197	Biological_Activity 4146 4153	induces
+T198	Biological_Activity 4164 4177	degranulation
+T199	Chemical 4201 4207	A23187
+T200	Biological_Activity 4208 4215	induced
+T201	Chemical 4216 4225	histamine
+T202	Chemical 4268 4280;4282 4283	Thunberginol A
+T203	Chemical 4268 4280;4311 4312	Thunberginol F
+T204	Chemical 4268 4280;4291 4292	Thunberginol B
+T205	Chemical 4268 4280;4300 4301	Thunberginol C
+T206	Metabolite 4268 4280;4300 4301	Thunberginol C
+T207	Metabolite 4268 4280;4311 4312	Thunberginol F
+T208	Metabolite 4268 4280;4282 4283	Thunberginol A
+T209	Metabolite 4268 4280;4291 4292	Thunberginol B
+T210	Chemical 4285 4287	11
+T211	Metabolite 4285 4287	11
+T212	Chemical 4294 4296	12
+T213	Metabolite 4294 4296	12
+T214	Chemical 4303 4304	6
+T215	Metabolite 4303 4304	6
+T216	Chemical 4314 4316	17
+T217	Metabolite 4314 4316	17
+T218	Chemical 4323 4332	lunurarin
+T219	Metabolite 4323 4332	lunurarin
+T220	Chemical 4334 4336	26
+T221	Metabolite 4334 4336	26
+T222	Biological_Activity 4339 4348	inhibited
+T223	Chemical 4353 4362	histamine
+R149	Associated_With Arg1:T221 Arg2:T222	
+R150	Associated_With Arg1:T220 Arg2:T222	
+R151	Associated_With Arg1:T218 Arg2:T222	
+R152	Associated_With Arg1:T219 Arg2:T222	
+T224	Chemical 4417 4429;4431 4432	Thunberginol A
+T225	Chemical 4417 4429;4443 4444	Thunberginol F
+T226	Metabolite 4417 4429;4431 4432	Thunberginol A
+T227	Metabolite 4417 4429;4443 4444	Thunberginol F
+T228	Chemical 4434 4436	11
+T229	Metabolite 4434 4436	11
+T230	Chemical 4446 4448	17
+T231	Metabolite 4446 4448	17
+T232	Biological_Activity 4460 4469	inhibited
+T233	Chemical 4475 4484	histamine
+T234	Biological_Activity 4509 4516	induced
+T235	Chemical 4520 4534	compound 48/80
+T236	Chemical 4605 4616	isocoumarin
+T237	Metabolite 4605 4616	isocoumarin
+T238	Chemical 4618 4620	12
+T239	Metabolite 4618 4620	12
+T240	Biological_Activity 4635 4643	activity
+T241	Chemical 4649 4653	11  
+T242	Metabolite 4649 4653	11  
+T243	Chemical 4657 4659	17
+T244	Metabolite 4657 4659	17
+T245	Chemical 4662 4674	Phyllodulcin
+T246	Metabolite 4662 4674	Phyllodulcin
+T247	Chemical 4676 4677	1
+T248	Metabolite 4676 4677	1
+T249	Chemical 4681 4700	dehydrophyllodulcin
+T250	Metabolite 4681 4700	dehydrophyllodulcin
+T251	Chemical 4702 4704	14
+T252	Metabolite 4702 4704	14
+T253	Chemical 4708 4733	3′-hydoxyhydrangeaic acid
+T254	Metabolite 4708 4733	3′-hydoxyhydrangeaic acid
+T255	Chemical 4741 4766	5-hydroxyhydrangeaic acid
+T256	Chemical 4735 4737	22
+T257	Metabolite 4735 4737	22
+T258	Metabolite 4741 4766	5-hydroxyhydrangeaic acid
+T259	Chemical 4768 4770	23
+T260	Metabolite 4768 4770	23
+T261	Chemical 4777 4788	piceatannol
+T262	Metabolite 4777 4788	piceatannol
+T263	Chemical 4790 4792	25
+T264	Metabolite 4790 4792	25
+T265	Biological_Activity 4804 4813	inhibited
+T266	Chemical 4818 4827	histamine
+R153	Associated_With Arg1:T260 Arg2:T265	
+R154	Associated_With Arg1:T259 Arg2:T265	
+R155	Associated_With Arg1:T258 Arg2:T265	
+R156	Associated_With Arg1:T255 Arg2:T265	
+R157	Associated_With Arg1:T257 Arg2:T265	
+R158	Associated_With Arg1:T256 Arg2:T265	
+R159	Associated_With Arg1:T254 Arg2:T265	
+R160	Associated_With Arg1:T253 Arg2:T265	
+R161	Associated_With Arg1:T252 Arg2:T265	
+R162	Associated_With Arg1:T251 Arg2:T265	
+R163	Associated_With Arg1:T250 Arg2:T265	
+R164	Associated_With Arg1:T249 Arg2:T265	
+R165	Associated_With Arg1:T248 Arg2:T265	
+R166	Associated_With Arg1:T247 Arg2:T265	
+R167	Associated_With Arg1:T246 Arg2:T265	
+R168	Associated_With Arg1:T245 Arg2:T265	
+T267	Chemical 4837 4841	DSCG
+T268	Biological_Activity 4885 4895	inhibition
+R169	Associated_With Arg1:T267 Arg2:T268	
+T269	Biological_Activity 4913 4919	signal
+T270	Chemical 4945 4952	antigen
+T271	Biological_Activity 4945 4952	antigen
+T272	Protein 4953 4961	antibody
+T273	Protein 4987 4990	IgE
+T274	Chemical 5019 5026	antigen
+T275	Biological_Activity 5019 5026	antigen
+T276	Protein 5061 5074	IgE receptors
+T277	Protein 5076 5081	FcεRI
+T278	Protein 5114 5115;5122 5129	β subunit
+T279	Protein 5120 5129	γ subunit
+T280	Protein 5134 5139	FcεRI
+T281	Protein 5171 5187	tyrosine kinases
+T282	Biological_Activity 5157 5167	activation
+T283	Protein 5196 5199	Lyn
+T284	Protein 5204 5207	Syk
+T285	Protein 5224 5240	tyrosine kinases
+T286	Protein 5255 5271	phospholipase Cγ
+T287	Protein 5273 5277	PLCγ
+T288	Protein 5299 5303	PLCγ
+T289	Chemical 5324 5337	phospholipids
+T290	Chemical 5351 5366	diacyl glycerol
+T291	Metabolite 5351 5366	diacyl glycerol
+T292	Chemical 5368 5370	DG
+T293	Metabolite 5368 5370	DG
+T294	Chemical 5376 5379	IP3
+T295	Metabolite 5376 5379	IP3
+T296	Chemical 5399 5404	IP3  
+T297	Metabolite 5399 5404	IP3  
+T298	Chemical 5413 5417	Ca2+
+T299	Chemical 5451 5455	Ca2+
+T300	Chemical 5515 5519	Ca2+
+T301	Chemical 5553 5557	Ca2+
+T302	Biological_Activity 5582 5595	degranulation
+T303	Biological_Activity 5614 5623	metabolic
+T304	Chemical 5624 5636	arachidonate
+T305	Biological_Activity 5637 5646	mediators
+T306	Protein 5666 5669	IgE
+T307	Chemical 5679 5688	histamine
+T308	Chemical 5732 5744;5746 5747	Thunberginol A
+T309	Chemical 5732 5744;5764 5765	Thunberginol C
+T310	Chemical 5732 5744;5755 5756	Thunberginol B
+T311	Chemical 5732 5744;5780 5781	Thunberginol F
+T312	Chemical 5732 5744;5772 5773	Thunberginol E
+T313	Chemical 5732 5744;5793 5794	Thunberginol G
+T314	Metabolite 5732 5744;5793 5794	Thunberginol G
+T315	Metabolite 5732 5744;5764 5765	Thunberginol C
+T316	Metabolite 5732 5744;5755 5756	Thunberginol B
+T317	Metabolite 5732 5744;5772 5773	Thunberginol E
+T318	Metabolite 5732 5744;5746 5747	Thunberginol A
+T319	Metabolite 5732 5744;5780 5781	Thunberginol F
+T320	Chemical 5749 5751	11
+T321	Metabolite 5749 5751	11
+T322	Chemical 5758 5760	12
+T323	Metabolite 5758 5760	12
+T324	Chemical 5767 5768	6
+T325	Metabolite 5767 5768	6
+T326	Chemical 5775 5776	8
+T327	Metabolite 5775 5776	8
+T328	Chemical 5783 5785	17
+T329	Metabolite 5783 5785	17
+T330	Chemical 5796 5797	9
+T331	Metabolite 5796 5797	9
+T332	Chemical 5801 5820	dehydrophyllodulcin
+T333	Metabolite 5801 5820	dehydrophyllodulcin
+T334	Chemical 5822 5824	14
+T335	Metabolite 5822 5824	14
+T336	Chemical 5828 5839	resveratrol
+T337	Metabolite 5828 5839	resveratrol
+T338	Chemical 5841 5843	24
+T339	Metabolite 5841 5843	24
+T340	Chemical 5850 5861	piceatannol
+T341	Metabolite 5850 5861	piceatannol
+T342	Chemical 5863 5865	25
+T343	Metabolite 5863 5865	25
+T344	Biological_Activity 5875 5885	inhibitory
+T345	Biological_Activity 5922 5932	inhibitory
+T346	Chemical 5945 5949	11  
+T347	Metabolite 5945 5949	11  
+T348	Chemical 5952 5959	antigen
+T349	Biological_Activity 5952 5959	antigen
+T350	Biological_Activity 5960 5967	induced
+T351	Chemical 5968 5977	histamine
+T352	Chemical 6009 6023	compound 48/80
+T353	Chemical 6027 6034	calcium
+T354	Biological_Activity 6035 6044	ionophore
+T355	Chemical 6045 6051	A23187
+T356	Chemical 6130 6144	compound 48/80
+T357	Chemical 6152 6159	calcium
+T358	Biological_Activity 6160 6169	ionophore
+T359	Chemical 6170 6176	A23187
+T360	Chemical 6199 6213	Thunberginol F
+T361	Metabolite 6199 6213	Thunberginol F
+T362	Chemical 6215 6217	17
+T363	Metabolite 6215 6217	17
+T364	Chemical 6278 6292	Thunberginol D
+T365	Metabolite 6278 6292	Thunberginol D
+T366	Chemical 6294 6295	7
+T367	Metabolite 6294 6295	7
+T368	Chemical 6299 6310	hydrangenol
+T369	Metabolite 6299 6310	hydrangenol
+T370	Chemical 6312 6313	3
+T371	Metabolite 6312 6313	3
+T372	Chemical 6317 6334;6336 6337	hydramacrophyllol A
+T373	Chemical 6317 6334;6342 6343	hydramacrophyllol B
+T374	Metabolite 6317 6334;6342 6343	hydramacrophyllol B
+T375	Metabolite 6317 6334;6336 6337	hydramacrophyllol A
+T376	Chemical 6345 6349	19  
+T377	Metabolite 6345 6349	19  
+T378	Chemical 6353 6355	20
+T379	Metabolite 6353 6355	20
+T380	Chemical 6362 6371	lunurarin
+T381	Metabolite 6362 6371	lunurarin
+T382	Chemical 6373 6375	26
+T383	Metabolite 6373 6375	26
+T384	Biological_Activity 6387 6396	inhibited
+T385	Chemical 6397 6406	histamine
+T386	Chemical 6416 6420	DSCG
+T387	Biological_Activity 6485 6495	inhibitory
+T388	Chemical 6514 6526	isocoumarins
+T389	Metabolite 6514 6526	isocoumarins
+T390	Chemical 6528 6530	11
+T391	Metabolite 6528 6530	11
+T392	Chemical 6533 6535	12
+T393	Metabolite 6533 6535	12
+T394	Chemical 6547 6566	3-dehydro compounds
+T395	Metabolite 6547 6566	3-dehydro compounds
+T396	Chemical 6568 6569	9
+T397	Metabolite 6568 6569	9
+T398	Chemical 6572 6573	7
+T399	Metabolite 6572 6573	7
+T400	Chemical 6579 6588	histamine
+T401	Biological_Activity 6597 6604	induced
+T402	Biological_Activity 6616 6623	stimuli
+T403	Chemical 6643 6655	isocoumarins
+T404	Metabolite 6643 6655	isocoumarins
+T405	Chemical 6695 6714	dihydroisocoumarins
+T406	Metabolite 6695 6714	dihydroisocoumarins
+T407	Chemical 6797 6809	phenyl group
+T408	Chemical 6817 6824	lactone
+T409	Chemical 6841 6853	isocoumarins
+T410	Metabolite 6841 6853	isocoumarins
+T411	Chemical 6910 6924	3-phenyl group
+T412	Chemical 6930 6948	dihydroisocoumarin
+T413	Metabolite 6930 6948	dihydroisocoumarin
+T414	Chemical 6969 6976	lactone
+T415	Chemical 7053 7060	lactone
+T416	Chemical 7096 7107	isocoumarin
+T417	Metabolite 7096 7107	isocoumarin
+T418	Biological_Activity 7157 7168	enhancement
+T419	Chemical 7186 7200	Thunberginol A
+T420	Metabolite 7186 7200	Thunberginol A
+T421	Chemical 7202 7204	11
+T422	Metabolite 7202 7204	11
+T423	Biological_Activity 7221 7230	inhibited
+T424	Chemical 7231 7240	histamine
+T425	Biological_Activity 7249 7256	induced
+T426	Biological_Activity 7278 7288	stimulants
+T427	Chemical 7297 7304	antigen
+T428	Biological_Activity 7297 7304	antigen
+T429	Protein 7305 7313	antibody
+T430	Chemical 7338 7342	11  
+T431	Metabolite 7338 7342	11  
+T432	Chemical 7364 7371	calcium
+T433	Biological_Activity 7372 7381	ionophore
+T434	Chemical 7382 7388	A23187
+T435	Chemical 7421 7435	compound 48/80
+T436	Chemical 7450 7454	12  
+T437	Metabolite 7450 7454	12  
+T438	Chemical 7485 7494	histamine
+T439	Chemical 7507 7514	antigen
+T440	Biological_Activity 7507 7514	antigen
+T441	Protein 7515 7523	antibody
+T442	Biological_Activity 7574 7584	stimulants
+T443	Chemical 7601 7605	12  
+T444	Metabolite 7601 7605	12  
+T445	Biological_Activity 7608 7619	stimulation
+T446	Biological_Activity 7641 7651	stimulants
+T447	Chemical 7700 7704	11  
+T448	Metabolite 7700 7704	11  
+T449	Chemical 7724 7728	Ca2+
+T450	Biological_Activity 7739 7746	induced
+T451	Chemical 7768 7772	Ca2+
+T452	Chemical 7811 7815	Ca2+
+T453	Chemical 7855 7864	histamine
+T454	Chemical 7893 7897	12  
+T455	Metabolite 7893 7897	12  
+T456	Chemical 7934 7938	Ca2+
+T457	Biological_Activity 7959 7965	signal
+T458	Biological_Activity 7988 7997	initiated
+T459	Chemical 8001 8008	antigen
+T460	Biological_Activity 8001 8008	antigen
+T461	Protein 8009 8017	antibody
+T462	Chemical 8035 8043	tyrosine
+T463	Biological_Activity 8088 8098	inhibitory
+T464	Chemical 8110 8129	4-acyl isocoumarins
+T465	Chemical 8138 8146	oosponol
+T466	Chemical 8148 8190	4-hydroxymethylketone-8-hydroxyisocoumarin
+T467	Chemical 8193 8211	metabolic products
+T468	Metabolite 8110 8129	4-acyl isocoumarins
+T469	Metabolite 8138 8146	oosponol
+T470	Metabolite 8148 8190	4-hydroxymethylketone-8-hydroxyisocoumarin
+T471	Metabolite 8193 8211	metabolic products
+T472	Species 8226 8244	Oospora astringens
+T473	Species 8257 8262	fungi
+T474	Chemical 8295 8309	compound 48/80
+T475	Biological_Activity 8310 8317	induced
+T476	Chemical 8318 8327	histamine
+T477	Chemical 8407 8417	acyl group
+T478	Chemical 8468 8477	histamine
+R170	Isolated_From Arg1:T470 Arg2:T472	
+R171	Isolated_From Arg1:T469 Arg2:T472	
+R172	Isolated_From Arg1:T468 Arg2:T472	
+R173	Associated_With Arg1:T468 Arg2:T463	
+R174	Associated_With Arg1:T464 Arg2:T463	
+R175	Associated_With Arg1:T469 Arg2:T463	
+R176	Associated_With Arg1:T465 Arg2:T463	
+R177	Associated_With Arg1:T470 Arg2:T463	
+R178	Associated_With Arg1:T466 Arg2:T463	
+R179	Isolated_From Arg1:T471 Arg2:T472	
+T479	Biological_Activity 8454 8464	inhibition
+T480	Chemical 8528 8540	isocoumarins
+T481	Metabolite 8528 8540	isocoumarins
+T482	Chemical 8545 8564	dihydroisocoumarins
+T483	Metabolite 8545 8564	dihydroisocoumarins
+T484	Chemical 8572 8586	hydroxyl group
+T485	Chemical 8638 8649	hydrangenol
+T486	Metabolite 8638 8649	hydrangenol
+T487	Chemical 8651 8652	3
+T488	Metabolite 8651 8652	3
+T489	Chemical 8659 8673	thunberginol A
+T490	Metabolite 8659 8673	thunberginol A
+T491	Chemical 8675 8677	11
+T492	Metabolite 8675 8677	11
+T493	Biological_Activity 8680 8690	suppressed
+T494	Chemical 8691 8700	histamine
+T495	Chemical 8716 8742	hydrangenol 8-O -glucoside
+T496	Metabolite 8716 8742	hydrangenol 8-O -glucoside
+T497	Chemical 8744 8745	4
+T498	Metabolite 8744 8745	4
+T499	Chemical 8752 8773	8-deoxythunberginol A
+T500	Metabolite 8752 8773	8-deoxythunberginol A
+T501	Chemical 8775 8777	13
+T502	Metabolite 8775 8777	13
+T503	Chemical 8816 8830	hydroxyl group
+T504	Chemical 8944 8958	hydroxyl group
+T505	Chemical 8969 8977	hydrogen
+T506	Chemical 8998 9012	carbonyl group
+T507	Chemical 9039 9053	hydroxyl group
+T508	Chemical 9085 9086	3
+R180	Associated_With Arg1:T492 Arg2:T493	
+R181	Associated_With Arg1:T491 Arg2:T493	
+R182	Associated_With Arg1:T490 Arg2:T493	
+R183	Associated_With Arg1:T489 Arg2:T493	
+R184	Associated_With Arg1:T488 Arg2:T493	
+R185	Associated_With Arg1:T487 Arg2:T493	
+R186	Associated_With Arg1:T486 Arg2:T493	
+R187	Associated_With Arg1:T485 Arg2:T493	
+T509	Metabolite 9085 9086	3
+T510	Biological_Activity 9095 9105	inhibitory
+T511	Chemical 9122 9153	(−)-hydrangenol 4′-O -glucoside
+T512	Metabolite 9122 9153	(−)-hydrangenol 4′-O -glucoside
+T513	Chemical 9155 9156	5
+T514	Metabolite 9155 9156	5
+T515	Chemical 9163 9191	hydrangenol monomethyl ether
+T516	Metabolite 9163 9191	hydrangenol monomethyl ether
+T517	Chemical 9193 9195	10
+T518	Metabolite 9193 9195	10
+T519	Chemical 9221 9233	phyllodulcin
+T520	Metabolite 9221 9233	phyllodulcin
+T521	Chemical 9235 9236	1
+T522	Metabolite 9235 9236	1
+T523	Chemical 9240 9254	thunberginol E
+T524	Metabolite 9240 9254	thunberginol E
+T525	Chemical 9256 9257	8
+T526	Metabolite 9256 9257	8
+T527	Chemical 9264 9268	10  
+T528	Metabolite 9264 9268	10  
+T529	Chemical 9290 9304	hydroxyl group
+T531	Chemical 9365 9379	methoxyl group
+T530	Chemical 9422 9441	dehydrophyllodulcin
+T532	Metabolite 9422 9441	dehydrophyllodulcin
+T533	Chemical 9443 9445	14
+T534	Metabolite 9443 9445	14
+T535	Chemical 9482 9496	thunberginol A
+T536	Metabolite 9482 9496	thunberginol A
+T537	Chemical 9498 9500	11
+T538	Metabolite 9498 9500	11
+T539	Chemical 9573 9587	hydroxyl group
+T540	Chemical 9591 9612	3-phenyl isocoumarins
+T541	Metabolite 9591 9612	3-phenyl isocoumarins
+T542	Chemical 9624 9638	hydroxyl group
+T543	Chemical 9671 9675	11  
+T544	Metabolite 9671 9675	11  
+T545	Chemical 9686 9695	histamine
+T546	Chemical 9711 9733	3′-deoxythunberginol A
+T547	Metabolite 9711 9733	3′-deoxythunberginol A
+T548	Chemical 9735 9737	15
+T549	Metabolite 9735 9737	15
+T550	Chemical 9774 9788	hydroxyl group
+T551	Chemical 9863 9864	1
+T552	Metabolite 9863 9864	1
+T553	Chemical 9870 9871	8
+T554	Metabolite 9870 9871	8
+T555	Chemical 9874 9875	3
+T556	Metabolite 9874 9875	3
+T557	Chemical 9881 9882	6
+T558	Metabolite 9881 9882	6
+T559	Chemical 9885 9886	7
+T560	Metabolite 9885 9886	7
+T561	Chemical 9892 9893	9
+T562	Metabolite 9892 9893	9
+T563	Chemical 9900 9904	11  
+T564	Metabolite 9900 9904	11  
+T565	Chemical 9908 9910	12
+T566	Metabolite 9908 9910	12
+T567	Chemical 9956 9960	11  
+T568	Metabolite 9956 9960	11  
+T569	Chemical 9980 9989	histamine
+T570	Chemical 10035 10037	12
+T571	Metabolite 10035 10037	12
+T572	Chemical 10062 10076	hydroxyl group
+T573	Biological_Activity 10104 10114	inhibition
+T574	Biological_Activity 10118 10124	signal
+T575	Chemical 10160 10169	histamine
+T576	Biological_Activity 10199 10209	inhibitory
+T577	Chemical 10224 10234	phthalides
+T578	Metabolite 10224 10234	phthalides
+T579	Chemical 10241 10255	thunberginol F
+T580	Metabolite 10241 10255	thunberginol F
+T581	Chemical 10257 10259	17
+T582	Metabolite 10257 10259	17
+T583	Biological_Activity 10366 10375	inhibited
+T584	Chemical 10376 10385	histamine
+T585	Chemical 10413 10431	hydramacrophyllols
+T586	Metabolite 10413 10431	hydramacrophyllols
+T587	Chemical 10433 10435	19
+T588	Metabolite 10433 10435	19
+T589	Chemical 10438 10440	20
+T590	Metabolite 10438 10440	20
+T591	Chemical 10459 10471	phenyl group
+T592	Chemical 10519 10529	phthalides
+T593	Metabolite 10519 10529	phthalides
+T594	Chemical 10559 10581	3′-Deoxythunberginol F
+T595	Metabolite 10559 10581	3′-Deoxythunberginol F
+T596	Chemical 10583 10585	18
+T597	Metabolite 10583 10585	18
+T598	Chemical 10603 10617	hydroxyl group
+T599	Chemical 10698 10712	hydroxyl group
+T600	Chemical 10769 10781	isocoumarins
+T601	Metabolite 10769 10781	isocoumarins
+T602	Chemical 10798 10807	stilbenes
+T603	Metabolite 10798 10807	stilbenes
+T604	Chemical 10809 10820	piceatannol
+T605	Metabolite 10809 10820	piceatannol
+T606	Chemical 10822 10824	25
+T607	Metabolite 10822 10824	25
+T608	Biological_Activity 10836 10845	inhibited
+T609	Chemical 10850 10859	histamine
+T610	Biological_Activity 10868 10875	induced
+T611	Chemical 10879 10886	antigen
+T612	Metabolite 10879 10886	antigen
+T613	Protein 10887 10895	antibody
+T614	Chemical 10935 10939	25  
+T615	Metabolite 10935 10939	25  
+T616	Biological_Activity 10939 10948	inhibited
+T617	Chemical 10949 10958	histamine
+T618	Species 10972 10975	rat
+T619	Biological_Activity 10998 11005	induced
+T620	Chemical 11009 11023	compound 48/80
+T621	Chemical 11028 11042	concanavalin A
+T622	Metabolite 11028 11042	concanavalin A
+T623	Chemical 11044 11046	17
+T624	Metabolite 11044 11046	17
+T625	Chemical 11070 11074	25  
+T626	Metabolite 11070 11074	25  
+T627	Chemical 11080 11087	antigen
+T628	Biological_Activity 11080 11087	antigen
+T629	Protein 11088 11096	antibody
+T630	Chemical 11254 11266;11268 11269	thunberginol A
+T631	Metabolite 11254 11266;11277 11278	thunberginol B
+T632	Chemical 11254 11266;11277 11278	thunberginol B
+T633	Chemical 11254 11266;11289 11290	thunberginol F
+T634	Metabolite 11254 11266;11289 11290	thunberginol F
+T635	Metabolite 11254 11266;11268 11269	thunberginol A
+T636	Chemical 11302 11306	DSCG
+T637	Chemical 11271 11273	11
+T638	Metabolite 11271 11273	11
+T639	Chemical 11280 11282	12
+T640	Metabolite 11280 11282	12
+T641	Chemical 11292 11294	17
+T642	Metabolite 11292 11294	17
+T643	Chemical 11334 11346;11357 11358	Thunberginol B
+T644	Chemical 11334 11346;11348 11349	Thunberginol A
+T645	Chemical 11334 11346;11369 11370	Thunberginol F
+T646	Metabolite 11334 11346;11369 11370	Thunberginol F
+T647	Metabolite 11334 11346;11348 11349	Thunberginol A
+T648	Metabolite 11334 11346;11357 11358	Thunberginol B
+T649	Chemical 11351 11353	11
+T650	Metabolite 11351 11353	11
+T651	Chemical 11360 11362	12
+T652	Metabolite 11360 11362	12
+T653	Chemical 11372 11374	17
+T654	Metabolite 11372 11374	17
+T655	Biological_Activity 11386 11395	inhibited
+T656	Chemical 11400 11409	histamine
+T657	Chemical 11479 11483	DSCG
+T658	Biological_Activity 11494 11504	inhibitory
+T659	Biological_Activity 11582 11592	inhibitory
+T660	Biological_Activity 11688 11698	inhibitory
+T661	Chemical 11712 11725	thunberginols
+T662	Metabolite 11712 11725	thunberginols
+T663	Chemical 11752 11756	DSCG
+T664	Species 11819 11843	Hydrangeae Dulcis Folium
+T665	Biological_Activity 11870 11880	inhibitory
+T666	Biological_Activity 11903 11916	degranulation
+T667	Chemical 11962 11974	isocoumarins
+T668	Metabolite 11962 11974	isocoumarins
+T669	Chemical 11983 11995;11997 11998	thunberginol A
+T670	Metabolite 11983 11995;12009 12010	thunberginol B
+T671	Chemical 11983 11995;12009 12010	thunberginol B
+T672	Metabolite 11983 11995;11997 11998	thunberginol A
+T673	Chemical 12000 12002	11
+T674	Metabolite 12000 12002	11
+T675	Chemical 12012 12014	12
+T676	Metabolite 12012 12014	12
+T677	Chemical 12048 12067	dihydroisocoumarins
+T678	Metabolite 12048 12067	dihydroisocoumarins
+T679	Chemical 12076 12087	hydrangenol
+T680	Metabolite 12076 12087	hydrangenol
+T681	Chemical 12089 12090	3
+T682	Metabolite 12089 12090	3
+T683	Chemical 12096 12110	thunberginol G
+T684	Metabolite 12096 12110	thunberginol G
+T685	Chemical 12112 12113	9
+T686	Metabolite 12112 12113	9
+T687	Chemical 12196 12210	hydroxyl group
+T688	Chemical 12248 12259	isocoumarin
+T689	Chemical 12303 12317	hydroxyl group
+T690	Chemical 12381 12401	benzylidenephthalide
+T691	Metabolite 12381 12401	benzylidenephthalide
+T692	Chemical 12403 12417	thunberginol F
+T693	Metabolite 12403 12417	thunberginol F
+T694	Chemical 12419 12421	17
+T695	Metabolite 12419 12421	17
+T696	Chemical 12455 12473	hydramacrophyllols
+T697	Metabolite 12455 12473	hydramacrophyllols
+T698	Chemical 12475 12477	19
+T699	Metabolite 12475 12477	19
+T700	Chemical 12480 12482	20
+T701	Metabolite 12480 12482	20
+T702	Chemical 12600 12614	hydroxyl group
+T703	Biological_Activity 12669 12679	inhibitory
+T704	Chemical 12693 12705;12707 12708	thunberginol A
+T705	Chemical 12693 12705;12716 12717	thunberginol B
+T706	Chemical 12693 12705;12728 12729	thunberginol F
+T707	Metabolite 12693 12705;12707 12708	thunberginol A
+T708	Metabolite 12693 12705;12716 12717	thunberginol B
+T709	Metabolite 12693 12705;12728 12729	thunberginol F
+T710	Chemical 12710 12712	11
+T711	Metabolite 12710 12712	11
+T712	Chemical 12719 12721	12
+T713	Metabolite 12719 12721	12
+T714	Chemical 12731 12733	17
+T715	Metabolite 12731 12733	17
+T716	Chemical 12772 12776	DSCG
+T717	Species 12798 12805	Animals
+T718	Species 12806 12810	Rats
+T719	Species 12847 12854	Animals
+T720	Species 12992 12997	Yeast
+T721	Chemical 13017 13022	water
+T722	Chemical 13062 13075	dinitrophenyl
+T723	Chemical 13082 13085	DNP
+T724	Protein 13087 13090	IgE
+T725	Chemical 13184 13197	Dinitrophenyl
+T726	Species 13202 13208	bovine
+T727	Protein 13202 13222	bovine serum albumin
+T728	Protein 13184 13222	Dinitrophenylated bovine serum albumin
+T729	Protein 13224 13231	DNP-BSA
+T730	Protein 13251 13271	bovine serum albumin
+T731	Species 13251 13257	bovine
+T732	Chemical 13295 13325	sodium dinitrobenzenesulfonate
+T733	Chemical 13412 13433	Disodium cromoglycate
+T734	Chemical 13435 13439	DSCG
+T735	Chemical 13528 13532	NaCl
+T736	Chemical 13541 13544	KCl
+T737	Chemical 13553 13558	CaCl2
+T738	Chemical 13568 13575	glucose
+T739	Chemical 13586 13591	HEPES
+T740	Chemical 13605 13610	water
+T741	Chemical 13657 13661	NaOH
+T742	Chemical 13750 13759	histamine
+T743	Chemical 13803 13807	DMSO
+T744	Chemical 13859 13863	DMSO
+T745	Chemical 13879 13888	Histamine
+T746	Species 13902 13905	rat
+T747	Chemical 13939 13953	compound 48/80
+T748	Chemical 13955 13962	calcium
+T749	Biological_Activity 13963 13972	ionophore
+T750	Chemical 13973 13979	A23187
+T751	Chemical 13985 13992	antigen
+T752	Biological_Activity 13985 13992	antigen
+T753	Protein 13993 14001	antibody
+T754	Chemical 14011 14020	Histamine
+T755	Species 14177 14188	Wistar rats
+T756	Chemical 14676 14690	toluidine blue
+T757	Chemical 14699 14706	citrate
+T758	Chemical 14837 14848	trypan blue
+T759	Species 14886 14889	rat
+T760	Chemical 14916 14925	histamine
+T761	Biological_Activity 14935 14942	induced
+T762	Chemical 14943 14952	histamine
+T763	Chemical 15219 15232	polycarbonate
+T764	Chemical 15771 15785	toluidine blue
+T765	Chemical 15842 15853	trypan blue
+T766	Chemical 16065 16079	compound 48/80
+T767	Chemical 16093 16100	calcium
+T768	Biological_Activity 16101 16110	ionophore
+T769	Chemical 16111 16117	A23187
+T770	Chemical 16212 16215	ice
+T771	Chemical 16216 16221	water
+T772	Chemical 16300 16309	histamine
+T773	Chemical 16347 16366	o -phthaldialdehyde
+T774	Protein 16442 16450	anti-DNP
+T775	Protein 16451 16454	IgE
+T776	Chemical 16459 16466	antigen
+T777	Biological_Activity 16459 16466	antigen
+T778	Protein 16467 16475	antibody
+T779	Chemical 16493 16502	histamine
+T780	Protein 16537 16545	anti-DNP
+T781	Protein 16546 16549	IgE
+T782	Chemical 16735 16738	ice
+T783	Chemical 16739 16744	water
+T784	Chemical 17054 17056	11
+T785	Metabolite 17054 17056	11
+T786	Chemical 17059 17061	12
+T787	Metabolite 17059 17061	12
+T788	Chemical 17064 17068	17  
+T789	Metabolite 17064 17068	17  
+T790	Chemical 17072 17076	DSCG
+T791	Chemical 17120 17127	Antigen
+T792	Biological_Activity 17120 17127	Antigen
+T793	Protein 17128 17136	antibody
+T794	Chemical 17198 17220	phosphatidyl l -serine
+T795	Protein 17245 17252	DNP-BSA
+T796	Chemical 17312 17315	ice
+T797	Chemical 17316 17321	water
+T798	Chemical 17400 17409	histamine
+T799	Biological_Activity 17484 17494	inhibition
+T800	Biological_Activity 17550 17560	Inhibition
+T801	Chemical 17574 17583	Histamine
+T802	Chemical 17628 17637	histamine
+T803	Chemical 17647 17656	histamine
+T804	Chemical 17694 17703	histamine

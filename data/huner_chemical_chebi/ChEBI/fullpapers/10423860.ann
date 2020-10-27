@@ -1,0 +1,566 @@
+T1	Species 1 33	Cordyceps sinensis  (Berk.) Sacc
+T2	Species 43 58	Clavicipitaceae
+T3	Species 411 422	C. sinensis
+T4	Species 502 513	C. sinensis
+T5	Species 541 552	sphinx moth
+T6	Species 554 574	Hepialus armoricanus
+T7	Species 691 697	fungus
+T8	Species 800 806	fungus
+T9	Species 717 721	host
+T10	Species 854 858	host
+T11	Species 860 871	Cordyceps  
+T12	Species 907 925	caterpillar fungus
+T13	Species 989 996	insects
+T14	Biological_Activity 1079 1088	bioactive
+T15	Species 1107 1118	Cordyceps  
+T16	Chemical 1161 1171	cordycepin
+T17	Metabolite 1161 1171	cordycepin
+R1	Isolated_From Arg1:T17 Arg2:T15	
+T18	Biological_Activity 1256 1269	antibacterial
+T19	Biological_Activity 1274 1283	antitumor
+T20	Chemical 1284 1305	adenosine derivatives
+T21	Metabolite 1284 1305	adenosine derivatives
+R2	Associated_With Arg1:T17 Arg2:T18	
+R3	Associated_With Arg1:T16 Arg2:T18	
+R4	Associated_With Arg1:T17 Arg2:T19	
+R5	Associated_With Arg1:T16 Arg2:T19	
+R6	Associated_With Arg1:T21 Arg2:T18	
+R7	Associated_With Arg1:T20 Arg2:T18	
+R8	Associated_With Arg1:T21 Arg2:T19	
+R9	Associated_With Arg1:T20 Arg2:T19	
+T22	Chemical 1345 1355	ophicordin
+T23	Metabolite 1345 1355	ophicordin
+T24	Biological_Activity 1360 1370	antifungal
+R10	Associated_With Arg1:T23 Arg2:T24	
+R11	Associated_With Arg1:T22 Arg2:T24	
+T25	Chemical 1417 1431	polysaccharide
+T26	Metabolite 1417 1431	polysaccharide
+T27	Biological_Activity 1446 1455	antitumor
+R12	Associated_With Arg1:T26 Arg2:T27	
+R13	Associated_With Arg1:T25 Arg2:T27	
+T28	Biological_Activity 1563 1581	immunopotentiating
+T29	Chemical 1582 1595	galactomannan
+T30	Metabolite 1582 1595	galactomannan
+T31	Chemical 1601 1614	l -tryptophan
+T32	Metabolite 1601 1614	l -tryptophan
+R14	Associated_With Arg1:T30 Arg2:T28	
+R15	Associated_With Arg1:T29 Arg2:T28	
+R16	Isolated_From Arg1:T21 Arg2:T15	
+R17	Isolated_From Arg1:T23 Arg2:T15	
+R18	Isolated_From Arg1:T26 Arg2:T15	
+R19	Isolated_From Arg1:T30 Arg2:T15	
+R20	Isolated_From Arg1:T32 Arg2:T15	
+T33	Species 1702 1713	C. sinensis
+T34	Biological_Activity 1732 1742	inhibitors
+T35	Chemical 1810 1820	cordycepin
+T36	Metabolite 1810 1820	cordycepin
+T37	Chemical 1825 1840	polysaccharides
+T38	Metabolite 1825 1840	polysaccharides
+T39	Biological_Activity 1962 1971	antitumor
+T40	Chemical 1972 1981	compounds
+T41	Species 2002 2013	C. sinensis
+T42	Chemical 2063 2071	methanol
+T43	Species 2083 2094	C. sinensis
+T44	Chemical 2123 2142	steroidal glycoside
+T45	Metabolite 2123 2142	steroidal glycoside
+T46	Chemical 2143 2214	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T47	Metabolite 2143 2214	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T48	Chemical 2216 2218	1a
+T49	Metabolite 2216 2218	1a
+T50	Chemical 2225 2277	5α ,6α -epoxy-24(R )-methylcholesta-7,22-dien-3β -ol
+T51	Metabolite 2225 2277	5α ,6α -epoxy-24(R )-methylcholesta-7,22-dien-3β -ol
+T52	Chemical 2279 2280	2
+T53	Metabolite 2279 2280	2
+R21	Isolated_From Arg1:T45 Arg2:T43	
+R22	Isolated_From Arg1:T47 Arg2:T43	
+R23	Isolated_From Arg1:T49 Arg2:T43	
+R24	Isolated_From Arg1:T51 Arg2:T43	
+R25	Isolated_From Arg1:T53 Arg2:T43	
+R26	Associated_With Arg1:T45 Arg2:T39	
+R27	Associated_With Arg1:T46 Arg2:T39	
+R28	Associated_With Arg1:T49 Arg2:T39	
+R29	Associated_With Arg1:T48 Arg2:T39	
+R30	Associated_With Arg1:T51 Arg2:T39	
+R31	Associated_With Arg1:T50 Arg2:T39	
+R32	Associated_With Arg1:T53 Arg2:T39	
+R33	Associated_With Arg1:T52 Arg2:T39	
+T54	Chemical 2324 2361	ergosteryl-3-O -β -d -glucopyranoside
+T55	Metabolite 2324 2361	ergosteryl-3-O -β -d -glucopyranoside
+T56	Chemical 2363 2364	3
+T57	Metabolite 2363 2364	3
+T58	Chemical 2371 2421	22,23-dihydroergosteryl-3-O -β -d -glucopyranoside
+T59	Metabolite 2371 2421	22,23-dihydroergosteryl-3-O -β -d -glucopyranoside
+T60	Chemical 2423 2424	4
+T61	Metabolite 2423 2424	4
+T62	Chemical 2478 2486	methanol
+T63	Chemical 2541 2563	ergosterol derivatives
+T64	Metabolite 2541 2563	ergosterol derivatives
+R34	Isolated_From Arg1:T55 Arg2:T43	
+R35	Isolated_From Arg1:T57 Arg2:T43	
+R36	Isolated_From Arg1:T59 Arg2:T43	
+R37	Isolated_From Arg1:T61 Arg2:T43	
+T65	Chemical 2658 2666;2668 2669	Compound 3
+T66	Chemical 2658 2666;2675 2676	Compound 4
+T67	Spectral_Data 2696 2716	1 H NMR spectroscopy
+T68	Chemical 2720 2757	ergosteryl-3-O -β -d -glucopyranoside
+T69	Metabolite 2720 2757	ergosteryl-3-O -β -d -glucopyranoside
+T70	Chemical 2759 2760	3
+T71	Metabolite 2759 2760	3
+T72	Chemical 2767 2817	22,23-dihydroergosteryl-3-O -β -d -glucopyranoside
+T73	Metabolite 2767 2817	22,23-dihydroergosteryl-3-O -β -d -glucopyranoside
+T74	Chemical 2819 2820	4
+T75	Metabolite 2819 2820	4
+R38	Associated_With Arg1:T69 Arg2:T67	
+R39	Associated_With Arg1:T68 Arg2:T67	
+R40	Associated_With Arg1:T71 Arg2:T67	
+R41	Associated_With Arg1:T70 Arg2:T67	
+R42	Associated_With Arg1:T73 Arg2:T67	
+R43	Associated_With Arg1:T72 Arg2:T67	
+R44	Associated_With Arg1:T75 Arg2:T67	
+R45	Associated_With Arg1:T74 Arg2:T67	
+T76	Spectral_Data 2923 2938	1 H NMR spectra
+T77	Chemical 2942 2944	1a
+T78	Metabolite 2942 2944	1a
+T79	Chemical 2951 2952	3
+T80	Metabolite 2951 2954	3  
+T81	Chemical 2958 2959	4
+T82	Metabolite 2958 2959	4
+T83	Chemical 2975 2977	1a
+T84	Metabolite 2975 2977	1a
+R46	Associated_With Arg1:T78 Arg2:T76	
+R47	Associated_With Arg1:T77 Arg2:T76	
+T85	Chemical 2990 3022	glycoside derivative of a sterol
+T86	Metabolite 2990 3022	glycoside derivative of a sterol
+R48	Associated_With Arg1:T46 Arg2:T67	
+R49	Associated_With Arg1:T47 Arg2:T67	
+T87	Chemical 3033 3035	1a
+T88	Metabolite 3033 3035	1a
+T89	Chemical 3208 3213	sugar
+T90	Spectral_Data 3280 3296	1 H NMR spectrum
+T91	Chemical 3300 3302	1a
+T92	Metabolite 3300 3302	1a
+T93	Chemical 3458 3464	sterol
+T94	Chemical 3477 3481	1a  
+T95	Metabolite 3477 3479	1a
+T96	Chemical 3487 3508	ergosterol derivative
+T97	Chemical 3588 3593	sugar
+T98	Chemical 3750 3787	ergosteryl-3-O -β -d -glucopyranoside
+T99	Metabolite 3750 3787	ergosteryl-3-O -β -d -glucopyranoside
+T100	Chemical 3789 3790	3
+T101	Metabolite 3789 3790	3
+T102	Chemical 3797 3847	22,23-dihydroergosteryl-3-O -β -d -glucopyranoside
+T103	Metabolite 3797 3847	22,23-dihydroergosteryl-3-O -β -d -glucopyranoside
+T104	Chemical 3849 3850	4
+T105	Metabolite 3849 3850	4
+T106	Chemical 4018 4026	olefinic
+T107	Chemical 4038 4039	3
+T108	Metabolite 4038 4039	3
+T109	Chemical 4045 4046	4
+T110	Metabolite 4045 4046	4
+T111	Chemical 4080 4082	1a
+T112	Chemical 4087 4143	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-diene-3β -ol
+T113	Metabolite 4087 4143	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-diene-3β -ol
+T114	Chemical 4145 4147	1b
+T115	Metabolite 4145 4147	1b
+R50	Associated_With Arg1:T113 Arg2:T90	
+R51	Associated_With Arg1:T112 Arg2:T90	
+R52	Associated_With Arg1:T115 Arg2:T90	
+R53	Associated_With Arg1:T114 Arg2:T90	
+T116	Chemical 4192 4194	1a
+T117	Metabolite 4192 4196	1a  
+T118	Chemical 4201 4205	1b  
+T119	Metabolite 4201 4205	1b  
+T120	Chemical 4272 4277	sugar
+T121	Chemical 4288 4292	1a  
+T122	Metabolite 4288 4292	1a  
+T123	Spectral_Data 4320 4338	spectroscopic data
+T124	Spectral_Data 4366 4369;4379 4390	1 H NMR spectra
+T125	Spectral_Data 4374 4390	13 C NMR spectra
+T126	Chemical 4394 4396	1a
+T127	Metabolite 4394 4398	1a  
+T128	Chemical 4422 4437;4439 4440	glucopyranoside 3
+T129	Chemical 4422 4437;4446 4447	glucopyranoside 4
+T130	Chemical 4477 4492	glucopyranoside
+T131	Chemical 4511 4582	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T132	Metabolite 4511 4582	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T133	Metabolite 4422 4437;4446 4447	glucopyranoside 4
+T134	Metabolite 4422 4437;4439 4440	glucopyranoside 3
+T135	Chemical 4463 4465	1a
+T136	Metabolite 4463 4465	1a
+R54	Associated_With Arg1:T127 Arg2:T125	
+R55	Associated_With Arg1:T126 Arg2:T125	
+R56	Associated_With Arg1:T134 Arg2:T125	
+R57	Associated_With Arg1:T133 Arg2:T125	
+R58	Associated_With Arg1:T129 Arg2:T125	
+R59	Associated_With Arg1:T128 Arg2:T125	
+T137	Chemical 4584 4586	1a
+T138	Metabolite 4584 4586	1a
+T139	Chemical 4594 4604	ergosterol
+T140	Chemical 4606 4607	6
+T141	Chemical 4667 4668	5
+T142	Chemical 4767 4769	O2
+T143	Chemical 4794 4831	ergosteryl-3-O -β -d -glucopyranoside
+T144	Metabolite 4794 4831	ergosteryl-3-O -β -d -glucopyranoside
+T145	Chemical 4785 4790	diene
+T146	Chemical 4833 4834	3
+T147	Metabolite 4833 4834	3
+T148	Chemical 4897 4968	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T149	Metabolite 4897 4968	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T150	Chemical 4970 4972	1a
+T151	Metabolite 4970 4972	1a
+T152	Spectral_Data 4994 4997;5007 5010	1 H NMR
+T153	Spectral_Data 5002 5010	13 C NMR
+T154	Chemical 5083 5088	sugar
+T155	Chemical 5127 5143	5α ,8α -epideoxy
+T156	Chemical 5183 5185	1a
+T157	Metabolite 5183 5185	1a
+T158	Chemical 5188 5259	5α ,8α -Epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T159	Metabolite 5188 5259	5α ,8α -Epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T160	Species 5307 5312	fungi
+R60	Isolated_From Arg1:T159 Arg2:T160	
+T161	Species 5477 5484	lichens
+T162	Species 5579 5595	marine organisms
+R61	Isolated_From Arg1:T159 Arg2:T161	
+R62	Isolated_From Arg1:T159 Arg2:T162	
+T163	Biological_Activity 5678 5687	antitumor
+T164	Biological_Activity 5851 5868	anti-inflammatory
+R63	Associated_With Arg1:T159 Arg2:T164	
+R64	Associated_With Arg1:T158 Arg2:T164	
+T165	Species 5324 5335	C. sinensis
+T166	Chemical 5923 5925	1b
+T167	Metabolite 5923 5927	1b  
+T168	Species 5957 5962	fungi
+R65	Isolated_From Arg1:T167 Arg2:T168	
+T169	Chemical 6060 6066	methyl
+T170	Spectral_Data 6082 6098	1 H NMR spectrum
+T171	Chemical 6102 6112	compound 2
+T172	Metabolite 6102 6112	compound 2
+R66	Associated_With Arg1:T172 Arg2:T170	
+R67	Associated_With Arg1:T171 Arg2:T170	
+T173	Chemical 6261 6271	compound 2
+T174	Metabolite 6261 6271	compound 2
+T175	Chemical 6284 6305	ergosterol derivative
+T176	Chemical 6333 6343	compound 2
+T177	Metabolite 6333 6343	compound 2
+T178	Spectral_Data 6381 6385	HRMS
+R68	Associated_With Arg1:T177 Arg2:T178	
+R69	Associated_With Arg1:T176 Arg2:T178	
+T179	Chemical 6417 6423	oxygen
+T180	Chemical 6452 6453	2
+T181	Metabolite 6452 6453	2
+T182	Chemical 6497 6507	ergosterol
+T183	Chemical 6509 6510	6
+T184	Spectral_Data 6552 6559	1 H NMR
+T185	Chemical 6613 6621	olefinic
+T186	Chemical 6655 6664	5,7-diene
+T187	Chemical 6665 6672	olefins
+T188	Chemical 6676 6677	6
+T189	Chemical 6704 6711	epoxide
+T190	Spectral_Data 6753 6757	COSY
+T191	Chemical 6785 6790	epoxy
+T192	Chemical 6791 6798	methine
+T193	Chemical 6826 6832	olefin
+T194	Chemical 6833 6840	methine
+T195	Spectral_Data 6979 6991	13 C signals
+T196	Spectral_Data 7080 7092	13 C signals
+T197	Chemical 7142 7149	epoxide
+T198	Chemical 7214 7221	hydroxy
+T199	Chemical 7222 7229	methine
+T200	Chemical 7297 7308	epoxy group
+T201	Chemical 7426 7448	5α , 6α -Epoxy sterols
+T202	Chemical 7469 7470	2
+T203	Metabolite 7469 7470	2
+T204	Chemical 7502 7524	5α , 6α -epoxy sterols
+T205	Species 7549 7563	marine sponges
+T206	Species 7568 7574	corals
+T207	Metabolite 7502 7524	5α , 6α -epoxy sterols
+T208	Metabolite 7426 7448	5α , 6α -Epoxy sterols
+R70	Isolated_From Arg1:T207 Arg2:T205	
+R71	Isolated_From Arg1:T204 Arg2:T205	
+R72	Isolated_From Arg1:T207 Arg2:T206	
+R73	Isolated_From Arg1:T204 Arg2:T206	
+T209	Biological_Activity 7717 7726	cytotoxic
+R74	Associated_With Arg1:T207 Arg2:T209	
+R75	Associated_With Arg1:T204 Arg2:T209	
+T210	Biological_Activity 7746 7756	inhibition
+T211	Chemical 7764 7772;7774 7776	compound 1a
+T212	Chemical 7764 7772;7779 7781	compound 1b
+T213	Chemical 7764 7772;7787 7788	compound 3
+T214	Metabolite 7764 7772;7787 7788	compound 3
+T215	Metabolite 7764 7772;7774 7776	compound 1a
+T216	Metabolite 7764 7772;7774 7776	compound 1a
+T217	Biological_Activity 8054 8063	antitumor
+T218	Biological_Activity 8086 8096	inhibition
+T219	Chemical 8170 8183	3 H-thymidine
+T220	Chemical 8276 8284;8286 8287	compound 3
+T221	Chemical 8276 8284;8290 8292	compound 1b
+T222	Chemical 8276 8284;8299 8301	compound 1a
+T223	Metabolite 8276 8284;8299 8301	compound 1a
+T224	Metabolite 8276 8284;8290 8292	compound 1b
+T225	Metabolite 8276 8284;8286 8287	compound 3
+T226	Chemical 8304 8314	Compound 3
+T227	Metabolite 8304 8314	Compound 3
+T228	Chemical 8348 8353	epoxy
+T229	Biological_Activity 8400 8410	inhibition
+T230	Biological_Activity 8453 8463	inhibition
+T231	Chemical 8620 8632	glycoside 1a
+T232	Metabolite 8620 8632	glycoside 1a
+T234	Biological_Activity 8414 8427	proliferation
+T235	Biological_Activity 8647 8654	inhibit
+R76	Associated_With Arg1:T232 Arg2:T235	
+R77	Associated_With Arg1:T231 Arg2:T235	
+R78	Associated_With Arg1:T211 Arg2:T217	
+R79	Associated_With Arg1:T216 Arg2:T217	
+T233	Chemical 8740 8751	aglycone 1b
+T236	Metabolite 8740 8751	aglycone 1b
+T237	Spectral_Data 8795 8805	IR spectra
+T238	Chemical 8909 8916	CHCl3  
+T239	Chemical 8946 8950	NaCl
+T240	Chemical 8974 8977	KBr
+T241	Spectral_Data 9031 9035	LRMS
+T242	Spectral_Data 9040 9044	HRMS
+T243	Chemical 9161 9168	1 H NMR
+T244	Spectral_Data 9224 9228	13 C
+T245	Spectral_Data 9233 9236	APT
+T246	Spectral_Data 9284 9288;9299 9306	HMBC spectra
+T247	Spectral_Data 9294 9306	HMQC spectra
+T248	Chemical 9355 9361	Silica
+T249	Chemical 9424 9430	silica
+T250	Chemical 9466 9474	aluminum
+T251	Species 9541 9547	Fungal
+T252	Species 9580 9591	C. sinensis
+T253	Biological_Activity 9708 9718	inhibition
+T254	Chemical 9727 9740	3 H-Thymidine
+T255	Biological_Activity 9792 9802	inhibitory
+T256	Chemical 10160 10163	CO2
+T257	Species 10287 10298	C. sinensis
+T258	Chemical 10317 10320	CO2
+T259	Chemical 10383 10396	3 H-thymidine
+T260	Chemical 10452 10465	3 H-Thymidine
+T261	Biological_Activity 10549 10559	inhibitory
+T262	Biological_Activity 10643 10653	Inhibition
+T263	Species 10781 10787	fungal
+T264	Species 10817 10828	C. sinensis
+T265	Chemical 10857 10861	MeOH
+T266	Chemical 10890 10894	MeOH
+T267	Chemical 10980 10984	MeOH
+T268	Biological_Activity 11006 11013	inhibit
+T269	Chemical 11061 11073	3 H-thymidin
+T270	Chemical 11132 11136	MeOH
+T271	Chemical 11137 11141	H2 O
+T272	Chemical 11164 11171	hexanes
+T273	Chemical 11173 11181	Methanol
+T274	Chemical 11290 11295	EtOAc
+T275	Chemical 11327 11332	EtOAc
+T276	Chemical 11440 11446	silica
+T277	Chemical 11520 11527	CHCl3  
+T278	Chemical 11606 11611	CHCl3
+T279	Chemical 11614 11619	CHCl3
+T280	Chemical 11621 11625	MeOH
+T281	Chemical 11633 11638	CHCl3
+T283	Chemical 11640 11644	MeOH
+T282	Chemical 11652 11657	CHCl3
+T284	Chemical 11659 11663	MeOH
+T285	Chemical 11674 11678	MeOH
+T286	Biological_Activity 11784 11793	antitumor
+T287	Chemical 11850 11859	silicagel
+T288	Chemical 11885 11890	CHCl3
+T289	Chemical 11892 11896	MeOH
+T290	Chemical 12039 12046	CHCl3  
+T291	Chemical 12064 12065	2
+T292	Metabolite 12064 12065	2
+T293	Chemical 12086 12096	Compound 2
+T294	Metabolite 12086 12096	Compound 2
+T295	Biological_Activity 12120 12129	antitumor
+T296	Chemical 12363 12369	silica
+T297	Chemical 12401 12406	Et2 O
+T298	Chemical 12407 12414	hexanes
+T299	Chemical 12415 12419	MeOH
+T300	Chemical 12485 12487	1a
+T301	Metabolite 12485 12489	1a  
+T302	Chemical 12559 12560	3
+T303	Metabolite 12559 12560	3
+T304	Chemical 12566 12567	4
+T305	Metabolite 12566 12567	4
+T306	Chemical 12576 12628	5α ,6α -Epoxy-24(R )-methylcholesta-7,22-dien-3β -ol
+T307	Metabolite 12576 12628	5α ,6α -Epoxy-24(R )-methylcholesta-7,22-dien-3β -ol
+T308	Chemical 12630 12631	2
+T309	Metabolite 12630 12631	2
+T310	Spectral_Data 12635 12699	IR (cm−1 , CHCl3 ): 4685-3110 (hydroxyl), 2950, 2880, 1673, 1462
+R80	Associated_With Arg1:T307 Arg2:T310	
+R81	Associated_With Arg1:T306 Arg2:T310	
+R82	Associated_With Arg1:T309 Arg2:T310	
+R83	Associated_With Arg1:T308 Arg2:T310	
+T311	Chemical 12646 12651	CHCl3
+T313	Spectral_Data 12701 13186	1 H NMR (500 MHz, CDCl3 ) δ : 0.49 (3H, s , Me-18), 0.72 (3H, d, J =6.5, Me-26 or 27), 0.73 (3H, d, J =6.5, Me-26 or 27), 1.2 (2H, m , H17, H16), 1.32 (1H, m , H2), 1.36 (1H, m , H25), 1.44–1.48 (4H, m , H11, H11′, H15, H1), 1.58 (1H, m , H12), 1.64 (1H, m , H16′), 1.72 (1H, m , H2′), 1.75 (1H, m , H24), 1.81 (1H, m , H14), 1.85 (1H, m , H9), 1.94 (1H, m , H20), 1.95 (1H, m , H4), 3.5 (1H, d, J =5.1, H-6), 3.9(1H, m , H-3), 5.09(1H, m , H-22), 5.11 (1H, m , H-23), 5.2 (1H, m , H-7
+T314	Chemical 12719 12724	CDCl3
+R84	Associated_With Arg1:T307 Arg2:T313	
+R85	Associated_With Arg1:T306 Arg2:T313	
+T315	Spectral_Data 13189 13197	13 C NMR
+T316	Chemical 13207 13212	CDCl3
+T317	Spectral_Data 13236 13240	LRMS
+T318	Spectral_Data 13292 13296	HRMS
+R86	Associated_With Arg1:T307 Arg2:T315	
+R87	Associated_With Arg1:T306 Arg2:T315	
+R88	Associated_With Arg1:T309 Arg2:T315	
+R89	Associated_With Arg1:T308 Arg2:T315	
+R90	Associated_With Arg1:T307 Arg2:T317	
+R91	Associated_With Arg1:T306 Arg2:T317	
+R92	Associated_With Arg1:T309 Arg2:T317	
+R93	Associated_With Arg1:T308 Arg2:T317	
+R94	Associated_With Arg1:T307 Arg2:T318	
+R95	Associated_With Arg1:T306 Arg2:T318	
+R96	Associated_With Arg1:T309 Arg2:T318	
+R97	Associated_With Arg1:T308 Arg2:T318	
+T319	Chemical 13367 13438	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T320	Metabolite 13367 13438	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T321	Chemical 13440 13442	1a
+T322	Metabolite 13440 13442	1a
+T323	Chemical 13456 13461	CHCl3
+T324	Spectral_Data 13446 13516	R (cm−1 , CHCl3 ): 3580–3055 (hydroxyl), 2950, 2873, 1681, 1458, 1371;
+R98	Associated_With Arg1:T322 Arg2:T324	
+R99	Associated_With Arg1:T321 Arg2:T324	
+R100	Associated_With Arg1:T320 Arg2:T324	
+R101	Associated_With Arg1:T319 Arg2:T324	
+T326	Spectral_Data 13540 14037	1 H NMR (500 MHz, CDCl3 ) δ : 0.70 (3H, d, J =6.7, Me-26 or Me-27), 0.71 (3H, s , Me-18), 0.72 (3H, d, J =6.7, Me-26 or Me-27), 0.79 (3H, d, J =6.8 Hz, Me-28), 0.76 (3H, s , Me-19), 0.88 (3H, d, J =6.6 Hz, Me-21), 1.0–2.0 (19H, m ), 2.1 (1H, m ), 3.1–3.2 (2H, m , H-2′, H-3′), 3.2–3.4 (2H, m , H-4′, H-5′), 3.5 (1H, m , H-6a′), 3.60 (1H, m , H6b′), 3.85 (1H, m , H-3); 4.23 (1H, d, J =7.8 Hz, H-1′), 5.05 (1H, m , H-22), 5.09 (1H, m , H-23), 6.13 (1H, d, J =8.5 Hz, H-7), 6.39 (1H, d, J =8.5 Hz, H
+T327	Chemical 13558 13563	CDCl3
+T328	Spectral_Data 14042 14050	13 C NMR
+T329	Chemical 14060 14065	CDCl3
+T330	Spectral_Data 14079 14158	LRMS (CIMS) m /z  (rel. int.): 608[M+NH4 ]+ , 593[M+2]+ , 590[M]+ , 412[M−178]+
+T331	Spectral_Data 14161 14237	HRMS (DCIMS): Calculated for C34 H54 O8 +NH+ 4 : 608.41624; found: 608.41572
+R102	Associated_With Arg1:T322 Arg2:T326	
+R103	Associated_With Arg1:T321 Arg2:T326	
+R104	Associated_With Arg1:T320 Arg2:T326	
+R105	Associated_With Arg1:T319 Arg2:T326	
+R106	Associated_With Arg1:T320 Arg2:T328	
+R107	Associated_With Arg1:T319 Arg2:T328	
+R108	Associated_With Arg1:T322 Arg2:T328	
+R109	Associated_With Arg1:T321 Arg2:T328	
+R110	Associated_With Arg1:T322 Arg2:T330	
+R111	Associated_With Arg1:T321 Arg2:T330	
+R112	Associated_With Arg1:T320 Arg2:T330	
+R113	Associated_With Arg1:T319 Arg2:T330	
+R114	Associated_With Arg1:T322 Arg2:T331	
+R115	Associated_With Arg1:T321 Arg2:T331	
+R116	Associated_With Arg1:T320 Arg2:T331	
+R117	Associated_With Arg1:T319 Arg2:T331	
+T332	Chemical 14258 14260	1a
+T333	Metabolite 14258 14260	1a
+T334	Chemical 14267 14277	ergosterol
+T335	Chemical 14279 14280	6
+T336	Chemical 14320 14328	nitrogen
+T337	Chemical 14394 14487	1 2,3,4,6-Tetra-O -acetyl-3-O-β -d -glucopyranosyl-ergosta-6,22-dien-5α , 8α -epidioxy-3β -ol
+T338	Chemical 14489 14490	5
+T339	Chemical 14519 14578	2,3,4,6-tetra-O -acetyl-α -d -glucosyl trichloroacetimidate
+T340	Chemical 14612 14619	CH2 Cl2
+T341	Chemical 14631 14651	4 Å molecular sieves
+T342	Chemical 14670 14680	ergosterol
+T343	Chemical 14682 14683	6
+T344	Chemical 14788 14798	BF3 .Et2 O
+T345	Chemical 14832 14839	CH2 Cl2
+T346	Chemical 14864 14874	BF3 .Et2 O
+T347	Chemical 15076 15081	Et3 N
+T348	Chemical 15140 15147	CH2 Cl2
+T349	Chemical 15173 15189	molecular sieves
+T350	Chemical 15212 15216	H2 O
+T351	Chemical 15314 15318	MeOH
+T352	Chemical 15322 15329	CHCl3  
+T353	Chemical 15338 15339	5
+T354	Chemical 15386 15390	MeOH
+T355	Chemical 15394 15399	CHCl3
+T356	Chemical 15414 15441	unreacted starting material
+T357	Chemical 15479 15483	MeOH
+T358	Chemical 15487 15492	CHCl3
+T359	Spectral_Data 15496 15992	1 H NMR (400 MHz, CDCl3 ) δ : 0.59 (3H, s , Me-18), 0.79 (3H, d, J =6.7, Me-26 or 27), 0.80 (3H, d, J =6.7, Me-26 or 27), 0.86 (3H, d, J =6.9, Me-28), 0.88 (3H, s , Me-19), 1.00 (3H, d, J =6.5, Me-21), 1.7–2.0 (18H, m ) 1.98 (3H, s ), 1.99 (3H, s ), 2.01 (3H, s ), 2.03 (3H, s ), 2.21 (1H, m ), 2.40(1H, m ), 3.56 (1H, m , H-3), 3.66 (1H, m ), 4.10 (1H, m ), 4.24 (1H, m ), 4.60 (1H, d, J =7.7, H-1′), 4.94 (1H, m ), 5.04 (1H, m ), 5.18 (3H, m , H-22, H-23), 5.36 (1H, m , H-7), 5.55 (1H, m , H-6
+T360	Chemical 15514 15519	CDCl3
+T361	Spectral_Data 15995 16281	13 C NMR (50 MHz, CDCl3 ) 12.0, 16.1, 17.6, 19.2, 19.6, 19.6, 19.9, 20.5, 20.6, 20.7, 21.0, 22.9, 28.2, 29.7, 33.0, 33.0, 37.1, 37.4, 38.2, 39.0, 40.3, 42.8, 46.1, 54.5, 55.7, 62.0, 68.5, 71.4, 71.7, 72.8, 78.6, 99.5, 116.1, 119.9, 131.9, 135.4, 139.0, 141.6, 169.2, 169.3, 170.3, 170.6
+T362	Chemical 16013 16018	CDCl3
+R118	Associated_With Arg1:T353 Arg2:T359	
+R119	Associated_With Arg1:T353 Arg2:T361	
+T363	Chemical 16290 16327	Ergosteryl-3-O -β -d -glucopyranoside
+T364	Metabolite 16290 16327	Ergosteryl-3-O -β -d -glucopyranoside
+T365	Chemical 16329 16330	3
+T366	Metabolite 16329 16330	3
+T367	Chemical 16359 16360	5
+T368	Chemical 16394 16398	MeOH
+T369	Chemical 16414 16419	Et3 N
+T370	Chemical 16431 16435	H2 O
+T371	Chemical 16538 16544	silica
+T372	Chemical 16577 16581	MeOH
+T373	Chemical 16585 16592	CHCl3  
+T374	Chemical 16651 16655	MeOH
+T375	Chemical 16665 16666	3
+T376	Spectral_Data 16728 16781	IR (cm−1 ,CHCl3 ): 3400, 2950, 2875, 1681, 1458, 1371
+T377	Chemical 16738 16743	CHCl3
+T378	Spectral_Data 16783 17284	1 H NMR (400 MHz, DMSO) δ : 0.58 (3H, s , Me-18), 0.79 (3H, d, J =6.7, Me-26 or -27), 0.80 (3H, d, J =6.7, Me-26 or -27), 0.86 (3H, s , Me-19), 0.88 (3H, d, J =6.9, Me-28), 1.00 (3H, d, J =6.5, Me-21), 1.24 (2H, m ) 1.45 (1H, m ), 1.6 (1H, m ) 1.68 (1H, m ), 1.85 (2H, m ), 2.0 (1H, m ), 2.18 (1H, m ), 2.54 (1H, m ), 2.98 (1H, m ), 3.13 (1H, m ), 3.14 (1H, m ), 3.3 (1H, bs), 3.46 (2H, m ), 3.61 (1H, m ), 4.24 (1H, d, J =7.7 Hz, H-1′), 5.20(2H, m , H-22, H-23), 5.34 (1H, m , H-7), 5.52 (1H, m , H-6
+T379	Chemical 16801 16805	DMSO
+T380	Spectral_Data 17287 17295	13 C NMR
+T381	Chemical 17305 17310	CDCl3
+T382	Metabolite 16665 16666	3
+R120	Associated_With Arg1:T382 Arg2:T376	
+R121	Associated_With Arg1:T375 Arg2:T376	
+R122	Associated_With Arg1:T382 Arg2:T378	
+R123	Associated_With Arg1:T375 Arg2:T378	
+R124	Associated_With Arg1:T382 Arg2:T380	
+R125	Associated_With Arg1:T375 Arg2:T380	
+R126	Associated_With Arg1:T364 Arg2:T376	
+R127	Associated_With Arg1:T363 Arg2:T376	
+R128	Associated_With Arg1:T364 Arg2:T378	
+R129	Associated_With Arg1:T363 Arg2:T378	
+R130	Associated_With Arg1:T364 Arg2:T380	
+R131	Associated_With Arg1:T363 Arg2:T380	
+T383	Chemical 17332 17403	5α ,8α -Epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T384	Metabolite 17332 17403	5α ,8α -Epidioxy-24(R )-methylcholesta-6,22-dien-3β -d -glucopyranoside
+T385	Chemical 17427 17428	3
+T386	Chemical 17405 17407	1a
+T387	Metabolite 17405 17407	1a
+T388	Metabolite 17427 17428	3
+T389	Chemical 17466 17470	EtOH
+T390	Chemical 17510 17515	eosin
+T391	Chemical 17519 17523	EtOH
+T392	Chemical 17525 17531	Oxygen
+T393	Chemical 17607 17613	silver
+T394	Chemical 17647 17655	tungsten
+T395	Chemical 17662 17667	Water
+T396	Chemical 17849 17855	silica
+T397	Chemical 17891 17895	MeOH
+T398	Chemical 17899 17906	CHCl3  
+T399	Chemical 17916 17920	1a  
+T400	Metabolite 17916 17920	1a  
+T401	Spectral_Data 17974 17976;18013 18020	IR spectra
+T402	Spectral_Data 17977 17980;18013 18020	1 H spectra
+T403	Spectral_Data 17981 17985;18013 18020	13 C spectra
+T404	Spectral_Data 17990 17994	LRMS
+T405	Chemical 18024 18028	1a  
+T406	Metabolite 18024 18028	1a  
+T407	Species 18057 18068	C. sinensis
+T408	Chemical 18091 18146	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -ol
+T409	Metabolite 18091 18146	5α ,8α -epidioxy-24(R )-methylcholesta-6,22-dien-3β -ol
+T410	Chemical 18148 18150	1b
+T411	Metabolite 18148 18150	1b
+T412	Chemical 18154 18173	ergosterol peroxide
+T413	Chemical 18180 18190	ergosterol
+T414	Chemical 18256 18260	1a  
+T415	Metabolite 18256 18260	1a  
+T416	Chemical 18265 18266	3
+T417	Metabolite 18265 18266	3
+T418	Chemical 18269 18279	ergosterol
+T419	Chemical 18281 18282	6
+T420	Chemical 18339 18345	silica
+T421	Chemical 18373 18378	EtOAc
+T422	Chemical 18382 18389	CH2 Cl2
+T423	Chemical 18401 18403	1b
+T424	Metabolite 18401 18403	1b
+T425	Spectral_Data 18457 18808	1 H NMR (500 MHz, CDCl3 ) 0.61(3H, s , Me-18), 0.67 (3H, s , Me-19), 0.907 (3H, d, J =6.67 Hz, Me-26 or 27), 0.913(3H, d, J =6.71 Hz, Me-26 or -27), 0.99 (3H, d, J =6.78 Hz, Me-28), 1.00 (3H, d, J =6.49, Me-21), 1.1–2.0 (20H, m ), 3.92 (m, 1H, H-3), 5.14 (1H, m , H-23), 5.25 (1H, m , H-22), 5.95 (1H, d, J =8.37 Hz, H-6), 6.29 (1H, d, J =8.47 Hz, H-7
+T426	Chemical 18475 18480	CDCl3
+T427	Spectral_Data 18811 18819	13 C NMR
+T428	Chemical 18829 18834	CDCl3
+T429	Chemical 18987 19045	2,3,4,6-tetra-O -acetyl-α -d -glucosyltrichloroacetimidate
+R132	Associated_With Arg1:T409 Arg2:T425	
+R133	Associated_With Arg1:T408 Arg2:T425	
+R134	Associated_With Arg1:T408 Arg2:T427	
+R135	Associated_With Arg1:T408 Arg2:T427	
+R136	Associated_With Arg1:T424 Arg2:T425	
+R137	Associated_With Arg1:T423 Arg2:T425	
+R138	Associated_With Arg1:T423 Arg2:T427	
+R139	Associated_With Arg1:T424 Arg2:T427	

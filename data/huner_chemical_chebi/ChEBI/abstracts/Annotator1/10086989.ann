@@ -1,0 +1,56 @@
+T1	Species 0 13	Rhus javanica
+T2	Biological_Activity 76 101	anti-herpes simplex virus
+T3	Species 120 124	mice
+T4	Metabolite 169 181	moronic acid
+T5	Chemical 186 200	betulonic acid
+T6	Chemical 169 181	moronic acid
+T7	Metabolite 186 200	betulonic acid
+R1	Isolated_From Arg1:T4 Arg2:T1	
+R2	Isolated_From Arg1:T7 Arg2:T1	
+T8	Chemical 245 258	ethyl acetate
+T9	Biological_Activity 328 336	anti-HSV
+T10	Biological_Activity 148 156	anti-HSV
+T11	Metabolite 368 380	Moronic acid
+T12	Chemical 368 380	Moronic acid
+T13	Biological_Activity 408 416	anti-HSV
+R3	Associated_With Arg1:T11 Arg2:T13	
+R4	Associated_With Arg1:T12 Arg2:T13	
+T14	Chemical 433 446	ethyl acetate
+T15	Chemical 522 534	moronic acid
+T16	Chemical 539 553	betulonic acid
+T17	Metabolite 522 534	moronic acid
+T18	Metabolite 539 553	betulonic acid
+T19	Metabolite 657 669	moronic acid
+T20	Chemical 657 669	moronic acid
+T21	Chemical 706 720	betulonic acid
+T22	Metabolite 706 720	betulonic acid
+T23	Chemical 856 868	moronic acid
+T24	Metabolite 856 868	moronic acid
+T25	Chemical 746 755	acyclovir
+T26	Chemical 756 776	phosphonoacetic acid
+T27	Chemical 794 803	thymidine
+T28	Protein 794 810	thymidine kinase
+T29	Species 959 963	mice
+T31	Species 1127 1131	mice
+T32	Chemical 1176 1188	Moronic acid
+T33	Metabolite 1176 1188	Moronic acid
+T34	Chemical 1340 1352	moronic acid
+T35	Metabolite 1340 1352	moronic acid
+T36	Biological_Activity 1377 1385	anti-HSV
+R7	Associated_With Arg1:T35 Arg2:T36	
+R8	Associated_With Arg1:T34 Arg2:T36	
+T37	Species 1422 1435	Rhus javanica
+R9	Isolated_From Arg1:T35 Arg2:T37	
+T38	Biological_Activity 1449 1457	anti-HSV
+T39	Chemical 1494 1497	ACV
+T40	Species 1561 1565	mice
+T41	Chemical 1499 1511	Moronic acid
+T42	Metabolite 1499 1511	Moronic acid
+T43	Biological_Activity 1587 1595	anti-HSV
+R10	Associated_With Arg1:T42 Arg2:T43	
+R11	Associated_With Arg1:T41 Arg2:T43	
+T44	Biological_Activity 103 106;76 81	HSV anti-
+R12	Associated_With Arg1:T4 Arg2:T10	
+R13	Associated_With Arg1:T6 Arg2:T10	
+R14	Associated_With Arg1:T7 Arg2:T10	
+R15	Associated_With Arg1:T5 Arg2:T10	

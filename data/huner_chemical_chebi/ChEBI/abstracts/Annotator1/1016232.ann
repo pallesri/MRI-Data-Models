@@ -1,0 +1,59 @@
+T1	Species 10 15	human
+T2	Chemical 66 76	creatinine
+T3	Metabolite 66 76	creatinine
+R1	Isolated_From Arg1:T3 Arg2:T1	
+T4	Chemical 82 105	2-ethylhydracrylic acid
+T5	Metabolite 82 105	2-ethylhydracrylic acid
+R2	Isolated_From Arg1:T5 Arg2:T1	
+T6	Chemical 250 260	isoleucine
+T7	Chemical 233 260	R metabolites of isoleucine
+T8	Metabolite 233 260	R metabolites of isoleucine
+T9	Chemical 286 309	2-ethylhydracrylic acid
+T10	Metabolite 286 309	2-ethylhydracrylic acid
+R3	Isolated_From Arg1:T10 Arg2:T1	
+T11	Chemical 346 356	isoleucine
+T12	Metabolite 346 356	isoleucine
+T13	Metabolite 250 260	isoleucine
+T14	Chemical 409 422	3-oxoacyl-CoA
+T15	Protein 409 431	3-oxoacyl-CoA thiolase
+T18	Chemical 447 464	methylmalonyl-CoA
+T17	Protein 447 471	methylmalonyl-CoA mutase
+T21	Chemical 565 588	branched-chain oxo acid
+#1	AnnotatorNotes T21	Class of chemicals
+T22	Protein 565 602	branched-chain oxo acid decarboxylase
+#2	AnnotatorNotes T22	an enzyme
+T27	Chemical 685 706	R(-)-2-methylbutyrate
+T28	Chemical 685 690;711 726	R(-)- 2-ethylacrylate
+T29	Metabolite 685 706	R(-)-2-methylbutyrate
+T30	Metabolite 685 690;711 726	R(-)- 2-ethylacrylate
+T31	Chemical 747 766	2-ethylhydracrylate
+T32	Metabolite 747 766	2-ethylhydracrylate
+T34	Species 784 790	mammal
+T35	Species 791 794	rat
+T36	Species 796 802	rabbit
+T37	Species 807 810	dog
+T38	Chemical 846 871	S(+)-2-methylbutyric acid
+T39	Metabolite 846 871	S(+)-2-methylbutyric acid
+T40	Chemical 846 851;876 887	S(+)- tiglic acid
+T41	Metabolite 846 851;876 887	S(+)- tiglic acid
+T42	Chemical 1118 1136	R 2-methylbutyrate
+T43	Metabolite 1118 1136	R 2-methylbutyrate
+T44	Chemical 1142 1165	2-ethylhydracrylic acid
+T45	Metabolite 1142 1165	2-ethylhydracrylic acid
+T46	Chemical 1209 1228	2-ethylacrylic acid
+T47	Metabolite 1209 1228	2-ethylacrylic acid
+T48	Chemical 1259 1282	2-ethylhydracrylic acid
+T49	Metabolite 1259 1282	2-ethylhydracrylic acid
+T50	Metabolite 1286 1303	ethylmalonic acid
+T51	Chemical 1286 1303	ethylmalonic acid
+T52	Chemical 1373 1388	methyl malonate
+T53	Chemical 1393 1399	Valine
+T54	Metabolite 1393 1399	Valine
+T55	Metabolite 1393 1411	Valine metabolites
+#3	AnnotatorNotes T55	Any/all of the metabolites of valine
+T56	Chemical 1437 1449	R=isoleucine
+T57	Metabolite 1437 1449	R=isoleucine
+R4	Metabolite_Of Arg1:T45 Arg2:T42	
+R5	Metabolite_Of Arg1:T50 Arg2:T48	
+R6	Metabolite_Of Arg1:T45 Arg2:T46	
+R7	Metabolite_Of Arg1:T47 Arg2:T42	

@@ -1,0 +1,15 @@
+T1	Chemical 17 32	L-cystathionine
+T2	Species 61 67	rabbit
+T3	Chemical 114 119	drugs
+T4	Biological_Activity 121 132	stimulating
+T5	Chemical 161 170	phenamine
+T6	Chemical 172 182	strychnine
+T7	Chemical 183 191	corasole
+R1	Associated_With Arg1:T5 Arg2:T4	
+R2	Associated_With Arg1:T6 Arg2:T4	
+R3	Associated_With Arg1:T7 Arg2:T4	
+T9	Chemical 228 243	L-cystathionine
+T10	Chemical 301 311	strychnine
+T11	Chemical 316 324	corasole
+T13	Metabolite 17 32	L-cystathionine
+R9	Isolated_From Arg1:T13 Arg2:T2	

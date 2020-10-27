@@ -1,0 +1,26 @@
+T2	Chemical 60 140	[3H] [1-[2-(diphenylmethoxy)ethyl]-4-(3-phenylpropyl) piperazine dihydrochloride
+T3	Chemical 143 156	[3H]GBR 12935
+T5	Protein 243 263	cytochrome P-450IID6
+T6	Protein 265 274	CYP4502D6
+T7	Protein 276 302	debrisoquine-4-hydroxylase
+T8	Protein 320 329	CYP4502D6
+T9	Species 348 358	Caucasians
+T10	Protein 384 393	CYP4502D6
+T12	Chemical 413 425	debrisoquine
+T13	Chemical 430 446	dextromethorphan
+T14	Chemical 521 534	[3H]GBR 12935
+T17	Protein 553 562	CYP4502D6
+T18	Protein 995 1004	CYP4502D6
+T1	Species 161 166	human
+T19	Protein 185 209	piperazine acceptor site
+T20	Species 671 676	males
+T21	Species 720 727	females
+R1	Binds_With Arg1:T3 Arg2:T19	
+R2	Binds_With Arg1:T2 Arg2:T19	
+R3	Binds_With Arg1:T12 Arg2:T10	
+R4	Binds_With Arg1:T13 Arg2:T10	
+R5	Binds_With Arg1:T14 Arg2:T17	
+T4	Biological_Activity 49 56	binding
+T11	Biological_Activity 494 501	binding
+R6	Associated_With Arg1:T2 Arg2:T4	
+R7	Associated_With Arg1:T3 Arg2:T4	

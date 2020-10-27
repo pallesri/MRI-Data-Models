@@ -1,0 +1,64 @@
+T1	Chemical 21 30	loxtidine
+T2	Chemical 32 125	1-methyl-5-[3-[3-[(1-piperidinyl) methyl] phenoxy] propyl] amino-1H-1,2,4-triazole-3-methanol
+T3	Species 159 162	rat
+T4	Species 164 167	dog
+T5	Species 172 177	human
+T6	Chemical 423 432	loxtidine
+T7	Species 436 439	rat
+T8	Chemical 483 497;525 535	propionic acid metabolite
+T9	Metabolite 483 497;525 535	propionic acid metabolite
+R1	Metabolite_Of Arg1:T9 Arg2:T6	
+T10	Chemical 502 535	hydroxymethyl triazole metabolite
+T11	Metabolite 502 535	hydroxymethyl triazole metabolite
+R2	Metabolite_Of Arg1:T11 Arg2:T6	
+T14	Chemical 583 592	loxtidine
+T15	Metabolite 598 624	carboxylic acid metabolite
+T16	Chemical 598 624	carboxylic acid metabolite
+R3	Metabolite_Of Arg1:T15 Arg2:T14	
+R4	Isolated_From Arg1:T9 Arg2:T7	
+R5	Isolated_From Arg1:T11 Arg2:T7	
+R6	Isolated_From Arg1:T15 Arg2:T7	
+T17	Chemical 660 669	loxtidine
+T18	Species 673 676	dog
+T21	Chemical 731 757	carboxylic acid metabolite
+T22	Metabolite 731 757	carboxylic acid metabolite
+R7	Isolated_From Arg1:T22 Arg2:T18	
+R8	Metabolite_Of Arg1:T22 Arg2:T17	
+T23	Chemical 799 808	loxtidine
+T24	Species 814 819	human
+T25	Chemical 848 852	drug
+T27	Metabolite 894 920	carboxylic acid metabolite
+T28	Chemical 894 920	carboxylic acid metabolite
+R10	Isolated_From Arg1:T27 Arg2:T24	
+R11	Metabolite_Of Arg1:T27 Arg2:T23	
+T29	Species 995 998	rat
+T30	Species 1000 1003	dog
+T31	Species 1009 1014	human
+T32	Chemical 1202 1211	loxtidine
+T33	Species 1406 1409	rat
+T34	Species 1411 1414	dog
+T35	Species 1419 1424	human
+T36	Species 1549 1554	dog  
+T37	Species 1544 1547	rat
+T38	Species 1558 1561	man
+T39	Chemical 1624 1633	loxtidine
+T40	Species 1653 1656	rat
+T41	Species 1756 1759	rat
+T42	Species 1761 1764	dog
+T43	Species 1658 1661	dog
+T44	Species 1666 1671	human
+T45	Species 1769 1772	man
+T46	Species 1848 1851	rat
+T47	Species 1853 1856	dog
+T48	Species 1861 1864	man
+T49	Chemical 2052 2056	drug
+T50	Species 2072 2075	man
+T51	Chemical 2101 2105	drug
+T52	Biological_Activity 2036 2046	metabolism
+T53	Biological_Activity 645 655	metabolism
+T54	Biological_Activity 409 419	metabolism
+T55	Biological_Activity 7 17	metabolism
+T56	Biological_Activity 191 201	Metabolism
+T57	Species 1672 1682	volunteers
+T58	Species 2060 2067	animals
+T12	Biological_Activity 1107 1116	metabolic

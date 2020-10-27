@@ -1,0 +1,9 @@
+T1	Disease 90 96	cancer
+T2	Disease 309 315	cancer
+T3	Disease 456 462	cancer
+T5	Plant 48 54	tomato
+T7	Plant 337 343	tomato
+T4	Treatment_of_disease 296 305	reduction
+E1	Treatment_of_disease:T4 Theme:T2 Cause:T7
+T6	Treatment_of_disease 71 77	reduce
+E2	Treatment_of_disease:T6 Theme:T1 Cause:T5

@@ -1,0 +1,529 @@
+T1	Chemical 1 31	Bis(monoacylglycerol)phosphate
+T2	Chemical 33 36	BMP
+T3	Metabolite 1 31	Bis(monoacylglycerol)phosphate
+T4	Chemical 181 201	phosphatidylglycerol
+T5	Chemical 203 205	PG
+R1	Metabolite_Of Arg1:T3 Arg2:T4	
+T6	Metabolite 33 36	BMP
+R2	Metabolite_Of Arg1:T6 Arg2:T4	
+T7	Chemical 208 211	BMP
+T8	Chemical 224 236	phospholipid
+T9	Chemical 246 251;270 294	sn -1 glycerol phosphate ester
+T10	Chemical 264 294	sn -3 glycerol phosphate ester
+T11	Metabolite 208 211	BMP
+T12	Chemical 308 318	acyl group
+T13	Chemical 343 360	glycerol moieties
+T14	Chemical 394 405	acyl esters
+T15	Chemical 417 424;438 446	primary hydroxyl
+T16	Chemical 428 446	secondary hydroxyl
+T17	Chemical 459 470	acyl groups
+T18	Chemical 474 477	BMP
+T19	Metabolite 474 477	BMP
+T20	Chemical 500 515	polyunsaturated
+T21	Chemical 545 549	acyl
+T22	Chemical 636 639	BMP
+T23	Metabolite 636 639	BMP
+T24	Protein 772 779	enzymes
+T25	Biological_Activity 805 817	biosynthesis
+T26	Chemical 821 824	BMP
+T27	Chemical 830 832	PG
+T28	Metabolite 821 824	BMP
+R3	Metabolite_Of Arg1:T28 Arg2:T27	
+T29	Chemical 860 862	PG
+T30	Metabolite 181 201	phosphatidylglycerol
+T31	Metabolite 203 205	PG
+T32	Metabolite 830 832	PG
+T33	Metabolite 860 862	PG
+T34	Chemical 939 942	BMP
+T35	Metabolite 939 942	BMP
+R4	Metabolite_Of Arg1:T35 Arg2:T29	
+T36	Chemical 976 979	BMP
+T37	Metabolite 976 979	BMP
+T38	Chemical 1038 1041	BMP
+T39	Metabolite 1038 1041	BMP
+T40	Chemical 1142 1145	BMP
+T41	Metabolite 1142 1145	BMP
+T42	Chemical 1167 1169	PG
+T43	Metabolite 1167 1169	PG
+T44	Protein 1195 1201	PLA2  
+T45	Chemical 1209 1251	1-acyl-sn -glycero-3-phospho-rac -glycerol
+T46	Metabolite 1209 1251	1-acyl-sn -glycero-3-phospho-rac -glycerol
+T47	Chemical 1253 1256	LPG
+T48	Metabolite 1253 1256	LPG
+R5	Metabolite_Of Arg1:T46 Arg2:T42	
+R6	Metabolite_Of Arg1:T48 Arg2:T42	
+T49	Chemical 1279 1295	sn -3:sn -1′ LPG
+T50	Metabolite 1279 1295	sn -3:sn -1′ LPG
+T51	Chemical 1346 1354	glycerol
+T52	Chemical 1363 1373	acyl group
+T53	Chemical 1387 1399	phospholipid
+T54	Chemical 1452 1468	phosphoryl ester
+T55	Chemical 1478 1483;1497 1505	sn -3 position
+T56	Chemical 1491 1505	sn -1 position
+T57	Chemical 1530 1553	sn -1 linked acyl chain
+T58	Chemical 1573 1583	phosphoryl
+T59	Chemical 1681 1690	phosphate
+T60	Chemical 1698 1712	sn -1 position
+T61	Chemical 1835 1845	acyl chain
+T62	Chemical 1873 1881	glycerol
+T63	Chemical 1909 1925	sn -1:sn -1′ LPG
+T64	Chemical 21864 21890	polyunsaturated fatty acid
+T65	Chemical 21646 21673	polyunsaturated fatty acids
+T66	Chemical 21682 21694	arachidonate
+T67	Chemical 21719 21734	docosahexanoate
+T68	Protein 21575 21577	TA
+T69	Chemical 21585 21608	unsaturated fatty acids
+T70	Chemical 21354 21373	diacyl phospholipid
+T71	Chemical 3883 3895	Silica gel G
+T72	Protein 3935 3942	enzymes
+T73	Chemical 3964 4017	1-acyl[1,2,3-3 H]-sn -glycero-3-phospho-rac -glycerol
+T74	Chemical 4019 4027	[3 H]LPG
+T75	Chemical 6240 6248	[3 H]LPG
+T76	Chemical 1934 1963	sn -2 chain of a phospholipid
+T77	Chemical 2023 2026	BMP
+T78	Metabolite 2023 2026	BMP
+T79	Chemical 2064 2090	polyunsaturated fatty acid
+T80	Chemical 2123 2142	diacyl phospholipid
+T81	Chemical 2172 2188	sn -3:sn -1′ LPG
+T82	Chemical 2192 2208	sn -3:sn -1′ BMP
+T83	Metabolite 2172 2188	sn -3:sn -1′ LPG
+T84	Metabolite 2192 2208	sn -3:sn -1′ BMP
+R7	Metabolite_Of Arg1:T84 Arg2:T81	
+T85	Chemical 2262 2267	lipid
+T86	Protein 2328 2340	transacylase
+T87	Chemical 2345 2348	BMP
+T88	Metabolite 2345 2348	BMP
+T89	Chemical 2422 2424	PI
+T90	Species 2454 2457	rat
+T91	Protein 2474 2486	transacylase
+T92	Chemical 2495 2498	BMP
+T93	Metabolite 2495 2498	BMP
+T94	Chemical 2565 2569	acyl
+T95	Chemical 2593 2598;2608 2622	sn -1 position of PC
+T96	Chemical 2602 2622	sn -2 position of PC
+T97	Chemical 2620 2622	PC
+T98	Chemical 2645 2648	BMP
+T99	Metabolite 2645 2648	BMP
+T100	Protein 2699 2705	PLA1  
+T101	Protein 2715 2727	transacylase
+T102	Chemical 2774 2777	BMP
+T103	Metabolite 2774 2777	BMP
+T104	Chemical 2782 2806	acylphosphatidylglycerol
+T105	Metabolite 2782 2806	acylphosphatidylglycerol
+T106	Chemical 2808 2811	APG
+T107	Metabolite 2808 2811	APG
+T108	Chemical 2845 2848	BMP
+T109	Metabolite 2845 2848	BMP
+T110	Chemical 3143 3170	polyunsaturated fatty acids
+T111	Chemical 3174 3177	BMP
+T112	Metabolite 3174 3177	BMP
+T113	Chemical 3236 3239	LPG
+T114	Metabolite 3236 3239	LPG
+T115	Chemical 3259 3269	acyl donor
+T116	Chemical 3274 3287	acyl acceptor
+T117	Chemical 3301 3321	diradyl phospholipid
+T118	Species 3450 3459	RAW 264.7
+T119	Species 3461 3537	murine monocytic, macrophage like, Abelson leukemia virus transformed BALB/c
+T120	Chemical 3633 3646	Phospholipids
+T121	Chemical 3669 3674	lipid
+T122	Species 3659 3668	RAW 264.7
+T123	Chemical 3707 3712	Salts
+T124	Chemical 3727 3743	organic solvents
+T125	Chemical 3714 3721	buffers
+T126	Chemical 3884 3895	ilica gel G
+T127	Species 4091 4100	RAW 264.7
+T128	Chemical 4168 4173	HEPES
+T129	Chemical 4194 4204	d -glucose
+T130	Chemical 4218 4230	l -glutamine
+T131	Chemical 4244 4259	sodium pyruvate
+T132	Chemical 4271 4284	pyridoxal HCl
+T133	Chemical 4361 4364	CO2
+T134	Chemical 4121 4156	Dulbecco’s minimum essential medium
+T135	Chemical 4416 4422	medium
+T136	Chemical 4472 4478	medium
+T137	Chemical 4584 4590	medium
+T138	Chemical 4714 4717	CO2
+T139	Chemical 4758 4764	medium
+T140	Chemical 4814 4819	HEPES
+T141	Chemical 4991 4997	medium
+T142	Protein 5123 5139	LPG transacylase
+T143	Protein 5141 5143	TA
+T144	Protein 5161 5173	Transacylase
+T145	Species 5184 5193	RAW 264.7
+T146	Chemical 5228 5234	medium
+T147	Chemical 5331 5337	saline
+T148	Chemical 5378 5384	NaHCO3
+T149	Chemical 5439 5444	water
+T150	Chemical 5455 5464	1-butanol
+T151	Chemical 5611 5618	aqueous
+T152	Chemical 5727 5731	Tris
+T153	Protein 5880 5882	TA
+T154	Biological_Activity 5880 5882	TA
+T155	Protein 5924 5926	TA
+T156	Biological_Activity 5924 5926	TA
+T157	Protein 5956 5958	TA
+T158	Spectral_Data 6021 6038;6044 6052	mass spectrometry analysis
+T159	Spectral_Data 6040 6042	MS
+T160	Protein 6151 6158	protein
+T161	Protein 6179 6191	Transacylase
+T162	Biological_Activity 6179 6191	Transacylase
+T163	Chemical 6225 6238	diradyl lipid
+T164	Chemical 6240 6248	[3 H]LPG
+T165	Chemical 6287 6302	1-myristoyl LPG
+T166	Chemical 6354 6364	Na acetate
+T167	Chemical 6332 6336	N2  
+T168	Protein 6506 6508	TA
+T169	Chemical 6580 6585	water
+T170	Chemical 6666 6672	lipids
+T171	Chemical 6761 6763	N2
+T172	Chemical 6770 6776	lipids
+T173	Metabolite 6770 6776	lipids
+T174	Chemical 6795 6803	silica G
+T175	Chemical 6813 6821	methanol
+T176	Chemical 6891 6901	chloroform
+T177	Chemical 6902 6910	methanol
+T178	Chemical 6911 6929	ammonium hydroxide
+T179	Chemical 7004 7010	lipids
+T180	Metabolite 7004 7010	lipids
+T181	Chemical 7118 7124	Silica
+T182	Protein 7271 7273	TA
+T183	Biological_Activity 7271 7273	TA
+T184	Chemical 7336 7339	BMP
+T185	Metabolite 7336 7339	BMP
+T186	Chemical 7393 7399	silica
+T187	Chemical 7415 7423	methanol
+T188	Chemical 7424 7429	water
+T189	Protein 7551 7557	enzyme
+T190	Chemical 7759 7783	Fatty acid methyl esters
+T191	Chemical 7854 7860	lipids
+T192	Metabolite 7854 7860	lipids
+T193	Chemical 7895 7913	pentadecanoic acid
+T194	Chemical 7915 7920	C15:0
+T195	Chemical 7925 7931	hexane
+T196	Chemical 7967 7973	silica
+T197	Spectral_Data 8030 8032	MS
+T198	Chemical 8052 8060	[3 H]LPG
+T199	Chemical 8086 8089	BMP
+T200	Metabolite 8086 8089	BMP
+T201	Chemical 8121 8124	HCl
+T202	Chemical 8128 8132	MeOH
+T203	Chemical 8158 8164	silica
+T204	Chemical 8238 8244	hexane
+T205	Chemical 8298 8302	NaOH
+T206	Chemical 8308 8314	hexane
+T207	Chemical 8376 8382	hexane
+T208	Chemical 8391 8397	hexane
+T209	Chemical 8414 8416	N2
+T210	Chemical 8423 8447	fatty acid methyl esters
+T211	Chemical 8476 8484	undecane
+T212	Spectral_Data 8562 8573	MS analysis
+T213	Spectral_Data 8574 8585	MS analysis
+T214	Chemical 8632 8635	BMP
+T215	Metabolite 8632 8635	BMP
+T216	Chemical 8680 8684	MeOH
+T217	Chemical 8685 8690	MeCl2
+T218	Spectral_Data 8713 8893	VG Quattro II triple quadrupole mass spectrometer, and resultant data analyzed using Masslynx software. Both parent and daughter ions were detected over a range from 200 to 900 m/z
+T219	Chemical 8921 8925	acyl
+T220	Chemical 9134 9163	acyl chains esterified on BMP
+T221	Metabolite 9134 9163	acyl chains esterified on BMP
+R8	Associated_With Arg1:T221 Arg2:T213	
+R9	Associated_With Arg1:T221 Arg2:T218	
+R10	Associated_With Arg1:T221 Arg2:T212	
+T222	Protein 9303 9305	TA
+T223	Chemical 9366 9380	phospholipases
+T224	Protein 9483 9486	PLA
+T225	Biological_Activity 9483 9486	PLA
+T226	Protein 9515 9527	transacylase
+T227	Chemical 9552 9555	ATP
+T228	Chemical 9560 9563	CoA
+T229	Protein 9574 9587	transacylases
+T230	Protein 9753 9759	enzyme
+T231	Chemical 9957 9960	LPG
+T232	Chemical 9966 9972	lipids
+T233	Species 9992 10001	RAW 264.7
+T234	Protein 10023 10025	TA
+T235	Chemical 10149 10154	lipid
+T236	Chemical 10207 10218	acyl groups
+T237	Chemical 10246 10254	[3 H]LPG
+T238	Chemical 10278 10287	palmitate
+T239	Chemical 10293 10301	[3 H]LPG
+T240	Chemical 10383 10398	1-myristoyl LPG
+T241	Chemical 10406 10409	LPG
+T242	Chemical 10421 10470	1-palmitoyl-2-oleoyl-sn -glycero-3-phosphocholine
+T243	Chemical 10472 10476	POPC
+T244	Chemical 10481 10535	1-palmitoyl-2-oleoyl-sn -glycero-3-phosphoethanolamine
+T245	Chemical 10537 10541	POPE
+T246	Chemical 10591 10594	LPG
+T247	Chemical 10603 10607	POPC
+T248	Chemical 10642 10646	POPE
+T249	Protein 10669 10681	transacylase
+T250	Chemical 10726 10729	LPG
+T251	Chemical 10734 10738	POPC
+T252	Protein 10936 10938	TA
+T253	Chemical 11079 11089	bile acids
+T254	Chemical 11090 11106	deoxycholic acid
+T255	Chemical 11108 11111	DOC
+T256	Chemical 11116 11127	cholic acid
+T257	Chemical 11129 11132	CHO
+T258	Chemical 11175 11183	Tween 20
+T259	Chemical 11188 11218	cetyltrimethylammonium bromide
+T260	Biological_Activity 11228 11237	inhibited
+R11	Associated_With Arg1:T258 Arg2:T260	
+R12	Associated_With Arg1:T259 Arg2:T260	
+T261	Biological_Activity 11147 11156	stimulate
+R13	Associated_With Arg1:T254 Arg2:T261	
+R14	Associated_With Arg1:T255 Arg2:T261	
+R15	Associated_With Arg1:T256 Arg2:T261	
+R16	Associated_With Arg1:T257 Arg2:T261	
+T262	Chemical 11267 11270	DOC
+T263	Biological_Activity 11321 11331	inhibitory
+R17	Associated_With Arg1:T262 Arg2:T263	
+T264	Chemical 11379 11382	DOC
+T265	Chemical 11387 11390	CHO
+T266	Biological_Activity 11484 11495	stimulatory
+R18	Associated_With Arg1:T264 Arg2:T266	
+R19	Associated_With Arg1:T264 Arg2:T266	
+T267	Chemical 11577 11590	phospholipids
+T268	Chemical 11616 11619	DOC
+T269	Chemical 11690 11702	phospholipid
+T270	Biological_Activity 11721 11732	stimulatory
+T271	Chemical 11755 11758	DOC
+T272	Chemical 11784 11796	phospholipid
+T273	Chemical 11812 11822	acyl group
+T274	Protein 11872 11874	TA
+T275	Biological_Activity 11858 11867	stimulate
+T276	Chemical 11891 11902	plasmalogen
+T277	Chemical 11908 11910	PE
+T278	Chemical 12006 12050	1,2-dihexadecyl-sn -glycero-3-phosphocholine
+T279	Chemical 12052 12062	dialkyl PC
+T280	Chemical 12067 12079	phospholipid
+T281	Chemical 12085 12090	ether
+T282	Chemical 12103 12108	ester
+T283	Biological_Activity 11926 11937	stimulatory
+R20	Associated_With Arg1:T278 Arg2:T283	
+T284	Biological_Activity 12175 12186	stimulatory
+T285	Chemical 12197 12218	diradyl phospholipids
+R21	Associated_With Arg1:T285 Arg2:T284	
+T286	Chemical 12288 12293	lipid
+T287	Chemical 12312 12318	lipids
+T288	Chemical 12354 12365	acyl groups
+T289	Chemical 12392 12402	acyl group
+T290	Chemical 12423 12425	PC
+T291	Chemical 12429 12439	fatty acid
+T292	Chemical 12464 12467	BMP
+T293	Metabolite 12464 12467	BMP
+T294	Chemical 12488 12492	acyl
+T295	Chemical 12512 12515	BMP
+T296	Metabolite 12512 12515	BMP
+T297	Chemical 12525 12540	1-myristoyl LPG
+T298	Chemical 12545 12549	POPC
+T299	Chemical 12615 12624	myristate
+T300	Chemical 12645 12655	fatty acid
+T301	Chemical 12667 12670	BMP
+T302	Metabolite 12667 12670	BMP
+T303	Chemical 12696 12707	acyl groups
+T304	Chemical 12709 12718	palmitate
+T305	Chemical 12723 12729	oleate
+T306	Chemical 12740 12744	POPC
+T307	Chemical 12779 12782	BMP
+T308	Metabolite 12779 12782	BMP
+T309	Biological_Activity 12763 12775	biosynthesis
+T310	Chemical 12805 12807	PC
+T311	Chemical 12928 12938	dialkyl PC
+T312	Chemical 13022 13028	lipids
+T313	Chemical 13044 13054	acyl chain
+T314	Protein 13093 13095	TA
+T315	Chemical 13115 13124	myristate
+T316	Chemical 13131 13146	1-palmitoyl LPG
+T317	Chemical 13151 13202	1-myristoyl-2-stearoyl-sn -glycero-3-phosphocholine
+T318	Chemical 13204 13208	MSPC
+T319	Chemical 13251 13254	BMP
+T320	Spectral_Data 13267 13289	electrospray tandem MS
+T321	Chemical 13322 13325	BMP
+T323	Chemical 13340 13356	palmitate chains
+R22	Associated_With Arg1:T319 Arg2:T320	
+T324	Chemical 13388 13392	MSPC
+T325	Chemical 13446 13450	MSPC
+T326	Spectral_Data 13508 13510	MS
+T327	Protein 13547 13549	TA
+T328	Chemical 13584 13595	acyl chains
+T329	Chemical 13609 13612	BMP
+T322	Chemical 13655 13665	dialkyl PC
+T330	Chemical 13670 13679	mixed LPG
+T331	Chemical 13695 13698	LPG
+T332	Chemical 13716 13725	myristate
+T333	Chemical 13727 13736	palmitate
+T334	Chemical 13738 13746	stearate
+T335	Chemical 13751 13757	oleate
+T336	Chemical 13813 13833	saturated fatty acyl
+T337	Chemical 13846 13849	LPG
+T338	Chemical 13866 13869	BMP
+T339	Chemical 13906 13912	oleate
+T340	Chemical 13890 13905	monounsaturated
+T341	Chemical 13982 13985	LPG
+T342	Chemical 13996 14008	1-oleoyl LPG
+T343	Chemical 14060 14063	BMP
+T344	Chemical 14101 14123	myristoyl/stearoyl BMP
+T345	Chemical 14128 14143	dipalmitoyl BMP
+T346	Chemical 14334 14343	myristate
+T347	Chemical 14345 14354	palmitate
+T348	Chemical 14360 14368	stearate
+T349	Chemical 14480 14491;14515 14518	dipalmitoyl BMP
+T350	Chemical 14496 14518	myristoyl/stearoyl BMP
+T351	Chemical 14615 14618	LPG
+T352	Chemical 14662 14677	1-palmitoyl LPG
+T353	Chemical 14682 14694	2-oleoyl LPG
+T354	Chemical 14774 14778	LPGs
+T355	Chemical 14803 14823	diradyl phospholipid
+T356	Protein 14856 14858	TA
+T357	Chemical 14903 14906	LPG
+T358	Chemical 14950 15006	1-palmitoyl-2-oleoyl-sn -glycero-3-phospho-rac -glycerol
+T359	Chemical 15008 15012	POPG
+T360	Protein 15041 15047	lipase
+T361	Species 15053 15084	Rhizopus arrhizus  var. delemer
+T362	Chemical 15100 15112	2-oleoyl LPG
+T363	Protein 15122 15145	porcine pancreatic PLA2
+T364	Species 15122 15129	porcine
+T365	Chemical 15161 15176	1-palmitoyl LPG
+T366	Chemical 15238 15253	1-palmitoyl LPG
+T367	Chemical 15348 15358	acyl chain
+T368	Chemical 15579 15589	acyl group
+T369	Chemical 15602 15614	1-oleoyl LPG
+T370	Chemical 15655 15667	1-oleoyl LPG
+T371	Chemical 15672 15682	dialkyl PC
+T372	Protein 15720 15722	TA
+T373	Chemical 15760 15770	2-acyl LPG
+T374	Chemical 15783 15805	unsaturated acyl chain
+T375	Protein 15852 15854	TA
+T376	Chemical 15868 15871	LPG
+T377	Chemical 15885 15895	lysolipids
+T378	Chemical 15949 15966	1-acyl lysolipids
+T379	Chemical 16044 16054	lysolipids
+T380	Chemical 16094 16097	LPG
+T381	Biological_Activity 16099 16109	inhibition
+T382	Biological_Activity 16180 16190	inhibition
+T383	Chemical 16228 16231	LPG
+T384	Chemical 16239 16244	lipid
+T385	Protein 16311 16313	TA
+T386	Chemical 16328 16331	LPG
+T387	Chemical 16335 16338	BMP
+T388	Metabolite 16335 16338	BMP
+R23	Metabolite_Of Arg1:T388 Arg2:T386	
+T389	Chemical 16387 16397	acyl group
+T390	Chemical 16407 16410	LPG
+T391	Chemical 16473 16476	ATP
+T392	Chemical 16481 16484	CoA
+T393	Protein 16427 16433	enzyme
+T394	Species 16515 16519	acyl
+T395	Protein 16520 16526	enzyme
+T396	Chemical 16720 16735	1-myristoyl LPG
+T397	Chemical 16859 16863	salt
+T398	Chemical 16926 16929	LPG
+T399	Chemical 16989 17002	diradyl lipid
+T400	Chemical 17006 17015	bile acid
+T401	Metabolite 17006 17015	bile acid
+T402	Chemical 17050 17053	LPG
+T403	Chemical 17061 17066	lipid
+T404	Chemical 17114 17121	micelle
+T405	Protein 17134 17140	enzyme
+T406	Chemical 17161 17166	lipid
+T407	Chemical 17167 17171	H2 O
+T408	Chemical 17216 17219	LPG
+T409	Chemical 17274 17277	LPG
+T410	Chemical 17282 17284	PC
+T411	Chemical 17377 17381	POPC
+T412	Chemical 17424 17427	LPG
+T413	Chemical 17527 17530	LPG
+T414	Chemical 17549 17553	POPC
+T415	Chemical 17590 17605	1-myristoyl LPG
+T416	Chemical 17609 17613	POPC
+T417	Chemical 17629 17633	POPC
+T418	Chemical 17780 17783	LPG
+T419	Chemical 17909 17913	POPE
+T420	Chemical 17793 17798	lipid
+T421	Chemical 17900 17904	POPC
+T422	Chemical 17952 17957	lipid
+T423	Chemical 17958 17962	H2 O
+T424	Chemical 17998 18002	POPE
+T425	Chemical 18006 18011	lipid
+T426	Chemical 18096 18099	LPG
+T427	Chemical 18122 18126	POPE
+T428	Chemical 18132 18137	lipid
+T429	Protein 18189 18191	TA
+T430	Chemical 18263 18265	PE
+T431	Chemical 18280 18283	DOC
+T432	Biological_Activity 18285 18296	stimulation
+T433	Biological_Activity 18218 18222	bind
+T434	Chemical 18396 18401	lipid
+T435	Chemical 18513 18518	lipid
+T436	Chemical 18598 18601	LPG
+T437	Chemical 18605 18608	BMP
+T438	Metabolite 18605 18608	BMP
+R24	Metabolite_Of Arg1:T438 Arg2:T436	
+T439	Chemical 18634 18644	acyl chain
+T440	Chemical 18652 18671	diacyl phospholipid
+T441	Chemical 18742 18745	LPG
+T442	Chemical 18788 18800	phospholipid
+T443	Chemical 18886 18909	radiolabeled fatty acid
+T444	Chemical 18913 18916	BMP
+T445	Chemical 18976 18999	radiolabeled fatty acid
+T446	Chemical 19019 19022	BMP
+T447	Chemical 19028 19049	diradyl phospholipids
+T448	Chemical 19083 19086	BMP
+T449	Protein 19208 19221	transacylases
+T450	Protein 19314 19316	TA
+T451	Species 19380 19383	rat
+T452	Chemical 19412 19423	[3 H]oleate
+T453	Chemical 19429 19431	PC
+T454	Chemical 19440 19443	BMP
+T455	Chemical 19485 19491	oleate
+T456	Chemical 19515 19521	oleate
+T457	Chemical 19556 19559	BMP
+T458	Chemical 19584 19587	BMP
+T459	Chemical 19600 19603	LPG
+T460	Chemical 19639 19645	oleate
+T461	Metabolite 19584 19587	BMP
+R25	Metabolite_Of Arg1:T461 Arg2:T459	
+T462	Chemical 19734 19737	BMP
+T463	Chemical 19770 19780	acyl group
+T464	Chemical 19786 19800	diradyl lipids
+T465	Protein 19816 19829	transacylases
+T466	Protein 19872 19897	acyl-CoA acyltransferases
+T469	Protein 19903 19932	CoA independent transacylases
+T470	Protein 19938 19956	lysophospholipases
+T471	Protein 19962 19979	LPG transacylases
+T474	Protein 19993 20017	acyl-CoA acyltransferase
+T475	Chemical 20029 20037	acyl-CoA
+T476	Protein 20048 20067	acyl-CoA synthetase
+T467	Protein 20200 20228	CoA independent transacylase
+T468	Chemical 20260 20270	acyl group
+T472	Chemical 20300 20320	diradyl phospholipid
+T473	Chemical 20326 20335	lysolipid
+T477	Protein 20360 20366	enzyme
+T478	Chemical 20397 20399	PG
+T479	Chemical 20421 20424	LPG
+T480	Chemical 20485 20495	acyl group
+T481	Chemical 20527 20535	glycerol
+T482	Protein 20560 20589	CoA independent transacylases
+T483	Protein 20602 20619	lysophospholipase
+T484	Chemical 20697 20706	lysolipid
+T485	Chemical 20728 20748	diradyl phospholipid
+T486	Protein 20790 20792	TA
+T487	Protein 20860 20877	lysophospholipase
+T488	Biological_Activity 20864 20877	phospholipase
+T489	Protein 20894 20896	TA
+T490	Chemical 20919 20929	fatty acid
+T491	Chemical 20969 20972	LPC
+T492	Chemical 20973 20976	LPC
+T493	Protein 20977 20989	transacylase
+T494	Chemical 21036 21039	LPG
+T495	Chemical 21058 21060	PG
+T496	Chemical 21066 21069	BMP
+T497	Protein 21092 21094	TA
+T498	Protein 21212 21228	LPG transacylase
+T499	Protein 21285 21287	TA
+T500	Chemical 21414 21417	LPG
+T501	Chemical 21425 21435	acyl donor
+T502	Chemical 21459 21481	glycerophosphoglycerol
+T503	Chemical 21483 21486	GPG
+T504	Chemical 21503 21506	BMP

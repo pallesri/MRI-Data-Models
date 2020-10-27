@@ -1,0 +1,5 @@
+T2	Disease 132 146	liver toxicity
+T9	Plant 89 107	Flaveria trinervia
+T8	Treatment_of_disease 108 115	against
+E1	Treatment_of_disease:T8 Theme:T2 Cause:T9
+T1	Disease 993 1007	hepatotoxicity

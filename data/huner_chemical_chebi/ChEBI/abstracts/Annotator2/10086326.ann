@@ -1,0 +1,52 @@
+T1	Chemical 34 56	4-anilino quinazolines
+#1	AnnotatorNotes T1	Chemical class
+T2	Chemical 85 88	ATP
+T4	Protein 101 133	epidermal growth factor receptor
+T5	Protein 135 141	EGF-R)
+T7	Biological_Activity 143 150	inhibit
+T8	Chemical 189 197	tyrosine
+T10	Protein 210 215	EGF-R
+T12	Protein 227 230	EGF
+T13	Chemical 283 286	ATP
+T14	Chemical 325 347	4-anilino quinazolines
+#2	AnnotatorNotes T14	Chemical class
+T15	Biological_Activity 484 493	inhibitor
+T16	Protein 498 503	EGF-R
+T18	Protein 597 616	EGF-R kinase domain
+T19	Protein 597 609	EGF-R kinase
+T20	Biological_Activity 649 659	inhibitors
+T21	Biological_Activity 689 698	inhibitor
+T22	Chemical 700 755	N-[4-[(3-bromophenyl)amino]-6-quinazolinyl]2-butynamide
+T23	Chemical 766 776	CL-387,785
+T24	Protein 812 817	EGF-R
+R1	Associated_With Arg1:T22 Arg2:T21	
+R2	Associated_With Arg1:T23 Arg2:T21	
+R11	Associated_With Arg1:T1 Arg2:T7	
+T26	Biological_Activity 840 849	inhibited
+T27	Protein 873 880	protein
+T29	Biological_Activity 999 1008	inhibited
+T30	Species 1209 1213	mice
+T32	Chemical 1287 1297	CL-387,785
+T34	Protein 1361 1366	EGF-R
+T35	Protein 1195 1200	EGF-R
+R15	Associated_With Arg1:T23 Arg2:T26	
+R17	Associated_With Arg1:T23 Arg2:T29	
+T37	Biological_Activity 92 96	bind
+R7	Associated_With Arg1:T1 Arg2:T37	
+R9	Associated_With Arg1:T2 Arg2:T37	
+T38	Protein 1111 1116	EGF-R
+T40	Protein 1120 1128	c-erbB-2
+R3	Binds_With Arg1:T2 Arg2:T4	
+R6	Binds_With Arg1:T2 Arg2:T5	
+R8	Binds_With Arg1:T1 Arg2:T4	
+R10	Binds_With Arg1:T1 Arg2:T5	
+R4	Binds_With Arg1:T22 Arg2:T24	
+R5	Binds_With Arg1:T23 Arg2:T24	
+T3	Protein 151 154	EGF
+T6	Biological_Activity 850 856	kinase
+T9	Protein 912 915	EGF
+T11	Biological_Activity 1145 1152	blocked
+T17	Biological_Activity 904 911	blocked
+R12	Associated_With Arg1:T22 Arg2:T17	
+R13	Associated_With Arg1:T23 Arg2:T17	
+R14	Associated_With Arg1:T32 Arg2:T11	

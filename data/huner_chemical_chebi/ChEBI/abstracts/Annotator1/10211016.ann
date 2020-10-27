@@ -1,0 +1,19 @@
+T1	Biological_Activity 35 44	analgesic
+T2	Chemical 70 85	levobupivacaine
+T3	Chemical 98 117	racemic bupivacaine
+T4	Species 191 196	Women
+T5	Chemical 244 259	levobupivacaine
+T6	Chemical 263 274	bupivacaine
+T7	Chemical 397 402	drugs
+T8	Chemical 511 526	levobupivacaine
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T3 Arg2:T1	
+T9	Chemical 579 590	bupivacaine
+T10	Chemical 652 667	levobupivacaine
+T11	Chemical 725 736	bupivacaine
+T12	Chemical 837 852	levobupivacaine
+T13	Chemical 854 865	bupivacaine
+T14	Biological_Activity 1016 1024	toxicity
+T15	Chemical 1145 1164	racemic bupivacaine
+T16	Chemical 1153 1164	bupivacaine
+T17	Chemical 106 117	bupivacaine

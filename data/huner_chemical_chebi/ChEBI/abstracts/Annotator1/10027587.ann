@@ -1,0 +1,64 @@
+T1	Species 16 29	creosote bush
+T2	Species 31 48	Larrea tridentata
+T4	Metabolite 263 273	masoprocol
+T5	Chemical 263 273	masoprocol
+T6	Species 309 322	creosote bush
+T7	Species 329 332	rat
+T8	Chemical 453 467	streptozotocin
+T9	Chemical 556 565	metformin
+T10	Chemical 596 606	masoprocol
+T11	Chemical 658 668	Masoprocol
+T12	Chemical 687 694	glucose
+T14	Chemical 819 828	metformin
+T15	Protein 882 889	insulin
+T16	Chemical 905 915	Masoprocol
+T17	Chemical 939 951	triglyceride
+#1	AnnotatorNotes T17	class of compounds
+T18	Chemical 1076 1085	metformin
+T19	Chemical 1116 1141	Non-esterified fatty acid
+#2	AnnotatorNotes T19	Class of compound
+T20	Chemical 1146 1154	glycerol
+T21	Chemical 1208 1218	masoprocol
+T22	Chemical 1296 1305	metformin
+T23	Metabolite 1333 1343	masoprocol
+T24	Protein 1355 1362	insulin
+T25	Chemical 1372 1379	glucose
+T26	Chemical 1423 1426	STZ
+T27	Chemical 469 472	STZ
+T28	Chemical 1437 1444	glucose
+T29	Protein 1474 1481	insulin
+T30	Chemical 1566 1573	glucose
+T31	Metabolite 1609 1619	masoprocol
+T32	Species 1427 1431	rats
+T33	Species 1702 1706	rats
+T34	Chemical 1720 1729	metformin
+T35	Chemical 1746 1756	masoprocol
+T36	Chemical 1859 1869	masoprocol
+T37	Protein 1907 1914	insulin
+T38	Chemical 1926 1933	glucose
+T39	Protein 127 134	insulin
+#3	AnnotatorNotes T39	Not strictly a protein, but too big for ChEBI!
+#4	AnnotatorNotes T29	Not really a protein, but too big for ChEBI
+#5	AnnotatorNotes T37	Not really a protein, but too big for ChEBI
+#6	AnnotatorNotes T24	Not really a protein, but too big for ChEBI
+T40	Chemical 2050 2057	glucose
+T41	Chemical 2062 2074	triglyceride
+T42	Chemical 2101 2104	STZ
+T43	Species 2105 2109	rats
+T44	Chemical 2166 2173	glucose
+T46	Species 158 174	native Americans
+#7	AnnotatorNotes T46	= Homo sapiens
+R1	Isolated_From Arg1:T4 Arg2:T2	
+R2	Isolated_From Arg1:T4 Arg2:T1	
+R3	Isolated_From Arg1:T4 Arg2:T6	
+T47	Metabolite 596 606	masoprocol
+R4	Isolated_From Arg1:T47 Arg2:T6	
+T48	Metabolite 658 668	Masoprocol
+T50	Metabolite 905 915	Masoprocol
+T52	Metabolite 1746 1756	masoprocol
+T53	Chemical 1609 1619	masoprocol
+T54	Metabolite 1859 1869	masoprocol
+T55	Chemical 2017 2027	masoprocol
+T56	Metabolite 2017 2027	masoprocol
+T57	Metabolite 939 951	triglyceride
+T61	Chemical 1333 1343	masoprocol

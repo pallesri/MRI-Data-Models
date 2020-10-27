@@ -1,0 +1,21 @@
+T1	Disease 77 88	lung cancer
+T3	Disease 211 225	adenocarcinoma
+T4	Disease 541 547	cancer
+T5	Disease 628 639	lung cancer
+T7	Disease 779 793	adenocarcinoma
+T9	Disease 1117 1128	lung cancer
+T10	Disease 1269 1280	lung cancer
+T11	Disease 1418 1424	cancer
+T12	Disease 1569 1580	lung cancer
+T13	Disease 1744 1755	lung cancer
+T14	Disease 2067 2090	factors for lung cancer
+T15	Plant 509 516	tobacco
+T16	Plant 979 986	tobacco
+T17	Plant 1219 1226	tobacco
+T18	Plant 1838 1845	tobacco
+T19	Plant 1919 1926	tobacco
+T2	Disease 180 192	lung cancers
+T6	Disease 708 719	lung cancer
+T8	Disease 930 941	lung cancer
+T20	Cause_of_disease 942 951	increased
+E1	Cause_of_disease:T20 Cause:T16 Theme:T8

@@ -1,0 +1,13 @@
+T1	Disease 121 142	degenerative diseases
+T2	Disease 153 177	cardiovascular disorders
+T3	Disease 189 196	obesity
+T4	Disease 201 228	neurodegenerative disorders
+T6	Plant 49 55	coffee
+T7	Plant 235 241	coffee
+T9	Plant 321 327	coffee
+T11	Plant 402 408	Coffee
+T13	Plant 720 726	coffee
+T15	Plant 795 801	coffee
+T17	Plant 1157 1163	coffee
+T5	Treatment_of_disease 85 97	reduced risk
+E1	Treatment_of_disease:T5 Theme:T1 Theme2:T2 Theme3:T3 Theme4:T4 Cause:T6

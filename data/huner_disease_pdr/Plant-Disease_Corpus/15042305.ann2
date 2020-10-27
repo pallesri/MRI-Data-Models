@@ -1,0 +1,12 @@
+T1	Disease 198 221	Gastroesophageal reflux
+T2	Disease 268 300	examples of functional disorders
+T3	Disease 482 502	head and neck cancer
+T4	Disease 646 663	chronic infection
+T5	Disease 800 809	dysplasia
+T6	Disease 827 836	carcinoma
+T7	Disease 838 865	Chronic alcohol consumption
+T8	Disease 906 912	cancer
+T9	Disease 1050 1056	cancer
+T10	Plant 532 539	tobacco
+T11	Cause_of_disease 474 478	risk
+E1	Cause_of_disease:T11 Theme:T3 Cause:T10

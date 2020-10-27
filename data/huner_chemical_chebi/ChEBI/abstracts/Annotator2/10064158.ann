@@ -1,0 +1,67 @@
+T1	Species 44 47	rat
+T2	Biological_Activity 143 152	inhibitor
+T3	Chemical 153 161	LY-83583
+T5	Protein 126 142	guanylyl cyclase
+R1	Associated_With Arg1:T3 Arg2:T2	
+T8	Chemical 275 283	LY-83583
+T10	Chemical 453 461	LY-83583
+T12	Chemical 520 532	8-bromo-cGMP
+T13	Protein 551 573	cGMP phosphodiesterase
+T15	Biological_Activity 574 583	inhibitor
+T16	Chemical 586 595	zaprinast
+T17	Chemical 600 612	dipyridamole
+T19	Chemical 668 676	LY-83583
+T20	Chemical 695 699	cGMP
+R6	Associated_With Arg1:T16 Arg2:T15	
+R9	Associated_With Arg1:T17 Arg2:T15	
+T21	Chemical 735 743	LY-83583
+T22	Biological_Activity 755 764	transport
+R10	Associated_With Arg1:T21 Arg2:T22	
+T23	Biological_Activity 785 795	inhibition
+T25	Protein 953 968	phospholipase C
+T27	Biological_Activity 969 978	inhibitor
+T28	Chemical 979 985	U73122
+T30	Chemical 1041 1049	LY-83583
+R12	Associated_With Arg1:T28 Arg2:T27	
+T31	Chemical 1073 1081	LY-83583
+T32	Chemical 1156 1162	U73122
+T34	Chemical 1243 1251	LY-83583
+T35	Metabolite 1109 1123	diacylglycerol
+T36	Chemical 1280 1288	LY-83583
+T38	Chemical 1339 1351	thapsigargin
+T40	Protein 1372 1388	protein kinase C
+T41	Chemical 1460 1491	phorbol-12-myristate 13-acetate
+T43	Chemical 1545 1553	LY-83583
+T44	Chemical 1595 1602	glucose
+T45	Chemical 1628 1636	LY-83583
+T46	Chemical 1666 1670	cGMP
+T47	Biological_Activity 1698 1708	inhibition
+T49	Protein 1801 1816	phospholipase C
+T54	Chemical 551 555	cGMP
+T59	Chemical 1292 1299	glucose
+T50	Protein 90 108	glucose transporte
+T24	Chemical 1109 1123	diacylglycerol
+T53	Biological_Activity 1782 1793	stimulation
+T6	Chemical 197 204	glucose
+R3	Binds_With Arg1:T3 Arg2:T5	
+T4	Chemical 383 390	glucose
+T9	Chemical 465 472	glucose
+R2	Binds_With Arg1:T16 Arg2:T13	
+R4	Binds_With Arg1:T17 Arg2:T13	
+T11	Chemical 629 638	glucose  
+R7	Binds_With Arg1:T28 Arg2:T25	
+T7	Chemical 1011 1018	glucose
+T14	Chemical 1213 1220	glucose
+R5	Binds_With Arg1:T41 Arg2:T40	
+T18	Chemical 1515 1522	glucose
+T26	Biological_Activity 205 214	transport
+R8	Associated_With Arg1:T3 Arg2:T26	
+T29	Chemical 747 754	glucose
+T33	Biological_Activity 1300 1309	transport
+T37	Biological_Activity 1523 1532	transport
+T39	Biological_Activity 1380 1386	kinase
+T42	Biological_Activity 1603 1612	transport
+T48	Biological_Activity 1221 1230	transport
+T51	Biological_Activity 1019 1028	transport
+R11	Associated_With Arg1:T28 Arg2:T51	
+R13	Associated_With Arg1:T30 Arg2:T51	

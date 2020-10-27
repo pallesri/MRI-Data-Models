@@ -1,0 +1,71 @@
+T1	Protein 2 27	glutathione S-transferase
+T2	Protein 29 32	GST
+T3	Chemical 55 83	1, 2-epoxy-2-methyl-3-butene
+T4	Chemical 85 102	isoprene monoxide
+T5	Chemical 108 136	cis-1, 2-dichloroepoxyethane
+T6	Chemical 159 167	isoprene
+T7	Species 188 215	Rhodococcus sp. strain AD45
+T8	Protein 233 239	enzyme
+T9	Chemical 284 295	glutathione
+T10	Chemical 297 300	GSH
+T11	Chemical 354 357	GSH
+T12	Protein 363 369	enzyme
+T13	Chemical 409 426	isoprene monoxide
+T14	Chemical 431 459	cis-1, 2-dichloroepoxyethane
+T15	Chemical 559 576	isoprene monoxide
+T16	Chemical 581 608	cis-1,2-dichloroepoxyethane
+T17	Chemical 663 666	GSH
+T18	Spectral_Data 694 736	1H nuclear magnetic resonance spectroscopy
+T19	Chemical 765 768	GSH
+T20	Chemical 784 801	isoprene monoxide
+T21	Chemical 806 848	1-hydroxy-2-glutathionyl-2-methyl-3-butene
+T22	Chemical 850 854	HGMB
+R1	Associated_With Arg1:T21 Arg2:T18	
+T23	Chemical 886 889	GSH
+T24	Chemical 915 921	carbon
+R2	Associated_With Arg1:T22 Arg2:T18	
+T25	Chemical 948 952	HGMB
+T26	Chemical 981 985	NAD+
+T27	Protein 981 1009	NAD+-dependent dehydrogenase
+T28	Protein 1020 1026	enzyme
+T29	Chemical 1050 1058	isoprene
+T30	Protein 1088 1094	enzyme
+T31	Chemical 1152 1156	HGMB
+T33	Protein 1227 1233	enzyme
+T34	Chemical 1276 1283	alcohol
+#1	AnnotatorNotes T34	Chemical class
+T36	Chemical 1314 1322	aldehyde
+#3	AnnotatorNotes T36	Chemical class
+T37	Chemical 1327 1342	carboxylic acid
+#4	AnnotatorNotes T37	Chemical class
+T38	Chemical 1398 1402	NAD+
+T39	Chemical 1407 1411	HGMB
+T40	Chemical 1459 1467	isoprene
+T41	Protein 1485 1498	monooxygenase
+T42	Chemical 1523 1540	isoprene monoxide
+T43	Chemical 1573 1577	HGMB
+T44	Chemical 1631 1671	2-glutathionyl-2-methyl-3-butenoic  acid
+T46	Chemical 336 344	epoxides
+#5	AnnotatorNotes T46	Chemical class
+T47	Metabolite 807 848	-hydroxy-2-glutathionyl-2-methyl-3-butene
+T48	Metabolite 850 854	HGMB
+R4	Metabolite_Of Arg1:T47 Arg2:T20	
+R5	Metabolite_Of Arg1:T48 Arg2:T20	
+T50	Chemical 934 941	epoxide
+#6	AnnotatorNotes T50	Chemical class
+T51	Metabolite 1314 1322	aldehyde
+T52	Metabolite 1328 1342	arboxylic acid
+R6	Metabolite_Of Arg1:T51 Arg2:T34	
+R7	Metabolite_Of Arg1:T52 Arg2:T34	
+T53	Metabolite 1523 1540	isoprene monoxide
+T54	Metabolite 1573 1577	HGMB
+R8	Metabolite_Of Arg1:T53 Arg2:T40	
+R9	Metabolite_Of Arg1:T54 Arg2:T42	
+R10	Metabolite_Of Arg1:T54 Arg2:T40	
+T55	Metabolite 1631 1671	2-glutathionyl-2-methyl-3-butenoic  acid
+R11	Metabolite_Of Arg1:T55 Arg2:T43	
+R12	Metabolite_Of Arg1:T55 Arg2:T42	
+R13	Metabolite_Of Arg1:T55 Arg2:T40	
+T32	Chemical 1185 1203	secondary alcohols
+T35	Chemical 1173 1180;1195 1203	primary alcohols
+T45	Biological_Activity 1468 1478	metabolism

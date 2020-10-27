@@ -1,0 +1,262 @@
+T1	Protein 6 13	protein
+T2	Protein 32 70	macrophage migration inhibitory factor
+T3	Protein 72 75	MIF
+T4	Biological_Activity 140 152	inflammatory
+T5	Biological_Activity 157 163	immune
+T6	Biological_Activity 239 249	inhibiting
+T7	Protein 299 302	MIF
+T8	Biological_Activity 419 424	toxic
+T9	Protein 499 502	MIF
+T10	Biological_Activity 518 534	pro-inflammatory
+T11	Biological_Activity 535 542	stimuli
+T12	Protein 567 570	MIF
+T13	Protein 609 617	antibody
+T14	Protein 717 720	MIF
+T15	Chemical 736 750	glucocorticoid
+T16	Biological_Activity 751 762	stimulation
+R1	Associated_With Arg1:T15 Arg2:T16	
+T17	Protein 789 792	MIF
+T18	Biological_Activity 812 830	immuno-suppressive
+T19	Chemical 842 850	steroids
+R2	Associated_With Arg1:T19 Arg2:T18	
+T20	Protein 854 862	cytokine
+T21	Biological_Activity 939 951	inflammatory
+T22	Biological_Activity 956 962	immune
+T23	Protein 986 989	MIF
+T24	Biological_Activity 1015 1026	stimulating
+T25	Protein 1113 1128	recombinant MIF
+T26	Protein 1130 1134	rMIF
+T27	Chemical 1213 1236	D-isomer  of dopachrome
+T28	Chemical 1238 1277	2-carboxy-2,3-dihydroindole-5,6-quinone
+T29	Chemical 1282 1313	dihydroxyindole carboxylic acid
+T30	Chemical 1315 1320	DHICA
+T31	Protein 1408 1411	MIF
+T32	Protein 1521 1531	isomerases
+T33	Protein 1533 1563	4-  oxalocrotonate tautomerase
+T34	Protein 1568 1611	5-carboxymethyl-2-hydroxymuconate isomerase
+T35	Protein 1622 1630	proteins
+T36	Protein 1643 1646	MIF
+T37	Chemical 1754 1761	proline
+T38	Protein 1820 1823	MIF
+T39	Chemical 1862 1866	keto
+T40	Chemical 1867 1871	enol
+T41	Chemical 1891 1914	p-hydroxyphenylpyruvate
+T42	Chemical 1919 1933	phenylpyruvate
+T43	Protein 1964 1972	CXXC    
+T44	Protein 2329 2332	MIF
+T45	Protein 2388 2391	MIF
+T46	Protein 2437 2465	protein-thiol oxidoreductase
+T47	Protein 2538 2541	MIF
+T48	Biological_Activity 2544 2555	enzymatic  
+T49	Biological_Activity 2560 2573	immunological
+T50	Biological_Activity 2645 2658	enzymatically
+T51	Protein 2677 2680	MIF
+T52	Biological_Activity 2698 2709	mutagenesis
+T53	Protein 2720 2727	protein
+T54	Chemical 2741 2755	glucocorticoid
+T55	Protein 2879 2882	MIF
+T56	Biological_Activity 2963 2973	inhibitors
+T57	Biological_Activity 2977 2980	MIF
+T58	Protein 3036 3039	MIF
+T60	Biological_Activity 3064 3071	inhibit
+T61	Chemical 3072 3082	dopachrome
+T62	Chemical 3072 3082	dopachrome
+T63	Biological_Activity 3152 3162	inhibitors
+T64	Protein 3196 3199	MIF
+T65	Chemical 2948 2962	small molecule
+T66	Chemical 3272 3287	small molecules
+T67	Protein 3325 3328	MIF
+T68	Chemical 3398 3407	chemicals
+T69	Protein 3485 3496;3503 3506	recombinant MIF
+T70	Species 3497 3502	human
+T71	Species 3537 3544	E. coli
+T59	Protein 3602 3605	MIF
+T72	Protein 3634 3637	MIF
+T73	Biological_Activity 3679 3689	inhibitors
+T74	Chemical 3769 3778	periodate
+T75	Chemical 3806 3814;3816 3818	Compound 7a
+T76	Chemical 3806 3814;3823 3825	Compound 8a
+T77	Chemical 3806 3814;3845 3847	Compound 5a
+T78	Chemical 3806 3814;3852 3854	Compound 6a
+T79	Chemical 3967 3977	dopachrome
+T80	Chemical 4040 4055	compounds 11-13
+T81	Chemical 4690 4700	Dopachrome
+T82	Chemical 4728 4732	DOPA
+T83	Chemical 4753 4759	la-10a
+T84	Protein 4804 4807	MIF
+T85	Chemical 4828 4844	sodium phosphate
+T86	Chemical 4989 5005	sodium periodate
+T87	Chemical 5126 5147	dopachrome derivative
+T88	Chemical 5149 5155	lb-10b
+T89	Chemical 5181 5191	methionine
+T90	Chemical 5295 5300	water
+T91	Chemical 5337 5346	periodate
+T92	Chemical 5352 5362	dopachrome
+T93	Biological_Activity 5448 5458	inhibitors
+T94	Protein 5643 5646	MIF
+T95	Biological_Activity 5736 5746	Inhibition
+T96	Biological_Activity 5750 5765	MIF tautomerase
+T97	Protein 5750 5765	MIF tautomerase
+T98	Protein 6292 6295	MIF
+T99	Protein 6458 6473	recombinant MIF
+T100	Protein 6589 6592	MIF
+T101	Protein 6622 6633	tautomerase
+T102	Biological_Activity 6622 6633	tautomerase
+T103	Biological_Activity 6652 6662	inhibitory
+T104	Protein 6705 6708	MIF
+T105	Biological_Activity 6787 6797	inhibitors
+T106	Protein 6852 6867	recombinant MIF
+T107	Chemical 6895 6903;6905 6907	Compound 9b
+T108	Chemical 6895 6903;6909 6912	Compound 10b
+T109	Chemical 6895 6903;6918 6920	Compound 12
+T110	Biological_Activity 7047 7057	inhibition
+T111	Biological_Activity 7130 7140	inhibitors
+T112	Spectral_Data 7166 7189	spectrophotometric data
+T113	Chemical 7286 7298	D-dopachrome
+T114	Chemical 7300 7302	lb
+T115	Protein 7307 7310	MIF
+T116	Chemical 7337 7342	DHICA
+T117	Spectral_Data 7380 7402	spectrophotometrically
+T118	Chemical 7445 7456	iminochrome
+T119	Chemical 7499 7511;7524 7529;7538 7550	methyl ester of D- dopachrome  
+T120	Chemical 7499 7511;7524 7526;7534 7536;7538 7550	methyl ester of L- dopachrome  
+T121	Chemical 7608 7619	dopachromes
+T122	Chemical 7621 7623	lb
+T123	Chemical 7628 7630	2b
+T124	Chemical 7646 7672	L-dopachrome  methyl ester
+T125	Biological_Activity 7761 7768	inhibit
+T126	Chemical 7805 7815	dopachrome
+T127	Protein 7835 7838	MIF
+T128	Chemical 7947 7957	dopachrome
+T129	Chemical 7961 7971	indolidine
+T130	Chemical 7673 7675	3b
+T131	Chemical 7972 7974	14
+T132	Chemical 8011 8017	indole
+T133	Chemical 8076 8091	quinone methide
+T134	Chemical 8105 8107	15
+T135	Chemical 8151 8157	indole
+T136	Protein 8355 8358	MIF
+T137	Protein 8435 8438	MIF
+T138	Biological_Activity 8439 8449	inhibitors
+T139	Chemical 8526 8538	indolidine  
+T140	Chemical 8538 8540	14
+T141	Protein 8600 8612	tautomerases
+T142	Chemical 8664 8679	quinone methide
+T143	Chemical 8712 8736	s-methyl quinone methide
+T144	Spectral_Data 8742 8744	UV
+R3	Associated_With Arg1:T143 Arg2:T144	
+T145	Chemical 8913 8923	dopachrome
+T146	Protein 8962 8965	MIF
+T147	Chemical 9038 9048	indolidine
+T148	Chemical 9135 9145	dopachrome
+T149	Protein 9165 9168	MIF
+T150	Chemical 9171 9173;9183 9200	L- methyl dopachrome
+T151	Chemical 9178 9200;9223 9235	DL-~-methyl dopachrome methyl ester
+T152	Chemical 9171 9173;9183 9200;9223 9235	L- methyl dopachrome methyl ester
+T153	Chemical 9202 9204	Sb
+T154	Chemical 9209 9211	6b
+T155	Chemical 9238 9240	7b
+T156	Chemical 9245 9247	8b
+T157	Protein 9306 9309	MIF
+T158	Biological_Activity 9350 9360	inhibitory
+T159	Protein 9371 9387	MIF  tautomerase
+T160	Biological_Activity 9371 9387	MIF  tautomerase
+T161	Chemical 9407 9413	esters
+T162	Chemical 9461 9466	acids
+R4	Associated_With Arg1:T152 Arg2:T158	
+R5	Binds_With Arg1:T152 Arg2:T159	
+R6	Associated_With Arg1:T150 Arg2:T158	
+R7	Binds_With Arg1:T150 Arg2:T159	
+R8	Associated_With Arg1:T151 Arg2:T158	
+R9	Binds_With Arg1:T151 Arg2:T159	
+R10	Associated_With Arg1:T150 Arg2:T158	
+R11	Binds_With Arg1:T150 Arg2:T159	
+T163	Chemical 9178 9200	DL-~-methyl dopachrome
+R12	Associated_With Arg1:T163 Arg2:T158	
+R13	Binds_With Arg1:T163 Arg2:T159	
+R14	Associated_With Arg1:T153 Arg2:T158	
+R15	Binds_With Arg1:T153 Arg2:T159	
+R16	Associated_With Arg1:T154 Arg2:T158	
+R17	Binds_With Arg1:T154 Arg2:T159	
+R18	Associated_With Arg1:T155 Arg2:T158	
+R19	Binds_With Arg1:T156 Arg2:T159	
+R20	Binds_With Arg1:T155 Arg2:T159	
+T164	Biological_Activity 9502 9512	inhibitory
+T165	Chemical 9540 9551	dopachromes
+T166	Protein 9589 9592	MIF
+T167	Chemical 9306 9319	MIF-substrate
+T168	Chemical 9320 9322	3b
+T169	Chemical 5643 5656	MIF-substrate
+T170	Chemical 5658 5660	lb
+T171	Chemical 5662 5664	2b
+T172	Chemical 5666 5668	3b
+T173	Chemical 5673 5675	4b
+T174	Chemical 6292 6305	MIF-substrate
+T175	Chemical 6705 6718	MIF-substrate
+T176	Chemical 6720 6722	3b
+T177	Chemical 9589 9602	MIF-substrate
+T178	Chemical 9604 9606	3b
+T179	Protein 9630 9641	MIF protein
+T180	Biological_Activity 9656 9666	inhibitors
+T181	Biological_Activity 9733 9742	binding  
+T182	Biological_Activity 9775 9782	binding
+T183	Protein 9801 9812	MIF protein
+T184	Protein 9896 9899	MIF
+T185	Chemical 9927 9938	dopachromes
+T186	Chemical 9946 9959	leaving group
+T187	Chemical 10001 10016	intermediate 16
+T188	Protein 10047 10050	MIF
+T189	Chemical 10052 10063	Compound 16
+T190	Protein 10109 10120	MIF protein
+T191	Protein 10154 10161	protein
+R21	Binds_With Arg1:T189 Arg2:T190	
+R22	Associated_With Arg1:T189 Arg2:T164	
+T192	Chemical 10195 10197	9b
+T193	Chemical 10199 10202	10b
+T194	Chemical 10208 10210	11
+T195	Biological_Activity 10233 10243	inhibition
+T196	Protein 10247 10262	MIF tautomerase
+T197	Biological_Activity 10247 10262	MIF tautomerase
+R23	Associated_With Arg1:T194 Arg2:T195	
+R24	Associated_With Arg1:T193 Arg2:T195	
+R25	Associated_With Arg1:T192 Arg2:T195	
+R26	Binds_With Arg1:T194 Arg2:T196	
+R27	Binds_With Arg1:T193 Arg2:T196	
+R28	Binds_With Arg1:T192 Arg2:T196	
+T198	Chemical 10307 10309	9b
+T199	Chemical 10311 10314	lOb
+T200	Chemical 10320 10322	11
+T201	Biological_Activity 10345 10355	inhibition
+T202	Chemical 10409 10422	MIF-substrate
+T203	Protein 10409 10412	MIF
+R29	Associated_With Arg1:T167 Arg2:T158	
+R30	Binds_With Arg1:T167 Arg2:T159	
+R31	Associated_With Arg1:T168 Arg2:T158	
+R32	Binds_With Arg1:T168 Arg2:T159	
+T204	Chemical 10433 10438	10b  
+T205	Chemical 10442 10444	11
+T206	Chemical 10508 10521	MIF-substrate
+T207	Protein 10508 10511	MIF
+T208	Protein 10548 10551	MIF
+T209	Protein 10548 10570	MIF-covalent complexes
+T210	Protein 10572 10579	MIF-10b
+T211	Protein 10572 10575	MIF
+T212	Protein 10572 10575;10583 10585	MIF 11
+T213	Spectral_Data 10590 10607	mass spectrometry
+T214	Biological_Activity 10685 10692	binding
+T215	Biological_Activity 10702 10712	inhibitors
+T216	Protein 10716 10719	MIF
+T217	Chemical 11031 11046	MIF  substrates
+T218	Protein 11031 11036	MIF  
+T219	Biological_Activity 11047 11057	inhibitors
+T220	Chemical 11065 11073;11075 11077	compound 12
+T221	Chemical 11065 11073;11082 11084	compound 13
+T222	Protein 11129 11134	MIF  
+T223	Biological_Activity 11185 11195	inhibitors
+T224	Protein 11199 11214	MIF tautomerase
+T225	Biological_Activity 11199 11214	MIF tautomerase
+T226	Biological_Activity 11275 11285	inhibitors
+T227	Protein 11289 11292	MIF
+T228	Chemical 11338 11344	agents
+T229	Protein 11366 11371	MIF  
+T230	Protein 10819 10824	MIF  

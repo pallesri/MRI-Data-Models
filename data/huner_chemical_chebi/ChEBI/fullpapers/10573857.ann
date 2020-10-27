@@ -1,0 +1,360 @@
+T1	Chemical 1 12	α-l -Fucose
+T2	Chemical 48 60	carbohydrate
+T3	Chemical 71 86	glycoconjugates
+T4	Biological_Activity 165 177	antigenicity
+R1	Associated_With Arg1:T3 Arg2:T4	
+T5	Biological_Activity 197 210	immunological
+T6	Chemical 259 275	oligosaccharides
+T7	Chemical 307 332	α-l -Fuc-(1→2)-β-d -Gal-R
+T8	Chemical 347 379	(1→2)-linked α-l -fucosyllactose
+T9	Species 404 409	human
+T10	Metabolite 347 379	(1→2)-linked α-l -fucosyllactose
+T11	Chemical 415 431	oligosaccharides
+T12	Metabolite 415 431	oligosaccharides
+R2	Isolated_From Arg1:T10 Arg2:T9	
+T13	Biological_Activity 496 505	enzymatic
+T14	Chemical 524 540	oligosaccharides
+T15	Metabolite 524 540	oligosaccharides
+T16	Biological_Activity 692 701	enzymatic
+T17	Protein 732 752	glycosyltransferases
+T18	Protein 757 769	glycosidases
+T20	Chemical 771 786;794 805	Fucosylated di- saccharides
+T21	Metabolite 771 786;794 805	Fucosylated di- saccharides
+T22	Chemical 771 782;791 805	Fucosylated trisaccharides
+T23	Metabolite 771 782;791 805	Fucosylated trisaccharides
+T24	Species 860 867	porcine
+T25	Protein 868 911	β-d -galactoside α-(1→2) fucosyltransferase
+T26	Protein 957 969	glycosidases
+T27	Chemical 1001 1017	oligosaccharides
+T28	Protein 1033 1040	enzymes
+T29	Protein 1095 1115	glycosyltransferases
+T30	Chemical 1146 1162	sugar nucleotide
+T31	Biological_Activity 1207 1216	enzymatic
+T32	Chemical 1230 1297	methyl (1→2)- and (1→6)-linked α-l -fucopyranosyl-β-d -galactosides
+T33	Protein 1326 1341	α-l -fucosidase
+T34	Species 1347 1354	porcine
+T35	Chemical 1431 1444	disaccharides
+T36	Chemical 1456 1462;1482 1508	(1→2)- linked α-l -fucosyl groups
+T37	Chemical 1464 1470;1482 1508	(1→3)- linked α-l -fucosyl groups
+T38	Chemical 1476 1508	(1→6)-linked α-l -fucosyl groups
+T39	Protein 1519 1535	α-l -fucosidases
+T40	Species 1549 1563	microorganisms
+T41	Biological_Activity 1643 1652	enzymatic
+T42	Chemical 1666 1693	fucosylated trisaccharide 1
+T43	Chemical 1759 1792	β-d -Gal-(1→4)-d -GlcNAc (LacNAc)
+T44	Chemical 1918 1951	α-l -fucosyl-N -acetyllactosamine
+T19	Chemical 1956 1981	3′-O -α-l -fucosyllactose
+T45	Chemical 1990 2005	α-l -fucosidase
+T46	Protein 2078 2093	α-l -Fucosidase
+T47	Species 2099 2114	Alcaligenes  sp
+T48	Species 2193 2200	Porcine
+T49	Chemical 2307 2313	LacNAc
+T50	Chemical 2315 2342	β-d -Gal-(1→4)-β-d -Glc-OMe
+T51	Chemical 2344 2371	β-d -Gal-(1→3)-β-d -Glc-OMe
+T52	Chemical 2377 2407	β-d -Gal-(1→4)-β-d -GlcNAc-OMe
+T53	Chemical 2447 2481	p -Nitrophenyl α-l -fucopyranoside
+T54	Chemical 2483 2492	Fucα-p NP
+T55	Chemical 2498 2534	α-l -Fuc-(1→2)-β-d -Gal-(1→4)-d -Glc
+T56	Chemical 2536 2561	2′-O -α-l -fucosyllactose
+T57	Chemical 2621 2630	chemicals
+T58	Protein 2704 2719	α-l -fucosidase
+T59	Species 2729 2736	porcine
+T60	Chemical 2803 2812	Fucα-p NP
+T61	Chemical 2832 2837	NaOAc
+T62	Protein 2883 2889	enzyme
+T63	Chemical 2998 3005	Na2 CO3
+T64	Chemical 3035 3049	p -nitrophenol
+T65	Spectral_Data 3065 3097	spectrophotometrically at 410 nm
+R3	Associated_With Arg1:T64 Arg2:T65	
+T66	Protein 3115 3130	α-l -fucosidase
+T67	Species 3136 3152	Alcaligenes  sp.
+T68	Chemical 3196 3215	potassium phosphate
+T69	Protein 3305 3311	enzyme
+T70	Chemical 3338 3347	Fucα-p NP
+T71	Protein 3357 3375	β-d -Galactosidase
+T72	Biological_Activity 2704 2719	α-l -fucosidase
+T73	Biological_Activity 3115 3130	α-l -fucosidase
+T74	Biological_Activity 3357 3375	β-d -Galactosidase
+T75	Chemical 3435 3472	o -nitrophenyl β-d -galactopyranoside
+T76	Chemical 3474 3483	Galβ-o NP
+T77	Chemical 3504 3509	NaOAc
+T78	Protein 3555 3561	enzyme
+T79	Chemical 3672 3679	Na2 CO3
+T80	Chemical 3705 3719	o -nitrophenol
+T81	Spectral_Data 3735 3767	spectrophotometrically at 420 nm
+R4	Associated_With Arg1:T80 Arg2:T81	
+T82	Protein 3781 3787	enzyme
+T83	Protein 3830 3836	enzyme
+T84	Chemical 3859 3868	Galβ-o NP
+T85	Chemical 4084 4089	water
+T86	Chemical 4090 4094	MeCN
+T87	Spectral_Data 4177 4180;4190 4201	1 H NMR spectra
+T88	Spectral_Data 4185 4201	13 C NMR spectra
+T89	Chemical 4315 4351	sodium 4,4-dimethyl-4-silapentanoate
+T90	Spectral_Data 4378 4383	FABMS
+T91	Chemical 4618 4633	distilled water
+T92	Chemical 4685 4693	glycerol
+T93	Protein 4769 4784	α-l -fucosidase
+T94	Species 4790 4797	porcine
+T95	Species 4808 4815	porcine
+T96	Chemical 4874 4885	(NH4 )2 SO4
+T97	Chemical 5012 5023	(NH4 )2 SO4
+T98	Chemical 5124 5129	NaOAc
+T99	Protein 5206 5212	enzyme
+T100	Chemical 5324 5329	NaOAc
+T101	Chemical 5479 5483	NaCl
+T102	Chemical 5616 5631	α-l -fucosidase
+T103	Protein 5652 5670	β-d -galactosidase
+T104	Biological_Activity 5652 5670	β-d -galactosidase
+T105	Chemical 5877 5892	α-l -fucosidase
+T106	Species 5898 5928	Alcaligenes sp Strain KSF-9687
+T107	Chemical 6270 6281	polypeptone
+T108	Species 6250 6255	yeast
+T109	Chemical 6288 6295	KH2 PO4
+T110	Chemical 6308 6321	MgSO4 ·7 H2 O
+T111	Chemical 6351 6355	NaOH
+T112	Chemical 6548 6567	potassium phosphate
+T113	Chemical 6621 6625	DEAE
+T114	Chemical 6710 6729	potassium phosphate
+T115	Protein 6824 6839	α-l -fucosidase
+T116	Biological_Activity 6824 6839	α-l -fucosidase
+T117	Chemical 6898 6902	NaCl
+T118	Chemical 6971 6982	(NH4 )2 SO4
+T119	Protein 7081 7087	enzyme
+T120	Chemical 7188 7207	potassium phosphate
+T121	Chemical 7237 7248	(NH4 )2 SO4
+T122	Chemical 7355 7366	(NH4 )2 SO4
+T123	Chemical 7463 7482	potassium phosphate
+T124	Protein 7567 7573	enzyme
+T125	Chemical 7682 7701	potassium phosphate
+T126	Protein 7769 7775	enzyme
+T127	Biological_Activity 7769 7775	enzyme
+T128	Chemical 7812 7831	potassium phosphate
+T129	Chemical 7863 7872	l -fucose
+T130	Chemical 7931 7950	potassium phosphate
+T131	Chemical 8033 8072	α-l -Fuc-(1→2)-β-d -Gal-(1→4)-d -GlcNAc
+T132	Chemical 8074 8075	1
+T133	Chemical 8094 8133	α-l -Fuc-(1→3)-β-d -Gal-(1→4)-d -GlcNAc
+T134	Chemical 8135 8136	2
+T135	Chemical 8086 8093	isomers
+T136	Chemical 8143 8182	α-l -Fuc-(1→6)-β-d -Gal-(1→4)-d -GlcNAc
+T137	Chemical 8184 8185	3
+T138	Species 8199 8206	porcine
+T139	Protein 8213 8228	α-l -fucosidase
+T140	Chemical 8259 8268	Fucα-p NP
+T141	Chemical 8281 8287	LacNAc
+T142	Chemical 8313 8332	potassium phosphate
+T143	Species 8370 8374	MeOH
+T144	Protein 8404 8419	α-l -fucosidase
+T145	Species 8425 8432	porcine
+T146	Chemical 8649 8657	charcoal
+T147	Chemical 8658 8664	Celite
+T148	Chemical 8747 8752	water
+T149	Chemical 8771 8775	EtOH
+T150	Chemical 8848 8852	EtOH
+T151	Chemical 8959 8974	N -acetyl group
+T152	Chemical 8990 9002	carbohydrate
+T153	Chemical 9030 9036	phenol
+T154	Chemical 9037 9043	H2 SO4
+T155	Chemical 9175 9181	LacNAc
+T156	Chemical 9278 9279	1
+T157	Chemical 9291 9292	2
+T158	Chemical 9308 9309	3
+T159	Chemical 9335 9345	Compound 1
+T160	Spectral_Data 9369 9591	1 H NMR (D2 O, 30 °C): δ  5.31 (H-1α), 5.21 (d, J 1,2  2.97 Hz, H-1′′), 4.72 (d, J 1,2  8.1 Hz, H-1β), 4.55 (d, J 1,2  7.56 Hz, H-1′α), 4.48 (d, J 1,2  8.1 Hz, H-1′β), 2.05 (s, 3 H, NAc), and 1.23 (d, J 5,6  6.7 Hz, H-6′′)
+T161	Chemical 9378 9382	D2 O
+R5	Associated_With Arg1:T159 Arg2:T160	
+T162	Chemical 9593 9603	Compound 2
+T163	Chemical 9791 9801	Compound 3
+T164	Spectral_Data 9627 9789	1 H NMR (D2 O, 30 °C): δ  5.23 (d, J 1,2  2.43 Hz, H-1α), 5.20 (d, J 1,2  4.05 Hz, H-1′′), 4.56 (t, H-1′), 2.07 (s, 3 H, NAc), and 1.23 (d, J 5,6  6.48 Hz, H-6′′)
+T165	Chemical 9636 9640	D2 O
+R6	Associated_With Arg1:T162 Arg2:T164	
+T166	Spectral_Data 9825 10036	1 H NMR (D2 O, 30 °C): δ  5.16 (d, J 1,2  2.45 Hz, H-1α), 4.89 (d, J 1,2  3.65 Hz, H-1α′′), 4.88 (d, J 1,2  3.95 Hz, H-1β′′), 4.44 (d, J 1,2  7.6 Hz, H-1′), 2.03 (s, 3 H, NAc), and 1.27 (d, J 5,6  6.7 Hz, H-6′′)
+T167	Chemical 9834 9839	D2 O,
+R7	Associated_With Arg1:T163 Arg2:T166	
+R8	Associated_With Arg1:T131 Arg2:T160	
+R9	Associated_With Arg1:T133 Arg2:T164	
+R10	Associated_With Arg1:T136 Arg2:T166	
+T168	Chemical 10058 10068	compound 2
+T169	Chemical 10074 10107	α-l -Fuc-(1→3)-β-d -Gal-(1→4)-Glc
+T170	Chemical 10109 10110	4
+T171	Species 10151 10165	Alcaligenes sp
+T172	Protein 10167 10182	α-l -fucosidase
+T173	Chemical 10202 10212	Compound 2
+T174	Chemical 10214 10223	Fucα-p NP
+T175	Chemical 10236 10242	LacNAc
+T176	Chemical 10282 10301	potassium phosphate
+T177	Protein 10321 10336	α-l -fucosidase
+T178	Species 10342 10357	Alcaligenes  sp
+T179	Chemical 10577 10585	charcoal
+T180	Chemical 10586 10592	Celite
+T181	Chemical 10672 10677	water
+T182	Chemical 10693 10697	EtOH
+T183	Species 10757 10761	EtOH
+T184	Chemical 10940 10941	2
+T185	Chemical 11000 11010	Compound 4
+T186	Chemical 11012 11021	Fucα-p NP
+T187	Chemical 11034 11041	lactose
+T188	Chemical 11083 11102	potassium phosphate
+T189	Protein 11131 11137	enzyme
+T190	Chemical 11207 11215	charcoal
+T191	Chemical 11216 11222	Celite
+T192	Chemical 11455 11456	4
+T193	Chemical 11502 11512	Compound 4
+T194	Spectral_Data 11536 11691	1 H NMR (D2 O, 26 °C): δ  5.23 (d, J 1,2  3.96 Hz, H-1α), 5.18 (d, J 1,2  3 96 Hz, H-1′′), 4.68 (d, J 1,2  8.25 Hz, H-1β), 4.52 (t, H-1′), and 1.26 (H-6′′)
+T195	Chemical 11545 11549	D2 O
+R11	Associated_With Arg1:T193 Arg2:T194	
+R12	Associated_With Arg1:T169 Arg2:T194	
+T196	Spectral_Data 11693 11701	13 C NMR
+T197	Chemical 11703 11707	D2 O
+R13	Associated_With Arg1:T193 Arg2:T196	
+R14	Associated_With Arg1:T169 Arg2:T196	
+T198	Chemical 12086 12128	α-l -Fuc-(1→3)-β-d -Gal-(1→4)-β-d -Glc-OMe
+T199	Chemical 12130 12172	α-l -Fuc-(1→3)-β-d -Gal-(1→3)-β-d -Glc-OMe
+T200	Chemical 12178 12223	α-l -Fuc-(1→3)-β-d -Gal-(1→4)-β-d -GlcNAc-OMe
+T201	Chemical 12329 12371	α-l -Fuc-(1→3)-β-d -Gal-(1→4)-β-d -Glc-OMe
+T202	Spectral_Data 12394 12401	1 H NMR
+T203	Chemical 12403 12407	D2 O
+T204	Spectral_Data 12518 12811	13 C NMR (D2 O): δ  105.91 (C-1′), 105.55 (C-1), 103.74 (C-1′′), 83.14 (C-3′), 81.22 (C-4), 78.09 (C-5′), 77.57 (C-5), 77.25 (C-3), 75.61 (C-2), 74.59 (C-4′′), 73.22 (C-2′), 72.22 (C-3′′), 71.45 (C-4′), 71.25 (C-2′′), 69.99 (C-5′′), 63.76 (C-6′), 62.89 (C-6), 60.04 (OC H3 ), and 18.15 (C-6′′)
+T205	Chemical 12528 12532	D2 O
+R15	Associated_With Arg1:T201 Arg2:T202	
+R16	Associated_With Arg1:T201 Arg2:T204	
+T206	Chemical 12813 12855	α-l -Fuc-(1→3)-β-d -Gal-(1→3)-β-d -Glc-OMe
+T207	Spectral_Data 12878 13016	1 H NMR (D2 O, 26 °C): δ  5.19 (d, J 1,2  3.96 Hz, H-1′′), 4.74 (d, J 1,2  7.26 Hz, H-1), 4.43 (d, J 1,2  8.25 Hz, H-1′), and 1.22 (H-6′′)
+T208	Chemical 12887 12891	D2 O
+T209	Spectral_Data 13018 13026	13 C NMR
+T210	Chemical 13028 13032	D2 O
+R17	Associated_With Arg1:T206 Arg2:T207	
+R18	Associated_With Arg1:T206 Arg2:T209	
+T211	Chemical 13312 13357	α-l -Fuc-(1→3)-β-d -Gal-(1→4)-β-d -GlcNAc-OMe
+T212	Spectral_Data 13380 13502	1 H NMR (D2 O, 26 °C): δ  5.15 (d, J 1,2  3 96 Hz, H-1′′), 4.51 (t, H-1′), 4.44 (d, J 1,2  7.26 Hz, H-1), and 1.22 (H-6′′)
+T213	Chemical 13389 13393	D2 O
+T214	Spectral_Data 13504 13826	13 C NMR (D2 O): δ  177.55 (CO), 105.55 (C-1′), 104.76 (C-1), 103.79 (C-1′′), 83.22 (C-3′), 81.38 (C-4), 78.15 (C-5′), 77.65 (C-5), 75.45 (C-3), 74.64 (C-4′′), 73.31 (C-2′), 72.29 (C-3′′), 71.50 (C-4′), 71.30 (C-2′′), 70.06 (C-5′′), 63.81 (C-6′), 62.95 (C-6), 59.98 (OCH3 ), 57.86 (C-2), 25.05 (COC H3 ) and 18.22 (C-6′′)
+T215	Chemical 13514 13518	D2 O
+R19	Associated_With Arg1:T211 Arg2:T212	
+R20	Associated_With Arg1:T211 Arg2:T214	
+T216	Species 13857 13871	Alcaligenes sp
+T217	Protein 13873 13888	α-l -fucosidase
+T218	Chemical 13892 13913	O-α-l -fucosyllactose
+T219	Chemical 13960 13985	2′-O -α-l -fucosyllactose
+T220	Chemical 13995 14011	sodium phosphate
+T221	Chemical 14036 14051	α-l -fucosidase
+T222	Species 14057 14073	Alcaligenes  sp.
+T223	Chemical 14267 14271;14282 14293	mono saccharides
+T224	Chemical 14277 14293	oligosaccharides
+T225	Chemical 14316 14338	ethyl p -aminobenzoate
+T226	Chemical 14400 14406	sugars
+T227	Chemical 14605 14609	MeCN
+T228	Chemical 14616 14636	trifluoroacetic acid
+T229	Protein 14733 14748	α-l -fucosidase
+T230	Species 14754 14761	porcine
+T231	Protein 14776 14791	α-l -fucosidase
+T232	Species 14809 14816	porcine
+T233	Chemical 14872 14888	ammonium sulfate
+T234	Protein 14950 14968	β-d -galactosidase
+T235	Chemical 14991 14997	LacNAc
+T236	Chemical 15070 15075	NaOAc
+T237	Protein 15116 15131	α-l -fucosidase
+T238	Chemical 15169 15173	NaCl
+T239	Protein 15212 15218	enzyme
+T240	Protein 15249 15267	β-d -galactosidase
+T241	Biological_Activity 15249 15267	β-d -galactosidase
+T242	Protein 15369 15384	α-l -fucosidase
+T243	Species 15390 15397	porcine
+T244	Chemical 15423 15432	Fucα-p NP
+T245	Chemical 15437 15443	LacNAc
+T246	Chemical 15463 15477	Compounds 1 –3
+T247	Chemical 15535 15543	charcoal
+T248	Chemical 15544 15550	Celite
+T249	Chemical 15669 15683	Compounds 1 –3
+T250	Spectral_Data 15696 15808	molecular ions at m/z  530 for [M+H]+  by FABMS, together with fragment ions at m/z  204, 222, 366, 384, and 512
+T251	Chemical 15810 15816	HexNAc
+T252	Chemical 15817 15822	water
+T253	Chemical 15824 15830	HexNAc
+T254	Chemical 15832 15847	deoxyHex-HexNAc
+T256	Chemical 15849 15859	Hex-HexNAc
+T258	Chemical 15865 15884	deoxyHex-Hex-HexNAc
+T261	Chemical 15885 15890	water
+T262	Chemical 15927 15941	trisaccharides
+T263	Chemical 15956 15976	deoxyHex-Hex-HexNAc.
+T255	Spectral_Data 16029 16032;16042 16045	1 H NMR
+T257	Spectral_Data 16037 16045	13 C NMR
+T259	Spectral_Data 16068 16090	13 C NMR spectral data
+T260	Chemical 16111 16125	Compounds 1 –3
+T264	Chemical 16151 16191	α-l -Fuc-(1→2)-β-d -Gal-(1→4)-d -GlcNAc,
+T265	Chemical 16192 16231	α-l -Fuc-(1→3)-β-d -Gal-(1→4)-d -GlcNAc
+T266	Chemical 16237 16276	α-l -Fuc-(1→6)-β-d -Gal-(1→4)-d -GlcNAc
+T267	Protein 16353 16368	α-l -fucosidase
+T268	Chemical 16401 16407	LacNAc
+T269	Chemical 16753 16763	Gal moiety
+T270	Chemical 16812 16822	compound 1
+T271	Chemical 16916 16923	lactose
+T272	Chemical 16935 16941	LacNAc
+T273	Species 17045 17052	porcine
+T274	Protein 17059 17074	α-l -fucosidase
+T275	Protein 17205 17220	α-l -fucosidase
+T276	Species 17226 17240	Alcaligenes sp
+T277	Protein 17244 17259	α-l -fucosidase
+T278	Species 17280 17296	Alcaligenes  sp.
+T279	Chemical 17363 17367	DEAE
+T280	Chemical 17438 17444	Fucose
+T281	Protein 17488 17494	enzyme
+T282	Protein 17517 17535	β-d -galactosidase
+T283	Biological_Activity 17517 17535	β-d -galactosidase
+T284	Protein 17563 17569	enzyme
+T285	Chemical 17581 17591	Compound 2
+T286	Chemical 17619 17627	chemical
+T287	Chemical 17806 17812	LacNAc
+T288	Chemical 17817 17826	Fucα-p NP
+T289	Protein 17883 17898	α-l -fucosidase
+T290	Chemical 17942 17950	charcoal
+T291	Chemical 17951 17957	Celite
+T292	Chemical 18150 18160	compound 2
+T293	Chemical 18393 18394	4
+T294	Chemical 18417 18424	lactose
+T295	Chemical 18442 18452	Compound 4
+T296	Chemical 18542 18555	trisaccharide
+T297	Chemical 18626 18656	β-d -Gal-(1→4)-β-d -GlcNAcOMe
+T298	Chemical 18658 18685	β-d -Gal-(1→4)-β-d -GlcOMe
+T299	Chemical 18691 18718	β-d -Gal-(1→3)-β-d -GlcOMe
+T300	Chemical 18783 18792	Fucα-p NP
+T301	Chemical 18818 18828	Gal moiety
+T302	Protein 18843 18858	α-l -fucosidase
+T303	Chemical 18919 18931	methyl group
+T304	Chemical 19089 19099	compound 2
+T305	Chemical 19109 19118	analogues
+T306	Protein 19137 19143	enzyme
+T307	Chemical 19181 19214	galactose-containing disaccharide
+T308	Species 19264 19271	porcine
+T309	Protein 19278 19284	enzyme
+T310	Chemical 19311 19323	carbohydrate
+T311	Chemical 19337 19358	α-l -Fuc-(1→3)-d -Gal
+T312	Chemical 19383 19398	glycoconjugates
+T313	Chemical 19497 19513	oligosaccharides
+T314	Metabolite 19497 19513	oligosaccharides
+T315	Species 19519 19524	human
+T316	Chemical 19590 19648	3′-O -α-l -fucosyllactose–p -isothiocyanato-phenethylamine
+T317	Protein 19649 19652	BSA
+T318	Chemical 19762 19779	oligosaccharide 4
+T319	Chemical 19904 19929	2′-O -α-l -fucosyllactose
+T320	Chemical 19934 19935	4
+T321	Protein 19961 19976	α-l -fucosidase
+T322	Species 19982 19997	Alcaligenes  sp
+T323	Chemical 20069 20070	4
+T324	Chemical 20132 20149	2′-fucosyllactose
+T325	Chemical 20227 20252	2′-O -α-l -fucosyllactose
+T326	Protein 20310 20322	glycosidases
+T327	Protein 20411 20426	α-l -fucosidase
+T328	Chemical 20458 20471	trisaccharide
+T329	Chemical 20490 20508	α-l -fucosyl group
+T330	Chemical 20524 20531	lactose
+T331	Chemical 20552 20576	O-3′ substituted product
+T332	Protein 20591 20597	enzyme
+T333	Chemical 20672 20682	Gal moiety
+T334	Chemical 20688 20697	Fucα-p NP
+T335	Chemical 20705 20730	2′-O -α-l -fucosyllactose
+T336	Chemical 20906 20933	fucosylated trisaccharide 1
+T337	Species 20995 21002	porcine
+T338	Protein 21009 21024	α-l -fucosidase
+T339	Chemical 21120 21145;21147 21148	fucosylated trisaccharide 2
+T340	Chemical 21120 21145;21154 21155	fucosylated trisaccharide 4

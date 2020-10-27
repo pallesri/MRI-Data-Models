@@ -1,0 +1,60 @@
+T1	Chemical 41 57	lipoic compounds
+T2	Biological_Activity 70 80	metabolism
+T3	Chemical 61 69	pyruvate
+T4	Chemical 97 110	R-lipoic acid
+T5	Chemical 112 116	R-LA
+T6	Chemical 119 132	S-lipoic acid
+T7	Chemical 134 139	S-LA)
+T8	Chemical 144 177	1,2-diselenolane-3-pentanoic acid
+T9	Chemical 179 184	Se-LA
+T11	Species 211 220	mammalian
+T12	Protein 221 251	pyruvate dehydrogenase complex
+T13	Protein 253 256	PDC
+T14	Chemical 311 315	S-LA
+T15	Chemical 320 324	R-LA
+T16	Biological_Activity 334 343	inhibited
+T17	Protein 344 347	PDC
+T19	Chemical 366 371	Se-LA
+R1	Associated_With Arg1:T14 Arg2:T16	
+R2	Associated_With Arg1:T15 Arg2:T16	
+R5	Associated_With Arg1:T19 Arg2:T16	
+T20	Chemical 505 510	Se-LA
+T21	Biological_Activity 511 520	inhibited
+T22	Protein 525 547	pyruvate dehydrogenase
+T24	Chemical 567 571	R-LA
+T25	Chemical 576 580	S-LA
+T26	Biological_Activity 581 590	inhibited
+T27	Protein 595 629	dihydrolipoamide acetyltransferase
+R7	Associated_With Arg1:T20 Arg2:T21	
+R11	Associated_With Arg1:T25 Arg2:T26	
+R12	Associated_With Arg1:T24 Arg2:T26	
+T29	Chemical 651 667	lipoic compounds
+T32	Protein 676 708	dihydrolipoamide  dehydrogrenase
+T35	Protein 787 789	E3
+T37	Protein 848 850	E3
+T39	Chemical 807 811	R-LA
+T40	Chemical 816 821	Se-LA
+T41	Chemical 896 911	[1-14C]pyruvate
+T42	Protein 916 919	PDC
+T43	Chemical 965 969	R-LA
+T44	Chemical 1001 1005	S-LA
+T45	Chemical 1010 1015	Se-LA
+T47	Protein 1059 1062	PDC
+T48	Chemical 1108 1124	lipoic compounds
+T49	Chemical 1236 1240	R-LA
+T50	Biological_Activity 1172 1181	oxidation
+T51	Chemical 1185 1193	pyruvate
+T52	Chemical 1319 1323	R-LA
+T53	Biological_Activity 1330 1341	antioxidant
+R28	Associated_With Arg1:T52 Arg2:T53	
+R3	Binds_With Arg1:T19 Arg2:T17	
+R4	Binds_With Arg1:T15 Arg2:T17	
+R6	Binds_With Arg1:T14 Arg2:T17	
+R8	Binds_With Arg1:T20 Arg2:T22	
+R9	Binds_With Arg1:T25 Arg2:T27	
+R10	Binds_With Arg1:T24 Arg2:T27	
+R13	Binds_With Arg1:T20 Arg2:T32	
+R14	Binds_With Arg1:T24 Arg2:T32	
+R16	Binds_With Arg1:T25 Arg2:T32	
+R15	Binds_With Arg1:T39 Arg2:T35	
+R17	Binds_With Arg1:T40 Arg2:T35	

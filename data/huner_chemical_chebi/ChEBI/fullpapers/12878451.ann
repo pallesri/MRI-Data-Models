@@ -1,0 +1,747 @@
+T1	Chemical 7 23	arachidonic acid
+T2	Metabolite 7 23	arachidonic acid
+T3	Chemical 25 32	20:4n-6
+T4	Metabolite 25 32	20:4n-6
+T5	Chemical 34 36	AA
+T6	Metabolite 34 36	AA
+T7	Chemical 42 62	docosahexaenoic acid
+T8	Metabolite 42 62	docosahexaenoic acid
+T9	Chemical 64 71	22:6n-3
+T10	Metabolite 64 71	22:6n-3
+T11	Chemical 73 76	DHA
+T12	Metabolite 73 76	DHA
+T13	Chemical 107 134	polyunsaturated fatty acids
+T14	Chemical 136 140	PUFA
+T15	Chemical 151 157	lipids
+T16	Chemical 165 170	PUFAs
+T17	Chemical 297 300	DHA
+T18	Metabolite 297 300	DHA
+T19	Chemical 484 492	n-3 PUFA
+T20	Chemical 566 569	DHA
+T21	Metabolite 566 569	DHA
+T22	Chemical 635 637	AA
+T23	Metabolite 635 637	AA
+T24	Chemical 648 670	AA-derived eicosanoids
+T25	Metabolite 648 670	AA-derived eicosanoids
+R1	Metabolite_Of Arg1:T25 Arg2:T22	
+T26	Chemical 787 795	n-3 PUFA
+T27	Biological_Activity 803 814	antagonizes
+R2	Associated_With Arg1:T26 Arg2:T27	
+T28	Chemical 845 847	AA
+T29	Metabolite 845 847	AA
+T30	Chemical 854 878	Δ9 -Tetrahydrocannabinol
+T31	Metabolite 854 878	Δ9 -Tetrahydrocannabinol
+T32	Protein 952 955;963 971	CB1 receptor
+T33	Protein 959 971	CB2 receptor
+T34	Chemical 1140 1147	ligands
+T35	Protein 1151 1172	cannabinoid receptors
+T36	Protein 1248 1268	cannabinoid-receptor
+T37	Chemical 1312 1328	arachidonic acid
+T38	Chemical 1339 1341	AA
+T39	Metabolite 1312 1328	arachidonic acid
+T40	Chemical 1330 1338	20:4n-6,
+T41	Metabolite 1331 1337	0:4n-6
+T42	Metabolite 1339 1341	AA
+T43	Chemical 1365 1375	anandamide
+T44	Metabolite 1365 1375	anandamide
+T45	Chemical 1378 1406	N -arachidonoylethanolamine)
+T46	Metabolite 1378 1405	N -arachidonoylethanolamine
+T47	Chemical 1411 1433	2-arachidonoylglycerol
+T48	Metabolite 1411 1433	2-arachidonoylglycerol
+T49	Chemical 1435 1439	2-AG
+T50	Metabolite 1435 1439	2-AG
+T51	Metabolite 1493 1514	cannabinoid receptors
+T52	Chemical 1638 1642	2-AG
+T53	Metabolite 1638 1642	2-AG
+T54	Chemical 1656 1672	monoacylglycerol
+T55	Chemical 1674 1676	MG
+T56	Species 1703 1706	rat
+T57	Protein 1735 1738;1747 1756	CB1 receptors
+T58	Protein 1743 1756	CB2 receptors
+T59	Chemical 1788 1798	anandamide
+T60	Metabolite 1788 1798	anandamide
+T61	Chemical 1847 1849	MG
+T62	Chemical 1879 1890	fatty acids
+T63	Chemical 1902 1904	AA
+T64	Metabolite 1902 1904	AA
+R3	Isolated_From Arg1:T53 Arg2:T56	
+R4	Isolated_From Arg1:T48 Arg2:T56	
+R5	Binds_With Arg1:T53 Arg2:T58	
+R6	Binds_With Arg1:T52 Arg2:T57	
+R7	Binds_With Arg1:T53 Arg2:T57	
+R8	Binds_With Arg1:T52 Arg2:T58	
+R9	Binds_With Arg1:T60 Arg2:T58	
+R10	Binds_With Arg1:T59 Arg2:T58	
+R11	Binds_With Arg1:T60 Arg2:T57	
+R12	Binds_With Arg1:T59 Arg2:T57	
+T65	Protein 1930 1933;1942 1951	CB1 receptors
+T66	Protein 1938 1951	CB2 receptors
+T67	Chemical 1996 2000	2-AG
+T68	Metabolite 1996 2000	2-AG
+T69	Protein 2044 2064	cannabinoid receptor
+T71	Chemical 2145 2182	arachidonate-containing phospholipids
+T70	Chemical 2228 2232	2-AG
+T72	Metabolite 2228 2232	2-AG
+T73	Chemical 2291 2303	phospholipid
+T74	Protein 2327 2334	enzymes
+T75	Chemical 2347 2351	2-AG
+T76	Metabolite 2347 2351	2-AG
+T77	Biological_Activity 2352 2364	biosynthesis
+T78	Chemical 2410 2412	MG
+T79	Chemical 2642 2644	MG
+T80	Chemical 3994 3996	MG
+T81	Chemical 3688 3690	MG
+T82	Chemical 3414 3416	MG
+T83	Chemical 3543 3545	MG
+T84	Chemical 6243 6245	MG
+T85	Chemical 6040 6054	MG dibenzoates
+T86	Chemical 5919 5933	MG dibenzoates
+T87	Chemical 5814 5828	MG dibenzoates
+T88	Chemical 5557 5571	MG dibenzoates
+T89	Chemical 5542 5556	MG dibenzoates
+T90	Chemical 5340 5353	MG dibenzoate
+T91	Chemical 5182 5196	MG dibenzoates
+T92	Chemical 4974 4988	MG dibenzoates
+T93	Chemical 4645 4647	MG
+T94	Chemical 4620 4634	MG dibenzoates
+T95	Chemical 4405 4407	MG
+T96	Chemical 2432 2435	EPA
+T97	Chemical 2440 2443	DHA
+T98	Metabolite 2440 2443	DHA
+T99	Protein 2484 2505	cannabinoid receptors
+T100	Chemical 2511 2515	2-AG
+T101	Metabolite 2511 2515	2-AG
+R13	Binds_With Arg1:T101 Arg2:T99	
+R14	Binds_With Arg1:T100 Arg2:T99	
+T102	Chemical 2565 2573	n-3 PUFA
+T103	Chemical 2606 2610	2-AG
+T104	Metabolite 2606 2610	2-AG
+T105	Chemical 2622 2630	n-3 PUFA
+T106	Chemical 2622 2644	n-3 PUFA-containing MG
+T107	Metabolite 2622 2644	n-3 PUFA-containing MG
+T108	Protein 2722 2743	cannabinoid receptors
+T109	Chemical 2807 2815	n-3 PUFA
+T110	Chemical 2865 2868	DHA
+T111	Metabolite 2865 2868	DHA
+T112	Chemical 2888 2892	2-AG
+T113	Metabolite 2888 2892	2-AG
+T114	Chemical 3064 3068	2-AG
+T115	Metabolite 3064 3068	2-AG
+T116	Chemical 10256 10260	2-AG
+T117	Metabolite 10256 10260	2-AG
+T118	Chemical 10508 10512	2-AG
+T119	Metabolite 10508 10512	2-AG
+T120	Chemical 13759 13763	2-AG
+T121	Metabolite 13759 13763	2-AG
+T122	Chemical 13644 13648	2-AG
+T123	Metabolite 13644 13648	2-AG
+T124	Chemical 12931 12935	2-AG
+T125	Metabolite 12931 12935	2-AG
+T126	Chemical 18911 18915	2-AG
+T127	Metabolite 18911 18915	2-AG
+T128	Chemical 18688 18692	2-AG
+T129	Metabolite 18688 18692	2-AG
+T130	Chemical 17951 17955	2-AG
+T131	Metabolite 17951 17955	2-AG
+T132	Chemical 17704 17708	2-AG
+T133	Metabolite 17704 17708	2-AG
+T134	Chemical 17621 17625	2-AG
+T135	Metabolite 17621 17625	2-AG
+T136	Chemical 17246 17250	2-AG
+T137	Metabolite 17246 17250	2-AG
+T138	Metabolite 17189 17193	2-AG
+T139	Chemical 17189 17193	2-AG
+T140	Chemical 17023 17027	2-AG
+T141	Metabolite 17023 17027	2-AG
+T142	Chemical 16775 16779	2-AG
+T143	Metabolite 16775 16779	2-AG
+T144	Chemical 16575 16579	2-AG
+T145	Metabolite 16575 16579	2-AG
+T146	Chemical 16524 16528	2-AG
+T147	Metabolite 16524 16528	2-AG
+T148	Chemical 16216 16220	2-AG
+T149	Metabolite 16216 16220	2-AG
+T150	Chemical 15933 15937	2-AG
+T151	Metabolite 15933 15937	2-AG
+T152	Chemical 15832 15836	2-AG
+T153	Metabolite 15832 15836	2-AG
+T154	Chemical 15667 15671	2-AG
+T155	Metabolite 15667 15671	2-AG
+T156	Chemical 15416 15420	2-AG
+T157	Metabolite 15416 15420	2-AG
+T158	Chemical 15019 15023	2-AG
+T159	Metabolite 15019 15023	2-AG
+T160	Chemical 14588 14592	2-AG
+T161	Metabolite 14588 14592	2-AG
+T162	Metabolite 14418 14422	2-AG
+T163	Chemical 14418 14422	2-AG
+T164	Chemical 21048 21052	2-AG
+T165	Metabolite 21048 21052	2-AG
+T166	Chemical 20926 20930	2-AG
+T167	Metabolite 20926 20930	2-AG
+T168	Chemical 20022 20026	2-AG
+T169	Metabolite 20022 20026	2-AG
+T170	Chemical 2930 2940	fatty acid
+T171	Chemical 2962 2975	phospholipids
+T172	Metabolite 2962 2975	phospholipids
+T173	Species 2979 2983	mice
+T174	Chemical 3008 3016	n-3 PUFA
+T175	Chemical 3130 3146	monoacylglycerol
+T176	Chemical 3157 3180	Triarachidonoylglycerol
+T177	Chemical 3182 3209	trieicosapentaenoylglycerol
+T178	Chemical 3213 3239	tridocosahexaenoylglycerol
+T179	Protein 3290 3296	lipase
+T180	Species 3302 3319	Rhizopus arrhizus
+T181	Protein 3290 3319	lipase from Rhizopus arrhizus
+T182	Chemical 3399 3416	2-acyl form of MG
+T183	Chemical 3461 3476	triacylglycerol
+T184	Protein 3486 3492	lipase
+T185	Chemical 3525 3545	1(3)-acyl form of MG
+T186	Chemical 3596 3600	acyl
+T187	Chemical 3662 3667;3679 3690	1(3)- forms of MG
+T188	Chemical 3672 3690	2-acyl forms of MG
+T189	Protein 3712 3718	lipase
+T190	Chemical 3732 3748	triacylglycerols
+T191	Chemical 3795 3807	diethylether
+T192	Chemical 3841 3851	silica gel
+T193	Chemical 3903 3908	CHCl3
+T194	Chemical 3910 3922	ethylacetate
+T195	Chemical 3923 3939	trimethoxyborane
+T196	Chemical 4074 4079;4086 4095;4097 4121	1(3)- acyl form of monopalmitoylglycerol
+T197	Chemical 4074 4079;4086 4099;4126 4144	1(3)- acyl forms of monooleoylglycerol
+T198	Chemical 4084 4095;4097 4121	2-acyl form of monopalmitoylglycerol
+T199	Chemical 4084 4099;4126 4144	2-acyl forms of monooleoylglycerol
+T200	Chemical 4246 4256	silica gel
+T201	Chemical 4273 4296	1-Heptadecanoylglycerol
+T202	Chemical 4471 4494	fatty acid methylesters
+T203	Chemical 4530 4538	methanol
+T204	Chemical 4541 4544	HCl
+T205	Chemical 4574 4591	hepadecanoic acid
+T206	Chemical 4593 4597	17:0
+T207	Chemical 4681 4696	benzoylchloride
+T208	Chemical 4760 4768	pyridine
+T209	Chemical 4860 4865	water
+T210	Chemical 4944 4962	ammonium hydroxide
+T211	Chemical 5029 5038	n -hexane
+T212	Chemical 5055 5065	silica gel
+T213	Chemical 5096 5103	benzene
+T214	Chemical 5104 5119	petroleum ether
+T215	Chemical 5120 5133	diethyl ether
+T216	Chemical 5278 5288	purimurine
+#1	AnnotatorNotes T216	Don't know what this is!
+T217	Chemical 5319 5326	acetone
+T218	Chemical 5327 5332	water
+T219	Chemical 5456 5468	acetonitrile
+T220	Chemical 5587 5598	acyl chains
+T221	Chemical 5659 5674	octadecylsilica
+T222	Chemical 5765 5772	aqueous
+T223	Chemical 5773 5785	acetonitrile
+T224	Chemical 4936 4943	aqueous
+T225	Chemical 6113 6136;6146 6156	1-heptadecanoylglycerol dibenzoate
+T226	Chemical 6138 6144;6146 6156	17:0MG dibenzoate
+T227	Species 6231 6236	mouse
+T228	Spectral_Data 6214 6218;6321 6339	HPLC -mass spectrometry
+T229	Spectral_Data 6302 6339	chemical ionization-mass spectrometry
+R15	Associated_With Arg1:T84 Arg2:T228	
+T230	Species 6654 6662	ddy mice
+T231	Chemical 6737 6750	safflower oil
+T232	Metabolite 6737 6750	safflower oil
+T233	Chemical 6775 6788	safflower oil
+T234	Metabolite 6775 6788	safflower oil
+T235	Chemical 6794 6808	DHA ethylester
+T236	Species 6875 6883	ddy mice
+T237	Chemical 7003 7013	fatty acid
+T238	Species 7088 7096	ddy mice
+T239	Species 7179 7183	mice
+T240	Chemical 7295 7304	linoleate
+T241	Chemical 7306 7313	18:2n-6
+T242	Chemical 7315 7317	LA
+T243	Chemical 7324 7337	safflower oil
+T244	Metabolite 7324 7337	safflower oil
+T245	Chemical 7372 7375	DHA
+T246	Chemical 7389 7392	DHA
+T247	Metabolite 7372 7375	DHA
+T248	Metabolite 7389 7392	DHA
+T249	Chemical 7438 7441	DHA
+T250	Metabolite 7438 7441	DHA
+T251	Chemical 7554 7559	Lipid
+T252	Species 7576 7580	mice
+T253	Species 7587 7591	Mice
+T254	Species 7618 7630	diethylether
+T255	Chemical 7695 7710	liquid nitrogen
+T256	Chemical 7827 7837	chloroform
+T257	Chemical 7838 7846	methanol
+T258	Chemical 7877 7900	1-heptadecanoylglycerol
+T259	Chemical 7948 7954	lipids
+T260	Chemical 8024 8030	lipids
+T261	Chemical 8049 8059	silica gel
+T262	Chemical 8157 8167	chloroform
+T263	Chemical 8169 8179	Chloroform
+T264	Chemical 8236 8252	triacylglycerols
+T265	Chemical 8254 8265	cholesterol
+T266	Chemical 8270 8285	diacylglycerols
+T267	Chemical 8289 8291	MG
+T268	Chemical 8347 8357	chloroform
+T269	Chemical 8358 8366	methanol
+T270	Chemical 8440 8453	phospholipids
+T271	Chemical 8500 8510	chloroform
+T272	Chemical 8511 8519	methanol
+T273	Chemical 8520 8535	distilled water
+T274	Chemical 8599 8612	phospholipids
+T275	Chemical 8396 8404	nitrogen
+T276	Metabolite 8440 8453	phospholipids
+T277	Metabolite 8599 8612	phospholipids
+T278	Chemical 8679 8689	fatty acid
+T279	Chemical 8705 8718	phospholipids
+T280	Metabolite 8705 8718	phospholipids
+T281	Species 8722 8727	mouse
+T282	Chemical 8734 8753	Phosphatidylcholine
+T283	Metabolite 8734 8753	Phosphatidylcholine
+T284	Chemical 8755 8757	PC
+T285	Metabolite 8755 8757	PC
+T286	Chemical 8760 8784	phosphatidylethanolamine
+T287	Metabolite 8760 8784	phosphatidylethanolamine
+T288	Chemical 8786 8788	PE
+T289	Metabolite 8786 8788	PE
+T290	Chemical 8791 8809	phosphatidylserine
+T291	Metabolite 8791 8809	phosphatidylserine
+T292	Chemical 8811 8813	PS
+T293	Metabolite 8811 8813	PS
+T294	Chemical 8819 8839	phosphatidylinositol
+T295	Metabolite 8819 8839	phosphatidylinositol
+T296	Chemical 8874 8887	phospholipids
+T297	Metabolite 8874 8887	phospholipids
+T298	Chemical 8907 8917	silica gel
+T299	Chemical 8928 8938	chloroform
+T300	Chemical 8939 8947	methanol
+T301	Chemical 8948 8959	formic acid
+T302	Chemical 8960 8975	distilled water
+T303	Chemical 9001 9011	chloroform
+T304	Chemical 9012 9020	methanol
+T305	Chemical 9025 9043	ammonium hydroxide
+T306	Chemical 9123 9134	Fatty acids
+T307	Chemical 9143 9155	phospholipid
+T308	Metabolite 9143 9155	phospholipid
+T309	Chemical 9202 9214	methylesters
+T310	Chemical 9229 9237	methanol
+T311	Chemical 9258 9275	hydrogen chloride
+T312	Chemical 9563 9577	MG dibenzoates
+T313	Chemical 9640 9654;9665 9667	dibenzoates of MG
+T314	Chemical 9680 9685;9692 9722	1(3)- acyl isomers of MG dibenzoates
+T315	Chemical 9690 9722	2-acyl isomers of MG dibenzoates
+T316	Chemical 9790 9804;9826 9834	derivatives of 2-16:0MG
+T317	Chemical 9790 9824	derivatives of 2-palmitoylglycerol
+T318	Chemical 9790 9804;9840 9861	derivatives of 1-octadecenylglycerol
+T319	Chemical 9790 9804;9863 9871	derivatives of 1-18:1MG
+T320	Chemical 9903 9905	MG
+T321	Chemical 10090 10092	MG
+T322	Metabolite 10090 10092	MG
+T323	Chemical 10157 10173	dibenzoate of MG
+T324	Metabolite 10171 10173	MG
+T325	Chemical 10198 10220	dibenzoate of 1-17:0MG
+T326	Chemical 10271 10274	MGs
+T327	Metabolite 10271 10274	MGs
+T328	Species 10278 10283	mouse
+R16	Isolated_From Arg1:T117 Arg2:T328	
+R17	Isolated_From Arg1:T327 Arg2:T328	
+T329	Chemical 10290 10312	Dibenzoate derivatives
+T330	Species 10316 10321	mouse
+T331	Chemical 10481 10492	dibenzoates
+T332	Chemical 10496 10503	1(3)-AG
+T333	Metabolite 10496 10503	1(3)-AG
+T334	Spectral_Data 10532 10888	APCI-mass spectrum of peak II included several signals at m /z  604.4 and m /z  609.4 (Fig. 2B , panel a); these signals corresponded to mass numbers 18 or 23 greater than the predicted molecular weight of the dibenzoate of monoarachidonoylglycerol (=586.4), respectively. Therefore, these ion signals can be assumed as [M+NH4]+  and [M+Na]+ , respectively
+T335	Chemical 10756 10780	monoarachidonoylglycerol
+T336	Metabolite 10756 10780	monoarachidonoylglycerol
+T337	Chemical 10742 10780	dibenzoate of monoarachidonoylglycerol
+R18	Associated_With Arg1:T337 Arg2:T334	
+T338	Chemical 10942 10956	MG dibenzoates
+T339	Chemical 10942 10944	MG
+T340	Metabolite 10942 10944	MG
+T341	Chemical 10986 11004	ammonium hydroxide
+T342	Spectral_Data 11083 11232	In this APCI mass spectrum, another ion peak at m /z  465.3 was also obtained in both mass spectra, which indicates the formation of [M–C6 H5 COO]+ .
+R19	Associated_With Arg1:T337 Arg2:T342	
+T343	Chemical 10481 10503;10508 10512	dibenzoates of 1(3)-AG 2-AG
+T344	Chemical 10481 10495	dibenzoates of
+R20	Associated_With Arg1:T343 Arg2:T334	
+R21	Associated_With Arg1:T343 Arg2:T342	
+T345	Spectral_Data 11237 11265	APCI-mass spectrum of peak I
+T346	Chemical 11311 11329	1(3)-AG-dibenzoate
+T347	Chemical 11311 11318	1(3)-AG
+T348	Metabolite 11311 11318	1(3)-AG
+R22	Associated_With Arg1:T346 Arg2:T345	
+T349	Chemical 11479 11489;11491 11499;11506 11533	dibenzoate of 1(3)- monodocosahexaenoylglycerol
+T353	Chemical 11479 11489;11491 11493;11504 11533	dibenzoate of 2-monodocosahexaenoylglycerol
+T354	Chemical 11479 11489;11491 11499;11535 11541	dibenzoate of 1(3)- DHG-MG
+T352	Spectral_Data 11468 11475;11573 11631	APCI-MS [M+NH4 ]+ =628.4, [M+Na]+ =633.4 and [M–C6 H5 COO]+ =489.3
+R24	Associated_With Arg1:T353 Arg2:T352	
+R25	Associated_With Arg1:T354 Arg2:T352	
+R26	Associated_With Arg1:T349 Arg2:T352	
+T356	Chemical 11710 11746	dibenzoates of monopalmitoylglycerol
+T355	Chemical 11710 11724;11748 11766	dibenzoates of monooleoylglycerol
+T357	Chemical 11710 11724;11771 11791	dibenzoates of monostearoylglycerol
+T358	Chemical 11802 11821;11846 11857	2-palmitoylglycerol derivatives
+T359	Chemical 11826 11857	1(3)-oleoylglycerol derivatives
+T360	Chemical 11934 11936	MG
+T361	Species 11958 11963	mouse
+T362	Chemical 12015 12037	dibenzoate derivatives
+T363	Spectral_Data 12067 12074	APCI-MS
+T364	Metabolite 11934 11936	MG
+R27	Isolated_From Arg1:T364 Arg2:T361	
+T365	Chemical 12114 12122	n-3 PUFA
+T366	Chemical 12140 12142	AA
+T367	Metabolite 12140 12142	AA
+T368	Chemical 12147 12150	DHA
+T369	Metabolite 12147 12150	DHA
+T370	Chemical 12154 12167	phospholipids
+T371	Metabolite 12154 12167	phospholipids
+T372	Chemical 12172 12174	MG
+T373	Metabolite 12172 12174	MG
+T374	Chemical 12223 12226	DHA
+T375	Metabolite 12223 12226	DHA
+T376	Chemical 12243 12245	PC
+T377	Chemical 12247 12249	PE
+T378	Chemical 12254 12256	PS
+T379	Metabolite 12243 12245	PC
+T380	Metabolite 12247 12249	PE
+T381	Metabolite 12254 12256	PS
+T382	Chemical 12386 12389	DHA
+T383	Metabolite 12386 12389	DHA
+T384	Chemical 12405 12418	phospholipids
+T385	Metabolite 12405 12418	phospholipids
+T386	Chemical 12453 12460	22:5n-6
+T387	Metabolite 12453 12460	22:5n-6
+T388	Chemical 12465 12472	22:4n-6
+T389	Metabolite 12465 12472	22:4n-6
+T390	Chemical 12529 12532	DHA
+T391	Metabolite 12529 12532	DHA
+T392	Chemical 12548 12550	PI
+T393	Metabolite 12548 12550	PI
+T394	Chemical 14333 14335	PI
+T395	Metabolite 14333 14335	PI
+T396	Chemical 15176 15178	PI
+T397	Metabolite 15176 15178	PI
+T398	Chemical 14090 14092	PI
+T399	Metabolite 14090 14092	PI
+T400	Chemical 13958 13960	PC
+T401	Metabolite 13958 13960	PC
+T402	Chemical 13965 13967	PE
+T403	Metabolite 13965 13967	PE
+T404	Chemical 15288 15290	PI
+T405	Metabolite 15288 15290	PI
+T406	Chemical 15362 15364	PI
+T407	Metabolite 15362 15364	PI
+T408	Chemical 15995 15997	PI
+T409	Metabolite 15995 15997	PI
+T410	Chemical 12666 12668	AA
+T411	Metabolite 12666 12668	AA
+T412	Chemical 12692 12704	phospholipid
+T413	Metabolite 12692 12704	phospholipid
+T414	Chemical 12786 12794	n-3 PUFA
+T415	Chemical 12840 12843	DHA
+T416	Metabolite 12840 12843	DHA
+T417	Chemical 12871 12873	AA
+T418	Metabolite 12871 12873	AA
+T419	Species 12906 12910	mice
+T351	Chemical 11479 11493;11504 11506;11535 11541	dibenzoates of 2- DHG-MG
+R28	Associated_With Arg1:T351 Arg2:T352	
+T350	Chemical 11725 11746	monopalmitoylglycerol
+T420	Metabolite 11725 11746	monopalmitoylglycerol
+T421	Chemical 11748 11766	monooleoylglycerol
+T422	Metabolite 11748 11766	monooleoylglycerol
+T423	Chemical 11771 11791	monostearoylglycerol
+T424	Metabolite 11771 11791	monostearoylglycerol
+T425	Chemical 11802 11821	2-palmitoylglycerol
+T426	Metabolite 11802 11821	2-palmitoylglycerol
+T427	Chemical 11826 11845	1(3)-oleoylglycerol
+T428	Metabolite 11826 11845	1(3)-oleoylglycerol
+T429	Chemical 13082 13090	2-DHG MG
+T430	Metabolite 13082 13090	2-DHG MG
+T431	Chemical 13187 13195	2-16:0MG
+T432	Metabolite 13187 13195	2-16:0MG
+T433	Chemical 13201 13212	1(3)-18:1MG
+T434	Metabolite 13201 13212	1(3)-18:1MG
+T435	Chemical 13224 13232	2-18:1MG
+T436	Metabolite 13224 13232	2-18:1MG
+T437	Chemical 13306 13314	1-16:0MG
+T438	Metabolite 13306 13314	1-16:0MG
+T439	Chemical 13415 13418	DHA
+T440	Chemical 13432 13434	AA
+T441	Metabolite 13432 13434	AA
+T442	Chemical 13439 13442	DHA
+T443	Metabolite 13439 13442	DHA
+T444	Chemical 13474 13476	MG
+T445	Metabolite 13474 13476	MG
+T446	Chemical 13533 13536	DHA
+T447	Chemical 13553 13566	phospholipids
+T448	Metabolite 13553 13566	phospholipids
+T449	Chemical 13591 13599	n-3 PUFA
+T450	Chemical 13714 13717	DHA
+T451	Metabolite 13714 13717	DHA
+T452	Chemical 13727 13740	phospholipids
+T453	Metabolite 13727 13740	phospholipids
+T454	Species 13774 13778	mice
+T455	Chemical 13831 13834	DHA
+T456	Chemical 13880 13883	DHA
+T457	Metabolite 13895 13897	AA
+T458	Chemical 13907 13920	phospholipids
+T459	Metabolite 13907 13920	phospholipids
+T460	Chemical 13938 13941	DHA
+T461	Metabolite 13938 13941	DHA
+T462	Metabolite 13880 13883	DHA
+T463	Metabolite 13533 13536	DHA
+T464	Chemical 14143 14146	DHA
+T465	Chemical 14273 14276	DHA
+T466	Chemical 14174 14177	DHA
+T467	Chemical 14207 14209	AA
+T468	Metabolite 14207 14209	AA
+T469	Chemical 14226 14228	PC
+T470	Metabolite 14226 14228	PC
+T471	Chemical 14233 14235	PE
+T472	Metabolite 14233 14235	PE
+T473	Chemical 14304 14307	DHA
+T474	Chemical 14340 14342	PS
+T475	Metabolite 14340 14342	PS
+T476	Chemical 14465 14468	DHA
+T477	Chemical 14496 14499	DHA
+T478	Chemical 14532 14539	1(3)-AG
+T479	Metabolite 14532 14539	1(3)-AG
+T480	Chemical 14573 14575	MG
+T481	Metabolite 14573 14575	MG
+T482	Chemical 14631 14634	DHA
+T483	Chemical 14662 14665	DHA
+T485	Chemical 14739 14756	DHA-containing MG
+T486	Metabolite 14739 14756	DHA-containing MG
+T487	Chemical 14793 14801	1-16:0MG
+T488	Metabolite 14793 14801	1-16:0MG
+T489	Chemical 14806 14814	2-18:1MG
+T490	Metabolite 14806 14814	2-18:1MG
+T491	Chemical 14882 14890	2-16:0MG
+T492	Metabolite 14882 14890	2-16:0MG
+T493	Chemical 14896 14907	1(3)-18:1MG
+T494	Metabolite 14896 14907	1(3)-18:1MG
+T495	Chemical 14930 14933	DHA
+T496	Chemical 14961 14964	DHA
+T484	Metabolite 14465 14468	DHA
+T497	Metabolite 14496 14499	DHA
+T498	Metabolite 14304 14307	DHA
+T499	Metabolite 14174 14177	DHA
+T500	Metabolite 14143 14146	DHA
+T501	Chemical 15042 15054	arachidonate
+T502	Metabolite 15042 15054	arachidonate
+T503	Chemical 15042 15079	arachidonate-containing phospholipids
+T504	Metabolite 15042 15079	arachidonate-containing phospholipids
+T505	Protein 15119 15122	PLC
+T506	Protein 15127 15136	DG lipase
+T507	Species 15182 15191	mammalian
+T508	Chemical 15226 15228	AA
+T509	Metabolite 15226 15228	AA
+T510	Chemical 15384 15396	phospholipid
+T511	Metabolite 15384 15396	phospholipid
+T512	Protein 15262 15274	PLC isozymes
+T513	Biological_Activity 15421 15433	biosynthesis
+T514	Species 15481 15486	mouse
+T515	Chemical 15506 15508	AA
+T516	Metabolite 15506 15508	AA
+T517	Chemical 15506 15533	AA-containing phospholipids
+T518	Metabolite 15506 15533	AA-containing phospholipids
+T519	Protein 15552 15567	phospholipase D
+T520	Chemical 15571 15588	phosphatidic acid
+T521	Metabolite 15571 15588	phosphatidic acid
+R23	Metabolite_Of Arg1:T521 Arg2:T517	
+T522	Protein 15602 15639	phosphatidate-hydrolyzing phosphatase
+T523	Protein 15649 15658	DG lipase
+R29	Metabolite_Of Arg1:T155 Arg2:T520	
+T524	Chemical 15762 15770	glycerol
+T525	Chemical 15778 15788	fatty acid
+T526	Metabolite 15762 15770	glycerol
+T527	Metabolite 15778 15788	fatty acid
+T528	Biological_Activity 15837 15849	biosynthesis
+T529	Chemical 15912 15915	DHA
+T530	Metabolite 15912 15915	DHA
+T531	Chemical 15983 15985	AA
+T532	Metabolite 15983 15985	AA
+T533	Chemical 16023 16026	DHA
+T534	Metabolite 16023 16026	DHA
+T535	Chemical 16083 16085	AA
+T536	Metabolite 16083 16085	AA
+T537	Chemical 16095 16097	PC
+T538	Metabolite 16095 16097	PC
+T539	Chemical 16102 16104	PE
+T540	Metabolite 16102 16104	PE
+T541	Chemical 16116 16118	PS
+T542	Metabolite 16116 16118	PS
+T543	Chemical 16129 16132	DHA
+T544	Metabolite 16129 16132	DHA
+T545	Chemical 16163 16166	DHA
+T546	Metabolite 16163 16166	DHA
+T547	Chemical 16316 16333	phosphatidic acid
+T548	Metabolite 16316 16333	phosphatidic acid
+T549	Chemical 16365 16367	PC
+T550	Metabolite 16365 16367	PC
+T551	Chemical 16371 16373	PE
+T552	Metabolite 16371 16373	PE
+T553	Chemical 16442 16444	AA
+T554	Metabolite 16442 16444	AA
+T555	Chemical 16454 16467	phospholipids
+T556	Metabolite 16454 16467	phospholipids
+T557	Species 16593 16598	mouse
+T558	Chemical 16618 16621	DHA
+T559	Metabolite 16618 16621	DHA
+T560	Chemical 16650 16652	AA
+T561	Metabolite 16650 16652	AA
+T562	Metabolite 2291 2303	phospholipid
+T563	Chemical 16675 16687	phospholipid
+T564	Metabolite 16675 16687	phospholipid
+T565	Chemical 16738 16741	DHA
+T566	Metabolite 16738 16741	DHA
+T567	Biological_Activity 16749 16759	inhibitory
+R30	Associated_With Arg1:T566 Arg2:T567	
+R31	Associated_With Arg1:T565 Arg2:T567	
+T568	Biological_Activity 16780 16792	biosynthesis
+T570	Chemical 16820 16848	DHA-containing phospholipids
+T571	Metabolite 16820 16848	DHA-containing phospholipids
+T569	Biological_Activity 16853 16860	inhibit
+R32	Associated_With Arg1:T571 Arg2:T569	
+R33	Associated_With Arg1:T570 Arg2:T569	
+T572	Chemical 16905 16932	AA-containing phospholipids
+T573	Metabolite 16905 16932	AA-containing phospholipids
+T574	Chemical 16820 16823	DHA
+T575	Metabolite 16820 16823	DHA
+T576	Chemical 16905 16907	AA
+T577	Metabolite 16905 16907	AA
+T578	Protein 16945 16948	PLC
+T579	Protein 16952 16955	PLD
+T580	Protein 17866 17869	PLC
+T581	Protein 17873 17876	PLD
+T582	Chemical 17043 17056	phospholipids
+T583	Metabolite 17043 17056	phospholipids
+T584	Species 17060 17064	mice
+T585	Chemical 17083 17086	DHA
+T586	Metabolite 17083 17086	DHA
+R34	Isolated_From Arg1:T141 Arg2:T584	
+R35	Isolated_From Arg1:T145 Arg2:T557	
+T587	Chemical 17126 17129	DHA
+T588	Metabolite 17126 17129	DHA
+T589	Chemical 17126 17154	DHA-containing phospholipids
+T590	Metabolite 17126 17154	DHA-containing phospholipids
+T591	Biological_Activity 17194 17206	biosynthesis
+T592	Chemical 17252 17255	DHA
+T593	Metabolite 17252 17255	DHA
+T594	Chemical 17252 17270	DHA-containing MGs
+T595	Metabolite 17252 17270	DHA-containing MGs
+T596	Chemical 17317 17320	DHA
+T597	Metabolite 17317 17320	DHA
+T598	Chemical 17317 17345	DHA-containing phospholipids
+T599	Metabolite 17317 17345	DHA-containing phospholipids
+T600	Chemical 17395 17406	2-22:6n-3MG
+T601	Metabolite 17395 17406	2-22:6n-3MG
+T602	Chemical 17444 17447	DHA
+T603	Metabolite 17444 17447	DHA
+T604	Chemical 17517 17520	DHA
+T605	Metabolite 17517 17520	DHA
+T606	Chemical 17631 17642	2-22:6n-3MG
+T607	Metabolite 17631 17642	2-22:6n-3MG
+T608	Chemical 17647 17649	AA
+T609	Metabolite 17647 17649	AA
+T610	Chemical 17647 17674	AA-containing phospholipids
+T611	Metabolite 17647 17674	AA-containing phospholipids
+T612	Chemical 17710 17713	DHA
+T613	Metabolite 17710 17713	DHA
+T614	Chemical 17710 17738	DHA-containing phospholipids
+T615	Metabolite 17710 17738	DHA-containing phospholipids
+T616	Chemical 17777 17788	2-22:6n-3MG
+T617	Metabolite 17777 17788	2-22:6n-3MG
+T618	Chemical 17818 17821	DHA
+T619	Chemical 17818 17846	DHA-containing phospholipids
+T620	Metabolite 17818 17821	DHA
+T621	Metabolite 17818 17846	DHA-containing phospholipids
+T622	Protein 17850 17857	enzymes
+T623	Chemical 17961 17972	2-22:6n-3MG
+T624	Metabolite 17961 17972	2-22:6n-3MG
+T625	Protein 18029 18032	CB1
+T626	Biological_Activity 18033 18043	antagonist
+T627	Chemical 18045 18052	SR14716
+R36	Associated_With Arg1:T627 Arg2:T626	
+R37	Binds_With Arg1:T627 Arg2:T625	
+T628	Species 18083 18087	mice
+T629	Species 18092 18096	rats
+T630	Protein 18120 18132	CB1 receptor
+T631	Species 18142 18146	mice
+T632	Chemical 18245 18256	cannabinoid
+T633	Protein 18316 18319	CB1
+T634	Species 18329 18333	mice
+T635	Chemical 18581 18592	cannabinoid
+T636	Species 18715 18719	mice
+T637	Chemical 18734 18742	n-3 PUFA
+T639	Species 18939 18943	mice
+T640	Chemical 18957 18965	n-3 PUFA
+T638	Chemical 19814 19818	PUFA
+T641	Chemical 20691 20695	PUFA
+T642	Chemical 21221 21229	n-3 PUFA
+T643	Chemical 20857 20865	n-3 PUFA
+T644	Chemical 19145 19148	DHA
+T645	Metabolite 19145 19148	DHA
+T646	Species 19187 19191	mice
+T647	Metabolite 19238 19241	DHA
+T648	Chemical 19238 19241	DHA
+T649	Chemical 19332 19334	AA
+T650	Chemical 19339 19342	DHA
+T651	Metabolite 19332 19334	AA
+T652	Metabolite 19339 19342	DHA
+T653	Chemical 19385 19395	anandamide
+T654	Metabolite 19385 19395	anandamide
+T655	Chemical 19397 19424	N -arachidonoylethanolamine
+T656	Metabolite 19397 19424	N -arachidonoylethanolamine
+T657	Chemical 19434 19437	DHA
+T658	Metabolite 19434 19437	DHA
+T659	Chemical 19459 19489	N -docosahexaenoylethanolamine
+T660	Metabolite 19459 19489	N -docosahexaenoylethanolamine
+T661	Species 19502 19508	piglet
+R38	Isolated_From Arg1:T660 Arg2:T661	
+R39	Isolated_From Arg1:T656 Arg2:T661	
+R40	Isolated_From Arg1:T654 Arg2:T661	
+T662	Chemical 19572 19574	MG
+T663	Metabolite 19572 19574	MG
+T664	Chemical 19586 19588	AA
+T665	Chemical 19592 19595	DHA
+T666	Metabolite 19586 19588	AA
+T667	Metabolite 19592 19595	DHA
+T668	Chemical 19653 19655	AA
+T669	Metabolite 19653 19655	AA
+T670	Chemical 19661 19664	DHA
+T671	Metabolite 19661 19664	DHA
+T672	Chemical 19676 19695	N -acylethanolamime
+T673	Chemical 19653 19656;19665 19695	AA- containing N -acylethanolamime
+T674	Metabolite 19653 19656;19665 19695	AA- containing N -acylethanolamime
+T675	Chemical 19661 19695	DHA-containing N -acylethanolamime
+T676	Metabolite 19661 19695	DHA-containing N -acylethanolamime
+T677	Species 19846 19853	piglets
+R41	Isolated_From Arg1:T676 Arg2:T677	
+R42	Isolated_From Arg1:T674 Arg2:T677	
+T678	Chemical 19906 19908	AA
+T679	Metabolite 19906 19908	AA
+T680	Chemical 19913 19916	DHA
+T681	Metabolite 19913 19916	DHA
+T682	Chemical 19962 19981	N -acylethanolamide
+T683	Metabolite 19962 19981	N -acylethanolamide
+T684	Biological_Activity 19982 19994	biosynthesis
+T685	Chemical 20096 20106	anandamide
+T686	Metabolite 20096 20106	anandamide
+T687	Chemical 20160 20191	N -acylphosphatidylethanolamine
+T688	Metabolite 20160 20191	N -acylphosphatidylethanolamine
+T689	Chemical 20224 20236	ethanolamine
+T690	Metabolite 20224 20236	ethanolamine
+T691	Chemical 20301 20343	N -docosahexaenoylphosphatidylethanolamine
+T692	Metabolite 20301 20343	N -docosahexaenoylphosphatidylethanolamine
+T693	Chemical 20392 20422	N -docosahexaenoylethanolamide
+T694	Metabolite 20392 20422	N -docosahexaenoylethanolamide
+T695	Species 20426 20432	bovine
+R43	Isolated_From Arg1:T694 Arg2:T695	
+R44	Isolated_From Arg1:T692 Arg2:T695	
+T696	Chemical 20519 20521	AA
+T697	Metabolite 20519 20521	AA
+T698	Chemical 20526 20529	DHA
+T699	Metabolite 20526 20529	DHA
+T700	Chemical 20581 20586	PUFAs
+T701	Chemical 20592 20612	N -acylethanolamines
+T702	Chemical 20781 20792	cannabinoid

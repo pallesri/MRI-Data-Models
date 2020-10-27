@@ -1,0 +1,20 @@
+T1	Species 16 20	rats
+T2	Chemical 39 52	oxythioquinox
+T3	Chemical 54 62	Morestan
+T4	Biological_Activity 64 72	toxicity
+R1	Associated_With Arg1:T2 Arg2:T4	
+T5	Chemical 125 134	olive oil
+T6	Chemical 140 153	oxythioquinox
+T7	Chemical 222 229	aqueous
+T8	Chemical 279 286	aqueous
+T9	Chemical 125 130;385 388	olive oil
+T10	Chemical 489 502	oxythioquinox
+T11	Chemical 585 592	aqueous
+T12	Chemical 656 669	oxythioquinox
+T13	Chemical 746 759	oxythioquinox
+T14	Biological_Activity 760 768	toxicity
+T15	Chemical 125 130;506 509	olive oil
+T16	Chemical 125 130;622 625	olive oil
+T17	Chemical 125 130;772 775	olive oil
+R2	Associated_With Arg1:T3 Arg2:T4	
+R3	Associated_With Arg1:T13 Arg2:T14	

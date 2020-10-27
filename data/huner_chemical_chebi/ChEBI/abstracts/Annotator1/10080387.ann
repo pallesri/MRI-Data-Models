@@ -1,0 +1,22 @@
+T1	Chemical 8 20	phospholipid
+T2	Metabolite 8 20	phospholipid
+T3	Species 61 78	Trypanosoma cruzi
+T4	Spectral_Data 101 140	fast atom bombardment mass spectrometry
+#1	AnnotatorNotes T4	Spectral data presumably given in the full paper
+T5	Chemical 190 211	plasmenylethanolamine
+T6	Chemical 219 239	hexadec-l-enyl group
+T7	Chemical 304 317;339 370	octadecenoate esterified to the sn-2 hydroxyl
+T8	Chemical 322 370	octadecadienoate esterified to the sn-2 hydroxyl
+T9	Chemical 385 406	plasmenylethanolamine
+T10	Metabolite 385 406	plasmenylethanolamine
+T11	Species 453 461	patients
+#2	AnnotatorNotes T11	implies human
+T12	Chemical 498 520	plasmenylethanolamines
+T13	Metabolite 498 520	plasmenylethanolamines
+R1	Associated_With Arg1:T2 Arg2:T4	
+R2	Associated_With Arg1:T1 Arg2:T4	
+T14	Spectral_Data 145 184	nuclear magnetic resonance spectroscopy
+R3	Associated_With Arg1:T2 Arg2:T14	
+R4	Associated_With Arg1:T1 Arg2:T14	
+T15	Species 558 567	mammalian
+T18	Biological_Activity 628 636	epitopes

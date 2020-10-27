@@ -1,0 +1,43 @@
+T1	Protein 3 9	enzyme
+T2	Biological_Activity 15 21	lipase
+T3	Biological_Activity 26 34	esterase
+T4	Protein 15 21	lipase
+T5	Protein 26 34	esterase
+T6	Species 62 68	bovine
+T7	Protein 110 116	lipase
+T9	Protein 241 247	lipase
+T11	Protein 264 270	enzyme
+T8	Biological_Activity 276 282	lipase
+T12	Protein 276 282	lipase
+T13	Chemical 336 355	sodium taurocholate
+T14	Protein 414 440	bile salt-activated lipase
+T15	Protein 442 448	bp-BAL
+T16	Species 468 474	bovine
+R1	Associated_With Arg1:T13 Arg2:T8	
+T17	Chemical 543 564	N-terminal amino acid
+T18	Protein 582 588	lipase
+T19	Protein 589 597	esterase
+T20	Species 619 624	human
+T21	Protein 625 633	milk BAL
+T22	Species 638 643	human
+T23	Protein 644 658	pancreatic BAL
+T24	Protein 682 688	lectin
+T25	Protein 702 708	bp-BAL
+T26	Protein 714 726	glycoprotein
+T27	Chemical 742 748	fucose
+T28	Species 775 781	bovine
+T29	Protein 793 810	lysophospholipase
+T30	Protein 878 884	enzyme
+T31	Protein 890 910	cholesterol esterase
+T32	Protein 911 928	lysophospholipase
+T33	Biological_Activity 911 928	lysophospholipase
+T34	Chemical 957 978	N-terminal amino acid
+T35	Protein 991 997	bp-BAL
+T36	Chemical 1015 1025	amino acid
+T37	Protein 1134 1140	bp-BAL
+T38	Protein 1219 1236	lysophospholipase
+T39	Protein 1303 1323	cholesterol esterase
+T40	Protein 1324 1341	lysophospholipase
+T41	Protein 1379 1386	enzymes
+T10	Biological_Activity 241 247	lipase
+T42	Biological_Activity 902 910	esterase

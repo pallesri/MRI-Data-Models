@@ -1,0 +1,77 @@
+T1	Chemical 39 49	methanolic
+T2	Species 70 86	Casimiroa edulis
+T3	Biological_Activity 135 149	cardiovascular
+T4	Metabolite 184 204	synephrine acetonide
+T5	Chemical 184 204	synephrine acetonide
+T6	Chemical 229 250	N-monomethylhistamine
+T7	Metabolite 252 273	N,N-dimethylhistamine
+T8	Metabolite 275 282	proline
+T9	Metabolite 284 299	N-methylproline
+T10	Metabolite 229 250	N-monomethylhistamine
+T11	Chemical 252 273	N,N-dimethylhistamine
+T12	Chemical 275 282	proline
+T13	Chemical 284 299	N-methylproline
+T14	Metabolite 301 324	gamma-aminobutyric acid
+T15	Chemical 301 324	gamma-aminobutyric acid
+T16	Metabolite 329 342	casimiroedine
+T17	Chemical 329 342	casimiroedine
+T18	Species 360 364	rats
+T19	Metabolite 371 392	histamine derivatives
+T20	Chemical 371 392	histamine derivatives
+T22	Protein 437 463	H1-histaminergic receptors
+T24	Chemical 483 504	N,N-dimethylhistamine
+T25	Metabolite 483 504	N,N-dimethylhistamine
+T26	Chemical 510 522	nitric oxide
+T27	Metabolite 510 522	nitric oxide
+T29	Chemical 532 552	Synephrine acetonide
+T30	Metabolite 532 552	Synephrine acetonide
+T33	Protein 615 621;642 661	alpha- adrenergic receptor
+T34	Protein 626 631;642 661	alpha adrenergic receptor
+T35	Protein 637 661	beta-adrenergic receptor
+T39	Chemical 715 729	N-methyproline
+T40	Metabolite 715 729	N-methyproline
+T41	Chemical 731 738	proline
+T42	Metabolite 731 738	proline
+T43	Metabolite 743 766	gamma-aminobutyric acid
+T44	Chemical 743 766	gamma-aminobutyric acid
+T46	Chemical 819 832	casimiroedine
+T47	Metabolite 819 832	casimiroedine
+T48	Species 883 887	rats
+T49	Species 933 944	guinea pigs
+T51	Species 992 1001	C. edulis
+T53	Chemical 1085 1106	histamine derivatives
+T54	Protein 1117 1129	H1-receptors
+T57	Chemical 1194 1205	amino acids
+T58	Metabolite 1194 1205	amino acids
+T59	Metabolite 1251 1264	casimiroedine
+T60	Chemical 1251 1264	casimiroedine
+T61	Biological_Activity 1278 1288	activation
+T63	Chemical 1342 1362	synephrine acetonide
+T64	Metabolite 1342 1362	synephrine acetonide
+R1	Associated_With Arg1:T4 Arg2:T3	
+R2	Associated_With Arg1:T5 Arg2:T3	
+R3	Associated_With Arg1:T10 Arg2:T3	
+R4	Associated_With Arg1:T7 Arg2:T3	
+R5	Associated_With Arg1:T8 Arg2:T3	
+R6	Associated_With Arg1:T8 Arg2:T3	
+R7	Associated_With Arg1:T9 Arg2:T3	
+R8	Associated_With Arg1:T14 Arg2:T3	
+R9	Associated_With Arg1:T16 Arg2:T3	
+R10	Associated_With Arg1:T6 Arg2:T3	
+R11	Associated_With Arg1:T11 Arg2:T3	
+R12	Associated_With Arg1:T12 Arg2:T3	
+R13	Associated_With Arg1:T13 Arg2:T3	
+R14	Associated_With Arg1:T15 Arg2:T3	
+R15	Associated_With Arg1:T17 Arg2:T3	
+R16	Isolated_From Arg1:T4 Arg2:T2	
+R17	Isolated_From Arg1:T10 Arg2:T2	
+R18	Isolated_From Arg1:T7 Arg2:T2	
+R19	Isolated_From Arg1:T8 Arg2:T2	
+R20	Isolated_From Arg1:T9 Arg2:T2	
+R21	Isolated_From Arg1:T14 Arg2:T2	
+R22	Isolated_From Arg1:T16 Arg2:T2	
+R36	Binds_With Arg1:T6 Arg2:T22	
+R37	Binds_With Arg1:T6 Arg2:T22	
+R38	Binds_With Arg1:T7 Arg2:T22	
+R39	Binds_With Arg1:T11 Arg2:T22	
+T23	Protein 1292 1304	H3-receptors

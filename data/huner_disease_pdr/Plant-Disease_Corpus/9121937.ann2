@@ -1,0 +1,19 @@
+T1	Disease 0 14	Gastric cancer
+T2	Disease 28 34	cancer
+T3	Disease 158 172	stomach cancer
+T4	Disease 191 205	stomach cancer
+T6	Disease 1293 1307	stomach cancer
+T7	Disease 1478 1492	stomach cancer
+T8	Plant 256 262	Allium
+T9	Plant 282 288	Allium
+T11	Plant 314 320	garlic
+T12	Plant 484 490	Allium
+T13	Plant 623 629	garlic
+T15	Plant 754 763	chocolate
+T16	Plant 936 942	garlic
+T18	Plant 1101 1107	garlic
+T21	Plant 1207 1213	garlic
+T22	Plant 1329 1335	Allium
+T23	Treatment_of_disease 1279 1289	lower risk
+E1	Treatment_of_disease:T23 Theme:T6 Cause:T21
+T5	Disease 511 517	cancer

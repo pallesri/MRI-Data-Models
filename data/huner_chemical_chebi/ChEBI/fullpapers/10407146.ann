@@ -1,0 +1,919 @@
+T1	Chemical 40 49	vitamin A
+T2	Metabolite 40 49	vitamin A
+T3	Chemical 51 58	retinol
+T4	Metabolite 51 58	retinol
+T5	Chemical 127 140	retinoic acid
+T6	Metabolite 127 140	retinoic acid
+T7	Chemical 176 183	retinol
+T8	Chemical 146 161	carboxylic acid
+T9	Metabolite 176 183	retinol
+T10	Protein 229 237	receptor
+T11	Biological_Activity 238 247	signaling
+T12	Chemical 297 305	retinoid
+T13	Metabolite 297 305	retinoid
+T14	Biological_Activity 306 315	signaling
+R1	Associated_With Arg1:T13 Arg2:T14	
+R2	Associated_With Arg1:T12 Arg2:T14	
+T15	Chemical 405 418	retinoic acid
+T16	Metabolite 405 418	retinoic acid
+R3	Binds_With Arg1:T6 Arg2:T10	
+R4	Binds_With Arg1:T5 Arg2:T10	
+R5	Associated_With Arg1:T6 Arg2:T11	
+R6	Associated_With Arg1:T5 Arg2:T11	
+T17	Protein 435 441	Enzyme
+T18	Chemical 474 481	retinol
+T19	Metabolite 474 481	retinol
+T20	Biological_Activity 482 492	metabolism
+R7	Associated_With Arg1:T19 Arg2:T20	
+R8	Associated_With Arg1:T18 Arg2:T20	
+T21	Protein 569 590	alcohol dehydrogenase
+T22	Protein 592 595	ADH
+T23	Protein 601 636	short-chain dehydrogenase/reductase
+T24	Protein 638 641	SDR
+T25	Protein 643 649	enzyme
+T27	Metabolite 702 709	retinol
+T28	Metabolite 713 720	retinal
+T29	Chemical 702 709	retinol
+T30	Chemical 713 720	retinal
+R9	Metabolite_Of Arg1:T28 Arg2:T29	
+T26	Protein 740 762	aldehyde dehydrogenase
+T31	Protein 764 768	ALDH
+T32	Protein 774 791	cytochrome P -450
+T33	Protein 793 796	CYP
+T34	Chemical 810 817	retinal
+T35	Metabolite 810 817	retinal
+T36	Chemical 821 834	retinoic acid
+T37	Metabolite 821 834	retinoic acid
+R10	Metabolite_Of Arg1:T37 Arg2:T34	
+T38	Chemical 836 843	Retinol
+T39	Metabolite 836 843	Retinol
+T40	Protein 908 911	ADH
+T41	Protein 959 962	SDR
+T42	Protein 999 1005	enzyme
+T43	Chemical 1047 1054	retinol
+T44	Metabolite 1047 1054	retinol
+T45	Chemical 1091 1104	retinoic acid
+T46	Metabolite 1091 1104	retinoic acid
+T47	Chemical 1109 1117	retinoid
+T48	Metabolite 1109 1117	retinoid
+T49	Biological_Activity 1118 1127	signaling
+T50	Species 1129 1139	Vertebrate
+T51	Protein 1140 1143	ADH
+T52	Protein 1145 1155	EC 1.1.1.1
+T53	Chemical 1192 1195	NAD
+T54	Chemical 1207 1211	zinc
+T55	Protein 1223 1230	enzymes
+T56	Protein 1192 1230	NAD-dependent, zinc-containing enzymes
+T57	Protein 1312 1315	ADH
+T58	Chemical 1360 1378	aliphatic alcohols
+T59	Chemical 1402 1411	aldehydes
+T60	Chemical 1434 1442	aldehyde
+T61	Protein 1489 1493	ALDH
+T62	Chemical 1543 1559	carboxylic acids
+T63	Protein 1588 1591	ADH
+T64	Protein 1627 1638	class I ADH
+T65	Protein 1640 1644	ADH1
+T66	Chemical 1658 1665	retinol
+T67	Metabolite 1658 1665	retinol
+T68	Species 1767 1772	human
+T69	Protein 1773 1785	class IV ADH
+T70	Protein 1787 1791	ADH4
+T71	Chemical 1809 1816	retinol
+T72	Metabolite 1809 1816	retinol
+T73	Biological_Activity 1817 1826	oxidizing
+T74	Species 1841 1846	human
+T75	Protein 1847 1851	ADH1
+T76	Protein 1887 1891	ADH1
+T77	Protein 1896 1900	ADH4
+T78	Chemical 1916 1924	retinoid
+T79	Metabolite 1916 1924	retinoid
+T80	Biological_Activity 1925 1934	signaling
+T81	Species 1940 1945	mouse
+T82	Protein 1965 1972	enzymes
+T83	Chemical 2005 2013	retinoid
+T84	Metabolite 2005 2013	retinoid
+T85	Protein 2159 2162	ADH
+T86	Chemical 2205 2218	retinoic acid
+T87	Metabolite 2205 2218	retinoic acid
+T88	Chemical 2235 2242	hormone
+T89	Biological_Activity 2235 2242	hormone
+T90	Protein 2294 2298	ADH1
+T91	Protein 2300 2304	ADH4
+T92	Chemical 2310 2323	retinoic acid
+T93	Metabolite 2310 2323	retinoic acid
+T94	Chemical 2371 2389	all-trans -retinol
+T95	Metabolite 2371 2389	all-trans -retinol
+T96	Chemical 2391 2401	vitamin A1
+T97	Metabolite 2391 2401	vitamin A1
+T98	Chemical 2439 2448	vitamin A
+T99	Metabolite 2439 2448	vitamin A
+T100	Species 2452 2459	mammals
+T101	Chemical 2509 2516	alcohol
+T102	Chemical 2560 2568	retinoid
+T103	Metabolite 2560 2568	retinoid
+T104	Biological_Activity 2569 2578	signaling
+R11	Isolated_From Arg1:T97 Arg2:T100	
+R12	Isolated_From Arg1:T95 Arg2:T100	
+T105	Species 2594 2599	human
+T106	Metabolite 2610 2630	3,4-didehydroretinol
+T107	Chemical 2610 2630	3,4-didehydroretinol
+T108	Chemical 2632 2642	vitamin A2
+T109	Metabolite 2632 2642	vitamin A2
+T110	Chemical 2676 2694	all-trans -retinol
+T111	Metabolite 2676 2694	all-trans -retinol
+R13	Isolated_From Arg1:T106 Arg2:T105	
+R14	Isolated_From Arg1:T109 Arg2:T105	
+R15	Isolated_From Arg1:T111 Arg2:T105	
+T112	Species 2709 2714	chick
+T113	Species 2733 2742	Xenopus  
+T114	Chemical 2769 2789	3,4-didehydroretinol
+T115	Metabolite 2769 2789	3,4-didehydroretinol
+T116	Chemical 2815 2833	all-trans -retinol
+T117	Metabolite 2815 2834	all-trans -retinol.
+R16	Isolated_From Arg1:T115 Arg2:T113	
+R17	Isolated_From Arg1:T115 Arg2:T112	
+R18	Isolated_From Arg1:T117 Arg2:T113	
+R19	Isolated_From Arg1:T117 Arg2:T112	
+R20	Isolated_From Arg1:T109 Arg2:T112	
+R21	Isolated_From Arg1:T109 Arg2:T113	
+T118	Chemical 2839 2854	carboxylic acid
+T119	Chemical 2866 2892	3,4-didehydroretinoic acid
+T120	Metabolite 2866 2892	3,4-didehydroretinoic acid
+T121	Species 2908 2913	chick
+T122	Species 2935 2944	Xenopus  
+T123	Biological_Activity 2981 2989	activate
+T124	Chemical 2990 3003	retinoic acid
+T125	Metabolite 2990 3003	retinoic acid
+T126	Protein 2990 3013	retinoic acid receptors
+R22	Isolated_From Arg1:T120 Arg2:T121	
+R23	Isolated_From Arg1:T120 Arg2:T122	
+R24	Associated_With Arg1:T120 Arg2:T123	
+R25	Associated_With Arg1:T119 Arg2:T123	
+R26	Binds_With Arg1:T119 Arg2:T126	
+R27	Binds_With Arg1:T120 Arg2:T126	
+T127	Biological_Activity 3029 3039	biological
+T128	Chemical 3075 3082	retinol
+T129	Metabolite 3075 3082	retinol
+T130	Chemical 3086 3100	9-cis -retinol
+T131	Metabolite 3086 3100	9-cis -retinol
+T132	Species 3130 3133	rat
+R28	Isolated_From Arg1:T131 Arg2:T132	
+T133	Chemical 3152 3167	carboxylic acid
+T134	Chemical 3179 3199	9-cis -retinoic acid
+T135	Metabolite 3179 3199	9-cis -retinoic acid
+T136	Biological_Activity 3225 3233	activate
+T137	Chemical 3234 3247	retinoic acid
+T138	Metabolite 3234 3247	retinoic acid
+T139	Protein 3234 3257	retinoic acid receptors
+T140	Protein 3269 3289	retinoid X receptors
+T141	Biological_Activity 3326 3336	biological
+R29	Associated_With Arg1:T135 Arg2:T136	
+R30	Associated_With Arg1:T134 Arg2:T136	
+R31	Binds_With Arg1:T135 Arg2:T139	
+R32	Binds_With Arg1:T134 Arg2:T139	
+R33	Binds_With Arg1:T135 Arg2:T140	
+R34	Binds_With Arg1:T134 Arg2:T140	
+T142	Chemical 3366 3383	4-hydroxy-retinol
+T143	Chemical 3388 3401	4-oxo-retinol
+T144	Metabolite 3366 3383	4-hydroxy-retinol
+T145	Metabolite 3388 3401	4-oxo-retinol
+T146	Chemical 3444 3451	retinol
+T147	Metabolite 3444 3451	retinol
+T148	Chemical 3474 3487	4-oxo-retinal
+T149	Metabolite 3474 3487	4-oxo-retinal
+T150	Chemical 3492 3511	4-oxo-retinoic acid
+T151	Metabolite 3492 3511	4-oxo-retinoic acid
+T152	Biological_Activity 3538 3546	activate
+T153	Chemical 3547 3560	retinoic acid
+T154	Metabolite 3547 3560	retinoic acid
+T155	Protein 3547 3570	retinoic acid receptors
+T156	Biological_Activity 3589 3599	biological
+R35	Associated_With Arg1:T151 Arg2:T152	
+R36	Associated_With Arg1:T150 Arg2:T152	
+R37	Associated_With Arg1:T149 Arg2:T152	
+R38	Associated_With Arg1:T148 Arg2:T152	
+R39	Associated_With Arg1:T145 Arg2:T152	
+R40	Associated_With Arg1:T143 Arg2:T152	
+R41	Associated_With Arg1:T144 Arg2:T152	
+R42	Associated_With Arg1:T142 Arg2:T152	
+R43	Binds_With Arg1:T151 Arg2:T155	
+R44	Binds_With Arg1:T150 Arg2:T155	
+R45	Binds_With Arg1:T148 Arg2:T155	
+R46	Binds_With Arg1:T149 Arg2:T155	
+R47	Binds_With Arg1:T145 Arg2:T155	
+R48	Binds_With Arg1:T143 Arg2:T155	
+R49	Binds_With Arg1:T144 Arg2:T155	
+R50	Binds_With Arg1:T142 Arg2:T155	
+T157	Protein 3645 3652	enzymes
+T158	Biological_Activity 3661 3671	metabolize
+T159	Chemical 3697 3705	retinols
+T160	Metabolite 3697 3705	retinols
+T161	Chemical 3728 3742	9-cis -retinol
+T162	Metabolite 3728 3742	9-cis -retinol
+T163	Protein 3768 3772	ADH4
+T164	Protein 3796 3799	SDR
+T165	Spectral_Data 3813 3835	X-Ray crystallographic
+T166	Species 3850 3855	horse
+T167	Protein 3856 3870	class I ADH EE
+T168	Protein 3872 3877	ADH1E
+T169	Species 3886 3891	human
+T170	Protein 3892 3906	class I ADH ββ
+T171	Protein 3908 3913	ADH1B
+T172	Species 3925 3932	codfish
+T173	Protein 3933 3944	class I ADH
+T174	Protein 3946 3950	ADH1
+T175	Species 3959 3964	human
+T176	Protein 3965 3978	class III ADH
+T177	Protein 3980 3984	ADH3
+T178	Species 3997 4002	human
+T179	Protein 4003 4015	class IV ADH
+T180	Protein 4017 4021	ADH4
+T181	Protein 4064 4067	ADH
+T182	Species 4149 4159	vertebrate
+T183	Protein 4160 4163	ADH
+T184	Chemical 4202 4231	long-chain aliphatic alcohols
+T185	Species 4254 4259	human
+T186	Protein 4260 4265	ADH1B
+T187	Protein 4270 4274	ADH4
+T188	Chemical 4292 4302	amino acid
+T189	Protein 4363 4370	enzymes
+T190	Chemical 4387 4404	all-trans -retino
+T191	Metabolite 4387 4405	all-trans -retinol
+T192	Chemical 4431 4459	long-chain aliphatic alcohol
+T193	Species 4524 4529	human
+T194	Protein 4530 4535	ADH1B
+T195	Species 4563 4568	human
+T196	Protein 4569 4573	ADH4
+T197	Biological_Activity 4674 4681	binding
+T198	Chemical 4685 4703	all-trans -retinol
+T199	Metabolite 4685 4703	all-trans -retinol
+T200	Chemical 4738 4748	amino acid
+T201	Chemical 4791 4794	Gly
+R51	Associated_With Arg1:T199 Arg2:T197	
+R52	Associated_With Arg1:T198 Arg2:T197	
+R53	Binds_With Arg1:T199 Arg2:T196	
+R54	Binds_With Arg1:T198 Arg2:T196	
+T202	Protein 4903 4906	ADH
+T203	Chemical 4911 4918	retinol
+T204	Metabolite 4911 4918	retinol
+T205	Biological_Activity 4919 4929	metabolism
+T206	Species 5002 5007	human
+T207	Protein 5008 5012	ADH4
+T208	Species 5095 5100	human
+T209	Protein 5101 5106	ADH1B
+T210	Chemical 5211 5219	retinols
+T211	Metabolite 5211 5219	retinols
+T213	Species 5264 5269	human
+T214	Protein 5270 5275	ADH1B
+T215	Protein 5280 5284	ADH4
+R58	Binds_With Arg1:T211 Arg2:T214	
+R57	Binds_With Arg1:T210 Arg2:T214	
+R59	Binds_With Arg1:T211 Arg2:T215	
+R60	Binds_With Arg1:T210 Arg2:T215	
+T216	Biological_Activity 5305 5312	binding
+T217	Protein 5333 5336	ADH
+T218	Biological_Activity 5388 5398	metabolism
+T219	Chemical 5428 5436	retinols
+T220	Metabolite 5428 5436	retinols
+T221	Protein 5467 5470	ADH
+T222	Metabolite 5474 5482	retinoid
+T223	Biological_Activity 5483 5492	signaling
+T224	Chemical 5474 5482	retinoid
+T225	Chemical 5571 5578	Silicon
+T226	Chemical 5648 5655	Silicon
+T227	Protein 5853 5858	ADH1B
+T228	Protein 5860 5864	ADH4
+T229	Chemical 5879 5886	retinol
+T230	Metabolite 5879 5886	retinol
+T231	Protein 5879 5905	retinol-binding protein II
+T232	Protein 5907 5913	CRBPII
+T233	Species 6103 6108	human
+T234	Protein 6109 6114	ADH1B
+T235	Species 6148 6153	human
+T236	Protein 6154 6158	ADH4
+T237	Species 6170 6173	rat
+T238	Protein 6174 6180	CRBPII
+T239	Chemical 6204 6209	water
+T240	Biological_Activity 6242 6249	binding
+T241	Chemical 6284 6289	water
+T242	Biological_Activity 6312 6319	binding
+T243	Protein 6328 6334	CRBPII
+T244	Biological_Activity 6355 6360	bound
+T245	Biological_Activity 6361 6369	coenzyme
+T246	Chemical 6370 6373	NAD
+R61	Associated_With Arg1:T246 Arg2:T245	
+R62	Associated_With Arg1:T246 Arg2:T244	
+T247	Chemical 6388 6392	zinc
+T248	Protein 6431 6436	ADH1B
+T249	Protein 6441 6445	ADH4
+T250	Chemical 6447 6457	Amino acid
+T251	Protein 6496 6499	ADH
+T252	Protein 6519 6525	CRBPII
+T253	Biological_Activity 6668 6675	binding
+T254	Biological_Activity 6774 6781	binding
+T255	Protein 7089 7096	protein
+T256	Biological_Activity 7097 7104	binding
+T257	Chemical 7161 7179	all-trans -retinol
+T258	Metabolite 7161 7179	all-trans -retinol
+T259	Chemical 7181 7195	9-cis -retinol
+T260	Metabolite 7181 7195	9-cis -retinol
+T261	Chemical 7197 7218	3,4-didehydroretinol,
+T262	Metabolite 7197 7217	3,4-didehydroretinol
+T263	Chemical 7219 7232	4-oxo-retinol
+T264	Metabolite 7219 7232	4-oxo-retinol
+T265	Chemical 7238 7255	4-hydroxy-retinol
+T266	Metabolite 7238 7255	4-hydroxy-retinol
+T267	Chemical 7367 7374	retinol
+T268	Metabolite 7367 7374	retinol
+T269	Chemical 7465 7483	all-trans -retinol
+T270	Metabolite 7465 7483	all-trans -retinol
+T271	Protein 7487 7498	holo-CRBPII
+T272	Chemical 7832 7840	retinols
+T273	Metabolite 7832 7840	retinols
+T274	Chemical 8020 8027	retinol
+T275	Metabolite 8020 8027	retinol
+T276	Protein 8051 8058	protein
+T277	Biological_Activity 8800 8808	coenzyme
+T278	Chemical 8809 8812	NAD
+T279	Chemical 8854 8857	NAD
+T280	Chemical 9225 9232	retinol
+T281	Metabolite 9225 9232	retinol
+T282	Biological_Activity 9513 9520	binding
+T283	Chemical 9593 9597	zinc
+T284	Protein 9601 9604	ADH
+T285	Chemical 9625 9628	Glu
+T286	Protein 9635 9641	CRBPII
+T287	Chemical 9724 9728	zinc
+T288	Protein 9730 9733	ADH
+T289	Chemical 9738 9741	Glu
+T290	Protein 9746 9752	CRBPII
+T291	Chemical 9804 9811	retinol
+T292	Metabolite 9804 9811	retinol
+T294	Chemical 9998 10005	retinol
+T295	Metabolite 9998 10005	retinol
+T297	Protein 10015 10020	ADH1B
+T298	Chemical 10076 10081	water
+T299	Chemical 10123 10127	zinc
+T300	Chemical 10164 10171	retinol
+T301	Metabolite 10164 10171	retinol
+T302	Protein 10379 10384	ADH1B
+T303	Protein 10389 10393	ADH4
+T304	Chemical 10399 10402	NAD
+T305	Chemical 10404 10408	zinc
+T306	Chemical 10414 10417	Thr
+T307	Chemical 10452 10455	NAD
+T293	Chemical 10463 10470	retinol
+T296	Metabolite 10463 10470	retinol
+T308	Protein 10487 10491	zinc
+R63	Binds_With Arg1:T162 Arg2:T163	
+R64	Binds_With Arg1:T161 Arg2:T163	
+T309	Chemical 10495 10502	retinol
+T310	Metabolite 10495 10502	retinol
+T311	Chemical 10503 10517	hydroxyl group
+T312	Chemical 10523 10526	Thr
+T313	Chemical 10529 10543	hydroxyl group
+T314	Chemical 10547 10554	retinol
+T315	Metabolite 10547 10554	retinol
+T316	Chemical 10555 10569	hydroxyl group
+T317	Protein 10600 10606	CRBPII
+T318	Chemical 10621 10624	Glu
+T319	Chemical 10658 10661	Glu
+T320	Chemical 10665 10670	amide
+T321	Chemical 10680 10687	retinol
+T322	Metabolite 10680 10687	retinol
+T323	Chemical 10688 10702	hydroxyl group
+T324	Chemical 10782 10789	retinol
+T325	Metabolite 10782 10789	retinol
+T326	Protein 10842 10849	protein
+T327	Chemical 10949 10957	hydrogen
+T328	Metabolite 10985 10992	retinol
+T329	Chemical 10985 10992	retinol
+T330	Chemical 11138 11146	hydrogen
+T331	Protein 11160 11167	protein
+T332	Chemical 11330 11337	retinol
+T333	Metabolite 11330 11337	retinol
+T334	Protein 11418 11425	protein
+T335	Chemical 11863 11881	all-trans -retinol
+T336	Metabolite 11863 11881	all-trans -retinol
+T337	Chemical 11895 11902	retinol
+T338	Metabolite 11895 11902	retinol
+T339	Biological_Activity 11903 11910	binding
+T340	Protein 11895 11926	retinol-binding protein type II
+T341	Protein 11928 11939	holo-CRBPII
+T342	Chemical 12054 12072	all-trans -retinol
+T343	Metabolite 12054 12072	all-trans -retinol
+T344	Protein 12141 12147	CRBPII
+R65	Binds_With Arg1:T343 Arg2:T344	
+R66	Binds_With Arg1:T342 Arg2:T344	
+T345	Chemical 12208 12226	all-trans -retinol
+T346	Metabolite 12208 12226	all-trans -retinol
+T347	Protein 12289 12295	CRBPII
+T348	Chemical 12412 12430	all-trans -retinol
+T349	Metabolite 12412 12430	all-trans -retinol
+T350	Protein 12504 12510	CRBPII
+T351	Chemical 12623 12641	all-trans -retinol
+T352	Metabolite 12623 12641	all-trans -retinol
+T353	Protein 12796 12802	CRBPII
+T354	Chemical 12892 12906	9-cis -retinol
+T355	Metabolite 12892 12906	9-cis -retinol
+T356	Chemical 12908 12928	3,4-didehydroretinol
+T357	Metabolite 12908 12928	3,4-didehydroretinol
+T358	Chemical 12930 12943	4-oxo-retinol
+T359	Metabolite 12930 12943	4-oxo-retinol
+T360	Chemical 12949 12966	4-hydroxy-retinol
+T361	Metabolite 12949 12966	4-hydroxy-retinol
+T362	Chemical 13011 13029	all-trans -retinol
+T363	Metabolite 13011 13029	all-trans -retinol
+T364	Chemical 13105 13112	retinol
+T365	Metabolite 13105 13112	retinol
+T366	Chemical 13209 13219	amino acid
+T367	Chemical 13228 13231	Gln
+T368	Chemical 13348 13362	hydroxyl group
+T369	Chemical 13366 13384	all-trans -retinol
+T370	Metabolite 13366 13384	all-trans -retinol
+T371	Chemical 13404 13409	amide
+T372	Chemical 13419 13422	Gln
+T373	Protein 13429 13435	CRBPII
+T374	Protein 13501 13512	holo-CRBPII
+T375	Chemical 13570 13578	hydrogen
+T376	Biological_Activity 13612 13619	binding
+T377	Protein 13623 13634	holo-CRBPII
+T378	Chemical 13659 13677	all-trans -retinol
+T379	Metabolite 13659 13677	all-trans -retinol
+T380	Protein 13797 13808	holo-CRBPII
+T381	Chemical 13919 13933	9-cis -retinol
+T382	Metabolite 13919 13933	9-cis -retinol
+T383	Chemical 13941 13949	hydroxyl
+T384	Chemical 13950 13953	Gln
+T385	Chemical 13993 14001	hydrogen
+T386	Chemical 14057 14077	3,4-didehydroretinol
+T387	Metabolite 14057 14077	3,4-didehydroretinol
+T388	Chemical 14085 14093	hydroxyl
+T389	Chemical 14094 14097	Gln
+T390	Chemical 14150 14168	all-trans -retinol
+T391	Metabolite 14150 14168	all-trans -retinol
+T392	Chemical 14198 14212	9-cis -retinol
+T393	Metabolite 14198 14212	9-cis -retinol
+T394	Chemical 14298 14318	3,4-didehydroretinol
+T395	Metabolite 14298 14318	3,4-didehydroretinol
+T396	Chemical 14339 14357	all-trans -retinol
+T397	Metabolite 14339 14357	all-trans -retinol
+T398	Protein 14456 14462	CRBPII
+T399	Biological_Activity 14463 14470	binding
+T400	Biological_Activity 14566 14573	binding
+T212	Chemical 14606 14620	9-cis -retinol
+T401	Metabolite 14606 14620	9-cis -retinol
+T402	Biological_Activity 14639 14646	binding
+T403	Protein 14650 14656	CRBPII
+T404	Chemical 14665 14685	3,4-didehydroretinol
+T405	Metabolite 14665 14685	3,4-didehydroretinol
+T406	Biological_Activity 14691 14695	bind
+T407	Chemical 14726 14743	all-trans -retino
+T408	Metabolite 14726 14744	all-trans -retinol
+R55	Binds_With Arg1:T405 Arg2:T403	
+R56	Binds_With Arg1:T404 Arg2:T403	
+R67	Associated_With Arg1:T405 Arg2:T402	
+R68	Associated_With Arg1:T404 Arg2:T402	
+T409	Chemical 14763 14776	4-oxo-retinol
+T410	Metabolite 14763 14776	4-oxo-retinol
+T411	Chemical 14781 14798	4-hydroxy-retinol
+T412	Metabolite 14781 14798	4-hydroxy-retinol
+T413	Protein 14802 14808	CRBPII
+T414	Chemical 14821 14829	hydroxyl
+T415	Chemical 14830 14833	Gln
+T416	Chemical 14996 15002	oxygen
+T417	Chemical 15007 15015	retinols
+T418	Metabolite 15007 15015	retinols
+R69	Binds_With Arg1:T412 Arg2:T413	
+R70	Binds_With Arg1:T411 Arg2:T413	
+R71	Binds_With Arg1:T410 Arg2:T413	
+R72	Binds_With Arg1:T409 Arg2:T413	
+T419	Biological_Activity 15048 15055	binding
+T420	Protein 15065 15071	CRBPII
+T421	Chemical 15084 15097	4-oxo-retinol
+T422	Metabolite 15084 15097	4-oxo-retinol
+T423	Chemical 15101 15117	4-hydroxy-retino
+T424	Metabolite 15101 15118	4-hydroxy-retinol
+T425	Chemical 15180 15193	4-oxo-retinol
+T426	Metabolite 15180 15193	4-oxo-retinol
+T427	Chemical 15198 15216	4-hydroxy-retinol,
+T428	Metabolite 15198 15215	4-hydroxy-retinol
+T429	Chemical 15222 15240	all-trans -retinol
+T430	Metabolite 15222 15240	all-trans -retinol
+T431	Chemical 15245 15265	3,4-didehydroretinol
+T432	Metabolite 15245 15266	3,4-didehydroretinol,
+T433	Protein 15309 15315	CRBPII
+T434	Chemical 15333 15341	retinols
+T435	Metabolite 15333 15341	retinols
+T436	Species 15345 15350	human
+T437	Protein 15351 15356	ADH1B
+T438	Protein 15361 15365	ADH4
+T439	Protein 15431 15437	CRBPII
+T440	Chemical 15457 15475	all-trans -retinol
+T441	Metabolite 15457 15475	all-trans -retinol
+T442	Chemical 15477 15491	9-cis -retinol
+T443	Metabolite 15477 15491	9-cis -retinol
+T444	Chemical 15493 15513	3,4-didehydroretinol
+T445	Metabolite 15493 15513	3,4-didehydroretinol
+T446	Chemical 15515 15529	4-oxo-retinol,
+T447	Metabolite 15515 15528	4-oxo-retinol
+T448	Chemical 15534 15551	4-hydroxy-retinol
+T449	Metabolite 15534 15551	4-hydroxy-retinol
+T450	Protein 15581 15586	ADH1B
+T451	Species 15575 15580	human
+T452	Protein 15591 15595	ADH4
+T453	Spectral_Data 15674 15696	X-ray crystallographic
+T454	Protein 15708 15713	ADH1B
+T455	Protein 15760 15764	ADH4
+T456	Chemical 15912 15919	retinol
+T457	Metabolite 15912 15919	retinol
+T458	Chemical 16132 16136	zinc
+T459	Chemical 16181 16188	alcohol
+T460	Biological_Activity 16200 16205	bound
+T461	Chemical 16206 16209	NAD
+T462	Biological_Activity 16210 16218	coenzyme
+T463	Chemical 16239 16246	hydride
+T464	Chemical 16263 16270	alcohol
+T465	Chemical 16327 16334	retinol
+T466	Metabolite 16327 16334	retinol
+T467	Protein 16379 16384	ADH1B
+T468	Protein 16388 16392	ADH4
+T469	Chemical 16458 16462	zinc
+T470	Chemical 16481 16489	hydroxyl
+T471	Chemical 16490 16496	oxygen
+T472	Chemical 16498 16502	zinc
+T473	Chemical 16542 16545	NAD
+T474	Chemical 16587 16595	hydrogen
+T475	Chemical 16599 16602	NAD
+T476	Chemical 16610 16617	hydride
+T477	Chemical 16628 16631	NAD
+T478	Chemical 16701 16709	retinols
+T479	Metabolite 16701 16709	retinols
+T480	Protein 16803 16808	ADH1B
+T481	Protein 16813 16817	ADH4
+T482	Protein 16876 16882	enzyme
+T483	Chemical 16908 16912	zinc
+T484	Chemical 16956 16970	9-cis -retinol
+T485	Metabolite 16956 16970	9-cis -retinol
+T486	Chemical 16975 16995	3,4-didehydroretinol
+T487	Metabolite 16975 16995	3,4-didehydroretinol
+T488	Chemical 17038 17042	zinc
+T489	Protein 17046 17051	ADH1B
+T490	Chemical 17072 17076	zinc
+T491	Chemical 17130 17133	NAD
+T492	Chemical 17202 17209	retinol
+T493	Metabolite 17202 17209	retinol
+T494	Protein 17210 17213	ADH
+T495	Chemical 17283 17287	zinc
+T496	Chemical 17339 17342	NAD
+T497	Chemical 17433 17440	retinol
+T498	Metabolite 17433 17440	retinol
+T499	Chemical 17479 17486	hydride
+T500	Chemical 17517 17520	ADH
+T501	Chemical 17589 17593	zinc
+T502	Chemical 17639 17646	retinol
+T503	Metabolite 17639 17646	retinol
+T504	Protein 17647 17650	ADH
+T505	Chemical 17717 17721	zinc
+T506	Protein 17774 17780	enzyme
+T507	Protein 17871 17877	enzyme
+T508	Chemical 17915 17919	zinc
+T509	Protein 17970 17975	ADH1B
+T510	Protein 17980 17984	ADH4
+T511	Chemical 18065 18083	all-trans -retinol
+T512	Metabolite 18065 18083	all-trans -retinol
+T513	Protein 18098 18103	ADH1B
+R73	Binds_With Arg1:T512 Arg2:T513	
+R74	Binds_With Arg1:T511 Arg2:T513	
+T514	Chemical 18191 18195	zinc
+T515	Protein 18306 18310	ADH4
+T516	Chemical 18339 18353	9-cis -retinol
+T517	Metabolite 18339 18353	9-cis -retinol
+T518	Chemical 18426 18430	zinc
+T519	Protein 18434 18439	ADH1B
+T520	Chemical 18490 18504	9-cis -retinol
+T521	Metabolite 18490 18504	9-cis -retinol
+T522	Chemical 18530 18534	zinc
+T523	Protein 18538 18542	ADH4
+T524	Chemical 18588 18608	3,4-didehydroretinol
+T525	Metabolite 18588 18608	3,4-didehydroretinol
+T526	Chemical 18716 18720	zinc
+T527	Protein 18724 18729	ADH1B
+T528	Protein 18796 18800	ADH4
+T529	Chemical 18834 18847	4-oxo-retinol
+T530	Metabolite 18834 18847	4-oxo-retinol
+T531	Chemical 18852 18869	4-hydroxy-retinol
+T532	Metabolite 18852 18869	4-hydroxy-retinol
+T533	Protein 18939 18946	enzymes
+T534	Chemical 18990 18994	zinc
+T535	Chemical 19052 19060	retinols
+T536	Metabolite 19052 19060	retinols
+T537	Chemical 19087 19091	zinc
+T538	Chemical 19093 19096	NAD
+T539	Chemical 19102 19105	Thr
+T540	Chemical 19167 19174	retinol
+T541	Metabolite 19167 19174	retinol
+T542	Protein 19189 19194	ADH1B
+T543	Protein 19202 19206	ADH4
+T544	Chemical 19247 19251	zinc
+T545	Chemical 19256 19259	NAD
+T546	Chemical 19331 19345	hydroxyl group
+T547	Chemical 19350 19353	Thr
+T548	Chemical 19369 19377	hydrogen
+T549	Chemical 19412 19426	9-cis -retinol
+T550	Metabolite 19412 19426	9-cis -retinol
+T551	Chemical 19431 19451	3,4-didehydroretinol
+T552	Metabolite 19431 19451	3,4-didehydroretinol
+T553	Protein 19459 19464	ADH1B
+T554	Chemical 19543 19547	zinc
+T555	Chemical 19561 19564	NAD
+T556	Chemical 19582 19585	Thr
+T557	Chemical 19637 19651	hydroxyl group
+T558	Chemical 19674 19681	hydride
+T559	Chemical 19728 19731	NAD
+T560	Metabolite 19744 19758	9-cis -retinol
+T561	Chemical 19744 19757	9-cis -retino
+T562	Chemical 19763 19783	3,4-didehydroretinol
+T563	Metabolite 19763 19783	3,4-didehydroretinol
+T564	Protein 19791 19796	ADH1B
+T565	Chemical 19849 19856	alcohol
+T566	Chemical 19914 19918	zinc
+T567	Chemical 19932 19935	NAD
+T568	Chemical 19953 19956	Thr
+T569	Chemical 19995 20002	hydride
+T570	Protein 20156 20161	ADH1B
+T571	Protein 20166 20170	ADH4
+T572	Chemical 20208 20216	retinols
+T573	Metabolite 20208 20216	retinols
+T574	Protein 20266 20270	ADH4
+T575	Protein 20311 20316	ADH1B
+T576	Chemical 20368 20376	retinols
+T577	Metabolite 20368 20376	retinols
+T578	Chemical 20384 20397	4-oxo-retinol
+T579	Metabolite 20384 20397	4-oxo-retinol
+T580	Protein 20444 20448	ADH4
+T581	Protein 20461 20466	ADH1B
+T582	Chemical 20551 20569	all-trans -retinol
+T583	Metabolite 20551 20569	all-trans -retinol
+T584	Chemical 20571 20585	9-cis -retinol
+T585	Metabolite 20571 20585	9-cis -retinol
+T586	Chemical 20587 20607	3,4-didehydroretinol
+T587	Metabolite 20587 20607	3,4-didehydroretinol
+T588	Chemical 20613 20626	4-oxo-retinol
+T589	Metabolite 20613 20626	4-oxo-retinol
+T590	Chemical 20675 20688	4-oxo-retinol
+T591	Metabolite 20675 20688	4-oxo-retinol
+T592	Chemical 20693 20710	4-hydroxy-retinol
+T593	Metabolite 20693 20710	4-hydroxy-retinol
+T594	Protein 20792 20796	ADH4
+T595	Protein 20831 20836	ADH1B
+T596	Chemical 20896 20914	all-trans -retinol
+T597	Metabolite 20896 20914	all-trans -retinol
+T598	Chemical 20919 20932	4-oxo-retinol
+T599	Metabolite 20919 20932	4-oxo-retinol
+T600	Protein 20958 20963	ADH1B
+T601	Chemical 20974 20978	zinc
+T602	Chemical 20983 20986	NAD
+T603	Chemical 20998 21001	Thr
+T604	Chemical 21013 21021	hydrogen
+T605	Chemical 21046 21054	hydroxyl
+T606	Chemical 21082 21096	9-cis -retinol
+T607	Metabolite 21082 21096	9-cis -retinol
+T608	Chemical 21101 21121	3,4-didehydroretinol
+T609	Metabolite 21101 21121	3,4-didehydroretinol
+T610	Protein 21145 21150	ADH1B
+T611	Chemical 21171 21175	zinc
+T612	Chemical 21177 21180	NAD
+T613	Chemical 21186 21189	Thr
+T614	Protein 21258 21262	ADH4
+T615	Chemical 21314 21321	retinol
+T616	Metabolite 21314 21321	retinol
+T617	Chemical 21363 21367	zinc
+T618	Chemical 21369 21372	NAD
+T619	Chemical 21378 21381	Thr
+T620	Protein 21403 21407	ADH4
+T621	Chemical 21429 21436	retinol
+T622	Metabolite 21429 21436	retinol
+T623	Protein 21455 21460	ADH1B
+T624	Chemical 21528 21536	retinols
+T625	Metabolite 21528 21536	retinols
+T626	Protein 21544 21548	ADH4
+T627	Protein 21577 21582	ADH1B
+T628	Chemical 21622 21636	9-cis -retinol
+T629	Metabolite 21622 21636	9-cis -retinol
+T630	Chemical 21641 21661	3,4-didehydroretinol
+T631	Metabolite 21641 21661	3,4-didehydroretinol
+T632	Chemical 21696 21700	zinc
+T633	Protein 21709 21713	ADH4
+T634	Protein 21729 21733	ADH4
+T635	Biological_Activity 21760 21767	binding
+T636	Chemical 21776 21784	retinols
+T637	Metabolite 21776 21784	retinols
+T638	Biological_Activity 21816 21825	enzymatic
+R75	Binds_With Arg1:T449 Arg2:T452	
+R76	Binds_With Arg1:T448 Arg2:T452	
+R77	Binds_With Arg1:T447 Arg2:T452	
+R78	Binds_With Arg1:T446 Arg2:T452	
+R79	Binds_With Arg1:T445 Arg2:T452	
+R80	Binds_With Arg1:T444 Arg2:T452	
+R81	Binds_With Arg1:T443 Arg2:T452	
+R82	Binds_With Arg1:T442 Arg2:T452	
+R83	Binds_With Arg1:T441 Arg2:T452	
+R84	Binds_With Arg1:T440 Arg2:T452	
+T639	Chemical 21859 21877	all-trans -retinol
+T640	Metabolite 21859 21877	all-trans -retinol
+T641	Species 21916 21921	human
+T642	Protein 21922 21926	ADH4
+T643	Species 21959 21964	human
+T644	Protein 21965 21970	ADH1B
+T645	Species 22085 22090	human
+T646	Protein 22091 22096	ADH1B
+T647	Protein 22067 22096	β2 β2  variant of human ADH1B
+T648	Chemical 22139 22148	histidine
+T649	Chemical 22175 22183	arginine
+T650	Chemical 22238 22245	retinol
+T651	Metabolite 22238 22245	retinol
+T652	Protein 22310 22314	ADH4
+R85	Binds_With Arg1:T441 Arg2:T450	
+R86	Binds_With Arg1:T440 Arg2:T450	
+T653	Protein 22493 22497	ADH4
+T654	Protein 22523 22536	β2 β2  varian
+T655	Protein 22117 22122	β1 β1
+T656	Protein 22389 22394	β2 β2
+T657	Chemical 22557 22564	retinol
+T658	Metabolite 22557 22564	retinol
+T659	Protein 22584 22598	β1 β1  variant
+T660	Biological_Activity 22630 22637	binding
+T661	Chemical 22641 22644	NAD
+T662	Protein 22648 22653	β2 β2
+R89	Associated_With Arg1:T661 Arg2:T660	
+R90	Binds_With Arg1:T661 Arg2:T662	
+T663	Biological_Activity 22721 22729	coenzyme
+T664	Protein 22793 22796	ADH
+T665	Chemical 22805 22812	retinol
+T666	Metabolite 22805 22812	retinol
+T667	Chemical 22951 22954	Thr
+T668	Protein 22958 22964	Enzyme
+T669	Biological_Activity 22958 22964	Enzyme
+T670	Chemical 22986 23000	9-cis -retinol
+T671	Metabolite 22986 23000	9-cis -retinol
+T672	Chemical 23005 23019	9-cis -retinal
+T673	Metabolite 23005 23019	9-cis -retinal
+T674	Species 23036 23041	human
+T675	Protein 23042 23046	ADH4
+T676	Species 23159 23164	human
+T677	Protein 23165 23170	ADH1B
+T678	Chemical 23208 23222	9-cis -retinal
+T679	Metabolite 23208 23222	9-cis -retinal
+T680	Chemical 23330 23344	9-cis -retinol
+T681	Metabolite 23330 23344	9-cis -retinol
+T682	Chemical 23349 23369	3,4-didehydroretinol
+T683	Metabolite 23349 23369	3,4-didehydroretinol
+T684	Protein 23411 23415	ADH4
+T685	Protein 23429 23434	ADH1B
+R87	Binds_With Arg1:T447 Arg2:T450	
+R88	Binds_With Arg1:T447 Arg2:T450	
+R91	Binds_With Arg1:T449 Arg2:T450	
+R92	Binds_With Arg1:T448 Arg2:T450	
+T686	Chemical 23468 23481	4-oxo-retinol
+T687	Metabolite 23468 23481	4-oxo-retinol
+T688	Chemical 23486 23503	4-hydroxy-retinol
+T689	Metabolite 23486 23503	4-hydroxy-retinol
+T690	Protein 23540 23547	enzymes
+T691	Protein 23553 23557	ADH4
+T692	Chemical 23619 23637	all-trans -retinol
+T693	Metabolite 23619 23638	all-trans -retinol.
+T694	Chemical 23666 23680	9-cis -retinol
+T695	Metabolite 23666 23680	9-cis -retinol
+T696	Chemical 23685 23705	3,4-didehydroretinol
+T697	Metabolite 23685 23705	3,4-didehydroretinol
+T698	Protein 23785 23790	ADH1B
+T699	Chemical 23819 23835	9-cis -retinoids
+T700	Metabolite 23819 23835	9-cis -retinoids
+T701	Chemical 23989 24004	carboxylic acid
+T702	Biological_Activity 24014 24018	bind
+T703	Protein 24022 24042	retinoid X receptors
+T704	Chemical 24022 24030	retinoid
+T705	Metabolite 24022 24030	retinoid
+T706	Chemical 24079 24099	9-cis -retinoic acid
+T707	Metabolite 24079 24099	9-cis -retinoic acid
+T708	Chemical 24105 24129	all-trans -retinoic acid
+T709	Metabolite 24105 24129	all-trans -retinoic acid
+R93	Binds_With Arg1:T707 Arg2:T703	
+R94	Binds_With Arg1:T706 Arg2:T703	
+R95	Associated_With Arg1:T707 Arg2:T702	
+R96	Associated_With Arg1:T706 Arg2:T702	
+T710	Protein 24172 24177	ADH1B
+T711	Chemical 24200 24207;24225 24233	trans    retinol
+T712	Chemical 24221 24233	cis  retinol
+T713	Metabolite 24200 24205;24225 24232	trans  retino
+T714	Metabolite 24221 24233	cis  retinol
+R97	Binds_With Arg1:T713 Arg2:T710	
+R98	Binds_With Arg1:T711 Arg2:T710	
+T715	Chemical 24263 24277	9-cis -retinol
+T716	Metabolite 24263 24277	9-cis -retinol
+T717	Protein 24291 24296	ADH1B
+T718	Chemical 24352 24364	methyl group
+T719	Protein 24408 24412	ADH4
+T720	Protein 24448 24453	ADH1B
+T721	Chemical 24473 24476	Gly
+T722	Chemical 24500 24503	Leu
+T723	Chemical 24508 24511	Tyr
+T724	Chemical 24564 24576	methyl group
+T725	Chemical 24580 24594	9-cis -retinol
+T726	Metabolite 24580 24594	9-cis -retinol
+T727	Chemical 24633 24653	3,4-didehydroretinol
+T728	Metabolite 24633 24653	3,4-didehydroretinol
+T729	Protein 24673 24678	ADH1B
+T730	Chemical 24787 24807	3,4-didehydroretinol
+T731	Metabolite 24787 24807	3,4-didehydroretinol
+T732	Chemical 24912 24924	methyl group
+T733	Protein 24978 24983	ADH1B
+T734	Protein 25051 25055	ADH4
+T735	Chemical 25101 25108	retinol
+T736	Metabolite 25101 25108	retinol
+T737	Protein 25223 25234	holo-CRBPII
+T738	Protein 25279 25285	CRBPII
+T739	Chemical 25290 25308	all-trans -retinol
+T740	Metabolite 25290 25309	all-trans -retinol,
+T741	Chemical 25310 25325	9-cis -retinol,
+T742	Metabolite 25310 25324	9-cis -retinol
+T743	Chemical 25330 25350	3,4-didehydroretinol
+T744	Metabolite 25330 25350	3,4-didehydroretinol
+T745	Biological_Activity 25371 25380	enzymatic
+T746	Protein 25395 25400	ADH1B
+T747	Protein 25405 25409	ADH4
+T748	Chemical 25414 25432	all-trans -retinol
+T749	Metabolite 25414 25432	all-trans -retinol
+T750	Chemical 25437 25451	9-cis -retinol
+T751	Metabolite 25437 25451	9-cis -retinol
+T752	Biological_Activity 25257 25264	binding
+T753	Protein 25531 25536	ADH1B
+T754	Protein 25541 25545	ADH4
+T755	Protein 25572 25576	ADH4
+T756	Chemical 25612 25631	all-trans -retinol,
+T757	Metabolite 25612 25630	all-trans -retinol
+T758	Biological_Activity 25607 25611	bind
+T759	Chemical 25632 25646	9-cis -retinol
+T760	Metabolite 25632 25646	9-cis -retinol
+T761	Chemical 25648 25668	3,4-didehydroretinol
+T762	Metabolite 25648 25668	3,4-didehydroretinol
+T763	Chemical 25670 25683	4-oxo-retinol
+T764	Metabolite 25670 25683	4-oxo-retinol
+T765	Chemical 25689 25706	4-hydroxy-retinol
+T766	Metabolite 25689 25706	4-hydroxy-retinol
+T767	Protein 25716 25721	ADH1B
+T768	Chemical 25785 25803	all-trans -retinol
+T769	Metabolite 25785 25803	all-trans -retinol
+T770	Chemical 25805 25818	4-oxo-retinol
+T771	Metabolite 25805 25818	4-oxo-retinol
+T772	Chemical 25824 25841	4-hydroxy-retinol
+T773	Metabolite 25824 25841	4-hydroxy-retinol
+T774	Protein 25877 25881	ADH4
+T775	Protein 25902 25906	ADH4
+T776	Biological_Activity 25933 25943	metabolism
+T777	Chemical 25974 25981	retinol
+T778	Metabolite 25974 25981	retinol
+T779	Protein 26033 26050	retinoid receptor
+T780	Chemical 26059 26083	all-trans -retinoic acid
+T781	Chemical 26085 26105	9-cis -retinoic acid
+T782	Metabolite 26059 26083	all-trans -retinoic acid
+T783	Metabolite 26085 26105	9-cis -retinoic acid
+T784	Chemical 26107 26133	3,4-didehydroretinoic acid
+T785	Metabolite 26107 26133	3,4-didehydroretinoic acid
+T786	Chemical 26135 26154	4-oxo-retinoic acid
+T787	Metabolite 26135 26155	4-oxo-retinoic acid,
+T788	Chemical 26160 26183	4-hydroxy-retinoic acid
+T789	Metabolite 26160 26183	4-hydroxy-retinoic acid
+T790	Protein 26217 26222	ADH1B
+R99	Binds_With Arg1:T780 Arg2:T779	
+R100	Binds_With Arg1:T782 Arg2:T779	
+R101	Binds_With Arg1:T783 Arg2:T779	
+R102	Binds_With Arg1:T781 Arg2:T779	
+R103	Binds_With Arg1:T785 Arg2:T779	
+R104	Binds_With Arg1:T784 Arg2:T779	
+R105	Binds_With Arg1:T787 Arg2:T779	
+R106	Binds_With Arg1:T786 Arg2:T779	
+R107	Binds_With Arg1:T789 Arg2:T779	
+R108	Binds_With Arg1:T788 Arg2:T779	
+T791	Biological_Activity 26261 26271	metabolism
+T792	Chemical 26275 26288	9-cis -retino
+T793	Metabolite 26275 26289	9-cis -retinol
+T794	Chemical 26293 26313	3,4-didehydroretinol
+T795	Metabolite 26293 26313	3,4-didehydroretinol
+T796	Protein 26329 26335	enzyme
+T797	Biological_Activity 26373 26383	metabolism
+T798	Chemical 26387 26401	4-oxo-retinol,
+T799	Metabolite 26387 26400	4-oxo-retinol
+T800	Chemical 26402 26419	4-hydroxy-retinol
+T801	Metabolite 26402 26419	4-hydroxy-retinol
+T802	Chemical 26444 26462	all-trans -retinol
+T803	Metabolite 26444 26462	all-trans -retinol
+T804	Protein 26479 26484	ADH1B
+T805	Protein 26489 26493	ADH4
+T806	Chemical 26530 26537	retinol
+T807	Metabolite 26530 26537	retinol
+T808	Protein 26602 26605	ADH
+T809	Chemical 26652 26660	retinoid
+T810	Metabolite 26652 26660	retinoid
+T811	Biological_Activity 26661 26670	signaling

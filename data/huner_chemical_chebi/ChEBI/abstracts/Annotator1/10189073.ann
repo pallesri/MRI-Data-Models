@@ -1,0 +1,69 @@
+T1	Chemical 0 18	Lysine clonixinate
+T2	Chemical 20 22	LC
+T3	Biological_Activity 37 53	antiinflammatory
+T4	Biological_Activity 54 65	antipyretic
+T5	Biological_Activity 70 79	analgesic
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T3	
+R3	Associated_With Arg1:T1 Arg2:T4	
+R4	Associated_With Arg1:T2 Arg2:T4	
+R5	Associated_With Arg1:T1 Arg2:T5	
+R7	Associated_With Arg1:T2 Arg2:T5	
+T7	Chemical 168 170	LC
+T8	Protein 190 195	COX-1
+T9	Biological_Activity 196 205	inhibitor
+T10	Protein 259 273	cyclooxygenase
+T11	Biological_Activity 249 258	inhibited
+T12	Chemical 288 290	LC
+T13	Chemical 294 306	indomethacin
+T14	Chemical 308 312	INDO
+T16	Species 317 320	rat
+T17	Species 352 356	rats
+R9	Associated_With Arg1:T13 Arg2:T11	
+R10	Associated_With Arg1:T14 Arg2:T11	
+T18	Species 413 416	Rat
+T19	Chemical 450 470	14C-arachidonic acid
+T20	Chemical 454 470	arachidonic acid
+T21	Chemical 489 493	PGE2
+T22	Metabolite 489 493	PGE2
+R13	Metabolite_Of Arg1:T22 Arg2:T20	
+R14	Isolated_From Arg1:T22 Arg2:T18	
+T23	Chemical 495 497	LC
+T24	Chemical 564 568	PGE2
+T25	Metabolite 564 568	PGE2
+T26	Protein 579 584	COX-1
+T27	Chemical 632 636	PGE2
+T29	Chemical 710 714	INDO
+T31	Species 794 798	rats
+T34	Chemical 370 387	lipopolysacharide
+T35	Chemical 389 392	LPS
+T36	Chemical 782 785	LPS
+T37	Protein 916 921	COX-2
+T38	Chemical 939 941	LC
+T39	Chemical 1000 1004	PGE2
+T40	Biological_Activity 1005 1015	inhibiting
+T41	Protein 1036 1041	COX-2
+T42	Chemical 1052 1054	LC
+T43	Chemical 1101 1105	INDO
+T44	Chemical 1125 1129	PGE2
+T45	Protein 1140 1145	COX-2
+T46	Protein 1165 1170	COX-1
+T48	Biological_Activity 1115 1124	inhibited
+R21	Associated_With Arg1:T42 Arg2:T48	
+R22	Associated_With Arg1:T43 Arg2:T48	
+R23	Associated_With Arg1:T7 Arg2:T9	
+T50	Species 407 411	rats
+T52	Species 877 881	rats
+T6	Chemical 759 763	PGE2
+T28	Metabolite 759 763	PGE2
+T30	Chemical 818 822	PGE2
+T32	Metabolite 818 822	PGE2
+R8	Binds_With Arg1:T7 Arg2:T8	
+R16	Binds_With Arg1:T13 Arg2:T10	
+R17	Binds_With Arg1:T12 Arg2:T10	
+R18	Binds_With Arg1:T14 Arg2:T10	
+R6	Binds_With Arg1:T43 Arg2:T45	
+R11	Binds_With Arg1:T43 Arg2:T46	
+R12	Binds_With Arg1:T42 Arg2:T45	
+R15	Binds_With Arg1:T42 Arg2:T46	
+T15	Biological_Activity 259 273	cyclooxygenase

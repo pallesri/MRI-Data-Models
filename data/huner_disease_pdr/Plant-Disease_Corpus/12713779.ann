@@ -1,0 +1,20 @@
+T1	Disease 14 41	abdominal aortic dilatation
+T2	Disease 88 125	infra-renal abdominal aortic aneurysm
+T3	Disease 127 130	AAA
+T4	Disease 247 256	aneurysms
+T5	Disease 282 285	AAA
+T6	Disease 400 403	AAA
+T7	Disease 664 673	aneurysms
+T8	Disease 792 804	hypertension
+T9	Disease 910 925	iliac aneurysms
+T10	Disease 998 1007	aneurysms
+T11	Disease 1086 1111	abdominal aortic aneurysm
+T12	Disease 1133 1145	hypertension
+T13	Disease 1211 1220	aneurysms
+T14	Disease 1281 1297	aneurysm rupture
+T15	Plant 772 779	tobacco
+T16	Plant 1113 1120	Tobacco
+T17	Cause_of_disease 756 766	associated
+E1	Cause_of_disease:T17 Cause:T15 Theme:T8
+T18	Cause_of_disease 1170 1180	associated
+E2	Cause_of_disease:T18 Theme:T12 Cause:T16

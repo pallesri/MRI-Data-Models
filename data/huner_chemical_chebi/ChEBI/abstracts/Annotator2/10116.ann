@@ -1,0 +1,24 @@
+T2	Chemical 37 49	bromvaletone
+T3	Chemical 51 60	carbromal
+T4	Species 106 110	mice
+T5	Chemical 69 88	non-bromo analogues
+#1	AnnotatorNotes T5	Chemical class
+T8	Chemical 230 245	bromo compounds
+T9	Chemical 254 285	chloro analogue of bromvaletone
+T11	Chemical 373 380	octanol
+T12	Chemical 381 386	water
+T13	Chemical 489 498	acylureas
+#2	AnnotatorNotes T13	Chemical class
+T7	Chemical 119 151	chloro analogues of bromvaletone
+T14	Chemical 119 138;156 165	chloro analogues of carbromal
+T15	Chemical 156 165	carbromal
+T16	Chemical 139 151	bromvaletone
+T1	Biological_Activity 15 25	depressant
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T3 Arg2:T1	
+T6	Biological_Activity 203 213	depressant
+R3	Associated_With Arg1:T15 Arg2:T6	
+R4	Associated_With Arg1:T14 Arg2:T6	
+R5	Associated_With Arg1:T16 Arg2:T6	
+R6	Associated_With Arg1:T7 Arg2:T6	
+T10	Biological_Activity 326 336	depressant

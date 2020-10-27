@@ -1,0 +1,74 @@
+T1	Chemical 30 52	tetrahydroswertianolin
+T2	Chemical 54 57	THS
+T3	Biological_Activity 62 78	hepatoprotective
+T4	Species 90 106	Swertia japonica
+T5	Protein 111 138	tumor necrosis factor-alpha
+T6	Protein 140 149	TNF-alpha
+T7	Biological_Activity 169 178	apoptosis
+T9	Chemical 190 205	D-galactosamine
+T10	Chemical 207 213	D-GalN
+T11	Chemical 237 255	lipopolysaccharide
+T12	Species 286 290	mice
+T13	Biological_Activity 292 301	Apoptotic
+T16	Species 465 469	mice
+T17	Protein 524 544	alanine transaminase
+T18	Protein 546 549	ALT
+T21	Protein 705 710	ALT  
+T23	Chemical 760 763	THS
+T25	Species 887 891	mice
+T28	Chemical 1072 1075	THS
+T29	Chemical 1107 1110	THS
+T30	Chemical 1169 1181	glycyrrhizin
+T31	Chemical 1183 1186	GCR
+T32	Biological_Activity 1216 1232	hepatoprotective
+R4	Associated_With Arg1:T30 Arg2:T32	
+R5	Associated_With Arg1:T31 Arg2:T32	
+T34	Chemical 1275 1278	GCR
+T37	Biological_Activity 1541 1550	apoptosis
+T38	Biological_Activity 1596 1612	hepatoprotective
+T39	Chemical 1627 1630	THS
+R10	Associated_With Arg1:T39 Arg2:T38	
+T40	Chemical 1656 1659	GCR
+R11	Associated_With Arg1:T40 Arg2:T38	
+T41	Biological_Activity 1688 1697	apoptosis
+T42	Protein 1766 1775	TNF-alpha
+T43	Species 1826 1830	mice
+T44	Chemical 1836 1842	D-GalN
+T45	Chemical 1847 1850	LPS
+T46	Chemical 1888 1891	THS
+T47	Protein 1996 2028	reverse transcriptase-polymerase
+T48	Chemical 2063 2066	THS
+T49	Biological_Activity 2067 2074	blocked
+R12	Associated_With Arg1:T48 Arg2:T49	
+T50	Protein 2075 2084	TNF-alpha
+T51	Protein 2134 2143	TNF-alpha
+T52	Biological_Activity 2177 2186	apoptosis
+T53	Protein 2230 2239	TNF-alpha
+T54	Biological_Activity 2218 2229	suppressing
+T55	Chemical 2283 2286	THS
+T56	Biological_Activity 2287 2297	inhibition
+R13	Associated_With Arg1:T55 Arg2:T56	
+R14	Associated_With Arg1:T55 Arg2:T54	
+R18	Associated_With Arg1:T11 Arg2:T7	
+R15	Associated_With Arg1:T10 Arg2:T7	
+R16	Associated_With Arg1:T9 Arg2:T7	
+T60	Protein 1028 1031	ALT
+T61	Species 1372 1376	mice
+T62	Protein 1440 1443	ALT
+T8	Biological_Activity 1493 1503	inhibitory
+R1	Associated_With Arg1:T39 Arg2:T8	
+T14	Biological_Activity 2309 2318	apoptosis
+T15	Biological_Activity 532 544	transaminase
+T19	Metabolite 30 52	tetrahydroswertianolin
+T20	Metabolite 54 57	THS
+R2	Isolated_From Arg1:T20 Arg2:T4	
+R3	Isolated_From Arg1:T19 Arg2:T4	
+R6	Associated_With Arg1:T19 Arg2:T3	
+R7	Associated_With Arg1:T1 Arg2:T3	
+R8	Associated_With Arg1:T20 Arg2:T3	
+R9	Associated_With Arg1:T2 Arg2:T3	
+T22	Chemical 257 260	LPS
+R17	Associated_With Arg1:T22 Arg2:T7	
+T24	Biological_Activity 1318 1325	inhibit
+T26	Biological_Activity 1416 1425	protected
+R19	Associated_With Arg1:T34 Arg2:T26	

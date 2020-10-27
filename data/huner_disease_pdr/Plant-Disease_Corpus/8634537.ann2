@@ -1,0 +1,10 @@
+T1	Disease 443 463	Animal mycotoxicoses
+T2	Disease 523 528	edema
+T3	Disease 1226 1243	esophageal cancer
+T4	Plant 388 392	corn
+T5	Plant 397 401	corn
+T6	Plant 708 712	corn
+T7	Plant 1012 1016	corn
+T8	Plant 1142 1146	corn
+T10	Cause_of_disease 1213 1222	incidence
+E2	Cause_of_disease:T10 Theme:T3 Cause:T8

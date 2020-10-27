@@ -1,0 +1,26 @@
+T1	Chemical 0 9	Nigericin
+T2	Biological_Activity 16 25	ionophore
+R1	Associated_With Arg1:T1 Arg2:T2	
+T4	Chemical 185 194	nigericin
+T8	Chemical 339 386	2', 7'-bis(carboxyethyl)-5,6-carboxyfluorescein
+T3	Chemical 388 393	BCECF
+T5	Species 424 427	rat
+T9	Chemical 451 460	Nigericin
+T10	Chemical 502 506	acid
+T11	Chemical 574 577	Na+
+T12	Chemical 599 603	acid
+T13	Chemical 673 675	K+
+T14	Chemical 691 695	acid
+T15	Chemical 756 760	acid
+T16	Chemical 792 794	Na
+T17	Chemical 795 796	H
+T18	Chemical 811 834	ethylisopropylamiloride
+T19	Chemical 836 840	EIPA
+T20	Chemical 905 907	Na
+T21	Chemical 908 909	H
+T22	Chemical 969 973	acid
+T23	Chemical 999 1003	acid
+T24	Chemical 1014 1023	Nigericin
+T25	Chemical 1104 1113	nigericin
+T26	Chemical 1167 1174	ethanol
+T27	Chemical 1179 1184	water

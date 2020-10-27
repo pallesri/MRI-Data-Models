@@ -1,0 +1,384 @@
+T1	Biological_Activity 66 82	chemotherapeutic
+T2	Chemical 66 89	chemotherapeutic agents
+T3	Chemical 118 123	drugs
+T4	Biological_Activity 130 141	anti-emetic
+R1	Associated_With Arg1:T3 Arg2:T4	
+T5	Biological_Activity 205 216	anti-emetic
+T6	Chemical 250 255	drugs
+T7	Biological_Activity 354 365	anti-emetic
+T8	Chemical 379 396	natural prod­ucts
+T9	Metabolite 379 396	natural prod­ucts
+T10	Species 426 432	animal
+T11	Biological_Activity 465 476	anti-emetic
+T12	Species 493 509	Magnolia obovata
+T13	Species 516 535	Zingiber officinale
+T14	Species 567 586	Inula linariaefolia
+T15	Species 599 617	Forsythia suspensa
+T16	Species 655 666	Poria cocos
+T17	Species 693 698	frogs
+T18	Biological_Activity 727 733	emetic
+T19	Species 745 750	frogs
+T20	Biological_Activity 766 772	emetic
+T21	Chemical 766 778	emetic agent
+T22	Species 904 910	chicks
+T23	Biological_Activity 915 926	anti-emetic
+T24	Chemical 1084 1089	drugs
+T25	Biological_Activity 1094 1105	anti­emetic
+T26	Species 1131 1137	chicks
+T27	Species 1209 1242	Po­gostemon cablin (Blanco) Benth
+T28	Species 1293 1298	plant
+T29	Species 1344 1362	Alpinia katsumadai
+T30	Species 1370 1390	Alpinia officina­rum
+T31	Species 1400 1415	Amomum  kravanh
+T32	Species 1424 1438	Amomum tsao-ko
+T33	Species 1447 1465	Amomum xanthioides
+T34	Species 1474 1494	Eupato­rium fortunei
+T35	Species 1516 1532	Nelumbo nucifera
+T36	Species 1608 1625	Pogostemon cab/in
+T37	Spectral_Data 1733 1735;1742 1753	lH -NMRspectra
+T38	Spectral_Data 1739 1753	13C-NMRspectra
+T39	Chemical 1801 1806	CDCl3
+T40	Chemical 1810 1817	DMSO-d6
+T41	Chemical 1823 1841	tet­ramethylsilane
+T42	Chemical 1868 1885	Kieselgel 60 F254
+T43	Chemical 2008 2018	silica gel
+T44	Spectral_Data 2106 2111	HR-MS
+T45	Spectral_Data 2116 2121	EI-MS
+T46	Species 2217 2224	Animals
+T47	Chemical 2272 2278	copper
+T48	Species 2296 2302	chicks
+T49	Biological_Activity 2475 2481	emetic
+T50	Biological_Activity 2634 2645	anti-emetic
+T51	Species 2719 2725	chicks
+T52	Biological_Activity 2765 2775	inhibition
+T53	Species 2843 2848	chick
+T54	Biological_Activity 2919 2929	Inhibition
+T55	Chemical 2981 2987	saline
+T56	Chemical 3037 3041	DMSO
+T57	Chemical 3050 3058	Tween 80
+T58	Chemical 3194 3207	coppersulfate
+T59	Species 3228 3234	chicks
+T60	Chemical 3244 3249	drugs
+T61	Species 3272 3278	chicks
+T62	Biological_Activity 3295 3305	Inhibition
+T63	Species 3354 3371	Pogostemon cab/in
+T64	Chemical 3373 3381	n-hexane
+T65	Chemical 3405 3410	CHCl3
+T66	Chemical 3432 3436	MeOH
+T67	Species 3484 3502	Alpinia katsumadai
+T68	Chemical 3504 3512	n-hexane
+T69	Chemical 3533 3538	CHCl3
+T70	Chemical 3562 3566	MeOH
+T71	Chemical 3590 3593	H2O
+T72	Species 3640 3654	Amomum tsao-ko
+T73	Chemical 3656 3664	n-hexane
+T74	Chemical 3683 3688	CHCl3
+T75	Chemical 3708 3712	MeOH
+T76	Chemical 3735 3738	H2O
+T77	Species 3785 3799	Amomum kravanh
+T78	Chemical 3801 3809	n-hexane
+T79	Chemical 3829 3834	CHCl3
+T80	Chemical 3856 3860	MeOH
+T81	Chemical 3879 3882	H2O
+T82	Species 3929 3947	Amomum xanthioides
+T83	Chemical 3949 3957	n-hexane
+T84	Chemical 3978 3983	CHCI3
+T85	Chemical 4007 4011	MeOH
+T86	Chemical 4032 4035	H2O
+T87	Species 4083 4101	Eupatorium [ortune
+T88	Chemical 4104 4112	n-hexane
+T89	Chemical 4132 4137	CHCI3
+T90	Chemical 4157 4161	MeOH
+T91	Chemical 4185 4188	H2O
+T92	Species 4233 4249	Nelumbo nucifera
+T93	Chemical 4250 4258	n-hexane
+T94	Chemical 4278 4283	CHCl3
+T95	Chemical 4304 4308	MeOH
+T96	Chemical 4328 4331	H2O
+T97	Species 4378 4397	Alpinia officinarum
+T98	Chemical 4399 4407	n-hexane
+T99	Chemical 4455 4459	MeOH
+T100	Chemical 4480 4483	H2O
+T101	Biological_Activity 4608 4614	emesis
+T102	Species 4624 4630	chicks
+T103	Species 4662 4668	chicks
+T104	Chemical 4636 4641	Drugs
+T105	Biological_Activity 5232 5243	Anti-emetic
+T106	Chemical 5277 5284	sulfate
+T107	Species 5309 5315	chicks
+T108	Species 5344 5350	chicks
+T109	Chemical 5432 5449	patchouli alcohol
+T110	Metabolite 5432 5449	patchouli alcohol
+T111	Chemical 5451 5452	1
+T112	Metabolite 5451 5452	1
+T113	Chemical 5584 5592	pogostol
+T114	Metabolite 5584 5592	pogostol
+T115	Chemical 5594 5595	2
+T116	Metabolite 5594 5595	2
+T117	Chemical 5698 5712;5734 5739	stigmast-4-en- 3-one
+T118	Metabolite 5698 5712;5734 5739	stigmast-4-en- 3-one
+T119	Chemical 5826 5833	retusin
+T120	Metabolite 5826 5833	retusin
+T121	Chemical 5835 5836	4
+T122	Metabolite 5835 5836	4
+T123	Chemical 5939 5949	pachypodol
+T124	Metabolite 5939 5949	pachypodol
+T125	Chemical 5951 5952	5
+T126	Metabolite 5951 5952	5
+T127	Chemical 6165 6173	n-hexane
+T128	Chemical 6175 6180	CHCI3
+T129	Chemical 6182 6186	MeOH
+T130	Chemical 6242 6247	water
+T131	Species 6441 6458	Pogostemon cablin
+T132	Species 6509 6526	Pogostemon cablin
+T133	Chemical 6612 6620	n-hexane
+T134	Chemical 6621 6626	CHCI3
+T135	Chemical 6656 6664	n-hexane
+T136	Chemical 6665 6670	CHCI3
+T137	Chemical 6671 6675	MeOH
+T138	Chemical 6676 6680	MeOH
+T139	Biological_Activity 6711 6722	anti-emetic
+T140	Chemical 6727 6732	water
+T141	Species 6798 6804	chicks
+T142	Chemical 6810 6818	n-hexane
+T143	Chemical 6847 6864	patchouli alcohol
+T144	Metabolite 6847 6864	patchouli alcohol
+T145	Chemical 6865 6866	1
+T146	Metabolite 6865 6866	1
+T147	Chemical 6868 6876	pogostol
+T148	Metabolite 6868 6876	pogostol
+T149	Chemical 6878 6879	2
+T150	Metabolite 6878 6879	2
+T151	Chemical 6883 6901	sigmast-4-en-3-one
+T152	Metabolite 6883 6901	sigmast-4-en-3-one
+T153	Chemical 6903 6904	3
+T154	Metabolite 6903 6904	3
+T155	Chemical 6952 6962	pachypodol
+T156	Metabolite 6952 6962	pachypodol
+T157	Chemical 6964 6965	5
+T158	Metabolite 6964 6965	5
+T159	Chemical 6972 6978	etusin
+T160	Metabolite 6971 6978	retusin
+T161	Chemical 6979 6980	4
+T162	Metabolite 6979 6980	4
+T163	Species 7039 7062	Pogostemon cab/in Benth
+T164	Biological_Activity 7090 7101	anti-emetic
+T165	Chemical 7145 7155	silica gel
+T166	Chemical 7164 7173	n-hex­ane
+T167	Chemical 7175 7180	EtOAc
+T168	Biological_Activity 7250 7261	anti-emetic
+T169	Chemical 7374 7384	silica gel
+T170	Chemical 7394 7400	Silica
+T171	Chemical 7423 7431	n-Hexane
+T172	Chemical 7432 7437	EtOAc
+T173	Chemical 7451 7461	compound 1
+T174	Metabolite 7451 7461	compound 1
+T175	Chemical 7502 7519	patchouli alcohol
+T176	Metabolite 7502 7519	patchouli alcohol
+R2	Isolated_From Arg1:T144 Arg2:T163	
+R3	Isolated_From Arg1:T146 Arg2:T163	
+R4	Associated_With Arg1:T144 Arg2:T164	
+R5	Associated_With Arg1:T143 Arg2:T164	
+R6	Associated_With Arg1:T146 Arg2:T164	
+R7	Associated_With Arg1:T145 Arg2:T164	
+T177	Spectral_Data 7549 7562	spectral data
+R8	Associated_With Arg1:T176 Arg2:T177	
+R9	Associated_With Arg1:T175 Arg2:T177	
+T178	Chemical 7639 7649	silica gel
+T179	Chemical 7658 7666	n-hexane
+T180	Chemical 7668 7675	acetone
+T181	Chemical 7694 7704	silica gel
+T182	Chemical 7714 7720	Silica
+T183	Chemical 7741 7749	n­Hexane
+T184	Chemical 7764 7772;7774 7775	Compound 2
+T185	Chemical 7764 7773;7790 7791	Compounds 3
+T186	Metabolite 7764 7772;7790 7791	Compound 3
+T187	Metabolite 7764 7772;7774 7775	Compound 2
+T188	Chemical 7822 7830	pogostol
+T189	Metabolite 7822 7830	pogostol
+T190	Chemical 7835 7854	stigmast-4­en-S-one
+T191	Metabolite 7835 7854	stigmast-4­en-S-one
+R10	Isolated_From Arg1:T148 Arg2:T163	
+R11	Isolated_From Arg1:T150 Arg2:T163	
+R12	Isolated_From Arg1:T152 Arg2:T163	
+R13	Isolated_From Arg1:T154 Arg2:T163	
+R14	Associated_With Arg1:T148 Arg2:T164	
+R15	Associated_With Arg1:T147 Arg2:T164	
+R16	Associated_With Arg1:T150 Arg2:T164	
+R17	Associated_With Arg1:T149 Arg2:T164	
+R18	Associated_With Arg1:T152 Arg2:T164	
+R19	Associated_With Arg1:T151 Arg2:T164	
+R20	Associated_With Arg1:T154 Arg2:T164	
+R21	Associated_With Arg1:T153 Arg2:T164	
+T192	Spectral_Data 7884 7897	spectral data
+R22	Associated_With Arg1:T191 Arg2:T192	
+R23	Associated_With Arg1:T190 Arg2:T192	
+R24	Associated_With Arg1:T189 Arg2:T192	
+R25	Associated_With Arg1:T188 Arg2:T192	
+T193	Chemical 7987 7997	silica gel
+T194	Chemical 8006 8012	Silica
+T195	Chemical 8033 8041	n-Hexane
+T196	Chemical 8041 8049	­acetone
+T197	Chemical 8065 8073;8075 8076	compound 4
+T198	Chemical 8065 8073;8091 8092	compound 5
+T199	Metabolite 8065 8073;8091 8092	compound 5
+T200	Metabolite 8065 8073;8075 8076	compound 4
+T201	Spectral_Data 8134 8136	MS
+T202	Spectral_Data 8138 8140;8149 8153	lH -NMR
+T203	Spectral_Data 8146 8153	13C-NMR
+T204	Spectral_Data 8155 8159	DEPT
+T205	Spectral_Data 8172 8174;8179 8183	IH COSY
+T206	Spectral_Data 8175 8183	13C COSY
+T207	Spectral_Data 8185 8187;8192 8207	IH long range COSY
+T208	Spectral_Data 8188 8207	13C long range COSY
+T209	Spectral_Data 8238 8260;8267 8274	Overhauser enhancement spectra
+T210	Spectral_Data 8262 8265;8267 8274	nOe spectra
+T211	Chemical 8313 8321;8323 8324	compound 4
+T212	Chemical 8313 8321;8329 8330	compound 5
+T213	Metabolite 8313 8321;8329 8330	compound 5
+T214	Metabolite 8313 8321;8323 8324	compound 4
+T215	Chemical 8336 8343	retusin
+T216	Metabolite 8336 8343	retusin
+T217	Chemical 8348 8358	pachypodol
+T218	Metabolite 8348 8358	pachypodol
+R26	Isolated_From Arg1:T156 Arg2:T163	
+R27	Isolated_From Arg1:T158 Arg2:T163	
+R28	Isolated_From Arg1:T162 Arg2:T163	
+R29	Isolated_From Arg1:T160 Arg2:T163	
+R30	Associated_With Arg1:T156 Arg2:T164	
+R31	Associated_With Arg1:T155 Arg2:T164	
+R32	Associated_With Arg1:T158 Arg2:T164	
+R33	Associated_With Arg1:T157 Arg2:T164	
+R34	Associated_With Arg1:T160 Arg2:T164	
+R35	Associated_With Arg1:T162 Arg2:T164	
+R36	Associated_With Arg1:T159 Arg2:T164	
+R37	Associated_With Arg1:T161 Arg2:T164	
+R38	Associated_With Arg1:T216 Arg2:T210	
+R39	Associated_With Arg1:T215 Arg2:T210	
+R40	Associated_With Arg1:T218 Arg2:T210	
+R41	Associated_With Arg1:T217 Arg2:T210	
+R42	Associated_With Arg1:T216 Arg2:T209	
+R43	Associated_With Arg1:T215 Arg2:T209	
+R44	Associated_With Arg1:T218 Arg2:T209	
+R45	Associated_With Arg1:T217 Arg2:T209	
+R46	Associated_With Arg1:T216 Arg2:T207	
+R47	Associated_With Arg1:T215 Arg2:T207	
+R48	Associated_With Arg1:T218 Arg2:T207	
+R49	Associated_With Arg1:T217 Arg2:T207	
+R50	Associated_With Arg1:T216 Arg2:T208	
+R51	Associated_With Arg1:T215 Arg2:T208	
+R52	Associated_With Arg1:T218 Arg2:T208	
+R53	Associated_With Arg1:T217 Arg2:T208	
+R54	Associated_With Arg1:T216 Arg2:T205	
+R55	Associated_With Arg1:T215 Arg2:T205	
+R56	Associated_With Arg1:T218 Arg2:T205	
+R57	Associated_With Arg1:T217 Arg2:T205	
+R58	Associated_With Arg1:T216 Arg2:T206	
+R59	Associated_With Arg1:T215 Arg2:T206	
+R60	Associated_With Arg1:T218 Arg2:T206	
+R61	Associated_With Arg1:T217 Arg2:T206	
+R62	Associated_With Arg1:T216 Arg2:T204	
+R63	Associated_With Arg1:T215 Arg2:T204	
+R64	Associated_With Arg1:T218 Arg2:T204	
+R65	Associated_With Arg1:T217 Arg2:T204	
+R66	Associated_With Arg1:T216 Arg2:T202	
+R67	Associated_With Arg1:T215 Arg2:T202	
+R68	Associated_With Arg1:T218 Arg2:T202	
+R69	Associated_With Arg1:T217 Arg2:T202	
+R70	Associated_With Arg1:T216 Arg2:T203	
+R71	Associated_With Arg1:T215 Arg2:T203	
+R72	Associated_With Arg1:T218 Arg2:T203	
+R73	Associated_With Arg1:T217 Arg2:T203	
+R74	Associated_With Arg1:T216 Arg2:T201	
+R75	Associated_With Arg1:T215 Arg2:T201	
+R76	Associated_With Arg1:T218 Arg2:T201	
+R77	Associated_With Arg1:T217 Arg2:T201	
+T219	Biological_Activity 8451 8460	inhibited
+T220	Biological_Activity 8461 8467	emetic
+T221	Chemical 8486 8491	CUS04
+T222	Species 8501 8507	chicks
+R78	Associated_With Arg1:T221 Arg2:T220	
+T223	Chemical 8513 8521	n-hexane
+T224	Chemical 8523 8528	CHCl3
+T225	Chemical 8534 8538	MeOH
+T226	Species 8551 8568	Pogostemon cablin
+T227	Biological_Activity 8588 8598	inhibition
+T228	Chemical 8623 8640	Patchouli alcohol
+T229	Metabolite 8623 8640	Patchouli alcohol
+T230	Chemical 8642 8643	1
+T231	Metabolite 8642 8643	1
+T232	Chemical 8646 8654	pogostol
+T233	Metabolite 8646 8654	pogostol
+T234	Chemical 8657 8658	2
+T235	Metabolite 8657 8658	2
+T236	Chemical 8661 8680	stigmast-4­en-3-one
+T237	Metabolite 8661 8680	stigmast-4­en-3-one
+T238	Chemical 8682 8683	3
+T239	Metabolite 8682 8683	3
+T240	Chemical 8686 8693	retusin
+T241	Metabolite 8686 8693	retusin
+T242	Chemical 8695 8696	4
+T243	Metabolite 8695 8696	4
+T244	Chemical 8702 8712	pachypodol
+T245	Metabolite 8702 8712	pachypodol
+T246	Chemical 8714 8715	5
+T247	Metabolite 8714 8715	5
+T248	Chemical 8746 8754	n-hexane
+T249	Biological_Activity 8884 8895	anti-emetic
+T250	Chemical 8906 8923	Patchouli alcohol
+T251	Metabolite 8906 8923	Patchouli alcohol
+T252	Chemical 8925 8926	1
+T253	Metabolite 8925 8926	1
+T254	Chemical 8978 8986	Pogostol
+T255	Metabolite 8978 8986	Pogostol
+T256	Chemical 8988 8989	2
+T257	Metabolite 8988 8989	2
+T258	Biological_Activity 9005 9015	inhibit­ed
+T259	Biological_Activity 9016 9022	emetic
+R79	Associated_With Arg1:T257 Arg2:T258	
+R80	Associated_With Arg1:T256 Arg2:T258	
+R81	Associated_With Arg1:T255 Arg2:T258	
+R82	Associated_With Arg1:T254 Arg2:T258	
+T260	Chemical 9068 9087	Stigmast-4-en-3-one
+T261	Metabolite 9068 9087	Stigmast-4-en-3-one
+T262	Chemical 9089 9090	3
+T263	Metabolite 9089 9090	3
+T264	Chemical 9096 9106	pachypodol
+T265	Metabolite 9096 9106	pachypodol
+T266	Biological_Activity 9118 9129	anti-emetic
+T267	Chemical 9162 9169	Retusin
+T268	Chemical 9108 9109	5
+T269	Metabolite 9108 9109	5
+T270	Metabolite 9162 9169	Retusin
+T271	Chemical 9171 9172	4
+T272	Metabolite 9171 9172	4
+T273	Biological_Activity 9174 9183	inhibited
+T274	Biological_Activity 9184 9190	emetic
+R83	Associated_With Arg1:T272 Arg2:T273	
+R84	Associated_With Arg1:T271 Arg2:T273	
+R85	Associated_With Arg1:T270 Arg2:T273	
+R86	Associated_With Arg1:T267 Arg2:T273	
+T275	Species 9238 9255	Pogostemon cablin
+T276	Chemical 9412 9416	Ca2+
+T277	Biological_Activity 9455 9461	induce
+R87	Associated_With Arg1:T276 Arg2:T277	
+T278	Chemical 9604 9609	Ca2 +
+T279	Biological_Activity 9604 9621	Ca2 +  antagonist
+T280	Chemical 9753 9770	patchouli alcohol
+T281	Metabolite 9753 9770	patchouli alcohol
+T282	Biological_Activity 9778 9793	Ca2+ antagonist
+R88	Associated_With Arg1:T281 Arg2:T282	
+R89	Associated_With Arg1:T280 Arg2:T282	
+T283	Biological_Activity 9870 9881	anti-emetic
+T284	Chemical 9894 9911	patchouli alcohol
+T285	Metabolite 9894 9911	patchouli alcohol
+T286	Biological_Activity 9990 10001	in­hibition
+T287	Chemical 10012 10016	Ca2+
+R90	Associated_With Arg1:T285 Arg2:T286	
+R91	Associated_With Arg1:T284 Arg2:T286	
+T288	Chemical 10052 10069	Patchouli alcohol
+T289	Metabolite 10052 10069	Patchouli alcohol
+T290	Species 10094 10112	Po­gostemon cablin
+T291	Biological_Activity 10147 10158	anti-emetic
+T292	Biological_Activity 10476 10487	Anti-emetic
+T293	Species 10502 10519	Pogostemon cablin

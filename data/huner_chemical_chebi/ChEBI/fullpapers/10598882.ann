@@ -1,0 +1,843 @@
+T1	Biological_Activity 95 101	immune
+T2	Biological_Activity 145 154	signaling
+T3	Protein 194 197	TCR
+T4	Biological_Activity 291 300	signaling
+T5	Biological_Activity 346 357	stimulation
+T6	Protein 406 418	anti-CD3 mAb
+T7	Protein 427 430	PKC
+T8	Biological_Activity 431 440	activator
+T9	Chemical 442 445	PMA
+R1	Associated_With Arg1:T9 Arg2:T8	
+R2	Binds_With Arg1:T9 Arg2:T7	
+T10	Biological_Activity 570 581	stimulation
+T11	Biological_Activity 658 668	activation
+T12	Biological_Activity 8 18	activation
+T13	Protein 672 683	calcineurin
+T14	Protein 716 753	extracellular signal-regulated kinase
+T15	Protein 755 758	ERK
+T16	Protein 787 791	MEK1
+T17	Protein 829 852	c-Jun-N terminal kinase
+T18	Protein 854 857	JNK
+T19	Protein 974 983	cytokines
+T20	Protein 1108 1112	IL-2
+T21	Protein 1232 1252	T cell growth factor
+T22	Biological_Activity 1299 1312	proliferation
+T23	Biological_Activity 1343 1359	immunoregulatory
+T24	Biological_Activity 1377 1387	activation
+T25	Biological_Activity 1472 1489	immunosuppression
+T26	Chemical 1548 1561	cyclosporin A
+T27	Chemical 1563 1566	CsA
+T28	Chemical 1572 1577	FK506
+T29	Protein 1631 1642	calcineurin
+T31	Biological_Activity 1653 1662	signaling
+T32	Biological_Activity 1723 1740	immunosuppressive
+T30	Chemical 1847 1853	agents
+T33	Biological_Activity 2008 2018	inhibitors
+T34	Biological_Activity 2063 2080	immunosuppressive
+T35	Biological_Activity 2029 2039	activation
+T36	Chemical 2136 2151	natural product
+T37	Metabolite 2136 2151	natural product
+T38	Chemical 2155 2173	synthetic compound
+T39	Biological_Activity 2214 2224	inhibitors
+T40	Chemical 2262 2274	hypothemycin
+T41	Chemical 2278 2293	resorcylic acid
+T42	Chemical 2294 2301	lactone
+T43	Chemical 2302 2317	natural product
+T44	Metabolite 2302 2317	natural product
+T45	Metabolite 2262 2274	hypothemycin
+T46	Biological_Activity 2346 2356	antibiotic
+T47	Biological_Activity 2440 2451	suppressive
+T48	Biological_Activity 2471 2481	activation
+T49	Chemical 2531 2543	hypothemycin
+T50	Metabolite 2531 2543	hypothemycin
+R3	Associated_With Arg1:T45 Arg2:T46	
+R4	Associated_With Arg1:T40 Arg2:T46	
+R5	Associated_With Arg1:T45 Arg2:T47	
+R6	Associated_With Arg1:T40 Arg2:T47	
+T51	Species 2569 2574	mouse
+T52	Species 2579 2584	human
+T53	Biological_Activity 2592 2602	activation
+T54	Chemical 2633 2641	compound
+T55	Biological_Activity 2642 2650	inhibits
+T56	Biological_Activity 2655 2668	proliferation
+T57	Biological_Activity 2680 2687	induced
+T58	Protein 2691 2703	anti-CD3 mAb
+T59	Chemical 2718 2721	PMA
+T60	Protein 2766 2770	IL-2
+R7	Associated_With Arg1:T50 Arg2:T55	
+R8	Associated_With Arg1:T49 Arg2:T55	
+R9	Associated_With Arg1:T50 Arg2:T56	
+R10	Associated_With Arg1:T49 Arg2:T56	
+T61	Chemical 2782 2794	hypothemycin
+T62	Metabolite 2782 2794	hypothemycin
+T63	Biological_Activity 2808 2815	inhibit
+T64	Protein 2834 2838	IL-2
+T65	Protein 2840 2844	IL-6
+T66	Protein 2846 2851	IL-10
+T67	Protein 2853 2858	IFN-γ
+T68	Protein 2863 2868	TNF-α
+T69	Protein 2903 2907	IL-4
+T70	Protein 2909 2913	IL-5
+T71	Protein 2918 2923	IL-13
+T72	Protein 2946 2953	protein
+T73	Chemical 3004 3016	hypothemycin
+T74	Metabolite 3004 3016	hypothemycin
+T75	Biological_Activity 3017 3025	disrupts
+T76	Protein 3026 3037	calcineurin
+T77	Biological_Activity 3050 3059	signaling
+T78	Biological_Activity 3072 3082	inhibition
+T79	Protein 3090 3093	ERK
+R11	Associated_With Arg1:T74 Arg2:T75	
+R12	Associated_With Arg1:T73 Arg2:T75	
+R13	Associated_With Arg1:T74 Arg2:T77	
+R14	Associated_With Arg1:T73 Arg2:T77	
+R15	Associated_With Arg1:T74 Arg2:T78	
+R16	Associated_With Arg1:T73 Arg2:T78	
+T80	Chemical 3108 3116	compound
+T81	Biological_Activity 3161 3170	inhibitor
+T82	Chemical 3215 3218	CsA
+T83	Chemical 3222 3227	FK506
+T84	Chemical 3271 3283	hypothemycin
+T85	Metabolite 3271 3283	hypothemycin
+T86	Chemical 3284 3296	Hypothemycin
+T87	Metabolite 3284 3296	Hypothemycin
+T88	Species 3348 3354	fungal
+T89	Biological_Activity 3401 3411	inhibitors
+T90	Biological_Activity 3422 3432	activation
+R17	Isolated_From Arg1:T87 Arg2:T88	
+T91	Chemical 3444 3454	2-butanone
+T92	Chemical 3499 3505	silica
+T93	Chemical 3566 3574	methanol
+T94	Chemical 3578 3593	dichloromethane
+T95	Chemical 3620 3632	hypothemycin
+T96	Metabolite 3620 3632	hypothemycin
+T97	Chemical 3668 3680	hypothemycin
+T98	Metabolite 3668 3680	hypothemycin
+T99	Chemical 3748 3755	acetone
+T100	Chemical 3760 3767	hexanes
+T101	Spectral_Data 3820 3838	spectroscopic data
+T102	Spectral_Data 3840 3858	mass spectrometry,
+T103	Spectral_Data 3859 3872	UV absorption
+T104	Spectral_Data 3878 3904	nuclear magnetic resonance
+T105	Chemical 3940 3952	hypothemycin
+T106	Metabolite 3940 3952	hypothemycin
+R18	Associated_With Arg1:T106 Arg2:T104	
+R19	Associated_With Arg1:T105 Arg2:T104	
+R20	Associated_With Arg1:T106 Arg2:T103	
+R21	Associated_With Arg1:T105 Arg2:T103	
+R22	Associated_With Arg1:T106 Arg2:T102	
+R23	Associated_With Arg1:T105 Arg2:T102	
+T107	Chemical 4022 4034	Hypothemycin
+T108	Metabolite 4022 4034	Hypothemycin
+T109	Chemical 4064 4068	DMSO
+T110	Chemical 4122 4133	Zearalenone
+T111	Chemical 4240 4244	DMSO
+T112	Chemical 4256 4263	PD98059
+T113	Chemical 4336 4339	PMA
+T114	Chemical 4341 4350	ionomycin
+T115	Chemical 4355 4365	anisomycin
+T116	Protein 4392 4410	Anti-mouse CD3 mAb
+T117	Species 4397 4402	mouse
+T118	Protein 4412 4416	2C11
+T119	Protein 4422 4440	anti-human CD3 mAb
+T120	Species 4427 4432	human
+T121	Protein 4442 4445	1XE
+T122	Species 4548 4553	Human
+T123	Protein 4566 4570	IL-2
+T124	Species 4631 4636	Human
+T125	Protein 4752 4755	mAb
+T126	Species 4759 4764	mouse
+T127	Protein 4765 4769	CD69
+T128	Chemical 4817 4823	biotin
+T129	Protein 4844 4866	anti-cytokine antibody
+T130	Species 4893 4898	human
+T131	Protein 4899 4908	cytokines
+T132	Protein 4962 4966	IL-2
+T133	Protein 4991 4995	IL-4
+T134	Protein 4997 5002	IL-13
+T135	Protein 5020 5024	IL-5
+T136	Protein 5026 5031	IL-10
+T137	Protein 5033 5038	IFN-γ
+T138	Protein 5040 5045	TNF-α
+T139	Protein 5048 5069	Poly-HRP-streptavidin
+T140	Protein 5110 5131	Polyclonal antibodies
+T141	Protein 5135 5139	ERK1
+T142	Protein 5135 5138;5140 5141	ERK 2
+T143	Protein 5162 5172	antibodies
+T144	Protein 5222 5226	ERK1
+T145	Protein 5222 5225;5227 5228	ERK 2
+T146	Chemical 5249 5252	Thr
+T147	Chemical 5256 5259	Tyr
+T148	Species 5338 5343	Mouse
+T149	Species 5379 5394	C57Bl/6Tac mice
+T150	Chemical 5398 5403	nylon
+T151	Chemical 5404 5408	wool
+T152	Species 5421 5426	Human
+T153	Protein 5754 5767	neuraminidase
+T154	Species 5776 5781	sheep
+T155	Chemical 5842 5849	plastic
+T156	Species 5897 5902	Mouse
+T157	Species 5906 5911	human
+T158	Species 6043 6047	calf
+T159	Chemical 6060 6069	glutamine
+T160	Chemical 6076 6091	sodium pyruvate
+T161	Chemical 6103 6120	2-mercaptoethanol
+T162	Chemical 6134 6144	gentamycin
+T163	Species 6278 6283	mouse
+T164	Species 6287 6292	human
+T165	Biological_Activity 6401 6412	stimulation
+T166	Protein 6441 6453	anti-CD3 mAb
+T167	Protein 6455 6459	2C11
+T168	Chemical 6503 6506	PMA
+T169	Protein 6562 6566	IL-2
+T170	Biological_Activity 6582 6593	stimulation
+T171	Species 6597 6602	human
+T172	Protein 6617 6620	mAb
+T173	Protein 6837 6841	IL-2
+T174	Protein 6927 6931	IL-2
+T175	Chemical 7029 7038	compounds
+T176	Chemical 7260 7263	CO2
+T177	Biological_Activity 7286 7299	proliferation
+T178	Chemical 7344 7355	[3 H  ]-TdR
+T179	Species 7427 7432	mouse
+T180	Species 7466 7471	human
+T181	Biological_Activity 7769 7779	stimulated
+T182	Chemical 7794 7802	compound
+T183	Protein 7825 7833	cytokine
+T184	Protein 7876 7884	cytokine
+T185	Species 7917 7922	human
+T186	Protein 8020 8028	Cytokine
+T187	Protein 8085 8093	antibody
+T188	Protein 8158 8175	anti-cytokine mAb
+T189	Protein 8185 8194	carbonate
+T190	Protein 8195 8206	bicarbonate
+T191	Protein 8263 8269	casein
+T192	Protein 8550 8579	biotinylated anti-cytokine Ab
+T193	Protein 8630 8651	poly-HRP streptavidin
+T194	Chemical 8844 8857	sulfuric acid
+T195	Protein 9088 9096	cytokine
+T196	Chemical 9146 9154	compound
+T197	Biological_Activity 9164 9174	inhibitory
+T198	Chemical 9192 9200	compound
+T199	Protein 9272 9280	cytokine
+T200	Protein 9300 9305	RNase
+T201	Species 9338 9343	human
+T202	Chemical 9643 9646	PBS
+T203	Protein 9804 9812	Cytokine
+T204	Chemical 9962 9966	32 P
+T205	Protein 10070 10075	RNase
+T206	Chemical 10171 10185	polyacrylamide
+T207	Chemical 10186 10190	Tris
+T208	Chemical 10191 10197	borate
+T209	Chemical 10198 10202	EDTA
+T210	Chemical 10203 10207	urea
+T211	Species 10410 10415	mouse
+T212	Protein 10452 10456	CD69
+T213	Biological_Activity 10457 10466	induction
+T214	Chemical 10526 10538	hypothemycin
+T215	Metabolite 10526 10538	hypothemycin
+T216	Chemical 10542 10547	FK506
+T217	Biological_Activity 10557 10567	stimulated
+T218	Chemical 10573 10576	PMA
+T219	Chemical 10591 10600	ionomycin
+T220	Chemical 10717 10720	ice
+T221	Protein 10829 10842	anti-CD69 mAb
+T222	Chemical 10942 10958	propidium iodide
+T223	Protein 11050 11054	ERK1
+T224	Protein 11050 11053;11055 11056	ERK 2
+T225	Species 11073 11078	Mouse
+T226	Species 11082 11087	human
+T227	Chemical 11186 11194	compound
+T228	Chemical 11224 11227	PMA
+T229	Protein 11232 11236	ERK1
+T230	Protein 11232 11235;11237 11238	ERK 2
+T231	Biological_Activity 11239 11250	stimulation
+T232	Chemical 11307 11310	ice
+T233	Chemical 11426 11430	tris
+T234	Chemical 11431 11438	glycine
+T235	Chemical 11439 11453	polyacrylamide
+T236	Protein 11460 11468	Proteins
+T237	Protein 11620 11630	antibodies
+T238	Protein 11634 11638	ERK1
+T239	Protein 11634 11637;11639 11640	ERK 2
+T240	Chemical 11779 11791	Hypothemycin
+T241	Metabolite 11779 11791	Hypothemycin
+T242	Biological_Activity 11792 11800	inhibits
+T243	Biological_Activity 11808 11821	proliferation
+T244	Protein 11868 11872	IL-2
+T245	Chemical 11893 11905	hypothemycin
+T246	Metabolite 11893 11905	hypothemycin
+T247	Species 11947 11953	fungal
+T248	Biological_Activity 11985 11995	inhibitors
+T249	Biological_Activity 12006 12016	activation
+T250	Species 12023 12029	murine
+T251	Protein 12053 12065	anti-CD3 mAb
+T252	Chemical 12066 12069	PMA
+T253	Chemical 12094 12106	hypothemycin
+T254	Metabolite 12094 12106	hypothemycin
+T255	Biological_Activity 12120 12127	inhibit
+T256	Biological_Activity 12132 12145	proliferative
+T257	Chemical 12229 12240	zearalenone
+T258	Chemical 12219 12227	compound
+T259	Chemical 12306 12318	hypothemycin
+T260	Metabolite 12306 12318	hypothemycin
+T261	Biological_Activity 12347 12360	proliferation
+T262	Chemical 12388 12400	Hypothemycin
+T263	Metabolite 12388 12400	Hypothemycin
+T264	Biological_Activity 12415 12424	inhibited
+T265	Biological_Activity 12429 12442	proliferation
+T266	Species 12455 12460	human
+T267	Biological_Activity 12469 12479	stimulated
+T268	Protein 12485 12497	anti-CD3 mAb
+T269	Chemical 12540 12543	PMA
+T270	Biological_Activity 12606 12619	proliferation
+T271	Species 12623 12628	human
+T272	Biological_Activity 12683 12690	induced
+T273	Protein 12694 12706	anti-CD3 mAb
+T274	Chemical 12725 12728	PMA
+T275	Biological_Activity 12747 12756	inhibited
+T276	Chemical 12764 12772	compound
+T277	Biological_Activity 12828 12839	stimulation
+T278	Chemical 12879 12882	PMA
+T279	Biological_Activity 12908 12921	proliferative
+T280	Chemical 12963 12975	hypothemycin
+T281	Metabolite 12963 12975	hypothemycin
+T282	Protein 13042 13046	IL-2
+T283	Biological_Activity 13091 13101	inhibitory
+T284	Chemical 13114 13126	hypothemycin
+T285	Metabolite 13114 13126	hypothemycin
+T286	Biological_Activity 13167 13175	toxicity
+T287	Biological_Activity 13282 13292	inhibition
+T288	Chemical 13300 13308	compound
+T289	Species 13325 13330	mouse
+T290	Species 13400 13405	human
+T291	Biological_Activity 13414 13424	stimulated
+T292	Protein 13430 13442	anti-CD3 mAb
+T293	Chemical 13443 13446	PMA
+T294	Protein 13496 13500	IL-2
+T295	Species 13563 13568	human
+T296	Protein 13587 13599	anti-CD3 mAb
+T297	Protein 13627 13631	IL-2
+T298	Biological_Activity 13695 13705	inhibitory
+T299	Chemical 13716 13728	hypothemycin
+T300	Metabolite 13716 13728	hypothemycin
+T301	Protein 13797 13801	IL-2
+T302	Chemical 13856 13859	PMA
+T303	Biological_Activity 13830 13840	stimulated
+T304	Chemical 13917 13929	hypothemycin
+T305	Metabolite 13917 13929	hypothemycin
+T306	Protein 13947 13951	IL-2
+T307	Biological_Activity 13994 14007	proliferation
+T308	Chemical 14054 14066	Hypothemycin
+T309	Metabolite 14054 14066	Hypothemycin
+T310	Biological_Activity 14076 14084	inhibits
+T311	Protein 14102 14106	IL-2
+T312	Protein 14154 14158	IL-2
+T313	Biological_Activity 14180 14190	inhibitory
+T314	Chemical 14202 14214	hypothemycin
+T315	Metabolite 14202 14214	hypothemycin
+T316	Protein 14245 14249	IL-2
+T317	Chemical 14269 14277	compound
+T318	Protein 14324 14328	IL-2
+T319	Protein 14352 14356	IL-2
+T320	Chemical 14387 14399	hypothemycin
+T321	Metabolite 14387 14399	hypothemycin
+T322	Species 14433 14438	human
+T323	Protein 14497 14505	anti-CD3
+T324	Chemical 14506 14509	PMA
+T325	Chemical 14535 14547	hypothemycin
+T326	Metabolite 14535 14547	hypothemycin
+T327	Biological_Activity 14548 14558	suppressed
+T328	Protein 14559 14563	IL-2
+T329	Protein 14615 14619	IL-2
+T330	Biological_Activity 14764 14774	inhibition
+T331	Chemical 14782 14790	compound
+T332	Protein 14855 14863	anti-CD3
+T333	Chemical 14864 14867	PMA
+T334	Biological_Activity 14899 14910	stimulation
+T335	Protein 14927 14931	IL-2
+T336	Chemical 15028 15040	hypothemycin
+T337	Metabolite 15028 15040	hypothemycin
+T338	Biological_Activity 15041 15050	inhibited
+T339	Protein 15074 15082	cytokine
+T340	Biological_Activity 15158 15171	proliferation
+T341	Biological_Activity 15189 15199	suppressed
+T342	Protein 15250 15254	IL-2
+T343	Chemical 15289 15297	compound
+T344	Chemical 15388 15400	hypothemycin
+T345	Metabolite 15388 15400	hypothemycin
+T346	Protein 15437 15441	IL-2
+T347	Protein 15473 15477	IL-2
+T348	Species 15488 15494	murine
+T349	Chemical 15535 15547	hypothemycin
+T350	Metabolite 15535 15547	hypothemycin
+T351	Biological_Activity 15552 15559	inhibit
+T352	Biological_Activity 15578 15585	induced
+T353	Protein 15589 15593	IL-2
+T354	Biological_Activity 15693 15703	inhibition
+T355	Protein 15707 15711	IL-2
+T356	Biological_Activity 15757 15767	inhibition
+T357	Biological_Activity 15776 15789	proliferation
+T358	Biological_Activity 15864 15874	stimulated
+T359	Protein 15905 15909	IL-2
+T360	Chemical 15926 15938	Hypothemycin
+T361	Metabolite 15926 15938	Hypothemycin
+T362	Protein 15990 15999	cytokines
+T363	Chemical 16024 16036	hypothemycin
+T364	Metabolite 16024 16036	hypothemycin
+T365	Biological_Activity 16037 16045	inhibits
+T366	Protein 16046 16050	IL-2
+T367	Chemical 16114 16122	compound
+T368	Protein 16132 16141	cytokines
+T369	Biological_Activity 16179 16189	activation
+T370	Species 16211 16216	human
+T371	Biological_Activity 16225 16234	activated
+T372	Protein 16251 16259	anti-CD3
+T373	Chemical 16260 16263	PMA
+T374	Protein 16308 16317	cytokines
+T375	Chemical 16427 16439	hypothemycin
+T376	Metabolite 16427 16439	hypothemycin
+T377	Biological_Activity 16455 16464	inhibited
+T378	Protein 16483 16487	IL-2
+T379	Chemical 16583 16595	hypothemycin
+T380	Metabolite 16583 16595	hypothemycin
+T381	Biological_Activity 16610 16620	suppressed
+T382	Protein 16639 16643	IL-6
+T383	Protein 16664 16669	IL-10
+T384	Protein 16691 16696	IFN-γ
+T385	Protein 16721 16726	TNF-α
+T386	Chemical 16783 16791	compound
+T387	Protein 16873 16877	IL-4
+T388	Protein 16879 16883	IL-5
+T389	Protein 16888 16894	IL-13.
+T390	Biological_Activity 16915 16925	suppressed
+T391	Protein 16974 16983	cytokines
+T392	Chemical 17053 17065	hypothemycin
+T393	Metabolite 17053 17065	hypothemycin
+T394	Chemical 17103 17114	zearalenone
+T395	Protein 17172 17181	cytokines
+T396	Chemical 17195 17207	Hypothemycin
+T397	Metabolite 17195 17207	Hypothemycin
+T398	Protein 17216 17224	cytokine
+T399	Biological_Activity 17286 17295	induction
+T400	Chemical 17304 17316	hypothemycin
+T401	Metabolite 17304 17316	hypothemycin
+T402	Protein 17342 17351	cytokines
+T403	Protein 17384 17392	cytokine
+T404	Species 17410 17415	Human
+T405	Biological_Activity 17439 17448	activated
+T406	Protein 17454 17466	anti-CD3 mAb
+T407	Chemical 17467 17470	PMA
+T408	Chemical 17511 17523	hypothemycin
+T409	Metabolite 17511 17523	hypothemycin
+T410	Chemical 17528 17539	zearalenone
+T411	Protein 17635 17644	cytokines
+T412	Chemical 17708 17720	hypothemycin
+T413	Metabolite 17708 17720	hypothemycin
+T414	Biological_Activity 17730 17740	suppressed
+T415	Protein 17741 17745	IL-2
+T416	Chemical 17795 17806	zearalenone
+T417	Chemical 17822 17834	Hypothemycin
+T418	Metabolite 17822 17834	Hypothemycin
+T419	Biological_Activity 17848 17857	inhibited
+T420	Protein 17892 17897	IL-10
+T421	Protein 17902 17907	IFN-γ
+T422	Biological_Activity 17610 17621	transcripts
+T423	Biological_Activity 17876 17887	transcripts
+T424	Biological_Activity 17940 17951	transcripts
+T425	Protein 17956 17960	IL-4
+T426	Protein 17962 17966	IL-5
+T427	Protein 17971 17976	IL-13
+T428	Chemical 18038 18050	hypothemycin
+T429	Metabolite 18038 18050	hypothemycin
+T430	Chemical 18059 18068	zearalone
+T431	Protein 18132 18141	cytokines
+T432	Protein 18195 18202	protein
+T433	Chemical 18276 18288	hypothemycin
+T434	Metabolite 18276 18288	hypothemycin
+T435	Biological_Activity 18316 18329	transcription
+T436	Biological_Activity 18337 18347	transcript
+R24	Associated_With Arg1:T434 Arg2:T435	
+R25	Associated_With Arg1:T433 Arg2:T435	
+T437	Chemical 18369 18381	hypothemycin
+T438	Metabolite 18369 18381	hypothemycin
+T439	Biological_Activity 18400 18407	inhibit
+T440	Protein 18408 18412	IL-9
+T441	Chemical 18466 18478	Hypothemycin
+T442	Metabolite 18466 18478	Hypothemycin
+T443	Biological_Activity 18479 18487	inhibits
+T444	Protein 18502 18506	CD69
+T445	Chemical 18529 18532	PMA
+T446	Biological_Activity 18518 18525	induced
+T447	Chemical 18541 18550	ionomycin
+T448	Protein 18572 18580	cytokine
+T449	Biological_Activity 18581 18590	induction
+T450	Biological_Activity 18603 18613	activation
+T451	Biological_Activity 18634 18643	signaling
+T452	Chemical 18758 18770	hypothemycin
+T453	Metabolite 18758 18770	hypothemycin
+T454	Biological_Activity 18785 18794	signaling
+T455	Biological_Activity 18841 18851	activation
+T456	Biological_Activity 18883 18892	induction
+T457	Protein 18936 18940	CD69
+T458	Biological_Activity 18947 18956	induction
+T459	Chemical 18998 19001	PMA
+T460	Protein 19018 19021	PKC
+T461	Protein 19033 19044	calcineurin
+T462	Biological_Activity 19057 19066	signaling
+R26	Associated_With Arg1:T459 Arg2:T462	
+T463	Protein 19082 19086	ERK1
+T464	Protein 19082 19085;19087 19088	ERK 2
+T465	Protein 19089 19095	kinase
+T466	Chemical 19115 19119	Ca2+
+T467	Biological_Activity 19121 19130	ionophore
+T468	Chemical 19132 19141	ionomycin
+T469	Chemical 19156 19160	Ca2+
+T470	Biological_Activity 19162 19171	signaling
+T471	Biological_Activity 19176 19185	activates
+T472	Protein 19186 19197	calcineurin
+R27	Associated_With Arg1:T468 Arg2:T467	
+R28	Associated_With Arg1:T468 Arg2:T470	
+R29	Associated_With Arg1:T468 Arg2:T471	
+R30	Binds_With Arg1:T468 Arg2:T472	
+T473	Chemical 19266 19273	PD98059
+T474	Biological_Activity 19287 19296	inhibitor
+T475	Protein 19300 19304	MEK1
+T476	Biological_Activity 19338 19348	suppresses
+T477	Protein 19353 19357	CD69
+T478	Biological_Activity 19367 19374	induced
+T479	Chemical 19378 19381	PMA
+T480	Chemical 19393 19402	ionomycin
+T481	Protein 19438 19449	calcineurin
+T482	Biological_Activity 19450 19459	inhibitor
+T483	Chemical 19461 19466	FK506
+R31	Associated_With Arg1:T473 Arg2:T474	
+R32	Binds_With Arg1:T473 Arg2:T475	
+R33	Associated_With Arg1:T473 Arg2:T476	
+R34	Associated_With Arg1:T483 Arg2:T482	
+R35	Binds_With Arg1:T483 Arg2:T481	
+T484	Species 19543 19548	mouse
+T485	Chemical 19585 19588	PMA
+T486	Biological_Activity 19600 19607	induced
+T487	Protein 19624 19628	CD69
+T488	Biological_Activity 19659 19668	induction
+T489	Biological_Activity 19673 19683	suppressed
+T490	Chemical 19714 19726	hypothemycin
+T491	Metabolite 19714 19726	hypothemycin
+T492	Chemical 19736 19741	FK506
+R36	Associated_With Arg1:T491 Arg2:T489	
+R37	Associated_With Arg1:T490 Arg2:T489	
+T493	Protein 19782 19786	CD69
+T494	Chemical 19825 19834	ionomycin
+T495	Biological_Activity 19854 19863	inhibited
+T496	Chemical 19867 19879	hypothemycin
+T497	Metabolite 19867 19879	hypothemycin
+T498	Chemical 19888 19893	FK506
+T499	Chemical 19906 19918	hypothemycin
+T500	Metabolite 19906 19918	hypothemycin
+T501	Biological_Activity 19945 19952	disrupt
+T502	Protein 19953 19957	CD69
+T503	Biological_Activity 19958 19967	induction
+T504	Protein 19985 19988	PKC
+T505	Biological_Activity 19989 19999	activation
+T506	Protein 20052 20063	calcineurin
+T507	Biological_Activity 20064 20074	activation
+T508	Chemical 20092 20104	hypothemycin
+T509	Metabolite 20092 20104	hypothemycin
+T510	Protein 20108 20112	ERK1
+T511	Protein 20108 20111;20113 20114	ERK 2
+T512	Biological_Activity 20115 20125	activation
+T513	Biological_Activity 20154 20163	signaling
+T514	Biological_Activity 20173 20182	activated
+T515	Chemical 20186 20189	PMA
+T516	Protein 20208 20225	ERK1/2 MAP kinase
+T517	Biological_Activity 20235 20245	activation
+T518	Protein 20262 20268	kinase
+T519	Protein 20270 20273	MEK
+T520	Protein 20302 20306	CD69
+T521	Chemical 20364 20376	hypothemycin
+T522	Metabolite 20364 20376	hypothemycin
+T523	Protein 20444 20461	ERK1/2 MAP kinase
+T524	Biological_Activity 20430 20440	Activation
+T525	Protein 20525 20532	enzymes
+T526	Protein 20577 20587	antibodies
+T527	Chemical 20621 20624	PMA
+T528	Species 20638 20643	human
+T529	Protein 20739 20743	ERK1
+T530	Protein 20739 20742;20744 20745	ERK 2
+T531	Biological_Activity 20807 20816	inhibited
+T532	Chemical 20820 20832	hypothemycin
+T533	Metabolite 20820 20832	hypothemycin
+T534	Chemical 20860 20871	zearalenone
+T535	Chemical 20881 20888	PD98059
+T536	Protein 20938 20942	ERK1
+T537	Protein 20938 20941;20943 20944	ERK 2
+T538	Protein 21007 21011	ERK1
+T539	Protein 21007 21010;21012 21013	ERK 2
+T540	Protein 21014 21021	protein
+T541	Protein 21068 21076	antibody
+T542	Species 21119 21125	murine
+T543	Biological_Activity 21134 21143	activated
+T544	Chemical 21149 21152	PMA
+T545	Species 21219 21228	microbial
+T546	Biological_Activity 21260 21277	immunosuppressive
+T547	Chemical 21290 21302	hypothemycin
+T548	Metabolite 21290 21302	hypothemycin
+R38	Associated_With Arg1:T548 Arg2:T546	
+R39	Associated_With Arg1:T547 Arg2:T546	
+T549	Biological_Activity 21340 21350	antibiotic
+T550	Chemical 21470 21482	hypothemycin
+T551	Metabolite 21470 21482	hypothemycin
+T552	Biological_Activity 21516 21526	activation
+T553	Protein 21540 21548	cytokine
+T554	Biological_Activity 21564 21577	proliferation
+T555	Biological_Activity 21618 21628	antibiotic
+T556	Biological_Activity 21629 21638	cytotoxic
+T557	Chemical 21653 21665	hypothemycin
+T558	Metabolite 21653 21665	hypothemycin
+T559	Chemical 21860 21868	compound
+T560	Chemical 21906 21914	compound
+T561	Chemical 21916 21927	zearalenone
+T562	Biological_Activity 21939 21949	estrogenic
+R40	Associated_With Arg1:T561 Arg2:T562	
+T563	Biological_Activity 22140 22151	stimulation
+T564	Protein 22176 22188	anti-CD3 mAb
+T565	Chemical 22193 22196	PMA
+T566	Biological_Activity 22242 22252	activation
+T567	Chemical 22293 22305	hypothemycin
+T568	Metabolite 22293 22305	hypothemycin
+T569	Biological_Activity 22319 22326	inhibit
+T570	Biological_Activity 22331 22344	proliferative
+R41	Associated_With Arg1:T568 Arg2:T569	
+R42	Associated_With Arg1:T567 Arg2:T569	
+R43	Associated_With Arg1:T568 Arg2:T570	
+R44	Associated_With Arg1:T567 Arg2:T570	
+T571	Biological_Activity 22399 22409	inhibitory
+T572	Chemical 22435 22438	PMA
+T573	Biological_Activity 22439 22452	costimulation
+T574	Species 22485 22490	human
+T575	Biological_Activity 22496 22506	stimulated
+T576	Protein 22512 22524	anti-CD3 mAb
+T577	Biological_Activity 22546 22556	inhibition
+T578	Biological_Activity 22567 22580	proliferation
+T579	Chemical 22584 22596	hypothemycin
+T580	Metabolite 22584 22596	hypothemycin
+T581	Protein 22634 22638	IL-2
+T582	Biological_Activity 22665 22675	inhibition
+T583	Chemical 22679 22685	agents
+T584	Biological_Activity 22695 22703	suppress
+T585	Protein 22704 22708	IL-2
+T586	Protein 22732 22736	IL-2
+T587	Chemical 22761 22764	CsA
+T588	Chemical 22769 22774	FK506
+T589	Chemical 22805 22817	hypothemycin
+T590	Metabolite 22805 22817	hypothemycin
+T591	Biological_Activity 22818 22827	inhibited
+T592	Protein 22855 22859	IL-2
+T593	Protein 22872 22879	protein
+T594	Chemical 22966 22978	hypothemycin
+T595	Metabolite 22966 22978	hypothemycin
+T596	Biological_Activity 23007 23020	proliferation
+T597	Biological_Activity 23034 23044	activation
+T598	Species 23048 23053	human
+T599	Chemical 23089 23092	PMA
+T600	Protein 23155 23159	IL-2
+T601	Chemical 23188 23200	hypothemycin
+T602	Metabolite 23188 23200	hypothemycin
+T603	Biological_Activity 23232 23245	proliferation
+T604	Biological_Activity 23286 23303	antiproliferative
+T605	Chemical 23314 23326	hypothemycin
+T606	Metabolite 23314 23326	hypothemycin
+R45	Associated_With Arg1:T606 Arg2:T604	
+R46	Associated_With Arg1:T605 Arg2:T604	
+T607	Biological_Activity 23384 23395	stimulation
+T608	Chemical 23458 23466	compound
+T609	Biological_Activity 23479 23490	stimulation
+T610	Protein 23538 23547	cytokines
+T611	Chemical 23647 23659	hypothemycin
+T612	Metabolite 23647 23659	hypothemycin
+T613	Protein 23688 23692	IL-2
+T614	Protein 23712 23716	IL-6
+T615	Protein 23718 23722	IL-9
+T616	Protein 23753 23758	IL-10
+T617	Protein 23760 23765	IFN-γ
+T618	Protein 23770 23775	TNF-α
+T619	Biological_Activity 23802 23811	inhibited
+T620	Chemical 23815 23827	hypothemycin
+T621	Metabolite 23815 23827	hypothemycin
+T622	Chemical 23845 23853	compound
+T623	Biological_Activity 23865 23874	signaling
+T624	Biological_Activity 23892 23902	activation
+T625	Protein 23958 23967	cytokines
+T626	Protein 24041 24045	IL-4
+T627	Protein 24047 24051	IL-5
+T628	Protein 24056 24061	IL-13
+T629	Chemical 24107 24115	compound
+T630	Chemical 24156 24168	hypothemycin
+T631	Metabolite 24156 24168	hypothemycin
+T632	Protein 24259 24268	cytokines
+T633	Protein 24276 24280	IL-4
+T634	Protein 24282 24286	IL-5
+T635	Protein 24291 24296	IL-13
+T636	Protein 24410 24419	cytokines
+T637	Biological_Activity 24425 24435	suppressed
+T638	Chemical 24498 24510	hypothemycin
+T639	Metabolite 24498 24510	hypothemycin
+T640	Biological_Activity 24533 24542	signaling
+T641	Protein 24590 24603	Th1 cytokines
+T642	Protein 24579 24582;24594 24603	Th2 cytokines
+T643	Chemical 24779 24791	hypothemycin
+T644	Metabolite 24779 24791	hypothemycin
+T645	Protein 24904 24912	cytokine
+T646	Chemical 24927 24939	hypothemycin
+T647	Metabolite 24927 24939	hypothemycin
+T648	Chemical 24990 24995	FK506
+T649	Protein 25083 25087	MEK1
+T650	Biological_Activity 25088 25097	inhibitor
+T651	Chemical 25099 25106	PD98059
+T652	Chemical 25153 25165	hypothemycin
+T653	Metabolite 25153 25165	hypothemycin
+T654	Biological_Activity 25184 25193	signaling
+T655	Chemical 25227 25233	FK5065
+T656	Chemical 25249 25256	PD98059
+T657	Chemical 25300 25309	compounds
+T658	Protein 25313 25317	CD69
+T659	Biological_Activity 25318 25327	induction
+T660	Protein 25338 25342	CD69
+T661	Biological_Activity 25343 25352	induction
+T662	Protein 25382 25390	cytokine
+T663	Biological_Activity 25391 25400	induction
+T664	Biological_Activity 25503 25513	inhibitors
+T665	Protein 25551 25554	PKC
+T666	Protein 25566 25577	calcineurin
+T667	Chemical 25604 25607	PMA
+T668	Chemical 25619 25623	Ca2+
+T669	Protein 25625 25636	calcineurin
+T670	Chemical 25661 25670	ionomycin
+T671	Chemical 25708 25720	Hypothemycin
+T672	Metabolite 25708 25720	Hypothemycin
+T673	Biological_Activity 25721 25730	inhibited
+T674	Chemical 25744 25747	PMA
+T675	Biological_Activity 25748 25755	induced
+T676	Chemical 25792 25801	ionomycin
+T677	Biological_Activity 25802 25809	induced
+T678	Chemical 25828 25833	FK506
+T679	Biological_Activity 25865 25875	inhibition
+T680	Chemical 25916 25923	PD98059
+T681	Biological_Activity 25940 25947	inhibit
+T682	Protein 25948 25952	CD69
+T683	Biological_Activity 25953 25962	induction
+T684	Chemical 25966 25969	PMA
+T685	Chemical 25981 25990	ionomycin
+T686	Chemical 26064 26076	hypothemycin
+T687	Metabolite 26064 26076	hypothemycin
+T688	Chemical 26084 26091	PD98059
+T689	Chemical 26118 26130	hypothemycin
+T690	Metabolite 26118 26130	hypothemycin
+T691	Biological_Activity 26145 26155	activation
+T692	Protein 26163 26173;26175 26179	MAP kinase ERK1
+T693	Protein 26163 26173;26175 26178	MAP kinase ERK
+T694	Protein 26163 26173	MAP kinase
+T695	Chemical 26221 26233	hypothemycin
+T696	Metabolite 26221 26233	hypothemycin
+T697	Protein 26275 26282	enzymes
+T698	Chemical 26299 26302	PMA
+T699	Chemical 26349 26361	hypothemycin
+T700	Metabolite 26349 26361	hypothemycin
+T701	Biological_Activity 26376 26386	disrupting
+T702	Protein 26391 26395	ERK1
+T703	Protein 26391 26394;26396 26397	ERK 2
+T704	Chemical 26515 26523	compound
+T705	Biological_Activity 26527 26540	proliferation
+T706	Protein 26545 26553	cytokine
+T707	Biological_Activity 26592 26600	stimulus
+T708	Chemical 26611 26614	PMA
+T709	Chemical 26800 26812	hypothemycin
+T710	Metabolite 26800 26812	hypothemycin
+T711	Biological_Activity 26822 26830	inhibits
+T712	Biological_Activity 26835 26844	enzymatic
+T713	Protein 26854 26858	MEK1
+R47	Associated_With Arg1:T710 Arg2:T711	
+R48	Associated_With Arg1:T709 Arg2:T711	
+R49	Associated_With Arg1:T710 Arg2:T712	
+R50	Associated_With Arg1:T709 Arg2:T712	
+R51	Binds_With Arg1:T710 Arg2:T713	
+R52	Binds_With Arg1:T709 Arg2:T713	
+T714	Chemical 26947 26959	hypothemycin
+T715	Metabolite 26947 26959	hypothemycin
+T716	Chemical 26947 26967	hypothemycin analogs
+T717	Biological_Activity 27018 27025	inhibit
+T718	Protein 27026 27030	MEK1
+T719	Biological_Activity 27047 27054	inhibit
+T720	Protein 27055 27059	IL-2
+T721	Protein 27076 27080	IL-4
+T722	Chemical 27182 27194	hypothemycin
+T723	Metabolite 27182 27194	hypothemycin
+T724	Chemical 27196 27206	Ro 09-2210
+T725	Biological_Activity 27245 27258	proliferation
+T726	Biological_Activity 27266 27273	inhibit
+T727	Protein 27274 27278	MEK1
+R53	Associated_With Arg1:T724 Arg2:T726	
+T728	Biological_Activity 27229 27237	suppress
+R54	Associated_With Arg1:T724 Arg2:T728	
+R55	Associated_With Arg1:T724 Arg2:T725	
+R56	Binds_With Arg1:T724 Arg2:T727	
+T729	Chemical 27391 27403	hypothemycin
+T730	Metabolite 27391 27403	hypothemycin
+T731	Biological_Activity 27475 27484	enzymatic
+T732	Protein 27497 27500	PKC
+T733	Biological_Activity 27526 27536	inhibitory
+T734	Chemical 27547 27559	hypothemycin
+T735	Metabolite 27547 27559	hypothemycin
+T736	Biological_Activity 27570 27580	activation
+T737	Biological_Activity 27625 27633	blockade
+T738	Protein 27637 27641	MEK1
+T739	Protein 27683 27686	PKC
+R57	Associated_With Arg1:T735 Arg2:T737	
+R58	Associated_With Arg1:T734 Arg2:T737	
+R59	Binds_With Arg1:T735 Arg2:T738	
+R60	Binds_With Arg1:T734 Arg2:T738	
+T740	Protein 27766 27769	MEK
+T741	Chemical 27813 27825	hypothemycin
+T742	Metabolite 27813 27825	hypothemycin
+T743	Protein 27843 27846	JNK
+T744	Biological_Activity 27847 27857	activation
+T745	Chemical 27861 27871	anisomycin
+R61	Associated_With Arg1:T745 Arg2:T744	
+R62	Binds_With Arg1:T745 Arg2:T743	
+T746	Chemical 27925 27937	hypothemycin
+T747	Metabolite 27925 27937	hypothemycin
+T748	Chemical 27961 27968	PD98059
+T749	Biological_Activity 27985 27992	inhibit
+T750	Protein 27993 27996	JNK
+T751	Biological_Activity 27997 28007	activation
+R63	Associated_With Arg1:T747 Arg2:T749	
+R64	Associated_With Arg1:T746 Arg2:T749	
+R65	Binds_With Arg1:T747 Arg2:T750	
+R66	Binds_With Arg1:T746 Arg2:T750	
+T752	Chemical 28071 28083	hypothemycin
+T753	Metabolite 28071 28083	hypothemycin
+T754	Protein 28125 28128	ERK
+T755	Protein 28133 28136	JNK
+T756	Chemical 28211 28219	compound
+T757	Biological_Activity 28230 28240	inhibitory
+T758	Biological_Activity 28251 28264	proliferation
+T759	Protein 28301 28305	IL-2
+T760	Chemical 28356 28368	hypothemycin
+T761	Metabolite 28356 28368	hypothemycin
+T762	Biological_Activity 28397 28407	stimulated
+T763	Protein 198 201	CD3
+T764	Protein 28420 28423	CD3
+T765	Protein 28424 28427	TCR
+T766	Chemical 28498 28506	compound
+T767	Chemical 28549 28561	hypothemycin
+T768	Metabolite 28549 28561	hypothemycin
+T769	Biological_Activity 28648 28657	cytotoxic
+T770	Biological_Activity 28658 28667	inhibitor
+T771	Biological_Activity 28678 28688	activation
+T772	Protein 28719 28730	calcineurin
+T773	Biological_Activity 28731 28740	inhibitor
+T774	Biological_Activity 28768 28785	immunosuppressive
+T775	Chemical 28798 28810	hypothemycin
+T776	Metabolite 28798 28810	hypothemycin
+T777	Biological_Activity 28843 28850	promote

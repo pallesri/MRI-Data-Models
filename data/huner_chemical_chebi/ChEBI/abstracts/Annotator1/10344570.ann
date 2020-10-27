@@ -1,0 +1,64 @@
+T1	Species 33 39	fungal
+T2	Chemical 40 51	azaphilones
+T3	Metabolite 40 51	azaphilones
+T4	Chemical 73 87	6-iso-chromane
+T5	Protein 113 147	cholesteryl ester transfer protein
+T6	Protein 149 153	CETP
+T9	Chemical 174 189	Chaetoviridin B
+T12	Biological_Activity 131 139	transfer
+T13	Chemical 281 293	sclerotiorin
+R5	Associated_With Arg1:T9 Arg2:T12	
+R6	Associated_With Arg1:T13 Arg2:T12	
+T14	Chemical 329 337	Rotiorin
+T15	Chemical 339 354	chaetoviridin A
+T16	Chemical 359 372	rubrorotiorin
+T19	Biological_Activity 477 486	inhibitor
+T20	Biological_Activity 548 558	inhibitory
+T21	Chemical 616 622	ketone
+T22	Chemical 633 638	enone
+T23	Chemical 679 700	isochromane-like ring
+T24	Biological_Activity 386 395	inhibitor
+R12	Associated_With Arg1:T14 Arg2:T24	
+R16	Associated_With Arg1:T15 Arg2:T24	
+R17	Associated_With Arg1:T16 Arg2:T24	
+T25	Chemical 784 786	CE
+T26	Chemical 791 793	TG
+T27	Chemical 811 823	sclerotiorin
+T28	Chemical 940 952	sclerotiorin
+T29	Chemical 967 980	primary amine
+T30	Chemical 984 995	amino acids
+T31	Chemical 1004 1010	lysine
+T32	Protein 1018 1025	protein
+T33	Metabolite 174 189	Chaetoviridin B
+R19	Associated_With Arg1:T33 Arg2:T12	
+T34	Metabolite 281 293	sclerotiorin
+R20	Associated_With Arg1:T34 Arg2:T12	
+T35	Metabolite 329 337	Rotiorin
+R21	Associated_With Arg1:T35 Arg2:T24	
+T36	Metabolite 339 354	chaetoviridin A
+R24	Associated_With Arg1:T36 Arg2:T24	
+T37	Metabolite 359 372	rubrorotiorin
+R31	Associated_With Arg1:T37 Arg2:T24	
+R1	Binds_With Arg1:T33 Arg2:T5	
+R2	Binds_With Arg1:T33 Arg2:T6	
+R36	Binds_With Arg1:T9 Arg2:T5	
+R37	Binds_With Arg1:T9 Arg2:T6	
+R3	Binds_With Arg1:T34 Arg2:T5	
+R4	Binds_With Arg1:T34 Arg2:T6	
+R34	Binds_With Arg1:T13 Arg2:T5	
+R35	Binds_With Arg1:T13 Arg2:T6	
+R7	Binds_With Arg1:T35 Arg2:T5	
+R8	Binds_With Arg1:T14 Arg2:T5	
+R9	Binds_With Arg1:T35 Arg2:T6	
+R10	Binds_With Arg1:T14 Arg2:T6	
+R11	Binds_With Arg1:T36 Arg2:T5	
+R25	Binds_With Arg1:T15 Arg2:T5	
+R26	Binds_With Arg1:T36 Arg2:T6	
+R28	Binds_With Arg1:T15 Arg2:T6	
+R29	Binds_With Arg1:T37 Arg2:T5	
+R30	Binds_With Arg1:T16 Arg2:T5	
+R32	Binds_With Arg1:T16 Arg2:T6	
+R33	Binds_With Arg1:T16 Arg2:T6	
+T10	Biological_Activity 733 743	inhibitory
+T11	Biological_Activity 798 807	inhibited
+R13	Associated_With Arg1:T27 Arg2:T11	

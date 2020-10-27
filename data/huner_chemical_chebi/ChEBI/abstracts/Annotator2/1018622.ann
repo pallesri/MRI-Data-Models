@@ -1,0 +1,25 @@
+T1	Metabolite 0 10	Isoguanine
+T2	Chemical 0 10	Isoguanine
+T3	Biological_Activity 34 48	antineoplastic
+T4	Species 64 89	Prioneris thestylis Dbldy
+T5	Metabolite 110 127	purine components
+T6	Chemical 110 127	purine components
+T7	Species 135 144	butterfly
+T8	Metabolite 170 182	hypoxanthine
+T9	Chemical 170 182	hypoxanthine
+T10	Metabolite 188 197	uric acid
+T11	Chemical 188 197	uric acid
+T12	Chemical 206 214	xanthine
+T13	Metabolite 206 214	xanthine
+T14	Chemical 233 246	urocanic acid
+T15	Metabolite 233 246	urocanic acid
+T16	Chemical 332 352	histidine derivative
+T17	Metabolite 332 352	histidine derivative
+T18	Species 359 368	arthropod
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T3	
+R3	Isolated_From Arg1:T1 Arg2:T4	
+R4	Isolated_From Arg1:T8 Arg2:T4	
+R5	Isolated_From Arg1:T10 Arg2:T4	
+R6	Isolated_From Arg1:T13 Arg2:T4	
+R7	Isolated_From Arg1:T15 Arg2:T4	

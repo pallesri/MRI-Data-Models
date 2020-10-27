@@ -1,0 +1,51 @@
+T3	Protein 51 63	heme protein
+T4	Protein 145 172	hypoxia-inducible  factor 1
+T5	Protein 174 179	HIF-1
+T6	Protein 250 264	erythropoietin
+T7	Protein 266 269	Epo
+T9	Chemical 342 357	carbon monoxide
+T10	Chemical 362 374	nitric oxide
+T8	Chemical 320 324	heme
+T11	Biological_Activity 390 397	sensing
+R1	Associated_With Arg1:T9 Arg2:T11	
+R2	Associated_With Arg1:T10 Arg2:T11	
+T12	Biological_Activity 402 411	signaling
+R3	Associated_With Arg1:T9 Arg2:T12	
+R4	Associated_With Arg1:T10 Arg2:T12	
+T13	Chemical 435 437	CO
+T16	Chemical 564 566	CO
+T17	Protein 480 485	HIF-1
+T18	Protein 503 506	Epo
+T19	Protein 601 606	HIF-1
+T21	Protein 620 623	Epo
+T22	Chemical 646 661	cobalt chloride
+T24	Chemical 683 698	desferrioxamine
+T25	Biological_Activity 674 682	chelator
+R6	Associated_With Arg1:T24 Arg2:T25	
+T26	Chemical 716 718	CO
+T27	Chemical 771 777	oxygen
+T28	Chemical 867 887	sodium nitroprusside
+T29	Chemical 891 903	nitric oxide
+T31	Chemical 916 918	NO
+T32	Chemical 923 925	CO
+T33	Biological_Activity 946 953	binding
+T34	Protein 1000 1010	HIF-1alpha
+T35	Protein 1119 1129	HIF-1alpha
+T36	Protein 1191 1201	HIF-1alpha
+T37	Chemical 1035 1037	NO
+T38	Chemical 1042 1044	CO
+T39	Chemical 1209 1211	NO
+T40	Chemical 1216 1218	CO
+T41	Chemical 1080 1086	oxygen
+T42	Chemical 1250 1254	heme
+T43	Chemical 1278 1284	oxygen
+T44	Chemical 1301 1316	desferrioxamine
+T45	Species 1329 1335	cobalt
+T1	Chemical 383 389	oxygen
+T2	Chemical 669 673	iron
+T20	Biological_Activity 451 461	suppressed
+R5	Associated_With Arg1:T13 Arg2:T20	
+T14	Biological_Activity 926 935	inhibited
+R7	Associated_With Arg1:T31 Arg2:T14	
+R8	Associated_With Arg1:T32 Arg2:T14	
+T15	Biological_Activity 1263 1270	binding

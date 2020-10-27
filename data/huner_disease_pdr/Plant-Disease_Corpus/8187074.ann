@@ -1,0 +1,8 @@
+T1	Disease 121 130	neoplasia
+T2	Disease 1809 1815	cancer
+T4	Plant 32 38	garlic
+T6	Plant 1888 1894	garlic
+T7	Plant 1899 1905	onions
+T8	Plant 43 49	onions
+T3	Treatment_of_disease 1869 1884	protective role
+E1	Treatment_of_disease:T3 Cause:T6 Cause2:T7 Theme:T2

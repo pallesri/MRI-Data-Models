@@ -1,0 +1,56 @@
+T1	Species 50 64	Comamonadaceae
+T2	Chemical 75 98	1-chloro-4-nitrobenzene
+T3	Chemical 127 133	carbon
+T4	Chemical 135 143	nitrogen
+T5	Chemical 100 105	1C4NB
+T6	Chemical 172 177	1C4NB
+T7	Chemical 198 203	1C4NB
+T8	Chemical 264 271	ammonia
+T9	Chemical 276 284	chloride
+T10	Species 0 20	Bacterial strain LW1
+T11	Species 313 316	LW1
+T12	Chemical 329 334	1C4NB
+T13	Chemical 374 396	2-amino-5-chlorophenol
+T14	Metabolite 374 396	2-amino-5-chlorophenol
+R1	Isolated_From Arg1:T14 Arg2:T11	
+T16	Spectral_Data 407 437	13C nuclear magnetic resonance
+T17	Spectral_Data 439 442	NMR
+T18	Spectral_Data 461 478	mass spectrometry
+R5	Associated_With Arg1:T14 Arg2:T18	
+T19	Chemical 550 555	nitro
+T20	Chemical 569 582	hydroxylamino
+T21	Chemical 652 658	oxygen
+T22	Chemical 681 684	NAD
+T23	Chemical 709 731	2-amino-5-chlorophenol
+T27	Spectral_Data 1017 1037	13C NMR spectroscopy
+T28	Spectral_Data 1042 1059	mass spectrometry
+T29	Chemical 1063 1085	5-chloropicolinic acid
+R6	Associated_With Arg1:T29 Arg2:T28	
+R7	Associated_With Arg1:T29 Arg2:T27	
+T30	Chemical 1105 1108	NAD
+T31	Chemical 1138 1144	oxygen
+T32	Metabolite 1168 1190	5-chloropicolinic acid
+R9	Metabolite_Of Arg1:T14 Arg2:T12	
+T34	Metabolite 1063 1085	5-chloropicolinic acid
+R10	Metabolite_Of Arg1:T34 Arg2:T23	
+T15	Spectral_Data 400 402;411 437	1H nuclear magnetic resonance
+R2	Associated_With Arg1:T13 Arg2:T18	
+R3	Associated_With Arg1:T14 Arg2:T16	
+R4	Associated_With Arg1:T13 Arg2:T16	
+R11	Associated_With Arg1:T14 Arg2:T15	
+R12	Associated_With Arg1:T13 Arg2:T15	
+T35	Metabolite 709 731	2-amino-5-chlorophenol
+T24	Spectral_Data 851 879	absorption maximum at 395 nm
+T25	Spectral_Data 933 957	maxima at 226 and 272 nm
+R13	Associated_With Arg1:T34 Arg2:T25	
+R14	Associated_With Arg1:T29 Arg2:T25	
+R15	Associated_With Arg1:T34 Arg2:T24	
+R16	Associated_With Arg1:T29 Arg2:T24	
+T26	Spectral_Data 1010 1012;1021 1037	1H NMR spectroscopy
+R8	Associated_With Arg1:T34 Arg2:T28	
+R17	Associated_With Arg1:T34 Arg2:T27	
+R18	Associated_With Arg1:T34 Arg2:T26	
+R19	Associated_With Arg1:T29 Arg2:T26	
+R20	Isolated_From Arg1:T34 Arg2:T11	
+T33	Spectral_Data 1242 1270	absorption maximum at 306 nm
+T36	Chemical 1168 1190	5-chloropicolinic acid

@@ -1,0 +1,13 @@
+T1	Disease 103 110	obesity
+T2	Disease 122 141	metabolic disorders
+T3	Disease 1468 1475	obesity
+T4	Disease 1487 1506	metabolic disorders
+T6	Plant 83 90	soybean
+T8	Plant 227 234	soybean
+T9	Plant 776 783	glucose
+T10	Plant 821 828	glucose
+T11	Plant 1448 1455	soybean
+T5	Treatment_of_disease 64 79	benefit effects
+E1	Treatment_of_disease:T5 Cause:T6 Theme:T2 Theme2:T1
+T7	Treatment_of_disease 1429 1444	benefit effects
+E2	Treatment_of_disease:T7 Cause:T11 Theme:T3 Theme2:T4

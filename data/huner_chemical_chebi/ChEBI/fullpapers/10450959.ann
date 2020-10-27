@@ -1,0 +1,151 @@
+T2	Biological_Activity 141 153	inflammatory
+T3	Protein 186 194	proteins
+T4	Protein 215 222	protein
+T5	Protein 227 256	eosinophil-derived neurotoxin
+T6	Biological_Activity 246 256	neurotoxin
+T7	Protein 258 261	EDN
+T8	Biological_Activity 268 277	cytotoxic
+T9	Protein 278 286	proteins
+T10	Species 341 349	patients
+T1	Biological_Activity 410 420	inhibitors
+T11	Biological_Activity 428 441	anti-allergic
+T12	Chemical 442 447	drugs
+T13	Chemical 473 482	sulochrin
+T14	Biological_Activity 396 409	degranulation
+T15	Metabolite 473 482	sulochrin
+T16	Chemical 484 485	6
+T17	Metabolite 484 485	6
+T18	Chemical 490 500	metabolite
+T19	Metabolite 490 500	metabolite
+T20	Species 504 509	fungi
+R1	Isolated_From Arg1:T17 Arg2:T20	
+R2	Isolated_From Arg1:T15 Arg2:T20	
+T21	Biological_Activity 526 535	inhibitor
+T22	Biological_Activity 550 563	degranulation
+T23	Biological_Activity 574 583	inhibited
+T24	Biological_Activity 595 605	activation
+T25	Biological_Activity 610 620	chemotaxis
+R3	Associated_With Arg1:T17 Arg2:T21	
+R4	Associated_With Arg1:T16 Arg2:T21	
+R5	Associated_With Arg1:T15 Arg2:T21	
+R6	Associated_With Arg1:T13 Arg2:T21	
+R7	Associated_With Arg1:T16 Arg2:T22	
+R8	Associated_With Arg1:T17 Arg2:T22	
+R9	Associated_With Arg1:T13 Arg2:T22	
+R10	Associated_With Arg1:T15 Arg2:T22	
+R11	Associated_With Arg1:T16 Arg2:T25	
+R12	Associated_With Arg1:T17 Arg2:T25	
+R13	Associated_With Arg1:T13 Arg2:T25	
+R14	Associated_With Arg1:T15 Arg2:T25	
+T26	Biological_Activity 682 692	inhibitory
+T27	Biological_Activity 716 729	degranulation
+T28	Chemical 741 750	Sulochrin
+T29	Metabolite 741 750	Sulochrin
+T30	Chemical 752 753	6
+T31	Metabolite 752 753	6
+T32	Chemical 793 818	Benzoic acid benzyl ester
+T33	Chemical 820 821	5
+T34	Chemical 859 881	2-bromo benzyl alcohol
+T35	Chemical 883 884	2
+T36	Chemical 890 902	benzoic acid
+T37	Chemical 940 941	5
+T38	Chemical 948 973	1- benzoyl benzyl alcohol
+T39	Chemical 997 1017	benzoyl benzoic acid
+T40	Chemical 1063 1083	benzoyl benzoic acid
+T41	Chemical 1119 1128	sulochrin
+T42	Metabolite 1119 1128	sulochrin
+T43	Chemical 1130 1131	6
+T44	Metabolite 1130 1131	6
+T45	Chemical 1145 1154	sulochrin
+T46	Metabolite 1145 1154	sulochrin
+T47	Chemical 1145 1166	sulochrin derivatives
+T48	Chemical 1179 1180	9
+T49	Chemical 1228 1238	Compound 9
+T50	Chemical 1316 1325	sulochrin
+T51	Metabolite 1316 1325	sulochrin
+T52	Chemical 1327 1328	6
+T53	Metabolite 1327 1328	6
+T54	Chemical 1301 1325	derivatives of sulochrin
+T55	Biological_Activity 1354 1365	inba"oitory
+T56	Biological_Activity 1394 1407	degranulation
+T57	Chemical 1444 1461	ester derivatives
+T58	Chemical 1444 1449	ester
+T59	Chemical 1549 1561	alkyl esters
+T60	Chemical 1608 1615;1630 1635	n-butyl ester
+T61	Chemical 1620 1635	see-butyl ester
+T62	Chemical 2287 2296	Sulochrln
+T63	Metabolite 2287 2296	Sulochrln
+T64	Chemical 2304 2308	BnBr
+T65	Chemical 2315 2320	CH3CN
+T66	Chemical 2393 2396	NBS
+T67	Chemical 2397 2401	CCI4
+T68	Chemical 2411 2415	BnBr
+T69	Chemical 2423 2426	DMF
+T70	Chemical 2471 2475	DEAD
+T71	Chemical 2494 2500	n-BuLi
+T72	Chemical 2521 2524	PDC
+T73	Chemical 2525 2528	DMF
+T74	Chemical 2568 2571	Mel
+T75	Chemical 2578 2581	DMF
+T76	Chemical 2587 2593	Pd(OH)
+T77	Chemical 2594 2601	Carbon/
+T78	Chemical 2601 2605	EtOH
+T79	Chemical 2606 2617	Cyclohexene
+T80	Chemical 2882 2888	n-BuLi
+T81	Chemical 2889 2892	THF
+T82	Chemical 2970 2979	sulochrin
+T83	Metabolite 2970 2979	sulochrin
+T84	Chemical 2981 2982	6
+T85	Metabolite 2981 2982	6
+T86	Chemical 3024 3039	carboxylic acid
+T87	Chemical 3260 3270	alkylester
+T88	Biological_Activity 3285 3300	degranulation  
+T89	Chemical 3375 3384	Sulochrin
+T90	Metabolite 3375 3384	Sulochrin
+T91	Chemical 3386 3387	6
+T92	Metabolite 3386 3387	6
+T93	Chemical 3553 3561	phenolic
+T94	Chemical 3562 3577	hydroxyl groups
+T95	Biological_Activity 3592 3607	degranulation  
+T96	Chemical 3608 3616	Sulochdn
+T97	Metabolite 3608 3616	Sulochdn
+T98	Chemical 3618 3619	6
+T99	Metabolite 3618 3619	6
+T100	Chemical 3827 3838	alkyl ester
+T101	Chemical 3872 3887	see-butyl ester
+T102	Chemical 3955 3962;3976 3981	methoxy group
+T103	Chemical 3967 3981	hydroxyl group
+T104	Chemical 4039 4048	sulochrin
+T105	Metabolite 4039 4048	sulochrin
+T106	Chemical 4050 4051	6
+T107	Metabolite 4050 4051	6
+T108	Chemical 4054 4056	19
+T109	Chemical 4096 4098	16
+T110	Chemical 4118 4127	sulochrin
+T111	Metabolite 4118 4127	sulochrin
+T112	Chemical 4129 4130	6
+T113	Metabolite 4129 4130	6
+T114	Chemical 4153 4167	hydroxyl group
+T115	Chemical 4188 4190	19
+T116	Chemical 4214 4216	17
+T117	Chemical 4280 4293	methoxy group
+T118	Chemical 4345 4356	Compound 18
+T119	Chemical 4371 4385	methoxy groups
+T120	Chemical 4476 4478	16
+T121	Chemical 4482 4484	17
+T122	Chemical 4499 4510	compound 20
+T123	Chemical 4577 4591	hydroxyl group
+T124	Chemical 4666 4674	hydrogen
+T125	Chemical 4883 4892	suiochrin
+T126	Metabolite 4883 4892	suiochrin
+T127	Chemical 4883 4904	suiochrin derivatives
+T128	Chemical 4911 4919	hydrogen
+T129	Chemical 5277 5285	hydrogen
+T130	Chemical 5320 5328;5330 5332	Compound 10
+T131	Chemical 5320 5328;5337 5339	Compound 19
+T132	Chemical 5508 5518	alkylester
+T133	Chemical 5553 5568	see-butyl ester
+T134	Chemical 5704 5713	sulochrin
+T135	Metabolite 5704 5713	sulochrin
+T136	Biological_Activity 5735 5746	inlu'bitory
+T137	Biological_Activity 5775 5788	degranulation

@@ -1,0 +1,38 @@
+T2	Protein 23 26	MAb
+T3	Chemical 53 122	p-nitrophenylphosphate derivative of 3 alpha, 5 beta-lithocholic acid
+T4	Chemical 170 202	steroidal p-nitrophenylcarbonate
+T5	Protein 249 251	Ab
+T7	Protein 2 21	monoclonal antibody
+T8	Chemical 385 442	p-nitrophenylcarbonate of 3 beta, 5 beta-lithocholic acid
+T9	Species 495 501	Bovine
+T11	Protein 517 520	BSA
+T13	Protein 353 355	Ab
+T15	Chemical 180 202;90 122	p-nitrophenylcarbonate 3 alpha, 5 beta-lithocholic acid
+T18	Protein 663 666	BSA
+T19	Protein 765 767	Ab
+T20	Chemical 719 734	phosphate ester
+T21	Chemical 735 738	TSA
+T23	Biological_Activity 702 711	inhibited
+R13	Associated_With Arg1:T21 Arg2:T23	
+T24	Biological_Activity 802 811	inhibited
+T25	Chemical 841 844	TSA
+R14	Associated_With Arg1:T3 Arg2:T24	
+R15	Associated_With Arg1:T25 Arg2:T24	
+T26	Protein 890 893	MAb
+T27	Protein 908 911	BSA
+T28	Protein 1018 1025	protein
+T29	Protein 1071 1073	Ab
+T30	Protein 1089 1098	enzymatic
+T32	Protein 495 515	Bovine serum albumin
+R16	Binds_With Arg1:T3 Arg2:T7	
+R17	Binds_With Arg1:T3 Arg2:T2	
+R1	Binds_With Arg1:T15 Arg2:T7	
+R2	Binds_With Arg1:T15 Arg2:T2	
+R3	Binds_With Arg1:T8 Arg2:T7	
+R4	Binds_With Arg1:T8 Arg2:T2	
+R5	Binds_With Arg1:T15 Arg2:T5	
+R6	Binds_With Arg1:T15 Arg2:T11	
+R7	Binds_With Arg1:T3 Arg2:T11	
+R11	Binds_With Arg1:T8 Arg2:T5	
+R8	Binds_With Arg1:T8 Arg2:T32	
+R12	Binds_With Arg1:T8 Arg2:T11	

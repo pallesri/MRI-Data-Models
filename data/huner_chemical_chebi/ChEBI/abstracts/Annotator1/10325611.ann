@@ -1,0 +1,16 @@
+T1	Chemical 25 32	taurine
+T3	Species 94 99	human
+T4	Protein 199 219	superoxide dismutase
+T5	Protein 221 224	SOD
+T7	Chemical 254 261	taurine
+T8	Chemical 354 361	taurine
+T9	Protein 374 377	SOD
+T11	Chemical 413 420	taurine
+T12	Protein 546 568	glutathione peroxidase
+T13	Protein 570 576	GSH-Px
+T15	Chemical 585 592	taurine
+T16	Chemical 678 683	lipid
+T18	Chemical 788 795	taurine
+T20	Chemical 984 991	taurine
+T2	Biological_Activity 210 219	dismutase
+T6	Biological_Activity 558 568	peroxidase

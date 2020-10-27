@@ -1,0 +1,223 @@
+T1	Protein 2 20	DNA topoisomerases
+T2	Protein 29 36	enzymes
+T3	Protein 83 90	enzymes
+T4	Biological_Activity 126 136	metabolism
+T5	Metabolite 192 204;217 228	Nidulalin  A derivatives
+T6	Chemical 192 204;217 228	Nidulalin  A derivatives
+T7	Chemical 205 206	1
+T8	Chemical 230 235	F390B
+T9	Metabolite 192 204	Nidulalin  A
+T10	Chemical 192 204	Nidulalin  A
+T11	Metabolite 205 206	1
+T12	Metabolite 230 235	F390B
+T13	Chemical 236 237	2
+T14	Metabolite 236 237	2
+T15	Chemical 230 234;243 244	F390 C
+T16	Metabolite 230 234;243 244	F390 C
+T17	Chemical 245 246	3
+T18	Metabolite 245 246	3
+T19	Species 268 282	Penicillium sp
+T20	Biological_Activity 294 303	cytotoxic
+R1	Isolated_From Arg1:T18 Arg2:T19	
+R2	Isolated_From Arg1:T16 Arg2:T19	
+R3	Isolated_From Arg1:T14 Arg2:T19	
+R4	Isolated_From Arg1:T12 Arg2:T19	
+R5	Isolated_From Arg1:T5 Arg2:T19	
+R6	Isolated_From Arg1:T11 Arg2:T19	
+R7	Isolated_From Arg1:T9 Arg2:T19	
+R8	Associated_With Arg1:T18 Arg2:T20	
+R9	Associated_With Arg1:T17 Arg2:T20	
+R10	Associated_With Arg1:T16 Arg2:T20	
+R11	Associated_With Arg1:T15 Arg2:T20	
+R12	Associated_With Arg1:T14 Arg2:T20	
+R13	Associated_With Arg1:T13 Arg2:T20	
+R14	Associated_With Arg1:T12 Arg2:T20	
+R15	Associated_With Arg1:T8 Arg2:T20	
+R16	Associated_With Arg1:T5 Arg2:T20	
+R17	Associated_With Arg1:T6 Arg2:T20	
+R18	Associated_With Arg1:T11 Arg2:T20	
+R19	Associated_With Arg1:T7 Arg2:T20	
+R20	Associated_With Arg1:T9 Arg2:T20	
+R21	Associated_With Arg1:T10 Arg2:T20	
+T21	Chemical 325 336	Nidulalin A
+T22	Metabolite 325 336	Nidulalin A
+T23	Chemical 346 356	metabolite
+T24	Metabolite 346 356	metabolite
+T25	Biological_Activity 396 406	inhibitory
+T26	Protein 425 445	DNA topoisomerase II
+T27	Protein 446 453	Topo II
+R22	Associated_With Arg1:T22 Arg2:T25	
+R23	Associated_With Arg1:T21 Arg2:T25	
+R24	Binds_With Arg1:T22 Arg2:T26	
+R25	Binds_With Arg1:T21 Arg2:T26	
+R26	Binds_With Arg1:T22 Arg2:T27	
+R27	Binds_With Arg1:T21 Arg2:T27	
+T28	Biological_Activity 470 479	antitumor
+T29	Chemical 492 503	nidulalin A
+T30	Metabolite 492 503	nidulalin A
+T31	Biological_Activity 580 589	antitumor
+T32	Chemical 692 704	methyl ester
+T33	Chemical 715 716	1
+T34	Metabolite 715 716	1
+T35	Protein 720 729	esterases
+T36	Species 733 741	murine  
+T37	Chemical 765 786	xanthone derivative 4
+T38	Chemical 765 773	xanthone
+T39	Chemical 837 838	1
+T40	Metabolite 837 838	1
+T41	Chemical 909 916	analogs
+T42	Biological_Activity 985 994	antitumor
+T43	Chemical 1007 1033	derivatives of nidulalin A
+T44	Chemical 1022 1033	nidulalin A
+T45	Metabolite 1022 1033	nidulalin A
+T46	Chemical 1039 1044	amide
+T47	Chemical 1071 1092	methoxycarbonyl group
+T48	Chemical 1118 1129	Nidulalin A
+T49	Metabolite 1118 1129	Nidulalin A
+T50	Chemical 1130 1131	1
+T51	Metabolite 1130 1131	1
+T52	Chemical 1142 1147	F390B
+T53	Metabolite 1142 1147	F390B
+T54	Chemical 1148 1149	2
+T55	Metabolite 1148 1149	2
+T56	Chemical 1164 1169	F390C
+T57	Metabolite 1164 1169	F390C
+T58	Chemical 1170 1171	3
+T59	Metabolite 1170 1171	3
+T60	Chemical 1426 1431	amide
+T61	Chemical 1443 1454	nidulalin A
+T62	Metabolite 1443 1454	nidulalin A
+T63	Chemical 1426 1454	amide analogs of nidulalin A
+T64	Chemical 1502 1513	methylamine
+T65	Chemical 1517 1521	MeOH
+T66	Chemical 1560 1566;1568 1571	lactam 10a
+T67	Chemical 1560 1566;1576 1579	lactam 10b
+T68	Chemical 1660 1666	lactam
+T69	Chemical 1678 1689	nidulalin A
+T70	Metabolite 1678 1689	nidulalin A
+T71	Chemical 1706 1711	NaBH4
+T72	Chemical 1715 1719	MeOH
+T73	Chemical 1730 1761	tetrahydroxanthone derivative 5
+T74	Chemical 1803 1809	NaOH  
+T75	Chemical 1838 1854	acetic anhydride
+T76	Chemical 1858 1866	pyridine
+T77	Chemical 1875 1893	carboxylic acid 6.
+T78	Chemical 1910 1911	6
+T79	Chemical 1926 1932	amines
+T80	Chemical 1944 1951	ammonia
+T81	Chemical 1953 1964	methylamine
+T82	Chemical 1966 1979	dimethylamine
+T83	Chemical 1981 1995	2-aminoethanol
+T84	Chemical 2001 2012	pyrrolidine
+T85	Chemical 2018 2032	acid  chloride
+T86	Chemical 2062 2076	hydroxyl group
+T87	Chemical 2105 2110	amine
+T88	Chemical 2142 2153	amides 7a-e
+T89	Chemical 2182 2184	7a
+T90	Chemical 2190 2194	SeOz
+T91	Chemical 2198 2205	dioxane
+T92	Chemical 2220 2249	dihydroxanthone derivative 8a
+T93	Chemical 2284 2288	7h-e
+T94	Chemical 2307 2311	8h-e
+T95	Chemical 2332 2345	acetyl groups
+T96	Chemical 2349 2353	8a-e
+T97	Chemical 2370 2378	alkaline
+T98	Chemical 2398 2416	amide analogs 9a-e
+T99	Chemical 2592 2603	Nidulalin A
+T100	Metabolite 2592 2603	Nidulalin A
+T101	Chemical 2604 2605	1
+T102	Metabolite 2604 2605	1
+T103	Chemical 2984 2989	NaBH4
+T104	Chemical 2991 2995	MeOH
+T105	Chemical 3005 3009	NaOH
+T106	Chemical 3016 3020	Ac20
+T107	Chemical 3022 3030	pyridine
+T108	Chemical 3038 3043	SOCI2
+T109	Chemical 3050 3053	DMF
+T110	Chemical 3055 3061	CH2CI2
+T111	Chemical 3074 3080	amines
+T112	Chemical 3087 3091	Ac20
+T113	Chemical 3093 3101	pyridine
+T114	Chemical 3109 3113	SeO2
+T115	Chemical 3115 3122	dioxane
+T116	Chemical 3133 3137	NaOH
+T117	Chemical 3139 3143	MeOH
+T118	Chemical 3173 3178	MeNH2
+T119	Chemical 3180 3184	MeOH
+T120	Chemical 3411 3428	amide derivatives
+T121	Species 3447 3453	murine
+T122	Chemical 3475 3485	compound 4
+T123	Chemical 3551 3564	amide analogs
+T124	Protein 3585 3594	esterases
+T125	Chemical 3630 3668	semisynthetic compounds of nidulalin A
+T126	Chemical 3657 3668	nidulalin A
+T127	Metabolite 3657 3668	nidulalin A
+T128	Chemical 3695 3718	amide  derivatives 9a-e
+T129	Biological_Activity 3728 3737	cytotoxic
+R28	Associated_With Arg1:T128 Arg2:T129	
+T130	Species 3760 3765	human
+T131	Species 3770 3776	murine
+T132	Chemical 3805 3807	9a
+T133	Biological_Activity 3809 3818	inhibited
+T134	Protein 3819 3826	Topo II
+R29	Associated_With Arg1:T132 Arg2:T133	
+R30	Binds_With Arg1:T132 Arg2:T134	
+T135	Chemical 3890 3892	9a
+T136	Biological_Activity 3909 3919	inhibitory
+T137	Protein 3937 3952	topoisomerase I
+T138	Protein 3953 3959	Topo I
+R31	Associated_With Arg1:T135 Arg2:T136	
+R32	Binds_With Arg1:T135 Arg2:T137	
+R33	Binds_With Arg1:T135 Arg2:T138	
+T139	Protein 4028 4035	Topo II
+T140	Biological_Activity 4037 4049	cytotoxicity
+T141	Chemical 4053 4055	9a
+T142	Chemical 4082 4083	1
+T143	Metabolite 4082 4083	1
+R34	Associated_With Arg1:T141 Arg2:T140	
+T144	Chemical 4085 4095	Lactam 10a
+T145	Biological_Activity 4096 4105	inhibited
+T146	Protein 4114 4120	Topo I
+T147	Protein 4126 4133	Topo II
+T148	Chemical 4142 4160	conjugated dienone
+T149	Biological_Activity 4185 4195	inhibitory
+T150	Protein 4213 4220	Topo II
+T151	Biological_Activity 4263 4275	cytotoxicity
+T152	Biological_Activity 4280 4290	inhibitory
+T153	Protein 4308 4314	Topo I
+T154	Protein 4319 4326	Topo II
+T155	Biological_Activity 4397 4409	cytotoxicity
+T156	Chemical 4419 4426	analogs
+T157	Chemical 4446 4447	1
+T158	Metabolite 4446 4447	1
+T159	Biological_Activity 4483 4495	cytotoxicity
+T160	Chemical 4534 4557	Nidulalin A Derivatives
+T161	Chemical 4534 4545	Nidulalin A
+T162	Metabolite 4534 4545	Nidulalin A
+T163	Biological_Activity 4570 4582	Cytotoxicity
+T164	Biological_Activity 4609 4619	Inhibitory
+T165	Chemical 5214 5225	Nidulalin A
+T166	Metabolite 5214 5225	Nidulalin A
+T167	Chemical 5384 5387	MTT
+T168	Protein 5419 5425	Topo I
+T169	Biological_Activity 5557 5566	Antitumor
+T170	Chemical 5579 5581	9a
+T171	Chemical 5635 5637	9a
+T172	Biological_Activity 5723 5734	suppression
+T173	Biological_Activity 5795 5804	Antitumor
+T174	Species 5852 5858	murine
+T175	Chemical 5889 5891	9a
+T176	Biological_Activity 5932 5941	antitumor
+R35	Associated_With Arg1:T175 Arg2:T176	
+T177	Chemical 5973 5974	1
+T178	Metabolite 5973 5974	1
+T179	Chemical 6086 6107	methoxycarbonyl group
+T180	Chemical 6120 6131	nidulalin A
+T181	Metabolite 6120 6131	nidulalin A
+T182	Chemical 6120 6139	nidulalin A analogs
+T183	Protein 6159 6168	esterases
+T184	Species 6186 6192	murine
+T185	Biological_Activity 6237 6246	antitumor
+T186	Chemical 6286 6293	analogs
+T187	Spectral_Data 6419 6422;6432 6439	NMR spectra
+T188	Spectral_Data 6427 6439	mass spectra

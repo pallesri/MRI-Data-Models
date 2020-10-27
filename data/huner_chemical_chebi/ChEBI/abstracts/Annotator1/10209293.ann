@@ -1,0 +1,51 @@
+T1	Protein 4 15	flavoenzyme
+T2	Protein 16 35	d-aspartate oxidase
+T3	Species 41 45	beef
+T4	Protein 54 59	DASPO
+T5	Protein 61 72	EC 1.4. 3.1
+T6	Species 100 116	Escherichia coli
+T7	Protein 209 215	bDASPO
+T8	Protein 283 289	rDASPO
+T9	Species 312 320	E.  coli
+T10	Protein 328 334	rDASPO
+T11	Protein 404 410	bDASPO
+T12	Chemical 449 452	FAD
+T13	Chemical 521 524	FAD
+T14	Chemical 554 562	6-OH-FAD
+T15	Metabolite 449 452	FAD
+T16	Metabolite 521 524	FAD
+T17	Metabolite 554 562	6-OH-FAD
+R1	Isolated_From Arg1:T15 Arg2:T3	
+R2	Isolated_From Arg1:T16 Arg2:T6	
+R3	Isolated_From Arg1:T17 Arg2:T6	
+T18	Protein 670 676	rDASPO
+T19	Protein 689 695	bDASPO
+T20	Chemical 841 855	l-(+)-tartrate
+T21	Protein 866 871	DASPO
+T22	Chemical 978 986	coenzyme
+T23	Chemical 1004 1007	FAD
+T24	Metabolite 1004 1007	FAD
+T25	Protein 1075 1088	flavooxidases
+T26	Protein 1090 1096	rDASPO
+T27	Biological_Activity 1132 1141	oxidative
+T28	Biological_Activity 1204 1227	agonists or antagonists
+T29	Chemical 1260 1277	d-aspartatic acid
+R4	Associated_With Arg1:T29 Arg2:T28	
+T30	Chemical 1279 1294	d-glutamic acid
+R5	Associated_With Arg1:T30 Arg2:T28	
+T31	Chemical 1296 1320	N-methyl-d-aspartic acid
+R6	Associated_With Arg1:T31 Arg2:T28	
+T32	Chemical 1322 1338	d,l-cysteic acid
+R7	Associated_With Arg1:T32 Arg2:T28	
+T33	Chemical 1340 1359	d-homocysteic  acid
+R8	Associated_With Arg1:T33 Arg2:T28	
+T34	Chemical 1361 1399	d, l-2-amino-3-phosphonopropanoic acid
+R9	Associated_With Arg1:T34 Arg2:T28	
+T35	Chemical 1401 1425	d-alpha-aminoadipic acid
+R10	Associated_With Arg1:T35 Arg2:T28	
+T36	Chemical 1427 1459	d-aspartic acid-beta-hydroxamate
+R11	Associated_With Arg1:T36 Arg2:T28	
+T37	Chemical 1461 1483	glycyl-d-aspartic acid
+R12	Associated_With Arg1:T37 Arg2:T28	
+T38	Chemical 1488 1526	cis-2, 3-piperidine  dicarboxylic acid
+R13	Associated_With Arg1:T38 Arg2:T28	

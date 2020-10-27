@@ -1,0 +1,30 @@
+T1	Chemical 106 115	digitoxin
+T2	Chemical 120 135	acetyldigitoxin
+T3	Protein 153 172	human serum albumin
+T4	Protein 174 177	HSA
+T5	Chemical 224 233	digitoxin
+T6	Chemical 238 253	acetyldigitoxin
+T7	Protein 274 277	HSA
+T8	Chemical 359 368	digitoxin
+T9	Chemical 370 385	acetyldigitoxin
+T10	Chemical 449 466	beta-cyclodextrin
+T11	Biological_Activity 510 522	solubilising
+R1	Associated_With Arg1:T10 Arg2:T11	
+T12	Chemical 548 557	digitoxin
+T13	Chemical 563 578	acetyldigitoxin
+T14	Protein 644 647	HSA
+T16	Chemical 761 769	warfarin
+T17	Chemical 773 785	L-tryptophan
+T18	Chemical 832 840	warfarin
+T19	Chemical 841 853	azapropazone
+T20	Chemical 858 864	indole
+T21	Chemical 865 879	benzodiazepine
+T22	Protein 889 892	HSA
+T24	Protein 963 966	HSA
+T29	Chemical 971 980	digitoxin
+T30	Chemical 971 998	digitoxin-related compounds
+R2	Binds_With Arg1:T13 Arg2:T14	
+R3	Binds_With Arg1:T12 Arg2:T14	
+R7	Binds_With Arg1:T17 Arg2:T22	
+R8	Binds_With Arg1:T16 Arg2:T22	
+R4	Binds_With Arg1:T30 Arg2:T24	

@@ -1,0 +1,37 @@
+T1	Biological_Activity 65 74	inhibitor
+T2	Chemical 75 83	acarbose
+T3	Metabolite 75 83	acarbose
+T5	Protein 47 64	alpha-glucosidase
+R2	Associated_With Arg1:T3 Arg2:T1	
+R3	Associated_With Arg1:T2 Arg2:T1	
+T4	Species 115 138	Actinoplanes sp. 50/110
+R5	Isolated_From Arg1:T3 Arg2:T4	
+T7	Protein 199 229	dTDP-D-glucose 4,6-dehydratase
+T8	Protein 231 235	acbB
+T9	Protein 265 269	acbA
+T10	Protein 271 294	dTDP-D-glucose synthase
+T11	Protein 300 304	acbC
+T12	Protein 317 324	protein
+T13	Protein 356 382	3-dehydroquinate synthases
+T14	Protein 384 397	AroB proteins
+T15	Protein 404 408	acbC
+T16	Species 450 474	Streptomyces lividans 66
+T18	Protein 510 530	C7-cyclitol synthase
+T19	Chemical 537 563	sedo-heptulose 7-phosphate
+T20	Chemical 573 598	ido-heptulose 7-phosphate
+T21	Chemical 644 665	2-epi-5-epi-valiolone
+T22	Chemical 667 725	(2S,3S,4S,5R)-5-(hydroxymethyl)cyclohexanon-2,3,4,5-tetrol
+T23	Metabolite 644 665	2-epi-5-epi-valiolone
+T24	Metabolite 667 725	(2S,3S,4S,5R)-5-(hydroxymethyl)cyclohexanon-2,3,4,5-tetrol
+T25	Chemical 750 761	valienamine
+T26	Chemical 772 780	acarbose
+T27	Metabolite 772 780	acarbose
+R7	Metabolite_Of Arg1:T27 Arg2:T22	
+R8	Metabolite_Of Arg1:T27 Arg2:T21	
+R9	Metabolite_Of Arg1:T24 Arg2:T19	
+R10	Metabolite_Of Arg1:T23 Arg2:T19	
+T28	Protein 876 880	AcbC
+T29	Protein 961 986	3-dehydroquinate synthase
+R11	Binds_With Arg1:T3 Arg2:T5	
+R12	Binds_With Arg1:T2 Arg2:T5	
+R1	Binds_With Arg1:T19 Arg2:T18	

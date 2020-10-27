@@ -1,0 +1,48 @@
+T2	Chemical 39 66	metabolites of nitrobenzene
+T3	Metabolite 39 66	metabolites of nitrobenzene
+T4	Chemical 54 66	nitrobenzene
+T5	Biological_Activity 103 118	carcinogenicity
+T6	Biological_Activity 136 144	toxicity
+T7	Chemical 148 160	nitrobenzene
+T8	Chemical 162 176	Nitrosobenzene
+T9	Metabolite 162 176	Nitrosobenzene
+T10	Chemical 180 192	nitrobenzene
+T11	Chemical 180 203	nitrobenzene metabolite
+T12	Metabolite 180 203	nitrobenzene metabolite
+R1	Metabolite_Of Arg1:T9 Arg2:T10	
+T14	Chemical 266 273	thymine
+T15	Chemical 278 286	cytosine
+T16	Protein 297 305	Catalase
+T17	Chemical 310 323	bathocuproine
+T19	Chemical 380 384	H2O2
+T20	Chemical 389 394	Cu(I)
+T21	Biological_Activity 418 436	radical scavengers
+T23	Chemical 404 425	free hydroxyl radical
+T24	Chemical 482 496	Nitrosobenzene
+T25	Metabolite 482 496	Nitrosobenzene
+T26	Chemical 521 557	8-oxo-7, 8-dihydro-2'-deoxyguanosine
+T28	Species 561 565	calf
+T29	Chemical 596 600	NADH
+T30	Chemical 605 611	Cu(II)
+T31	Spectral_Data 613 636	ESR spectroscopic study
+T32	Chemical 656 670	nitrosobenzene
+T33	Metabolite 656 670	nitrosobenzene
+T34	Chemical 685 689	NADH
+T35	Metabolite 521 557	8-oxo-7, 8-dihydro-2'-deoxyguanosine
+T36	Chemical 697 725	phenylhydronitroxide radical
+T37	Metabolite 697 725	phenylhydronitroxide radical
+T38	Chemical 749 755	Cu(II)
+R7	Metabolite_Of Arg1:T37 Arg2:T32	
+R8	Associated_With Arg1:T37 Arg2:T31	
+R9	Associated_With Arg1:T36 Arg2:T31	
+T39	Chemical 784 798	nitrosobenzene
+T40	Metabolite 784 798	nitrosobenzene
+T41	Chemical 835 839	NADH
+T43	Chemical 966 971	Cu(I)
+T44	Chemical 977 981	H2O2
+T45	Chemical 914 935	copper-oxygen complex
+R10	Associated_With Arg1:T7 Arg2:T6	
+R11	Associated_With Arg1:T7 Arg2:T5	
+T1	Chemical 213 217	NADH
+T13	Chemical 223 229	Cu(II)
+T18	Biological_Activity 324 333	inhibited

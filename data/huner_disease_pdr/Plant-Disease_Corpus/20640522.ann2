@@ -1,0 +1,23 @@
+T1	Disease 114 138	gastric mucosal injuries
+T2	Disease 420 444	gastric mucosal injuries
+T3	Disease 502 524	gastric mucosal injury
+T4	Disease 556 578	Gastric mucosal injury
+T5	Disease 940 964	Gastric mucosal injuries
+T6	Disease 997 1003	injury
+T7	Disease 1091 1097	injury
+T8	Treatment_of_disease 93 102	treatment
+E1	Treatment_of_disease:T8 Theme:T1 Cause:T9
+T10	Plant 351 354	ESE
+T9	Plant 33 65	Eriobotrya japonica seed extract
+T11	Plant 67 70	ESE
+*	Equiv T9 T11
+T12	Plant 861 866	ESE  
+T13	Plant 851 854	ESE
+T14	Plant 1181 1184	ESE
+T15	Plant 1189 1194	ESE  
+T16	Plant 1348 1353	ESE  
+T17	Plant 1340 1343	ESE
+T18	Plant 1445 1448	ESE
+T19	Plant 1536 1539	ESE
+T20	Treatment_of_disease 406 416	prevention
+E2	Treatment_of_disease:T20 Theme:T2 Cause:T10

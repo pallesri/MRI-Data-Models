@@ -1,0 +1,77 @@
+T1	Protein 84 109	Glutl glucose transporter
+T2	Biological_Activity 143 152	inhibitor
+T3	Protein 126 142	guanylyl cyclase
+T5	Chemical 153 161	LY-83583
+T6	Biological_Activity 205 214	transport
+T7	Chemical 275 283	LY-83583
+T8	Chemical 383 390	glucose
+T9	Biological_Activity 391 400	transport
+T10	Chemical 197 204	glucose
+T11	Chemical 453 461	LY-83583
+T12	Chemical 465 472	glucose
+T13	Biological_Activity 473 482	transport
+T14	Chemical 520 532	8-bromo-cGMP
+T16	Protein 551 573	cGMP phosphodiesterase
+T17	Biological_Activity 574 584	inhibitors
+T18	Chemical 586 595	zaprinast
+T19	Chemical 600 612	dipyridamole
+T20	Chemical 629 636	glucose
+T21	Biological_Activity 638 647	transport
+T22	Chemical 668 676	LY-83583
+T23	Chemical 695 699	cGMP
+T24	Chemical 735 743	LY-83583
+T25	Chemical 747 754	glucose
+T26	Biological_Activity 755 764	transport
+T27	Biological_Activity 785 795	inhibition
+T29	Chemical 882 889	lactate
+T30	Protein 953 968	phospholipase C
+T32	Biological_Activity 969 978	inhibitor
+T33	Chemical 979 985	U73122
+T34	Chemical 1011 1018	glucose
+T35	Biological_Activity 1019 1028	transport
+T36	Chemical 1041 1049	LY-83583
+T37	Chemical 1073 1081	LY-83583
+T38	Metabolite 1109 1123	diacylglycerol
+T39	Chemical 1109 1123	diacylglycerol
+T40	Chemical 1156 1162	U73122
+T41	Chemical 1213 1220	glucose
+T42	Biological_Activity 1221 1230	transport
+T43	Chemical 1243 1251	LY-83583
+T44	Chemical 1280 1288	LY-83583
+T45	Chemical 1292 1299	glucose
+T46	Biological_Activity 1292 1309	glucose transport
+T47	Chemical 1339 1351	thapsigargin
+T49	Protein 1372 1388	protein kinase C
+T50	Biological_Activity 1380 1386	kinase
+T51	Chemical 1460 1491	phorbol-12-myristate 13-acetate
+T52	Chemical 1515 1522	glucose
+T53	Biological_Activity 1523 1532	transport
+T54	Chemical 1545 1553	LY-83583
+T55	Chemical 1595 1602	glucose
+T56	Biological_Activity 1603 1612	transport
+T57	Chemical 1628 1636	LY-83583
+T58	Chemical 1666 1670	cGMP
+T59	Biological_Activity 1698 1708	inhibition
+T61	Protein 1801 1816	phospholipase C
+T64	Species 44 47	rat
+R1	Associated_With Arg1:T5 Arg2:T2	
+R2	Associated_With Arg1:T5 Arg2:T6	
+R3	Associated_With Arg1:T18 Arg2:T17	
+R4	Associated_With Arg1:T19 Arg2:T17	
+R5	Associated_With Arg1:T33 Arg2:T32	
+R7	Associated_With Arg1:T47 Arg2:T46	
+R8	Associated_With Arg1:T44 Arg2:T46	
+R9	Associated_With Arg1:T51 Arg2:T50	
+R10	Associated_With Arg1:T22 Arg2:T21	
+R11	Associated_With Arg1:T24 Arg2:T26	
+R12	Associated_With Arg1:T33 Arg2:T35	
+R13	Associated_With Arg1:T36 Arg2:T35	
+R14	Associated_With Arg1:T43 Arg2:T42	
+R16	Associated_With Arg1:T40 Arg2:T42	
+R17	Associated_With Arg1:T54 Arg2:T53	
+R18	Associated_With Arg1:T57 Arg2:T56	
+R22	Associated_With Arg1:T11 Arg2:T13	
+R20	Binds_With Arg1:T18 Arg2:T16	
+R21	Binds_With Arg1:T19 Arg2:T16	
+R24	Binds_With Arg1:T33 Arg2:T30	
+R6	Binds_With Arg1:T51 Arg2:T49	

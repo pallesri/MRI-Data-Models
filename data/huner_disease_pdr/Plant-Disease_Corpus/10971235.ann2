@@ -1,0 +1,21 @@
+T1	Disease 80 97	colorectal cancer
+T2	Disease 150 167	colorectal cancer
+T3	Disease 336 350	colonic cancer
+T4	Disease 1031 1061	colorectal mucosal glutathione
+T5	Disease 1562 1574	colon cancer
+T6	Plant 47 53	coffee
+T8	Plant 135 141	coffee
+T10	Plant 230 236	coffee
+T12	Plant 290 296	coffee
+T15	Plant 648 654	coffee
+T16	Plant 667 673	coffee
+T18	Plant 812 818	coffee
+T20	Plant 1106 1112	coffee
+T22	Plant 1260 1266	coffee
+T24	Plant 1291 1297	coffee
+T7	Treatment_of_disease 64 71	protect
+E1	Treatment_of_disease:T7 Theme:T1 Cause:T6
+T9	Treatment_of_disease 125 131	effect
+E2	Treatment_of_disease:T9 Cause:T8 Theme:T2
+T11	Treatment_of_disease 269 275	effect
+E3	Treatment_of_disease:T11 Cause:T12 Theme:T3

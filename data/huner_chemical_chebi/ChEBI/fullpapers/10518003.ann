@@ -1,0 +1,2487 @@
+T1	Biological_Activity 179 191	carcinogenic
+T2	Chemical 375 384	chemicals
+T3	Species 441 446	human
+T4	Species 620 625	human
+T5	Biological_Activity 712 723	carcinogens
+T6	Biological_Activity 927 941	carcinogenesis
+T7	Biological_Activity 1030 1045	chemoprevention
+T8	Biological_Activity 1054 1069	Chemoprevention
+T9	Chemical 1104 1123	chemical substances
+T10	Biological_Activity 1168 1176	suppress
+T11	Biological_Activity 1178 1184	retard
+T12	Biological_Activity 1212 1226	carcinogenesis
+T13	Species 1367 1375	patients
+T14	Biological_Activity 1386 1401	chemoprevention
+T15	Chemical 1453 1462	retinoids
+T16	Biological_Activity 1484 1498	carcinogenesis
+T17	Biological_Activity 1575 1586	carcinogens
+T18	Biological_Activity 1659 1670	carcinogens
+T19	Biological_Activity 1739 1754	chemoprevention
+T20	Species 1811 1816	human
+T21	Biological_Activity 1845 1860	chemoprevention
+T22	Species 1989 1994	human
+T23	Biological_Activity 2040 2055	chemoprevention
+T24	Biological_Activity 2116 2130	carcinogenesis
+T25	Biological_Activity 2154 2169	chemoprevention
+T26	Biological_Activity 2170 2184	Carcinogenesis
+T27	Biological_Activity 2308 2322	carcinogenesis
+T28	Species 2326 2333	rodents
+T29	Biological_Activity 2580 2590	carcinogen
+T30	Biological_Activity 2609 2612;2623 2629	DNA damage
+T31	Biological_Activity 2700 2714	carcinogenesis
+T32	Biological_Activity 2692 2699	induced
+T33	Biological_Activity 2754 2766	carcinogenic
+T34	Biological_Activity 2806 2815	transport
+T35	Biological_Activity 2844 2854	metabolism
+T36	Chemical 2893 2903	metabolite
+T37	Metabolite 2893 2903	metabolite
+T38	Biological_Activity 3008 3017	genotoxic
+T39	Biological_Activity 3034 3042	mutation
+T40	Biological_Activity 3066 3074	mutation
+T41	Biological_Activity 3118 3125	mitosis
+T42	Biological_Activity 3158 3165	mutated
+T43	Biological_Activity 3237 3250	proliferating
+T44	Biological_Activity 3399 3412	proliferative
+T45	Biological_Activity 3441 3451	metastatic
+T46	Biological_Activity 3494 3509	chemopreventive
+T47	Biological_Activity 3611 3621	protective
+T48	Biological_Activity 3664 3678	carcinogenesis
+T49	Biological_Activity 3706 3721	chemopreventers
+T50	Biological_Activity 3770 3778	blocking
+T51	Biological_Activity 3790 3801	suppressing
+T52	Chemical 3494 3516	chemopreventive agents
+T53	Chemical 3706 3721	chemopreventers
+T54	Chemical 3770 3785	blocking agents
+T55	Chemical 3790 3808	suppressing agents
+T56	Biological_Activity 3821 3829	Blocking
+T57	Chemical 3821 3836	Blocking agents
+T58	Biological_Activity 3876 3883	inhibit
+T59	Biological_Activity 3905 3915	inhibiting
+T60	Biological_Activity 3933 3944	carcinogens
+T61	Chemical 3950 3969	precursor molecules
+T62	Chemical 3982 3993	metabolites
+T63	Metabolite 3982 3993	metabolites
+T64	Biological_Activity 4010 4021	carcinogens
+T65	Biological_Activity 4071 4083	carcinogenic
+T66	Protein 4172 4180	proteins
+T67	Biological_Activity 4182 4193	Suppressing
+T68	Chemical 4182 4200	Suppressing agents
+T69	Chemical 2754 2772	carcinogenic agent
+T70	Chemical 712 723	carcinogens
+T71	Chemical 1575 1586	carcinogens
+T72	Chemical 1659 1670	carcinogens
+T73	Chemical 2580 2590	carcinogen
+T74	Chemical 3933 3944	carcinogens
+T75	Chemical 4010 4021	carcinogens
+T76	Chemical 4071 4091	carcinogenic species
+T77	Biological_Activity 4219 4226	inhibit
+T78	Biological_Activity 4227 4236	malignant
+T79	Biological_Activity 4326 4341	chemopreventive
+T80	Chemical 4326 4348	chemopreventive agents
+T81	Chemical 4356 4364	curcumin
+T82	Chemical 4369 4380	resveratrol
+T83	Biological_Activity 4454 4462	blocking
+T84	Biological_Activity 4467 4478	suppressive
+R1	Associated_With Arg1:T81 Arg2:T79	
+R2	Associated_With Arg1:T82 Arg2:T79	
+R3	Associated_With Arg1:T82 Arg2:T83	
+R4	Associated_With Arg1:T82 Arg2:T84	
+R5	Associated_With Arg1:T81 Arg2:T83	
+R6	Associated_With Arg1:T81 Arg2:T84	
+T85	Chemical 4514 4532	chemical compounds
+T86	Biological_Activity 4575 4590	chemopreventive
+T87	Species 4623 4628	plant
+T88	Species 4716 4722	herbal
+T89	Species 4757 4762	herbs
+T90	Species 4747 4753	spices
+T91	Chemical 4781 4800	phenolic substances
+T92	Biological_Activity 4813 4826	antimutagenic
+T93	Biological_Activity 4831 4847	anticarcinogenic
+T94	Biological_Activity 4912 4927	chemopreventive
+T95	Chemical 4928 4942	phytochemicals
+T96	Metabolite 4928 4942	phytochemicals
+T97	Chemical 4952 4971	phenolic substances
+T98	Species 4983 4989	fruits
+T99	Species 4994 5004	vegetables
+T100	Biological_Activity 5071 5086	chemopreventive
+T101	Biological_Activity 5117 5132	chemopreventive
+T102	Chemical 5133 5147	phytochemicals
+T103	Metabolite 5133 5147	phytochemicals
+T104	Biological_Activity 5164 5174	protective
+T105	Species 5220 5226	animal
+T106	Species 5303 5309	animal
+T107	Biological_Activity 5352 5367	chemopreventive
+T108	Species 5386 5392	humans
+T109	Species 5021 5027	plants
+T110	Metabolite 4781 4800	phenolic substances
+T111	Metabolite 4952 4971	phenolic substances
+R7	Isolated_From Arg1:T110 Arg2:T89	
+R8	Isolated_From Arg1:T110 Arg2:T90	
+R9	Associated_With Arg1:T110 Arg2:T92	
+R10	Associated_With Arg1:T91 Arg2:T92	
+R11	Associated_With Arg1:T110 Arg2:T93	
+R12	Associated_With Arg1:T91 Arg2:T93	
+R13	Isolated_From Arg1:T111 Arg2:T98	
+R14	Isolated_From Arg1:T111 Arg2:T99	
+R15	Isolated_From Arg1:T111 Arg2:T109	
+T112	Chemical 5473 5487	phytochemicals
+T113	Metabolite 5473 5487	phytochemicals
+T114	Biological_Activity 5503 5518	chemopreventive
+R16	Associated_With Arg1:T96 Arg2:T94	
+R17	Associated_With Arg1:T95 Arg2:T94	
+R18	Associated_With Arg1:T111 Arg2:T94	
+R19	Associated_With Arg1:T97 Arg2:T94	
+R20	Associated_With Arg1:T103 Arg2:T104	
+R21	Associated_With Arg1:T102 Arg2:T104	
+T115	Biological_Activity 5647 5656	biomarker
+T116	Biological_Activity 5725 5740	chemopreventive
+T117	Biological_Activity 5872 5887	chemopreventive
+T118	Chemical 5872 5894	chemopreventive agents
+T119	Species 5929 5934	human
+T120	Biological_Activity 5940 5951	Antioxidant
+T121	Chemical 5940 5960	Antioxidant vitamins
+T122	Metabolite 5940 5960	Antioxidant vitamins
+T123	Biological_Activity 6045 6060	chemopreventive
+T124	Species 6285 6291	fruits
+T125	Species 6296 6306	vegetables
+T126	Chemical 6334 6354	antioxidant vitamins
+T127	Metabolite 6334 6354	antioxidant vitamins
+T128	Biological_Activity 6334 6345	antioxidant
+T129	Biological_Activity 5952 5960	vitamins
+T130	Biological_Activity 6346 6354	vitamins
+R22	Isolated_From Arg1:T127 Arg2:T125	
+R23	Isolated_From Arg1:T127 Arg2:T124	
+T131	Biological_Activity 6360 6375	chemopreventive
+T132	Biological_Activity 6425 6433	vitamins
+T133	Chemical 6425 6433	vitamins
+T134	Chemical 6576 6592	Alpha-Tocopherol
+T135	Metabolite 6576 6592	Alpha-Tocopherol
+T136	Chemical 6594 6607	Beta-Carotene
+T137	Metabolite 6594 6607	Beta-Carotene
+T138	Species 6684 6696	male smokers
+T139	Chemical 6867 6880	beta-carotene
+T140	Metabolite 6867 6880	beta-carotene
+T141	Biological_Activity 6889 6899	protective
+T142	Chemical 7159 7172	beta-carotene
+T143	Metabolite 7159 7172	beta-carotene
+T144	Chemical 7634 7647	beta-carotene
+T145	Metabolite 7634 7647	beta-carotene
+T146	Chemical 7763 7776	beta-carotene
+T147	Metabolite 7763 7776	beta-carotene
+T148	Biological_Activity 7816 7830	carcinogenesis
+T149	Chemical 7849 7862	beta-carotene
+T150	Metabolite 7849 7862	beta-carotene
+T151	Biological_Activity 7924 7937	proliferating
+T152	Biological_Activity 7963 7974	stimulating
+T153	Biological_Activity 8000 8011	suppressing
+T154	Biological_Activity 8092 8102	stimulated
+T155	Biological_Activity 8115 8129	carcinogenesis
+T156	Species 8133 8140	rodents
+R24	Associated_With Arg1:T150 Arg2:T154	
+R25	Associated_With Arg1:T149 Arg2:T154	
+R26	Associated_With Arg1:T150 Arg2:T155	
+R27	Associated_With Arg1:T149 Arg2:T155	
+T157	Chemical 8186 8199	beta-carotene
+T158	Metabolite 8186 8199	beta-carotene
+T159	Biological_Activity 8267 8278	stimulation
+T160	Biological_Activity 8299 8313	carcinogenesis
+T161	Biological_Activity 8286 8295	promotion
+T162	Biological_Activity 8323 8336	antioxidative
+T163	Biological_Activity 8337 8345	vitamins
+T164	Chemical 8323 8345	antioxidative vitamins
+T165	Metabolite 8323 8345	antioxidative vitamins
+T166	Species 8347 8353	fruits
+T167	Species 8358 8368	vegetables
+T168	Chemical 8387 8401	phytochemicals
+T169	Metabolite 8387 8401	phytochemicals
+T170	Biological_Activity 8449 8464	chemopreventive
+T171	Biological_Activity 8506 8521	chemoprevention
+T172	Chemical 8546 8560	phytochemicals
+T173	Metabolite 8546 8560	phytochemicals
+T174	Biological_Activity 8624 8639	chemopreventive
+T175	Biological_Activity 8736 8746	carcinogen
+T176	Chemical 8736 8746	carcinogen
+T177	Biological_Activity 8747 8757	metabolism
+T178	Chemical 8841 8854	phytochemical
+T179	Metabolite 8841 8854	phytochemical
+T180	Biological_Activity 8884 8898	carcinogenesis
+T181	Biological_Activity 8938 8948	carcinogen
+T182	Chemical 8938 8948	carcinogen
+T183	Biological_Activity 8949 8959	metabolism
+T184	Biological_Activity 9029 9039	protective
+T185	Biological_Activity 9065 9080	chemopreventive
+T186	Chemical 9081 9095	phytochemicals
+T187	Metabolite 9081 9095	phytochemicals
+R28	Associated_With Arg1:T187 Arg2:T185	
+R29	Associated_With Arg1:T186 Arg2:T185	
+T188	Chemical 9106 9116	carcinogen
+T189	Biological_Activity 9106 9116	carcinogen
+T190	Biological_Activity 9117 9129	metabolizing
+T191	Protein 9106 9137	carcinogen-metabolizing enzymes
+T192	Biological_Activity 9194 9204	metabolism
+T193	Biological_Activity 9212 9223	suppression
+T194	Biological_Activity 9227 9237	activation
+T195	Biological_Activity 9257 9271	detoxification
+T196	Chemical 9279 9289	carcinogen
+T197	Biological_Activity 9279 9289	carcinogen
+T198	Chemical 9319 9330	xenobiotics
+T199	Biological_Activity 9319 9330	xenobiotics
+T200	Chemical 9335 9355	endogenous compounds
+T201	Metabolite 9335 9355	endogenous compounds
+T202	Biological_Activity 9444 9459	chemopreventive
+T203	Biological_Activity 9481 9491	inhibition
+T204	Biological_Activity 9548 9563	chemoprevention
+T205	Biological_Activity 9669 9684	chemopreventive
+T206	Chemical 9745 9756	carcinogens
+T207	Biological_Activity 9745 9756	carcinogens
+T208	Biological_Activity 9495 9505	initiation
+T209	Biological_Activity 9598 9608	initiators
+T210	Biological_Activity 9712 9722	initiating
+T211	Biological_Activity 9800 9815	chemopreventive
+T212	Biological_Activity 9879 9896	antiproliferative
+T213	Biological_Activity 9900 9915	antiprogressive
+T214	Biological_Activity 9936 9944	suppress
+T215	Biological_Activity 9967 9976	initiated
+T216	Biological_Activity 10002 10011	malignant
+T217	Biological_Activity 10041 10056	anti-initiators
+T218	Biological_Activity 10058 10073	Chemopreventive
+T219	Chemical 10058 10080	Chemopreventive agents
+T220	Biological_Activity 10139 10151	transduction
+T221	Biological_Activity 10153 10163	inhibitors
+T222	Biological_Activity 10176 10186	activation
+T223	Biological_Activity 10188 10198	inhibitors
+T224	Chemical 10202 10211	polyamine
+T225	Biological_Activity 10212 10222	metabolism
+T226	Biological_Activity 10281 10291	inhibitors
+T227	Biological_Activity 10295 10307	angiogenesis
+T228	Biological_Activity 10421 10430	apoptosis
+T229	Biological_Activity 10476 10491	chemoprevention
+T230	Species 10563 10572	mammalian
+T231	Biological_Activity 10622 10635	proliferation
+T232	Biological_Activity 10655 10664	apoptosis
+T233	Biological_Activity 10679 10688	apoptosis
+T234	Biological_Activity 10696 10705	inhibited
+T235	Biological_Activity 10709 10718	perturbed
+T236	Biological_Activity 10755 10768	proliferation
+T237	Biological_Activity 10816 10825	apoptosis
+T238	Biological_Activity 10904 10913	malignant
+T239	Biological_Activity 10930 10939	apoptotic
+T240	Biological_Activity 10960 10967	induced
+T241	Biological_Activity 11005 11013	suppress
+T242	Biological_Activity 11068 11083	chemopreventive
+T243	Biological_Activity 11088 11104	chemotherapeutic
+T244	Chemical 11088 11111	chemotherapeutic agents
+T245	Chemical 11068 11083;11105 11111	chemopreventive agents
+T246	Biological_Activity 11141 11158	antiproliferative
+T247	Biological_Activity 11162 11172	cytostatic
+T248	Biological_Activity 11184 11192	inducing
+T249	Biological_Activity 11193 11202	apoptosis
+T250	Biological_Activity 11211 11220	malignant
+T251	Chemical 11246 11270	chemopreventive vitamins
+T252	Metabolite 11246 11270	chemopreventive vitamins
+T253	Biological_Activity 11246 11261	chemopreventive
+T254	Biological_Activity 11262 11270	vitamins
+T255	Chemical 11274 11288	phytochemicals
+T256	Metabolite 11274 11288	phytochemicals
+T257	Biological_Activity 11312 11320	suppress
+T258	Biological_Activity 11324 11330	retard
+T259	Biological_Activity 11421 11432	Suppression
+T260	Chemical 11436 11449	prostaglandin
+T261	Metabolite 11436 11449	prostaglandin
+T262	Biological_Activity 11478 11488	inhibition
+T263	Protein 11492 11508	cyclooxygenase-2
+T264	Protein 11510 11515	COX-2
+T265	Biological_Activity 11595 11610	chemopreventive
+T266	Chemical 11595 11616	chemopreventive drugs
+T267	Chemical 11618 11632	Prostaglandins
+T268	Metabolite 11618 11632	Prostaglandins
+T269	Biological_Activity 11668 11680	pathogenesis
+T270	Biological_Activity 11684 11694	malignancy
+T271	Biological_Activity 11718 11732	carcinogenesis
+T272	Chemical 11745 11781	nonsteroidal anti-inflammatory drugs
+T273	Biological_Activity 11758 11775	anti-inflammatory
+T275	Chemical 11800 11807	aspirin
+T276	Chemical 11783 11789	NSAIDs
+T274	Chemical 11809 11818	piroxicam
+T277	Chemical 11824 11832	sulindac
+T278	Biological_Activity 11839 11849	protective
+T279	Biological_Activity 11874 11888	carcinogenesis
+R30	Associated_With Arg1:T275 Arg2:T273	
+R31	Associated_With Arg1:T274 Arg2:T273	
+R32	Associated_With Arg1:T277 Arg2:T273	
+R33	Associated_With Arg1:T277 Arg2:T278	
+R34	Associated_With Arg1:T274 Arg2:T278	
+R35	Associated_With Arg1:T275 Arg2:T278	
+R36	Associated_With Arg1:T277 Arg2:T279	
+R37	Associated_With Arg1:T274 Arg2:T279	
+R38	Associated_With Arg1:T275 Arg2:T279	
+T280	Chemical 12006 12013	aspirin
+T281	Chemical 12023 12029	NSAIDs
+T282	Species 12069 12077	patients
+T283	Chemical 12119 12124	NSAID
+T284	Chemical 12125 12133	sulindac
+T285	Biological_Activity 12148 12158	regression
+R39	Associated_With Arg1:T284 Arg2:T285	
+T286	Chemical 12216 12222	NSAIDs
+T287	Chemical 12332 12350	phenolic substance
+T288	Metabolite 12332 12350	phenolic substance
+T289	Species 12365 12378	Zingiberaceae
+T290	Species 12380 12386	ginger
+T291	Biological_Activity 12414 12431	anti-inflammatory
+T292	Biological_Activity 12445 12451	induce
+T293	Biological_Activity 12452 12461	apoptosis
+T294	Species 12465 12470	human
+R40	Isolated_From Arg1:T288 Arg2:T289	
+R41	Isolated_From Arg1:T288 Arg2:T290	
+R42	Associated_With Arg1:T288 Arg2:T291	
+R43	Associated_With Arg1:T287 Arg2:T291	
+R44	Associated_With Arg1:T288 Arg2:T292	
+R45	Associated_With Arg1:T287 Arg2:T292	
+R46	Associated_With Arg1:T287 Arg2:T293	
+R47	Associated_With Arg1:T288 Arg2:T293	
+T295	Biological_Activity 12525 12540	chemopreventive
+T296	Chemical 12566 12584	phenolic substance
+T297	Metabolite 12566 12584	phenolic substance
+T298	Chemical 12590 12599	Capsaicin
+T299	Metabolite 12590 12599	Capsaicin
+T300	Chemical 12600 12609	Capsaicin
+T301	Metabolite 12600 12609	Capsaicin
+T302	Chemical 12611 12651	trans -8-methyl-N -vanillyl-6-nonenamide
+T303	Metabolite 12611 12651	trans -8-methyl-N -vanillyl-6-nonenamide
+T304	Species 12731 12734;12745 12752	red peppers
+T305	Species 12739 12752	chili peppers
+T306	Species 12784 12794	Capsicum  
+T307	Species 12795 12805	Solanaceae
+R48	Isolated_From Arg1:T301 Arg2:T304	
+R49	Isolated_From Arg1:T301 Arg2:T305	
+R50	Isolated_From Arg1:T301 Arg2:T306	
+R51	Isolated_From Arg1:T301 Arg2:T307	
+R52	Isolated_From Arg1:T303 Arg2:T304	
+R53	Isolated_From Arg1:T303 Arg2:T305	
+R54	Isolated_From Arg1:T303 Arg2:T306	
+R55	Isolated_From Arg1:T303 Arg2:T307	
+T308	Biological_Activity 12891 12905	carcinogenesis
+T309	Biological_Activity 12910 12921	mutagenesis
+T310	Chemical 13016 13025	capsaicin
+T311	Metabolite 13016 13025	capsaicin
+T312	Biological_Activity 13045 13057	carcinogenic
+T313	Biological_Activity 13062 13071	mutagenic
+R56	Associated_With Arg1:T311 Arg2:T312	
+R57	Associated_With Arg1:T311 Arg2:T313	
+R58	Associated_With Arg1:T310 Arg2:T312	
+R59	Associated_With Arg1:T310 Arg2:T313	
+T314	Biological_Activity 13258 13270	carcinogenic
+T315	Biological_Activity 13274 13289	co-carcinogenic
+T316	Chemical 13303 13312	capsaicin
+T317	Species 13316 13327	hot peppers
+T318	Metabolite 13303 13312	capsaicin
+T319	Biological_Activity 13352 13361	irritancy
+T320	Biological_Activity 13413 13423	protective
+T321	Biological_Activity 13456 13470	carcinogenesis
+T322	Biological_Activity 13475 13486	mutagenesis
+R60	Isolated_From Arg1:T318 Arg2:T317	
+R61	Associated_With Arg1:T318 Arg2:T319	
+R62	Associated_With Arg1:T316 Arg2:T319	
+R63	Associated_With Arg1:T316 Arg2:T320	
+R64	Associated_With Arg1:T318 Arg2:T320	
+T323	Chemical 13550 13559	capsaicin
+T324	Metabolite 13550 13559	capsaicin
+T325	Biological_Activity 13560 13569	modulates
+T326	Protein 13581 13621	cytochrome P 450-dependent monooxygenase
+R65	Associated_With Arg1:T324 Arg2:T325	
+R66	Associated_With Arg1:T323 Arg2:T325	
+R67	Binds_With Arg1:T324 Arg2:T326	
+R68	Binds_With Arg1:T323 Arg2:T326	
+T327	Biological_Activity 13652 13662	metabolism
+T328	Chemical 13666 13677	carcinogens
+T329	Biological_Activity 13666 13677	carcinogens
+T330	Chemical 13688 13699	xenobiotics
+T331	Biological_Activity 13688 13699	xenobiotics
+T332	Chemical 13710 13719	Capsaicin
+T333	Metabolite 13710 13719	Capsaicin
+T334	Species 13747 13750	rat
+T335	Protein 13774 13782	oxidases
+T336	Chemical 13814 13827	pentobarbital
+T337	Chemical 13831 13843	hexobarbital
+T338	Biological_Activity 13870 13880	inhibition
+T339	Protein 13884 13909	ethylmorphine demethylase
+R69	Binds_With Arg1:T333 Arg2:T335	
+R70	Binds_With Arg1:T332 Arg2:T335	
+R71	Associated_With Arg1:T333 Arg2:T338	
+R72	Associated_With Arg1:T333 Arg2:T338	
+R73	Binds_With Arg1:T333 Arg2:T339	
+R74	Binds_With Arg1:T332 Arg2:T339	
+T340	Biological_Activity 13995 14005	suppresses
+T341	Species 14022 14025	rat
+T342	Protein 14036 14064	aryl hydrocarbon hydroxylase
+T343	Chemical 14119 14133	benzo[a]pyrene
+T344	Chemical 14144 14169	polyaromatic hydrocarbons
+R75	Associated_With Arg1:T333 Arg2:T340	
+R76	Associated_With Arg1:T332 Arg2:T340	
+R77	Binds_With Arg1:T333 Arg2:T342	
+R78	Binds_With Arg1:T332 Arg2:T342	
+T345	Biological_Activity 14171 14181	Metabolism
+T346	Biological_Activity 14210 14217	binding
+T347	Chemical 14221 14235	benzo[a]pyrene
+T348	Species 14239 14244	human
+T349	Species 14249 14255	murine
+T350	Chemical 14289 14298	capsaicin
+T351	Metabolite 14289 14298	capsaicin
+R79	Associated_With Arg1:T347 Arg2:T346	
+R80	Associated_With Arg1:T351 Arg2:T346	
+R81	Associated_With Arg1:T350 Arg2:T346	
+T352	Chemical 14354 14363	capsaicin
+T353	Metabolite 14354 14363	capsaicin
+T354	Chemical 14424 14435	carcinogens
+T355	Biological_Activity 14424 14435	carcinogens
+T356	Biological_Activity 14464 14473	metabolic
+T357	Biological_Activity 14382 14392	initiating
+T358	Biological_Activity 14492 14506	detoxification
+R82	Associated_With Arg1:T353 Arg2:T357	
+R83	Associated_With Arg1:T352 Arg2:T357	
+T359	Chemical 14508 14522	Benzo[a]pyrene
+T360	Biological_Activity 14523 14530	induced
+T361	Species 14550 14554	mice
+T362	Biological_Activity 14559 14568	inhibited
+T363	Chemical 14572 14581	capsaicin
+T364	Metabolite 14572 14581	capsaicin
+T365	Chemical 14599 14608	Capsaicin
+T366	Metabolite 14599 14608	Capsaicin
+T367	Biological_Activity 14619 14629	inhibitory
+T368	Biological_Activity 14641 14651	metabolism
+T369	Biological_Activity 14653 14665	mutagenicity
+T370	Biological_Activity 14686 14693	binding
+T371	Chemical 14697 14709	aflatoxin B1
+T372	Metabolite 14697 14709	aflatoxin B1
+R84	Associated_With Arg1:T372 Arg2:T370	
+R85	Associated_With Arg1:T371 Arg2:T370	
+T373	Species 14723 14730	tobacco
+T374	Chemical 14740 14751	nitrosamine
+T375	Metabolite 14740 14751	nitrosamine
+T376	Chemical 14753 14799	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone
+T377	Metabolite 14753 14799	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone
+T378	Chemical 14801 14804	NNK
+T379	Metabolite 14801 14804	NNK
+R86	Isolated_From Arg1:T377 Arg2:T373	
+R87	Isolated_From Arg1:T379 Arg2:T373	
+R88	Associated_With Arg1:T366 Arg2:T367	
+R89	Associated_With Arg1:T365 Arg2:T367	
+R90	Associated_With Arg1:T366 Arg2:T368	
+R91	Associated_With Arg1:T365 Arg2:T368	
+R92	Associated_With Arg1:T366 Arg2:T369	
+R93	Associated_With Arg1:T365 Arg2:T369	
+T380	Chemical 14816 14825	Capsaicin
+T381	Metabolite 14816 14825	Capsaicin
+T382	Chemical 14851 14867	dihydrocapsaicin
+T383	Biological_Activity 14921 14928	inhibit
+T384	Protein 14929 14949	cytochrome P 450 2E1
+T385	Protein 14964 14971	isoform
+T386	Biological_Activity 14987 14996	metabolic
+T387	Biological_Activity 15020 15034	detoxification
+T388	Chemical 15064 15075	carcinogens
+T389	Biological_Activity 15064 15075	carcinogens
+R94	Associated_With Arg1:T382 Arg2:T383	
+R95	Binds_With Arg1:T382 Arg2:T384	
+R96	Associated_With Arg1:T381 Arg2:T383	
+R97	Associated_With Arg1:T380 Arg2:T383	
+R98	Binds_With Arg1:T381 Arg2:T384	
+R99	Binds_With Arg1:T380 Arg2:T384	
+T390	Biological_Activity 15126 15135	inhibited
+T391	Biological_Activity 15140 15152	mutagenicity
+T392	Biological_Activity 15160 15174	tumorigenicity
+T393	Chemical 15178 15193	vinyl carbamate
+T394	Chemical 15198 15217	dimethylnitrosamine
+R100	Associated_With Arg1:T393 Arg2:T392	
+R101	Associated_With Arg1:T393 Arg2:T391	
+R102	Associated_With Arg1:T394 Arg2:T392	
+R103	Associated_With Arg1:T394 Arg2:T391	
+T395	Biological_Activity 15250 15259	activated
+T396	Protein 15263 15283	cytochrome P 450 2E1
+T397	Chemical 15303 15312	capsaicin
+T398	Metabolite 15303 15312	capsaicin
+T399	Biological_Activity 15313 15324	ameliorated
+T400	Biological_Activity 15329 15349	peroxidative changes
+T401	Species 15353 15356	rat
+T402	Biological_Activity 15387 15394	induced
+T403	Chemical 15398 15408	chloroform
+T404	Chemical 15410 15430	carbon tetrachloride
+T405	Chemical 15435 15450	dichloromethane
+R104	Associated_With Arg1:T398 Arg2:T399	
+R105	Associated_With Arg1:T397 Arg2:T399	
+R106	Associated_With Arg1:T398 Arg2:T400	
+R107	Associated_With Arg1:T397 Arg2:T400	
+R108	Associated_With Arg1:T403 Arg2:T402	
+R109	Associated_With Arg1:T404 Arg2:T402	
+R110	Associated_With Arg1:T405 Arg2:T402	
+R111	Associated_With Arg1:T403 Arg2:T400	
+R112	Associated_With Arg1:T404 Arg2:T400	
+R113	Associated_With Arg1:T405 Arg2:T400	
+T406	Protein 15458 15478	Cytochrome P 450 2E1
+T407	Biological_Activity 15501 15511	activation
+T408	Chemical 15521 15545	halogenated hydrocarbons
+T409	Chemical 15547 15556	Capsaicin
+T410	Metabolite 15547 15556	Capsaicin
+T411	Biological_Activity 15575 15583	protects
+T412	Chemical 15596 15608	free radical
+T413	Biological_Activity 15609 15616	induced
+T414	Biological_Activity 15617 15633	pulmonary damage
+T415	Species 15637 15641	rats
+T416	Biological_Activity 15675 15684	irritants
+T417	Chemical 15688 15702	sulfur dioxide
+T418	Chemical 15707 15723	nitrogen dioxide
+R114	Associated_With Arg1:T417 Arg2:T416	
+R115	Associated_With Arg1:T418 Arg2:T416	
+R116	Associated_With Arg1:T410 Arg2:T411	
+R117	Associated_With Arg1:T409 Arg2:T411	
+R118	Associated_With Arg1:T410 Arg2:T414	
+R119	Associated_With Arg1:T409 Arg2:T414	
+T419	Chemical 15791 15800	capsaicin
+T420	Metabolite 15791 15800	capsaicin
+T421	Biological_Activity 15865 15875	DNA breaks
+T422	Chemical 15812 15828	cyclophosphamide
+R120	Associated_With Arg1:T420 Arg2:T421	
+R121	Associated_With Arg1:T419 Arg2:T421	
+T423	Species 15879 15883	mice
+T424	Chemical 15923 15932	capsaicin
+T425	Metabolite 15923 15932	capsaicin
+T426	Biological_Activity 15947 15953	induce
+T427	Species 15967 15971	mice
+T428	Biological_Activity 16021 16031	suppressed
+T429	Biological_Activity 16036 16048	inflammatory
+R122	Associated_With Arg1:T425 Arg2:T428	
+R123	Associated_With Arg1:T424 Arg2:T428	
+R124	Associated_With Arg1:T425 Arg2:T429	
+R125	Associated_With Arg1:T424 Arg2:T429	
+T430	Chemical 16065 16076	Carrageenan
+T431	Biological_Activity 16077 16084	induced
+T432	Biological_Activity 16085 16097	inflammation
+T433	Species 16101 16105	rats
+T434	Biological_Activity 16115 16126	ameliorated
+T435	Chemical 16130 16139	capsaicin
+T436	Metabolite 16130 16139	capsaicin
+T437	Chemical 16170 16179	capsaicin
+T438	Metabolite 16170 16179	capsaicin
+T439	Biological_Activity 16193 16200	inhibit
+T440	Biological_Activity 16201 16221	platelet aggregation
+R126	Associated_With Arg1:T438 Arg2:T439	
+R127	Associated_With Arg1:T437 Arg2:T439	
+R128	Associated_With Arg1:T438 Arg2:T440	
+R129	Associated_With Arg1:T437 Arg2:T440	
+T441	Biological_Activity 16277 16288	stimulation
+T442	Chemical 16292 16305	prostaglandin
+T443	Metabolite 16292 16305	prostaglandin
+T444	Chemical 16322 16331	capsaicin
+T445	Metabolite 16322 16331	capsaicin
+R130	Associated_With Arg1:T445 Arg2:T441	
+R131	Associated_With Arg1:T444 Arg2:T441	
+T446	Biological_Activity 16352 16364	antiplatelet
+T447	Biological_Activity 16368 16385	anti-inflammatory
+T448	Chemical 16397 16406	capsaicin
+T449	Metabolite 16397 16406	capsaicin
+T450	Protein 16459 16475	phospholipase A2
+T451	Protein 16489 16495	enzyme
+T452	Biological_Activity 16510 16522	inflammatory
+R132	Associated_With Arg1:T449 Arg2:T447	
+R133	Associated_With Arg1:T448 Arg2:T447	
+R134	Associated_With Arg1:T449 Arg2:T446	
+R135	Associated_With Arg1:T448 Arg2:T446	
+R136	Binds_With Arg1:T449 Arg2:T450	
+R137	Binds_With Arg1:T448 Arg2:T450	
+T453	Biological_Activity 16544 16553	promotion
+T454	Biological_Activity 16568 16580	inflammation
+T455	Biological_Activity 16605 16618	proliferation
+T456	Chemical 16679 16688	capsaicin
+T457	Metabolite 16679 16688	capsaicin
+T458	Biological_Activity 16705 16715	anti-tumor
+T459	Biological_Activity 16716 16725	promoting
+T460	Chemical 16733 16742	Capsaicin
+T461	Metabolite 16733 16742	Capsaicin
+T462	Biological_Activity 16756 16766	antagonize
+T463	Biological_Activity 16787 16794	induced
+T464	Chemical 16798 16808	croton oil
+R138	Associated_With Arg1:T464 Arg2:T463	
+R139	Associated_With Arg1:T461 Arg2:T462	
+R140	Associated_With Arg1:T460 Arg2:T462	
+T465	Chemical 16919 16928	capsaicin
+T466	Metabolite 16919 16928	capsaicin
+T467	Chemical 16940 16953	phorbol ester
+T468	Species 16975 16983	ICR mice
+T469	Chemical 17007 17037	7,12-dimethylbenz[a]anthracene
+T470	Biological_Activity 17103 17119	papillomagenesis
+T471	Chemical 17316 17346	7,12-dimethylbenz[a]anthracene
+T472	Chemical 17351 17364	phorbol ester
+T473	Chemical 17386 17395	capsaicin
+T474	Metabolite 17386 17395	capsaicin
+T475	Chemical 17458 17467	capsaicin
+T476	Metabolite 17458 17467	capsaicin
+T477	Biological_Activity 17483 17492	repressed
+T478	Species 17533 17538	human
+R141	Associated_With Arg1:T476 Arg2:T477	
+R142	Associated_With Arg1:T475 Arg2:T477	
+T479	Biological_Activity 17663 17673	inhibition
+T480	Biological_Activity 17711 17720	induction
+T481	Biological_Activity 17724 17733	apoptosis
+T482	Chemical 17838 17847	capsaicin
+T483	Metabolite 17838 17847	capsaicin
+T484	Biological_Activity 17863 17873	inhibition
+T485	Biological_Activity 17878 17887	apoptosis
+T486	Biological_Activity 17937 17947	inhibition
+T487	Protein 17967 17979	NADH oxidase
+R143	Associated_With Arg1:T483 Arg2:T486	
+R144	Associated_With Arg1:T482 Arg2:T486	
+R145	Binds_With Arg1:T483 Arg2:T487	
+R146	Binds_With Arg1:T482 Arg2:T487	
+R147	Associated_With Arg1:T483 Arg2:T485	
+R148	Associated_With Arg1:T482 Arg2:T485	
+T488	Species 18072 18077	human
+T489	Species 18082 18087	mouse
+T490	Biological_Activity 18127 18137	inhibition
+T491	Biological_Activity 18139 18148	apoptosis
+T492	Biological_Activity 18149 18158	induction
+T493	Biological_Activity 18164 18174	inhibition
+T494	Protein 18194 18206	NADH oxidase
+T495	Chemical 18249 18258	capsaicin
+T496	Metabolite 18249 18258	capsaicin
+T497	Species 18268 18277	B16 mouse
+T498	Species 18303 18315	C57BL/6 mice
+T499	Chemical 18366 18375	Capsaicin
+T500	Metabolite 18366 18375	Capsaicin
+T501	Biological_Activity 17848 17855	induced
+T502	Biological_Activity 18376 18383	induced
+T503	Biological_Activity 18384 18393	apoptosis
+T504	Protein 18446 18465	protein phosphatase
+T505	Protein 18467 18478	calcineurin
+T506	Protein 18432 18437	Bcl-2
+T507	Chemical 18504 18513	capsaicin
+T508	Metabolite 18504 18513	capsaicin
+T510	Biological_Activity 18522 18531	apoptotic
+T509	Species 18550 18555	human
+T511	Biological_Activity 18645 18655	suppressor
+T512	Biological_Activity 18800 18807	stimuli
+T513	Biological_Activity 18832 18840	mitogens
+T514	Protein 18842 18851	cytokines
+T515	Protein 18862 18885	tumor necrosis factor-α
+T516	Protein 18887 18892	TNF-α
+T517	Protein 18895 18908	interleukin-1
+T518	Protein 18910 18914	IL-1
+T519	Protein 18927 18955	nuclear transcription factor
+T520	Protein 18956 18961	NF-κB
+T521	Biological_Activity 18977 18987	activation
+T522	Biological_Activity 19000 19007	signals
+T523	Protein 19009 19014	NF-κB
+T524	Biological_Activity 19051 19056	binds
+T525	Biological_Activity 19214 19226	inflammation
+T526	Biological_Activity 19262 19277	immune response
+T527	Biological_Activity 19283 19296	proliferation
+T528	Chemical 19298 19321	Reactive oxygen species
+T529	Chemical 19323 19326	ROS
+T530	Biological_Activity 19359 19368	messenger
+T531	Biological_Activity 19374 19380	signal
+T532	Biological_Activity 19381 19393	transduction
+T533	Biological_Activity 19406 19416	activation
+T534	Biological_Activity 19420 19425	NF-κB
+T535	Chemical 19483 19492	capsaicin
+T536	Metabolite 19483 19492	capsaicin
+T537	Biological_Activity 19507 19517	activation
+T538	Protein 19521 19526	NF-κB
+T539	Chemical 19530 19533	TPA
+T540	Protein 19549 19554	TNF-α
+T541	Biological_Activity 19611 19621	anti-tumor
+T542	Biological_Activity 19622 19631	promoting
+T543	Chemical 19644 19653	capsaicin
+T544	Metabolite 19644 19653	capsaicin
+R149	Binds_With Arg1:T539 Arg2:T538	
+R150	Associated_With Arg1:T539 Arg2:T537	
+R151	Associated_With Arg1:T544 Arg2:T541	
+R152	Associated_With Arg1:T543 Arg2:T541	
+T545	Protein 19663 19694	eukaryotic transcription factor
+T546	Chemical 19717 19720	ROS
+T547	Protein 19773 19792	activator protein 1
+T548	Protein 19794 19798	AP-1
+T549	Protein 19825 19829	AP-1
+T550	Biological_Activity 19854 19861	stimuli
+T551	Protein 19905 19937	mitogen-activated protein kinase
+T552	Protein 19939 19943	MAPK
+T553	Protein 19965 19989	c-jun -N-terminal kinase
+T554	Protein 19991 19994	JNK
+T555	Protein 20010 20041	stress-activated protein kinase
+T556	Protein 20057 20061	SAPK
+T557	Protein 20067 20104	extracellular signal-regulated kinase
+T558	Protein 20106 20109	ERK
+T559	Protein 20111 20119	isoforms
+T560	Protein 20172 20175	JNK
+T561	Protein 20180 20183	ERK
+T562	Biological_Activity 20210 20219	apoptosis
+T563	Chemical 20227 20236	Capsaicin
+T564	Metabolite 20227 20236	Capsaicin
+T565	Biological_Activity 20237 20244	induced
+T566	Biological_Activity 20245 20254	apoptosis
+T567	Chemical 20302 20305	ROS
+T568	Chemical 20371 20380	capsaicin
+T569	Metabolite 20371 20380	capsaicin
+T570	Biological_Activity 20389 20398	activated
+T571	Protein 20399 20402	JNK
+T572	Protein 20477 20480	ERK
+T573	Biological_Activity 20477 20480	ERK
+R153	Associated_With Arg1:T569 Arg2:T570	
+R154	Associated_With Arg1:T568 Arg2:T570	
+R155	Binds_With Arg1:T569 Arg2:T571	
+R156	Binds_With Arg1:T568 Arg2:T571	
+T574	Biological_Activity 20565 20575	activation
+T575	Protein 20579 20582	JNK
+T576	Chemical 20586 20595	capsaicin
+T577	Metabolite 20586 20595	capsaicin
+T578	Biological_Activity 20610 20619	induction
+T579	Protein 20623 20627	AP-1
+T580	Biological_Activity 20623 20627	AP-1
+T581	Chemical 20655 20664	capsaicin
+T582	Metabolite 20655 20664	capsaicin
+T583	Biological_Activity 20665 20672	blocked
+T584	Chemical 20677 20680	TPA
+T585	Biological_Activity 20681 20688	induced
+T586	Protein 20689 20693	AP-1
+T587	Biological_Activity 20694 20704	activation
+R157	Associated_With Arg1:T582 Arg2:T583	
+R158	Associated_With Arg1:T581 Arg2:T583	
+T588	Biological_Activity 20795 20806	suppression
+T589	Chemical 20810 20813	TPA
+T590	Biological_Activity 20814 20821	induced
+T591	Protein 20822 20827	NF-κB
+T592	Biological_Activity 20828 20838	activation
+T593	Chemical 20842 20851	capsaicin
+T594	Metabolite 20842 20851	capsaicin
+T595	Biological_Activity 20895 20905	anti-tumor
+T596	Biological_Activity 20906 20915	promoting
+T597	Chemical 20934 20943	vanilloid
+T598	Chemical 20950 20958	Gingerol
+T599	Metabolite 20950 20958	Gingerol
+T600	Chemical 20963 20970	paradol
+T601	Species 20971 20977	Ginger
+T602	Metabolite 20963 20970	paradol
+T603	Species 20979 21006	Zingiber officinale  Roscoe
+T604	Species 21008 21021	Zingiberaceae
+R159	Isolated_From Arg1:T602 Arg2:T601	
+R160	Isolated_From Arg1:T602 Arg2:T603	
+R161	Isolated_From Arg1:T602 Arg2:T604	
+R162	Isolated_From Arg1:T599 Arg2:T601	
+R163	Isolated_From Arg1:T599 Arg2:T603	
+R164	Isolated_From Arg1:T599 Arg2:T604	
+T605	Species 21167 21173	ginger
+T606	Chemical 21361 21370	oleoresin
+T607	Species 21388 21394	ginger
+T608	Metabolite 21404 21416	[6]-gingerol
+T609	Chemical 21404 21416	[6]-gingerol
+T610	Chemical 21418 21470	1-[4′-hydroxy-3′-methoxyphenyl]-5-hydroxy-3-decanone
+T611	Metabolite 21418 21470	1-[4′-hydroxy-3′-methoxyphenyl]-5-hydroxy-3-decanone
+R165	Isolated_From Arg1:T611 Arg2:T607	
+R166	Isolated_From Arg1:T611 Arg2:T603	
+R167	Isolated_From Arg1:T611 Arg2:T604	
+T612	Chemical 21480 21488	homologs
+R168	Isolated_From Arg1:T608 Arg2:T607	
+R169	Isolated_From Arg1:T608 Arg2:T603	
+R170	Isolated_From Arg1:T608 Arg2:T604	
+T613	Biological_Activity 21615 21632	anti-inflammatory
+T614	Biological_Activity 21634 21643	analgesic
+T615	Biological_Activity 21645 21656	antipyretic
+T616	Biological_Activity 21658 21673	antihepatotoxic
+T617	Biological_Activity 21679 21690	cardiotonic
+R171	Associated_With Arg1:T608 Arg2:T613	
+R172	Associated_With Arg1:T609 Arg2:T613	
+R173	Associated_With Arg1:T608 Arg2:T614	
+R174	Associated_With Arg1:T609 Arg2:T614	
+R175	Associated_With Arg1:T608 Arg2:T615	
+R176	Associated_With Arg1:T609 Arg2:T615	
+R177	Associated_With Arg1:T608 Arg2:T616	
+R178	Associated_With Arg1:T609 Arg2:T616	
+R179	Associated_With Arg1:T608 Arg2:T617	
+R180	Associated_With Arg1:T609 Arg2:T617	
+R181	Associated_With Arg1:T611 Arg2:T613	
+R182	Associated_With Arg1:T610 Arg2:T613	
+R183	Associated_With Arg1:T611 Arg2:T614	
+R184	Associated_With Arg1:T610 Arg2:T614	
+R185	Associated_With Arg1:T611 Arg2:T615	
+R186	Associated_With Arg1:T610 Arg2:T615	
+R187	Associated_With Arg1:T611 Arg2:T616	
+R188	Associated_With Arg1:T610 Arg2:T616	
+R189	Associated_With Arg1:T611 Arg2:T617	
+R190	Associated_With Arg1:T610 Arg2:T617	
+T618	Chemical 21736 21748	[6]-gingerol
+T619	Metabolite 21736 21748	[6]-gingerol
+T620	Species 21824 21830	ginger
+T621	Chemical 21852 21860	Gingerol
+T622	Metabolite 21852 21860	Gingerol
+T623	Biological_Activity 21899 21910	antioxidant
+T624	Biological_Activity 21937 21947	inhibition
+T625	Chemical 21951 21963	phospholipid
+T626	Metabolite 21951 21963	phospholipid
+T627	Biological_Activity 21977 21984	induced
+T628	Chemical 21992 21997	FeCl3
+T629	Chemical 21999 22008	ascorbate
+R191	Associated_With Arg1:T622 Arg2:T623	
+R192	Associated_With Arg1:T621 Arg2:T623	
+T630	Biological_Activity 22027 22040	antioxidative
+T631	Chemical 22055 22063	gingerol
+T632	Metabolite 22055 22063	gingerol
+T633	Species 22090 22096	ginger
+T634	Chemical 22173 22181	Gingerol
+T635	Metabolite 22173 22181	Gingerol
+T636	Biological_Activity 22197 22207	inhibitory
+T637	Protein 22218 22234	xanthine oxidase
+T638	Chemical 22270 22286	superoxide anion
+T639	Metabolite 22270 22286	superoxide anion
+R193	Associated_With Arg1:T635 Arg2:T636	
+R194	Associated_With Arg1:T634 Arg2:T636	
+R195	Binds_With Arg1:T635 Arg2:T637	
+R196	Binds_With Arg1:T634 Arg2:T637	
+T640	Biological_Activity 22337 22347	inhibition
+T641	Chemical 22351 22359	gingerol
+T642	Metabolite 22351 22359	gingerol
+T643	Chemical 22363 22379	arachidonic acid
+T644	Metabolite 22363 22379	arachidonic acid
+T645	Biological_Activity 22380 22387	induced
+T646	Biological_Activity 22388 22408	platelet aggregation
+T647	Chemical 22426 22440	thromboxane B2
+T648	Metabolite 22426 22440	thromboxane B2
+T649	Metabolite 22446 22462	prostaglandin D2
+T650	Chemical 22446 22462	prostaglandin D2
+T651	Chemical 22504 22520	phosphoinositide
+T652	Metabolite 22504 22520	phosphoinositide
+T653	Biological_Activity 22531 22538	induced
+R197	Associated_With Arg1:T644 Arg2:T645	
+R198	Associated_With Arg1:T643 Arg2:T645	
+R199	Associated_With Arg1:T644 Arg2:T646	
+R200	Associated_With Arg1:T643 Arg2:T646	
+R201	Associated_With Arg1:T642 Arg2:T640	
+R202	Associated_With Arg1:T641 Arg2:T640	
+R203	Associated_With Arg1:T642 Arg2:T646	
+R204	Associated_With Arg1:T641 Arg2:T646	
+T654	Chemical 22542 22558	arachidonic acid
+T655	Metabolite 22542 22558	arachidonic acid
+R205	Associated_With Arg1:T655 Arg2:T653	
+R206	Associated_With Arg1:T654 Arg2:T653	
+T656	Biological_Activity 22521 22530	breakdown
+R207	Associated_With Arg1:T655 Arg2:T656	
+R208	Associated_With Arg1:T654 Arg2:T656	
+T657	Chemical 22560 22568	Gingerol
+T658	Metabolite 22560 22568	Gingerol
+T659	Chemical 22570 22577	shogaol
+T660	Metabolite 22570 22577	shogaol
+T661	Species 22623 22629	ginger
+R209	Isolated_From Arg1:T660 Arg2:T661	
+T662	Biological_Activity 22630 22637	inhibit
+T663	Biological_Activity 22689 22700	suppression
+T664	Protein 22704 22718	5-lipoxygenase
+T665	Protein 22722 22746	prostaglandin synthetase
+R210	Associated_With Arg1:T658 Arg2:T662	
+R211	Associated_With Arg1:T657 Arg2:T662	
+R212	Associated_With Arg1:T658 Arg2:T663	
+R213	Associated_With Arg1:T657 Arg2:T663	
+R214	Binds_With Arg1:T658 Arg2:T664	
+R215	Binds_With Arg1:T657 Arg2:T664	
+R216	Binds_With Arg1:T658 Arg2:T665	
+R217	Binds_With Arg1:T657 Arg2:T665	
+R218	Associated_With Arg1:T660 Arg2:T662	
+R219	Associated_With Arg1:T659 Arg2:T662	
+R220	Associated_With Arg1:T659 Arg2:T663	
+R221	Associated_With Arg1:T660 Arg2:T663	
+R222	Binds_With Arg1:T660 Arg2:T664	
+R223	Binds_With Arg1:T659 Arg2:T664	
+R224	Binds_With Arg1:T660 Arg2:T665	
+R225	Binds_With Arg1:T659 Arg2:T665	
+T666	Biological_Activity 22769 22778	promotion
+T667	Biological_Activity 22806 22818	inflammation
+T668	Biological_Activity 22823 22839	oxidative stress
+T669	Biological_Activity 22884 22894	inhibitory
+T670	Chemical 22909 22925	arachidonic acid
+T671	Metabolite 22909 22925	arachidonic acid
+T672	Biological_Activity 22926 22936	metabolism
+T673	Biological_Activity 22948 22958	anti-tumor
+T674	Biological_Activity 22959 22968	promoting
+T675	Chemical 23045 23053	gingerol
+T676	Metabolite 23045 23053	gingerol
+T677	Biological_Activity 23054 23062	protects
+T678	Chemical 23063 23066	TPA
+T679	Biological_Activity 23067 23074	induced
+T680	Protein 23096 23119	ornithine decarboxylase
+T681	Biological_Activity 23096 23119	ornithine decarboxylase
+T682	Protein 23121 23124	ODC
+T683	Biological_Activity 23121 23124	ODC
+T684	Biological_Activity 23151 23160	promotion
+T685	Species 23171 23179	ICR mice
+R226	Associated_With Arg1:T676 Arg2:T677	
+R227	Associated_With Arg1:T675 Arg2:T677	
+T686	Species 23227 23233	ginger
+T687	Chemical 23258 23261	TPA
+T688	Biological_Activity 23278 23288	protection
+T689	Chemical 23297 23301	DMBA
+T690	Biological_Activity 23302 23311	initiated
+T691	Biological_Activity 23317 23331	carcinogenesis
+T692	Species 23335 23346	SENCAR mice
+T693	Biological_Activity 23356 23366	suppressed
+T694	Chemical 23367 23370	TPA
+T695	Biological_Activity 23378 23387	induction
+T696	Protein 23401 23404	ODC
+T697	Protein 23441 23455	cyclooxygenase
+T698	Biological_Activity 23441 23455	cyclooxygenase
+T699	Protein 23457 23460	COX
+T700	Biological_Activity 23457 23460	COX
+T701	Protein 23466 23478	lipoxygenase
+T702	Biological_Activity 23466 23478	lipoxygenase
+T703	Chemical 23497 23509	Azoxymethane
+T704	Biological_Activity 23510 23517	induced
+T705	Biological_Activity 23529 23543	carcinogenesis
+T706	Species 23547 23551	rats
+T707	Biological_Activity 23570 23580	suppressed
+T708	Chemical 23610 23618	gingerol
+T709	Metabolite 23610 23618	gingerol
+R228	Associated_With Arg1:T703 Arg2:T704	
+R229	Associated_With Arg1:T703 Arg2:T705	
+R230	Associated_With Arg1:T709 Arg2:T707	
+R231	Associated_With Arg1:T708 Arg2:T707	
+R232	Associated_With Arg1:T709 Arg2:T705	
+R233	Associated_With Arg1:T708 Arg2:T705	
+T710	Chemical 23626 23634	Gingerol
+T711	Metabolite 23626 23634	Gingerol
+T712	Biological_Activity 23786 23796	inhibitory
+T713	Biological_Activity 23818 23828	metastasis
+T714	Species 23832 23836	mice
+R234	Associated_With Arg1:T711 Arg2:T712	
+R235	Associated_With Arg1:T710 Arg2:T712	
+R236	Associated_With Arg1:T711 Arg2:T713	
+R237	Associated_With Arg1:T710 Arg2:T713	
+T715	Chemical 23884 23895	[6]-Paradol
+T716	Metabolite 23884 23895	[6]-Paradol
+T717	Chemical 23897 23939	1-[4′-hydroxy-3′-methoxyphenyl]-3-decanone
+T718	Metabolite 23897 23939	1-[4′-hydroxy-3′-methoxyphenyl]-3-decanone
+T719	Species 23997 24015	Grains of Paradise
+T720	Species 24017 24044	Aframomum melegueta  Roscoe
+T721	Species 24046 24059	Zingiberaceae
+T722	Species 24093 24099	ginger
+T723	Biological_Activity 24117 24126	promotion
+T724	Biological_Activity 24135 24149	carcinogenesis
+T725	Chemical 24154 24157	TPA
+T726	Biological_Activity 24158 24165	induced
+T727	Species 24186 24194	ICR mice
+R238	Isolated_From Arg1:T718 Arg2:T719	
+R239	Isolated_From Arg1:T718 Arg2:T720	
+R240	Isolated_From Arg1:T718 Arg2:T721	
+R241	Isolated_From Arg1:T718 Arg2:T722	
+R242	Isolated_From Arg1:T716 Arg2:T719	
+R243	Isolated_From Arg1:T716 Arg2:T720	
+R244	Isolated_From Arg1:T716 Arg2:T721	
+T728	Chemical 24207 24219	[6]-gingerol
+T729	Metabolite 24207 24219	[6]-gingerol
+T730	Chemical 24224 24235	[6]-paradol
+T731	Metabolite 24224 24235	[6]-paradol
+T732	Biological_Activity 24236 24242	induce
+T733	Biological_Activity 24243 24252	apoptosis
+R245	Associated_With Arg1:T731 Arg2:T732	
+R246	Associated_With Arg1:T730 Arg2:T732	
+R247	Associated_With Arg1:T731 Arg2:T733	
+R248	Associated_With Arg1:T730 Arg2:T733	
+T734	Chemical 24280 24288	Curcumin
+T735	Metabolite 24280 24288	Curcumin
+T736	Chemical 24289 24297	Curcumin
+T737	Metabolite 24289 24297	Curcumin
+T738	Chemical 24299 24316	diferuloylmethane
+T739	Metabolite 24299 24316	diferuloylmethane
+T740	Species 24386 24394	turmeric
+T741	Species 24396 24412	Curcuma longa  L
+T742	Species 24415 24428	Zingiberaceae
+R249	Isolated_From Arg1:T739 Arg2:T740	
+R250	Isolated_From Arg1:T739 Arg2:T741	
+R251	Isolated_From Arg1:T739 Arg2:T742	
+R252	Isolated_From Arg1:T737 Arg2:T740	
+R253	Isolated_From Arg1:T737 Arg2:T741	
+R254	Isolated_From Arg1:T737 Arg2:T742	
+T743	Chemical 24431 24439	Curcumin
+T744	Metabolite 24431 24439	Curcumin
+T745	Biological_Activity 24450 24467	anti-inflammatory
+T746	Biological_Activity 24472 24483	antioxidant
+R255	Associated_With Arg1:T744 Arg2:T745	
+R256	Associated_With Arg1:T743 Arg2:T745	
+R257	Associated_With Arg1:T744 Arg2:T746	
+R258	Associated_With Arg1:T743 Arg2:T746	
+T747	Biological_Activity 24536 24544	inhibits
+T748	Biological_Activity 24545 24557	mutagenicity
+T749	Chemical 24578 24589	carcinogens
+T750	Biological_Activity 24578 24589	carcinogens
+T751	Biological_Activity 24636 24643	binding
+R259	Associated_With Arg1:T744 Arg2:T747	
+R260	Associated_With Arg1:T743 Arg2:T747	
+R261	Associated_With Arg1:T744 Arg2:T748	
+R262	Associated_With Arg1:T743 Arg2:T748	
+T752	Chemical 24694 24702	Curcumin
+T753	Metabolite 24694 24702	Curcumin
+T754	Biological_Activity 24708 24717	protected
+R263	Associated_With Arg1:T753 Arg2:T754	
+R264	Associated_With Arg1:T752 Arg2:T754	
+T755	Biological_Activity 24799 24815	anticarcinogenic
+R265	Associated_With Arg1:T753 Arg2:T755	
+R266	Associated_With Arg1:T753 Arg2:T755	
+T756	Species 24774 24781	animals
+T757	Species 24847 24853	animal
+T758	Chemical 24933 24941	curcumin
+T759	Metabolite 24933 24941	curcumin
+T760	Biological_Activity 24965 24979	carcinogenesis
+T761	Biological_Activity 25001 25008	inhibit
+R267	Associated_With Arg1:T759 Arg2:T760	
+R268	Associated_With Arg1:T758 Arg2:T760	
+R269	Associated_With Arg1:T759 Arg2:T761	
+R270	Associated_With Arg1:T758 Arg2:T761	
+T762	Chemical 25043 25051	curcumin
+T763	Biological_Activity 25015 25024	promotion
+T764	Metabolite 25043 25051	curcumin
+T765	Biological_Activity 25068 25077	alleviate
+T766	Chemical 25078 25081	TPA
+T767	Biological_Activity 25082 25089	induced
+T768	Biological_Activity 25101 25110	promotion
+T769	Protein 25125 25128	ODC
+T770	Protein 25165 25168	ODC
+T771	Biological_Activity 25165 25168	ODC
+R271	Associated_With Arg1:T764 Arg2:T765	
+R272	Associated_With Arg1:T764 Arg2:T768	
+R273	Binds_With Arg1:T764 Arg2:T769	
+R274	Associated_With Arg1:T764 Arg2:T771	
+R275	Associated_With Arg1:T762 Arg2:T765	
+R276	Associated_With Arg1:T762 Arg2:T768	
+R277	Binds_With Arg1:T762 Arg2:T769	
+R278	Associated_With Arg1:T762 Arg2:T771	
+T772	Chemical 25209 25217	curcumin
+T773	Metabolite 25209 25217	curcumin
+T774	Biological_Activity 25258 25267	inhibited
+T775	Protein 25278 25281	COX
+T776	Protein 25286 25298	lipoxygenase
+R279	Associated_With Arg1:T773 Arg2:T774	
+R280	Binds_With Arg1:T773 Arg2:T775	
+R281	Binds_With Arg1:T773 Arg2:T776	
+R282	Associated_With Arg1:T772 Arg2:T774	
+R283	Binds_With Arg1:T772 Arg2:T775	
+R284	Binds_With Arg1:T772 Arg2:T776	
+T777	Protein 25323 25326	COX
+T778	Biological_Activity 25323 25326	COX
+T779	Protein 25331 25343	lipoxygenase
+T780	Biological_Activity 25331 25343	lipoxygenase
+T781	Chemical 25382 25390	curcumin
+T782	Metabolite 25382 25390	curcumin
+T783	Biological_Activity 25360 25370	suppressed
+T784	Biological_Activity 25425 25440	chemopreventive
+T785	Biological_Activity 25458 25472	carcinogenesis
+R285	Associated_With Arg1:T782 Arg2:T783	
+R286	Associated_With Arg1:T782 Arg2:T780	
+R287	Associated_With Arg1:T782 Arg2:T778	
+R288	Associated_With Arg1:T781 Arg2:T783	
+R289	Associated_With Arg1:T782 Arg2:T780	
+R290	Associated_With Arg1:T781 Arg2:T778	
+R291	Associated_With Arg1:T782 Arg2:T784	
+R292	Associated_With Arg1:T782 Arg2:T785	
+T786	Species 25484 25493	F344 rats
+T787	Chemical 25498 25506	curcumin
+T788	Metabolite 25498 25506	curcumin
+T789	Protein 25561 25577	phospholipase A2
+T790	Protein 25583 25600	phospholipase Cγ1
+T791	Chemical 25622 25638	arachidonic acid
+T792	Metabolite 25622 25638	arachidonic acid
+T793	Chemical 25661 25673	phospholipid
+T794	Metabolite 25661 25673	phospholipid
+R293	Binds_With Arg1:T788 Arg2:T789	
+R294	Binds_With Arg1:T788 Arg2:T790	
+R295	Binds_With Arg1:T787 Arg2:T789	
+R296	Binds_With Arg1:T787 Arg2:T790	
+T795	Biological_Activity 25711 25721	DNA damage
+T796	Species 25725 25730	mouse
+T797	Species 25763 25768	mouse
+R297	Associated_With Arg1:T788 Arg2:T795	
+R298	Associated_With Arg1:T787 Arg2:T795	
+T798	Biological_Activity 25820 25828	suppress
+T799	Chemical 25847 25850	ROS
+T800	Metabolite 25847 25850	ROS
+T801	Chemical 25861 25871	superoxide
+T802	Metabolite 25861 25871	superoxide
+T803	Chemical 25876 25893	hydrogen peroxide
+T804	Metabolite 25876 25893	hydrogen peroxide
+T805	Biological_Activity 25937 25948	antioxidant
+T806	Chemical 26023 26041	tetrahydrocurcumin
+T807	Metabolite 26023 26041	tetrahydrocurcumin
+T808	Chemical 26072 26083	metabolites
+T809	Metabolite 26072 26083	metabolites
+T810	Chemical 26087 26095	curcumin
+T811	Metabolite 26087 26095	curcumin
+R299	Metabolite_Of Arg1:T807 Arg2:T810	
+T812	Biological_Activity 26115 26128	antioxidative
+T813	Biological_Activity 26139 26156	anti-inflammatory
+T814	Chemical 26183 26191	curcumin
+T815	Metabolite 26183 26191	curcumin
+T816	Chemical 26193 26201	Curcumin
+T817	Metabolite 26193 26201	Curcumin
+T818	Chemical 26211 26229	lipopolysaccharide
+T819	Protein 26235 26247	interferon-γ
+T820	Biological_Activity 26248 26255	induced
+T821	Chemical 26270 26282	nitric oxide
+T822	Metabolite 26270 26282	nitric oxide
+T823	Chemical 26307 26314	nitrite
+T824	Metabolite 26307 26314	nitrite
+T825	Species 26318 26323	mouse
+T826	Biological_Activity 26361 26372	suppression
+T827	Protein 26376 26397	nitric oxide synthase
+R300	Associated_With Arg1:T817 Arg2:T826	
+R301	Binds_With Arg1:T817 Arg2:T827	
+R302	Associated_With Arg1:T816 Arg2:T826	
+R303	Binds_With Arg1:T816 Arg2:T827	
+T828	Biological_Activity 26450 26460	inhibition
+T829	Chemical 26464 26472	curcumin
+T830	Metabolite 26464 26472	curcumin
+T831	Protein 26486 26507	nitric oxide synthase
+T832	Species 26536 26548	BALB/c mouse
+T833	Chemical 26598 26616	lipopolysaccharide
+T834	Species 26626 26630	mice
+T835	Chemical 26632 26635	TPA
+T836	Biological_Activity 26636 26643	induced
+T837	Protein 26644 26660	protein kinase C
+T838	Biological_Activity 26661 26671	activation
+T839	Protein 26676 26681	c-jun
+T840	Biological_Activity 26708 26718	suppressed
+T841	Chemical 26722 26730	curcumin
+T842	Metabolite 26722 26730	curcumin
+T843	Species 26734 26739	mouse
+T844	Species 26810 26815	mouse
+T845	Chemical 26822 26830	curcumin
+T846	Metabolite 26822 26830	curcumin
+T847	Biological_Activity 26845 26854	inhibited
+T848	Protein 26901 26906	c-jun
+T849	Chemical 26927 26935	Curcumin
+T850	Metabolite 26927 26935	Curcumin
+T851	Biological_Activity 26951 26961	inhibitory
+T852	Protein 26973 26996;27003 27018	epidermal growth factor receptor kinase
+T853	Protein 26998 27001;27003 27018	EGF receptor kinase
+T854	Species 27040 27045	human
+R304	Associated_With Arg1:T850 Arg2:T851	
+R305	Binds_With Arg1:T850 Arg2:T852	
+R306	Binds_With Arg1:T850 Arg2:T853	
+R307	Associated_With Arg1:T849 Arg2:T851	
+R308	Binds_With Arg1:T849 Arg2:T852	
+R309	Binds_With Arg1:T849 Arg2:T853	
+T855	Protein 27117 27132	protein kinases
+T856	Biological_Activity 27155 27164	inhibited
+R310	Binds_With Arg1:T850 Arg2:T855	
+R311	Binds_With Arg1:T849 Arg2:T855	
+T857	Biological_Activity 27222 27233	pleiotropic
+T858	Chemical 27245 27253	curcumin
+T859	Metabolite 27245 27253	curcumin
+T860	Biological_Activity 27301 27311	inhibition
+T861	Protein 27315 27336	transcription factors
+R312	Associated_With Arg1:T859 Arg2:T857	
+R313	Associated_With Arg1:T858 Arg2:T857	
+R314	Associated_With Arg1:T859 Arg2:T860	
+R315	Associated_With Arg1:T858 Arg2:T860	
+R316	Binds_With Arg1:T859 Arg2:T861	
+R317	Binds_With Arg1:T858 Arg2:T861	
+T862	Chemical 27397 27405	curcumin
+T863	Metabolite 27397 27405	curcumin
+T864	Biological_Activity 27406 27416	suppresses
+T865	Chemical 27417 27420	TPA
+T866	Biological_Activity 27440 27447	binding
+T867	Protein 27460 27465	c-Jun
+T868	Protein 27466 27471	AP-1,
+T869	Biological_Activity 27498 27508	anti-tumor
+T870	Biological_Activity 27509 27518	promoting
+T871	Biological_Activity 27534 27549	chemopreventive
+T872	Chemical 27534 27556	chemopreventive agent.
+R318	Associated_With Arg1:T863 Arg2:T864	
+R319	Associated_With Arg1:T862 Arg2:T864	
+R320	Associated_With Arg1:T863 Arg2:T866	
+R321	Associated_With Arg1:T862 Arg2:T866	
+R322	Associated_With Arg1:T863 Arg2:T869	
+R323	Associated_With Arg1:T863 Arg2:T871	
+R324	Associated_With Arg1:T862 Arg2:T871	
+R325	Associated_With Arg1:T862 Arg2:T869	
+T873	Chemical 27572 27580	curcumin
+T874	Metabolite 27572 27580	curcumin
+T875	Biological_Activity 27602 27609	inhibit
+T876	Protein 27610 27615	TNF-α
+T877	Biological_Activity 27624 27631	binding
+T878	Protein 27635 27639	AP-1
+T879	Species 27650 27656	bovine
+T880	Protein 27715 27719	AP-1
+T881	Chemical 27732 27740	curcumin
+T882	Biological_Activity 27759 27767	suppress
+T883	Metabolite 27732 27740	curcumin
+T884	Protein 27786 27791	NF-κB
+T885	Protein 27835 27855	transcription factor
+T886	Biological_Activity 27861 27872	suppression
+T887	Biological_Activity 27720 27730	activation
+T888	Biological_Activity 27772 27782	activation
+T889	Protein 27876 27891	protein kinases
+T890	Protein 27893 27896	ODC
+T891	Protein 27902 27931	nuclear transcription factors
+T892	Chemical 27935 27943	curcumin
+T893	Metabolite 27935 27943	curcumin
+T894	Chemical 27963 27980	phenolic compound
+T895	Biological_Activity 27994 28004	cytostatic
+T896	Biological_Activity 28046 28058	transduction
+R326	Associated_With Arg1:T893 Arg2:T895	
+T897	Biological_Activity 28106 28119	proliferation
+R327	Associated_With Arg1:T892 Arg2:T895	
+T898	Chemical 28129 28137	curcumin
+T899	Metabolite 28129 28137	curcumin
+T900	Biological_Activity 28148 28165	antiproliferative
+T901	Biological_Activity 28237 28246	apoptosis
+T902	Biological_Activity 28208 28216	inducing
+R328	Associated_With Arg1:T899 Arg2:T900	
+R329	Associated_With Arg1:T898 Arg2:T900	
+R330	Associated_With Arg1:T899 Arg2:T902	
+R331	Associated_With Arg1:T898 Arg2:T902	
+R332	Associated_With Arg1:T899 Arg2:T901	
+R333	Associated_With Arg1:T898 Arg2:T901	
+T903	Chemical 28287 28295	curcumin
+T904	Metabolite 28287 28295	curcumin
+T905	Biological_Activity 28329 28338	induction
+T906	Biological_Activity 28342 28357	differentiation
+T907	Chemical 28392 28416	all-trans  retinoic acid
+T908	Metabolite 28392 28416	all-trans  retinoic acid
+T909	Chemical 28420 28445	1α,25-dihydroxyvitamin D3
+T910	Metabolite 28420 28445	1α,25-dihydroxyvitamin D3
+T911	Biological_Activity 28475 28485	inhibitory
+R334	Associated_With Arg1:T904 Arg2:T905	
+R335	Associated_With Arg1:T903 Arg2:T905	
+R336	Associated_With Arg1:T904 Arg2:T906	
+R337	Associated_With Arg1:T903 Arg2:T906	
+R338	Associated_With Arg1:T908 Arg2:T905	
+R339	Associated_With Arg1:T908 Arg2:T906	
+R340	Associated_With Arg1:T907 Arg2:T905	
+R341	Associated_With Arg1:T907 Arg2:T906	
+R342	Associated_With Arg1:T910 Arg2:T905	
+R343	Associated_With Arg1:T910 Arg2:T906	
+R344	Associated_With Arg1:T909 Arg2:T905	
+R345	Associated_With Arg1:T909 Arg2:T906	
+T912	Protein 28496 28524	farnesyl protein transferase
+T913	Biological_Activity 28571 28581	activation
+T914	Protein 28585 28596	Ras protein
+R346	Associated_With Arg1:T904 Arg2:T911	
+R347	Binds_With Arg1:T904 Arg2:T912	
+R348	Associated_With Arg1:T904 Arg2:T913	
+R349	Binds_With Arg1:T904 Arg2:T914	
+R350	Associated_With Arg1:T903 Arg2:T911	
+R351	Binds_With Arg1:T903 Arg2:T912	
+R352	Associated_With Arg1:T903 Arg2:T913	
+R353	Binds_With Arg1:T903 Arg2:T914	
+T915	Biological_Activity 28650 28660	inhibition
+T916	Protein 28664 28684	cytochrome P 450 1A1
+T917	Biological_Activity 28664 28684	cytochrome P 450 1A1
+T918	Chemical 28711 28721	carcinogen
+T919	Biological_Activity 28711 28721	carcinogen
+T920	Chemical 28737 28767	7,12-dimethylbenz[a]anthracene
+T921	Species 28776 28781	human
+T922	Biological_Activity 28842 28849	binding
+T923	Protein 28857 28882	aryl hydrocarbon receptor
+R354	Associated_With Arg1:T904 Arg2:T915	
+R355	Binds_With Arg1:T904 Arg2:T916	
+R356	Associated_With Arg1:T903 Arg2:T915	
+R357	Binds_With Arg1:T903 Arg2:T916	
+R358	Associated_With Arg1:T904 Arg2:T922	
+R359	Binds_With Arg1:T904 Arg2:T923	
+R360	Associated_With Arg1:T903 Arg2:T922	
+R361	Binds_With Arg1:T904 Arg2:T923	
+T924	Biological_Activity 28946 28960	antimetastatic
+T925	Biological_Activity 28990 29001	suppression
+T926	Protein 29005 29031	matrix metalloproteinase-9
+T927	Species 29039 29044	human
+R362	Associated_With Arg1:T904 Arg2:T924	
+R363	Associated_With Arg1:T904 Arg2:T925	
+R364	Binds_With Arg1:T904 Arg2:T926	
+R365	Associated_With Arg1:T903 Arg2:T924	
+R366	Associated_With Arg1:T903 Arg2:T925	
+R367	Binds_With Arg1:T903 Arg2:T926	
+T928	Chemical 29093 29109	Diarylheptanoids
+T929	Chemical 29134 29146	curcuminoids
+T930	Metabolite 29093 29109	Diarylheptanoids
+T931	Chemical 29147 29163	Diarylheptanoids
+T932	Metabolite 29147 29163	Diarylheptanoids
+T933	Chemical 29188 29196	curcumin
+T934	Metabolite 29188 29196	curcumin
+T935	Species 29220 29226	plants
+T936	Species 29230 29236	ginger
+T937	Species 29245 29258	Zingiberaceae
+T938	Biological_Activity 29303 29320	anti-inflammatory
+R368	Isolated_From Arg1:T932 Arg2:T936	
+R369	Isolated_From Arg1:T932 Arg2:T937	
+R370	Associated_With Arg1:T932 Arg2:T938	
+R371	Associated_With Arg1:T931 Arg2:T938	
+T939	Chemical 29345 29358	yakuchinone A
+T940	Metabolite 29345 29358	yakuchinone A
+T941	Chemical 29360 29412	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenyl-3-heptanone
+T942	Chemical 29418 29431	yakuchinone B
+T943	Metabolite 29360 29412	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenyl-3-heptanone
+T944	Metabolite 29418 29431	yakuchinone B
+T945	Chemical 29433 29488	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenylhept-1-en-3-one
+T946	Metabolite 29433 29488	1-[4′-hydroxy-3′-methoxyphenyl]-7-phenylhept-1-en-3-one
+T947	Species 29511 29536	Alpinia oxyphylla  Miquel
+T948	Biological_Activity 29569 29579	inhibitors
+T949	Chemical 29583 29596	prostaglandin
+T950	Metabolite 29583 29596	prostaglandin
+R372	Isolated_From Arg1:T946 Arg2:T947	
+R373	Isolated_From Arg1:T944 Arg2:T947	
+R374	Isolated_From Arg1:T943 Arg2:T947	
+R375	Isolated_From Arg1:T940 Arg2:T947	
+R376	Associated_With Arg1:T940 Arg2:T948	
+R377	Associated_With Arg1:T939 Arg2:T948	
+R378	Associated_With Arg1:T943 Arg2:T948	
+R379	Associated_With Arg1:T941 Arg2:T948	
+R380	Associated_With Arg1:T944 Arg2:T948	
+R381	Associated_With Arg1:T942 Arg2:T948	
+R382	Associated_With Arg1:T946 Arg2:T948	
+R383	Associated_With Arg1:T945 Arg2:T948	
+T951	Chemical 29635 29643	curcumin
+T952	Metabolite 29635 29643	curcumin
+T953	Chemical 29669 29684	diarylheptanoid
+T954	Chemical 29699 29707;29719 29724	carbonyl group
+T955	Biological_Activity 29817 29832	chemopreventive
+T956	Chemical 29912 29920	methanol
+T957	Species 29932 29944	A. oxyphylla
+T958	Species 29973 29977	mice
+T959	Biological_Activity 30006 30015	promotion
+T960	Biological_Activity 30025 30035	suppressed
+T961	Species 30099 30104	mouse
+T962	Biological_Activity 30115 30122	induced
+T963	Biological_Activity 30136 30144	promoter
+T964	Chemical 30146 30149	TPA
+R384	Associated_With Arg1:T964 Arg2:T963	
+R385	Associated_With Arg1:T964 Arg2:T962	
+T965	Chemical 30195 30208	yakuchinone A
+T966	Metabolite 30195 30208	yakuchinone A
+T967	Chemical 30213 30226	yakuchinone B
+T968	Metabolite 30213 30226	yakuchinone B
+T969	Species 30267 30279	A. oxyphylla
+T970	Biological_Activity 30293 30303	anti-tumor
+T971	Biological_Activity 30304 30313	promoters
+T972	Biological_Activity 30348 30356	suppress
+T973	Protein 30379 30382	ODC
+T974	Chemical 30357 30370	phorbol ester
+T975	Biological_Activity 30383 30393	activation
+T976	Species 30421 30426	mouse
+R390	Associated_With Arg1:T966 Arg2:T970	
+R386	Associated_With Arg1:T966 Arg2:T971	
+R387	Associated_With Arg1:T965 Arg2:T970	
+R388	Associated_With Arg1:T965 Arg2:T971	
+R389	Associated_With Arg1:T968 Arg2:T970	
+R391	Associated_With Arg1:T968 Arg2:T971	
+R392	Associated_With Arg1:T967 Arg2:T971	
+R393	Associated_With Arg1:T966 Arg2:T972	
+R394	Associated_With Arg1:T965 Arg2:T972	
+R395	Associated_With Arg1:T968 Arg2:T972	
+R396	Associated_With Arg1:T967 Arg2:T972	
+T977	Chemical 30445 30448	TPA
+T978	Biological_Activity 30449 30459	stimulated
+T979	Chemical 30460 30470	superoxide
+T980	Metabolite 30460 30470	superoxide
+T981	Protein 30486 30491	TNF-α
+T982	Biological_Activity 30529 30536	binding
+T983	Protein 30540 30544	AP-1
+T984	Biological_Activity 30571 30581	suppressed
+T985	Chemical 30636 30649	yakuchinone A
+T986	Metabolite 30636 30649	yakuchinone A
+T987	Chemical 30654 30667	yakuchinone B
+T988	Metabolite 30654 30667	yakuchinone B
+T989	Biological_Activity 30668 30674	induce
+T990	Biological_Activity 30675 30684	apoptotic
+T991	Biological_Activity 30732 30749	antiproliferative
+R397	Associated_With Arg1:T988 Arg2:T989	
+R398	Associated_With Arg1:T988 Arg2:T990	
+R399	Associated_With Arg1:T988 Arg2:T991	
+R400	Associated_With Arg1:T987 Arg2:T989	
+R401	Associated_With Arg1:T987 Arg2:T990	
+R402	Associated_With Arg1:T987 Arg2:T991	
+R403	Associated_With Arg1:T986 Arg2:T989	
+R404	Associated_With Arg1:T986 Arg2:T990	
+R405	Associated_With Arg1:T986 Arg2:T991	
+R406	Associated_With Arg1:T985 Arg2:T989	
+R407	Associated_With Arg1:T985 Arg2:T990	
+R408	Associated_With Arg1:T985 Arg2:T991	
+T992	Chemical 30767 30792	Phenolic diarylheptanoids
+T993	Metabolite 30767 30792	Phenolic diarylheptanoids
+T994	Species 30798 30824	Alpinia officinarum  Hance
+T995	Species 30826 30839	Zingiberaceae
+R409	Isolated_From Arg1:T993 Arg2:T994	
+R410	Isolated_From Arg1:T993 Arg2:T995	
+T996	Chemical 30868 30881	yakuchinone A
+T997	Metabolite 30868 30881	yakuchinone A
+T998	Chemical 30886 30899	yakuchinone B
+T999	Metabolite 30886 30899	yakuchinone B
+T1000	Metabolite 30905 30934	non-phenolic diarylheptanoids
+T1001	Chemical 30905 30934	non-phenolic diarylheptanoids
+T1002	Species 30970 30990	Curcuma xanthorrhiza
+T1003	Species 30993 31006	Zingiberaceae
+R411	Isolated_From Arg1:T1000 Arg2:T1002	
+R412	Isolated_From Arg1:T1000 Arg2:T1003	
+T1004	Biological_Activity 31029 31046	anti-inflammatory
+R413	Associated_With Arg1:T940 Arg2:T938	
+R414	Associated_With Arg1:T939 Arg2:T938	
+R415	Associated_With Arg1:T943 Arg2:T938	
+R416	Associated_With Arg1:T941 Arg2:T938	
+R417	Associated_With Arg1:T944 Arg2:T938	
+R418	Associated_With Arg1:T942 Arg2:T938	
+R419	Associated_With Arg1:T945 Arg2:T938	
+R420	Associated_With Arg1:T993 Arg2:T1004	
+R421	Associated_With Arg1:T992 Arg2:T1004	
+R422	Associated_With Arg1:T1000 Arg2:T1004	
+R423	Associated_With Arg1:T1001 Arg2:T1004	
+T1005	Chemical 31075 31091	diarylheptanoids
+T1006	Species 31119 31150	Alpinia blepharocalyx  K. Schum
+T1007	Metabolite 31075 31091	diarylheptanoids
+R424	Isolated_From Arg1:T1007 Arg2:T1006	
+T1008	Chemical 31161 31169	collagen
+T1009	Chemical 31172 31188	arachidonic acid
+T1010	Metabolite 31172 31188	arachidonic acid
+T1011	Chemical 31194 31215	adenosine diphosphate
+T1012	Metabolite 31194 31215	adenosine diphosphate
+T1013	Biological_Activity 31224 31244	platelet aggregation
+T1014	Species 31248 31253	human
+T1015	Biological_Activity 31270 31280	suppressed
+T1016	Biological_Activity 31216 31223	induced
+T1017	Chemical 31281 31293	nitric oxide
+T1018	Metabolite 31281 31293	nitric oxide
+T1019	Chemical 31308 31326	lipopolysaccharide
+T1020	Species 31337 31343	murine
+R425	Associated_With Arg1:T1007 Arg2:T1013	
+R426	Associated_With Arg1:T1005 Arg2:T1013	
+R427	Associated_With Arg1:T1007 Arg2:T1015	
+R428	Associated_With Arg1:T1005 Arg2:T1015	
+T1021	Chemical 31412 31419	ethanol
+T1022	Species 31431 31447	Curcuma zedoaria
+T1023	Species 31450 31463	Zingiberaceae
+T1024	Chemical 31474 31483;31501 31509	demethoxy curcumin
+T1025	Metabolite 31474 31483;31501 31509	demethoxy curcumin
+T1026	Chemical 31489 31509	bisdemethoxycurcumin
+T1027	Metabolite 31489 31509	bisdemethoxycurcumin
+R429	Isolated_From Arg1:T1025 Arg2:T1023	
+R430	Isolated_From Arg1:T1025 Arg2:T1022	
+R431	Isolated_From Arg1:T1027 Arg2:T1023	
+R432	Isolated_From Arg1:T1027 Arg2:T1022	
+T1028	Chemical 31522 31530	curcumin
+T1029	Metabolite 31522 31530	curcumin
+T1030	Biological_Activity 31543 31552	cytotoxic
+T1031	Species 31561 31566	human
+R433	Isolated_From Arg1:T1029 Arg2:T1022	
+R434	Associated_With Arg1:T1029 Arg2:T1030	
+R435	Associated_With Arg1:T1028 Arg2:T1030	
+R436	Associated_With Arg1:T1025 Arg2:T1030	
+R437	Associated_With Arg1:T1024 Arg2:T1030	
+R438	Associated_With Arg1:T1027 Arg2:T1030	
+R439	Associated_With Arg1:T1026 Arg2:T1030	
+T1032	Species 31641 31652	C. longa  L
+T1033	Chemical 31605 31621	diarylheptanoids
+T1034	Metabolite 31605 31621	diarylheptanoids
+T1035	Protein 31668 31683	topoisomerase I
+T1036	Protein 31668 31681;31688 31690	topoisomerase II
+T1037	Biological_Activity 31691 31701	inhibitory
+R440	Isolated_From Arg1:T1025 Arg2:T1032	
+R441	Isolated_From Arg1:T1027 Arg2:T1032	
+R442	Isolated_From Arg1:T1029 Arg2:T1032	
+R443	Isolated_From Arg1:T1034 Arg2:T1032	
+R444	Associated_With Arg1:T1025 Arg2:T1037	
+R445	Associated_With Arg1:T1024 Arg2:T1037	
+R446	Associated_With Arg1:T1027 Arg2:T1037	
+R447	Associated_With Arg1:T1026 Arg2:T1037	
+R448	Associated_With Arg1:T1029 Arg2:T1037	
+R449	Associated_With Arg1:T1028 Arg2:T1037	
+R450	Binds_With Arg1:T1025 Arg2:T1035	
+R451	Binds_With Arg1:T1025 Arg2:T1036	
+R452	Binds_With Arg1:T1024 Arg2:T1035	
+R453	Binds_With Arg1:T1024 Arg2:T1036	
+R454	Binds_With Arg1:T1027 Arg2:T1035	
+R455	Binds_With Arg1:T1027 Arg2:T1036	
+R456	Binds_With Arg1:T1026 Arg2:T1035	
+R457	Binds_With Arg1:T1026 Arg2:T1036	
+R458	Binds_With Arg1:T1029 Arg2:T1035	
+R459	Binds_With Arg1:T1029 Arg2:T1036	
+R460	Binds_With Arg1:T1028 Arg2:T1035	
+R461	Binds_With Arg1:T1028 Arg2:T1036	
+R462	Associated_With Arg1:T1034 Arg2:T1037	
+R463	Associated_With Arg1:T1033 Arg2:T1037	
+R464	Binds_With Arg1:T1034 Arg2:T1035	
+R465	Binds_With Arg1:T1033 Arg2:T1035	
+R466	Binds_With Arg1:T1034 Arg2:T1036	
+R467	Binds_With Arg1:T1033 Arg2:T1036	
+T1038	Biological_Activity 31755 31770	chemopreventive
+T1039	Chemical 31794 31810	diarylheptanoids
+T1040	Metabolite 31794 31810	diarylheptanoids
+T1041	Biological_Activity 31846 31856	anti-tumor
+T1042	Biological_Activity 31857 31868	promotional
+T1043	Chemical 31885 31896	Resveratrol
+T1044	Metabolite 31885 31896	Resveratrol
+T1045	Chemical 31897 31908	Resveratrol
+T1046	Metabolite 31897 31908	Resveratrol
+T1047	Chemical 31910 31943	3,5,4′-trihydroxy-trans -stilbene
+T1048	Metabolite 31910 31943	3,5,4′-trihydroxy-trans -stilbene
+T1049	Chemical 31958 31969	phytoalexin
+T1050	Metabolite 31958 31969	phytoalexin
+T1051	Biological_Activity 31958 31969	phytoalexin
+T1052	Species 31981 31987	grapes
+T1053	Species 31998 32004	plants
+T1054	Biological_Activity 32017 32028	antioxidant
+T1055	Biological_Activity 32033 32050	anti-inflammatory
+R468	Isolated_From Arg1:T1048 Arg2:T1052	
+R469	Isolated_From Arg1:T1048 Arg2:T1053	
+R470	Isolated_From Arg1:T1046 Arg2:T1052	
+R471	Isolated_From Arg1:T1046 Arg2:T1053	
+R472	Associated_With Arg1:T1048 Arg2:T1054	
+R473	Associated_With Arg1:T1047 Arg2:T1054	
+R474	Associated_With Arg1:T1047 Arg2:T1055	
+R475	Associated_With Arg1:T1048 Arg2:T1055	
+R476	Associated_With Arg1:T1046 Arg2:T1054	
+R477	Associated_With Arg1:T1045 Arg2:T1055	
+R478	Associated_With Arg1:T1046 Arg2:T1055	
+T1056	Chemical 32197 32217	triphenolic stilbene
+T1057	Metabolite 32197 32217	triphenolic stilbene
+T1058	Biological_Activity 32259 32274	chemopreventive
+T1059	Biological_Activity 32303 32313	inhibitory
+T1060	Biological_Activity 32383 32392	promotion
+T1061	Chemical 32418 32429	Resveratrol
+T1062	Metabolite 32418 32429	Resveratrol
+T1063	Biological_Activity 32463 32472	inhibitor
+T1064	Protein 32484 32537	cytochrome P 450-linked alkoxyresorufin O -dealkylase
+T1065	Biological_Activity 32484 32537	cytochrome P 450-linked alkoxyresorufin O -dealkylase
+T1066	Biological_Activity 32581 32591	metabolism
+T1067	Biological_Activity 32600 32612	carcinogenic
+T1068	Chemical 32634 32645	carcinogens
+T1069	Biological_Activity 32634 32645	carcinogens
+R479	Associated_With Arg1:T1062 Arg2:T1063	
+R480	Associated_With Arg1:T1061 Arg2:T1063	
+R481	Binds_With Arg1:T1062 Arg2:T1064	
+R482	Binds_With Arg1:T1061 Arg2:T1064	
+T1070	Biological_Activity 32655 32662	induces
+T1071	Protein 32663 32693	phase-2 detoxification enzymes
+T1072	Protein 32703 32734	NAD(P)H: quinone oxidoreductase
+R483	Associated_With Arg1:T1062 Arg2:T1070	
+R484	Associated_With Arg1:T1061 Arg2:T1070	
+R485	Binds_With Arg1:T1062 Arg2:T1071	
+R486	Binds_With Arg1:T1061 Arg2:T1071	
+R487	Binds_With Arg1:T1062 Arg2:T1072	
+R488	Binds_With Arg1:T1061 Arg2:T1072	
+T1073	Biological_Activity 32794 32807	antimutagenic
+T1074	Chemical 32820 32831	resveratrol
+T1075	Metabolite 32820 32831	resveratrol
+T1076	Chemical 32854 32872	heterocyclic amine
+T1077	Chemical 32874 32918	3-amino-1,4-dimethyl-5H-pyrido[4,3-b ]indole
+T1078	Chemical 32920 32927	Trp-P-1
+T1079	Species 32932 32940	bacteria
+T1080	Chemical 32942 32953	Resveratrol
+T1081	Metabolite 32942 32953	Resveratrol
+R489	Associated_With Arg1:T1075 Arg2:T1073	
+R490	Associated_With Arg1:T1074 Arg2:T1073	
+T1082	Chemical 32992 33015	ter -butyl hydroperoxid
+T1083	Biological_Activity 32981 32988	induced
+T1084	Chemical 33036 33046	ferric ion
+T1085	Chemical 33059 33066	ethanol
+T1086	Biological_Activity 33095 33105	protective
+T1087	Biological_Activity 33114 33126	cytotoxicity
+T1088	Protein 33131 33136	NF-κB
+T1089	Biological_Activity 33137 33147	activation
+T1090	Biological_Activity 33148 33155	induced
+T1091	Protein 33159 33180	oxidized lipoproteins
+R491	Associated_With Arg1:T1081 Arg2:T1086	
+R492	Associated_With Arg1:T1080 Arg2:T1086	
+R493	Associated_With Arg1:T1081 Arg2:T1087	
+R494	Associated_With Arg1:T1080 Arg2:T1087	
+T1092	Biological_Activity 33234 33243	inhibited
+T1093	Species 33254 33259	human
+T1094	Biological_Activity 33303 33316	Proliferation
+T1095	Species 33326 33331	human
+T1096	Species 33364 33370	murine
+T1097	Chemical 33412 33423	resveratrol
+T1098	Metabolite 33412 33423	resveratrol
+T1099	Biological_Activity 33466 33476	inhibition
+T1100	Protein 33480 33504	ribonucleotide reductase
+R495	Associated_With Arg1:T1098 Arg2:T1094	
+R496	Associated_With Arg1:T1097 Arg2:T1094	
+R497	Associated_With Arg1:T1098 Arg2:T1099	
+R498	Associated_With Arg1:T1097 Arg2:T1099	
+R499	Binds_With Arg1:T1098 Arg2:T1100	
+R500	Binds_With Arg1:T1098 Arg2:T1100	
+T1101	Biological_Activity 33572 33587	chemopreventive
+T1102	Chemical 33600 33611	resveratrol
+T1103	Biological_Activity 33615 33626	suppression
+T1104	Metabolite 33600 33611	resveratrol
+T1105	Chemical 33630 33643	prostaglandin
+T1106	Metabolite 33630 33643	prostaglandin
+T1107	Protein 33667 33670	COX
+R501	Associated_With Arg1:T1104 Arg2:T1101	
+R502	Associated_With Arg1:T1102 Arg2:T1101	
+R503	Associated_With Arg1:T1104 Arg2:T1103	
+R504	Associated_With Arg1:T1102 Arg2:T1103	
+R505	Binds_With Arg1:T1104 Arg2:T1107	
+R506	Binds_With Arg1:T1102 Arg2:T1107	
+T1108	Chemical 33672 33686	Prostaglandins
+T1109	Metabolite 33672 33686	Prostaglandins
+T1110	Biological_Activity 33722 33734	pathogenesis
+T1111	Biological_Activity 33738 33748	malignancy
+T1112	Biological_Activity 33784 33798	carcinogenesis
+T1113	Biological_Activity 33803 33814	suppression
+T1114	Chemical 33818 33831	prostaglandin
+T1115	Metabolite 33818 33831	prostaglandin
+T1116	Biological_Activity 33863 33873	inhibition
+T1117	Protein 33877 33880	COX
+T1118	Biological_Activity 33927 33942	chemopreventive
+R507	Associated_With Arg1:T1115 Arg2:T1112	
+R508	Associated_With Arg1:T1114 Arg2:T1112	
+T1119	Chemical 33953 33964	Resveratrol
+T1120	Metabolite 33953 33964	Resveratrol
+T1121	Biological_Activity 33978 33985	inhibit
+T1122	Protein 33986 33991	COX-1
+T1123	Biological_Activity 33986 33991	COX-1
+T1124	Species 34028 34033	sheep
+R509	Associated_With Arg1:T1120 Arg2:T1121	
+R510	Associated_With Arg1:T1119 Arg2:T1121	
+R511	Binds_With Arg1:T1120 Arg2:T1122	
+R512	Binds_With Arg1:T1119 Arg2:T1122	
+T1125	Chemical 34119 34130	resveratrol
+T1126	Metabolite 34119 34130	resveratrol
+T1127	Biological_Activity 34131 34139	inhibits
+T1128	Protein 34180 34187	isozyme
+T1129	Protein 34188 34193	COX-2
+T1130	Species 34206 34211	human
+T1131	Chemical 34254 34257	TPA
+R513	Associated_With Arg1:T1126 Arg2:T1127	
+R514	Associated_With Arg1:T1125 Arg2:T1127	
+R515	Binds_With Arg1:T1126 Arg2:T1129	
+R516	Binds_With Arg1:T1125 Arg2:T1129	
+T1132	Species 34279 34284	human
+T1133	Protein 34297 34302	COX-2
+T1134	Biological_Activity 34332 34341	inhibited
+T1135	Chemical 34345 34356	resveratrol
+T1136	Metabolite 34345 34356	resveratrol
+T1137	Biological_Activity 34373 34383	inhibiting
+T1138	Protein 34410 34415	COX-2
+T1139	Biological_Activity 34435 34442	blocked
+T1140	Chemical 34443 34446	TPA
+T1141	Biological_Activity 34456 34465	induction
+T1142	Protein 34469 34475	cox -2
+T1143	Species 34493 34498	human
+T1144	Protein 34546 34550	AP-1
+T1145	Biological_Activity 34532 34542	repression
+T1146	Biological_Activity 34561 34576	transactivation
+T1147	Chemical 34623 34634	resveratrol
+T1148	Metabolite 34623 34634	resveratrol
+T1149	Species 34655 34664	CD-1 mice
+T1150	Biological_Activity 34696 34712	oxidative stress
+T1151	Protein 34741 34747	TGF-β1
+T1152	Biological_Activity 34759 34766	induced
+T1153	Chemical 34770 34773	TPA
+T1154	Biological_Activity 34783 34792	induction
+T1155	Protein 34796 34802	cox -1
+T1156	Protein 34804 34810	cox -2
+T1157	Protein 34820 34825	c-jun
+T1158	Protein 34831 34836	TNF-α
+R517	Associated_With Arg1:T1148 Arg2:T1150	
+R518	Associated_With Arg1:T1147 Arg2:T1150	
+T1159	Biological_Activity 34895 34912	anti-inflammatory
+T1160	Biological_Activity 34913 34928	chemopreventive
+T1161	Biological_Activity 34955 34963	suppress
+T1162	Biological_Activity 34975 34988	proliferation
+T1163	Biological_Activity 35018 35027	induction
+T1164	Biological_Activity 35051 35060	apoptosis
+T1165	Chemical 35080 35091	resveratrol
+T1166	Chemical 34913 34935	chemopreventive agents
+T1167	Chemical 34895 34912;34929 34935	anti-inflammatory agents
+R519	Associated_With Arg1:T1167 Arg2:T1161	
+R520	Associated_With Arg1:T1167 Arg2:T1162	
+R521	Associated_With Arg1:T1167 Arg2:T1163	
+R522	Associated_With Arg1:T1167 Arg2:T1164	
+R523	Associated_With Arg1:T1166 Arg2:T1161	
+R524	Associated_With Arg1:T1166 Arg2:T1162	
+R525	Associated_With Arg1:T1166 Arg2:T1163	
+R526	Associated_With Arg1:T1166 Arg2:T1164	
+T1168	Metabolite 35080 35091	resveratrol
+T1169	Biological_Activity 35099 35116	anti-inflammatory
+T1170	Biological_Activity 35143 35154	suppression
+T1171	Protein 35158 35163	COX-2
+T1172	Biological_Activity 35233 35242	apoptosis
+T1173	Biological_Activity 35243 35251	inducing
+T1174	Biological_Activity 35322 35332	inhibition
+T1175	Chemical 35336 35347	resveratrol
+T1176	Metabolite 35336 35347	resveratrol
+T1177	Species 35368 35373	human
+T1178	Protein 35424 35441	estrogen receptor
+T1179	Biological_Activity 35476 35493	antiproliferative
+T1180	Chemical 35506 35517	resveratrol
+T1181	Metabolite 35506 35517	resveratrol
+R527	Associated_With Arg1:T1181 Arg2:T1179	
+R528	Associated_With Arg1:T1180 Arg2:T1179	
+T1182	Chemical 35582 35595	phytochemical
+T1183	Metabolite 35582 35595	phytochemical
+T1184	Biological_Activity 35642 35653	Suppression
+T1185	Chemical 35672 35683	resveratrol
+T1186	Metabolite 35672 35683	resveratrol
+T1187	Biological_Activity 35713 35722	induction
+T1188	Biological_Activity 35726 35735	apoptosis
+T1189	Biological_Activity 35856 35865	apoptotic
+T1190	Biological_Activity 35895 35912	DNA fragmentation
+R529	Associated_With Arg1:T1186 Arg2:T1187	
+R530	Associated_With Arg1:T1185 Arg2:T1187	
+R531	Associated_With Arg1:T1186 Arg2:T1188	
+R532	Associated_With Arg1:T1185 Arg2:T1188	
+T1191	Biological_Activity 35929 35940	suppression
+T1192	Biological_Activity 35944 35957	proliferation
+T1193	Biological_Activity 35972 35979	induced
+T1194	Biological_Activity 35980 35995	differentiation
+T1195	Chemical 36156 36167	resveratrol
+T1196	Metabolite 36156 36167	resveratrol
+R533	Associated_With Arg1:T1196 Arg2:T1193	
+R534	Associated_With Arg1:T1195 Arg2:T1193	
+R535	Associated_With Arg1:T1196 Arg2:T1194	
+R536	Associated_With Arg1:T1195 Arg2:T1194	
+T1197	Biological_Activity 36181 36187	induce
+T1198	Biological_Activity 36188 36197	apoptosis
+T1199	Biological_Activity 36216 36226	triggering
+T1200	Biological_Activity 36236 36245	signaling
+R537	Associated_With Arg1:T1196 Arg2:T1199	
+R538	Associated_With Arg1:T1195 Arg2:T1199	
+R539	Associated_With Arg1:T1196 Arg2:T1200	
+R540	Associated_With Arg1:T1195 Arg2:T1200	
+T1201	Chemical 36275 36283	estrogen
+T1202	Biological_Activity 36331 36341	suppressed
+T1203	Chemical 36345 36356	resveratrol
+T1204	Metabolite 36345 36356	resveratrol
+T1205	Biological_Activity 36484 36495	stimulation
+T1206	Biological_Activity 36509 36522	proliferation
+T1207	Chemical 36526 36537	resveratrol
+T1208	Metabolite 36526 36537	resveratrol
+T1209	Protein 36567 36584	estrogen receptor
+R541	Binds_With Arg1:T1208 Arg2:T1209	
+R542	Binds_With Arg1:T1207 Arg2:T1209	
+R543	Associated_With Arg1:T1208 Arg2:T1206	
+R544	Associated_With Arg1:T1207 Arg2:T1206	
+R545	Associated_With Arg1:T1208 Arg2:T1205	
+R546	Associated_With Arg1:T1207 Arg2:T1205	
+T1210	Chemical 36659 36670	resveratrol
+T1211	Metabolite 36659 36670	resveratrol
+T1212	Chemical 36678 36686	estrogen
+T1213	Metabolite 36678 36686	estrogen
+T1214	Biological_Activity 36693 36702	induction
+T1215	Protein 36706 36715	prolactin
+T1216	Protein 36796 36813	estrogen receptor
+T1217	Biological_Activity 36814 36821	binding
+T1218	Biological_Activity 36833 36844	stimulatory
+T1219	Chemical 36882 36906	Epigallocatechin gallate
+T1220	Species 36997 37006	green tea
+T1221	Biological_Activity 37072 37081	malignant
+T1222	Chemical 37112 37134	polyphenolic compounds
+T1223	Metabolite 37112 37134	polyphenolic compounds
+T1224	Species 37149 37158	green tea
+T1225	Chemical 37160 37188	(−)-epigallocatechin gallate
+T1226	Metabolite 37160 37188	(−)-epigallocatechin gallate
+T1227	Chemical 37190 37194	EGCG
+T1228	Metabolite 37190 37194	EGCG
+T1229	Biological_Activity 37267 37282	chemopreventive
+R547	Isolated_From Arg1:T1226 Arg2:T1224	
+R548	Isolated_From Arg1:T1228 Arg2:T1224	
+R549	Associated_With Arg1:T1228 Arg2:T1229	
+R550	Associated_With Arg1:T1227 Arg2:T1229	
+R551	Associated_With Arg1:T1226 Arg2:T1229	
+R552	Associated_With Arg1:T1225 Arg2:T1229	
+T1230	Biological_Activity 37326 37339	antioxidative
+T1231	Chemical 37366 37376	polyphenol
+T1232	Metabolite 37366 37376	polyphenol
+T1233	Biological_Activity 37492 37505	antimutagenic
+T1234	Biological_Activity 37510 37526	anticarcinogenic
+T1235	Species 37538 37547	green tea
+R553	Associated_With Arg1:T1226 Arg2:T1230	
+R554	Associated_With Arg1:T1225 Arg2:T1230	
+R555	Associated_With Arg1:T1228 Arg2:T1230	
+R556	Associated_With Arg1:T1227 Arg2:T1230	
+R557	Associated_With Arg1:T1226 Arg2:T1233	
+R558	Associated_With Arg1:T1225 Arg2:T1233	
+R559	Associated_With Arg1:T1228 Arg2:T1233	
+R560	Associated_With Arg1:T1227 Arg2:T1233	
+R561	Associated_With Arg1:T1226 Arg2:T1234	
+R562	Associated_With Arg1:T1225 Arg2:T1234	
+R563	Associated_With Arg1:T1228 Arg2:T1234	
+R564	Associated_With Arg1:T1227 Arg2:T1234	
+T1236	Species 37571 37582	SENCAR mice
+T1237	Chemical 37588 37592	EGCG
+T1238	Metabolite 37588 37592	EGCG
+T1239	Biological_Activity 37607 37618	ameliorated
+T1240	Chemical 37619 37622	TPA
+T1241	Biological_Activity 37623 37630	induced
+T1242	Chemical 37676 37693	hydrogen peroxide
+T1243	Metabolite 37676 37693	hydrogen peroxide
+T1244	Chemical 37707 37716	DNA bases
+T1245	Chemical 37727 37754	8-hydroxy-2′-deoxyguanosine
+T1246	Metabolite 37727 37754	8-hydroxy-2′-deoxyguanosine
+T1247	Chemical 37756 37763	8-OH-dG
+T1248	Metabolite 37756 37763	8-OH-dG
+T1249	Chemical 37769 37800	5-hydroxymethyl-2′-deoxyuridine
+T1250	Metabolite 37769 37800	5-hydroxymethyl-2′-deoxyuridine
+T1251	Chemical 37831 37834	TPA
+T1252	Biological_Activity 37853 37874	DNA base modification
+T1253	Biological_Activity 37835 37842	induced
+T1254	Biological_Activity 37879 37888	inhibited
+T1255	Chemical 37909 37913	EGCG
+T1256	Metabolite 37909 37913	EGCG
+T1257	Chemical 37945 37949	EGCG
+T1258	Metabolite 37945 37949	EGCG
+T1259	Species 37975 37984	green tea
+T1260	Chemical 37985 37994	catechins
+T1261	Metabolite 37985 37994	catechins
+T1262	Biological_Activity 38021 38031	inhibitors
+T1263	Biological_Activity 38041 38053	peroxidation
+T1264	Chemical 38035 38040	lipid
+T1265	Biological_Activity 38089 38101	antioxidants
+T1266	Chemical 38105 38116	glutathione
+T1267	Chemical 38118 38131	ascorbic acid
+T1268	Chemical 38133 38143	tocopherol
+T1269	Chemical 38145 38169	butylated hydroxytoluene
+T1270	Chemical 38175 38199	butylated hydroxyanisole
+R565	Associated_With Arg1:T1258 Arg2:T1262	
+R566	Associated_With Arg1:T1257 Arg2:T1262	
+R567	Associated_With Arg1:T1258 Arg2:T1263	
+R568	Associated_With Arg1:T1257 Arg2:T1263	
+R569	Associated_With Arg1:T1261 Arg2:T1262	
+R570	Associated_With Arg1:T1260 Arg2:T1262	
+R571	Associated_With Arg1:T1261 Arg2:T1263	
+R572	Associated_With Arg1:T1261 Arg2:T1263	
+R573	Associated_With Arg1:T1266 Arg2:T1265	
+R574	Associated_With Arg1:T1267 Arg2:T1265	
+R575	Associated_With Arg1:T1268 Arg2:T1265	
+R576	Associated_With Arg1:T1269 Arg2:T1265	
+R577	Associated_With Arg1:T1270 Arg2:T1265	
+R578	Associated_With Arg1:T1266 Arg2:T1262	
+R579	Associated_With Arg1:T1266 Arg2:T1263	
+R580	Associated_With Arg1:T1267 Arg2:T1262	
+R581	Associated_With Arg1:T1267 Arg2:T1263	
+R582	Associated_With Arg1:T1268 Arg2:T1262	
+R583	Associated_With Arg1:T1268 Arg2:T1263	
+T1271	Biological_Activity 38212 38223	antioxidant
+T1272	Chemical 38238 38249	theaflavins
+T1273	Metabolite 38238 38249	theaflavins
+T1274	Chemical 38254 38265	thearubigin
+T1275	Metabolite 38254 38265	thearubigin
+T1276	Species 38296 38305	black tea
+R584	Isolated_From Arg1:T1275 Arg2:T1276	
+R585	Isolated_From Arg1:T1273 Arg2:T1276	
+R586	Associated_With Arg1:T1273 Arg2:T1271	
+R587	Associated_With Arg1:T1272 Arg2:T1271	
+R588	Associated_With Arg1:T1275 Arg2:T1271	
+R589	Associated_With Arg1:T1274 Arg2:T1271	
+T1277	Species 38338 38347	green tea
+T1278	Chemical 38348 38359	polyphenols
+T1279	Metabolite 38348 38359	polyphenols
+T1280	Species 38420 38429	green tea
+T1281	Species 38434 38443	black tea
+R590	Isolated_From Arg1:T1279 Arg2:T1277	
+R591	Associated_With Arg1:T1279 Arg2:T1271	
+R592	Associated_With Arg1:T1278 Arg2:T1271	
+T1282	Chemical 38472 38476	EGCG
+T1283	Metabolite 38472 38476	EGCG
+T1284	Biological_Activity 38496 38506	inhibitory
+T1285	Chemical 38517 38521	Cu2+
+T1286	Protein 38545 38568	low density lipoprotein
+T1287	Chemical 38570 38573	LDL
+T1288	Chemical 38615 38625	theaflavin
+T1289	Metabolite 38615 38625	theaflavin
+T1290	Chemical 38627 38639	α-tocopherol
+T1291	Chemical 38645 38669	butylated hydroxytoluene
+R593	Associated_With Arg1:T1283 Arg2:T1284	
+R594	Associated_With Arg1:T1282 Arg2:T1284	
+T1292	Species 38712 38716	rats
+T1293	Chemical 38753 38757	EGCG
+T1294	Metabolite 38753 38757	EGCG
+T1295	Species 38802 38811	green tea
+T1296	Chemical 38863 38887	ter -butyl hydroperoxide
+T1297	Biological_Activity 38888 38895	induced
+T1298	Chemical 38896 38901	lipid
+T1299	Biological_Activity 38902 38914	peroxidation
+T1300	Species 38942 38949	animals
+T1301	Chemical 38958 38962	EGCG
+T1302	Metabolite 38958 38962	EGCG
+T1303	Species 38975 38984	green tea
+T1304	Species 38994 38998	rats
+T1305	Chemical 39011 39016	water
+T1306	Biological_Activity 39021 39031	protective
+T1307	Biological_Activity 39040 39054	hepatotoxicity
+T1308	Chemical 39073 39080	8-OH-dG
+T1309	Metabolite 39073 39080	8-OH-dG
+T1310	Biological_Activity 39091 39098	induced
+T1311	Chemical 39106 39116	carcinogen
+T1312	Biological_Activity 39106 39116	carcinogen
+T1313	Chemical 39117 39131	2-nitropropane
+R595	Associated_With Arg1:T1313 Arg2:T1312	
+R596	Associated_With Arg1:T1302 Arg2:T1306	
+R597	Associated_With Arg1:T1301 Arg2:T1306	
+R598	Associated_With Arg1:T1302 Arg2:T1307	
+R599	Associated_With Arg1:T1301 Arg2:T1307	
+T1314	Chemical 39140 39157	Pentachlorophenol
+T1315	Biological_Activity 39158 39165	induced
+T1316	Chemical 39174 39181	8-OH-dG
+T1317	Species 39200 39212	B6C3F1  mice
+T1318	Chemical 39251 39255	EGCG
+T1319	Metabolite 39251 39255	EGCG
+T1320	Chemical 39264 39277	Peroxynitrite
+T1321	Biological_Activity 39278 39286	mediated
+T1322	Chemical 39300 39307	8-OH-dG
+T1323	Metabolite 39174 39181	8-OH-dG
+T1324	Metabolite 39300 39307	8-OH-dG
+T1325	Species 39311 39315	calf
+T1326	Chemical 39344 39352	tyrosine
+T1327	Chemical 39356 39371	3-nitrotyrosine
+T1328	Metabolite 39344 39352	tyrosine
+T1329	Metabolite 39356 39371	3-nitrotyrosine
+T1330	Biological_Activity 39377 39387	suppressed
+T1331	Chemical 39391 39395	EGCG
+T1332	Metabolite 39391 39395	EGCG
+T1333	Species 39423 39446	Escherichia coli  pUC18
+T1334	Biological_Activity 39488 39497	inhibited
+T1335	Chemical 39517 39521	EGCG
+T1336	Metabolite 39517 39521	EGCG
+T1337	Chemical 39558 39574	hydroxyl radical
+T1338	Biological_Activity 39575 39585	scavenging
+R600	Associated_With Arg1:T1336 Arg2:T1334	
+R601	Associated_With Arg1:T1335 Arg2:T1334	
+R602	Associated_With Arg1:T1336 Arg2:T1338	
+R603	Associated_With Arg1:T1335 Arg2:T1338	
+T1339	Species 39616 39619	tea
+T1340	Chemical 39620 39630	flavonoids
+T1341	Chemical 39639 39643	EGCG
+T1342	Metabolite 39639 39643	EGCG
+T1343	Biological_Activity 39672 39682	protection
+T1344	Biological_Activity 39691 39700	oxidation
+T1345	Protein 39704 39707	LDL
+T1346	Metabolite 39620 39630	flavonoids
+R604	Isolated_From Arg1:T1346 Arg2:T1339	
+T1347	Biological_Activity 39743 39752	oxidation
+R605	Associated_With Arg1:T1342 Arg2:T1343	
+R606	Associated_With Arg1:T1341 Arg2:T1343	
+R607	Associated_With Arg1:T1342 Arg2:T1344	
+R608	Associated_With Arg1:T1341 Arg2:T1344	
+T1348	Chemical 39770 39774	EGCG
+T1349	Metabolite 39770 39774	EGCG
+T1350	Biological_Activity 39788 39793	block
+T1351	Chemical 39812 39815	ROS
+T1352	Protein 39829 39851	NADPH-cytochrome P 450
+T1353	Chemical 39890 39900	carcinogen
+T1354	Biological_Activity 39890 39900	carcinogen
+T1355	Chemical 39902 39942	2-amino-3-methylimidazo[4,5-f ]quinoline
+T1356	Chemical 39944 39946	IQ
+R609	Associated_With Arg1:T1355 Arg2:T1354	
+R610	Associated_With Arg1:T1349 Arg2:T1350	
+R611	Associated_With Arg1:T1348 Arg2:T1350	
+T1357	Chemical 39960 39964	EGCG
+T1358	Metabolite 39960 39964	EGCG
+T1359	Chemical 39969 39985	epigallocatechin
+T1360	Metabolite 39969 39985	epigallocatechin
+T1361	Biological_Activity 40000 40007	inhibit
+T1362	Protein 40008 40024	xanthine oxidase
+R612	Associated_With Arg1:T1360 Arg2:T1361	
+R613	Associated_With Arg1:T1359 Arg2:T1361	
+R614	Binds_With Arg1:T1360 Arg2:T1362	
+R615	Binds_With Arg1:T1359 Arg2:T1362	
+R616	Associated_With Arg1:T1358 Arg2:T1361	
+R617	Associated_With Arg1:T1357 Arg2:T1361	
+R618	Binds_With Arg1:T1358 Arg2:T1362	
+R619	Binds_With Arg1:T1357 Arg2:T1362	
+T1363	Chemical 40037 40041	EGCG
+T1364	Metabolite 40037 40041	EGCG
+T1365	Chemical 40082 40094	nitric oxide
+T1366	Metabolite 40082 40094	nitric oxide
+T1367	Biological_Activity 40156 40167	suppression
+T1368	Protein 40171 40202	inducible nitric oxide synthase
+T1369	Protein 40204 40208	iNOS
+R620	Associated_With Arg1:T1364 Arg2:T1367	
+R621	Associated_With Arg1:T1363 Arg2:T1367	
+R622	Binds_With Arg1:T1364 Arg2:T1368	
+R623	Binds_With Arg1:T1363 Arg2:T1368	
+R624	Binds_With Arg1:T1364 Arg2:T1369	
+R625	Binds_With Arg1:T1363 Arg2:T1369	
+T1370	Chemical 40302 40306	EGCG
+T1371	Metabolite 40302 40306	EGCG
+T1372	Biological_Activity 40315 40325	activation
+T1373	Biological_Activity 40307 40314	blunted
+T1374	Protein 40329 40334	NF-κB
+T1375	Protein 40351 40355	iNOS
+T1376	Biological_Activity 40356 40365	induction
+R626	Associated_With Arg1:T1371 Arg2:T1373	
+R627	Associated_With Arg1:T1370 Arg2:T1373	
+T1377	Chemical 40402 40406	EGCG
+T1378	Metabolite 40402 40406	EGCG
+T1379	Biological_Activity 40407 40415	inhibits
+T1380	Biological_Activity 40420 40427	binding
+T1381	Protein 40431 40436	NF-κB
+T1382	Protein 40440 40444	iNOS
+T1383	Biological_Activity 40445 40453	promoter
+T1384	Chemical 40440 40453	iNOS promoter
+R628	Binds_With Arg1:T1384 Arg2:T1381	
+T1385	Biological_Activity 40477 40490	transcription
+T1386	Protein 40494 40498	iNOS
+R629	Associated_With Arg1:T1378 Arg2:T1379	
+R630	Associated_With Arg1:T1377 Arg2:T1379	
+R631	Associated_With Arg1:T1378 Arg2:T1380	
+R632	Associated_With Arg1:T1377 Arg2:T1380	
+R633	Associated_With Arg1:T1378 Arg2:T1385	
+R634	Associated_With Arg1:T1377 Arg2:T1385	
+T1387	Protein 40505 40521	Interferon-gamma
+T1388	Chemical 40526 40544	lipopolysaccharide
+T1389	Biological_Activity 40545 40552	induced
+T1390	Chemical 40553 40560	nitrite
+T1391	Metabolite 40553 40560	nitrite
+T1392	Species 40575 40580	mouse
+T1393	Biological_Activity 40607 40616	inhibited
+T1394	Chemical 40620 40624	EGCG
+T1395	Metabolite 40620 40624	EGCG
+T1396	Biological_Activity 40637 40652	chemopreventive
+T1397	Chemical 40664 40668	EGCG
+T1398	Metabolite 40664 40668	EGCG
+T1399	Species 40700 40709	green tea
+T1400	Chemical 40710 40721	polyphenols
+T1401	Metabolite 40710 40721	polyphenols
+T1402	Species 40759 40765	rodent
+T1403	Chemical 40821 40825	EGCG
+T1404	Metabolite 40821 40825	EGCG
+T1405	Biological_Activity 40836 40846	protective
+T1406	Chemical 40863 40892	N -ethyl-N ′-nitrosoguanidine
+T1407	Biological_Activity 40893 40900	induced
+T1408	Species 40901 40907	murine
+T1409	Biological_Activity 40917 40931	carcinogenesis
+T1410	Chemical 40950 40980	N -methyl-N ′-nitrosoguanidine
+T1411	Biological_Activity 40981 40988	induced
+T1412	Species 40989 40992	rat
+T1413	Biological_Activity 41001 41015	carcinogenesis
+R635	Associated_With Arg1:T1404 Arg2:T1405	
+R636	Associated_With Arg1:T1403 Arg2:T1405	
+R637	Associated_With Arg1:T1404 Arg2:T1409	
+R638	Associated_With Arg1:T1403 Arg2:T1409	
+R639	Associated_With Arg1:T1406 Arg2:T1407	
+R640	Associated_With Arg1:T1406 Arg2:T1409	
+R641	Associated_With Arg1:T1410 Arg2:T1411	
+R642	Associated_With Arg1:T1410 Arg2:T1413	
+T1414	Chemical 41029 41047	diethylnitrosamine
+T1415	Biological_Activity 41048 41057	initiated
+T1416	Chemical 41062 41075	phenobarbital
+T1417	Biological_Activity 41076 41084	promoted
+T1418	Species 41133 41142	F344 rats
+T1419	Species 41151 41156	mouse
+T1420	Biological_Activity 41162 41176	carcinogenesis
+T1421	Species 41194 41201	tobacco
+R643	Associated_With Arg1:T1414 Arg2:T1415	
+R644	Associated_With Arg1:T1416 Arg2:T1417	
+T1422	Chemical 41211 41222	nitrosamine
+T1423	Biological_Activity 41223 41230	induced
+T1424	Species 41231 41236	mouse
+T1425	Biological_Activity 41247 41260	tumorigenesis
+T1426	Species 41296 41299	rat
+T1427	Biological_Activity 41308 41317	induction
+T1428	Chemical 41354 41368	benzo[a]pyrene
+T1429	Species 41415 41430	C3H/HeNCrj mice
+T1430	Biological_Activity 41491 41506	chemopreventive
+T1431	Chemical 41519 41523	EGCG
+T1432	Metabolite 41519 41523	EGCG
+T1433	Biological_Activity 41527 41538	suppression
+T1434	Biological_Activity 41542 41551	promotion
+T1435	Biological_Activity 41555 41569	carcinogenesis
+T1436	Species 41603 41610	animals
+T1437	Chemical 41652 41656	EGCG
+T1438	Metabolite 41652 41656	EGCG
+T1439	Biological_Activity 41729 41738	promotion
+T1440	Biological_Activity 41748 41759	suppression
+T1441	Species 41763 41768	mouse
+T1442	Protein 41779 41782	ODC
+T1443	Biological_Activity 41779 41782	ODC
+T1444	Biological_Activity 41792 41799	induced
+T1445	Chemical 41803 41806	TPA
+T1446	Chemical 41816 41828	okadaic acid
+T1447	Biological_Activity 41837 41847	inhibition
+T1448	Protein 41851 41867	protein kinase C
+T1449	Biological_Activity 41868 41878	activation
+T1450	Biological_Activity 41879 41886	induced
+T1451	Chemical 41890 41900	teleocidin
+T1452	Chemical 41910 41913	TPA
+T1453	Chemical 41937 41949	okadaic acid
+T1454	Biological_Activity 41950 41960	stimulated
+T1455	Protein 41975 41980	TNF-α
+T1456	Biological_Activity 42045 42055	inhibition
+T1457	Biological_Activity 42059 42066	binding
+T1458	Biological_Activity 42076 42085	promoters
+T1459	Species 42117 42122	mouse
+T1460	Protein 42144 42169	receptor protein kinase C
+T1461	Chemical 42192 42195	TPA
+T1462	Biological_Activity 42196 42203	induced
+T1463	Species 42224 42229	mouse
+R645	Associated_With Arg1:T1438 Arg2:T1439	
+R646	Associated_With Arg1:T1437 Arg2:T1439	
+R647	Associated_With Arg1:T1438 Arg2:T1440	
+R648	Binds_With Arg1:T1438 Arg2:T1442	
+R649	Binds_With Arg1:T1437 Arg2:T1442	
+R650	Associated_With Arg1:T1445 Arg2:T1444	
+R651	Associated_With Arg1:T1446 Arg2:T1444	
+R652	Associated_With Arg1:T1437 Arg2:T1440	
+R653	Associated_With Arg1:T1438 Arg2:T1447	
+R654	Associated_With Arg1:T1437 Arg2:T1447	
+R655	Binds_With Arg1:T1438 Arg2:T1448	
+R656	Binds_With Arg1:T1437 Arg2:T1448	
+R657	Associated_With Arg1:T1451 Arg2:T1450	
+T1464	Protein 42338 42341	ODC
+T1465	Biological_Activity 42338 42341	ODC
+T1466	Chemical 42379 42409	N -methyl-N ′-nitrosoguanidine
+T1467	Species 42418 42422	rats
+T1468	Metabolite 42466 42470	EGCG
+T1469	Chemical 42466 42470	EGCG
+T1470	Chemical 42479 42482	TPA
+T1471	Biological_Activity 42483 42490	induced
+T1472	Protein 42505 42508	ODC
+T1473	Protein 42515 42531	protein kinase C
+T1474	Biological_Activity 42586 42595	repressed
+T1475	Chemical 42622 42626	EGCG
+T1476	Metabolite 42622 42626	EGCG
+T1477	Species 42567 42572	mouse
+T1478	Biological_Activity 42662 42672	transcript
+T1479	Protein 42692 42697	IL-1α
+T1480	Species 42706 42717	SENCAR mice
+T1481	Biological_Activity 42756 42765	promoters
+T1482	Chemical 42811 42815	EGCG
+T1483	Metabolite 42811 42815	EGCG
+T1484	Biological_Activity 42771 42781	suppressed
+T1485	Chemical 42837 42841	EGCG
+T1486	Metabolite 42837 42841	EGCG
+T1487	Biological_Activity 42848 42858	stimulated
+T1488	Protein 42877 42882	IL-1α
+T1489	Species 42910 42915	human
+T1490	Chemical 42970 42974	EGCG
+T1491	Metabolite 42970 42974	EGCG
+T1492	Chemical 42985 42988	TPA
+T1493	Biological_Activity 42989 42996	induced
+T1494	Biological_Activity 42997 43007	activation
+T1495	Protein 43011 43027	protein kinase C
+T1496	Protein 43029 43034	c-jun
+T1497	Species 43079 43084	mouse
+T1498	Chemical 43163 43167	EGCG
+T1499	Metabolite 43163 43167	EGCG
+T1500	Chemical 43172 43183	theaflavins
+T1501	Metabolite 43172 43183	theaflavins
+T1502	Protein 43194 43197	EGF
+T1503	Biological_Activity 43184 43193	inhibited
+T1504	Chemical 43202 43205	TPA
+T1505	Biological_Activity 43206 43213	induced
+T1506	Biological_Activity 43214 43228	transformation
+T1507	Species 43232 43241	JB6 mouse
+T1508	Biological_Activity 43294 43304	repression
+T1509	Protein 43308 43312	AP-1
+T1510	Biological_Activity 43323 43338	transcriptional
+T1511	Biological_Activity 43360 43367	binding
+R658	Associated_With Arg1:T1499 Arg2:T1503	
+R659	Associated_With Arg1:T1498 Arg2:T1503	
+R660	Associated_With Arg1:T1499 Arg2:T1506	
+R661	Associated_With Arg1:T1498 Arg2:T1506	
+R662	Associated_With Arg1:T1501 Arg2:T1503	
+R663	Associated_With Arg1:T1500 Arg2:T1503	
+R664	Associated_With Arg1:T1501 Arg2:T1506	
+R665	Associated_With Arg1:T1500 Arg2:T1506	
+T1512	Biological_Activity 43382 43392	inhibition
+T1513	Protein 43396 43400	AP-1
+T1514	Biological_Activity 43401 43411	activation
+T1515	Protein 43478 43481	JNK
+T1516	Protein 43495 43498	ERK
+T1517	Biological_Activity 43519 43535	anticarcinogenic
+T1518	Biological_Activity 43548 43561	antigenotoxic
+T1519	Chemical 43576 43580	EGCG
+T1520	Metabolite 43576 43580	EGCG
+T1521	Biological_Activity 43744 43754	protective
+R666	Associated_With Arg1:T1520 Arg2:T1518	
+R667	Associated_With Arg1:T1519 Arg2:T1518	
+T1522	Biological_Activity 43779 43789	inhibiting
+T1523	Biological_Activity 43800 43809	promotion
+T1524	Chemical 43811 43815	EGCG
+T1525	Metabolite 43811 43815	EGCG
+T1526	Species 43855 43864	green tea
+T1527	Chemical 43865 43875	polyphenol
+T1528	Metabolite 43865 43875	polyphenol
+T1529	Biological_Activity 43933 43943	inhibition
+T1530	Biological_Activity 43951 43961	regression
+T1531	Species 44007 44011	mice
+T1532	Species 44038 44047	green tea
+T1533	Chemical 44048 44058	polyphenol
+T1534	Metabolite 44048 44058	polyphenol
+T1535	Biological_Activity 44073 44082	inhibited
+T1536	Chemical 44182 44192	polyphenol
+T1537	Metabolite 44182 44192	polyphenol
+T1538	Biological_Activity 44207 44217	inhibition
+T1539	Biological_Activity 44222 44232	regression
+T1540	Species 44256 44261	human
+T1541	Species 44343 44347	mice
+T1542	Chemical 44383 44392	catechins
+T1543	Metabolite 44383 44392	catechins
+T1544	Chemical 44402 44425	(−)-epicatechin gallate
+T1545	Metabolite 44402 44425	(−)-epicatechin gallate
+T1546	Chemical 44460 44464	EGCG
+T1547	Metabolite 44460 44464	EGCG
+T1548	Biological_Activity 44482 44492	suppressed
+T1549	Species 44507 44512	human
+T1550	Species 44553 44557	mice
+T1551	Chemical 44603 44607	EGCG
+T1552	Metabolite 44603 44607	EGCG
+T1553	Biological_Activity 44635 44653	hyperproliferation
+T1554	Species 44685 44690	mouse
+T1555	Biological_Activity 44750 44758	suppress
+T1556	Chemical 44815 44819	agar
+R668	Associated_With Arg1:T1552 Arg2:T1553	
+R669	Associated_With Arg1:T1551 Arg2:T1553	
+T1557	Biological_Activity 44837 44855	hyperproliferation
+T1558	Species 44886 44892	murine
+T1559	Biological_Activity 44931 44941	initiation
+T1560	Chemical 44958 44968	carcinogen
+T1561	Metabolite 44958 44968	carcinogen
+T1562	Species 45037 45041	mice
+T1563	Biological_Activity 45052 45059	blocked
+T1564	Chemical 45063 45067	EGCG
+T1565	Metabolite 45063 45067	EGCG
+T1566	Chemical 45130 45134	EGCG
+T1567	Metabolite 45130 45134	EGCG
+T1568	Species 45161 45180	Sprague–Dawley rats
+T1569	Biological_Activity 45197 45206	promotion
+T1570	Chemical 45232 45262	7,12-dimethylbenz[a]anthracene
+T1571	Biological_Activity 45263 45272	initiated
+T1572	Biological_Activity 45281 45295	carcinogenesis
+T1573	Biological_Activity 45321 45331	protective
+R670	Associated_With Arg1:T1570 Arg2:T1571	
+R671	Associated_With Arg1:T1570 Arg2:T1572	
+T1574	Biological_Activity 45421 45431	inhibitory
+T1575	Biological_Activity 45435 45452	antiproliferative
+T1576	Species 45467 45476	green tea
+T1577	Chemical 45477 45488	polyphenols
+T1578	Metabolite 45477 45488	polyphenols
+T1579	Biological_Activity 45564 45579	chemopreventive
+T1580	Chemical 45580 45594	phytochemicals
+T1581	Metabolite 45580 45594	phytochemicals
+T1582	Biological_Activity 45620 45630	inhibitory
+T1583	Chemical 45642 45646	EGCG
+T1584	Metabolite 45642 45646	EGCG
+T1585	Biological_Activity 45698 45707	apoptosis
+R672	Associated_With Arg1:T1584 Arg2:T1585	
+R673	Associated_With Arg1:T1583 Arg2:T1585	
+T1586	Species 45745 45750	human
+T1587	Chemical 45794 45798	EGCG
+T1588	Metabolite 45794 45798	EGCG
+T1589	Chemical 45871 45878	agarose
+T1590	Species 45906 45915	green tea
+T1591	Chemical 45916 45927	polyphenols
+T1592	Metabolite 45916 45927	polyphenols
+T1593	Chemical 45937 45953	epigallocatechin
+T1594	Metabolite 45937 45953	epigallocatechin
+T1595	Chemical 45958 45977	epicatechin gallate
+T1596	Metabolite 45958 45977	epicatechin gallate
+T1597	Biological_Activity 45984 45993	inhibited
+T1598	Biological_Activity 46022 46031	induction
+T1599	Biological_Activity 46035 46044	apoptotic
+R674	Associated_With Arg1:T1596 Arg2:T1597	
+R675	Associated_With Arg1:T1595 Arg2:T1597	
+R676	Associated_With Arg1:T1594 Arg2:T1597	
+R677	Associated_With Arg1:T1593 Arg2:T1597	
+R678	Associated_With Arg1:T1596 Arg2:T1598	
+R679	Associated_With Arg1:T1595 Arg2:T1598	
+R680	Associated_With Arg1:T1594 Arg2:T1598	
+R681	Associated_With Arg1:T1593 Arg2:T1598	
+R682	Associated_With Arg1:T1596 Arg2:T1599	
+R683	Associated_With Arg1:T1595 Arg2:T1599	
+R684	Associated_With Arg1:T1594 Arg2:T1599	
+R685	Associated_With Arg1:T1593 Arg2:T1599	
+T1600	Chemical 46078 46089	polyphenols
+T1601	Metabolite 46078 46089	polyphenols
+T1602	Biological_Activity 46103 46113	inhibitory
+T1603	Species 46138 46143	human
+T1604	Biological_Activity 46273 46282	apoptosis
+T1605	Biological_Activity 46283 46291	inducing
+T1606	Chemical 46304 46308	EGCG
+T1607	Metabolite 46304 46308	EGCG
+T1608	Biological_Activity 46402 46417	chemopreventive
+T1609	Chemical 46436 46444	sulindac
+T1610	Chemical 46449 46458	tamoxifen
+R686	Associated_With Arg1:T1609 Arg2:T1608	
+R687	Associated_With Arg1:T1610 Arg2:T1608	
+T1611	Chemical 46485 46489	EGCG
+T1612	Metabolite 46485 46489	EGCG
+T1613	Biological_Activity 46490 46497	induced
+T1614	Biological_Activity 46498 46507	apoptosis
+T1615	Species 46511 46516	human
+T1616	Species 46556 46561	human
+T1617	Species 46604 46609	human
+T1618	Species 46652 46657	mouse
+T1619	Biological_Activity 46694 46703	apoptosis
+T1620	Biological_Activity 46704 46712	inducing
+T1621	Biological_Activity 46788 46805	Antiproliferative
+T1622	Chemical 46818 46822	EGCG
+T1623	Metabolite 46818 46822	EGCG
+T1624	Biological_Activity 46869 46880	suppression
+T1625	Protein 46884 46887	EGF
+T1626	Biological_Activity 46888 46895	binding
+T1627	Protein 46903 46911	receptor
+T1628	Protein 46954 46966	EGF receptor
+T1629	Protein 46980 46983	EGF
+T1630	Biological_Activity 46984 46993	signaling
+R688	Associated_With Arg1:T1623 Arg2:T1621	
+R689	Associated_With Arg1:T1622 Arg2:T1621	
+T1632	Chemical 47006 47010	EGCG
+T1633	Metabolite 47006 47010	EGCG
+T1634	Chemical 47015 47031	epigallocatechin
+T1635	Metabolite 47015 47031	epigallocatechin
+T1636	Chemical 47132 47148	epigallocatechin
+T1637	Metabolite 47132 47148	epigallocatechin
+T1638	Biological_Activity 47149 47159	suppressed
+T1639	Chemical 47164 47172	tyrosine
+T1631	Chemical 47237 47241	EGCG
+T1640	Metabolite 47237 47241	EGCG
+T1641	Biological_Activity 47250 47260	inhibitory
+T1642	Protein 47210 47218	proteins
+T1643	Protein 47268 47291	protein tyrosine kinase
+T1644	Biological_Activity 47268 47291	protein tyrosine kinase
+T1645	Biological_Activity 47323 47335	premalignant
+T1646	Biological_Activity 47340 47349	malignant
+T1647	Biological_Activity 47463 47472	inhibited
+T1648	Chemical 47476 47480	EGCG
+T1649	Metabolite 47476 47480	EGCG
+T1650	Biological_Activity 47577 47586	malignant
+T1651	Chemical 47626 47630	EGCG
+T1652	Metabolite 47626 47630	EGCG
+T1653	Chemical 47685 47699	benzo[a]pyrene
+T1654	Biological_Activity 47700 47709	initiated
+T1655	Species 47710 47715	human
+T1656	Chemical 47753 47757	EGCG
+T1657	Metabolite 47753 47757	EGCG
+T1658	Biological_Activity 47801 47810	apoptotic
+T1659	Biological_Activity 47847 47858	suppression
+T1660	Biological_Activity 47871 47884	proliferation
+T1661	Species 47908 47913	Human
+T1662	Biological_Activity 47952 47961	apoptotic
+T1663	Chemical 47984 47988	EGCG
+T1664	Metabolite 47984 47988	EGCG
+T1665	Chemical 48021 48032	polyphenols
+T1666	Metabolite 48021 48032	polyphenols
+T1667	Species 48046 48055	green tea
+T1668	Chemical 48121 48125	EGCG
+T1669	Metabolite 48121 48125	EGCG
+T1670	Chemical 48130 48146	epigallocatechin
+T1671	Metabolite 48130 48146	epigallocatechin
+T1672	Biological_Activity 48171 48181	inhibitory
+T1673	Chemical 48202 48221	epicatechin gallate
+T1674	Metabolite 48202 48221	epicatechin gallate
+T1675	Chemical 48226 48237	epicatechin
+T1676	Metabolite 48226 48237	epicatechin
+R690	Isolated_From Arg1:T1594 Arg2:T1590	
+R691	Isolated_From Arg1:T1596 Arg2:T1590	
+T1677	Chemical 48305 48309	EGCG
+T1678	Metabolite 48305 48309	EGCG
+T1679	Biological_Activity 48322 48331	apoptosis
+T1680	Chemical 48372 48389	hydrogen peroxide
+T1681	Metabolite 48372 48389	hydrogen peroxide
+T1682	Chemical 48407 48417	polyphenol
+T1683	Metabolite 48407 48417	polyphenol
+R692	Associated_With Arg1:T1681 Arg2:T1679	
+R693	Associated_With Arg1:T1680 Arg2:T1679	
+T1684	Chemical 48426 48430	EGCG
+T1685	Metabolite 48426 48430	EGCG
+T1686	Species 48464 48473	green tea
+T1687	Chemical 48474 48482	catechin
+T1688	Metabolite 48474 48482	catechin
+T1689	Species 48529 48534	human
+T1690	Biological_Activity 48618 48628	inhibition
+T1691	Protein 48632 48644	5α-reductase
+T1692	Chemical 48648 48652	EGCG
+T1693	Metabolite 48648 48652	EGCG
+T1694	Biological_Activity 48671 48688	antiproliferative
+T1695	Biological_Activity 48758 48766	androgen
+R694	Associated_With Arg1:T1693 Arg2:T1690	
+R695	Associated_With Arg1:T1692 Arg2:T1690	
+R696	Binds_With Arg1:T1693 Arg2:T1691	
+R697	Binds_With Arg1:T1692 Arg2:T1691	
+R698	Associated_With Arg1:T1693 Arg2:T1695	
+R699	Associated_With Arg1:T1692 Arg2:T1695	
+T1696	Biological_Activity 48786 48803	antiproliferative
+T1697	Biological_Activity 48808 48817	apoptosis
+T1698	Biological_Activity 48818 48826	inducing
+T1699	Chemical 48838 48842	EGCG
+T1700	Metabolite 48838 48842	EGCG
+T1701	Biological_Activity 48948 48958	modulation
+T1702	Chemical 48999 49003	EGCG
+T1703	Metabolite 48999 49003	EGCG
+T1704	Biological_Activity 49031 49045	antimetastatic
+T1705	Biological_Activity 49070 49080	inhibition
+T1706	Protein 49084 49108	matrix metalloproteinase
+T1707	Biological_Activity 49084 49108	matrix metalloproteinase
+T1708	Species 49121 49126	mouse
+R700	Associated_With Arg1:T1703 Arg2:T1704	
+R701	Associated_With Arg1:T1702 Arg2:T1704	
+R702	Associated_With Arg1:T1703 Arg2:T1705	
+R703	Associated_With Arg1:T1702 Arg2:T1705	
+R704	Binds_With Arg1:T1703 Arg2:T1706	
+R705	Binds_With Arg1:T1702 Arg2:T1706	
+T1709	Chemical 49193 49197	EGCG
+T1710	Metabolite 49193 49197	EGCG
+T1711	Biological_Activity 49198 49207	inhibited
+T1712	Biological_Activity 49208 49218	metastasis
+T1713	Species 49222 49227	mouse
+R706	Associated_With Arg1:T1710 Arg2:T1711	
+R707	Associated_With Arg1:T1709 Arg2:T1711	
+R708	Associated_With Arg1:T1710 Arg2:T1712	
+R709	Associated_With Arg1:T1709 Arg2:T1712	
+T1714	Biological_Activity 49324 49333	inhibited
+T1715	Chemical 49337 49341	EGCG
+T1716	Metabolite 49337 49341	EGCG
+T1717	Biological_Activity 49464 49476	inactivation
+T1718	Protein 49480 49490	telomerase
+T1719	Protein 49502 49508	enzyme
+T1720	Biological_Activity 49537 49550	proliferation
+R710	Associated_With Arg1:T1716 Arg2:T1717	
+R711	Associated_With Arg1:T1715 Arg2:T1717	
+R712	Binds_With Arg1:T1716 Arg2:T1718	
+R713	Binds_With Arg1:T1715 Arg2:T1718	
+T1721	Chemical 49609 49628	phenolic substances
+T1722	Metabolite 49609 49628	phenolic substances
+T1723	Species 49662 49668	plants
+T1724	Biological_Activity 49686 49699	antioxidative
+T1725	Biological_Activity 49704 49721	anti-inflammatory
+T1726	Biological_Activity 49783 49798	chemopreventive
+T1727	Chemical 49831 49841	vanilloids
+T1728	Metabolite 49831 49841	vanilloids
+T1729	Species 49845 49855	red pepper
+T1730	Species 49860 49866	ginger
+T1731	Chemical 49872 49888	diarylheptanoids
+T1732	Metabolite 49872 49888	diarylheptanoids
+T1733	Species 49921 49927	plants
+T1734	Species 49931 49937	ginger
+R714	Isolated_From Arg1:T1732 Arg2:T1734	
+R715	Isolated_From Arg1:T1728 Arg2:T1729	
+R716	Isolated_From Arg1:T1728 Arg2:T1730	
+T1735	Chemical 49952 49971	phenolic substances
+T1736	Metabolite 49952 49971	phenolic substances
+T1737	Biological_Activity 49992 49999	inhibit
+T1738	Species 50000 50005	mouse
+T1739	Biological_Activity 50017 50026	promotion
+T1740	Biological_Activity 50073 50080	induced
+T1741	Biological_Activity 50106 50115	promoters
+T1742	Chemical 50126 50129	TPA
+T1743	Chemical 50134 50146	okadaic acid
+T1744	Biological_Activity 50165 50174	apoptosis
+T1745	Biological_Activity 50158 50164	induce
+T1746	Biological_Activity 50178 50190	premalignant
+T1747	Chemical 50211 50222	Resveratrol
+T1748	Metabolite 50211 50222	Resveratrol
+T1749	Chemical 50226 50237	phytoalexin
+T1750	Metabolite 50226 50237	phytoalexin
+T1751	Biological_Activity 50226 50237	phytoalexin
+T1752	Species 50249 50255	grapes
+T1753	Chemical 50273 50277	EGCG
+T1754	Metabolite 50273 50277	EGCG
+T1755	Biological_Activity 50296 50309	antioxidative
+T1756	Chemical 50310 50321	polyphenols
+T1757	Metabolite 50310 50321	polyphenols
+T1758	Species 50335 50344	green tea
+T1759	Biological_Activity 50393 50409	anticarcinogenic
+T1760	Chemical 50453 50464	resveratrol
+T1761	Metabolite 50453 50464	resveratrol
+T1762	Chemical 50469 50473	EGCG
+T1763	Metabolite 50469 50473	EGCG
+T1764	Biological_Activity 50474 50482	suppress
+T1765	Biological_Activity 50494 50507	proliferation
+T1766	Biological_Activity 50544 50553	induction
+T1767	Biological_Activity 50557 50566	apoptosis
+T1768	Biological_Activity 50648 50663	chemopreventive
+T1769	Chemical 50664 50673	phenolics
+T1770	Metabolite 50664 50673	phenolics
+T1771	Chemical 50982 50986	Drug

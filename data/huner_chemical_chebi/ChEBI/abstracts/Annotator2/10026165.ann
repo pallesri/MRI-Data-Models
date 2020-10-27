@@ -1,0 +1,30 @@
+T3	Protein 0 47	3,4-Dihydroxyphenylalanine (Dopa) decarboxylase
+T7	Protein 68 126	pyridoxal 5'-phosphate (PLP)-dependent alpha-decarboxylase
+T8	Chemical 141 163	L-aromatic amino acids
+#1	AnnotatorNotes T8	Chemical class
+T9	Chemical 189 195	amines
+#2	AnnotatorNotes T9	Chemical class
+T10	Protein 232 238	enzyme
+T11	Chemical 245 266	D-5-hydroxytryptophan
+T12	Chemical 270 276	D-Dopa
+T13	Chemical 340 343	PLP
+T14	Biological_Activity 344 352	coenzyme
+T15	Chemical 356 381	pyridoxamine 5'-phosphate
+T18	Protein 545 563	Dopa decarboxylase
+T19	Chemical 572 587	aromatic amines
+#4	AnnotatorNotes T19	c
+T22	Protein 1072 1090	Dopa decarboxylase
+T23	Protein 1145 1151	enzyme
+T24	Chemical 1160 1163	Lys
+T25	Chemical 1171 1174	His
+T27	Chemical 1359 1381	D-aromatic amino acids
+#6	AnnotatorNotes T27	Chemical class
+T29	Biological_Activity 1402 1414	transaminase
+T30	Chemical 1431 1446	aromatic amines
+T35	Protein 1615 1633	Dopa decarboxylase
+T1	Chemical 386 428	PLP-D-amino acid  Pictet-Spengler adducts,
+R1	Associated_With Arg1:T13 Arg2:T14	
+T2	Chemical 1521 1555	cyclic coenzyme-substrate adducts.
+T4	Biological_Activity 1330 1342	transaminase
+T5	Biological_Activity 1252 1273	oxidative deamination
+T6	Biological_Activity 1235 1248	decarboxylase

@@ -1,0 +1,541 @@
+T1	Chemical 1 17	Arachidonic acid
+T2	Chemical 19 21	AA
+T3	Chemical 61 69	epoxides
+T4	Chemical 104 107;78 82	EET 5,6-
+T5	Metabolite 104 107;78 82	EET 5,6-
+T6	Chemical 104 107;84 88	EET 8,9-
+T7	Metabolite 104 107;84 88	EET 8,9-
+T8	Chemical 104 107;90 96	EET 11,12-
+T9	Metabolite 104 107;90 96	EET 11,12-
+T10	Chemical 98 107	14,15-EET
+T11	Metabolite 98 107	14,15-EET
+T12	Protein 117 147	cytochrome P-450 monooxygenase
+T13	Protein 149 160	epoxygenase
+R1	Metabolite_Of Arg1:T5 Arg2:T1	
+R2	Metabolite_Of Arg1:T7 Arg2:T1	
+R3	Metabolite_Of Arg1:T9 Arg2:T1	
+R4	Metabolite_Of Arg1:T11 Arg2:T1	
+T14	Chemical 176 185	14,15-EET
+T15	Metabolite 176 185	14,15-EET
+T16	Metabolite 1 17	Arachidonic acid
+T17	Metabolite 19 21	AA
+T18	Chemical 287 296	14,15-EET
+T19	Metabolite 287 296	14,15-EET
+T20	Chemical 307 311	EETs
+T21	Metabolite 307 311	EETs
+T22	Protein 430 437	protein
+T23	Biological_Activity 438 445	binding
+T24	Chemical 480 493	phospholipids
+T25	Chemical 495 497	PL
+T26	Chemical 524 528	EETs
+T27	Metabolite 524 528	EETs
+T28	Protein 573 586	phospholipase
+T29	Biological_Activity 550 560	activation
+T30	Protein 601 617	phospholipase A2
+T31	Protein 620 624	PLA2
+T32	Protein 630 645	phospholipase C
+T33	Protein 647 650	PLC
+T34	Biological_Activity 687 698	stimulation
+T35	Protein 740 751	epoxygenase
+T36	Chemical 760 768	epoxides
+T37	Chemical 770 774	EETs
+T38	Metabolite 770 774	EETs
+T39	Chemical 860 864	EETs
+T40	Metabolite 860 864	EETs
+T41	Metabolite 884 888	EETs
+T42	Chemical 884 888	EETs
+T43	Chemical 926 930;941 944	8,9- EET
+T44	Metabolite 926 930;941 944	8,9- EET
+T45	Chemical 935 944	14,15-EET
+T46	Metabolite 935 944	14,15-EET
+T47	Chemical 965 969	EETs
+T48	Metabolite 965 969	EETs
+T49	Chemical 1064 1068	EETs
+T50	Metabolite 1064 1068	EETs
+T51	Chemical 1079 1107	dihydroxyeicosatrienoic acid
+T52	Metabolite 1079 1107	dihydroxyeicosatrienoic acid
+R5	Metabolite_Of Arg1:T52 Arg2:T49	
+T53	Chemical 1121 1126	diols
+T54	Chemical 1130 1135	DHETs
+T55	Metabolite 1130 1135	DHETs
+R6	Metabolite_Of Arg1:T55 Arg2:T49	
+T56	Biological_Activity 1183 1193	inhibition
+T57	Protein 1197 1212	Na+ /K+  ATPase
+T58	Chemical 1238 1249	vasopressin
+T59	Chemical 1251 1254	AVP
+T60	Species 1266 1272	rabbit
+R7	Associated_With Arg1:T51 Arg2:T56	
+R8	Associated_With Arg1:T52 Arg2:T56	
+R9	Associated_With Arg1:T55 Arg2:T56	
+R10	Associated_With Arg1:T54 Arg2:T56	
+T61	Chemical 1376 1385	14,15-EET
+T62	Metabolite 1376 1385	14,15-EET
+T63	Chemical 1406 1416	14,15-DHET
+T64	Metabolite 1406 1416	14,15-DHET
+R11	Metabolite_Of Arg1:T64 Arg2:T61	
+T65	Chemical 1593 1602	14,15-EET
+T66	Metabolite 1593 1602	14,15-EET
+T67	Biological_Activity 1603 1612	inhibited
+T68	Chemical 1613 1617	Ca+2
+R12	Associated_With Arg1:T66 Arg2:T67	
+R13	Associated_With Arg1:T65 Arg2:T67	
+T69	Chemical 1661 1670	14,15-EET
+T70	Metabolite 1661 1670	14,15-EET
+T71	Species 1805 1809	rats
+T72	Chemical 1866 1875	14,15-EET
+T73	Metabolite 1866 1875	14,15-EET
+T74	Species 1892 1900	patients
+T75	Chemical 1968 1977	14,15-EET
+T76	Metabolite 1968 1977	14,15-EET
+T77	Chemical 2065 2074	14,15-EET
+T78	Metabolite 2065 2074	14,15-EET
+T79	Protein 2100 2109	receptors
+T80	Chemical 2235 2244	14,15-EET
+T81	Metabolite 2235 2244	14,15-EET
+T82	Chemical 2316 2325	14,15-EET
+T83	Protein 2286 2295	receptors
+T84	Species 2248 2251	GPM
+#1	AnnotatorNotes T84	GPM = guinea pig mononuclear
+T85	Species 2343 2346	GPM
+T86	Protein 2375 2388	cholera toxin
+T87	Chemical 2392 2406	dibutyryl-cAMP
+T88	Biological_Activity 2326 2333	binding
+R14	Associated_With Arg1:T82 Arg2:T88	
+T89	Protein 2458 2461	PKA
+T90	Species 2540 2565	White Hartley guinea pigs
+T91	Species 2554 2565	guinea pigs
+T92	Chemical 2653 2658	HEPES
+T93	Protein 2660 2677	deoxyribonuclease
+T94	Protein 2679 2692	cholera toxin
+T95	Protein 2694 2709	pertussis toxin
+T96	Chemical 2711 2729	sodium bicarbonate
+T97	Chemical 2754 2763	Tris-base
+T98	Protein 2765 2777;2791 2798	chymotrypsin type II
+T99	Protein 2765 2777	chymotrypsin
+T100	Protein 2765 2777;2779 2786	chymotrypsin type IS
+T101	Protein 2801 2807	papain
+T102	Protein 2809 2818	pronase E
+T103	Protein 2820 2832	proteinase K
+T104	Chemical 2838 2852	dibutyryl cAMP
+T105	Protein 2905 2912	gelatin
+T106	Chemical 2970 2974	H-89
+T107	Chemical 2979 2984	K252a
+T108	Chemical 3030 3059	Hank’s Balanced Salt Solution
+T109	Chemical 3061 3065	HBSS
+T110	Species 3071 3076	horse
+T111	Chemical 3134 3149	[3 H]-14,15-EET
+T112	Chemical 3169 3178	14,15-EET
+T113	Species 3300 3310	guinea pig
+T114	Species 3328 3353	white Hartley guinea pigs
+T115	Species 3417 3422	horse
+T116	Chemical 3615 3623	metofane
+T117	Chemical 3743 3765	Hank’s buffered saline
+T118	Chemical 3783 3790	calcium
+T119	Chemical 3794 3803	magnesium
+T120	Chemical 3805 3809	HBSS
+T121	Chemical 3828 3833	HEPES
+T122	Protein 3861 3868	heparin
+T123	Chemical 3964 3968	HBSS
+T124	Protein 4001 4018	deoxyribonuclease
+T125	Protein 3984 3991	gelatin
+T126	Chemical 4020 4024	HBSS
+T127	Protein 4373 4390	deoxyribonuclease
+T128	Chemical 4626 4630	HBSS
+T129	Protein 4025 4027	GD
+T130	Protein 4631 4633	GD
+T131	Chemical 4680 4684	HBSS
+T132	Protein 4685 4687	GD
+T133	Species 5118 5121	GPM
+T134	Species 5269 5272	GPM
+T135	Species 6166 6169	GPM
+T136	Species 6512 6515	GPM
+T137	Species 7194 7197	GPM
+T138	Species 7010 7013	GPM
+T139	Species 10465 10468	GPM
+T140	Species 10427 10430	GPM
+T141	Species 9500 9503	GPM
+T142	Species 9430 9433	GPM
+T143	Species 9001 9004	GPM
+T144	Species 8837 8840	GPM
+T145	Species 8184 8187	GPM
+T146	Species 8139 8142	GPM
+T147	Species 12859 12862	GPM
+T148	Species 12815 12818	GPM
+T149	Species 12555 12558	GPM
+T150	Species 12354 12357	GPM
+T151	Species 11993 11996	GPM
+T152	Species 11969 11972	GPM
+T153	Species 11710 11713	GPM
+T154	Species 11224 11227	GPM
+T155	Species 11082 11085	GPM
+T156	Species 11213 11216	GPM
+T157	Species 10969 10972	GPM
+T158	Species 18121 18124	GPM
+T159	Species 18007 18010	GPM
+T160	Species 17534 17537	GPM
+T161	Species 17440 17443	GPM
+T162	Species 17118 17121	GPM
+T163	Species 16791 16794	GPM
+T164	Species 16425 16428	GPM
+T165	Species 16045 16048	GPM
+T166	Species 14874 14877	GPM
+T167	Species 14484 14487	GPM
+T168	Species 14376 14379	GPM
+T169	Species 13931 13934	GPM
+T170	Species 14119 14122	GPM
+T171	Species 13854 13857	GPM
+T172	Species 13652 13655	GPM
+T173	Species 13476 13479	GPM
+T174	Species 13450 13453	GPM
+T175	Species 13035 13038	GPM
+T176	Chemical 5141 5145	HBSS
+T177	Chemical 5178 5185	CaCl2  
+T178	Chemical 5195 5202	MgCl2  
+T179	Chemical 5306 5319	polypropylene
+T180	Chemical 5404 5419	[3 H]-14,15-EET
+T181	Chemical 5481 5490	14,15-EET
+T182	Chemical 5553 5562	14,15-EET
+T183	Chemical 5588 5603	[3 H]-14,15-EET
+T184	Chemical 5705 5709	HBSS
+T185	Metabolite 5481 5490	14,15-EET
+T186	Metabolite 3169 3178	14,15-EET
+T187	Chemical 5801 5805	NaOH
+T188	Protein 6362 6371	proteases
+T189	Protein 6373 6385	chymotrypsin
+T190	Protein 6387 6393	papain
+T191	Protein 6395 6404	pronase E
+T192	Protein 6410 6422	Proteinase K
+T193	Protein 6425 6438	cholera toxin
+T194	Protein 6440 6455	pertussis toxin
+T195	Chemical 6457 6471	dibutyryl cAMP
+T196	Chemical 6477 6481	H-89
+T197	Chemical 6485 6500	[3 H]-14,15-EET
+T198	Biological_Activity 6501 6508	binding
+R15	Associated_With Arg1:T197 Arg2:T198	
+T199	Protein 6595 6604	proteases
+T200	Protein 6606 6626	chymotrypsin-type IS
+T201	Protein 6606 6619;6631 6638	chymotrypsin- type II
+T202	Protein 6640 6646	papain
+T203	Protein 6648 6657	pronase E
+T204	Protein 6662 6674	proteinase K
+T205	Protein 6710 6723	cholera toxin
+T206	Protein 6743 6758	pertussis toxin
+T207	Chemical 6794 6808	dibutyryl cAMP
+T208	Chemical 6810 6816	DBcAMP
+T209	Chemical 6853 6857	H-89
+T210	Chemical 6914 6920	DBcAMP
+T211	Biological_Activity 6980 6987	binding
+T212	Chemical 7085 7096	HBSS buffer
+T213	Chemical 7130 7134	HBSS
+T214	Biological_Activity 7146 7153	binding
+T215	Chemical 7404 7411	ethanol
+T216	Chemical 7562 7576	acetate buffer
+T217	Chemical 7606 7610	cAMP
+T218	Chemical 7615 7619	cGMP
+T219	Biological_Activity 8108 8115	Binding
+T220	Chemical 8119 8135	[3 H]- 14,15-EET
+R16	Associated_With Arg1:T220 Arg2:T219	
+T221	Biological_Activity 8153 8160	binding
+T222	Chemical 8164 8180	[3 H]- 14,15-EET
+R17	Associated_With Arg1:T222 Arg2:T221	
+T223	Biological_Activity 8274 8281	binding
+T224	Chemical 8365 8381	[3 H]- 14,15-EET
+T225	Chemical 8486 8504	14(R ), 15(S )-EET
+T226	Chemical 8509 8527	14(S ), 15(R )-EET
+T227	Chemical 8567 8584	14(R ),15(S )-EET
+T228	Chemical 8609 8626	14(S ),15(R )-EET
+T229	Chemical 8741 8757	14(R), 15(S)-EET
+T230	Chemical 8792 8808	[3 H]- 14,15-EET
+T231	Chemical 8939 8948	14,15-EET
+T232	Metabolite 8939 8948	14,15-EET
+T233	Chemical 8974 8989	[3 H]-14,15-EET
+T234	Biological_Activity 8990 8997	binding
+R18	Associated_With Arg1:T233 Arg2:T234	
+T235	Biological_Activity 9059 9066	binding
+T236	Chemical 9133 9140	binding
+T237	Biological_Activity 9236 9243	binding
+T238	Biological_Activity 9313 9320	binding
+T239	Chemical 9403 9418	[3 H]-14,15-EET
+T240	Biological_Activity 9419 9426	binding
+R19	Associated_With Arg1:T239 Arg2:T240	
+T241	Chemical 9466 9482	[3 H]- 14,15-EET
+T242	Biological_Activity 9483 9490	binding
+R20	Associated_With Arg1:T241 Arg2:T242	
+T243	Biological_Activity 9636 9643	binding
+T244	Biological_Activity 9725 9732	binding
+T245	Chemical 9833 9847	[3 H]14,15-EET
+T246	Species 9868 9878	guinea pig
+T247	Chemical 9900 9923	14,15-EET stereoisomers
+T248	Chemical 9934 9938	EETs
+T249	Chemical 9991 10005	[3 H]14,15-EET
+T250	Biological_Activity 10032 10039	binding
+T251	Chemical 10053 10091	stereoisomers and analogs of 14,15-EET
+T252	Chemical 10082 10091	14,15-EET
+T253	Chemical 10102 10106	EETs
+T254	Chemical 10131 10149	14(R ), 15(S )-EET
+T255	Chemical 10220 10237	11(R ),12(S )-EET
+T256	Chemical 10239 10256	14(S ),15(R )-EET
+T257	Chemical 10258 10275	14,15 thia(S )-ET
+T258	Chemical 10281 10297	14,15-aza(N )-ET
+R21	Associated_With Arg1:T254 Arg2:T250	
+R22	Associated_With Arg1:T255 Arg2:T250	
+R23	Associated_With Arg1:T256 Arg2:T250	
+R24	Associated_With Arg1:T257 Arg2:T250	
+R25	Associated_With Arg1:T258 Arg2:T250	
+T259	Biological_Activity 9973 9980	binding
+T260	Protein 10380 10388	protease
+T261	Chemical 10400 10415	[3 H]-14,15-EET
+T262	Biological_Activity 10416 10423	binding
+R26	Associated_With Arg1:T261 Arg2:T262	
+T263	Protein 10501 10517	protease enzymes
+T264	Protein 10527 10547	chymotrypsin-type IS
+T265	Protein 10527 10540;10552 10559	chymotrypsin- type II
+T266	Protein 10561 10567	papain
+T267	Protein 10569 10578	pronase E
+T268	Protein 10584 10596	proteinase K
+T269	Biological_Activity 10648 10655	binding
+T270	Protein 10678 10684	Papain
+T271	Biological_Activity 10729 10736	binding
+T272	Chemical 10740 10755	[3 H]-14,15-EET
+R27	Associated_With Arg1:T272 Arg2:T271	
+T273	Protein 10784 10796	proteinase K
+T274	Protein 10807 10827	chymotrypsin-type II
+T275	Protein 10763 10771	receptor
+T276	Protein 10838 10858	chymotrypsin-type IS
+T277	Protein 10873 10882	pronase E
+T278	Chemical 10931 10940	14,15-EET
+T279	Biological_Activity 10941 10948	binding
+T280	Protein 10983 10990	protein
+T281	Protein 11018 11031	cholera toxin
+T282	Protein 11036 11051	pertussis toxin
+T283	Chemical 11055 11070	[3 H]-14,15-EET
+T284	Biological_Activity 11071 11078	binding
+R28	Associated_With Arg1:T283 Arg2:T284	
+T285	Protein 11107 11120	cholera toxin
+T286	Protein 11125 11140	pertussis toxin
+T287	Chemical 11166 11170	cAMP
+T288	Chemical 11194 11209	[3 H]-14,15-EET
+T289	Protein 11255 11268	cholera toxin
+T290	Protein 11288 11303	pertussis toxin
+T291	Biological_Activity 11371 11378	binding
+T292	Chemical 11386 11395	14,15-EET
+T293	Protein 11386 11404	14,15-EET receptor
+T294	Biological_Activity 11405 11412	binding
+R29	Associated_With Arg1:T292 Arg2:T294	
+T295	Protein 11444 11457	cholera toxin
+T296	Protein 11503 11518	pertussis toxin
+T297	Chemical 11590 11594	cAMP
+T298	Chemical 11631 11640	14,15-EET
+T299	Protein 11631 11649	14,15-EET receptor
+T300	Biological_Activity 11650 11657	binding
+R30	Binds_With Arg1:T298 Arg2:T299	
+R31	Binds_With Arg1:T292 Arg2:T293	
+T301	Chemical 11682 11698	[3 H]- 14,15-EET
+T302	Biological_Activity 11699 11706	binding
+R32	Associated_With Arg1:T301 Arg2:T302	
+T303	Protein 11723 11736	cholera toxin
+T304	Biological_Activity 11787 11794	binding
+T305	Chemical 11924 11938	dibutyryl cAMP
+T306	Chemical 11942 11957	[3 H]-14,15-EET
+T307	Biological_Activity 11958 11965	binding
+R33	Associated_With Arg1:T306 Arg2:T307	
+T308	Chemical 12034 12048	dibutyryl cAMP
+T309	Chemical 12050 12056	DBcAMP
+T310	Biological_Activity 12105 12112	binding
+T311	Protein 12159 12172	cholera toxin
+T312	Biological_Activity 12210 12217	binding
+T313	Chemical 12239 12254	[3 H] 14,15-EET
+T314	Chemical 12302 12308	DBcAMP
+R34	Associated_With Arg1:T313 Arg2:T312	
+T315	Chemical 12327 12342	[3 H]-14,15-EET
+T316	Biological_Activity 12343 12350	binding
+R35	Associated_With Arg1:T315 Arg2:T316	
+T317	Chemical 12399 12405	DBcAMP
+T318	Chemical 12513 12528	[3 H]-14,15-EET
+T319	Protein 12513 12542	[3 H]-14,15-EET binding sites
+T320	Chemical 12627 12633	DBcAMP
+T321	Protein 12712 12725	cholera toxin
+T322	Protein 12742 12756	protein kinase
+T323	Biological_Activity 12757 12767	inhibitors
+T324	Chemical 12788 12803	[3 H]-14,15-EET
+T325	Biological_Activity 12804 12811	binding
+T326	Chemical 12828 12834	DBcAMP
+T327	Chemical 12874 12880	DBcAMP
+T328	Protein 12884 12897	cholera toxin
+T329	Chemical 12933 12942	14,15-EET
+T330	Biological_Activity 12943 12950	binding
+T331	Protein 12933 12955	14,15-EET binding site
+T332	Protein 13030 13033	PKA
+T333	Protein 13091 13094	PKA
+T334	Chemical 13106 13110	H-89
+T335	Biological_Activity 13095 13104	inhibitor
+R36	Associated_With Arg1:T334 Arg2:T335	
+R37	Binds_With Arg1:T334 Arg2:T333	
+T336	Chemical 13164 13170	DBcAMP
+T337	Chemical 13230 13234	HBSS
+T338	Chemical 13259 13263	HBSS
+T339	Chemical 13278 13282	H-89
+T340	Chemical 13329 13344	[3 H]-14,15-EET
+T341	Biological_Activity 13345 13352	binding
+R38	Associated_With Arg1:T340 Arg2:T341	
+T342	Chemical 13507 13511	H-89
+T343	Chemical 13553 13559	DBcAMP
+T344	Chemical 13561 13565	H-89
+T345	Chemical 13615 13621	DBcAMP
+T346	Chemical 13625 13640	[3 H]-14,15-EET
+T347	Biological_Activity 13641 13648	binding
+R39	Associated_With Arg1:T346 Arg2:T347	
+T348	Chemical 13728 13733	K252a
+T349	Biological_Activity 13754 13763	inhibitor
+T350	Protein 13737 13753	protein kinase C
+R40	Binds_With Arg1:T348 Arg2:T350	
+R41	Associated_With Arg1:T348 Arg2:T349	
+T351	Chemical 13817 13823	DBcAMP
+T352	Chemical 13827 13842	[3 H]-14,15-EET
+T353	Biological_Activity 13843 13850	binding
+R42	Associated_With Arg1:T352 Arg2:T353	
+T354	Chemical 13881 13890	14,15-EET
+T355	Metabolite 13881 13890	14,15-EET
+T356	Chemical 13907 13911	cAMP
+T357	Chemical 13916 13920	cGMP
+T358	Protein 13949 13962	cholera toxin
+T359	Chemical 13967 13971	cAMP
+T360	Chemical 14007 14016	14,15-EET
+T361	Metabolite 14007 14016	14,15-EET
+T362	Protein 14007 14025	14,15-EET receptor
+T363	Biological_Activity 14026 14033	binding
+T364	Chemical 14050 14059	14,15-EET
+T365	Metabolite 14050 14059	14,15-EET
+T366	Chemical 14091 14095	cAMP
+T367	Chemical 14099 14103	cGMP
+T368	Chemical 14173 14177	IBMX
+T369	Chemical 14241 14250	14,15-EET
+T370	Metabolite 14241 14250	14,15-EET
+T371	Chemical 14476 14480	cAMP
+T372	Chemical 14519 14523	IBMX
+T373	Protein 14527 14543	phospodiesterase
+T374	Biological_Activity 14544 14553	inhibitor
+R43	Binds_With Arg1:T372 Arg2:T373	
+R44	Associated_With Arg1:T372 Arg2:T374	
+T375	Chemical 14601 14610	14,15-EET
+T376	Metabolite 14601 14610	14,15-EET
+T377	Chemical 14674 14678	cAMP
+T378	Chemical 14778 14787	14,15-EET
+T379	Metabolite 14778 14787	14,15-EET
+T380	Chemical 14825 14834	14,15-EET
+T381	Metabolite 14825 14834	14,15-EET
+T382	Chemical 14866 14870	cGMP
+T383	Chemical 14903 14907	IBMX
+T384	Chemical 14924 14954	14,15-epoxyeicosatrienoic acid
+T385	Metabolite 14924 14954	14,15-epoxyeicosatrienoic acid
+T386	Chemical 14956 14965	14,15-EET
+T387	Metabolite 14956 14965	14,15-EET
+T388	Chemical 15110 15113	EET
+T389	Chemical 15126 15135	14,15-EET
+T390	Metabolite 15126 15135	14,15-EET
+T391	Chemical 15232 15243	cholesterol
+T392	Protein 15202 15225	low-density lipoprotein
+T393	Protein 15227 15230	LDL
+T394	Chemical 15273 15282	14,15-EET
+T395	Metabolite 15273 15282	14,15-EET
+T396	Species 15313 15318	U-937
+#2	AnnotatorNotes T396	Human cell line
+T397	Species 15345 15350	human
+T398	Chemical 15474 15483	14,15-EET
+T399	Metabolite 15474 15483	14,15-EET
+T400	Species 15539 15544	U-937
+T401	Species 15385 15390	HUVEC
+T402	Species 15564 15569	HUVEC
+T403	Species 15616 15621	human
+T404	Species 15639 15643	HUVE
+T405	Biological_Activity 15673 15680	binding
+T406	Chemical 15685 15700	[3 H]-14,15-EET
+T407	Protein 15726 15745	14,15-EET receptors
+T408	Chemical 15726 15735	14,15-EET
+T409	Chemical 15811 15820	14,15-EET
+T410	Metabolite 15811 15820	14,15-EET
+T411	Protein 15839 15847	receptor
+T412	Biological_Activity 16008 16015	binding
+T413	Chemical 16026 16041	[3 H]-14,15-EET
+R45	Associated_With Arg1:T413 Arg2:T412	
+T414	Biological_Activity 16076 16083	binding
+T415	Biological_Activity 16200 16207	binding
+T416	Biological_Activity 16263 16270	binding
+T417	Chemical 16298 16316	14(R ), 15(S )-EET
+R46	Associated_With Arg1:T417 Arg2:T416	
+T418	Chemical 16352 16356	EETs
+T419	Chemical 16361 16379	11(R ), 12(S )-EET
+T420	Chemical 16406 16421	[3 H]-14,15-EET
+T421	Biological_Activity 16395 16402	binding
+R47	Associated_With Arg1:T420 Arg2:T421	
+T422	Protein 16463 16471	protease
+T423	Biological_Activity 16505 16512	binding
+T424	Protein 16539 16546	protein
+T425	Biological_Activity 16603 16610	binding
+T426	Biological_Activity 16676 16683	binding
+T427	Chemical 16727 16736	14,15-EET
+T428	Metabolite 16727 16736	14,15-EET
+T429	Chemical 16755 16768	phospholipids
+T430	Chemical 16770 16779	14,15-EET
+T432	Protein 16818 16831	cholera toxin
+T431	Biological_Activity 16780 16787	binding
+R48	Associated_With Arg1:T430 Arg2:T431	
+T433	Protein 16835 16850	pertussis toxin
+T434	Protein 16915 16928	cholera toxin
+T435	Protein 16933 16948	pertussis toxin
+T436	Protein 16958 16972	adenyl cyclase
+T437	Chemical 17010 17014	cAMP
+T438	Chemical 17048 17062	dibutyryl cAMP
+T439	Chemical 17064 17070	DBcAMP
+T440	Biological_Activity 17087 17094	binding
+T441	Chemical 17098 17114	[3 H]- 14,15-EET
+R49	Associated_With Arg1:T441 Arg2:T440	
+T442	Protein 17286 17301	pertussis toxin
+T443	Protein 17338 17351	cholera toxin
+T444	Chemical 17426 17430	cAMP
+T445	Chemical 17519 17523	cAMP
+T446	Chemical 17558 17567	14,15-EET
+T447	Metabolite 17558 17567	14,15-EET
+T449	Biological_Activity 17568 17575	binding
+T450	Metabolite 16770 16779	14,15-EET
+R50	Associated_With Arg1:T450 Arg2:T431	
+R51	Associated_With Arg1:T447 Arg2:T449	
+R52	Associated_With Arg1:T446 Arg2:T449	
+T448	Protein 17638 17646	receptor
+T451	Chemical 17685 17694	14,15-EET
+T452	Metabolite 17685 17694	14,15-EET
+T453	Protein 17685 17703	14,15-EET receptor
+T454	Biological_Activity 17704 17711	binding
+T455	Chemical 17723 17727	cAMP
+T456	Protein 17749 17752	PKA
+T457	Biological_Activity 17753 17762	inhibitor
+T458	Chemical 17764 17768	H-89
+R53	Associated_With Arg1:T458 Arg2:T457	
+R54	Binds_With Arg1:T458 Arg2:T456	
+T459	Protein 17844 17847	PKA
+T460	Biological_Activity 17830 17840	activation
+T461	Chemical 17921 17930	14,15-EET
+T462	Protein 17921 17930	14,15-EET
+T463	Chemical 17965 17969	cAMP
+T464	Protein 17986 18003	phosphodiesterase
+T465	Chemical 18035 18039	cAMP
+T466	Chemical 18085 18089	IBMX
+T467	Protein 18166 18183	phosphodiesterase
+T468	Chemical 18189 18193	IBMX
+T469	Biological_Activity 18213 18220	inhibit
+R55	Associated_With Arg1:T468 Arg2:T469	
+T470	Chemical 18251 18260	14,15-EET
+T471	Metabolite 18251 18260	14,15-EET
+T472	Chemical 18290 18294	cAMP
+T473	Protein 18311 18314	PKA
+T474	Protein 18436 18452	receptor protein
+T475	Biological_Activity 26 37	metabolized
+R56	Associated_With Arg1:T1 Arg2:T475	
+R57	Associated_With Arg1:T16 Arg2:T475	
+R58	Associated_With Arg1:T17 Arg2:T475	
+R59	Associated_With Arg1:T2 Arg2:T475	
+T476	Metabolite 2316 2325	14,15-EET
+T477	Metabolite 5553 5562	14,15-EET
+T478	Chemical 14302 14311	14,15-EET
+T479	Metabolite 14302 14311	14,15-EET
+T480	Chemical 14368 14372	cAMP

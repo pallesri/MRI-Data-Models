@@ -1,0 +1,45 @@
+T1	Metabolite 23 37	4-epifriedelin
+T2	Chemical 23 37	4-epifriedelin
+T3	Metabolite 56 66	terpenoids
+#1	AnnotatorNotes T3	Chemical class
+T4	Species 105 124	Syzygium formosanum
+T5	Chemical 56 66	terpenoids
+#2	AnnotatorNotes T5	Chemical class
+T6	Chemical 154 173	caryophyllene oxide
+T7	Metabolite 154 173	caryophyllene oxide
+T8	Chemical 175 184	friedelin
+T9	Metabolite 175 184	friedelin
+T10	Chemical 186 197	canophyllal
+T11	Metabolite 186 197	canophyllal
+T12	Metabolite 199 207	glutinol
+T13	Chemical 199 207	glutinol
+T14	Metabolite 209 225	alpha-terpineol,
+T15	Chemical 209 224	alpha-terpineol
+T16	Chemical 226 232	phytol
+T17	Metabolite 226 232	phytol
+T18	Chemical 234 248	betulinic acid
+T19	Metabolite 234 248	betulinic acid
+T20	Chemical 250 256	uvaol,
+T21	Metabolite 250 255	uvaol
+T22	Metabolite 257 263	lupeol
+T23	Chemical 257 263	lupeol
+T24	Chemical 265 272	betulin
+T25	Metabolite 265 272	betulin
+T26	Chemical 274 286	ursolic acid
+T27	Metabolite 274 286	ursolic acid
+T28	Metabolite 292 306	oleanolic acid
+T29	Chemical 292 307	oleanolic acid.
+T30	Species 369 382	S. formosanum
+R1	Isolated_From Arg1:T1 Arg2:T4	
+R2	Isolated_From Arg1:T7 Arg2:T4	
+R3	Isolated_From Arg1:T9 Arg2:T4	
+R4	Isolated_From Arg1:T11 Arg2:T4	
+R5	Isolated_From Arg1:T12 Arg2:T4	
+R6	Isolated_From Arg1:T14 Arg2:T4	
+R7	Isolated_From Arg1:T17 Arg2:T4	
+R8	Isolated_From Arg1:T19 Arg2:T4	
+R9	Isolated_From Arg1:T21 Arg2:T4	
+R10	Isolated_From Arg1:T22 Arg2:T4	
+R12	Isolated_From Arg1:T25 Arg2:T4	
+R13	Isolated_From Arg1:T27 Arg2:T4	
+R14	Isolated_From Arg1:T28 Arg2:T4	

@@ -1,0 +1,15 @@
+T1	Disease 58 75	epithelial cancer
+T2	Disease 217 223	cancer
+T3	Disease 309 332	early-stage lung cancer
+T4	Disease 454 465	lung cancer
+T5	Disease 778 784	tumors
+T6	Disease 908 921	primary tumor
+T7	Disease 988 994	tumors
+T8	Disease 1101 1107	tumors
+T9	Disease 1324 1337	primary tumor
+T10	Disease 1499 1505	tumors
+T11	Disease 1615 1634	stage I lung cancer
+T12	Plant 255 262	tobacco
+T13	Plant 1517 1524	tobacco
+T14	Cause_of_disease 1506 1513	related
+E1	Cause_of_disease:T14 Cause:T13 Theme:T10

@@ -1,0 +1,47 @@
+T1	Chemical 0 10	Masoprocol
+T2	Metabolite 0 9	Masoproco
+T3	Chemical 12 38	nordihydroguaiaretic acid)
+T4	Metabolite 12 37	nordihydroguaiaretic acid
+T5	Biological_Activity 57 66	inhibitor
+T6	Protein 44 56	lipoxygenase
+T8	Species 86 99	creosote bush
+R1	Isolated_From Arg1:T2 Arg2:T8	
+R2	Isolated_From Arg1:T4 Arg2:T8	
+R3	Associated_With Arg1:T3 Arg2:T5	
+R4	Associated_With Arg1:T3 Arg2:T5	
+R5	Associated_With Arg1:T2 Arg2:T5	
+R6	Associated_With Arg1:T2 Arg2:T5	
+T10	Species 270 276	rodent
+T14	Species 420 424	rats
+T15	Chemical 363 373	masoprocol
+T16	Metabolite 363 373	masoprocol
+T17	Chemical 452 462	masoprocol
+T18	Metabolite 452 462	masoprocol
+T20	Protein 552 559	insulin
+T22	Protein 594 601	insulin
+T23	Chemical 675 685	masoprocol
+T24	Metabolite 675 685	masoprocol
+T26	Chemical 794 807	isoproterenol
+T29	Chemical 905 915	masoprocol
+T30	Metabolite 905 916	masoprocol.
+T31	Metabolite 1001 1011	masoprocol
+T32	Chemical 1001 1011	masoprocol
+R43	Binds_With Arg1:T4 Arg2:T6	
+R44	Binds_With Arg1:T3 Arg2:T6	
+R7	Binds_With Arg1:T1 Arg2:T6	
+R8	Binds_With Arg1:T2 Arg2:T6	
+T7	Chemical 198 205	glucose
+T9	Chemical 207 222	free fatty acid
+T36	Chemical 234 246	triglyceride
+T37	Chemical 248 250	TG
+T11	Chemical 487 494	glucose
+T12	Chemical 613 620	glucose
+T13	Chemical 744 751	glucose
+T19	Protein 694 701	insulin
+T21	Chemical 224 227	FFA
+T25	Chemical 832 835	FFA
+T27	Chemical 840 848	glycerol
+T28	Chemical 1029 1036	glucose
+T33	Protein 1038 1045	insulin
+T34	Chemical 1051 1054	FFA
+T35	Species 1073 1079	rodent

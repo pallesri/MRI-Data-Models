@@ -1,0 +1,14 @@
+T1	Chemical 6 27	triterpenoid saponins
+T2	Chemical 51 59	methanol
+T3	Species 88 126	Kalopanax pictum Nakai var. magnificum
+T4	Chemical 165 173	saponins
+T5	Chemical 193 234	hederagenin 3-O-alpha-L-arabinopyranoside
+T6	Metabolite 193 234	hederagenin 3-O-alpha-L-arabinopyranoside
+T7	Chemical 236 309	hederagenin-3-O-alpha-L-rhamnopyranosyl(1-->2)-alpha-L-arabinop yranoside
+T8	Metabolite 236 309	hederagenin-3-O-alpha-L-rhamnopyranosyl(1-->2)-alpha-L-arabinop yranoside
+T9	Chemical 314 479	3-O-alpha-L-rhamnopyranosyl(1-->2)-alpha-L-arabinopyranosyl hederagenin 28-O-alpha-L-rhamnopyranosyl(1-->4)-beta-D- glucopyranosyl(1-->6)-beta-D-glucopyranosyl ester
+T10	Metabolite 314 479	3-O-alpha-L-rhamnopyranosyl(1-->2)-alpha-L-arabinopyranosyl hederagenin 28-O-alpha-L-rhamnopyranosyl(1-->4)-beta-D- glucopyranosyl(1-->6)-beta-D-glucopyranosyl ester
+R1	Isolated_From Arg1:T6 Arg2:T3	
+R2	Isolated_From Arg1:T8 Arg2:T3	
+R3	Isolated_From Arg1:T10 Arg2:T3	
+T11	Species 128 138	Araliaceae

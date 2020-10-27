@@ -1,0 +1,6 @@
+T1	Disease 55 73	diarrheal diseases
+T2	Disease 174 182	diarrhea
+T3	Disease 187 205	neurologic effects
+T4	Plant 141 157	blue-green algae
+T5	Cause_of_disease 158 168	associated
+E1	Cause_of_disease:T5 Cause:T4 Theme:T2 Theme2:T3

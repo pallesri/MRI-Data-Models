@@ -1,0 +1,45 @@
+T1	Disease 779 784	tumor
+T4	Disease 1004 1009	tumor
+T6	Disease 1089 1099	papillomas
+T8	Disease 1232 1237	tumor
+T9	Disease 1355 1372	dysplasic lesions
+T11	Disease 1539 1549	papillomas
+T12	Disease 1714 1723	dysplasia
+T13	Disease 1822 1831	papilloma
+T14	Plant 102 110	turmeric
+T15	Plant 514 523	green tea
+T16	Plant 638 647	green tea
+T17	Plant 1139 1148	Green tea
+T18	Plant 1316 1325	Green tea
+T19	Plant 1868 1877	green tea
+T20	Disease 275 289	carcinogenesis
+T21	Disease 839 867	squamous cell carcinoma (SCC
+T2	Disease 1062 1065	SCC
+T5	Disease 1067 1084	dysplasic lesions
+T22	Disease 1203 1209	tumors
+T7	Treatment_of_disease 1171 1180	decreased
+E1	Treatment_of_disease:T7 Cause:T17 Theme:T22
+T23	Treatment_of_disease 1331 1340	decreased
+E2	Treatment_of_disease:T23 Cause:T18 Theme:T9
+T24	Disease 1416 1419	SCC
+T10	Disease 1512 1523	hyperplasia
+T25	Disease 1525 1534	dysplasia
+T26	Disease 1619 1622	SCC
+T27	Disease 1728 1731	SCC
+T28	Disease 1836 1839	SCC
+T30	Treatment_of_disease 1906 1913	effects
+E3	Treatment_of_disease:T30 Cause:T19 Theme:T29
+T29	Disease 1922 1941	oral carcinogenesis
+T31	Plant 721 724	tea
+T32	Plant 0 3	Tea
+T33	Plant 204 207	tea
+T34	Plant 935 938	tea
+T35	Plant 1431 1434	Tea
+T36	Plant 1624 1627	Tea
+T37	Plant 1773 1776	tea
+T39	Plant 530 533	tea
+T38	Treatment_of_disease 957 966	decreased
+E4	Treatment_of_disease:T38 Theme:T3 Theme2:T4 Cause:T34 Theme3:T2 Theme4:T5 Theme5:T6
+T3	Disease 989 995	tumors
+T40	Treatment_of_disease 1792 1801	inhibited
+E5	Treatment_of_disease:T40 Theme:T13 Theme2:T28 Cause:T37

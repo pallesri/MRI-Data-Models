@@ -1,0 +1,23 @@
+T3	Disease 350 358	dementia
+T4	Disease 362 382	cognitive impairment
+T5	Disease 527 529	AD
+T7	Disease 577 593	Mental Disorders
+T8	Disease 643 665	Neurological Disorders
+T9	Disease 670 696	Stroke-Alzheimer's Disease
+T10	Disease 931 949	neurologic disease
+T11	Disease 1443 1451	dementia
+T12	Disease 1456 1458	AD
+T13	Disease 1986 1988	AD
+T14	Disease 2124 2126	AD
+T15	Disease 2567 2569	AD
+T19	Plant 53 66	Ginkgo biloba
+T21	Plant 1036 1042	ginkgo
+T22	Plant 1563 1569	ginkgo
+T24	Plant 2507 2513	ginkgo
+T1	Disease 136 158	Alzheimer disease (AD)
+T2	Plant 305 314	G. biloba
+T6	Disease 913 923	depression
+T16	Disease 1714 1731	Alzheimer Disease
+T17	Plant 1921 1930	G. biloba
+T18	Treatment_of_disease 1865 1871	effect
+E1	Treatment_of_disease:T18 Cause:T17 Theme:T13

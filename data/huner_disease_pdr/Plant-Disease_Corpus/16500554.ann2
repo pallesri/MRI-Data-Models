@@ -1,0 +1,17 @@
+T1	Disease 71 102	colitis-associated colon cancer
+T2	Disease 209 224	chronic colitis
+T3	Disease 241 248	colitis
+T4	Disease 551 558	colitis
+T5	Disease 631 638	colitis
+T6	Disease 723 730	colitis
+T7	Disease 858 867	Dysplasia
+T8	Disease 1098 1105	Colitis
+T9	Disease 1376 1391	chronic colitis
+T10	Disease 1396 1403	colitis
+T11	Disease 1515 1524	neoplasia
+T12	Disease 1541 1556	chronic colitis
+T13	Plant 432 436	corn
+T14	Plant 462 467	olive
+T15	Plant 1449 1454	olive
+T16	Treatment_of_disease 1493 1502	decreases
+E1	Treatment_of_disease:T16 Cause:T15 Theme:T11 Theme2:T12

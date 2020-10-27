@@ -1,0 +1,163 @@
+T1	Protein 0 20	Prolyl endopeptidase
+T2	Protein 27 39	EC 3.4.21.26
+T3	Protein 22 25	PEP
+T4	Chemical 94 126	proline-containing neuropeptides
+#1	AnnotatorNotes T4	chemical class
+T5	Chemical 94 101	proline
+T6	Chemical 134 145	vasopressin
+T7	Chemical 147 158	substance P
+T8	Chemical 163 192	thyrotropin-releasing hormone
+T9	Chemical 194 198	TRH)
+T11	Biological_Activity 311 323	inhibitors  
+T12	Protein 307 310	PEP
+T14	Chemical 373 377	MeOH
+T15	Species 415 431	Rhodiola sacra S
+T16	Biological_Activity 457 467	inhibitory
+T17	Protein 485 488	PEP
+T19	Species 494 524	Flavobacterium meningosepticum
+T20	Chemical 644 656	hydroquinone
+T21	Chemical 662 683	4-hydroxybenzoic acid
+T22	Chemical 689 701	caffeic acid
+T23	Chemical 707 729	4-hydroxycinnamic acid
+T24	Chemical 735 747	suberic acid
+T25	Metabolite 644 656	hydroquinone
+T26	Metabolite 662 683	4-hydroxybenzoic acid
+T27	Metabolite 689 701	caffeic acid
+T28	Metabolite 707 729	4-hydroxycinnamic acid
+T29	Metabolite 735 747	suberic acid
+T30	Chemical 753 772	protocatechuic acid
+T31	Metabolite 753 772	protocatechuic acid
+T32	Chemical 778 789	gallic acid
+T33	Metabolite 778 789	gallic acid
+T34	Metabolite 795 827	(-)-epigallocatechin 3-O-gallate
+T35	Chemical 796 827	-)-epigallocatechin 3-O-gallate
+T36	Chemical 833 869	2-phenylethyl beta-D-glucopyranoside
+T37	Metabolite 833 869	2-phenylethyl beta-D-glucopyranoside
+T38	Chemical 875 947	3-O-galloylepigallocatechin-(4beta-->8)-epigallocatechin+ ++ 3-O-gallate
+T39	Metabolite 875 947	3-O-galloylepigallocatechin-(4beta-->8)-epigallocatechin+ ++ 3-O-gallate
+T40	Chemical 954 1023	2-phenylethyl alpha-L-arabinopyranosyl-(1-->6)-beta-D-glucopyranoside
+T41	Metabolite 954 1023	2-phenylethyl alpha-L-arabinopyranosyl-(1-->6)-beta-D-glucopyranoside
+T42	Chemical 1030 1043	sacranoside A
+T43	Metabolite 1030 1043	sacranoside A
+T44	Chemical 1050 1089	beta-D-glucopyranosyl 4-hydroxybenzoate
+T45	Metabolite 1050 1089	beta-D-glucopyranosyl 4-hydroxybenzoate
+T46	Chemical 1096 1113	rhodiocyanoside A
+T47	Metabolite 1096 1113	rhodiocyanoside A
+T48	Chemical 1120 1136	rhodiooctanoside
+T49	Metabolite 1120 1136	rhodiooctanoside
+T50	Chemical 1143 1154	sarmentosin
+T51	Metabolite 1143 1154	sarmentosin
+T52	Chemical 1161 1174	heterodendrin
+T53	Metabolite 1161 1174	heterodendrin
+T54	Chemical 1181 1188	arbutin
+T55	Metabolite 1181 1188	arbutin
+T56	Chemical 1198 1237	4-O-(beta-D-glucopyranosyl)-gallic acid
+T57	Metabolite 1198 1237	4-O-(beta-D-glucopyranosyl)-gallic acid
+T58	Biological_Activity 1454 1464	inhibition
+T59	Protein 1450 1453	PEP
+T61	Chemical 1257 1258	1
+T62	Metabolite 1257 1258	1
+T63	Chemical 1260 1261	2
+T64	Metabolite 1260 1261	2
+T65	Chemical 1263 1264	5
+T66	Metabolite 1263 1264	5
+T67	Chemical 1266 1270	8-10
+T68	Metabolite 1266 1270	8-10
+#2	AnnotatorNotes T67	Encompasses 8, 9 and 10
+T69	Chemical 1272 1274	13
+T70	Metabolite 1272 1274	13
+T71	Chemical 1276 1278	16
+T72	Metabolite 1276 1278	16
+T73	Chemical 1280 1282	18
+T74	Metabolite 1280 1282	18
+T75	Chemical 1287 1289	19
+T76	Metabolite 1287 1289	19
+T77	Species 1333 1341	R. sacra
+T78	Chemical 1355 1356	5
+T79	Metabolite 1355 1356	5
+T80	Chemical 1358 1359	9
+T81	Metabolite 1358 1359	9
+T82	Chemical 1361 1363	10
+T83	Metabolite 1361 1363	10
+T84	Chemical 1365 1367	13
+T85	Metabolite 1365 1367	13
+T86	Chemical 1369 1371	16
+T87	Metabolite 1369 1371	16
+T88	Chemical 1373 1375	18
+T89	Metabolite 1373 1375	18
+T90	Chemical 1380 1382	19
+T91	Metabolite 1380 1382	19
+T92	Species 1407 1415	Rhodiola
+T93	Chemical 1483 1486	6-8
+#3	AnnotatorNotes T93	Encompasses 6, 7 and 8
+T94	Metabolite 1483 1486	6-8
+T95	Chemical 1488 1490	10
+T96	Metabolite 1488 1490	10
+T97	Chemical 1492 1494	12
+T98	Metabolite 1492 1494	12
+T99	Chemical 1496 1498	18
+T100	Metabolite 1496 1498	18
+T101	Chemical 1500 1502	19
+T102	Metabolite 1500 1502	19
+T103	Biological_Activity 1628 1638	inhibitors
+T104	Biological_Activity 1678 1688	inhibitors
+T105	Biological_Activity 1726 1735	inhibitor
+T106	Chemical 1701 1702	6
+T107	Metabolite 1701 1702	6
+R5	Associated_With Arg1:T107 Arg2:T105	
+R6	Isolated_From Arg1:T25 Arg2:T15	
+R7	Isolated_From Arg1:T26 Arg2:T15	
+R8	Isolated_From Arg1:T27 Arg2:T15	
+R9	Isolated_From Arg1:T28 Arg2:T15	
+R10	Isolated_From Arg1:T29 Arg2:T15	
+R11	Isolated_From Arg1:T31 Arg2:T15	
+R12	Isolated_From Arg1:T33 Arg2:T15	
+R13	Isolated_From Arg1:T34 Arg2:T15	
+R14	Isolated_From Arg1:T37 Arg2:T15	
+R15	Isolated_From Arg1:T39 Arg2:T15	
+R16	Isolated_From Arg1:T76 Arg2:T77	
+R17	Isolated_From Arg1:T74 Arg2:T77	
+R18	Isolated_From Arg1:T72 Arg2:T77	
+R19	Isolated_From Arg1:T70 Arg2:T77	
+R20	Isolated_From Arg1:T68 Arg2:T77	
+R21	Isolated_From Arg1:T66 Arg2:T77	
+R22	Isolated_From Arg1:T64 Arg2:T77	
+R23	Isolated_From Arg1:T62 Arg2:T77	
+R24	Isolated_From Arg1:T79 Arg2:T77	
+R25	Isolated_From Arg1:T81 Arg2:T77	
+R27	Isolated_From Arg1:T83 Arg2:T77	
+R26	Isolated_From Arg1:T85 Arg2:T77	
+R28	Isolated_From Arg1:T87 Arg2:T77	
+R29	Isolated_From Arg1:T89 Arg2:T77	
+R30	Isolated_From Arg1:T91 Arg2:T77	
+R31	Associated_With Arg1:T93 Arg2:T58	
+R32	Associated_With Arg1:T95 Arg2:T58	
+R33	Associated_With Arg1:T97 Arg2:T58	
+R34	Associated_With Arg1:T99 Arg2:T58	
+R35	Associated_With Arg1:T101 Arg2:T58	
+R41	Isolated_From Arg1:T41 Arg2:T15	
+R42	Isolated_From Arg1:T43 Arg2:T15	
+R43	Isolated_From Arg1:T45 Arg2:T15	
+R44	Isolated_From Arg1:T47 Arg2:T15	
+R45	Isolated_From Arg1:T49 Arg2:T15	
+R46	Isolated_From Arg1:T51 Arg2:T15	
+R47	Isolated_From Arg1:T53 Arg2:T15	
+R48	Isolated_From Arg1:T55 Arg2:T15	
+R49	Isolated_From Arg1:T57 Arg2:T15	
+T108	Protein 47 53	enzyme
+R1	Associated_With Arg1:T94 Arg2:T58	
+R2	Associated_With Arg1:T96 Arg2:T58	
+R3	Associated_With Arg1:T98 Arg2:T58	
+R4	Associated_With Arg1:T100 Arg2:T58	
+R36	Associated_With Arg1:T102 Arg2:T58	
+R37	Binds_With Arg1:T93 Arg2:T59	
+R38	Binds_With Arg1:T95 Arg2:T59	
+R39	Binds_With Arg1:T97 Arg2:T59	
+R40	Binds_With Arg1:T99 Arg2:T59	
+R50	Binds_With Arg1:T101 Arg2:T59	
+R51	Binds_With Arg1:T94 Arg2:T59	
+R52	Binds_With Arg1:T96 Arg2:T59	
+R53	Binds_With Arg1:T98 Arg2:T59	
+R54	Binds_With Arg1:T100 Arg2:T59	
+R55	Binds_With Arg1:T102 Arg2:T59	
+R56	Associated_With Arg1:T106 Arg2:T105	

@@ -1,0 +1,7 @@
+T1	Disease 127 138	Influenza A
+T2	Disease 505 516	Influenza A
+T5	Plant 37 59	Melaleuca alternifolia
+T6	Plant 61 69	tea tree
+*	Equiv T5 T6
+T3	Treatment_of_disease 100 118	antiviral activity
+E1	Treatment_of_disease:T3 Theme:T1 Cause:T5

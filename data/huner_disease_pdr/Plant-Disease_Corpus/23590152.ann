@@ -1,0 +1,12 @@
+T1	Plant 60 84	sour cherry seed extract
+T2	Plant 86 90	SCSE
+T3	Treatment_of_disease 92 100	protects
+E1	Treatment_of_disease:T3 Cause:T2 Theme:T4 Cause2:T1
+T4	Disease 109 131	cardiovascular disease
+T5	Plant 1291 1295	SCSE
+T6	Plant 1297 1301	SCSE
+T7	Plant 1616 1620	SCSE
+T8	Plant 1675 1679	SCSE
+T9	Treatment_of_disease 1697 1704	effects
+E2	Treatment_of_disease:T9 Theme:T10 Cause:T8
+T10	Disease 1708 1735	hypercholesterolemic hearts

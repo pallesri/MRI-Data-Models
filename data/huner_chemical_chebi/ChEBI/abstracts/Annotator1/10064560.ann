@@ -1,0 +1,68 @@
+T1	Metabolite 0 13	Retinaldehyde
+T2	Chemical 0 13	Retinaldehyde
+T3	Chemical 15 18	RAL
+T4	Metabolite 15 18	RAL
+#1	AnnotatorNotes T1	Must be a metabolite as sentence states it is an intermediate in retinoid metabolism
+T5	Chemical 43 51	retinoid
+#2	AnnotatorNotes T5	Class of chemicals
+T6	Chemical 74 87	retinoic acid
+T7	Metabolite 74 87	retinoic acid
+T8	Chemical 89 91	RA
+T9	Metabolite 89 91	RA
+T10	Chemical 127 134	retinol
+T11	Metabolite 127 134	retinol
+T12	Chemical 182 196	retinyl esters
+T13	Metabolite 182 196	retinyl esters
+T14	Metabolite 218 227	vitamin A
+T15	Chemical 218 227	vitamin A
+T16	Metabolite 304 307	RAL
+T17	Chemical 304 307	RAL
+T18	Chemical 386 396	RA isomers
+T19	Metabolite 386 396	RA isomers
+T20	Biological_Activity 463 474	teratogenic
+T21	Chemical 486 497	RAL isomers
+T22	Metabolite 486 497	RAL isomers
+T23	Biological_Activity 502 515	teratogenesis
+T24	Chemical 550 558	retinoid
+T25	Metabolite 634 643	retinoids
+T26	Metabolite 43 51	retinoid
+T27	Species 698 702	rats
+T28	Chemical 759 768;789 792	all-trans RAL
+T29	Chemical 771 778;788 792	13-cis- -RAL
+T30	Chemical 789 791	RA
+T31	Metabolite 759 769;789 792	all-trans- RAL
+T32	Metabolite 771 778;789 792	13-cis- RAL
+T34	Chemical 783 792	9-cis-RAL
+T33	Chemical 783 792	9-cis-RAL
+T35	Metabolite 783 792	9-cis-RAL
+T36	Chemical 882 902	retinoid metabolites
+#3	AnnotatorNotes T36	several compounds
+T37	Metabolite 882 902	retinoid metabolites
+#4	AnnotatorNotes T37	several metabolites
+T38	Chemical 918 926	retinoid
+T39	Metabolite 918 927	retinoids
+T40	Chemical 1015 1018;993 1003	RAL all-trans-
+T41	Chemical 1008 1018	13-cis-RAL
+T42	Chemical 1051 1059	9-cis-RA
+T43	Metabolite 1051 1059	9-cis-RA
+T44	Metabolite 1061 1074	9,13-dicis-RA
+T45	Chemical 1061 1074	9,13-dicis-RA
+T46	Chemical 1080 1113	9-cis-retinoyl-beta-D-glucuronide
+T47	Metabolite 1080 1113	9-cis-retinoyl-beta-D-glucuronide
+T48	Chemical 1132 1141	9-cis-RAL
+T49	Chemical 1156 1168	all-trans-RA
+T50	Metabolite 1156 1168	all-trans-RA
+T51	Chemical 1174 1177	RAL
+T52	Metabolite 1174 1177	RAL
+T53	Chemical 1362 1373	RAL isomers
+T54	Protein 1317 1324	enzymes
+R1	Metabolite_Of Arg1:T7 Arg2:T2	
+R2	Metabolite_Of Arg1:T11 Arg2:T2	
+R3	Metabolite_Of Arg1:T13 Arg2:T10	
+R4	Metabolite_Of Arg1:T50 Arg2:T51	
+R5	Associated_With Arg1:T21 Arg2:T20	
+R6	Associated_With Arg1:T21 Arg2:T23	
+R7	Associated_With Arg1:T24 Arg2:T23	
+R8	Isolated_From Arg1:T25 Arg2:T27	
+T55	Biological_Activity 52 62	metabolism
+T56	Biological_Activity 269 279	metabolism

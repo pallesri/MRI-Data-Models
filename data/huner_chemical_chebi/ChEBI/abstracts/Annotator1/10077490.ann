@@ -1,0 +1,53 @@
+T1	Chemical 32 41	estrogens
+T2	Biological_Activity 32 41	estrogens
+T3	Metabolite 248 266	catechol estrogens
+T4	Chemical 248 266	catechol estrogens
+T5	Biological_Activity 299 315	tumor initiation
+T6	Chemical 212 220	Estrogen
+T7	Chemical 489 507	hydroxy estradiols
+T8	Chemical 509 514	HE2's
+T9	Chemical 517 535	methoxy estradiols
+T10	Chemical 537 542	ME2's
+T11	Chemical 549 573	hydroxymethyl estradiols
+T12	Chemical 575 579	HME2
+T13	Chemical 684 707	8-oxo-2'-deoxyguanosine
+T14	Chemical 709 717	8-oxo-dG
+T16	Chemical 790 798	8-oxo-dG
+T17	Chemical 799 807	10(5) dG
+T18	Chemical 834 839	2-HE2
+T19	Chemical 844 849	4-HE2
+T20	Chemical 851 860	Cu(II)SO4
+T21	Chemical 864 880	transition metal
+T22	Chemical 920 930	o-quinones
+T23	Chemical 996 1000	CE's
+T24	Metabolite 996 1000	CE's
+T26	Biological_Activity 1184 1196	antioxidants
+T27	Chemical 1205 1216	glutathione
+T28	Metabolite 1205 1216	glutathione
+T29	Protein 1218 1221	SOD
+T30	Protein 1227 1235	catalase
+T31	Chemical 1315 1320	2-HE2
+T32	Chemical 1381 1385	HME2
+T33	Chemical 1487 1492	2-HE2
+T34	Chemical 1497 1502	4-HE2
+T36	Metabolite 1618 1620	CE
+T37	Chemical 1618 1622	CE's
+T38	Chemical 1699 1711	free radical
+T39	Chemical 1744 1746	CE
+T40	Metabolite 1744 1746	CE
+T41	Biological_Activity 1780 1793	tumorigenesis
+T42	Chemical 212 232	Estrogen metabolites
+#1	AnnotatorNotes T42	Class of chemicals
+T43	Chemical 268 270	CE
+T44	Metabolite 268 270	CE
+T45	Chemical 386 397	CE analogue
+T46	Species 662 666	calf
+T47	Chemical 159 168	estrogens
+T48	Biological_Activity 172 188	tumor initiation
+T49	Species 1774 1779	human
+R1	Associated_With Arg1:T4 Arg2:T5	
+R2	Associated_With Arg1:T42 Arg2:T5	
+R5	Associated_With Arg1:T28 Arg2:T26	
+R6	Associated_With Arg1:T27 Arg2:T26	
+T52	Metabolite 212 232	Estrogen metabolites
+T15	Biological_Activity 1460 1474	carcinogenesis

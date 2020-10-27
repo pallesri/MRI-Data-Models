@@ -1,0 +1,14 @@
+T1	Disease 38 50	liver tumors
+T2	Disease 1105 1127	centrilobular necrosis
+T3	Disease 1246 1252	tumors
+T4	Disease 1260 1266	cancer
+T5	Disease 1943 1955	liver cancer
+T6	Disease 2277 2283	cancer
+T7	Plant 100 104	corn
+T8	Plant 338 342	corn
+T9	Plant 539 543	corn
+T10	Plant 1198 1202	corn
+T11	Plant 1430 1434	corn
+T12	Plant 1849 1853	corn
+T13	Cause_of_disease 11 20	increases
+E1	Cause_of_disease:T13 Theme:T1 Cause:T7

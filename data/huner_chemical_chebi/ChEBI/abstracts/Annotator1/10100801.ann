@@ -1,0 +1,14 @@
+T1	Chemical 12 25	Phenylephrine
+T2	Biological_Activity 50 57	agonist
+R1	Associated_With Arg1:T1 Arg2:T2	
+T5	Chemical 293 306	phenylephrine
+T6	Species 343 348	human
+T7	Chemical 575 588	phenylephrine
+T9	Chemical 1099 1112	phenylephrine
+T10	Chemical 1183 1196	phenylephrine
+T11	Chemical 1283 1296	phenylephrine
+T13	Species 1391 1396	human
+T16	Species 402 412	volunteers
+T3	Species 349 359	volunteers
+T4	Species 1397 1407	volunteers
+T8	Protein 32 49	alpha1-adrenergic

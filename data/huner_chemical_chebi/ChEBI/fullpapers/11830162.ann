@@ -1,0 +1,305 @@
+T1	Species 1 18	Piper methysticum
+T2	Species 31 40	Kava Kava
+T3	Species 64 74	Piperaceae
+T4	Species 261 265	kava
+T5	Species 455 469	P. methysticum
+T6	Species 683 687	Kava
+T7	Biological_Activity 800 808	toxicity
+T8	Species 938 952	P. methysticum
+T9	Chemical 1046 1057	kavapyrones
+T10	Chemical 1059 1068	alkaloids
+T11	Chemical 1070 1078	steroids
+T12	Chemical 1080 1089	chalcones
+T13	Chemical 1091 1115	long-chained fatty acids
+T14	Chemical 1120 1128	alcohols
+T15	Metabolite 1046 1057	kavapyrones
+T16	Metabolite 1059 1068	alkaloids
+T17	Metabolite 1091 1115	long-chained fatty acids
+T18	Chemical 1210 1222	kavalactones
+T19	Metabolite 1210 1222	kavalactones
+R1	Isolated_From Arg1:T19 Arg2:T8	
+R2	Isolated_From Arg1:T15 Arg2:T8	
+T20	Species 1318 1322	Kava
+T21	Chemical 1373 1385	kavalactones
+T22	Metabolite 1373 1385	kavalactones
+T23	Species 1431 1435	Kava
+R3	Isolated_From Arg1:T22 Arg2:T23	
+T24	Chemical 1440 1458	desmethoxyyangonin
+T25	Chemical 1465 1473	yangonin
+T26	Chemical 1480 1493	dihydrokawain
+T27	Chemical 1500 1506	kawain
+T28	Chemical 1513 1531	dihydromethysticin
+T29	Chemical 1541 1552	methysticin
+T30	Metabolite 1440 1458	desmethoxyyangonin
+T31	Metabolite 1465 1473	yangonin
+T32	Metabolite 1480 1493	dihydrokawain
+T33	Metabolite 1500 1506	kawain
+T34	Metabolite 1513 1531	dihydromethysticin
+T35	Metabolite 1541 1552	methysticin
+R4	Isolated_From Arg1:T30 Arg2:T23	
+R5	Isolated_From Arg1:T31 Arg2:T23	
+R6	Isolated_From Arg1:T32 Arg2:T23	
+R7	Isolated_From Arg1:T33 Arg2:T23	
+R8	Isolated_From Arg1:T34 Arg2:T23	
+R9	Isolated_From Arg1:T35 Arg2:T23	
+T36	Species 1676 1680	Kava
+T37	Chemical 1715 1727	kavalactones
+T38	Metabolite 1715 1727	kavalactones
+T39	Species 2072 2076	Kava
+T40	Chemical 2143 2161	methylene chloride
+T41	Species 2173 2177	Kava
+T42	Chemical 2262 2274;2276 2279	kavalactones 1–9
+T43	Metabolite 2262 2274;2276 2279	kavalactones 1–9
+T44	Chemical 2303 2312;2314 2319	chalcones 10–12
+T45	Chemical 2323 2361	3,4-methylenedioxycinnamylideneacetone
+T46	Metabolite 2323 2361	3,4-methylenedioxycinnamylideneacetone
+T47	Chemical 2372 2384	stigmasterol
+T48	Metabolite 2372 2384	stigmasterol
+R10	Isolated_From Arg1:T43 Arg2:T41	
+T49	Metabolite 2303 2312;2314 2319	chalcones 10–12
+R11	Isolated_From Arg1:T49 Arg2:T41	
+R12	Isolated_From Arg1:T46 Arg2:T41	
+R13	Isolated_From Arg1:T48 Arg2:T41	
+T51	Metabolite 2395 2406	kavalactone
+T52	Chemical 2395 2406	kavalactone
+#1	AnnotatorNotes T52	Class of chemicals
+T50	Chemical 2408 2438	11-methoxy-5,6-dihydroyangonin
+T53	Metabolite 2408 2438	11-methoxy-5,6-dihydroyangonin
+T54	Species 2474 2488	P. methysticum
+R14	Isolated_From Arg1:T53 Arg2:T54	
+R15	Isolated_From Arg1:T46 Arg2:T54	
+R16	Isolated_From Arg1:T43 Arg2:T54	
+R17	Isolated_From Arg1:T49 Arg2:T54	
+R18	Isolated_From Arg1:T48 Arg2:T54	
+T55	Chemical 2542 2572	11-methoxy-5,6-dihydroyangonin
+T56	Species 2542 2572	11-methoxy-5,6-dihydroyangonin
+T57	Chemical 2753 2765	kavalactones
+T58	Metabolite 2753 2765	kavalactones
+T59	Species 2797 2811	P. methysticum
+T60	Chemical 3122 3128	kawain
+T61	Chemical 3135 3146	methysticin
+T62	Chemical 3156 3164	yangonin
+T63	Metabolite 3122 3128	kawain
+T64	Metabolite 3135 3146	methysticin
+T65	Metabolite 3156 3164	yangonin
+R19	Isolated_From Arg1:T63 Arg2:T59	
+R20	Isolated_From Arg1:T64 Arg2:T59	
+R21	Isolated_From Arg1:T65 Arg2:T59	
+T66	Chemical 3233 3263	11-methoxy-5,6-dihydroyangonin
+T67	Metabolite 3233 3263	11-methoxy-5,6-dihydroyangonin
+T68	Spectral_Data 3277 3305	13 C and 1 H NMR assignments
+R22	Associated_With Arg1:T67 Arg2:T68	
+R23	Associated_With Arg1:T66 Arg2:T68	
+T69	Chemical 3315 3327	kavalactones
+T70	Metabolite 3315 3327	kavalactones
+R24	Associated_With Arg1:T70 Arg2:T68	
+R25	Associated_With Arg1:T69 Arg2:T68	
+T71	Chemical 3444 3462	methylene chloride
+T72	Species 3474 3488	P. methysticum
+T73	Chemical 3617 3629	kavalactones
+T74	Metabolite 3617 3629	kavalactones
+T75	Chemical 3637 3646	chalcones
+T76	Chemical 3648 3686	3,4-methylenedioxycinnamylideneacetone
+T77	Metabolite 3649 3686	,4-methylenedioxycinnamylideneacetone
+T78	Metabolite 3691 3703	stigmasterol
+T79	Chemical 3691 3703	stigmasterol
+R26	Isolated_From Arg1:T74 Arg2:T72	
+R27	Isolated_From Arg1:T77 Arg2:T72	
+R28	Isolated_From Arg1:T78 Arg2:T72	
+T80	Chemical 3843 3881	3,4-methylenedioxycinnamylideneacetone
+T81	Chemical 3916 3928	stigmasterol
+T82	Metabolite 3843 3881	3,4-methylenedioxycinnamylideneacetone
+T83	Metabolite 3916 3928	stigmasterol
+T84	Chemical 3937 3946	chalcones
+T85	Chemical 3950 3963	flavokawain A
+T86	Metabolite 3950 3963	flavokawain A
+T87	Chemical 3986 3999	flavokawain B
+T88	Metabolite 3986 3999	flavokawain B
+T89	Chemical 4034 4047	flavokawain C
+T90	Metabolite 4034 4047	flavokawain C
+R29	Isolated_From Arg1:T86 Arg2:T72	
+R30	Isolated_From Arg1:T88 Arg2:T72	
+R31	Isolated_From Arg1:T90 Arg2:T72	
+T91	Spectral_Data 4094 4105	NMR spectra
+T92	Chemical 4113 4125	kavalactones
+T93	Metabolite 4113 4125	kavalactones
+T94	Spectral_Data 4246 4258	13 C signals
+T95	Spectral_Data 3714 3740	NMR spectroscopic analysis
+T96	Chemical 4295 4313	desmethoxyyangonin
+T97	Metabolite 4295 4313	desmethoxyyangonin
+T98	Metabolite 4320 4328	yangonin
+T99	Chemical 4320 4328	yangonin
+T100	Chemical 4335 4348	dihydrokawain
+T101	Metabolite 4335 4348	dihydrokawain
+T102	Chemical 4355 4361	kawain
+T103	Metabolite 4355 4361	kawain
+T104	Metabolite 4368 4386	dihydromethysticin
+T105	Chemical 4368 4386	dihydromethysticin
+T106	Chemical 4393 4404	methysticin
+T107	Metabolite 4393 4404	methysticin
+T108	Chemical 4410 4428	tetrahydroyangonin
+T109	Metabolite 4410 4428	tetrahydroyangonin
+T110	Chemical 4438 4465	1-methoxytetrahydroyangonin
+T111	Metabolite 4438 4465	1-methoxytetrahydroyangonin
+T112	Species 4538 4552	P. methysticum
+R32	Isolated_From Arg1:T111 Arg2:T112	
+R33	Isolated_From Arg1:T109 Arg2:T112	
+R34	Isolated_From Arg1:T107 Arg2:T112	
+R35	Isolated_From Arg1:T97 Arg2:T112	
+R36	Isolated_From Arg1:T98 Arg2:T112	
+R37	Isolated_From Arg1:T101 Arg2:T112	
+R38	Isolated_From Arg1:T103 Arg2:T112	
+R39	Isolated_From Arg1:T104 Arg2:T112	
+T113	Spectral_Data 4555 4647	Analysis of compound 7  by HRMS suggested a molecular formula C16 H18 O5  ([M+H]+ =291.1154)
+T115	Spectral_Data 4653 4785	1 H NMR spectrum of this compound showed three methoxy groups and a typical set of peaks due to the 5,6 -dihydrokavalactone skeleton
+T114	Spectral_Data 4830 4883	1 H NMR spectrum of 7  showed an AB doublet for H-13.
+T116	Spectral_Data 4887 5091	1 H NMR signals for H-10 and H-14 appeared close together (δ  6.91 and 6.90, respectively) and a part of H-14 doublet of doublet (J =1.6 and 7.8 Hz) overlapped with the H-10 signal to give a broad signal.
+T117	Chemical 5117 5147	11-methoxy-5,6-dihydroyangonin
+T118	Chemical 5255 5285;5291 5297	11-methoxy-5,6-dihydroyangonin (6R )-
+T119	Metabolite 5117 5147	11-methoxy-5,6-dihydroyangonin
+T120	Metabolite 5255 5285;5291 5297	11-methoxy-5,6-dihydroyangonin (6R )-
+R40	Associated_With Arg1:T120 Arg2:T116	
+R41	Associated_With Arg1:T118 Arg2:T116	
+R42	Associated_With Arg1:T120 Arg2:T114	
+R43	Associated_With Arg1:T118 Arg2:T114	
+R44	Associated_With Arg1:T120 Arg2:T115	
+R45	Associated_With Arg1:T118 Arg2:T115	
+R46	Associated_With Arg1:T120 Arg2:T113	
+R47	Associated_With Arg1:T118 Arg2:T113	
+T121	Spectral_Data 5468 5488	13 C NMR assignments
+T122	Chemical 5497 5509	kavalactones
+T123	Metabolite 5497 5509	kavalactones
+R48	Associated_With Arg1:T93 Arg2:T91	
+R49	Associated_With Arg1:T92 Arg2:T91	
+R50	Associated_With Arg1:T93 Arg2:T94	
+R51	Associated_With Arg1:T92 Arg2:T94	
+T124	Spectral_Data 5702 5737	1 H and 13 C NMR spectroscopic data
+T125	Spectral_Data 5892 5902	UV spectra
+T126	Chemical 5920 5926	CD3 OD
+T127	Spectral_Data 5973 5983	IR spectra
+T128	Spectral_Data 6054 6082	1 H NMR and 13 C NMR spectra
+T130	Chemical 6287 6290	TMS
+T131	Chemical 6272 6279	MeOH-D4
+T132	Chemical 6261 6268	CDCl3  
+T133	Spectral_Data 6161 6169	13 C NMR
+T129	Spectral_Data 6135 6142	1 H NMR
+T134	Spectral_Data 6210 6217	1 H NMR
+T135	Spectral_Data 6234 6242	13 C NMR
+T136	Spectral_Data 6313 6338	High resolution MS (HRMS)
+T137	Chemical 6464 6480	silica gel F 254
+T138	Species 6535 6552	Piper methysticum
+T139	Species 6555 6564	Kava Kava
+T140	Chemical 6689 6707	methylene chloride
+T141	Chemical 6767 6785	methylene chloride
+T142	Chemical 6881 6889	methanol
+T143	Chemical 6904 6917	diethyl ether
+T144	Chemical 7026 7034	methanol
+T145	Chemical 7043 7051	yangonin
+T146	Metabolite 7043 7051	yangonin
+T147	Chemical 7099 7109	silica gel
+T148	Chemical 7182 7189	acetone
+T149	Chemical 7193 7199	hexane
+T150	Chemical 7235 7253	desmethoxyyangonin
+T151	Metabolite 7235 7253	desmethoxyyangonin
+T152	Chemical 7260 7268	yangonin
+T153	Metabolite 7260 7268	yangonin
+T154	Chemical 7283 7296	dihydrokawain
+T155	Metabolite 7283 7296	dihydrokawain
+T156	Chemical 7311 7317	kawain
+T157	Metabolite 7311 7317	kawain
+T158	Chemical 7333 7351	dihydromethysticin
+T159	Metabolite 7333 7351	dihydromethysticin
+T160	Chemical 7366 7377	methysticin
+T161	Metabolite 7366 7377	methysticin
+T162	Chemical 7393 7405	stigmasterol
+T163	Metabolite 7393 7405	stigmasterol
+T164	Chemical 7418 7431	flavokawain A
+T165	Metabolite 7418 7431	flavokawain A
+T166	Chemical 7602 7612	silica gel
+T167	Chemical 7770 7778	methanol
+T168	Chemical 7779 7794	dichloromethane
+T169	Chemical 7798 7804	hexane
+T170	Chemical 7805 7818	ethyl acetate
+R52	Isolated_From Arg1:T82 Arg2:T72	
+R53	Isolated_From Arg1:T86 Arg2:T72	
+T171	Chemical 7905 7917	Stigmasterol
+T172	Metabolite 7905 7917	Stigmasterol
+T173	Spectral_Data 8111 8337	1 H NMR (CDCl3 ): δ  7.48 (2H, m , H-10 and H-14), 7.44 (1H, d , J =15.9 Hz, H-8), 7.35–7.31 (3H, m , H-11, H-12 and H-13), 6.54 (1H, d , J =16.0 Hz, H-7), 5.90 (1H, s, H-5), 5.44 (1H, d , J =1.4 Hz, H-3), 3.76 (3H, s , H-15).
+T174	Metabolite 8003 8021	Desmethoxyyangonin
+T175	Chemical 8003 8021	Desmethoxyyangonin
+R54	Associated_With Arg1:T174 Arg2:T173	
+R55	Associated_With Arg1:T175 Arg2:T173	
+T176	Spectral_Data 8434 8704	1 H-NMR (CDCl3 ): δ  7.42 (1H, d , J =15.9 Hz, H-8), 7.41 (2H, d , J =8.8 Hz, H-10 and H-14), 6.87 (2H, d , J =8.8 Hz, H-11 and H-13), 6.42 (1H, d , J =16.0 Hz, H-7), 5.86 (1H, d , J =2.1 Hz, H-5), 5.43 (1H, d , J =2.1 Hz, H-3), 3.78 (3H, s , H-17), 3.76 (3H, s , 15-H).
+T177	Chemical 8345 8353	Yangonin
+T178	Metabolite 8345 8353	Yangonin
+R56	Associated_With Arg1:T178 Arg2:T176	
+R57	Associated_With Arg1:T177 Arg2:T176	
+T179	Chemical 8712 8725	Dihydrokawain
+T180	Metabolite 8712 8725	Dihydrokawain
+T181	Spectral_Data 8804 9127	1 H NMR (CDCl3 ): δ  7.27 (2H, m , H-11 and H-13), 7.18 (3H, m , H-10, H-12 and H-14), 5.12 (1H, d, J= 1.3 Hz, H3), 4.34 (1H, m , H-6), 3.70 (3H, s , 4-OCH3 ), 2.84 (1H, m , H-8), 2.73 (1H, m , H-8), 2.48 (1H, ddd , J  =1.3, 11.9, 17.0 Hz, H-5), 2.28 (1H, dd , J =3.9, 17.0 Hz, H-5), 2.11 (1H, m , H-7), 1.91 (1H, m , H-7).
+R58	Associated_With Arg1:T180 Arg2:T181	
+R59	Associated_With Arg1:T179 Arg2:T181	
+T182	Chemical 9135 9141	Kawain
+T183	Metabolite 9135 9141	Kawain
+T184	Spectral_Data 9224 9535	1 H NMR (CDCl3 ): δ  7.32 (2H, m , H-11 and H-13), 7.25 (2H, m , H-10 and H-14), 7.20 (1H, m , H-12), 6.70 (1H, d , J =15.9 Hz, H-8), 6.23 (1H, dd , J =6.14, 15.9 Hz, H-7), 5.16 (1H, s,  H-3), 5.02 (1H, m , H-6), 3.72 (3H, s , H-15), 2.63 (1H, dd , J =17.0, 10.7 Hz, H-5), 2.51 (1H, dd , J =17.0, 4.5, Hz, H-5).
+R60	Associated_With Arg1:T183 Arg2:T184	
+R61	Associated_With Arg1:T182 Arg2:T184	
+T185	Chemical 9543 9561	Dihydromethysticin
+T186	Metabolite 9543 9561	Dihydromethysticin
+T187	Spectral_Data 9635 10016	1 H NMR (CDCl3 ): δ  6.70 (1H, d , J =7.9 Hz, H-13), 6.66 (1H, d , J =1.2 Hz, H-10), 6.63 (1H, dd , J =7.9, 1.2 Hz, H-14), 5.89 (2H, s , O–CH2 –O), 5.11 (1H, d , J =1.2 Hz, H-3), 4.33 (1H, m , H-6), 3.70 (3H, s , H-12), 2.77 (1H, m , H-8), 2.67 (1H, m , H-8), 2.40 (1H, ddd , J =17.0, 12.0, 1.2 Hz, H-5), 2.28 (1H, dd , J =7.0, 3.8 Hz, H-5), 2.04 (1H, m , H-7), 1.85 (1H, m , H-7).
+R62	Associated_With Arg1:T186 Arg2:T187	
+R63	Associated_With Arg1:T185 Arg2:T187	
+T188	Chemical 10024 10035	Methysticin
+T189	Metabolite 10024 10035	Methysticin
+T190	Spectral_Data 10117 10488	1 H NMR (CDCl3 ): δ  6.88 (1H, d , J =1.4 Hz, H-10), 6.79 (1H, dd , J =8.0, 1.5 Hz, H-14), 6.72 (1H, d , J =8.0 Hz, H-13), 6.59 (1H, d , J =15.8 Hz, H-8), 6.06 (1H, dd , J =6.4, 15.9 Hz, H-7), 5.92 (2H, s, O–CH2 –O), 5.15 (1H, d , J =0.6 Hz, H-3), 4.98 (1H, m , H-6), 3.72 (3H, s , H-12), 2.61 (1H, ddd , J =17.2, 10.8, 0.7 Hz, H-5), 2.48 (1H, dd , J =17.1, 4.4 Hz, H-5).
+R64	Associated_With Arg1:T189 Arg2:T190	
+R65	Associated_With Arg1:T188 Arg2:T190	
+T191	Chemical 10496 10526	11-Methoxy-5,6-dihydroyangonin
+T192	Metabolite 10496 10526	11-Methoxy-5,6-dihydroyangonin
+T193	Spectral_Data 10658 10706	UV: λmax MeOH  nm (log ε 228 (4.04), 266 (3.87).
+T194	Spectral_Data 10707 10776	IR cm−1  νmax  (neat): 2924, 1707, 1623, 1514, 1462, 1222, 1025, 822.
+T195	Spectral_Data 10777 10840	HRMS 291.1154 ([M+H]+ ) (calculated for C16 H18 O5 , 291.1154).
+T196	Spectral_Data 10841 11218	1 H NMR (CDCl3 ): δ  6.91 (1H, s , H-10), 6.90 (1H, d , J= 7.8, 1.6 Hz, H-14), 6.79 (1H, d , J =8.0 Hz, H-13), 6.62 (1H, d , J= 15.9 Hz, 8-H), 6.13 (1H, dd , J= 15.9, 6.6 Hz, H-7), 5.15 (1H, d , J =0.7 Hz, H-3), 5.00 (1H, m , H-6), 3.89 (3H, s , H-17), 3.87 (3H, s , H-16), 3.76 (3H, s , H-15), 2.66 (1H, ddd , J =17.1, 11.0, 0.8 Hz, H-5), 2.54 (1H, dd , J =17.0, 4.2 Hz, H-5).
+R66	Associated_With Arg1:T192 Arg2:T193	
+R67	Associated_With Arg1:T192 Arg2:T194	
+R68	Associated_With Arg1:T192 Arg2:T195	
+R69	Associated_With Arg1:T192 Arg2:T196	
+R70	Associated_With Arg1:T191 Arg2:T193	
+R71	Associated_With Arg1:T191 Arg2:T194	
+R72	Associated_With Arg1:T191 Arg2:T195	
+R73	Associated_With Arg1:T191 Arg2:T196	
+T197	Chemical 11226 11244	Tetrahydroyangonin
+T198	Metabolite 11226 11244	Tetrahydroyangonin
+T199	Spectral_Data 11300 11638	1 H NMR (CDCl3 ): δ  7.12 (2H, d , J =8.5, H-10 and H-14), 6.83 (2H, d , J= 8.4 Hz, H-11 and H-13), 5.14 (1H, s , H-3), 4.35 (1H, m , H-6), 3.78 (3H, s , H-17), 3.72 (3H, s , H-15), 2.81 (1H, m , H-8), 2.72 (1H, m , H-8), 2.50 (1H, dd , J =16.9, 12.2 Hz, H-5), 2.29 (1H, dd , J =17.0, 3.7 Hz, H-5), 2.09 (1H, m , H-7), 1.89 (1H, m , H-7).
+R74	Associated_With Arg1:T198 Arg2:T199	
+R75	Associated_With Arg1:T197 Arg2:T199	
+T200	Chemical 11647 11675	11-Methoxytetrahydroyangonin
+T201	Metabolite 11647 11675	11-Methoxytetrahydroyangonin
+T202	Spectral_Data 11793 12167	1 H NMR (CDCl3 ): δ  6.76 (1H, d , J =8.6 Hz, H-13), 6.71 (1H, s , H-10), 6.70 (1H, d , J =8.6 Hz, H-14), 5.09 (1H, d , J =0.7 Hz, H-3), 4.31(1H, m , H-6), 3.82 (3H, s , H-16), 3.81 (3H, s , H-17), 3.68 (3H, s , H-15), 2.78 (1H, m , H-8), 2.68 (1H, m , H-8), 2.46 (1H, dd , J =17.1, 12.2 Hz, H-5), 2.26 (1H, dd , J= 17.0, 3.7 Hz, H-5), 2.06 (1H, m , H-7), 1.87 (1H, m , H-7)
+R76	Associated_With Arg1:T201 Arg2:T202	
+R77	Associated_With Arg1:T200 Arg2:T202	
+T203	Chemical 12177 12190	Flavokawain A
+T204	Metabolite 12177 12190	Flavokawain A
+T205	Spectral_Data 12287 12570	1 H-NMR (CDCl3 ): δ  14.40 (1H, s , HO-2′), 7.79 (2H, s , H-α and H-β), 7.56 (2H, d , J =8.8 Hz, H-2 and H-6), 6.92 (2H, d , J =8.7 Hz, H-3 and H-5), 6.09 (1H, d , J =2.3 Hz, H-3′), 5.95 (1H, d , J =2.3 Hz, H-5′), 3.91 (3H, s, 6′-OCH3 ), 3.84 (3H, s ,-OCH3 ), 3.82 (3H, s , 4′-OCH3 )
+R78	Associated_With Arg1:T204 Arg2:T205	
+R79	Associated_With Arg1:T203 Arg2:T205	
+T206	Chemical 12579 12592	Flavokawain B
+T207	Metabolite 12579 12592	Flavokawain B
+T208	Spectral_Data 12687 12973	1 H NMR (CDCl3 ): δ  14.29 (1H, s, HO-2′), 7.90 (1H, d , J =15.6 Hz, H-β), 7.78 (1H, d , J =15.6 Hz, H-α), 7.62–7.59 (2H, m , H-2 and H-6), 7.44–7.39 (3H, m , H-2, H-3 and H-5), 6.11 (1H, J =2.3 Hz, H-3′), 5.96 (1H, d , J= 2.3 Hz, H-5′), 3.91 (3H, s , 6′-OCH3 ), 3.80 (3H, s , 4′-OCH3 )
+R80	Associated_With Arg1:T207 Arg2:T208	
+R81	Associated_With Arg1:T206 Arg2:T208	
+T209	Chemical 12982 12995	Flavokawain C
+T210	Metabolite 12982 12995	Flavokawain C
+T211	Spectral_Data 13093 13364	1 H NMR (CD3 OD):δ  7.72 (1H, d , J =16.2 Hz, H-β), 7.65 (1H, d , J =15.9 Hz, H-α), 7.44 (2H, d , J =8.6 Hz, H-2 and H-6), 6.82 (2H, d ,J =8.6 Hz, H-3 and H-5), 6.02 (1H, d , J =2.3 Hz, H-3′), 5.94 (1H, d , J =2.2 Hz, H-5′), 3.86 (3H, s , 6′-OCH3 ), 3.77 (3H, s , 4′-OMe)
+R82	Associated_With Arg1:T210 Arg2:T211	
+R83	Associated_With Arg1:T209 Arg2:T211	
+T212	Chemical 13373 13411	3,4-Methylenedioxycinnamylideneacetone
+T213	Metabolite 13373 13411	3,4-Methylenedioxycinnamylideneacetone
+T214	Spectral_Data 13466 13776	1 H NMR (CDCl3 ):δ  7.18 (1H, dd , J =15.4, 10.8 Hz, H-3′), 6.92 (1H, d , J =1.7 Hz, H-2), 6.85 (1H, dd , J =8.0, 1.4 Hz, H-6), 6.77 (1H, d , J= 15.5 Hz, H-1′), 6.72 (1H, d , J =8.0 Hz, H-5), 6.62 (1H, dd , J =15.5, 10.8 Hz, H-2′), 6.13 (1H, d , J =15.5 Hz, H-4′), 5.91 (2H, s , O–CH2 –O), 2.23 (3H, s , H-6′).
+T215	Spectral_Data 13777 13976	13 H NMR (CDCl3 ): δ  27.6 (C-6′), 101.8 (O–CH2 –O), 106.2 (C-2), 108.9 (C-5), 123.5 (C-6), 125.2 (C-2′), 130.1 (C-4′), 130.9 (C-1), 141.3(C-1′), 143.9 (C-3′), 148.7 (C-3), 149.1 (C-4), 198.5 (C-5′).
+R84	Associated_With Arg1:T213 Arg2:T214	
+R85	Associated_With Arg1:T212 Arg2:T214	
+R86	Associated_With Arg1:T212 Arg2:T215	
+R87	Associated_With Arg1:T213 Arg2:T215	
+R88	Associated_With Arg1:T123 Arg2:T121	
+R89	Associated_With Arg1:T122 Arg2:T121	

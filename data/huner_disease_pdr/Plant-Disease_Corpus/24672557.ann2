@@ -1,0 +1,15 @@
+T1	Disease 184 217	osteogenic and angiogenic factors
+T2	Disease 258 271	bone fracture
+T3	Disease 369 382	bone fracture
+T5	Disease 1860 1868	fracture
+T6	Plant 91 109	vitex agnus castus
+T7	Plant 487 505	vitex agnus castus
+T8	Plant 1715 1733	vitex agnus castus
+T9	Plant 1838 1856	vitex agnus castus
+T10	Treatment_of_disease 1829 1834	roles
+E1	Treatment_of_disease:T10 Cause:T9 Theme:T5
+T11	Treatment_of_disease 61 68	effects
+E2	Treatment_of_disease:T11 Cause:T6 Theme:T1 Theme2:T2
+T12	Treatment_of_disease 1753 1760	promote
+E3	Treatment_of_disease:T12 Theme:T4 Cause:T8
+T4	Disease 1761 1769	fracture

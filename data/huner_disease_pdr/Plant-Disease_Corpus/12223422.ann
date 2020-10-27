@@ -1,0 +1,14 @@
+T1	Disease 104 117	breast cancer
+T2	Disease 257 270	breast cancer
+T3	Disease 423 436	breast cancer
+T4	Disease 812 825	breast cancer
+T5	Disease 1262 1275	breast cancer
+T6	Disease 1468 1481	breast cancer
+T7	Disease 1827 1840	breast cancer
+T8	Disease 2044 2057	breast cancer
+T10	Plant 1209 1216	soybean
+T9	Treatment_of_disease 1246 1253	reduced
+E1	Treatment_of_disease:T9 Theme:T5 Cause:T10
+T11	Treatment_of_disease 2028 2035	reduced
+E2	Treatment_of_disease:T11 Theme:T8 Cause:T12
+T12	Plant 1949 1956	soybean

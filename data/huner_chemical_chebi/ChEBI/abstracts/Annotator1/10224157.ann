@@ -1,0 +1,33 @@
+T1	Protein 0 36	Long-chain fatty acyl-CoA synthetase
+T2	Protein 38 42	FACS
+T3	Chemical 72 94	long-chain fatty acids
+T4	Chemical 96 101	LCFAs
+T5	Chemical 108 118	coenzyme A
+T6	Chemical 120 123	CoA
+T9	Chemical 144 154	fatty acid
+T10	Protein 167 171	FACS
+T12	Chemical 205 209	LCFA
+T15	Chemical 277 281	LCFA
+T16	Protein 332 336	FACS
+T18	Protein 417 421	FACS
+T19	Protein 430 458	fatty acid transport protein
+T20	Protein 460 464	FATP
+T21	Chemical 494 498	LCFA
+T23	Protein 522 526	FACS
+T24	Chemical 542 546	LCFA
+T25	Chemical 377 381	LCFA
+T27	Protein 600 606	enzyme
+T28	Protein 657 664	protein
+T29	Chemical 695 700	LCFAs
+T30	Protein 741 745	FACS
+T31	Protein 761 777	membrane protein
+T32	Protein 906 910	FACS
+T33	Protein 1048 1052	FACS
+T34	Protein 1128 1132	FATP
+T35	Chemical 1193 1198	LCFAs
+T37	Protein 1275 1279	FATP
+T38	Protein 1284 1288	FACS
+T39	Chemical 1325 1331	LCFA  
+T41	Species 1370 1379	mammalian
+T7	Biological_Activity 155 165	metabolism
+T11	Species 262 271	mammalian

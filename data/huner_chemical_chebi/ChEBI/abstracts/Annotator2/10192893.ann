@@ -1,0 +1,31 @@
+T1	Species 57 67	microflora
+T2	Chemical 79 87	gasoline
+T3	Chemical 328 340	hydrocarbons
+T4	Chemical 357 365	gasoline
+T5	Species 399 410	microflorae
+T6	Biological_Activity 435 449	biodegradation
+T7	Chemical 496 507	hydrocarbon
+T8	Chemical 527 530	CO2
+T9	Metabolite 527 530	CO2
+T10	Biological_Activity 547 558	degradation
+T11	Chemical 280 284	GM23
+T12	Chemical 580 584	GM23
+T13	Species 704 710	spruce
+T14	Species 676 686	microflora
+T15	Chemical 728 740	hydrocarbons
+T16	Chemical 744 748	GM23
+T17	Chemical 756 767	cyclohexane
+T18	Chemical 769 775;786 802	2,2,4- trimethylpentane
+T19	Chemical 780 802	2,3,4-trimethylpentane
+T20	Species 867 877	microflora
+T21	Chemical 944 952	gasoline
+T22	Chemical 989 1000	cyclohexane
+T23	Chemical 1005 1027	2,2,4-trimethylpentane
+T26	Species 1049 1059	microflora
+T27	Biological_Activity 1070 1081	degradation
+T28	Chemical 1085 1089	GM23
+T29	Chemical 1157 1161	GM23
+T30	Chemical 1230 1234	GM23
+T31	Chemical 1277 1291	2-ethyltoluene
+T32	Chemical 1296 1320	trimethylbenzene isomers
+T24	Biological_Activity 1389 1399	inhibitory

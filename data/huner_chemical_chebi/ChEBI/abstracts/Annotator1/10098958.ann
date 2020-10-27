@@ -1,0 +1,25 @@
+T1	Chemical 0 9	Glutamate
+T5	Chemical 158 168	amino acid
+#1	AnnotatorNotes T5	Class of chemicals
+T6	Chemical 169 176	taurine
+T7	Chemical 185 194	glutamate
+T9	Chemical 274 281	taurine
+T10	Biological_Activity 326 335	cytotoxic
+T11	Chemical 307 316	glutamate
+T13	Chemical 445 454	glutamate
+T14	Chemical 459 466	taurine
+T15	Species 517 525	patients
+T16	Chemical 590 601	amino acids
+T17	Chemical 744 753	glutamate
+T18	Chemical 758 765	taurine
+T22	Chemical 1043 1054	amino acids
+T24	Chemical 1157 1164	taurine
+T25	Chemical 1192 1201	glutamate
+T27	Chemical 1295 1302	taurine
+T28	Chemical 1377 1384	taurine
+T30	Chemical 1586 1595	glutamate
+T31	Chemical 1600 1607	taurine
+T33	Species 1681 1687	humans
+R1	Associated_With Arg1:T11 Arg2:T10	
+T2	Chemical 1224 1233	glutamate
+T3	Biological_Activity 1398 1407	cytotoxic

@@ -1,0 +1,23 @@
+T1	Disease 390 398	diabetes
+T2	Disease 403 412	arthritis
+T3	Disease 838 847	arthritis
+T6	Plant 0 4	Rice
+T7	Plant 69 73	rice
+T10	Plant 208 212	rice
+T11	Plant 362 366	rice
+T8	Plant 94 108	phytonutrients
+T15	Treatment_of_disease 342 346	role
+E1	Treatment_of_disease:T15 Theme:T1 Theme2:T2 Cause:T11 Cause2:T12
+T16	Plant 568 571	SRB
+T17	Disease 805 826	impaired joint health
+T18	Disease 828 832	pain
+T20	Plant 1083 1086	SRB
+T21	Plant 1207 1210	SRB
+T22	Plant 1446 1449	SRB
+T23	Plant 1454 1457	SRB
+T24	Plant 1467 1470	SRB
+T4	Disease 1707 1719	inflammation
+T5	Plant 1616 1619	SRB
+T9	Treatment_of_disease 1696 1703	control
+E2	Treatment_of_disease:T9 Theme:T4 Cause:T5
+T12	Plant 373 376	SRB

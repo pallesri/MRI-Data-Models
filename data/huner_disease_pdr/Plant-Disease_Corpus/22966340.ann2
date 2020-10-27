@@ -1,0 +1,14 @@
+T1	Disease 152 167	colon carcinoma
+T2	Disease 196 211	Colon carcinoma
+T3	Disease 1200 1215	colon carcinoma
+T4	Disease 1645 1660	colon carcinoma
+T5	Plant 64 68	aloe
+T7	Plant 128 137	Aloe vera
+T9	Plant 262 266	aloe
+T10	Plant 830 834	aloe
+T11	Plant 946 950	aloe
+T12	Plant 980 984	Aloe
+T13	Plant 1225 1229	aloe
+T14	Plant 1611 1615	aloe
+T6	Treatment_of_disease 1599 1607	involved
+E1	Treatment_of_disease:T6 Cause:T14 Theme:T4

@@ -1,0 +1,17 @@
+T1	Chemical 4 18	cephalosporins
+#1	AnnotatorNotes T1	Class of chemicals
+T2	Chemical 48 59	beta-lactam
+#2	AnnotatorNotes T2	structural feature
+T3	Biological_Activity 60 73	antimicrobial
+T4	Chemical 110 124	cephalosporins
+T5	Biological_Activity 146 154	toxicity
+T7	Chemical 231 245	cephalosporins
+T8	Chemical 407 420	cephalosporin
+T9	Biological_Activity 421 434	antimicrobial
+T10	Chemical 590 604	cephalosporins
+T11	Chemical 705 713	cefepime
+R1	Associated_With Arg1:T1 Arg2:T3	
+R3	Associated_With Arg1:T8 Arg2:T9	
+R4	Associated_With Arg1:T11 Arg2:T9	
+T13	Chemical 636 641	drugs
+T12	Chemical 783 787	drug

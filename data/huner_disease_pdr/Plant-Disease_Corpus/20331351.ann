@@ -1,0 +1,15 @@
+T1	Disease 193 198	tumor
+T2	Disease 203 218	atherosclerosis
+T3	Disease 906 918	fibrosarcoma
+T4	Disease 932 937	tumor
+T5	Disease 1295 1307	fibrosarcoma
+T6	Plant 14 20	Garlic
+T8	Plant 22 28	Allium
+T11	Plant 220 226	Garlic
+T14	Plant 393 399	garlic
+T15	Plant 489 495	garlic
+T18	Plant 630 636	garlic
+T19	Plant 1334 1340	garlic
+T21	Plant 1500 1506	garlic
+T7	Treatment_of_disease 139 157	beneficial effects
+E1	Treatment_of_disease:T7 Theme:T1 Theme2:T2 Cause:T6 Cause2:T8

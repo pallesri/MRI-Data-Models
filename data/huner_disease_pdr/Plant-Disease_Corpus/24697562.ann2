@@ -1,0 +1,28 @@
+T1	Disease 26 36	Xerostomia
+T2	Disease 117 127	xerostomia
+T3	Disease 287 297	xerostomia
+T4	Disease 307 325	gingival condition
+T5	Disease 520 538	gingival condition
+T6	Disease 719 729	xerostomia
+T7	Disease 873 909	xerostomia to the gingival condition
+T8	Disease 1024 1034	Xerostomia
+T9	Disease 1059 1082	dental plaque formation
+T10	Disease 1181 1191	xerostomia
+T11	Disease 1207 1230	dental plaque formation
+T12	Disease 1266 1289	dental plaque formation
+T13	Disease 1324 1334	Xerostomia
+T14	Disease 1434 1444	Xerostomia
+T15	Disease 1471 1487	gingival disease
+T16	Disease 1525 1538	dental plaque
+T17	Disease 1593 1603	xerostomia
+T18	Disease 1633 1643	xerostomia
+T19	Disease 1682 1692	gingivitis
+T21	Plant 754 760	coffee
+T22	Plant 1355 1361	coffee
+T24	Plant 1561 1567	coffee
+T20	Treatment_of_disease 1339 1349	associated
+E1	Treatment_of_disease:T20 Cause:T22 Cause2:T23 Theme:T13
+T23	Plant 1362 1365	tea
+T25	Treatment_of_disease 1584 1592	affected
+E2	Treatment_of_disease:T25 Theme:T17 Cause:T24 Cause2:T26
+T26	Plant 1568 1571	tea

@@ -1,0 +1,56 @@
+T1	Species 14 20	fungal
+T2	Chemical 37 43	lysine
+T3	Metabolite 37 43	lysine
+T5	Chemical 68 86	alpha-aminoadipate
+T6	Metabolite 68 86	alpha-aminoadipate
+T7	Chemical 100 112;68 86	semialdehyde alpha-aminoadipate
+T8	Metabolite 100 112;68 86	semialdehyde alpha-aminoadipate
+T9	Species 144 168	Saccharomyces cerevisiae
+T10	Protein 170 174	Lys2
+T11	Protein 179 183	Lys5
+T13	Protein 215 219	Lys5
+T14	Chemical 282 292	coenzyme A
+T15	Chemical 294 299	CoASH
+T16	Chemical 321 343	phosphopantetheinylate
+T17	Protein 366 370	Lys2
+T18	Protein 403 407	Lys2
+T19	Species 427 440	S. cerevisiae
+T20	Species 476 492	Escherichia coli
+T21	Protein 518 524	enzyme
+T22	Protein 539 575	adenylation/peptidyl carrier protein
+T23	Protein 577 582	A/PCP
+T24	Protein 628 631	PCP
+T25	Protein 665 672	apo-PCP
+T26	Protein 709 741	phosphopantetheinylated holo-PCP
+T27	Protein 750 754	Lys5
+T28	Chemical 759 764	CoASH
+T29	Protein 821 824	PCP
+T30	Chemical 829 834	CoASH
+T31	Protein 877 882	A/PCP
+T32	Chemical 902 928	S-carboxymethyl-L-cysteine
+T33	Chemical 981 1001	L-alpha-aminoadipate
+T34	Chemical 1005 1013	[32P]PPi
+#1	AnnotatorNotes T34	inorganic pyrophosphate
+T35	Chemical 1014 1017	ATP
+T36	Protein 1056 1061	A/PCP
+T37	Protein 1082 1086	Lys2
+T38	Chemical 1124 1155	[35S]S-carboxymethyl-L-cysteine
+T39	Chemical 1129 1155	S-carboxymethyl-L-cysteine
+T40	Chemical 1169 1174	NADPH
+T41	Protein 1260 1273	acyl-S-enzyme
+T42	Protein 1199 1214	acyl-S-PCP Lys2
+T43	Protein 1315 1319	Lys5
+T44	Protein 1320 1324	Lys2
+T45	Protein 1366 1370	Lys5
+T46	Protein 1389 1393	Lys2
+T47	Protein 1404 1432	alpha-aminoadipate reductase
+T48	Chemical 1404 1422	alpha-aminoadipate
+T50	Protein 1445 1454	holo-Lys2
+T54	Species 1555 1561	fungal
+T55	Protein 1562 1568	enzyme
+T56	Chemical 1583 1593	amino acid
+T57	Biological_Activity 1594 1604	metabolism
+T4	Biological_Activity 1423 1432	reductase
+T12	Biological_Activity 55 64	reduction
+T49	Biological_Activity 1234 1243	reductive
+T51	Biological_Activity 1503 1512	reductive

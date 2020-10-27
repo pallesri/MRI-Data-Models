@@ -1,0 +1,574 @@
+T1	Protein 1 18	Cytochromes P-450
+T2	Chemical 98 109	fatty acids
+T3	Species 113 127	microorganisms
+T4	Species 129 135	plants
+T5	Species 137 144	insects
+T6	Species 146 171	non-mammalian vertebrates
+T7	Species 177 184	mammals
+T8	Protein 242 246	CYP4
+T9	Species 257 264	mammals
+T10	Protein 290 294	CYP2
+T11	Chemical 320 331	lauric acid
+T12	Species 362 366	fish
+T13	Protein 377 381	CYP4
+T14	Protein 382 390	isozymes
+T15	Chemical 592 603	fatty acids
+T16	Chemical 605 619	prostaglandins
+T17	Chemical 624 636	leukotrienes
+T18	Species 667 674	mammals
+T19	Chemical 708 718	fatty acid
+T20	Protein 708 731	fatty acid hydroxylases
+T21	Chemical 789 827	oxygenated polyunsaturated fatty acids
+T22	Biological_Activity 835 845	modulators
+R1	Associated_With Arg1:T21 Arg2:T22	
+T23	Chemical 925 956	fatty acid acetylenic analogues
+T24	Biological_Activity 975 982	inhibit
+T25	Protein 983 987	P450
+R2	Associated_With Arg1:T23 Arg2:T24	
+R3	Binds_With Arg1:T23 Arg2:T25	
+T26	Biological_Activity 1042 1052	inhibitors
+T27	Protein 1127 1150	fatty acid hydroxylases
+T28	Chemical 1127 1137	fatty acid
+T29	Protein 1160 1164	P450
+T30	Chemical 1199 1204	drugs
+T31	Biological_Activity 1260 1273	hypolipidemic
+T32	Chemical 1274 1279	drugs
+T33	Chemical 1281 1289	fibrates
+R4	Associated_With Arg1:T33 Arg2:T31	
+T34	Chemical 1292 1302	herbicides
+T35	Chemical 1304 1334	2,4-dichlorophenoxyacetic acid
+T36	Chemical 1341 1356	phthalate ester
+T37	Chemical 1404 1415	fatty acids
+T38	Species 1419 1426	rodents
+T39	Species 1462 1471	mammalian
+T40	Protein 1472 1476	CYP4
+T41	Protein 1495 1517	Fatty acid hydroxylase
+T42	Biological_Activity 1506 1517	hydroxylase
+T43	Species 1559 1565	plants
+T44	Species 1576 1584	bacteria
+T45	Protein 1651 1655	CYP2
+T46	Protein 1656 1664	isozymes
+T47	Biological_Activity 1377 1383	induce
+R5	Associated_With Arg1:T36 Arg2:T47	
+T48	Chemical 1371 1375	DEHP
+R6	Associated_With Arg1:T48 Arg2:T47	
+R7	Associated_With Arg1:T35 Arg2:T47	
+R8	Associated_With Arg1:T33 Arg2:T47	
+T49	Chemical 1752 1765	phenobarbital
+T50	Biological_Activity 1673 1680	induced
+T51	Chemical 1732 1743	xenobiotics
+T52	Species 1803 1807	fish
+T53	Protein 1808 1812	P450
+T54	Chemical 1846 1870	environmental pollutants
+T55	Chemical 1880 1912	polycyclic aromatic hydrocarbons
+T56	Chemical 1914 1917	PAH
+T57	Chemical 1924 1943	polychlorobiphenyls
+T58	Chemical 1945 1948	PCB
+T59	Chemical 1978 1986	steroids
+T60	Biological_Activity 2028 2031	LAH
+T61	Species 2046 2050	fish
+T62	Biological_Activity 2130 2133	LAH
+T63	Species 2148 2156	sea bass
+T64	Species 2180 2183	rat
+T65	Species 2249 2254	trout
+T66	Protein 2285 2299	CYP2K1 protein
+T67	Chemical 2312 2323	lauric acid
+T68	Species 2401 2414	rainbow trout
+T69	Protein 2443 2447	CYP4
+T70	Species 2551 2564	rainbow trout
+T71	Chemical 2610 2621	gemfibrozil
+T72	Chemical 2623 2645	dehydroepiandrosterone
+T73	Biological_Activity 2677 2683	induce
+T74	Protein 2684 2688	P450
+T75	Chemical 2716 2727	fatty acids
+T76	Species 2760 2767	rodents
+R9	Associated_With Arg1:T72 Arg2:T73	
+R10	Associated_With Arg1:T71 Arg2:T73	
+T77	Chemical 2806 2824	biological markers
+T78	Chemical 2864 2874	pollutants
+T79	Chemical 2917 2927	phthalates
+T80	Biological_Activity 3009 3012	LAH
+T81	Protein 2983 2998	cytochrome P450
+T82	Species 3027 3035	sea bass
+T83	Species 3037 3057	Dicentrarchus labrax
+T84	Biological_Activity 3069 3072	LAH
+T85	Chemical 3107 3117	metabolite
+T86	Metabolite 3107 3117	metabolite
+T87	Species 3204 3208	fish
+T88	Chemical 3248 3258	clofibrate
+T89	Chemical 3263 3267	DEHP
+T90	Chemical 3348 3369	lauric acid analogues
+T91	Chemical 3403 3413	acetylenes
+T92	Chemical 3415 3427;3490 3494	9-dodecynoic acid
+T93	Chemical 3429 3435	9-DDYA
+T94	Chemical 3438 3451;3490 3494	10-dodecynoic acid
+T95	Chemical 3453 3460	10-DDYA
+T96	Chemical 3466 3479;3490 3494	11-dodecynoic acid
+T97	Chemical 3481 3488	11-DDYA
+T98	Chemical 3579 3589	Clofibrate
+T99	Chemical 3591 3595	DEHP
+T100	Chemical 3597 3602	NADPH
+T101	Chemical 3604 3623	glucose-6-phosphate
+T102	Chemical 3625 3630	G-6-P
+T103	Protein 3643 3676	glucose-6-phosphate dehydrogenase
+T104	Species 3637 3642	yeast
+T105	Protein 3678 3685	G-6-PDH
+T106	Chemical 3738 3757	[1-14 C]lauric acid
+T107	Chemical 3859 3871	Acetonitrile
+T108	Chemical 3889 3899	silica gel
+T109	Chemical 3945 3952	11-DDYA
+T110	Chemical 3954 3961	10-DDYA
+T111	Chemical 3966 3972	9-DDYA
+T112	Chemical 3995 4012	1-bromo-6-hexanol
+T113	Chemical 4014 4032	1-bromo-7-heptanol
+T114	Chemical 4037 4054	1-bromo-9-nonanol
+T115	Species 4132 4140	sea bass
+T116	Species 4142 4151	D. labrax
+T117	Species 4188 4192	fish
+T118	Chemical 4286 4291	water
+T119	Species 4425 4429	fish
+T120	Chemical 4492 4502	clofibrate
+T121	Chemical 4542 4546	NaCl
+T122	Chemical 4554 4558	DEHP
+T123	Chemical 4597 4601	NaCl
+T124	Chemical 4611 4615	NaCl
+T125	Species 4656 4660	Fish
+T126	Chemical 4778 4781	ice
+T127	Chemical 4794 4797	KCl
+T128	Chemical 4854 4861	sucrose
+T129	Chemical 4869 4874	Hepes
+T130	Chemical 4901 4905	EDTA
+T131	Chemical 4912 4916	PMSF
+T132	Chemical 4926 4929	DTT
+T133	Chemical 5131 5139	glycerol
+T134	Protein 5168 5175	Protein
+T135	Protein 5248 5251	BSA
+T136	Protein 5272 5278	Enzyme
+T137	Protein 5290 5293	LAH
+T138	Biological_Activity 5290 5293	LAH
+T139	Chemical 5461 5480	[1-14 C]lauric acid
+T140	Chemical 5489 5505	sodium phosphate
+T141	Protein 5543 5551	proteins
+T142	Chemical 5562 5567	NADPH
+T143	Chemical 5615 5622	β -NADP
+T144	Chemical 5631 5636	G-6-P
+T145	Protein 5652 5659	G-6-PDH
+T146	Chemical 5746 5749	ice
+T147	Chemical 5755 5767	acetonitrile
+T148	Chemical 5784 5795	acetic acid
+T149	Protein 5797 5804	Protein
+T150	Chemical 5938 5948	silica gel
+T151	Protein 6014 6021	protein
+T152	Chemical 6069 6079	metabolite
+T153	Metabolite 6069 6079	metabolite
+T154	Biological_Activity 6127 6137	inhibitors
+T155	Chemical 6166 6170	DEHP
+T156	Chemical 6175 6185	clofibrate
+T157	Species 6194 6198	fish
+T158	Chemical 6313 6318	NADPH
+T159	Biological_Activity 6431 6440	inhibitor
+T160	Chemical 6442 6448	9-DDYA
+T161	Chemical 6450 6457	10-DDYA
+T162	Chemical 6461 6468	11-DDYA
+R11	Associated_With Arg1:T160 Arg2:T159	
+R12	Associated_With Arg1:T161 Arg2:T159	
+R13	Associated_With Arg1:T162 Arg2:T159	
+T163	Chemical 6532 6536	DDYA
+T164	Chemical 6543 6548	NADPH
+T165	Chemical 6744 6763	[1-14 C]lauric acid
+T166	Chemical 6898 6909	lauric acid
+T167	Chemical 6976 6979	ice
+T168	Chemical 6985 6997	acetonitrile
+T169	Chemical 7014 7025	acetic acid
+T170	Chemical 7027 7038	Metabolites
+T171	Metabolite 7027 7038	Metabolites
+T172	Chemical 7074 7080	silica
+T173	Chemical 7122 7135	diethyl ether
+T174	Chemical 7136 7151	light petroleum
+T175	Chemical 7164 7175	formic acid
+T176	Chemical 7495 7506	acetic acid
+T177	Chemical 7512 7517	water
+T178	Chemical 7543 7555	acetonitrile
+T179	Chemical 7633 7644	metabolites
+T180	Metabolite 7633 7644	metabolites
+T181	Chemical 7736 7764	[1-14 C]hydroxylated product
+T182	Metabolite 7736 7764	[1-14 C]hydroxylated product
+T183	Chemical 7853 7855	H2
+T184	Chemical 7861 7863	Pd
+T185	Chemical 7864 7872	charcoal
+T186	Spectral_Data 7973 7985	mass spectra
+T187	Spectral_Data 8003 8018;8027 8055	electron impact ionization mass spectrometry
+T188	Chemical 8176 8207	n-monohydroxylated lauric acids
+T189	Metabolite 8176 8207	n-monohydroxylated lauric acids
+T190	Chemical 8195 8206	lauric acid
+T191	Chemical 8321 8331	metabolite
+T192	Metabolite 8321 8331	metabolite
+T193	Species 8369 8373	fish
+T194	Chemical 8575 8586	lauric acid
+T195	Protein 8575 8598	lauric acid hydroxylase
+T196	Biological_Activity 8587 8598	hydroxylase
+T197	Biological_Activity 8667 8670	LAH
+T198	Chemical 8729 8731	O2
+T199	Chemical 8738 8743	NADPH
+T200	Chemical 8794 8796	CO
+T201	Chemical 8797 8799	O2
+T202	Protein 8839 8855	cytochrome P-450
+T203	Chemical 8905 8916	lauric acid
+T204	Chemical 8893 8930	Products of lauric acid hydroxylation
+T205	Metabolite 8893 8930	Products of lauric acid hydroxylation
+T206	Chemical 8989 9000	metabolites
+T207	Metabolite 8989 9000	metabolites
+T208	Chemical 9060 9071;9092 9103	methylester derivatives
+T209	Chemical 9072 9103	trimethylsilylether derivatives
+T210	Chemical 9107 9118	metabolites
+T211	Metabolite 9107 9118	metabolites
+T212	Spectral_Data 9151 9153	MS
+T213	Chemical 9212 9219;9254 9272	(ω -1)- hydroxylauric acid
+T214	Chemical 9221 9228;9254 9272	(ω -2)- hydroxylauric acid
+T215	Chemical 9230 9237;9254 9272	(ω -3)- hydroxylauric acid
+T216	Chemical 9239 9246;9254 9272	(ω -4)- hydroxylauric acid
+T217	Chemical 9251 9272	ω -hydroxylauric acid
+T218	Spectral_Data 9289 9301	Mass spectra
+T219	Chemical 9309 9321;9347 9358	methyl ester derivatives
+T220	Chemical 9326 9340;9347 9358	trimethylsilyl derivatives
+T221	Chemical 9342 9345;9347 9358	TMS derivatives
+T222	Chemical 9402 9430	monohydroxylated fatty acids
+T223	Metabolite 9402 9430	monohydroxylated fatty acids
+T224	Chemical 9501 9525	CH2 =C(OSi-(CH3 )3 )OCH3
+T225	Chemical 9541 9569	(CH3 O=C(OSi-(CH3 )3 )CH=CH2
+T226	Chemical 9605 9608	TMS
+T227	Chemical 9646 9670	hydroxylated lauric acid
+T228	Metabolite 9646 9670	hydroxylated lauric acid
+T229	Chemical 9671 9682	metabolites
+T230	Metabolite 9671 9682	metabolites
+T231	Metabolite 9212 9219;9254 9272	(ω -1)- hydroxylauric acid
+T232	Metabolite 9221 9228;9254 9272	(ω -2)- hydroxylauric acid
+T233	Metabolite 9230 9237;9254 9272	(ω -3)- hydroxylauric acid
+T234	Metabolite 9239 9246;9254 9272	(ω -4)- hydroxylauric acid
+T235	Metabolite 9251 9272	ω -hydroxylauric acid
+R14	Associated_With Arg1:T235 Arg2:T218	
+R15	Associated_With Arg1:T217 Arg2:T218	
+R16	Associated_With Arg1:T231 Arg2:T218	
+R17	Associated_With Arg1:T232 Arg2:T218	
+R18	Associated_With Arg1:T233 Arg2:T218	
+R19	Associated_With Arg1:T234 Arg2:T218	
+R20	Associated_With Arg1:T216 Arg2:T218	
+R21	Associated_With Arg1:T215 Arg2:T218	
+R22	Associated_With Arg1:T213 Arg2:T218	
+R23	Associated_With Arg1:T214 Arg2:T218	
+R24	Metabolite_Of Arg1:T235 Arg2:T203	
+R26	Metabolite_Of Arg1:T232 Arg2:T203	
+R25	Metabolite_Of Arg1:T231 Arg2:T203	
+R27	Metabolite_Of Arg1:T233 Arg2:T203	
+R28	Metabolite_Of Arg1:T234 Arg2:T203	
+T236	Chemical 9719 9730	metabolites
+T237	Metabolite 9719 9730	metabolites
+T238	Chemical 9779 9789	clofibrate
+T239	Chemical 9795 9799	DEHP
+T240	Species 9808 9812	fish
+T241	Chemical 9837 9856	hydroxylauric acids
+T242	Metabolite 9837 9856	hydroxylauric acids
+T243	Chemical 9926 9937	lauric acid
+T244	Chemical 9989 10000	metabolites
+T245	Metabolite 9989 10000	metabolites
+R29	Metabolite_Of Arg1:T242 Arg2:T243	
+T246	Chemical 10159 10170	lauric acid
+T247	Chemical 10198 10223	(ω -1)-hydroxylauric acid
+T248	Metabolite 10198 10223	(ω -1)-hydroxylauric acid
+T249	Chemical 10252 10263	metabolites
+T250	Metabolite 10252 10263	metabolites
+T251	Chemical 10277 10288	metabolites
+T252	Chemical 10299 10301;10323 10341	ω- hydroxylauric acid
+T253	Metabolite 10277 10288	metabolites
+T254	Chemical 10304 10311;10323 10341	(ω -3)- hydroxylauric acid
+T255	Chemical 10323 10342	hydroxylauric acids
+T256	Metabolite 10323 10341	hydroxylauric acid
+T257	Metabolite 10299 10301;10323 10341	ω- hydroxylauric acid
+T258	Metabolite 10304 10311;10323 10341	(ω -3)- hydroxylauric acid
+T259	Protein 10426 10429	LAH
+T260	Biological_Activity 10426 10429	LAH
+T261	Chemical 10444 10454	clofibrate
+T262	Chemical 10459 10463	DEHP
+T263	Protein 10479 10482	LAH
+T264	Biological_Activity 10479 10482	LAH
+T265	Chemical 10533 10543	clofibrate
+T266	Chemical 10549 10553	DEHP
+T267	Species 10562 10570	sea bass
+T268	Species 10618 10622	fish
+T269	Protein 10635 10638	LAH
+T270	Biological_Activity 10635 10638	LAH
+T271	Chemical 10667 10677	clofibrate
+T272	Chemical 10681 10685	DEHP
+T273	Chemical 10728 10738	clofibrate
+T274	Chemical 10782 10793	metabolites
+T275	Metabolite 10782 10793	metabolites
+T276	Chemical 10809 10820	lauric acid
+T277	Chemical 10880 10884	DEHP
+T278	Species 10893 10897	fish
+T279	Chemical 10917 10924;10946 10964	(ω -1)- hydroxylauric acid
+T280	Chemical 10926 10933;10946 10964	(ω -2)- hydroxylauric acid
+T281	Chemical 10939 10964	(ω -3)-hydroxylauric acid
+T282	Metabolite 10917 10924;10946 10964	(ω -1)- hydroxylauric acid
+T283	Metabolite 10926 10933;10946 10964	(ω -2)- hydroxylauric acid
+T284	Metabolite 10939 10964	(ω -3)-hydroxylauric acid
+T285	Protein 11029 11032	LAH
+T286	Biological_Activity 11029 11032	LAH
+T287	Chemical 11105 11109	DEHP
+T288	Chemical 11163 11169;11189 11208	(ω -1) -hydroxylauric acid
+T289	Chemical 11171 11177;11189 11208	(ω -2) -hydroxylauric acid
+T290	Chemical 11183 11208	(ω -3)-hydroxylauric acid
+T291	Metabolite 11163 11169;11189 11208	(ω -1) -hydroxylauric acid
+T292	Metabolite 11171 11177;11189 11208	(ω -2) -hydroxylauric acid
+T293	Metabolite 11183 11208	(ω -3)-hydroxylauric acid
+T294	Chemical 11290 11300	clofibrate
+T295	Chemical 11335 11360	(ω -1)-hydroxylauric acid
+T296	Metabolite 11335 11360	(ω -1)-hydroxylauric acid
+T297	Chemical 11408 11419	lauric acid
+T298	Protein 11408 11432	lauric acid hydroxylases
+T299	Species 11502 11510	sea bass
+T300	Protein 11511 11515	P450
+T301	Biological_Activity 11533 11542	oxidation
+T302	Chemical 11546 11558	lauric acid,
+T303	Protein 11603 11606	LAH
+T304	Biological_Activity 11603 11606	LAH
+T305	Chemical 11627 11638	lauric acid
+T306	Chemical 11627 11648	lauric acid analogues
+T307	Chemical 11697 11703	carbon
+T308	Chemical 11781 11787	9-DDYA
+T309	Chemical 11789 11796	10-DDYA
+T310	Chemical 11800 11807	11-DDYA
+T311	Chemical 11809 11816	10-DDYA
+T312	Species 11849 11857	sea bass
+T313	Chemical 11990 11997	10-DDYA
+T314	Protein 12038 12041	LAH
+T315	Biological_Activity 12038 12041	LAH
+T316	Biological_Activity 12135 12144	inhibitor
+T317	Chemical 12184 12189	NADPH
+T318	Protein 12191 12194	LAH
+T319	Biological_Activity 12332 12341	inhibitor
+T320	Biological_Activity 12399 12406	binding
+T321	Protein 12440 12443	LAH
+T322	Biological_Activity 12484 12493	inhibitor
+T323	Chemical 12628 12635	10-DDYA
+T324	Chemical 12640 12647	11-DDYA
+T325	Chemical 12708 12714	9-DDYA
+T326	Chemical 12826 12832	9-DDYA
+T327	Biological_Activity 12843 12852	inhibitor
+T329	Protein 12856 12859	LAH
+R30	Associated_With Arg1:T326 Arg2:T327	
+R31	Binds_With Arg1:T326 Arg2:T329	
+T328	Species 12934 12943	mammalian
+T330	Protein 12944 12948	CYP4
+T331	Chemical 12960 12971	lauric acid
+T332	Species 13058 13062	fish
+T333	Species 13094 13098	fish
+T334	Protein 13123 13127	P450
+T335	Chemical 13173 13184	lauric acid
+T336	Species 13197 13210	rainbow trout
+T337	Protein 13239 13243	CYP2
+T338	Species 13344 13357	rainbow trout
+T340	Chemical 13548 13558	pollutants
+T339	Chemical 13560 13570	phthalates
+T341	Protein 13619 13623	CYP4
+T342	Biological_Activity 13624 13632	inducers
+T343	Protein 13640 13655	cytochrome P450
+T344	Protein 13666 13669	LAH
+T345	Biological_Activity 13666 13669	LAH
+T346	Species 13684 13692	sea bass
+T347	Species 13756 13764	sea bass
+T348	Chemical 13855 13867	lauric acid.
+T349	Chemical 13902 13913	fatty acids
+T350	Species 13946 13954	bacteria
+T351	Species 13962 13967	yeast
+T352	Species 13975 13980	fungi
+T353	Species 13997 14003	plants
+T354	Chemical 14041 14052	fatty acids
+T355	Species 14089 14096	mammals
+T356	Species 14104 14114	amphibians
+T357	Species 14122 14129	insects
+T358	Species 14136 14141	yeast
+T359	Species 14153 14164	Leguminosae
+T360	Chemical 14200 14211	lauric acid
+T361	Species 14289 14294	trout
+T362	Species 14312 14315	rat
+T363	Protein 14357 14361	P450
+T364	Chemical 14409 14419	fatty acid
+T365	Chemical 14463 14474	lauric acid
+T366	Species 14501 14509	sea bass
+T367	Protein 14545 14549	CYP2
+T368	Protein 14562 14566	CYP4
+T369	Protein 14631 14637	CYP2M1
+T370	Protein 14642 14648	CYP2K1
+T371	Chemical 14670 14681	lauric acid
+T372	Protein 14733 14736	CYP
+T373	Protein 14737 14745	isozymes
+T374	Chemical 14788 14798	fatty acid
+T375	Biological_Activity 14799 14810	metabolism.
+T376	Protein 14821 14827	CYP4T1
+T377	Species 14854 14859	trout
+T378	Protein 14875 14880	CYP4A
+T379	Protein 14881 14889	isozymes
+T380	Species 14917 14920	rat
+T381	Protein 14928 14934	CYP4A2
+T382	Protein 14975 14981	CYP4A1
+T383	Protein 14986 14992	CYP4A3
+T384	Chemical 15041 15052	lauric acid
+T385	Protein 15063 15069	CYP4A1
+T386	Protein 15070 15077	protein
+T387	Biological_Activity 15132 15141	catabolic
+T388	Chemical 15181 15193	arachidonate
+T389	Chemical 15204 15215	metabolites
+T390	Metabolite 15204 15215	metabolites
+T391	Chemical 15227 15256	long-chain dicarboxylic acids
+T392	Protein 15272 15278	CYP4A1
+T393	Protein 15334 15341	enzymes
+T394	Protein 15359 15365	CYP4A1
+T395	Protein 15453 15459	CYP4A1
+T396	Protein 15444 15451	enzymes
+T397	Species 15541 15549	sea bass
+T398	Protein 15576 15579	LAH
+T399	Biological_Activity 15576 15579	LAH
+T400	Protein 15661 15665	P450
+T401	Species 15677 15681	fish
+T402	Chemical 15708 15714	lipids
+T403	Species 15751 15755	fish
+T404	Chemical 15757 15767	fatty acid
+T405	Biological_Activity 15768 15778	metabolism
+T406	Species 15822 15826	fish
+T407	Chemical 15876 15887	metabolites
+T408	Metabolite 15876 15887	metabolites
+T409	Species 15898 15906	sea bass
+T410	Species 15911 15916	trout
+R32	Isolated_From Arg1:T408 Arg2:T409	
+R33	Isolated_From Arg1:T408 Arg2:T410	
+T411	Biological_Activity 15947 15957	inhibitors
+T412	Protein 15961 15965	P450
+T413	Biological_Activity 15984 15991	inhibit
+T414	Protein 15992 15996	P450
+T415	Protein 15997 16005	isozymes
+T416	Species 16038 16041	rat
+T417	Protein 16050 16065	ω -hydroxylases
+T418	Biological_Activity 16070 16081	inactivated
+T419	Chemical 16085 16092	11-DDYA
+R34	Associated_With Arg1:T419 Arg2:T418	
+T420	Chemical 16137 16147	fatty acid
+T421	Chemical 16203 16213	fatty acid
+T422	Protein 16203 16226	fatty acid hydroxylases
+T423	Species 16230 16233	rat
+T424	Species 16247 16252	plant
+T425	Chemical 16309 16316	11-DDYA
+T426	Chemical 16320 16327	10-DDYA
+T427	Chemical 16347 16352	NADPH
+T428	Biological_Activity 16399 16410	inhibitions
+T429	Biological_Activity 16496 16506	inhibition
+R35	Associated_With Arg1:T426 Arg2:T428	
+R36	Associated_With Arg1:T425 Arg2:T428	
+T430	Chemical 16508 16514	9-DDYA
+T431	Biological_Activity 16531 16540	inhibitor
+R37	Associated_With Arg1:T430 Arg2:T431	
+T432	Biological_Activity 16585 16594	oxidation
+T433	Chemical 16598 16609	lauric acid
+T434	Species 16641 16649	sea bass
+T435	Chemical 16723 16735	ciprofibrate
+T436	Biological_Activity 16736 16743	induces
+R38	Associated_With Arg1:T435 Arg2:T436	
+T437	Species 16772 16785	rainbow trout
+T438	Chemical 16835 16846	gemfibrozil
+T439	Chemical 16856 16878	dehydroepiandrosterone
+T440	Protein 16914 16917	LAH
+T441	Biological_Activity 16918 16926	inducers
+T442	Species 16930 16937	rodents
+R39	Associated_With Arg1:T439 Arg2:T441	
+R40	Associated_With Arg1:T438 Arg2:T441	
+R41	Binds_With Arg1:T439 Arg2:T440	
+R42	Binds_With Arg1:T438 Arg2:T440	
+T443	Species 16975 16982	catfish
+T444	Species 16989 16997	bluegill
+T445	Protein 17034 17040	CYP2K1
+T446	Protein 17045 17051	CYP2M1
+T447	Protein 17052 17056	P450
+T448	Chemical 17098 17106	fibrates
+T449	Chemical 17108 17118	clofibrate
+T450	Chemical 17123 17135	ciprofibrate
+T451	Chemical 17169 17179	clofibrate
+T452	Chemical 17184 17188	DEHP
+T453	Protein 17222 17225	LAH
+T454	Species 17240 17248	sea bass
+T455	Biological_Activity 17222 17225	LAH
+T456	Chemical 17250 17261	Lauric acid
+T457	Biological_Activity 17295 17302	induced
+T458	Species 17306 17314	sea bass
+T459	Chemical 17335 17339	DEHP
+T460	Chemical 17355 17376	ω -hydroxylauric acid
+T461	Metabolite 17355 17376	ω -hydroxylauric acid
+T462	Chemical 17419 17429	clofibrate
+T463	Chemical 17434 17438	DEHP
+T464	Chemical 17490 17500	metabolite
+R43	Metabolite_Of Arg1:T461 Arg2:T456	
+T465	Metabolite 17490 17500	metabolite
+T466	Species 17526 17533	rodents
+T467	Chemical 17609 17620	lauric acid
+T468	Species 17641 17649	sea bass
+T469	Chemical 17724 17741	Methylclofenapate
+T470	Biological_Activity 17746 17759	hypolipidemic
+R44	Associated_With Arg1:T469 Arg2:T470	
+T471	Chemical 17774 17784	clofibrate
+R45	Associated_With Arg1:T471 Arg2:T470	
+T472	Protein 17794 17799	CYP4A
+T473	Species 17808 17812	mice
+T474	Species 17817 17820	rat
+T475	Biological_Activity 17905 17914	induction
+T476	Protein 17918 17923	CYP4A
+T477	Species 17950 17961	guinea-pigs
+T478	Chemical 17973 17990	methylclofenapate
+T479	Species 18099 18106	rodents
+T480	Species 18111 18121	guinea pig
+T481	Species 18129 18139	guinea-pig
+T482	Protein 18141 18144	LAH
+T483	Biological_Activity 18141 18144	LAH
+T484	Chemical 18161 18171	clofibrate
+T485	Species 18180 18188	sea bass
+T486	Biological_Activity 18211 18220	induction
+T487	Chemical 18236 18246	clofibrate
+T488	Chemical 18266 18274	fibrates
+T489	Protein 18331 18335	CYP4
+T490	Biological_Activity 18336 18344	inducers
+T491	Species 18348 18354	rodent
+R46	Associated_With Arg1:T488 Arg2:T490	
+R47	Associated_With Arg1:T487 Arg2:T490	
+R48	Binds_With Arg1:T488 Arg2:T489	
+R49	Binds_With Arg1:T487 Arg2:T489	
+T492	Biological_Activity 18384 18393	induction
+T493	Protein 18397 18400	LAH
+T494	Species 18413 18421	sea bass
+T495	Chemical 18469 18473	DEHP
+T496	Biological_Activity 18498 18505	inducer
+T497	Protein 18509 18512	LAH
+T498	Chemical 18529 18539	clofibrate
+R50	Associated_With Arg1:T495 Arg2:T496	
+R51	Binds_With Arg1:T495 Arg2:T497	
+T499	Protein 18611 18615	P450
+T500	Biological_Activity 18620 18623	LAH
+T501	Protein 18620 18623	LAH
+T502	Species 18638 18646	sea bass
+T503	Protein 18680 18683	LAH
+T505	Biological_Activity 18699 18706	induced
+T506	Species 18710 18718	sea bass
+T508	Chemical 18766 18776	phthalates
+R52	Associated_With Arg1:T508 Arg2:T505	
+R53	Binds_With Arg1:T508 Arg2:T503	
+T507	Chemical 18795 18810	phthalate ester
+T509	Chemical 18811 18823	plasticizers
+T510	Chemical 18853 18879	environmental contaminants
+T511	Biological_Activity 18885 18894	induction
+T504	Protein 18898 18901	LAH
+T512	Species 18916 18920	fish
+T513	Chemical 18931 18941	phthalates
+T514	Chemical 19032 19042	pollutants
+R54	Associated_With Arg1:T513 Arg2:T511	
+R55	Binds_With Arg1:T513 Arg2:T504	
+T515	Chemical 19082 19092	phthalates
+T516	Chemical 19100 19105	water
+T517	Species 19200 19208	sea bass
+T518	Protein 19209 19213	CYP4
+T519	Chemical 19636 19652	dodecynoic acids

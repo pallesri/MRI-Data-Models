@@ -1,0 +1,709 @@
+T1	Biological_Activity 33 42	stimulant
+T2	Chemical 54 62	caffeine
+R1	Associated_With Arg1:T2 Arg2:T1	
+T3	Species 77 84	animals
+T4	Biological_Activity 117 125	blockade
+T5	Protein 129 141;155 164	adenosine A1 receptors
+T6	Protein 150 164	A2A  receptors
+R2	Associated_With Arg1:T2 Arg2:T4	
+R3	Binds_With Arg1:T2 Arg2:T5	
+R4	Binds_With Arg1:T2 Arg2:T6	
+T7	Biological_Activity 195 204	locomotor
+T8	Species 217 224	rodents
+T9	Species 282 289	monkeys
+R5	Associated_With Arg1:T2 Arg2:T7	
+T10	Protein 333 352	adenosine receptors
+T11	Biological_Activity 324 332	blocking
+T12	Chemical 354 362	caffeine
+T13	Biological_Activity 417 425	inhibits
+T14	Protein 442 478	cyclic nucleotide phosphodiesterases
+R6	Binds_With Arg1:T12 Arg2:T10	
+R7	Associated_With Arg1:T12 Arg2:T13	
+R8	Binds_With Arg1:T12 Arg2:T14	
+T15	Biological_Activity 533 543	depressant
+T16	Chemical 569 577	caffeine
+T17	Biological_Activity 609 618	stimulant
+R9	Associated_With Arg1:T16 Arg2:T15	
+T18	Chemical 657 719	9-Chloro-2-(2-furyl)[1,2,4]triazolol[1,5-c ]quinazolin-5-amine
+T19	Chemical 721 730	CGS 15943
+T20	Chemical 735 754	triazoloquinazoline
+T21	Biological_Activity 779 789	antagonist
+T22	Protein 793 812	adenosine receptors
+T23	Protein 866 889	adenosine A2A  receptor
+T24	Protein 899 921	adenosine A1  receptor
+R10	Associated_With Arg1:T19 Arg2:T21	
+R11	Associated_With Arg1:T18 Arg2:T21	
+R12	Binds_With Arg1:T19 Arg2:T22	
+R13	Binds_With Arg1:T18 Arg2:T22	
+R15	Binds_With Arg1:T18 Arg2:T23	
+R14	Binds_With Arg1:T19 Arg2:T23	
+R16	Binds_With Arg1:T18 Arg2:T24	
+R17	Binds_With Arg1:T19 Arg2:T24	
+T25	Chemical 985 994	CGS 15943
+T26	Biological_Activity 1011 1020	stimulant
+T27	Species 1024 1031	animals
+R18	Associated_With Arg1:T25 Arg2:T26	
+T28	Biological_Activity 1067 1076	locomotor
+T29	Species 1089 1093	rats
+T30	Species 1134 1149	squirrel monkey
+T31	Biological_Activity 1186 1194	stimulus
+T32	Chemical 1257 1265	caffeine
+T33	Chemical 1286 1294	caffeine
+T34	Chemical 1296 1305	CGS 15943
+T35	Biological_Activity 1315 1322	inhibit
+T36	Protein 1339 1375	cyclic nucleotide phosphodiesterases
+T37	Chemical 1454 1459	drugs
+T38	Biological_Activity 1495 1503	blockade
+T39	Protein 1507 1526	adenosine receptors
+R19	Associated_With Arg1:T18 Arg2:T26	
+R20	Associated_With Arg1:T18 Arg2:T28	
+R21	Associated_With Arg1:T25 Arg2:T28	
+T40	Protein 1528 1552	Adenosine A2A  receptors
+T41	Protein 1650 1672	dopamine D2  receptors
+T42	Protein 1816 1825	receptors
+T43	Biological_Activity 1834 1851	neurotransmission
+T44	Protein 1864 1891	dopamine D2 -like receptors
+T45	Biological_Activity 1796 1806	activation
+T46	Biological_Activity 1972 1982	activation
+T47	Protein 1986 2009	adenosine A1  receptors
+T48	Biological_Activity 2018 2035	neurotransmission
+T49	Protein 2048 2075	dopamine D1 -like receptors
+T50	Biological_Activity 2161 2170	stimulant
+T51	Chemical 2182 2190	caffeine
+T52	Biological_Activity 2246 2263	neurotransmission
+T53	Chemical 2228 2236	dopamine
+T54	Metabolite 2228 2236	dopamine
+T55	Biological_Activity 2294 2304	modulatory
+T56	Chemical 2318 2327	adenosine
+T57	Metabolite 2318 2327	adenosine
+T58	Biological_Activity 2331 2338	blocked
+R22	Associated_With Arg1:T53 Arg2:T52	
+R23	Associated_With Arg1:T54 Arg2:T52	
+R24	Associated_With Arg1:T57 Arg2:T55	
+R25	Associated_With Arg1:T56 Arg2:T55	
+T59	Chemical 2409 2417	caffeine
+T60	Biological_Activity 2426 2437	stimulation
+T61	Biological_Activity 2445 2454	locomotor
+T62	Species 2467 2471	rats
+T63	Chemical 2486 2565	R (+)-7-chloro-8-hydroxy-3-methyl-1-phenyl-2,3,4,5-tetrahydro-1H -3-benzazepine
+T64	Chemical 2567 2576	SCH 23390
+T65	Chemical 2582 2593	eticlopride
+T66	Biological_Activity 2625 2636	antagonists
+T67	Protein 2655 2666;2688 2697	dopamine D1 receptors
+T68	Protein 2655 2663;2672 2676;2688 2697	dopamine D2   receptors
+R26	Associated_With Arg1:T63 Arg2:T60	
+T69	Biological_Activity 2475 2482	blocked
+R27	Associated_With Arg1:T63 Arg2:T61	
+R28	Associated_With Arg1:T63 Arg2:T69	
+R29	Associated_With Arg1:T64 Arg2:T69	
+R30	Associated_With Arg1:T64 Arg2:T61	
+R31	Associated_With Arg1:T64 Arg2:T60	
+R32	Associated_With Arg1:T65 Arg2:T69	
+R33	Associated_With Arg1:T65 Arg2:T61	
+R34	Associated_With Arg1:T65 Arg2:T60	
+R35	Associated_With Arg1:T65 Arg2:T66	
+R36	Associated_With Arg1:T64 Arg2:T66	
+R37	Associated_With Arg1:T63 Arg2:T66	
+R38	Binds_With Arg1:T65 Arg2:T68	
+R39	Binds_With Arg1:T64 Arg2:T67	
+R40	Binds_With Arg1:T63 Arg2:T67	
+R41	Binds_With Arg1:T65 Arg2:T68	
+R42	Binds_With Arg1:T64 Arg2:T68	
+R43	Binds_With Arg1:T63 Arg2:T68	
+T70	Species 2726 2730	rats
+T71	Chemical 2760 2768	caffeine
+T72	Biological_Activity 2835 2845	stimulants
+T73	Chemical 2855 2862	cocaine
+T74	Chemical 2867 2878	amphetamine
+R44	Associated_With Arg1:T73 Arg2:T72	
+R45	Associated_With Arg1:T74 Arg2:T72	
+T75	Chemical 2910 2915	drugs
+T76	Chemical 2982 2990	dopamine
+T77	Metabolite 2982 2990	dopamine
+T78	Species 3043 3047	rats
+T79	Biological_Activity 3078 3087	CGS 15943
+T80	Species 3101 3108	monkeys
+T81	Chemical 3124 3133	CGS 15943
+T82	Chemical 3159 3167	caffeine
+T83	Chemical 3252 3260	dopamine
+T84	Metabolite 3252 3260	dopamine
+T85	Biological_Activity 3283 3291	stimulus
+T86	Chemical 3303 3312	CGS 15943
+T87	Species 3316 3332	squirrel monkeys
+T88	Species 3334 3341	Monkeys
+T89	Chemical 3367 3376	CGS 15943
+T90	Biological_Activity 3408 3416	stimulus
+T91	Protein 3435 3452	dopamine receptor
+T92	Biological_Activity 3453 3461	agonists
+T93	Chemical 3536 3541	drugs
+T94	Chemical 3551 3558	cocaine
+T95	Chemical 3563 3574	amphetamine
+T96	Chemical 3596 3605	monoamine
+T97	Chemical 3629 3637	dopamine
+T98	Metabolite 3629 3637	dopamine
+R46	Associated_With Arg1:T95 Arg2:T92	
+R47	Associated_With Arg1:T94 Arg2:T92	
+R48	Binds_With Arg1:T95 Arg2:T91	
+R49	Binds_With Arg1:T94 Arg2:T91	
+T99	Species 3654 3661	monkeys
+T100	Biological_Activity 3683 3691	stimulus
+T101	Biological_Activity 3720 3730	inhibitors
+T102	Protein 3802 3820	monoamine-receptor
+T103	Biological_Activity 3821 3832	antagonists
+T104	Chemical 3893 3902	CGS 15943
+T105	Chemical 3924 3932	Morphine
+T106	Chemical 3937 3950	phencyclidine
+T107	Chemical 3966 3971	drugs
+T108	Chemical 4001 4013	nonmonoamine
+T109	Species 4142 4158	squirrel monkeys
+T110	Species 4160 4176	Saimiri sciureus
+T111	Species 4191 4194	S85
+T112	Species 4196 4199	S88
+T113	Species 4201 4204	S90
+T114	Species 4209 4212	S92
+T115	Chemical 4290 4299	CGS 15943
+T116	Chemical 4374 4388	methylxanthine
+T117	Chemical 4374 4400	methylxanthine derivatives
+T118	Species 4455 4462	monkeys
+T119	Chemical 4547 4552	water
+T120	Species 4643 4650	monkeys
+T121	Species 4739 4746	Animals
+T122	Species 4847 4853	Animal
+T123	Species 4917 4924	monkeys
+T124	Species 5217 5223	monkey
+T125	Species 5311 5317	monkey
+T126	Species 5386 5392	monkey
+T127	Species 5800 5806	monkey
+T128	Biological_Activity 6144 6152	stimulus
+T129	Species 6311 6317	monkey
+T130	Biological_Activity 6627 6634	stimuli
+T131	Species 6680 6687	monkeys
+T132	Chemical 6904 6908	drug
+T133	Species 6937 6944	monkeys
+T134	Biological_Activity 7154 7162	stimulus
+T135	Chemical 7187 7191	drug
+T136	Chemical 7360 7369	CGS 15943
+T137	Chemical 7398 7413	methylcellulose
+T138	Chemical 7424 7439	methylcellulose
+T139	Species 7500 7504	drug
+T140	Species 7565 7571	monkey
+T141	Chemical 7791 7796	Drugs
+T142	Biological_Activity 7813 7821	stimulus
+T143	Species 7890 7896	monkey
+T144	Biological_Activity 7955 7966	antagonists
+T145	Chemical 8000 8009	CGS 15943
+T146	Biological_Activity 8064 8075	antagonists
+T147	Chemical 8129 8138	CGS 15943
+T148	Chemical 8186 8190	drug
+T149	Chemical 8286 8290	drug
+T150	Chemical 8389 8394	drugs
+T151	Chemical 8472 8476	drug
+T152	Species 8493 8499	monkey
+T153	Chemical 8506 8511	Drugs
+T154	Chemical 8526 8531	drugs
+T155	Chemical 8570 8580	CGS 15943,
+T156	Chemical 8581 8606	apomorphine hydrochloride
+T157	Chemical 8608 8672	(±)-1-phenyl-2,3,4,5-tetrahydro-(1H )-3-benzazepine-7,8-diol HCl
+T158	Chemical 8674 8683	SKF 38393
+T159	Chemical 8686 8726	R (−)-propylnorapomorphine hydrochloride
+T160	Chemical 8728 8731	NPA
+T161	Chemical 8734 8762	(−)-quinpirole hydrochloride
+T162	Chemical 8764 8837	(±)-N -allyl-1-phenyl-2,3,4,5-tetrahydro-(1H )-3-benzazepine-7,8-diol HBr
+T163	Chemical 8839 8852	(±)-SKF 77434
+T164	Chemical 8855 8929	1-[2-[bis(4-fluorophenyl)methoxy]ethyl]-4-[3-phenylpropyl]piperazine diHCl
+T165	Chemical 8931 8940	GBR 12909
+T166	Chemical 8943 9026	R (+)-7-chloro-8-hydroxy-3-methyl-1-phenyl-2,3,4,5-tetrahydro-1H -3-benzazepine HCl
+T167	Chemical 9028 9043	R (+)-SCH 23390
+T168	Chemical 9046 9077	S (−)-eticlopride hydrochloride
+T169	Chemical 9082 9101	ketanserin tartrate
+T170	Chemical 9103 9125	d -Amphetamine sulfate
+T171	Chemical 9130 9159	phentolamine methanesulfonate
+T172	Chemical 9203 9219	morphine sulfate
+T173	Chemical 9259 9280	cocaine hydrochloride
+T174	Chemical 9285 9312	phencyclidine hydrochloride
+T175	Chemical 9314 9317	PCP
+T176	Chemical 9362 9366	Drug
+T177	Chemical 9394 9418	nisoxetine hydrochloride
+T178	Chemical 9423 9447	fluoxetine hydrochloride
+T179	Chemical 9507 9516	CGS 15943
+T180	Chemical 9537 9552	methylcellulose
+T181	Chemical 9589 9600	Amphetamine
+T182	Chemical 9602 9609	cocaine
+T183	Chemical 9611 9614	NPA
+T184	Chemical 9616 9626	quinpirole
+T185	Chemical 9628 9639	eticlopride
+T186	Chemical 9641 9650	SCH 23390
+T187	Chemical 9652 9660	morphine
+T188	Chemical 9665 9678	phencyclidine
+T189	Chemical 9702 9708	saline
+T190	Chemical 9719 9728	SKF 38393
+T191	Chemical 9730 9739	SKF 77434
+T192	Chemical 9741 9751	nisoxetine
+T193	Chemical 9753 9763	fluoxetine
+T194	Chemical 9765 9777	phentolamine
+T195	Chemical 9782 9792	ketanserin
+T196	Chemical 9821 9826	water
+T197	Chemical 9828 9839	Apomorphine
+T198	Chemical 9867 9872	water
+T199	Chemical 9889 9902	ascorbic acid
+T200	Chemical 9907 9916	GBR 12909
+T201	Chemical 9943 9960	dimethylsulfoxide
+T202	Chemical 9987 9992	water
+T203	Chemical 9994 9999	Drugs
+T204	Chemical 10093 10097	drug
+T205	Chemical 10117 10126	free base
+T206	Chemical 10222 10231	CGS 15943
+T207	Chemical 10340 10355	methylcellulose
+T208	Chemical 10394 10398	drug
+T209	Chemical 10449 10458	CGS 15943
+T210	Species 10537 10543	animal
+T211	Biological_Activity 10594 10602	stimulus
+T212	Chemical 10811 10815	drug
+T213	Chemical 10856 10865	CGS 15943
+T214	Chemical 10891 10900	CGS 15943
+T215	Chemical 11094 11099	drugs
+T216	Species 11287 11294	monkeys
+T217	Chemical 11311 11315	drug
+T218	Chemical 11510 11524	methylxanthine
+T219	Chemical 11510 11536	methylxanthine derivatives
+T220	Biological_Activity 11616 11624	stimulus
+T221	Chemical 11651 11660	CGS 15943
+T222	Species 11682 11689	monkeys
+T223	Chemical 11715 11724	CGS 15943
+T224	Chemical 11756 11761	drugs
+T225	Chemical 11852 11861	CGS 15943
+T226	Chemical 11925 11929	drug
+T227	Species 11980 11987	monkeys
+T228	Protein 12045 12062	dopamine receptor
+T229	Biological_Activity 12063 12071	agonists
+T230	Chemical 12090 12101	apomorphine
+T231	Chemical 12103 12114	amphetamine
+T232	Chemical 12119 12126	cocaine
+T233	Chemical 12138 12148	SKF 38303,
+T234	Chemical 12149 12158	SKF 77434
+T235	Chemical 12160 12170	quinpirole
+T236	Chemical 12175 12178	NPA
+T237	Chemical 12195 12204	GBR 12909
+R50	Associated_With Arg1:T230 Arg2:T229	
+R51	Associated_With Arg1:T231 Arg2:T229	
+R52	Associated_With Arg1:T232 Arg2:T229	
+R53	Associated_With Arg1:T233 Arg2:T229	
+R54	Associated_With Arg1:T234 Arg2:T229	
+R55	Associated_With Arg1:T235 Arg2:T229	
+R56	Associated_With Arg1:T236 Arg2:T229	
+R57	Associated_With Arg1:T237 Arg2:T229	
+R58	Binds_With Arg1:T230 Arg2:T228	
+R59	Binds_With Arg1:T231 Arg2:T228	
+R60	Binds_With Arg1:T232 Arg2:T228	
+R61	Binds_With Arg1:T233 Arg2:T228	
+R62	Binds_With Arg1:T234 Arg2:T228	
+R63	Binds_With Arg1:T235 Arg2:T228	
+R64	Binds_With Arg1:T236 Arg2:T228	
+R65	Binds_With Arg1:T237 Arg2:T228	
+T238	Protein 12231 12252	dopamine D1  receptor
+T239	Biological_Activity 12253 12260	agonist
+T240	Chemical 12261 12270	SKF 77434
+R66	Associated_With Arg1:T240 Arg2:T239	
+R67	Binds_With Arg1:T240 Arg2:T238	
+T241	Biological_Activity 12309 12324	dopamine uptake
+T242	Biological_Activity 12325 12334	inhibitor
+T243	Chemical 12335 12344	GBR 12909
+R68	Associated_With Arg1:T243 Arg2:T242	
+R69	Associated_With Arg1:T243 Arg2:T241	
+T244	Chemical 12395 12404	SKF 77434
+T245	Chemical 12435 12444	CGS 15943
+T246	Chemical 12453 12462	GBR 12909
+T247	Protein 12576 12593	dopamine receptor
+T248	Biological_Activity 12594 12602	agonists
+T249	Species 12621 12624	S90
+T250	Species 12648 12654	monkey
+T251	Biological_Activity 12667 12675	stimulus
+T252	Protein 12711 12728	dopamine receptor
+T253	Biological_Activity 12729 12737	agonists
+T254	Species 12742 12748	monkey
+T255	Species 12742 12752	monkey S92
+T256	Chemical 12806 12813	cocaine
+T257	Chemical 12828 12837	SKF 38393
+T258	Chemical 12930 12941	apomorphine
+T259	Biological_Activity 12943 12951	agonists
+T260	Protein 12966 12977;12986 12995	dopamine D1 receptors
+T261	Protein 12966 12974;12982 12995	dopamine D2  receptors
+T262	Chemical 12997 13008	amphetamine
+T263	Chemical 13013 13020	cocaine
+T264	Chemical 13087 13092	drugs
+T265	Chemical 13129 13138	GBR 12909
+T266	Chemical 13144 13153	SKF 77434
+T267	Chemical 13158 13169	amphetamine
+T268	Chemical 13206 13215	CGS 15943
+T269	Species 13232 13239	monkeys
+T270	Chemical 13296 13301	drugs
+T271	Chemical 13314 13323	monoamine
+T272	Biological_Activity 13324 13340	neurotransmitter
+T273	Chemical 13360 13368	dopamine
+T274	Chemical 13370 13380	fluoxetine
+T275	Biological_Activity 13394 13403	inhibitor
+T276	Chemical 13411 13420	serotonin
+T278	Chemical 13447 13457	nisoxetine
+T279	Biological_Activity 13471 13480	inhibitor
+T280	Chemical 13488 13502	norepinephrine
+R70	Associated_With Arg1:T274 Arg2:T275	
+R72	Associated_With Arg1:T278 Arg2:T279	
+T282	Chemical 13535 13545	Nisoxetine
+T283	Chemical 13581 13590	GBR 12909
+T284	Chemical 13623 13632	CGS 15943
+T285	Chemical 13682 13692	fluoxetine
+T286	Chemical 13731 13741	nisoxetine
+T287	Chemical 13745 13754	GBR 12909
+T288	Chemical 13788 13796	morphine
+T289	Chemical 13817 13830	phencyclidine
+T290	Chemical 13871 13880	CGS 15943
+T291	Chemical 13933 13937	drug
+T292	Species 14042 14049	monkeys
+T293	Biological_Activity 14011 14027	motor impairment
+T294	Chemical 14112 14121	CGS 15943
+T295	Biological_Activity 14127 14134	blocked
+T296	Species 14165 14172	monkeys
+T297	Protein 14189 14210	dopamine D1  receptor
+T298	Biological_Activity 14211 14221	antagonist
+T299	Chemical 14222 14231	SCH 23390
+T300	Protein 14237 14258	dopamine D2  receptor
+T301	Biological_Activity 14259 14269	antagonist
+T302	Chemical 14270 14281	eticlopride
+T303	Protein 14290 14313	5-HT2 /5-HT1C  receptor
+T304	Biological_Activity 14314 14324	antagonist
+T305	Chemical 14325 14335	ketanserin
+R71	Associated_With Arg1:T299 Arg2:T298	
+R73	Binds_With Arg1:T299 Arg2:T297	
+R74	Associated_With Arg1:T302 Arg2:T301	
+R75	Binds_With Arg1:T302 Arg2:T300	
+R76	Associated_With Arg1:T305 Arg2:T304	
+R77	Binds_With Arg1:T305 Arg2:T303	
+T306	Chemical 14348 14357	SCH 23390
+T307	Biological_Activity 14387 14397	antagonist
+T308	Biological_Activity 14412 14420	blocking
+T309	Chemical 14451 14460	CGS 15943
+T310	Species 14533 14539	monkey
+T311	Biological_Activity 14587 14598	antagonists
+T312	Chemical 14633 14642	SCH 23390
+T313	Chemical 14672 14683	eticlopride
+T314	Chemical 14717 14727	ketanserin
+T315	Chemical 14753 14762	SCH 23390
+T316	Chemical 14795 14806	eticlopride
+T317	Chemical 14838 14848	ketanserin
+T318	Biological_Activity 14852 14864	antagonizing
+T319	Chemical 14916 14925	CGS 15943
+T320	Protein 14962 14976	α-adrenoceptor
+T321	Biological_Activity 14977 14987	antagonist
+T322	Chemical 14988 15000	phentolamine
+R78	Associated_With Arg1:T322 Arg2:T321	
+R79	Binds_With Arg1:T322 Arg2:T320	
+T323	Chemical 15039 15048	CGS 15943
+T324	Biological_Activity 15001 15008	blocked
+T325	Biological_Activity 3377 3391	discrimination
+T326	Biological_Activity 7332 7346	discrimination
+T327	Biological_Activity 10147 10161	Discrimination
+T328	Biological_Activity 2922 2936	discriminative
+T329	Biological_Activity 3268 3282	discriminative
+T330	Biological_Activity 3846 3860	discriminative
+T331	Biological_Activity 7974 7988	discriminative
+T332	Biological_Activity 14055 14069	discriminative
+T333	Biological_Activity 14425 14439	discriminative
+T334	Biological_Activity 14869 14883	discriminative
+R80	Associated_With Arg1:T299 Arg2:T295	
+R81	Associated_With Arg1:T299 Arg2:T332	
+R82	Associated_With Arg1:T302 Arg2:T295	
+R83	Associated_With Arg1:T302 Arg2:T332	
+R84	Associated_With Arg1:T305 Arg2:T295	
+R85	Associated_With Arg1:T305 Arg2:T332	
+R86	Associated_With Arg1:T309 Arg2:T333	
+T335	Biological_Activity 15013 15027	discriminative
+T336	Chemical 15218 15226	dopamine
+T337	Metabolite 15218 15226	dopamine
+T338	Biological_Activity 15244 15258	discriminative
+T339	Biological_Activity 15259 15267	stimulus
+T340	Chemical 15279 15288	CGS 15943
+T341	Species 15292 15308	squirrel monkeys
+T342	Chemical 15310 15319	CGS 15943
+T343	Protein 15381 15398	dopamine receptor
+T344	Biological_Activity 15399 15407	agonists
+T345	Biological_Activity 15416 15430	discriminative
+T346	Biological_Activity 15444 15451	blocked
+T347	Protein 15500 15517	dopamine receptor
+T348	Biological_Activity 15518 15529	antagonists
+R87	Associated_With Arg1:T342 Arg2:T345	
+T349	Chemical 15577 15585	dopamine
+T350	Metabolite 15577 15585	dopamine
+T351	Biological_Activity 15605 15619	discriminative
+T352	Chemical 15654 15662	caffeine
+T353	Biological_Activity 15674 15685	stimulation
+T354	Biological_Activity 15689 15698	locomotor
+T355	Chemical 15711 15719	caffeine
+T356	Species 15723 15727	rats
+T357	Protein 15899 15917	adenosine receptor
+T358	Biological_Activity 15918 15928	activation
+T359	Chemical 15950 15958	dopamine
+T360	Metabolite 15950 15958	dopamine
+T361	Biological_Activity 15968 15985	neurotransmission
+T362	Protein 16045 16056;16077 16086	dopamine D1 receptors
+T363	Protein 16045 16053;16061 16065;16077 16086	dopamine D2   receptors
+T364	Chemical 16112 16121	CGS 15943
+T365	Biological_Activity 16127 16135	stimulus
+T366	Protein 16161 16182	dopamine D1  receptor
+T367	Biological_Activity 16183 16191	agonists
+T368	Chemical 16192 16201	SKF 77434
+T369	Chemical 16206 16215	SKF 38393
+T370	Protein 16224 16244	dopamine D2  recepto
+T371	Biological_Activity 16246 16254	agonists
+T372	Chemical 16255 16265	quinpirole
+T373	Chemical 16270 16273	NPA
+R88	Associated_With Arg1:T372 Arg2:T371	
+R89	Associated_With Arg1:T373 Arg2:T371	
+R90	Binds_With Arg1:T372 Arg2:T370	
+R91	Binds_With Arg1:T373 Arg2:T370	
+R92	Associated_With Arg1:T368 Arg2:T367	
+R93	Binds_With Arg1:T368 Arg2:T366	
+R94	Associated_With Arg1:T369 Arg2:T367	
+R95	Binds_With Arg1:T369 Arg2:T366	
+T374	Biological_Activity 16323 16337	discriminative
+T375	Chemical 16349 16358	CGS 15943
+T376	Biological_Activity 16364 16371	blocked
+T377	Protein 16405 16426	dopamine D1  receptor
+T378	Biological_Activity 16427 16437	antagonist
+T379	Chemical 16438 16447	SCH 23390
+T380	Protein 16455 16476	dopamine D2  receptor
+T381	Biological_Activity 16477 16487	antagonist
+T382	Chemical 16488 16499	eticlopride
+T383	Protein 16522 16539	dopamine receptor
+T384	Biological_Activity 16540 16551	antagonists
+T385	Biological_Activity 16590 16601	suppression
+T386	Species 16645 16652	monkeys
+T387	Chemical 16741 16750	CGS 15943
+T388	Biological_Activity 16837 16845	stimulus
+T389	Biological_Activity 16865 16875	antagonism
+T390	Species 16885 16901	squirrel monkeys
+T391	Biological_Activity 16902 16916	discriminating
+T392	Protein 16935 16952	dopamine receptor
+T393	Biological_Activity 16953 16961	agonists
+T394	Chemical 16971 16978	cocaine
+T395	Chemical 17047 17062	methamphetamine
+T396	Chemical 17005 17014	GBR 12909
+R96	Associated_With Arg1:T395 Arg2:T393	
+R97	Binds_With Arg1:T395 Arg2:T392	
+T397	Chemical 17091 17099	Dopamine
+T398	Metabolite 17091 17099	Dopamine
+T399	Chemical 17116 17125	monoamine
+T400	Biological_Activity 17161 17175	discriminative
+T401	Chemical 17187 17196	CGS 15943
+T402	Species 17202 17209	monkeys
+T403	Chemical 17250 17260	nisoxetine
+T404	Biological_Activity 17274 17283	inhibitor
+T405	Protein 17291 17326	neuronal norepinephrine transporter
+T277	Protein 13411 13441	serotonin neuronal transporter
+T281	Protein 13488 13523	norepinephrine neuronal transporter
+R98	Binds_With Arg1:T274 Arg2:T277	
+R99	Binds_With Arg1:T278 Arg2:T281	
+T406	Chemical 17300 17314	norepinephrine
+T407	Biological_Activity 17396 17410	discriminative
+T408	Chemical 17445 17453	caffeine
+T409	Species 17457 17461	rats
+T410	Biological_Activity 17487 17500	noradrenergic
+T411	Species 17530 17537	Monkeys
+T412	Biological_Activity 17538 17552	discriminating
+T413	Chemical 17553 17564	amphetamine
+T414	Species 17600 17607	monkeys
+T415	Species 17630 17634	rats
+T416	Biological_Activity 17657 17671	discriminating
+T417	Chemical 17686 17693	cocaine
+T418	Chemical 17744 17754	nisoxetine
+T419	Chemical 17793 17803	nisoxetine
+T420	Chemical 17808 17817	CGS 15943
+T421	Chemical 17836 17848	phentolamine
+T422	Protein 17853 17867	α-adrenoceptor
+T423	Biological_Activity 17868 17878	antagonist
+T424	Biological_Activity 17893 17907	discriminative
+T425	Chemical 17932 17936	drug
+R100	Associated_With Arg1:T322 Arg2:T324	
+R101	Associated_With Arg1:T322 Arg2:T335	
+T426	Biological_Activity 17969 17983	discriminative
+T427	Chemical 17995 18004	CGS 15943
+T428	Chemical 18033 18041	caffeine
+T429	Species 18045 18049	rats
+T430	Chemical 18051 18063	phentolamine
+T431	Biological_Activity 18064 18071	blocked
+T432	Biological_Activity 18076 18090	discriminative
+T433	Chemical 18108 18116	caffeine
+T434	Chemical 18209 18221	phentolamine
+T435	Biological_Activity 18230 18235	block
+T436	Biological_Activity 18240 18254	discriminative
+T437	Chemical 18273 18284	amphetamine
+T438	Chemical 18288 18295	cocaine
+T439	Species 18299 18306	monkeys
+T440	Chemical 18330 18340	nisoxetine
+T441	Chemical 18371 18376	drugs
+T442	Chemical 18557 18569	phentolamine
+T443	Species 18573 18577	rats
+T444	Species 18582 18589	monkeys
+T445	Biological_Activity 18643 18657	discriminative
+T446	Species 18682 18690	blockade
+T447	Protein 18694 18713	adenosine receptors
+T448	Protein 18767 18769;18776 18788	α- adrenoceptor
+T449	Protein 18774 18788	β-adrenoceptor
+T450	Biological_Activity 18789 18799	activation
+T451	Chemical 18832 18837	drugs
+T452	Chemical 18898 18906	caffeine
+T453	Biological_Activity 18923 18933	inhibition
+T454	Protein 18937 18955	phosphodiesterases
+T455	Biological_Activity 18970 18983	noradrenergic
+T456	Biological_Activity 19011 19019	stimulus
+T457	Chemical 19048 19052	drug
+T458	Biological_Activity 19069 19086	noradrenergically
+T459	Biological_Activity 19096 19113	neurotransmission
+T460	Biological_Activity 19147 19155	stimulus
+T461	Chemical 19167 19176	CGS 15943
+T462	Chemical 19198 19209	amphetamine
+T463	Chemical 19214 19221	cocaine
+T464	Biological_Activity 19248 19256	stimulus
+T465	Chemical 19280 19289	CGS 15943
+T466	Chemical 19299 19308	monoamine
+T467	Biological_Activity 19344 19358	discriminative
+T468	Chemical 19370 19379	CGS 15943
+T469	Chemical 19383 19392	serotonin
+R102	Associated_With Arg1:T469 Arg2:T467	
+T470	Biological_Activity 19398 19412	discriminative
+T471	Chemical 19424 19433	CGS 15943
+T472	Species 19478 19485	monkeys
+T473	Chemical 19490 19500	fluoxetine
+T474	Biological_Activity 19514 19523	inhibitor
+T475	Chemical 3757 3771	norepinephrine
+T476	Chemical 3776 3785	serotonin
+T477	Biological_Activity 3747 3771	uptake of norepinephrine
+T478	Biological_Activity 3747 3756;3776 3785	uptake of serotonin
+T479	Biological_Activity 19527 19543	serotonin uptake
+T480	Chemical 19527 19536	serotonin
+R103	Associated_With Arg1:T473 Arg2:T474	
+R104	Associated_With Arg1:T473 Arg2:T479	
+T481	Biological_Activity 19565 19572	blocked
+T482	Chemical 19576 19586	ketanserin
+T483	Protein 19590 19605	5-HT2  receptor
+T484	Biological_Activity 19606 19616	antagonist
+R105	Associated_With Arg1:T482 Arg2:T481	
+R106	Associated_With Arg1:T482 Arg2:T484	
+R107	Binds_With Arg1:T482 Arg2:T483	
+T485	Biological_Activity 19663 19675	serotonergic
+T486	Chemical 19696 19704	dopamine
+T487	Metabolite 19696 19704	dopamine
+T488	Biological_Activity 19714 19724	Activation
+T489	Protein 19728 19747	serotonin receptors
+T490	Chemical 19762 19770	dopamine
+T491	Metabolite 19762 19770	dopamine
+T492	Biological_Activity 19752 19761	stimulate
+T493	Biological_Activity 19847 19859	serotonergic
+T494	Biological_Activity 19899 19913	discriminative
+T495	Biological_Activity 19930 19938	stimulus
+T496	Biological_Activity 19962 19971	stimulant
+T497	Chemical 19972 19977	drugs
+T498	Chemical 19987 19994	cocaine
+T499	Chemical 20065 20075	fluoxetine
+T500	Species 20079 20086	monkeys
+T501	Biological_Activity 20087 20101	discriminating
+T502	Chemical 20102 20111	CGS 15943
+T503	Biological_Activity 20123 20141	serotonin reuptake
+T504	Chemical 20123 20132	serotonin
+T505	Biological_Activity 20142 20152	inhibitors
+T506	Chemical 20179 20186	cocaine
+T507	Chemical 20223 20230	cocaine
+T508	Biological_Activity 20308 20316	stimulus
+T509	Chemical 20361 20366	drugs
+T510	Chemical 20521 20530	CGS 15943
+T511	Biological_Activity 20573 20587	discrimination
+T512	Chemical 20689 20698	SKF 38393
+T513	Chemical 20703 20713	SKF 77494,
+T514	Biological_Activity 20737 20745	agonists
+T515	Protein 20749 20771	dopamine D1  receptors
+T516	Chemical 20850 20860	CGS 15943.
+T517	Chemical 20874 20883	SKF 38393
+T518	Chemical 20902 20906	drug
+T519	Species 20933 20949	squirrel monkeys
+T520	Biological_Activity 20961 20973	discriminate
+T521	Chemical 20974 20983	SKF 81297
+T522	Protein 21001 21022	dopamine D1  receptor
+T523	Biological_Activity 21023 21030	agonist
+R108	Binds_With Arg1:T521 Arg2:T522	
+R109	Associated_With Arg1:T521 Arg2:T523	
+T524	Chemical 21092 21099	cocaine
+T525	Chemical 21101 21111	nisoxetine
+T526	Chemical 21117 21126	GBR 12909
+T527	Species 21200 21216	squirrel monkeys
+T528	Chemical 21265 21272	cocaine
+T529	Chemical 21307 21311	drug
+T530	Biological_Activity 21354 21368	discriminative
+T531	Chemical 21393 21397	drug
+T532	Chemical 21476 21485	CGS 15943
+T533	Biological_Activity 21512 21520	stimulus
+T534	Chemical 21555 21562	cocaine
+T535	Biological_Activity 21599 21613	discriminative
+T536	Biological_Activity 21614 21622	stimulus
+T537	Species 21696 21703	animals
+T538	Chemical 21743 21748	drugs
+T539	Chemical 21773 21778	drugs
+T540	Biological_Activity 21787 21801	discriminative
+T541	Chemical 21815 21824	CGS 15943
+T542	Biological_Activity 21826 21834	stimulus
+T543	Chemical 21871 21875	drug
+T544	Protein 21926 21943	μ-opioid receptor
+T545	Biological_Activity 21944 21951	agonist
+T546	Chemical 21914 21922	Morphine
+R110	Binds_With Arg1:T546 Arg2:T544	
+R111	Associated_With Arg1:T546 Arg2:T545	
+T547	Chemical 21957 21970	phencyclidine
+T548	Biological_Activity 21989 21999	antagonist
+T549	Protein 22007 22029;22037 22055	N -methyl-d -aspartate glutamate–receptor
+T550	Protein 22031 22035;22037 22055	NMDA glutamate–receptor
+R112	Associated_With Arg1:T547 Arg2:T548	
+R113	Binds_With Arg1:T547 Arg2:T549	
+R114	Binds_With Arg1:T547 Arg2:T550	
+T551	Chemical 22083 22092	CGS 15943
+T552	Species 22181 22197	squirrel monkeys
+T553	Species 22247 22251	Rats
+T554	Biological_Activity 22263 22275	discriminate
+T555	Chemical 22276 22294	magnesium chloride
+T556	Chemical 22300 22306	saline
+T557	Chemical 22337 22344	cocaine
+T558	Biological_Activity 22361 22371	inhibitors
+T559	Biological_Activity 22379 22397	uptake of dopamine
+T560	Chemical 22389 22397	dopamine
+T561	Metabolite 22389 22397	dopamine
+T562	Chemical 22399 22413	norepinephrine
+T563	Chemical 22418 22427	serotonin
+T564	Biological_Activity 22379 22388;22399 22413	uptake of norepinephrine
+T565	Biological_Activity 22379 22388;22418 22427	uptake of serotonin
+T566	Protein 22476 22489	NMDA receptor
+T567	Biological_Activity 22490 22501	antagonists
+T568	Chemical 22462 22465	PCP
+T569	Biological_Activity 22564 22578	discriminative
+T570	Chemical 22590 22608	magnesium chloride
+T571	Biological_Activity 22632 22640	blockade
+T572	Protein 22644 22663	adenosine receptors
+T573	Species 22691 22707	squirrel monkeys
+T574	Biological_Activity 22708 22722	discriminating
+T575	Protein 22726 22744	adenosine receptor
+T576	Biological_Activity 22745 22755	antagonist
+T577	Biological_Activity 22770 22777	inhibit
+T578	Protein 22778 22795	phosphodiesterase
+T579	Biological_Activity 22778 22795	phosphodiesterase
+T580	Chemical 22834 22839	drugs
+T581	Biological_Activity 22845 22850	block
+T582	Protein 22851 22870	adenosine receptors
+T583	Chemical 22902 22907	drugs
+T584	Biological_Activity 22921 22938	neurotransmission
+T585	Chemical 22951 22959	dopamine
+T586	Metabolite 22951 22959	dopamine
+T587	Chemical 22961 22975	norepinephrine
+T588	Chemical 22981 22990	serotonin
+T589	Chemical 23016 23020	drug
+T590	Biological_Activity 23021 23035	discrimination
+T591	Chemical 23105 23114	adenosine
+T592	Chemical 23119 23128	monoamine
+T593	Chemical 23304 23314	nisoxetine
+T594	Chemical 23319 23329	fluoxetine
+T595	Chemical 23438 23442	Drug

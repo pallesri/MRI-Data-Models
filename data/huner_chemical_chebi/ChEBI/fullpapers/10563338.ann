@@ -1,0 +1,193 @@
+T1	Species 38 44	fungal
+T2	Biological_Activity 45 55	inhibitors
+T3	Protein 59 89	serine palmitoyl-   transferas
+T4	Protein 92 118	3-ketosphinganine synthase
+T5	Protein 120 189	[palmitoyl-CoA: L-serine C-pal-   mitoyltransferase (decarboxylating)
+T6	Protein 191 201	EC 2.31.50
+T7	Protein 214 220	enzyme
+T8	Chemical 254 263	ceramides
+T9	Chemical 281 294	sphingolipids
+T10	Metabolite 254 263	ceramides
+T11	Metabolite 281 294	sphingolipids
+T13	Chemical 662 674	sphingolipid
+T14	Metabolite 662 674	sphingolipid
+T15	Biological_Activity 675 685	inhibition
+T16	Chemical 735 749	australifungin
+T17	Protein 798 805	peptone
+T18	Chemical 880 894	australifungin
+T19	Chemical 936 951	sphingoid bases
+T20	Chemical 976 990	australifungin
+T21	Biological_Activity 1019 1029	inhibition
+T22	Chemical 1058 1072	sphingoid base
+T23	Chemical 626 640	casamino acids
+T12	Protein 1076 1103	Serine Palmitolytransferase
+T24	Biological_Activity 1104 1116	Inhibitors  
+T25	Chemical 1117 1131	Viridiofungins
+T26	Protein 1197 1224	serine palmitoyltransferase
+T27	Biological_Activity 1225 1235	inhibition
+T28	Chemical 1243 1256	sphingofungin
+T29	Chemical 1257 1267	myriocin  
+R1	Associated_With Arg1:T25 Arg2:T24	
+R2	Binds_With Arg1:T25 Arg2:T12	
+R3	Associated_With Arg1:T28 Arg2:T27	
+R4	Binds_With Arg1:T28 Arg2:T26	
+R5	Associated_With Arg1:T29 Arg2:T27	
+R6	Binds_With Arg1:T29 Arg2:T26	
+T30	Chemical 1288 1302	Viridiofungins
+T31	Biological_Activity 1316 1323	inhibit
+T32	Protein 1324 1341	squalene synthase
+T33	Protein 1345 1371	geranyl geranyltransferase
+T34	Protein 1383 1390	enzymes
+T35	Chemical 1413 1415;1426 1442	di carboxylic acids
+T36	Chemical 1423 1442	tricarboxylic acids
+T37	Protein 1494 1523	serine   palmitoyltransferase
+R7	Associated_With Arg1:T30 Arg2:T31	
+R8	Binds_With Arg1:T30 Arg2:T32	
+R9	Binds_With Arg1:T30 Arg2:T33	
+T38	Biological_Activity 1524 1534	inhibition
+T39	Protein 1566 1572	enzyme
+T40	Chemical 1590 1605	viridiofungin A
+T41	Biological_Activity 1623 1633	inhibition
+T42	Chemical 1637 1649	sphingolipid
+T43	Metabolite 1637 1649	sphingolipid
+T44	Species 1685 1696	C. albicans
+T45	Species 1719 1729	inhibition
+T46	Chemical 1733 1741	sterol  
+T47	Metabolite 1733 1741	sterol  
+T48	Biological_Activity 1762 1772	inhibitory
+T49	Chemical 1791 1795	drug
+T50	Chemical 1825 1839	viridiofungins
+T51	Species 1871 1884	Saccharomyces
+T52	Protein 1885 1914	serine   palmitoyltransferase
+T53	Chemical 1934 1946	sphingolipid
+T54	Metabolite 1934 1946	sphingolipid
+T55	Species 1965 1970	yeast
+R10	Isolated_From Arg1:T54 Arg2:T51	
+T56	Biological_Activity 1991 1998	inhibit
+T57	Species 2003 2012	mammalian
+T58	Protein 2013 2019	enzyme
+T59	Chemical 2053 2065	sphingolipid
+T60	Metabolite 2053 2065	sphingolipid
+T61	Biological_Activity 2066 2076	inhibition
+T62	Biological_Activity 2241 2251	INHIBITORS
+T63	Chemical 2255 2267	SPHINGOLIPID
+T64	Biological_Activity 2255 2267	SPHINGOLIPID
+T65	Protein 2292 2325	Inositol Phosphoceramide Synthase
+T66	Biological_Activity 2326 2338	Inhibitors  
+T67	Biological_Activity 2346 2356	inhibitors
+T68	Chemical 2377 2389	sphingolipid
+T69	Metabolite 2377 2389	sphingolipid
+T70	Chemical 2401 2415	khafrefungin  
+T71	Chemical 2420 2429	rustmicin
+T72	Chemical 2467 2472	lipid
+T73	Species 2486 2499	mam-   malian
+T74	Chemical 2542 2551	rustmicin
+T75	Chemical 2556 2570	aureobasidin  
+T76	Species 2595 2601	animal
+T77	Protein 2642 2677	inositol   phosphoceramide synthase
+T78	Species 2683 2689	fungal
+T79	Chemical 2708 2720	Khafrefungin
+T80	Biological_Activity 2794 2804	toxicity  
+T81	Protein 2887 2920	inositol phosphoceramide synthase
+T82	Biological_Activity 2921 2931	inhibitors
+T83	Species 3048 3053	fungi
+T84	Chemical 3070 3079	rustmicin
+T85	Biological_Activity 3164 3176	transporters
+T86	Chemical 3181 3191	chemical  
+T87	Chemical 3239 3248	rustmicin
+T88	Chemical 3342 3355	rust-   micin
+T89	Biological_Activity 3388 3395	inhibit
+T90	Chemical 3396 3415	phosphosphingolipid
+T91	Metabolite 3396 3415	phosphosphingolipid
+T92	Chemical 3443 3451	ceramide
+T93	Metabolite 3443 3451	ceramide
+T94	Species 3455 3460	fungi
+T95	Biological_Activity 3609 3619	inhibitors
+T96	Chemical 3623 3635	sphingolipid
+T97	Metabolite 3623 3635	sphingolipid
+T98	Biological_Activity 3697 3707	inhibitors
+T99	Chemical 3711 3723	sphingolipid
+T100	Metabolite 3711 3723	sphingolipid
+T101	Chemical 3735 3749	Australifungin
+T102	Chemical 3751 3765	viridiofungins
+T103	Chemical 3767 3776	rustmicin
+T104	Chemical 3782 3794	khafrefungin
+T105	Chemical 3849 3861	Sphingolipid
+T106	Metabolite 3849 3861	Sphingolipid
+T107	Species 3899 3904	yeast
+T108	Biological_Activity 3913 3923	pathogenic
+T109	Species 3924 3929	fungi
+T110	Species 3958 3963	human
+T111	Species 4058 4063	human
+T112	Species 4068 4074	fungal
+T113	Chemical 4075 4087	sphingolipid
+T114	Metabolite 4075 4087	sphingolipid
+T115	Protein 4140 4147	enzymes
+T116	Species 4166 4171	fungi
+T117	Biological_Activity 4243 4254	antifungals
+T118	Chemical 4305 4321	natural products
+T119	Metabolite 4305 4321	natural products
+T120	Biological_Activity 4364 4374	inhibitors
+T121	Chemical 4378 4390	sphingolipid
+T122	Metabolite 4378 4390	sphingolipid
+T123	Chemical 4402 4417	Natural product
+T124	Metabolite 4402 4417	Natural product
+T125	Protein 4447 4454	enzymes
+T126	Chemical 4467 4479	sphingolipid
+T127	Metabolite 4467 4479	sphingolipid
+T128	Chemical 4512 4526	sphingofungins
+T129	Chemical 4528 4539	lipoxamycin
+T130	Chemical 4541 4549	myriocin
+T131	Chemical 4550 4554	ISP1
+T132	Chemical 4560 4574	viridiofungins
+T133	Biological_Activity 4575 4582	inhibit
+T134	Protein 4583 4610	serine palmitoyltransferase
+R11	Associated_With Arg1:T132 Arg2:T133	
+R12	Associated_With Arg1:T131 Arg2:T133	
+R13	Associated_With Arg1:T130 Arg2:T133	
+R14	Associated_With Arg1:T129 Arg2:T133	
+R15	Associated_With Arg1:T128 Arg2:T133	
+R16	Binds_With Arg1:T132 Arg2:T134	
+R17	Binds_With Arg1:T131 Arg2:T134	
+R18	Binds_With Arg1:T130 Arg2:T134	
+R19	Binds_With Arg1:T129 Arg2:T134	
+R20	Binds_With Arg1:T128 Arg2:T134	
+T135	Chemical 4612 4624	fumonisin B1
+T136	Chemical 4629 4643	australifungin
+T137	Biological_Activity 4645 4652	inhibit
+T138	Protein 4653 4670	ceramide synthase
+R21	Associated_With Arg1:T136 Arg2:T137	
+R22	Associated_With Arg1:T135 Arg2:T137	
+R23	Binds_With Arg1:T136 Arg2:T138	
+R24	Binds_With Arg1:T135 Arg2:T138	
+T139	Chemical 4672 4685	aureobasidins
+T140	Chemical 4687 4699	khafrefungin
+T141	Chemical 4705 4714	rustmicin
+T142	Biological_Activity 4715 4722	inhibit
+T143	Protein 4723 4756	inositol phosphoceramide synthase
+R25	Associated_With Arg1:T139 Arg2:T142	
+R26	Associated_With Arg1:T140 Arg2:T142	
+R27	Associated_With Arg1:T141 Arg2:T142	
+R28	Binds_With Arg1:T139 Arg2:T143	
+R29	Binds_With Arg1:T140 Arg2:T143	
+R30	Binds_With Arg1:T141 Arg2:T143	
+T144	Chemical 4762 4772	minimoidin
+T145	Biological_Activity 4773 4781	inhibits
+T146	Chemical 4786 4796	fatty acid
+R31	Associated_With Arg1:T144 Arg2:T145	
+T147	Biological_Activity 4846 4856	fungicidal
+T148	Biological_Activity 4894 4904	pathogenic
+T149	Species 4905 4910	fungi
+T150	Biological_Activity 4925 4935	inhibitors
+T151	Chemical 4940 4963	nositol phosphoceramide
+T152	Metabolite 4939 4963	inositol phosphoceramide
+T153	Species 4968 4974	fungal
+T154	Species 5079 5088	mammalian
+T155	Protein 5089 5096	enzymes
+T156	Chemical 5142 5154	sphingolipid
+T157	Metabolite 5142 5154	sphingolipid
+T158	Chemical 5209 5223	australifungin
+T159	Biological_Activity 5155 5165	inhibitors
+T160	Chemical 5275 5289	viridiofungins
+T161	Chemical 5291 5303	khafrefungin
+T162	Chemical 5309 5318	rustmicin

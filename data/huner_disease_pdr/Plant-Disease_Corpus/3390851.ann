@@ -1,0 +1,13 @@
+T1	Disease 0 11	Oral cancer
+T2	Disease 83 95	total cancer
+T4	Disease 394 405	oral cancer
+T5	Disease 503 514	oral cancer
+T6	Plant 162 169	tobacco
+T7	Plant 224 231	tobacco
+T8	Plant 378 385	tobacco
+T9	Plant 569 576	tobacco
+T10	Plant 676 683	tobacco
+T11	Plant 793 800	tobacco
+T12	Cause_of_disease 386 393	related
+E1	Cause_of_disease:T12 Theme:T4 Cause:T8
+T3	Disease 207 219	oral cancers

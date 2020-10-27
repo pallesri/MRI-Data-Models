@@ -1,0 +1,28 @@
+T1	Chemical 0 12	Nitric oxide
+T2	Chemical 14 16	NO
+T3	Protein 22 49	tumor necrosis factor alpha
+T4	Protein 51 60	TNF-alpha
+T7	Chemical 196 217	sesquiterpene lactone
+T8	Chemical 228 249	dehydrocostus lactone
+T9	Metabolite 228 249	dehydrocostus lactone
+T10	Species 286 301	Saussurea lappa
+R3	Isolated_From Arg1:T9 Arg2:T10	
+T11	Biological_Activity 303 312	inhibited
+R4	Associated_With Arg1:T8 Arg2:T11	
+R5	Associated_With Arg1:T9 Arg2:T11	
+T12	Chemical 337 355	lipopolysaccharide
+T13	Chemical 357 360	LPS
+T14	Species 372 381	RAW 264.7
+#1	AnnotatorNotes T14	mURINE CELL LINE
+T15	Protein 413 434	nitric oxide synthase
+T16	Protein 435 441	enzyme
+T17	Biological_Activity 391 402	suppressing
+R6	Associated_With Arg1:T8 Arg2:T17	
+R7	Associated_With Arg1:T9 Arg2:T17	
+T19	Chemical 556 577	dehydrocostus lactone
+T20	Metabolite 556 577	dehydrocostus lactone
+T5	Chemical 331 333	NO
+T6	Protein 487 496	TNF-alpha
+T18	Chemical 506 509	LPS
+T21	Chemical 697 699	NO
+T22	Protein 704 713	TNF-alpha

@@ -1,0 +1,26 @@
+T1	Disease 48 54	cancer
+T2	Disease 147 153	cancer
+T3	Disease 342 348	cancer
+T4	Disease 413 419	cancer
+T5	Disease 754 787	complete of the Portuguese cancer
+T6	Disease 987 993	cancer
+T7	Disease 1087 1093	cancer
+T8	Disease 1126 1132	cancer
+T9	Disease 1165 1171	cancer
+T10	Disease 1220 1227	cancers
+T11	Disease 1318 1331	breast cancer
+T12	Disease 1351 1357	cancer
+T13	Disease 1377 1384	cancers
+T14	Disease 1480 1486	cancer
+T15	Disease 1590 1605	prostate cancer
+T16	Disease 1709 1715	cancer
+T17	Disease 1920 1926	cancer
+T18	Disease 1949 1972	epidemic of lung cancer
+T19	Disease 2016 2023	cancers
+T20	Disease 2228 2234	cancer
+T21	Disease 2238 2282	general and colorectal and prostatic cancers
+T22	Disease 2339 2345	cancer
+T23	Plant 2000 2007	tobacco
+T24	Plant 2117 2124	tobacco
+T25	Cause_of_disease 2008 2015	related
+E1	Cause_of_disease:T25 Theme:T19 Cause:T23

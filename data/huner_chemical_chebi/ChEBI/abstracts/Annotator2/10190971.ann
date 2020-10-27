@@ -1,0 +1,32 @@
+T1	Species 28 47	Solidago canadensis
+T2	Species 49 58	goldenrod
+T4	Biological_Activity 102 110	synthase
+T5	Protein 82 110	(-)-alpha-gurjunene synthase
+T6	Chemical 126 139	sesquiterpene
+T7	Chemical 174 189	cyclocolorenone
+T8	Metabolite 174 189	cyclocolorenone
+T9	Chemical 193 213	sesquiterpene ketone
+T10	Species 242 255	S. canadensis
+R1	Isolated_From Arg1:T8 Arg2:T10	
+T11	Chemical 424 439	hydroxylapatite
+T12	Chemical 460 463	gel
+T13	Protein 264 292	(-)-alpha-Gurjunene synthase
+T14	Chemical 496 499	gel
+T15	Protein 587 593	enzyme
+T16	Chemical 726 730	Mg2+
+T17	Chemical 766 786	farnesyl diphosphate
+T18	Protein 1169 1175	enzyme
+T20	Biological_Activity 882 890	synthase
+T21	Protein 838 857;882 890	(-)-alpha-gurjunene synthase
+T22	Protein 862 890	(+)-gamma-gurjunene synthase
+T23	Chemical 1025 1044	(-)-alpha-gurjunene
+T24	Chemical 1052 1071	(+)-gamma-gurjunene
+T25	Chemical 1336 1366	deuterated substrate analogues
+T26	Protein 1256 1285	(-)-alpha-gurjunene synthase,
+T3	Spectral_Data 1377 1403	mass spectrometry analysis
+T27	Protein 1502 1510	synthase
+T28	Chemical 1543 1557	sesquiterpenes
+T29	Metabolite 1025 1044	(-)-alpha-gurjunene
+T30	Metabolite 1052 1071	(+)-gamma-gurjunene
+R2	Metabolite_Of Arg1:T29 Arg2:T17	
+R3	Metabolite_Of Arg1:T30 Arg2:T17	

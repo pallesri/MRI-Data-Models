@@ -1,0 +1,14 @@
+T1	Chemical 82 93	isofagomine
+T2	Biological_Activity 71 82	inhibitor  
+R1	Associated_With Arg1:T1 Arg2:T2	
+T3	Protein 113 121	aldolase
+T4	Protein 177 193	beta-glucosidase
+T5	Biological_Activity 169 176	inhibit
+T8	Protein 59 70	glycosidase
+T9	Chemical 12 40;82 93	hydroxymethyl derivatives of isofagomine
+T10	Chemical 0 6;26 40;82 93	Methyl derivatives of isofagomine
+R3	Associated_With Arg1:T9 Arg2:T5	
+R6	Associated_With Arg1:T10 Arg2:T5	
+R4	Binds_With Arg1:T10 Arg2:T4	
+R5	Binds_With Arg1:T9 Arg2:T4	
+R2	Binds_With Arg1:T1 Arg2:T8	

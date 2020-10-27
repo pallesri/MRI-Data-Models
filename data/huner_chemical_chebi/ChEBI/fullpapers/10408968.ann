@@ -1,0 +1,344 @@
+T1	Chemical 1 17	d -Penicillamine
+T2	Chemical 19 25	d -pen
+T3	Chemical 32 36	drug
+T4	Species 62 70	patients
+T5	Chemical 178 186	cysteine
+T6	Chemical 211 227	sulfhydryl group
+T7	Protein 267 275	proteins
+T8	Chemical 756 762	d -Pen
+T9	Chemical 779 783	drug
+T10	Biological_Activity 795 803	inducing
+R1	Associated_With Arg1:T8 Arg2:T10	
+T11	Chemical 900 904	drug
+T12	Chemical 924 930	d -pen
+T13	Protein 980 994	autoantibodies
+T14	Protein 1016 1038	acetylcholine receptor
+T15	Protein 1040 1044	AChR
+T16	Chemical 1016 1029	acetylcholine
+T17	Protein 1117 1131	autoantibodies
+T18	Chemical 1135 1141	d -pen
+T19	Species 1195 1203	patients
+T20	Chemical 1386 1390	drug
+T21	Protein 1428 1432	AChR
+T22	Protein 1433 1441	antibody
+T23	Species 1728 1736	patients
+T24	Chemical 1760 1766	d -pen
+T25	Biological_Activity 1768 1774	nduces
+R2	Associated_With Arg1:T24 Arg2:T25	
+T26	Chemical 1812 1816	drug
+T27	Species 1833 1840	animals
+T28	Protein 1882 1886	AChR
+T29	Protein 1887 1897	antibodies
+T30	Protein 1933 1941	antibody
+T31	Biological_Activity 1954 1966	immunization
+T32	Protein 1972 1976	AChR
+T33	Chemical 2096 2112	sulfhydryl group
+T34	Chemical 2130 2134	drug
+T35	Biological_Activity 2150 2156	hapten
+T36	Chemical 2150 2156	hapten
+T37	Protein 2179 2186	protein
+T38	Chemical 2190 2197	peptide
+T39	Biological_Activity 2223 2230	epitope
+T40	Chemical 2255 2261	d -pen
+T41	Protein 2281 2294	serum protein
+R3	Binds_With Arg1:T40 Arg2:T41	
+T42	Chemical 2332 2338	d -pen
+T43	Species 2320 2328	patients
+T44	Chemical 2450 2456	d -pen
+T45	Species 2576 2583	patient
+T46	Chemical 2589 2595	d -pen
+T47	Chemical 2627 2631	drug
+T48	Chemical 2700 2704	drug
+R4	Associated_With Arg1:T42 Arg2:T35	
+R5	Associated_With Arg1:T42 Arg2:T39	
+T49	Chemical 2756 2763	peptide
+T50	Species 2862 2869	Patient
+T51	Species 2903 2908	woman
+T52	Species 2910 2914	D-P1
+T53	Chemical 3008 3014	d -pen
+T54	Protein 3267 3271	AChR
+T55	Protein 3272 3280	antibody
+T56	Chemical 3335 3341	d -pen
+T57	Chemical 3423 3429	d -pen
+T58	Chemical 3546 3552	d -pen
+T59	Chemical 3609 3624	corticosteroids
+T60	Chemical 3722 3732	d -Pen HCl
+T61	Chemical 3777 3782	water
+T62	Biological_Activity 3826 3834	toxicity
+T63	Chemical 3842 3846	drug
+T64	Biological_Activity 3865 3875	inhibition
+R6	Associated_With Arg1:T60 Arg2:T62	
+T65	Chemical 4003 4009	d -pen
+T66	Biological_Activity 4064 4072	toxicity
+T67	Chemical 4281 4287	d -pen
+T68	Chemical 4414 4426	l -glutamine
+T69	Chemical 4485 4495	gentamycin
+T70	Chemical 4519 4529	penicillin
+T71	Chemical 4642 4651	thymidine
+T72	Biological_Activity 4946 4957	stimulation
+T73	Biological_Activity 5044 5057	restimulation
+T74	Chemical 5108 5114	d -pen
+T75	Chemical 5247 5251	drug
+T76	Chemical 5456 5462	d -pen
+T77	Chemical 5497 5503	d -pen
+T78	Species 5532 5544	patient D-P1
+T79	Chemical 5639 5645	d -pen
+T80	Biological_Activity 5653 5661	stimulus
+T81	Protein 5703 5707	IL-2
+T82	Protein 5143 5147	IL-2
+T83	Biological_Activity 5724 5737	restimulation
+T84	Biological_Activity 5751 5761	allogeneic
+T85	Chemical 5804 5810	d -pen
+T86	Chemical 5887 5893	d -pen
+T87	Chemical 5919 5935	l -penicillamine
+T88	Chemical 5955 5966	d -cysteine
+T89	Chemical 5887 5893;5945 5953	d -pen analogue
+T90	Protein 6119 6127	anti-CD3
+T91	Protein 6129 6133	OKT3
+T92	Chemical 6158 6184	fluorescein isothiocyanate
+T93	Chemical 6186 6190	FITC
+T94	Protein 6217 6225	anti-CD4
+T95	Protein 6217 6222;6231 6234	anti- CD8
+T96	Protein 6249 6262	phycoerythrin
+T97	Species 6457 6462	mouse
+T98	Species 6468 6473	human
+T99	Species 6511 6516	human
+T100	Species 6549 6554	human
+T101	Chemical 6638 6644	d -pen
+T102	Protein 6692 6700	Cytokine
+T103	Protein 6790 6802	interferon-γ
+T104	Protein 6804 6809	IFN-γ
+T105	Protein 6815 6828	interleukin-4
+T106	Protein 6830 6834	IL-4
+T107	Protein 6939 6955	T cell receptors
+T108	Protein 6987 6997	polymerase
+T109	Chemical 7163 7179	ammonium acetate
+T110	Chemical 7225 7228	TdT
+T111	Biological_Activity 7433 7440	antigen
+T112	Biological_Activity 7456 7468	antigenicity
+T113	Species 7575 7580	human
+T114	Species 7590 7594	calf
+T115	Species 7697 7702	human
+T116	Protein 7703 7710	albumin
+T117	Protein 7712 7723	transferrin
+T118	Protein 7728 7735	insulin
+T119	Species 7900 7907	patient
+T120	Chemical 7955 7966	mitomycin C
+T121	Biological_Activity 8042 8049	antigen
+T122	Chemical 8119 8130	chloroquine
+T123	Chemical 8328 8335	peptide
+T124	Biological_Activity 8336 8343	antigen
+T125	Protein 8439 8443	AChR
+T126	Chemical 8545 8551	d -pen
+T127	Chemical 8582 8588	d -pen
+T128	Species 8672 8680	patients
+T129	Chemical 8699 8705	d -pen
+T130	Species 8739 8747	patients
+T131	Protein 8767 8771	AChR
+T132	Protein 8772 8782	antibodies
+T133	Chemical 8791 8797	d -pen
+T134	Species 8835 8843	patients
+T135	Chemical 8937 8943	d -pen
+T136	Species 8947 8955	patients
+T137	Chemical 9134 9144	penicillin
+T138	Chemical 9172 9178	d -pen
+T139	Species 9182 9190	patients
+T140	Species 9192 9196	D-P1
+T141	Chemical 9231 9246	corticosteroids
+T142	Chemical 9399 9405	d -pen
+T143	Species 9446 9458	patient D-P1
+T144	Chemical 9538 9544	d -pen
+T145	Chemical 9596 9600	drug
+T146	Biological_Activity 9641 9648	mitogen
+T147	Protein 9682 9686	AChR
+T148	Chemical 9772 9778	d -pen
+T149	Chemical 9822 9826	drug
+T150	Biological_Activity 9988 9997	stimulate
+T151	Chemical 10100 10106	d -pen
+T152	Chemical 10134 10140	d -pen
+T153	Chemical 10196 10200	drug
+T154	Chemical 10252 10258	d -pen
+T155	Chemical 10337 10343	d -pen
+T156	Chemical 10405 10411	d -pen
+T157	Chemical 10606 10612	d -pen
+T158	Chemical 10698 10704	l -pen
+T159	Chemical 10760 10766	d -pen
+T160	Chemical 10771 10782	d -cysteine
+T161	Protein 10888 10891	mAb
+T162	Chemical 10994 11000	d -pen
+T163	Protein 11148 11153	IFN-γ
+T164	Protein 11188 11192	IL-4
+T165	Protein 11443 11447	AChR
+T166	Species 11488 11495	patient
+T167	Chemical 11567 11573	d -pen
+T168	Chemical 11599 11605	d -pen
+T169	Protein 11624 11637	serum protein
+T170	Chemical 11662 11668	d -pen
+T171	Species 11739 11744	human
+T172	Species 11754 11758	calf
+T173	Species 11803 11808	human
+T174	Protein 11809 11816	albumin
+T175	Protein 11818 11829	transferrin
+T176	Protein 11834 11841	insulin
+T177	Chemical 11977 11981	drug
+T178	Protein 12011 12028	cellular proteins
+T179	Chemical 12146 12157	chloroquine
+T180	Biological_Activity 12168 12182	lysosomotropic
+T181	Biological_Activity 12183 12192	inhibitor
+R7	Associated_With Arg1:T179 Arg2:T180	
+R8	Associated_With Arg1:T179 Arg2:T181	
+T182	Biological_Activity 12196 12203	antigen
+T183	Protein 12318 12322	AChR
+T184	Protein 12318 12332	AChR α subunit
+T185	Protein 12334 12341	α:1–437
+T186	Chemical 12379 12386	peptide
+T187	Chemical 12388 12397	α:144–163
+T188	Chemical 12453 12464	chloroquine
+T189	Chemical 12510 12516	d -pen
+T190	Chemical 12520 12529	α:144–163
+T191	Protein 12597 12604	α:1–437
+T192	Chemical 12668 12674	d -pen
+T193	Chemical 12752 12758	d -pen
+T194	Chemical 12816 12823	peptide
+T195	Chemical 12961 12967	d -pen
+T196	Species 13053 13058	human
+T197	Chemical 13216 13224	peptides
+T198	Biological_Activity 13320 13327	antigen
+T199	Chemical 13443 13450	peptide
+T200	Chemical 13497 13504	peptide
+T201	Chemical 13579 13585	d -pen
+T202	Chemical 13681 13687	d -pen
+T203	Chemical 13738 13742	drug
+T204	Chemical 13849 13857	peptides
+T205	Chemical 14020 14026	d -pen
+T206	Chemical 14118 14124	d -pen
+T207	Species 14169 14176	animals
+T208	Biological_Activity 14177 14186	immunized
+T209	Chemical 14196 14200	drug
+T210	Species 14331 14339	patients
+T211	Chemical 14498 14503	drugs
+T212	Chemical 14512 14524	sulfonamides
+T213	Chemical 14526 14539	carbamazepine
+T214	Chemical 14544 14553	phenytoin
+T215	Chemical 14601 14607	d -pen
+T216	Chemical 14692 14696	drug
+T217	Chemical 14887 14893	d -pen
+T218	Protein 14917 14925	proteins
+R9	Binds_With Arg1:T168 Arg2:T178	
+R10	Binds_With Arg1:T177 Arg2:T178	
+R11	Binds_With Arg1:T217 Arg2:T218	
+T219	Chemical 14935 14944	disulfide
+T220	Chemical 14961 14969	cysteine
+T221	Chemical 15035 15044	disulfide
+T222	Species 15216 15223	animals
+T223	Protein 15267 15274	protein
+T224	Chemical 15331 15337	d -pen
+T225	Species 15381 15384	rat
+T226	Chemical 15449 15460	chloroquine
+T227	Chemical 15549 15561	labeled drug
+T228	Chemical 15686 15692	d -pen
+T229	Chemical 15813 15819	d -pen
+T230	Chemical 15927 15934	peptide
+T231	Chemical 16000 16006	d -pen
+T232	Chemical 16266 16272	d -pen
+T233	Species 16250 16258	patients
+T234	Species 16364 16371	patient
+T235	Chemical 16443 16448	drugs
+T236	Chemical 16449 16456	haptens
+T237	Biological_Activity 16449 16456	haptens
+T238	Chemical 16487 16495	peptides
+T239	Chemical 16584 16598	trinitrophenyl
+T240	Chemical 16600 16603	TNP
+T241	Chemical 16609 16619	penicillin
+T242	Chemical 16641 16647	lysine
+T243	Chemical 16708 16714	nickel
+T244	Chemical 16732 16742	histidines
+T245	Chemical 16776 16786	gold salts
+T246	Chemical 16952 16958	d -pen
+T247	Species 17006 17011	human
+T248	Chemical 17045 17053	cysteine
+T249	Chemical 17104 17111	peptide
+T250	Biological_Activity 17112 17119	binding
+T251	Chemical 17182 17193	amino acids
+T252	Chemical 17172 17193	analogous amino acids
+T253	Biological_Activity 17264 17271	epitope
+T254	Chemical 17272 17280	peptides
+R12	Associated_With Arg1:T254 Arg2:T253	
+T255	Chemical 17427 17443	sulfhydryl group
+T256	Chemical 17448 17451	Cys
+T257	Biological_Activity 17503 17517	immunogenicity
+T258	Chemical 17561 17567	d -pen
+T259	Biological_Activity 17592 17601	stimulate
+T260	Chemical 17647 17651	drug
+T261	Chemical 17687 17695	peptides
+T262	Chemical 17955 17963	peptides
+T263	Chemical 17988 17994	d -pen
+T264	Biological_Activity 18115 18122	epitope
+T265	Protein 18161 18165	AChR
+T266	Chemical 18166 18173	peptide
+T267	Chemical 18252 18258	d -pen
+T268	Chemical 18352 18356	drug
+T269	Chemical 18420 18426	d -pen
+T270	Chemical 18420 18444	d -pen-modified peptides
+T271	Biological_Activity 18488 18496	epitopes
+T272	Protein 18514 18518	AChR
+T273	Protein 18715 18719	AChR
+T274	Protein 18727 18728;18737 18745	α subunits
+T275	Protein 18730 18731;18737 18745	γ subunits
+T276	Protein 18735 18745	ε subunits
+T277	Protein 18782 18788	d -pen
+T278	Species 18897 18905	patients
+T279	Chemical 18911 18917	d -pen
+T280	Protein 18962 18966	AChR
+T281	Protein 18967 18976	α-subunit
+T282	Protein 19119 19120;19143 19150	ε subunit
+T283	Protein 19008 19024	fetal-specific γ
+T284	Protein 19033 19049	adult-specific ε
+T285	Species 19189 19193	D-P1
+T286	Biological_Activity 19372 19379	epitope
+T287	Species 19389 19397	patients
+T288	Protein 19516 19520	AChR
+T289	Chemical 19567 19573	d -pen
+T290	Protein 19644 19653	ε subunit
+T291	Protein 19685 19697	autoantibody
+T292	Protein 19813 19823	antibodies
+T293	Protein 19847 19855	cytokine
+T294	Protein 19941 19949	antibody
+T295	Chemical 19989 19995	d -pen
+T296	Chemical 20066 20072	d -pen
+T297	Biological_Activity 20083 20093	haptenates
+R13	Associated_With Arg1:T296 Arg2:T297	
+T298	Protein 20095 20099	AChR
+T299	Protein 20107 20111	AChR
+T300	Biological_Activity 20132 20140	activate
+T301	Chemical 20245 20248	Cys
+T302	Biological_Activity 20264 20271	epitope
+T303	Chemical 20384 20390	d -pen
+T304	Chemical 20406 20413	peptide
+T305	Species 20476 20483	patient
+T306	Chemical 20573 20579	d -pen
+T307	Biological_Activity 20874 20884	autoimmune
+T308	Species 20906 20911	plant
+T309	Chemical 20912 20922	amino acid
+T310	Chemical 20924 20934	canavanine
+T311	Chemical 20963 20976	l -tryptophan
+T312	Chemical 20951 20976	analogue of l -tryptophan
+T313	Chemical 20978 21010	1,1′-ethylidenebis[l -tryptophan
+T314	Biological_Activity 21031 21037	induce
+R14	Associated_With Arg1:T313 Arg2:T314	
+T315	Chemical 21136 21142	agents
+T316	Protein 21250 21263	self-proteins
+T317	Biological_Activity 21291 21299	epitopes
+T318	Biological_Activity 21322 21333	Anti-hapten
+T319	Biological_Activity 21442 21451	cytotoxic
+T320	Chemical 21510 21522	homocysteine
+T321	Species 21549 21571	Salmonella typhimurium
+T322	Chemical 21650 21656	d -pen
+T323	Biological_Activity 21761 21767	hapten
+T324	Chemical 21761 21767	hapten
+T325	Species 21783 21788	human
+T326	Chemical 21833 21837	drug
+T327	Biological_Activity 21846 21856	autoimmune
+T328	Species 22044 22052	patients
+T329	Protein 22066 22070	mAbs
+T330	Species 22081 22085	D-P1

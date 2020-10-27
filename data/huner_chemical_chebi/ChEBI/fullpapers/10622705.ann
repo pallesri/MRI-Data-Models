@@ -1,0 +1,358 @@
+T1	Chemical 17 44	octadecatrienoic fatty acid
+T2	Metabolite 17 44	octadecatrienoic fatty acid
+T3	Species 48 54	plants
+T4	Chemical 58 73	α-linoleic acid
+T5	Metabolite 58 73	α-linoleic acid
+T6	Chemical 75 93	9Z ,12Z ,15Z -18:3
+T7	Metabolite 75 93	9Z ,12Z ,15Z -18:3
+R1	Isolated_From Arg1:T5 Arg2:T3	
+R2	Isolated_From Arg1:T7 Arg2:T3	
+T8	Metabolite 169 185	triacylglycerols
+T9	Chemical 169 185	triacylglycerols
+T10	Species 191 196	seeds
+R3	Isolated_From Arg1:T8 Arg2:T10	
+R4	Isolated_From Arg1:T4 Arg2:T3	
+R5	Isolated_From Arg1:T6 Arg2:T3	
+R6	Isolated_From Arg1:T9 Arg2:T10	
+T11	Chemical 247 280	conjugated octadecatrienoic acids
+T12	Metabolite 247 280	conjugated octadecatrienoic acids
+T13	Species 394 400	plants
+T14	Chemical 454 465;481 493	(Z ,E ,Z )- 8,10,12-18:3
+T15	Metabolite 454 465;481 493	(Z ,E ,Z )- 8,10,12-18:3
+T16	Chemical 470 493	(E ,E ,Z )-8,10,12-18:3
+T17	Metabolite 470 493	(E ,E ,Z )-8,10,12-18:3
+T18	Chemical 498 509;538 550	(Z ,E ,Z )- 9,11,13-18:3
+T19	Metabolite 498 509;538 550	(Z ,E ,Z )- 9,11,13-18:3
+T20	Chemical 406 417	double bond
+T21	Chemical 511 522;538 550	(Z ,E ,E )- 9,11,13-18:3
+T22	Metabolite 511 522;538 550	(Z ,E ,E )- 9,11,13-18:3
+T23	Chemical 527 550	(E ,E ,Z )-9,11,13-18:3
+T24	Metabolite 527 550	(E ,E ,Z )-9,11,13-18:3
+T25	Chemical 566 579	calendic acid
+T26	Metabolite 566 579	calendic acid
+T27	Chemical 580 600	(8E ,10E ,12Z -18:3)
+T28	Metabolite 580 600	(8E ,10E ,12Z -18:3)
+T29	Species 646 667	Calendula officinalis
+T30	Species 670 688	Calendula stellata
+T31	Species 691 714	Osteospermum spinescens
+T32	Species 720 744	Osteospermum hyoseroides
+R7	Isolated_From Arg1:T26 Arg2:T29	
+R8	Isolated_From Arg1:T28 Arg2:T29	
+R9	Isolated_From Arg1:T26 Arg2:T30	
+R10	Isolated_From Arg1:T26 Arg2:T31	
+R11	Isolated_From Arg1:T26 Arg2:T32	
+R12	Isolated_From Arg1:T28 Arg2:T30	
+R13	Isolated_From Arg1:T28 Arg2:T31	
+R14	Isolated_From Arg1:T28 Arg2:T32	
+T33	Chemical 970 1003	conjugated octadecatrienoic acids
+T34	Metabolite 970 1003	conjugated octadecatrienoic acids
+T35	Biological_Activity 954 966	biosynthesis
+T36	Chemical 1039 1072	epoxy derivative of linoleic acid
+T37	Chemical 1059 1072	linoleic acid
+T38	Chemical 1115 1128	linoleic acid
+T39	Chemical 1156 1170	linolenic acid
+T40	Chemical 1199 1223	radical of linoleic acid
+T41	Protein 1233 1245	lipoxygenase
+T42	Biological_Activity 1308 1320	biosynthesis
+T43	Chemical 1324 1342	α-eleostearic acid
+T44	Metabolite 1324 1342	α-eleostearic acid
+T45	Chemical 1344 1362	9Z ,11E ,13E -18:3
+T46	Metabolite 1344 1362	9Z ,11E ,13E -18:3
+T47	Chemical 1392 1406	calendic acid,
+T48	Metabolite 1392 1405	calendic acid
+T49	Chemical 1443 1456	linoleic acid
+T50	Chemical 1476 1497	octadecatrienoic acid
+T51	Chemical 1516 1527	acyl moiety
+T52	Chemical 1545 1564	phosphatidylcholine
+T53	Metabolite 1545 1564	phosphatidylcholine
+T54	Metabolite 1443 1456	linoleic acid
+R15	Metabolite_Of Arg1:T46 Arg2:T49	
+R16	Metabolite_Of Arg1:T44 Arg2:T49	
+T55	Chemical 1629 1653	esterified linoleic acid
+T56	Chemical 1657 1690	conjugated octadecatrienoic acids
+T57	Metabolite 1657 1690	conjugated octadecatrienoic acids
+T58	Metabolite 1629 1653	esterified linoleic acid
+R17	Metabolite_Of Arg1:T57 Arg2:T55	
+T59	Protein 1721 1758	(1,4)-linoleoyl acyl lipid desaturase
+T60	Biological_Activity 1800 1812	biosynthesis
+T61	Chemical 1827 1849	octadecatrienoic acids
+T62	Metabolite 1827 1849	octadecatrienoic acids
+T63	Biological_Activity 1893 1905	biosynthesis
+T64	Chemical 1909 1922	calendic acid
+T65	Metabolite 1909 1922	calendic acid
+T66	Chemical 1924 1942	8E ,10E ,12Z -18:3
+T67	Metabolite 1924 1942	8E ,10E ,12Z -18:3
+T68	Species 1971 1985	C. officinalis
+R18	Isolated_From Arg1:T67 Arg2:T68	
+R19	Isolated_From Arg1:T65 Arg2:T68	
+T69	Chemical 2096 2109	calendic acid
+T70	Metabolite 2096 2109	calendic acid
+T71	Biological_Activity 2142 2154	biosynthesis
+T72	Chemical 2158 2191	conjugated octadecatrienoic acids
+T73	Metabolite 2158 2191	conjugated octadecatrienoic acids
+T74	Protein 2287 2314	(1,4)-acyl lipid desaturase
+T75	Protein 2318 2345	(8,11)-linoleoyl desaturase
+T76	Chemical 2380 2397	conjugated triene
+T77	Chemical 2399 2412	calendic acid
+T78	Metabolite 2399 2412	calendic acid
+T79	Species 2439 2453	C. officinalis
+T81	Chemical 2733 2741	nitrogen
+T82	Chemical 2781 2789	Tris-HCl
+T83	Chemical 2805 2809	EDTA
+T84	Chemical 2820 2834	laurylsarcosyl
+T85	Chemical 2840 2863	guanidinium thiocyanate
+T86	Species 2874 2878	PVPP
+T87	Chemical 2889 2906	β-mercaptoethanol
+T88	Chemical 3115 3118	PCI
+T89	Chemical 3120 3126	phenol
+T90	Chemical 3127 3137	chloroform
+T91	Chemical 3138 3153	isoamyl alcohol
+T92	Chemical 3252 3256	CsCl
+T93	Chemical 3270 3274	CsCl
+T95	Chemical 3413 3420	ethanol
+T96	Chemical 3514 3522	Tris-HCl
+T97	Chemical 3539 3543	NaCl
+T98	Chemical 3550 3554	EDTA
+T99	Chemical 3565 3568	SDS
+T100	Chemical 3580 3583	PCI
+T101	Chemical 3672 3682	chloroform
+T102	Chemical 3701 3704	RNA
+T103	Chemical 3772 3776	LiCl
+T104	Chemical 3872 3879	ethanol
+T105	Chemical 3911 3916	water
+T80	Species 4090 4098	marigold
+T107	Chemical 4460 4474	PYFSWK(Y/I)SHR
+T108	Chemical 4479 4496	HYDS(S/T)EW(D/N)W
+T109	Protein 4558 4568	Polymerase
+T94	Species 6342 6365	Sacharomyces cerevisiae
+T106	Chemical 6452 6461	galactose
+T110	Species 6624 6629	yeast
+T111	Species 6624 6643	yeast strain INVSC1
+T112	Chemical 6683 6702	polyethylene glycol
+T113	Chemical 6856 6869	linoleic acid
+T114	Species 7077 7082	yeast
+T115	Chemical 7147 7153	lipids
+T116	Chemical 7174 7180	hexane
+T117	Chemical 7181 7192	isopropanol
+T118	Chemical 7293 7299	lipids
+T119	Chemical 7322 7330	methanol
+T120	Chemical 7452 7474	fatty acid derivatives
+T121	Chemical 7529 7542	Calendic acid
+T122	Metabolite 7529 7542	Calendic acid
+T123	Spectral_Data 7627 7663	UV spectrum with a maximum at 268 nm
+R20	Associated_With Arg1:T122 Arg2:T123	
+R21	Associated_With Arg1:T121 Arg2:T123	
+T124	Chemical 7671 7684	Linoleic acid
+T125	Metabolite 7671 7684	Linoleic acid
+T126	Spectral_Data 7737 7765	maximal absorbance at 202 nm
+R22	Associated_With Arg1:T125 Arg2:T126	
+R23	Associated_With Arg1:T124 Arg2:T126	
+T127	Chemical 7838 7851	calendic acid
+T128	Species 7922 7930	marigold
+T129	Metabolite 7838 7851	calendic acid
+T130	Chemical 7874 7889	triacylglycerol
+T131	Chemical 7902 7907	lipid
+T132	Chemical 7940 7948	alkaline
+T133	Chemical 7994 8018	fatty acid methyl esters
+T134	Chemical 8101 8128	free fatty acid derivatives
+T135	Chemical 8149 8161	diazomethane
+T136	Spectral_Data 8163 8780	GC/MS analysis was performed with a Finigan GCQ GC/MS system equipped with a capillary Rtx-5 column (5% diphenyl-95% polydimethyl siloxane, 30 m×0.25 mm; 0.25 μm coating thickness; Restek, Germany). Helium was used as carrier gas (40 cm/s). An electron energy of 70 eV, an ion source temperature of 150°C, and a temperature of 275°C for the transfer line were used. The samples were measured in the EI mode, and the splitless injection mode (opened after 1 min) with an injector temperature of 250°C. The temperature gradient was 60°C–110°C at 25°C/min, 110°C for 1 min, 110°C–270°C at 10°C/min, and 270°C for 10 min.
+T137	Chemical 8781 8794	Calendic acid
+T138	Metabolite 8781 8794	Calendic acid
+T139	Spectral_Data 8795 8836	eluted with a retention time of 17.16 min
+R24	Associated_With Arg1:T138 Arg2:T139	
+R25	Associated_With Arg1:T137 Arg2:T139	
+T140	Metabolite 8838 8851	linoleic acid
+T141	Chemical 8838 8851	linoleic acid
+T142	Spectral_Data 8852 8893	eluted with a retention time of 15.92 min
+R26	Associated_With Arg1:T140 Arg2:T142	
+R27	Associated_With Arg1:T141 Arg2:T142	
+T143	Chemical 8899 8915	α-linolenic acid
+T144	Metabolite 8899 8915	α-linolenic acid
+T145	Spectral_Data 8916 8957	eluted with a retention time of 15.97 min
+R28	Associated_With Arg1:T144 Arg2:T145	
+R29	Associated_With Arg1:T143 Arg2:T145	
+T146	Spectral_Data 8036 8080	gas chromatography/mass spectrometry (GC/MS)
+R30	Associated_With Arg1:T133 Arg2:T146	
+T147	Protein 9104 9126	acyl lipid desaturases
+T148	Species 9206 9220	C. officinalis
+T149	Protein 9466 9488	acyl lipid desaturases
+T150	Protein 9613 9629	Δ12  desaturases
+T151	Protein 9645 9669	sphingolipid desaturases
+T152	Protein 9782 9809	Δ12  fatty acid acetylenase
+T153	Species 9815 9828	Crepis alpina
+T154	Protein 9838 9865	Δ12  fatty acid epoxygenase
+T155	Species 9871 9888	Crepis palaestina
+T156	Protein 10363 10373	desaturase
+T157	Protein 10418 10434	Δ12  acetylenase
+T158	Species 10440 10449	C. alpina
+T159	Protein 10468 10484	Δ12  epoxygenase
+T160	Species 10490 10503	C. palaestina
+T161	Protein 10526 10541	Δ12  desaturase
+T162	Species 10547 10553	borage
+T163	Chemical 10623 10632	histidine
+T164	Protein 10667 10694	Δ12  acyl lipid desaturases
+T165	Protein 10844 10871	(8,11)-linoleoyl desaturase
+T166	Protein 10888 10914	Δ12  acyl lipid desaturase
+T167	Protein 10964 10980	Δ12  acetylenase
+T168	Protein 10989 11005	Δ12  epoxygenase
+T169	Protein 11078 11094	Δ12  desaturases
+T170	Protein 11099 11114	12-hydroxylases
+T171	Species 11146 11159	S. cerevisiae
+T172	Chemical 11165 11175	fatty acid
+T173	Protein 11244 11254	desaturase
+T174	Chemical 11320 11329	galactose
+T175	Species 11362 11367	yeast
+T176	Chemical 11389 11408	dienoic fatty acids
+T177	Protein 11431 11458	(8,11)-linoleoyl desaturase
+T178	Chemical 11518 11531	linoleic acid
+T179	Chemical 11533 11542	Galactose
+T180	Species 11551 11556	yeast
+T181	Chemical 11600 11624	fatty acid methyl esters
+T182	Spectral_Data 11628 11633	GC/MS
+T183	Chemical 11640 11656	free fatty acids
+T184	Chemical 11670 11699	methyl ester of calendic acid
+T185	Chemical 11686 11699	calendic acid
+T186	Metabolite 11686 11699	calendic acid
+T187	Chemical 11723 11740;11754 11765	classical dienoic fatty acids
+T188	Chemical 11723 11732	classical
+T189	Chemical 11745 11765	trienoic fatty acids
+T190	Spectral_Data 11769 11774	GC/MS
+T191	Spectral_Data 11793 11820	retention time of 17.16 min
+R31	Associated_With Arg1:T184 Arg2:T191	
+R32	Associated_With Arg1:T184 Arg2:T190	
+T192	Chemical 11834 11863	methyl ester of linoleic acid
+T193	Spectral_Data 11864 11905	eluted with a retention time of 15.92 min
+T194	Chemical 11850 11863	linoleic acid
+T195	Metabolite 11850 11863	linoleic acid
+R33	Associated_With Arg1:T192 Arg2:T193	
+T196	Chemical 11919 11935	α-linolenic acid
+T197	Metabolite 11919 11935	α-linolenic acid
+T198	Chemical 11834 11849;11919 11935	methyl ester of α-linolenic acid
+T199	Spectral_Data 11936 11977	eluted with a retention time of 15.97 min
+R34	Associated_With Arg1:T198 Arg2:T199	
+T200	Chemical 12023 12036	calendic acid
+T201	Metabolite 12023 12036	calendic acid
+T202	Chemical 12141 12153;12155 12171	methyl ester of calendic acid
+T203	Chemical 12141 12153;12155 12157;12176 12192	methyl ester of α-linolenic acid
+T204	Spectral_Data 12121 12133	mass spectra
+T205	Chemical 12425 12438	calendic acid
+T206	Metabolite 12425 12438	calendic acid
+T207	Species 12446 12451	yeast
+T208	Spectral_Data 12525 12536	UV spectrum
+T209	Chemical 12540 12553	calendic acid
+T210	Metabolite 12540 12553	calendic acid
+R35	Associated_With Arg1:T210 Arg2:T208	
+R36	Associated_With Arg1:T209 Arg2:T208	
+T211	Chemical 12582 12595	calendic acid
+T212	Metabolite 12582 12595	calendic acid
+T213	Chemical 12623 12635	methyl ester
+T214	Chemical 12670 12683	calendic acid
+T216	Chemical 12706 12721	triacylglycerol
+T217	Spectral_Data 12765 12772	RP-HPLC
+R37	Associated_With Arg1:T214 Arg2:T217	
+T215	Metabolite 12670 12683	calendic acid
+R38	Associated_With Arg1:T215 Arg2:T217	
+T218	Spectral_Data 12801 12989	retention time of calendic acid was 11.8 min and as shown in the inset it exhibited a characteristic UV spectrum of conjutrienes with the three relative maxima at 262 nm, 268 nm and 282 nm
+T219	Chemical 12819 12832	calendic acid
+T220	Metabolite 12819 12832	calendic acid
+R39	Associated_With Arg1:T220 Arg2:T218	
+R40	Associated_With Arg1:T219 Arg2:T218	
+T221	Species 12997 13002	Yeast
+T222	Chemical 13056 13069	calendic acid
+T223	Metabolite 13056 13069	calendic acid
+T224	Species 13097 13110	S. cerevisiae
+T225	Chemical 13174 13184	fatty acid
+T226	Chemical 13206 13219	calendic acid
+T227	Metabolite 13206 13219	calendic acid
+T228	Spectral_Data 13264 13275	UV spectrum
+T229	Chemical 13378 13391	calendic acid
+T230	Metabolite 13378 13391	calendic acid
+T231	Chemical 13423 13436	linoleic acid
+T232	Metabolite 13423 13436	linoleic acid
+T233	Protein 13492 13502	desaturase
+T234	Chemical 13534 13547	linoleic acid
+T235	Chemical 13553 13566	calendic acid
+T236	Metabolite 13553 13566	calendic acid
+R41	Metabolite_Of Arg1:T236 Arg2:T234	
+T237	Species 13586 13591	yeast
+T238	Chemical 13612 13625	calendic acid
+T239	Chemical 13655 13671	free fatty acids
+T240	Metabolite 13612 13625	calendic acid
+T241	Chemical 13718 13731	calendic acid
+T242	Metabolite 13718 13731	calendic acid
+T243	Chemical 13762 13773	acyl moiety
+T244	Chemical 13791 13810	phosphatidylcholine
+T245	Protein 13946 13956	desaturase
+T246	Protein 14023 14050	(8,11)-linoleoyl desaturase
+T247	Species 14219 14227	marigold
+T248	Protein 14274 14301	(8,11)-linoleoyl desaturase
+T249	Protein 14368 14375	protein
+T250	Protein 14431 14447	Δ12  acetylenase
+T251	Protein 14452 14468	Δ12  epoxygenase
+T252	Species 14474 14480	Crepis
+T253	Protein 14498 14505	enzymes
+T254	Chemical 14518 14529	double bond
+T255	Chemical 14554 14567	linoleic acid
+T256	Protein 14696 14703	enzymes
+T257	Protein 14761 14787	Δ12  acyl lipid desaturase
+T258	Species 14845 14850	yeast
+T259	Protein 14862 14868	enzyme
+T260	Chemical 14878 14891	linoleic acid
+T261	Chemical 14899 14931	conjugated octadecatrienoic acid
+T262	Metabolite 14899 14931	conjugated octadecatrienoic acid
+R42	Metabolite_Of Arg1:T262 Arg2:T260	
+T263	Chemical 14973 14986	linoleic acid
+T264	Chemical 15007 15020	calendic acid
+T265	Metabolite 15007 15020	calendic acid
+R43	Metabolite_Of Arg1:T265 Arg2:T263	
+T266	Chemical 14582 14601	phosphatidylcholine
+T267	Protein 15071 15091	Δ12 -type desaturase
+T268	Protein 15122 15149	Δ12  acyl lipid desaturases
+T269	Chemical 15186 15198	carbon atoms
+T270	Chemical 15216 15226	oleic acid
+T271	Protein 15283 15293	desaturase
+T272	Chemical 15325 15337	carbon atoms
+T273	Chemical 15354 15367	linoleic acid
+T274	Chemical 15429 15442	linoleic acid
+T275	Chemical 15462 15469	protons
+T276	Chemical 15534 15546	carbon atoms
+T277	Chemical 15649 15659	fatty acid
+T278	Chemical 15692 15705	linoleic acid
+T279	Chemical 15711 15729	α-eleostearic acid
+T280	Metabolite 15711 15729	α-eleostearic acid
+R44	Metabolite_Of Arg1:T280 Arg2:T278	
+T281	Protein 15758 15764	enzyme
+T282	Chemical 15807 15819	carbon atoms
+T283	Chemical 15837 15850	linoleic acid
+T284	Chemical 15921 15927	proton
+T285	Chemical 15998 16031	conjugated octadecatrienoic acids
+T286	Species 16050 16055	plant
+R45	Isolated_From Arg1:T285 Arg2:T286	
+T287	Protein 16118 16124	enzyme
+T288	Protein 16154 16182	(1,4)-acyl lipid desaturases
+T289	Protein 16257 16264	enzymes
+T290	Protein 16356 16372	Δ12  desaturases
+T291	Protein 16408 16435	(8,11)-linoleoyl desaturase
+T292	Chemical 16464 16477	calendic acid
+T293	Metabolite 16464 16477	calendic acid
+T294	Chemical 16479 16497	8E ,10E ,12Z -18:3
+T295	Metabolite 16479 16497	8E ,10E ,12Z -18:3
+T296	Protein 16521 16548	(8,11)-linoleoyl desaturase
+T297	Chemical 16577 16589	jacaric acid
+T298	Metabolite 16577 16589	jacaric acid
+T299	Chemical 16591 16609	8Z ,10E ,12Z -18:3
+T300	Metabolite 16591 16609	8Z ,10E ,12Z -18:3
+T301	Species 16616 16637	Jacaranda mimosifolia
+R46	Isolated_From Arg1:T298 Arg2:T301	
+R47	Isolated_From Arg1:T300 Arg2:T301	
+T302	Protein 16707 16713	enzyme
+T303	Protein 16799 16809	desaturase
+T304	Chemical 16815 16833	dienoic fatty acid
+T305	Chemical 16950 16970	monoenoic fatty acid
+T306	Chemical 16978 17001	conjudienoic fatty acid
+T307	Biological_Activity 17013 17025	biosynthesis
+T308	Chemical 17029 17037	bombykol
+T309	Metabolite 17029 17037	bombykol
+T310	Species 17074 17085	Bombyx mori
+R48	Isolated_From Arg1:T309 Arg2:T310	

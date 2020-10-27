@@ -1,0 +1,11 @@
+T1	Disease 110 119	cataracts
+T2	Disease 378 386	cataract
+T3	Disease 730 745	senile cataract
+T4	Disease 820 828	cataract
+T5	Disease 1165 1173	cataract
+T6	Disease 1391 1399	cataract
+T7	Disease 1461 1470	cataracts
+T9	Plant 1315 1323	broccoli
+T10	Plant 1328 1335	spinach
+T11	Treatment_of_disease 1359 1374	associated with
+E1	Treatment_of_disease:T11 Theme:T6 Cause:T10 Cause2:T9

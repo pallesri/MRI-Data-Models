@@ -1,0 +1,18 @@
+T1	Disease 677 692	prostate cancer
+T2	Disease 941 956	prostate cancer
+T4	Disease 1144 1150	tumour
+T5	Disease 1616 1631	prostate cancer
+T6	Plant 208 214	ginger
+T10	Plant 216 242	Zingiber officinale Roscoe
+T11	Plant 394 400	Ginger
+T7	Plant 73 79	fruits
+T8	Plant 84 94	vegetables
+T12	Treatment_of_disease 595 601	exerts
+E1	Treatment_of_disease:T12 Theme:T1 Cause:T17 Cause2:T9
+T13	Plant 742 744	GE
+T14	Plant 1024 1026	GE
+T3	Plant 1178 1180	GE
+T15	Plant 1361 1363	GE
+T16	Plant 1591 1593	GE
+T9	Plant 575 581	ginger
+T17	Plant 591 593	GE

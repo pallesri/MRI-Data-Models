@@ -1,0 +1,410 @@
+T1	Chemical 1 10	n- Hexane
+T2	Biological_Activity 14 25	metabolized
+T3	Protein 40 47	enzymes
+T4	Chemical 104 115	metabolites
+T5	Metabolite 104 115	metabolites
+T6	Chemical 128 137	1-hexanol
+T7	Metabolite 128 137	1-hexanol
+T8	Chemical 139 148	2-hexanol
+T9	Metabolite 139 148	2-hexanol
+T10	Chemical 150 159	3-hexanol
+T11	Metabolite 150 159	3-hexanol
+T12	Chemical 161 171	2-hexanone
+T13	Metabolite 161 171	2-hexanone
+T14	Chemical 173 193	5-hydroxy-2-hexanone
+T15	Metabolite 173 193	5-hydroxy-2-hexanone
+T16	Chemical 195 209	2,5-hexanediol
+T17	Metabolite 195 209	2,5-hexanediol
+T18	Chemical 211 235	4,5-dihydroxy-2-hexanone
+T19	Metabolite 211 235	4,5-dihydroxy-2-hexanone
+T20	Chemical 240 255	2,5-hexanedione
+T21	Metabolite 240 255	2,5-hexanedione
+T22	Chemical 264 270	2,5-HD
+T23	Metabolite 264 270	2,5-HD
+R1	Metabolite_Of Arg1:T7 Arg2:T1	
+R2	Metabolite_Of Arg1:T9 Arg2:T1	
+R3	Metabolite_Of Arg1:T11 Arg2:T1	
+R4	Metabolite_Of Arg1:T13 Arg2:T1	
+R5	Metabolite_Of Arg1:T15 Arg2:T1	
+R6	Metabolite_Of Arg1:T17 Arg2:T1	
+R7	Metabolite_Of Arg1:T19 Arg2:T1	
+R8	Metabolite_Of Arg1:T21 Arg2:T1	
+R9	Metabolite_Of Arg1:T23 Arg2:T1	
+T24	Biological_Activity 317 327	neurotoxic
+R10	Associated_With Arg1:T23 Arg2:T24	
+R11	Associated_With Arg1:T22 Arg2:T24	
+R12	Associated_With Arg1:T21 Arg2:T24	
+R13	Associated_With Arg1:T20 Arg2:T24	
+T25	Chemical 402 411	n- hexane
+T26	Chemical 402 423	n- hexane metabolites
+T27	Metabolite 402 423	n- hexane metabolites
+T28	Chemical 432 438	2,5-HD
+T29	Metabolite 432 438	2,5-HD
+T30	Chemical 443 453	2-hexanone
+T31	Metabolite 443 453	2-hexanone
+T32	Chemical 509 531	glucuronide conjugates
+T33	Metabolite 509 531	glucuronide conjugates
+T34	Chemical 533 535	-G
+T35	Metabolite 533 535	-G
+R14	Metabolite_Of Arg1:T33 Arg2:T25	
+R15	Metabolite_Of Arg1:T35 Arg2:T25	
+T36	Chemical 736 743	2,5-HD’
+T37	Metabolite 736 742	2,5-HD
+T38	Chemical 792 807	γ-valerolactone
+T39	Chemical 812 829	furan derivatives
+T40	Chemical 812 817	furan
+T41	Chemical 792 807;818 829	γ-valerolactone derivatives
+T42	Chemical 897 921	metabolites of n- hexane
+T43	Chemical 912 921	n- hexane
+T44	Metabolite 897 921	metabolites of n- hexane
+T45	Spectral_Data 991 1030	liquid chromatography-mass spectrometry
+T46	Spectral_Data 1032 1037	LC-MS
+T47	Biological_Activity 1132 1142	metabolism
+T48	Spectral_Data 1533 1550	mass spectrometry
+T49	Spectral_Data 1577 1613	gas chromatography-mass spectrometry
+T50	Spectral_Data 1615 1620	GC-MS
+T51	Chemical 1755 1772	organic compounds
+T52	Chemical 1845 1860	polar compounds
+T53	Spectral_Data 2064 2081	mass spectrometry
+T54	Biological_Activity 2170 2179	metabolic
+T55	Chemical 2188 2193	drugs
+T56	Chemical 2195 2205	pesticides
+T57	Biological_Activity 2195 2205	pesticides
+T58	Chemical 2207 2225	natural substances
+T59	Metabolite 2207 2225	natural substances
+T60	Chemical 2230 2254	environmental pollutants
+T61	Spectral_Data 2256 2261	LC-MS
+T62	Chemical 2285 2294	n- hexane
+T63	Chemical 2285 2306	n- hexane metabolites
+T64	Metabolite 2285 2306	n- hexane metabolites
+T65	Biological_Activity 2517 2526	metabolic
+T66	Chemical 2538 2548	conjugates
+T67	Chemical 2566 2587	n- hexane metabolites
+T68	Metabolite 2566 2587	n- hexane metabolites
+T69	Chemical 2566 2575	n- hexane
+T70	Spectral_Data 2619 2624	LC-MS
+T71	Spectral_Data 2629 2634	GC-MS
+T72	Chemical 2740 2746	2,5-HD
+T73	Metabolite 2740 2746	2,5-HD
+T74	Species 2802 2809	Animals
+T75	Species 2824 2843	Sprague Dawley rats
+T76	Species 2928 2935	animals
+T77	Chemical 3061 3066	water
+T78	Chemical 3080 3085	water
+T79	Species 3227 3234	Animals
+T80	Chemical 3236 3245	2-Hexanol
+T81	Metabolite 3236 3245	2-Hexanol
+T82	Chemical 3247 3257	2-hexanone
+T83	Metabolite 3247 3257	2-hexanone
+T84	Chemical 3259 3274	2,5-hexanedione
+T85	Metabolite 3259 3274	2,5-hexanedione
+T86	Chemical 3276 3291	γ-valerolactone
+T87	Chemical 3293 3307	2,5-hexanediol
+T88	Metabolite 3293 3307	2,5-hexanediol
+T89	Chemical 3356 3365	3-hexanol
+T90	Metabolite 3356 3365	3-hexanol
+T91	Chemical 3367 3384	2,5-dimethylfuran
+T92	Chemical 3418 3431	cyclohexanone
+T93	Chemical 3497 3502	water
+T94	Chemical 3504 3512	methanol
+T95	Chemical 3514 3526	acetonitrile
+T96	Chemical 3531 3546	dichloromethane
+T97	Chemical 3594 3604	n- hexane,
+T98	Chemical 3605 3620	sodium chloride
+T99	Chemical 3622 3639	hydrochloric acid
+T100	Chemical 3644 3660	sodium hydroxide
+T101	Protein 3693 3708	β-Glucuronidase
+T102	Protein 3709 3723	arylsulphatase
+T103	Species 3729 3742	Helix Pomatia
+T104	Species 3800 3806	Animal
+T105	Species 3837 3841	Rats
+T106	Chemical 3877 3886	n- hexane
+T107	Chemical 3920 3927	solvent
+T108	Species 3987 3991	rats
+T109	Biological_Activity 4018 4027	metabolic
+T110	Chemical 4128 4134	NaN3  
+T111	Species 4215 4218	Rat
+T112	Biological_Activity 4348 4357	enzymatic
+T113	Chemical 4414 4421	acetate
+T114	Protein 4451 4466	β-glucuronidase
+T115	Protein 4467 4481	arylsulphatase
+T116	Chemical 4520 4524	acid
+T117	Chemical 4577 4580	HCl
+T118	Chemical 4616 4621	water
+T119	Biological_Activity 4647 4656	enzymatic
+T120	Chemical 4680 4684	acid
+T121	Spectral_Data 4735 4740	LC-MS
+T122	Spectral_Data 4763 4768	GC-MS
+T123	Chemical 3433 3437	I.S.
+T124	Chemical 4812 4816	I.S.
+T125	Chemical 4820 4835	dichloromethane
+T126	Chemical 4892 4900	nitrogen
+T127	Chemical 4963 4972	n- hexane
+T128	Metabolite 4963 4984	n- hexane metabolites
+T129	Chemical 4963 4984	n- hexane metabolites
+T130	Species 4988 4991	rat
+R16	Isolated_From Arg1:T128 Arg2:T130	
+T131	Spectral_Data 5091 5096	GC-MS
+T132	Chemical 5374 5382	hydrogen
+T133	Spectral_Data 5542 5547	LC-MS
+T134	Spectral_Data 5677 5694	mass spectrometer
+T135	Spectral_Data 5984 5992	LC-MS-MS
+T136	Chemical 6097 6107	conjugates
+T137	Chemical 6214 6225	formic acid
+T138	Chemical 6266 6278	Glucuronides
+T139	Metabolite 6266 6278	Glucuronides
+T140	Spectral_Data 6343 6348	LC-MS
+R17	Associated_With Arg1:T139 Arg2:T140	
+R18	Associated_With Arg1:T138 Arg2:T140	
+T141	Spectral_Data 6405 6413	LC-MS-MS
+R19	Associated_With Arg1:T139 Arg2:T141	
+R20	Associated_With Arg1:T138 Arg2:T141	
+T142	Chemical 6452 6463	metabolites
+T143	Metabolite 6452 6463	metabolites
+T144	Chemical 6616 6628	glucuronides
+T145	Metabolite 6616 6628	glucuronides
+T146	Spectral_Data 6666 6671	LC-MS
+T147	Spectral_Data 6691 6699	LC-MS-MS
+T148	Chemical 6701 6712	2-hexanol-G
+T149	Metabolite 6701 6712	2-hexanol-G
+T150	Chemical 6717 6739	5-hydroxy-2-hexanone-G
+T151	Metabolite 6717 6739	5-hydroxy-2-hexanone-G
+R21	Isolated_From Arg1:T151 Arg2:T130	
+R22	Isolated_From Arg1:T149 Arg2:T130	
+T152	Chemical 6777 6803	4,5-dihydroxy-2-hexanone-G
+T153	Metabolite 6777 6803	4,5-dihydroxy-2-hexanone-G
+T154	Chemical 6836 6852	2,5-hexanediol-G
+T155	Metabolite 6836 6852	2,5-hexanediol-G
+R23	Associated_With Arg1:T149 Arg2:T147	
+R24	Associated_With Arg1:T148 Arg2:T147	
+R25	Associated_With Arg1:T151 Arg2:T147	
+R26	Associated_With Arg1:T150 Arg2:T147	
+R27	Associated_With Arg1:T153 Arg2:T147	
+R28	Associated_With Arg1:T152 Arg2:T147	
+R29	Associated_With Arg1:T155 Arg2:T147	
+R30	Associated_With Arg1:T154 Arg2:T146	
+R31	Associated_With Arg1:T149 Arg2:T146	
+R32	Associated_With Arg1:T148 Arg2:T146	
+R33	Associated_With Arg1:T151 Arg2:T146	
+R34	Associated_With Arg1:T150 Arg2:T146	
+R35	Associated_With Arg1:T153 Arg2:T147	
+R36	Associated_With Arg1:T152 Arg2:T147	
+R37	Associated_With Arg1:T153 Arg2:T146	
+R38	Associated_With Arg1:T152 Arg2:T146	
+R39	Associated_With Arg1:T155 Arg2:T147	
+R40	Associated_With Arg1:T154 Arg2:T147	
+R41	Isolated_From Arg1:T153 Arg2:T130	
+R42	Isolated_From Arg1:T155 Arg2:T130	
+T156	Chemical 6897 6903	2,5-HD
+T157	Spectral_Data 6953 6958	GC-MS
+T158	Spectral_Data 6963 6968	LC-MS
+T159	Metabolite 6897 6903	2,5-HD
+R43	Associated_With Arg1:T159 Arg2:T157	
+R44	Associated_With Arg1:T156 Arg2:T157	
+R45	Associated_With Arg1:T159 Arg2:T158	
+R46	Associated_With Arg1:T156 Arg2:T158	
+R47	Isolated_From Arg1:T159 Arg2:T130	
+T160	Chemical 7041 7063	n -hexane glucuronides
+T161	Metabolite 7041 7063	n -hexane glucuronides
+T162	Metabolite 7206 7217	metabolites
+T163	Chemical 7206 7217	metabolites
+T164	Biological_Activity 7386 7395	Enzymatic
+T165	Chemical 7438 7444	2,5-HD
+T166	Metabolite 7438 7444	2,5-HD
+T167	Chemical 7498 7513	γ-valerolactone
+T168	Spectral_Data 7525 7530	LC-MS
+T169	Chemical 7613 7624	metabolites
+T170	Metabolite 7613 7624	metabolites
+T171	Chemical 7631 7651	5-hydroxy-2-hexanone
+T172	Metabolite 7631 7651	5-hydroxy-2-hexanone
+T173	Chemical 7653 7677	4,5-dihydroxy-2-hexanone
+T174	Metabolite 7653 7677	4,5-dihydroxy-2-hexanone
+T175	Chemical 7682 7696	2,5-hexanediol
+T176	Metabolite 7682 7696	2,5-hexanediol
+R48	Associated_With Arg1:T172 Arg2:T168	
+R49	Associated_With Arg1:T171 Arg2:T168	
+R50	Associated_With Arg1:T174 Arg2:T168	
+R51	Associated_With Arg1:T173 Arg2:T168	
+R52	Associated_With Arg1:T176 Arg2:T168	
+R53	Associated_With Arg1:T175 Arg2:T168	
+T177	Chemical 7763 7769	2,5-HD
+T178	Metabolite 7763 7769	2,5-HD
+T179	Chemical 7793 7799	2,5-HD
+T180	Metabolite 7793 7799	2,5-HD
+T181	Chemical 7814 7829	γ-valerolactone
+T182	Chemical 7873 7879	2,5-HD
+T183	Metabolite 7873 7879	2,5-HD
+T184	Chemical 7884 7899	γ-valerolactone
+T185	Chemical 7901 7925	4,5-dihydroxy-2-hexanone
+T186	Metabolite 7901 7925	4,5-dihydroxy-2-hexanone
+T187	Spectral_Data 7954 7959	LC-MS
+T188	Chemical 7715 7719	acid
+T189	Chemical 7997 8001	acid
+T190	Chemical 8080 8100	5-hydroxy-2-hexanone
+T191	Metabolite 8080 8100	5-hydroxy-2-hexanone
+T192	Spectral_Data 8105 8110	GC-MS
+T193	Biological_Activity 8133 8142	enzymatic
+T194	Chemical 8147 8151	acid
+T195	Chemical 8188 8205	2,5-dimethylfuran
+T196	Chemical 8252 8256	acid
+T197	Biological_Activity 8261 8270	enzymatic
+T198	Chemical 8283 8287	acid
+T199	Chemical 8326 8330	acid
+T200	Chemical 8349 8359	metabolite
+T201	Metabolite 8349 8359	metabolite
+T202	Species 8410 8414	rats
+T203	Species 8459 8462	rat
+T204	Chemical 8470 8482	n -hexanol-G
+T205	Metabolite 8470 8482	n -hexanol-G
+T206	Chemical 8486 8508	5-hydroxy-2-hexanone-G
+T207	Metabolite 8486 8508	5-hydroxy-2-hexanone-G
+T208	Chemical 8538 8549	metabolites
+T209	Metabolite 8538 8549	metabolites
+T210	Species 8589 8592	rat
+T211	Chemical 8596 8600	Acid
+T212	Chemical 8615 8627	n -hexanol-G
+T213	Metabolite 8615 8627	n -hexanol-G
+T214	Chemical 8668 8679	n -hexanols
+T215	Metabolite 8668 8679	n -hexanols
+T216	Chemical 8699 8719	5-hydroxy-2-hexanone
+T217	Metabolite 8699 8719	5-hydroxy-2-hexanone
+T218	Chemical 8758 8768	metabolite
+T219	Metabolite 8758 8768	metabolite
+T220	Chemical 8813 8819	2,5-HD
+T221	Metabolite 8813 8819	2,5-HD
+T222	Species 8841 8845	rats
+T223	Chemical 8894 8909	γ-valerolactone
+T224	Chemical 8992 9012	5-hydroxy-2-hexanone
+T225	Metabolite 8992 9012	5-hydroxy-2-hexanone
+T226	Species 9040 9043	rat
+R54	Isolated_From Arg1:T225 Arg2:T226	
+T227	Chemical 9075 9081	2,5-HD
+T228	Metabolite 9075 9081	2,5-HD
+T229	Species 9116 9119	rat
+T230	Species 9143 9146	rat
+T231	Chemical 9180 9186	2,5-HD
+T232	Metabolite 9180 9186	2,5-HD
+T233	Chemical 9259 9265	2,5-HD
+T234	Metabolite 9259 9265	2,5-HD
+T235	Species 9324 9328	rats
+T236	Chemical 9342 9351	n- hexane
+T237	Spectral_Data 9400 9405	GC-MS
+T238	Spectral_Data 9410 9415	LC-MS
+T239	Chemical 9527 9536	n- hexane
+T240	Biological_Activity 9537 9547	metabolism
+T241	Chemical 9572 9581	n -hexane
+T242	Biological_Activity 9582 9592	metabolism
+T243	Chemical 9666 9672	2,5-HD
+T244	Metabolite 9666 9672	2,5-HD
+T245	Chemical 9692 9696	acid
+T246	Chemical 9727 9753	4,5-dihydroxy-2-hexanone-G
+T247	Metabolite 9727 9753	4,5-dihydroxy-2-hexanone-G
+T248	Chemical 9758 9780	5-hydroxy-2-hexanone-G
+T249	Metabolite 9758 9780	5-hydroxy-2-hexanone-G
+T250	Chemical 9803 9818	γ-valerolactone
+T251	Chemical 9851 9861	conjugates
+T252	Metabolite 9851 9861	conjugates
+T253	Chemical 9869 9873	acid
+T254	Biological_Activity 9928 9937	enzymatic
+T255	Chemical 9950 9974	4,5-dihydroxy-2-hexanone
+T256	Metabolite 9950 9974	4,5-dihydroxy-2-hexanone
+T257	Chemical 9979 9999	5-hydroxy-2-hexanone
+T258	Metabolite 9979 9999	5-hydroxy-2-hexanone
+T259	Chemical 10030 10045	γ-valerolactone
+T260	Chemical 10050 10056	2,5-HD
+T261	Metabolite 10050 10056	2,5-HD
+T262	Chemical 10142 10162	5-hydroxy-2-hexanone
+T263	Metabolite 10142 10162	5-hydroxy-2-hexanone
+T264	Chemical 10220 10249	2,5-dimethyl-2,3-dihydrofuran
+T265	Spectral_Data 10345 10355	APCI-LC-MS
+T266	Chemical 10397 10417	5-hydroxy-2-hexanone
+T267	Metabolite 10397 10417	5-hydroxy-2-hexanone
+R55	Associated_With Arg1:T267 Arg2:T265	
+R56	Associated_With Arg1:T266 Arg2:T265	
+T268	Species 10421 10424	rat
+T269	Biological_Activity 10437 10446	enzymatic
+T270	Chemical 10450 10454	acid
+T271	Chemical 10516 10522	furans
+T272	Spectral_Data 10526 10531	GC-MS
+T273	Chemical 10568 10572	acid
+T274	Biological_Activity 10577 10586	enzymatic
+T275	Chemical 10597 10619	5-hydroxy-2-hexanone-G
+T276	Metabolite 10597 10619	5-hydroxy-2-hexanone-G
+T277	Chemical 10656 10666	metabolite
+T278	Metabolite 10656 10666	metabolite
+T279	Chemical 10670 10679	n- hexane
+T280	Species 10683 10686	rat
+T281	Chemical 10688 10700	n -hexanol-G
+T282	Metabolite 10688 10700	n -hexanol-G
+T283	Chemical 10747 10757	metabolite
+T284	Metabolite 10747 10757	metabolite
+T285	Chemical 10778 10784	2,5-HD
+T286	Metabolite 10778 10784	2,5-HD
+T287	Chemical 10786 10801	γ-valerolactone
+T288	Chemical 10807 10824	2,5-dimethylfuran
+T289	Biological_Activity 10909 10918	enzymatic
+T290	Chemical 10923 10927	acid
+T291	Chemical 10978 11002	4,5-dihydroxy-2-hexanone
+T292	Metabolite 10978 11002	4,5-dihydroxy-2-hexanone
+T293	Chemical 11007 11027	5-hydroxy-2-hexanone
+T294	Metabolite 11007 11027	5-hydroxy-2-hexanone
+T295	Chemical 11054 11060	2,5-HD
+T296	Metabolite 11054 11060	2,5-HD
+T297	Chemical 11065 11080	γ-valerolactone
+T298	Chemical 11323 11332	n -hexane
+T299	Chemical 11479 11483	acid
+T300	Chemical 11525 11531	2,5-HD
+T301	Metabolite 11525 11531	2,5-HD
+T302	Chemical 11561 11567	2,5-HD
+T303	Metabolite 11561 11567	2,5-HD
+T304	Biological_Activity 11589 11602	toxicological
+T305	Biological_Activity 11664 11674	neurotoxic
+T306	Chemical 11686 11695	n- hexane
+T307	Chemical 11700 11722	methyl-n- butyl ketone
+R57	Associated_With Arg1:T306 Arg2:T305	
+R58	Associated_With Arg1:T307 Arg2:T305	
+T308	Chemical 11760 11766	2,5-HD
+T309	Metabolite 11760 11766	2,5-HD
+T310	Biological_Activity 11792 11805	toxicological
+T311	Chemical 11864 11886	glucuronated compounds
+T312	Metabolite 11864 11886	glucuronated compounds
+T313	Biological_Activity 11943 11948	toxic
+T314	Chemical 11972 11978	2,5-HD
+T315	Metabolite 11972 11978	2,5-HD
+T316	Chemical 12012 12021	n -hexane
+T317	Chemical 12065 12085	endogenous compounds
+T318	Metabolite 12065 12085	endogenous compounds
+T319	Chemical 12189 12195	2,5-HD
+T320	Metabolite 12189 12195	2,5-HD
+T321	Chemical 12247 12271	glucuronated metabolites
+T322	Metabolite 12247 12271	glucuronated metabolites
+T323	Chemical 12302 12308	2,5-HD
+T324	Metabolite 12302 12308	2,5-HD
+T325	Species 12388 12392	rats
+T326	Species 12430 12434	rats
+T327	Chemical 12476 12485	n -hexane
+T328	Biological_Activity 12520 12530	neurotoxic
+T329	Chemical 12531 12541	metabolite
+T330	Metabolite 12531 12541	metabolite
+T331	Chemical 12542 12548	2,5-HD
+T332	Metabolite 12542 12548	2,5-HD
+T333	Chemical 12673 12682	n -hexane
+T334	Chemical 12741 12752	metabolites
+T335	Metabolite 12741 12752	metabolites
+T336	Biological_Activity 12770 12779	metabolic
+T337	Biological_Activity 12837 12847	neurotoxic
+T338	Chemical 12890 12896	2,5-HD
+T339	Metabolite 12890 12896	2,5-HD
+T340	Chemical 12966 12972	2,5-HD
+T341	Metabolite 12966 12972	2,5-HD
+T342	Species 12983 12987	rats
+T343	Biological_Activity 13115 13123	toxicity
+T344	Chemical 13129 13143	chemical agent
+T345	Biological_Activity 13255 13264	metabolic
+T346	Chemical 13279 13288	n- hexane
+T347	Protein 13342 13367	drug-metabolizing enzymes
+T348	Biological_Activity 13451 13460	metabolic
+R59	Metabolite_Of Arg1:T149 Arg2:T127	
+R60	Metabolite_Of Arg1:T151 Arg2:T127	
+R61	Metabolite_Of Arg1:T153 Arg2:T127	
+R62	Metabolite_Of Arg1:T155 Arg2:T127	

@@ -1,0 +1,580 @@
+T1	Chemical 1 14	Abscisic acid
+T2	Metabolite 1 14	Abscisic acid
+T3	Chemical 16 19	ABA
+T4	Metabolite 16 19	ABA
+T5	Chemical 26 38	sequiterpene
+T6	Species 39 44	plant
+T7	Chemical 45 52	hormone
+T8	Biological_Activity 45 52	hormone
+R1	Associated_With Arg1:T2 Arg2:T8	
+R2	Associated_With Arg1:T1 Arg2:T8	
+R3	Associated_With Arg1:T4 Arg2:T8	
+R4	Associated_With Arg1:T3 Arg2:T8	
+T9	Species 243 249	plants
+T10	Species 447 452	maize
+T11	Species 457 470	Arabidopsis  
+T12	Chemical 534 537	ABA
+T13	Metabolite 534 537	ABA
+R5	Isolated_From Arg1:T13 Arg2:T11	
+R6	Isolated_From Arg1:T13 Arg2:T10	
+R7	Isolated_From Arg1:T2 Arg2:T10	
+R8	Isolated_From Arg1:T4 Arg2:T11	
+T14	Chemical 753 756	ABA
+T15	Metabolite 753 756	ABA
+T16	Biological_Activity 785 793	promoter
+T17	Biological_Activity 807 820	transcription
+T18	Protein 858 866	syntaxin
+T19	Chemical 936 946	cyclic ADP
+T20	Chemical 947 953	ribose
+T21	Chemical 958 965	calcium
+T22	Biological_Activity 917 927	messengers
+R9	Associated_With Arg1:T19 Arg2:T22	
+R10	Associated_With Arg1:T20 Arg2:T22	
+R11	Associated_With Arg1:T21 Arg2:T22	
+T23	Chemical 1048 1051	ABA
+T24	Metabolite 1048 1051	ABA
+T25	Biological_Activity 1052 1062	signalling
+T26	Chemical 1101 1104	ABA
+T27	Metabolite 1101 1104	ABA
+T28	Protein 1170 1183	ABA receptors
+T29	Protein 1264 1273	receptors
+T30	Chemical 1308 1311	ABA
+T31	Metabolite 1308 1311	ABA
+T32	Biological_Activity 1312 1319	binding
+T33	Protein 1320 1328	proteins
+T34	Chemical 1370 1373	ABA
+T35	Metabolite 1370 1373	ABA
+T36	Chemical 1470 1473	ABA
+T37	Metabolite 1470 1473	ABA
+T38	Protein 1639 1658	monoclonal antibody
+T39	Protein 1659 1664	JIM19
+T40	Species 1722 1726	rice
+T41	Protein 1758 1763	JIM19
+T42	Protein 1785 1806	monoclonal antibodies
+T43	Species 1836 1839	pea
+T44	Chemical 1896 1899	ABA
+T45	Metabolite 1896 1899	ABA
+T46	Species 1913 1919	barley
+T47	Protein 1920 1928	aleurone
+T48	Chemical 1966 1969	ABA
+T49	Metabolite 1966 1969	ABA
+T50	Protein 1996 2001	JIM19
+T51	Biological_Activity 2002 2007	binds
+T52	Protein 2011 2024	glycoproteins
+T53	Protein 2026 2029	GPs
+T54	Species 2034 2038	rice
+T55	Biological_Activity 2057 2064	binding
+T56	Biological_Activity 2068 2079	antagonized
+T57	Chemical 2083 2086	ABA
+T58	Metabolite 2083 2086	ABA
+R12	Associated_With Arg1:T58 Arg2:T56	
+R13	Associated_With Arg1:T57 Arg2:T56	
+T59	Chemical 2146 2149	ABA
+T60	Metabolite 2146 2149	ABA
+T61	Chemical 2150 2160	catabolite
+T62	Metabolite 2150 2160	catabolite
+T63	Chemical 2162 2174	phaseic acid
+T64	Metabolite 2162 2174	phaseic acid
+T65	Chemical 2176 2178	PA
+T66	Metabolite 2176 2178	PA
+T67	Protein 2220 2235	β-glucuronidase
+T68	Protein 2237 2240	GUS
+T69	Protein 2242 2252	luciferase
+T70	Protein 2295 2320	green fluorescent protein
+T71	Protein 2322 2325	GFP
+T72	Chemical 2344 2347	ABA
+T73	Metabolite 2344 2347	ABA
+T74	Chemical 2356 2358	PA
+T75	Metabolite 2356 2358	PA
+T76	Biological_Activity 2371 2379	promoter
+T77	Biological_Activity 2359 2366	induces
+T78	Chemical 2395 2398	ABA
+T79	Metabolite 2395 2398	ABA
+T80	Biological_Activity 2407 2415	promoter
+T81	Biological_Activity 2428 2439	antagonized
+T82	Protein 2443 2448	JIM19
+R14	Associated_With Arg1:T73 Arg2:T77	
+R15	Associated_With Arg1:T72 Arg2:T77	
+R16	Associated_With Arg1:T73 Arg2:T76	
+R17	Associated_With Arg1:T72 Arg2:T76	
+R18	Associated_With Arg1:T24 Arg2:T25	
+R19	Associated_With Arg1:T23 Arg2:T25	
+T83	Chemical 2483 2486	ABA
+T84	Metabolite 2483 2486	ABA
+T85	Biological_Activity 2487 2497	signalling
+T86	Protein 2536 2548	ABA receptor
+T87	Protein 2553 2558	JIM19
+T88	Biological_Activity 2559 2566	epitope
+T89	Protein 2578 2580	GP
+T90	Species 2631 2635	rice
+T91	Species 2637 2649	Oryza sativa
+T92	Species 2700 2704	Rice
+T93	Chemical 2943 2948	HEPES
+T94	Chemical 3006 3015	phosphate
+T95	Protein 3092 3102	macerozyme
+T96	Chemical 3118 3128	pectolyase
+T97	Chemical 3216 3228	Phaseic acid
+T98	Metabolite 3216 3228	Phaseic acid
+T99	Species 3276 3281	Plant
+T100	Chemical 3316 3335	(±)Cis , trans -ABA
+T101	Chemical 3348 3360	phaseic acid
+T102	Metabolite 3348 3360	phaseic acid
+T103	Spectral_Data 3380 3392	spectrometry
+T104	Spectral_Data 3453 3470	mass spectrometry
+R20	Associated_With Arg1:T100 Arg2:T104	
+R21	Associated_With Arg1:T102 Arg2:T104	
+R22	Associated_With Arg1:T101 Arg2:T104	
+T105	Protein 3555 3560	JIM19
+T106	Protein 3565 3570	JIM20
+T107	Biological_Activity 3533 3546	Immunological
+T108	Chemical 3824 3849	phosphate-buffered saline
+T109	Chemical 3851 3854	PBS
+T110	Chemical 3885 3888	PBS
+T111	Chemical 3967 3981	nitrocellulose
+T112	Protein 4029 4037	proteins
+T113	Protein 4091 4096	JIM19
+T114	Protein 4168 4173	JIM20
+T115	Species 4201 4207	Rabbit
+T116	Species 4213 4216	rat
+T117	Protein 4217 4220	IgM
+T118	Protein 4235 4255	alkaline phosphatase
+T119	Chemical 4325 4355	nitroblue tetrazolium chloride
+T120	Chemical 4360 4396	5-bromo-4-chloro-3-indolyl-phosphate
+T121	Protein 4428 4431	JIM
+T122	Biological_Activity 4432 4437	bound
+T123	Biological_Activity 4438 4446	antigens
+T124	Protein 4461 4466	JIM19
+T125	Protein 4506 4511	JIM20
+T126	Chemical 4553 4569	Sodium periodate
+T127	Chemical 4595 4600	NaOAc
+T128	Protein 4646 4654	proteins
+T129	Protein 4666 4668	GP
+T130	Chemical 4669 4682	carbohydrates
+T131	Protein 4711 4725	JIM antibodies
+T132	Species 4745 4749	rice
+T133	Chemical 5030 5056	fluorescein isothiocyanate
+T134	Chemical 5058 5062	FITC
+T135	Protein 5109 5112	GFP
+T136	Chemical 5264 5285	fluorescein diacetate
+T137	Chemical 5430 5435	HEPES
+T138	Protein 5452 5457	JIM19
+T139	Protein 5461 5466	JIM20
+T140	Chemical 5534 5539	HEPES
+T141	Species 5588 5592	goat
+T142	Species 5598 5601	rat
+T143	Protein 5602 5605	IgG
+T144	Chemical 5617 5621	FITC
+T145	Chemical 5674 5679	HEPES
+T146	Chemical 5696 5712	paraformaldehyde
+T147	Chemical 5722 5725	PBS
+T148	Chemical 5965 5969	Tris
+T149	Chemical 5978 5985	sucrose
+T150	Chemical 5992 5996	EDTA
+T151	Chemical 6011 6016	MgSO4
+T152	Chemical 6024 6038	dithiothreitol
+T153	Chemical 6048 6056	PEG-1540
+T154	Chemical 6113 6121	PEG-3350
+T155	Protein 6158 6164	enzyme
+T156	Chemical 6190 6198	vanadate
+T157	Protein 6209 6215	ATPase
+T158	Chemical 6258 6269	antimycin A
+T159	Protein 6295 6318	cytochrome c reductases
+T160	Protein 6416 6423	Protein
+T161	Chemical 6461 6464	dye
+T162	Biological_Activity 6465 6472	binding
+T163	Protein 6601 6606	JIM19
+T164	Protein 6623 6643	Alkaline phosphatase
+T165	Species 6655 6661	rabbit
+T166	Species 6667 6670	rat
+T167	Protein 6671 6674	IgM
+T168	Chemical 6714 6719	HEPES
+T169	Biological_Activity 6744 6749	bound
+T170	Chemical 6760 6774	Affigel-Gel 10
+T171	Chemical 6842 6848	esters
+T172	Chemical 6871 6883	ethanolamide
+T173	Chemical 6924 6927	PBS
+T174	Protein 6937 6942	JIM19
+R23	Binds_With Arg1:T144 Arg2:T143	
+T175	Chemical 7026 7029	PBS
+T176	Protein 7035 7049	JIM19 antibody
+T177	Chemical 7078 7081	Gly
+T178	Protein 7155 7160	JIM19
+T179	Chemical 7182 7185	PBS
+T180	Protein 7268 7273	JIM19
+T181	Chemical 7317 7324	dextran
+T182	Chemical 7370 7375	amine
+T183	Chemical 7404 7409	NaOAc
+T184	Protein 7507 7512	JIM19
+T185	Chemical 7568 7572	NaOH
+T186	Protein 7642 7647	JIM19
+T187	Chemical 7750 7765	fluorescent dye
+T188	Biological_Activity 7766 7773	binding
+T189	Species 7880 7886	Rabbit
+T190	Protein 7892 7895	GUS
+T191	Protein 7896 7904	antibody
+T192	Species 8162 8167	wheat
+T193	Species 8240 8245	maize
+T194	Protein 8246 8255	ubiquitin
+T195	Biological_Activity 8256 8264	promoter
+T196	Species 8273 8280	firefly
+T197	Protein 8281 8291	luciferase
+T198	Protein 8293 8296	LUC
+T199	Chemical 8355 8358	ABA
+T200	Metabolite 8355 8358	ABA
+T201	Biological_Activity 8418 8426	promoter
+T202	Protein 8446 8449	GFP
+T203	Protein 8451 8455	sGFP
+T204	Protein 8864 8876	JIM antibody
+T205	Chemical 8921 8924	ABA
+T206	Metabolite 8921 8924	ABA
+T207	Chemical 8970 8975	HEPES
+T208	Chemical 8986 8993	ethanol
+T209	Protein 8999 9005	enzyme
+T210	Chemical 9111 9128	2-mercaptoethanol
+T211	Protein 9133 9136	LUC
+T212	Biological_Activity 9133 9136	LUC
+T213	Protein 9323 9326	LUC
+T214	Protein 9522 9525	GUS
+T215	Chemical 9594 9627	4-methylumbelliferone glucuronide
+T216	Chemical 9703 9707	NaPi
+T217	Chemical 7125 7131	KH2 Pi
+T218	Chemical 9724 9728	EDTA
+T219	Chemical 9741 9753	Triton X-100
+T220	Chemical 9762 9781	N -lauryl sarcosine
+T221	Chemical 9792 9809	2-mercaptoethanol
+T222	Chemical 9852 9873	4-methylumbelliferone
+T223	Protein 9987 9992	JIM19
+T224	Protein 9997 10002	JIM20
+T225	Protein 10026 10039	glycoproteins
+T226	Species 10043 10047	rice
+T227	Species 10116 10121	plant
+T228	Species 10178 10182	rice
+T229	Protein 10220 10234	JIM19 antibody
+T230	Protein 10341 10346	JIM19
+T231	Biological_Activity 10347 10354	binding
+T232	Species 10374 10378	rice
+T233	Chemical 10438 10442	FITC
+T234	Species 10457 10460	rat
+T235	Protein 10461 10464	IgG
+T236	Protein 10475 10483	antibody
+T237	Protein 10538 10543	JIM19
+T238	Protein 10640 10648	antibody
+T239	Protein 10702 10707	JIM20
+T240	Protein 10795 10800	JIM19
+T241	Protein 10802 10807	JIM20
+T242	Protein 10822 10827	JIM19
+T243	Protein 10901 10915	JIM antibodies
+T244	Protein 11076 11081	JIM19
+T245	Species 11086 11090	rice
+T246	Biological_Activity 11094 11102	epitopes
+T247	Protein 11126 11131	JIM20
+T248	Biological_Activity 11178 11186	antigens
+T249	Protein 11201 11206	JIM19
+T250	Protein 11211 11216	JIM20
+T251	Species 11337 11341	rice
+T252	Protein 11345 11348	JIM
+T253	Biological_Activity 11349 11357	epitopes
+T254	Chemical 11361 11377	sodium periodate
+T255	Chemical 11394 11407	carbohydrates
+T256	Protein 11452 11457	JIM19
+T257	Protein 11462 11467	JIM20
+T258	Chemical 11482 11494	carbohydrate
+T259	Protein 11507 11510	GPs
+T260	Protein 11518 11523	JIM19
+T261	Protein 11528 11533	JIM20
+T262	Chemical 11561 11573	carbohydrate
+T263	Protein 11598 11601	GPs
+T264	Chemical 11687 11703	sodium periodate
+T265	Protein 11758 11760	GP
+T266	Protein 11770 11785	β-glucuronidase
+T267	Protein 11852 11855	GPs
+T268	Protein 11933 11938	JIM19
+T269	Protein 11940 11945	JIM20
+T270	Protein 11962 11965	GPs
+T271	Protein 12027 12035	proteins
+T272	Protein 12050 12055	JIM19
+T273	Protein 12091 12099	proteins
+T274	Protein 12148 12153	JIM19
+T275	Protein 12199 12204	JIM20
+T276	Protein 12210 12215	JIM19
+T277	Biological_Activity 12274 12282	epitopes
+T278	Protein 12376 12381	JIM19
+T279	Biological_Activity 12389 12397	epitopes
+T280	Protein 12421 12426	JIM20
+T281	Biological_Activity 12433 12440	Binding
+T282	Protein 12464 12469	JIM19
+T283	Biological_Activity 12486 12497	antagonized
+T284	Chemical 12501 12514	abscisic acid
+T285	Metabolite 12501 12514	abscisic acid
+T286	Biological_Activity 12566 12573	binding
+T287	Biological_Activity 12580 12588	epitopes
+T288	Protein 12592 12597	JIM19
+T289	Protein 12693 12701	antibody
+T290	Biological_Activity 12724 12731	antigen
+T291	Biological_Activity 12924 12931	binding
+T292	Biological_Activity 13026 13033	binding
+T293	Biological_Activity 13053 13060	binding
+T294	Protein 13099 13104	JIM19
+T295	Biological_Activity 13120 13125	bound
+T296	Chemical 13131 13152	carboxymethyl dextran
+T297	Protein 13281 13288	protein
+T298	Protein 13330 13338	proteins
+T299	Protein 13362 13367	JIM19
+T300	Biological_Activity 13418 13425	binding
+T301	Biological_Activity 13496 13501	bound
+T302	Biological_Activity 13781 13788	binding
+T303	Biological_Activity 13903 13910	binding
+T304	Biological_Activity 14038 14045	binding
+T305	Biological_Activity 14079 14086	binding
+T306	Biological_Activity 14132 14139	binding
+T307	Protein 14143 14148	JIM19
+T308	Protein 14210 14222	JIM antibody
+T309	Protein 14258 14263	JIM19
+T310	Protein 14340 14345	JIM19
+T311	Protein 14358 14363	JIM20
+T312	Biological_Activity 14369 14380	antagonized
+T313	Biological_Activity 14384 14391	binding
+T314	Protein 14395 14400	JIM19
+T315	Protein 14418 14423	JIM19
+T316	Protein 14428 14433	JIM20
+T317	Biological_Activity 14492 14500	epitopes
+T318	Biological_Activity 14556 14563	binding
+T319	Protein 14628 14636	antibody
+T320	Protein 14643 14646	GUS
+T321	Protein 14672 14677	JIM19
+T322	Biological_Activity 14686 14690	bind
+T323	Protein 14694 14714	bovine serum albumin
+T324	Species 14694 14700	bovine
+T325	Species 14732 14737	human
+T326	Protein 14758 14766	proteins
+T327	Biological_Activity 14846 14853	binding
+T328	Biological_Activity 15033 15040	binding
+T329	Protein 15101 15109	proteins
+T330	Protein 15152 15160	proteins
+T331	Protein 15207 15212	JIM19
+T332	Chemical 15231 15234	ABA
+T333	Metabolite 15231 15234	ABA
+T334	Biological_Activity 15235 15245	signalling
+T335	Chemical 15320 15323	ABA
+T336	Metabolite 15320 15323	ABA
+T337	Protein 15349 15354	JIM19
+T338	Biological_Activity 15386 15396	inhibition
+T339	Chemical 15400 15403	ABA
+T340	Metabolite 15400 15403	ABA
+T341	Biological_Activity 15410 15417	binding
+T342	Protein 15421 15426	JIM19
+R24	Associated_With Arg1:T340 Arg2:T338	
+R25	Associated_With Arg1:T339 Arg2:T338	
+T343	Chemical 15479 15482	ABA
+R26	Metabolite_Of Arg1:T64 Arg2:T59	
+R27	Metabolite_Of Arg1:T66 Arg2:T59	
+R28	Metabolite_Of Arg1:T64 Arg2:T1	
+R29	Metabolite_Of Arg1:T66 Arg2:T1	
+T344	Metabolite 15479 15482	ABA
+T345	Chemical 15540 15543	ABA
+T346	Metabolite 15540 15543	ABA
+T347	Biological_Activity 15601 15611	inhibition
+T348	Protein 15615 15620	JIM19
+T349	Biological_Activity 15621 15628	binding
+R30	Associated_With Arg1:T346 Arg2:T347	
+R31	Associated_With Arg1:T345 Arg2:T347	
+T350	Chemical 15658 15661	ABA
+T351	Metabolite 15658 15661	ABA
+T352	Biological_Activity 15756 15766	inhibition
+T353	Chemical 15770 15773	ABA
+T354	Metabolite 15770 15773	ABA
+T355	Chemical 15819 15831	phaseic acid
+T356	Metabolite 15819 15831	phaseic acid
+T357	Chemical 15833 15835	PA
+T358	Metabolite 15833 15835	PA
+T359	Chemical 15850 15860	catabolite
+T360	Metabolite 15850 15860	catabolite
+T361	Chemical 15864 15867	ABA
+T362	Metabolite 15864 15867	ABA
+T363	Chemical 15977 15979	PA
+T364	Metabolite 15977 15979	PA
+T365	Protein 16009 16014	JIM19
+T366	Chemical 16080 16083	ABA
+T367	Metabolite 16080 16083	ABA
+T368	Chemical 16119 16121	PA
+T369	Metabolite 16119 16121	PA
+T370	Biological_Activity 16125 16137	antagonizing
+T371	Biological_Activity 16142 16149	binding
+T372	Protein 16160 16165	JIM19
+T373	Protein 16251 16256	JIM19
+T374	Chemical 16268 16271	ABA
+T375	Metabolite 16268 16271	ABA
+T376	Protein 16359 16364	JIM19
+T377	Chemical 16387 16390	ABA
+T378	Metabolite 16387 16390	ABA
+T379	Chemical 16395 16407	phaseic acid
+T380	Metabolite 16395 16407	phaseic acid
+T381	Chemical 16450 16453	ABA
+T382	Metabolite 16450 16453	ABA
+T383	Biological_Activity 16496 16504	promoter
+T384	Species 16517 16521	rice
+T385	Protein 16567 16573	enzyme
+T386	Species 16627 16631	rice
+T387	Chemical 16655 16658	ABA
+T388	Metabolite 16655 16658	ABA
+T389	Biological_Activity 16677 16685	promoter
+T390	Biological_Activity 16659 16668	activated
+T391	Chemical 16722 16734	phaseic acid
+T392	Metabolite 16722 16734	phaseic acid
+T393	Protein 16767 16772	GUS  
+T394	Chemical 16823 16835	phaseic acid
+T395	Metabolite 16823 16835	phaseic acid
+T396	Biological_Activity 16854 16862	inducing
+T397	Species 16895 16901	barley
+T398	Chemical 16961 16964	ABA
+T399	Metabolite 16961 16964	ABA
+T400	Chemical 17066 17069	ABA
+T401	Metabolite 17066 17069	ABA
+T402	Biological_Activity 17087 17094	binding
+T403	Protein 17098 17103	JIM19
+T404	Biological_Activity 17243 17253	signalling
+T405	Chemical 17300 17303	ABA
+T406	Metabolite 17300 17303	ABA
+T407	Protein 17355 17358	GFP
+T408	Chemical 17382 17385	ABA
+T409	Metabolite 17382 17385	ABA
+T410	Protein 17391 17394	GFP
+T411	Protein 17474 17477	GFP
+T412	Biological_Activity 17496 17504	promoter
+T413	Chemical 17665 17668	ABA
+T414	Metabolite 17665 17668	ABA
+T415	Chemical 17750 17753	ABA
+T416	Metabolite 17750 17753	ABA
+T417	Protein 17763 17766	GFP
+T418	Protein 17884 17887	GFP
+T419	Chemical 17942 17945	ABA
+T420	Metabolite 17942 17945	ABA
+T421	Biological_Activity 17986 17994	promoter
+T422	Species 18068 18073	plant
+T423	Chemical 18139 18142	ABA
+T424	Metabolite 18139 18142	ABA
+T425	Protein 18171 18176	JIM19
+T426	Biological_Activity 18160 18167	binding
+T427	Protein 18259 18264	JIM19
+T428	Chemical 18268 18271	ABA
+T429	Metabolite 18268 18271	ABA
+T430	Protein 18299 18304	JIM19
+T431	Biological_Activity 18308 18318	antagonize
+T432	Chemical 18319 18322	ABA
+T433	Metabolite 18319 18322	ABA
+T434	Protein 18348 18351	GUS
+T435	Protein 18361 18364	GFP
+T436	Protein 18428 18433	JIM19
+T437	Biological_Activity 18434 18443	inhibited
+T438	Chemical 18444 18447	ABA
+T439	Metabolite 18444 18447	ABA
+T440	Protein 18466 18471	JIM20
+T441	Protein 18541 18546	JIM20
+T442	Protein 18592 18600	antibody
+T443	Chemical 18628 18631	ABA
+T444	Metabolite 18628 18631	ABA
+T445	Biological_Activity 18646 18654	promoter
+T446	Protein 18703 18708	JIM19
+T447	Protein 18722 18727	JIM20
+T448	Biological_Activity 18846 18856	inhibition
+T449	Chemical 18864 18867	ABA
+T450	Metabolite 18864 18867	ABA
+T451	Protein 18899 18904	GUS  
+T452	Protein 18964 18969	JIM19
+T453	Chemical 18985 18988	ABA
+T454	Metabolite 18985 18988	ABA
+T455	Biological_Activity 19020 19030	inhibition
+T456	Protein 19087 19090	GFP
+T457	Protein 19139 19144	JIM19
+T458	Chemical 19150 19153	ABA
+T459	Metabolite 19150 19153	ABA
+T460	Biological_Activity 19180 19188	promoter
+T461	Chemical 19224 19227	ABA
+T462	Metabolite 19224 19227	ABA
+T463	Protein 19371 19376	JIM19
+T464	Species 19392 19396	rice
+T465	Protein 19489 19503	JIM19 antibody
+T466	Biological_Activity 19518 19525	epitope
+T467	Species 19529 19533	rice
+T468	Protein 19561 19573	ABA receptor
+T469	Protein 19605 19610	JIM19
+T470	Protein 19626 19628	GP
+T471	Protein 19666 19678	ABA receptor
+T472	Chemical 19702 19705	ABA
+T473	Metabolite 19702 19705	ABA
+T474	Biological_Activity 19706 19713	binding
+T475	Biological_Activity 19731 19739	inhibits
+T476	Chemical 19740 19743	ABA
+T477	Metabolite 19740 19743	ABA
+T478	Biological_Activity 19777 19784	binding
+T479	Chemical 19788 19791	ABA
+T480	Metabolite 19788 19791	ABA
+T481	Protein 19797 19805	receptor
+T482	Biological_Activity 19825 19831	induce
+T483	Protein 19897 19899	GP
+T484	Biological_Activity 19900 19907	epitope
+T485	Protein 19912 19917	JIM19
+T486	Protein 19977 20000	O -glucosyl transferase
+T487	Protein 20002 20005	SPY
+T488	Species 20030 20036	barley
+T489	Chemical 20075 20078	ABA
+T490	Metabolite 20075 20078	ABA
+T491	Biological_Activity 20094 20102	promoter
+T492	Protein 20144 20147	GPs
+T493	Protein 20166 20171	JIM19
+T494	Protein 20216 20221	JIM20
+T495	Biological_Activity 20246 20256	antagonism
+T496	Biological_Activity 20263 20270	binding
+T497	Protein 20274 20279	JIM19
+T498	Protein 20308 20313	JIM19
+T499	Protein 20318 20323	JIM20
+T500	Biological_Activity 20365 20373	epitopes
+T501	Protein 20406 20414	proteins
+T502	Protein 20534 20539	JIM19
+T503	Chemical 20577 20580	ABA
+T504	Metabolite 20577 20580	ABA
+T505	Biological_Activity 20581 20591	signalling
+T506	Biological_Activity 20704 20711	binding
+T507	Protein 20745 20757	ABA receptor
+T508	Protein 20811 20818	protein
+T509	Chemical 20866 20869	ABA
+T510	Metabolite 20866 20869	ABA
+T511	Biological_Activity 20870 20881	antagonized
+T512	Biological_Activity 20882 20889	binding
+T513	Protein 20900 20905	JIM19
+T514	Biological_Activity 20931 20938	binding
+T515	Chemical 20942 20945	ABA
+T516	Metabolite 20942 20945	ABA
+T517	Protein 20952 20964	ABA receptor
+R32	Binds_With Arg1:T516 Arg2:T517	
+R33	Binds_With Arg1:T515 Arg2:T517	
+T518	Protein 20997 21000	GPs
+T519	Chemical 21053 21060	3 H-ABA
+T520	Protein 21100 21107	protein
+T521	Biological_Activity 21164 21171	binding
+T522	Protein 21191 21196	JIM19
+T523	Chemical 21318 21321	ABA
+T524	Metabolite 21318 21321	ABA
+T525	Protein 21368 21371	GPs
+T526	Species 21375 21381	plants
+T527	Species 21386 21393	animals
+T528	Protein 21400 21409	integrins
+T529	Protein 21532 21541	integrins
+T530	Protein 21571 21579	receptor
+T531	Biological_Activity 21580 21590	activation
+T532	Protein 21617 21625	integrin
+T533	Chemical 21635 21638	ABA
+T534	Metabolite 21635 21638	ABA
+T535	Biological_Activity 21639 21649	signalling
+T536	Biological_Activity 21657 21666	agonistic
+T537	Chemical 21700 21703	ABA
+T538	Metabolite 21700 21703	ABA
+R34	Associated_With Arg1:T534 Arg2:T536	
+R35	Associated_With Arg1:T533 Arg2:T536	
+T539	Species 21803 21809	plants
+T540	Chemical 21813 21841	glycosylphosphatidylinositol
+T541	Chemical 21843 21846	GPI
+T542	Chemical 21857 21872	arabinogalactan
+T543	Protein 21873 21881	proteins
+T544	Species 22126 22130	rice
+T545	Protein 21857 21881	arabinogalactan proteins

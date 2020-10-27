@@ -1,0 +1,94 @@
+T1	Chemical 1 12	Oxamniquine
+T2	Chemical 14 89	1,2,3,4-tetrahydro-2-[(isopropylamino)methyl]-7-nitro-6-quinoline methanol)
+T3	Biological_Activity 96 112	antischistosomal
+T4	Chemical 96 118	antischistosomal agent
+R1	Associated_With Arg1:T2 Arg2:T3	
+R2	Associated_With Arg1:T1 Arg2:T3	
+T5	Species 158 168	S. mansoni
+T6	Biological_Activity 231 238	inhibit
+T7	Chemical 239 242	DNA
+T8	Chemical 244 247	RNA
+R3	Associated_With Arg1:T2 Arg2:T6	
+R4	Associated_With Arg1:T1 Arg2:T6	
+T9	Chemical 315 326	oxamniquine
+T10	Protein 252 259	protein
+T11	Chemical 392 403	Oxamniquine
+T12	Spectral_Data 485 503	spectrophotometric
+T13	Spectral_Data 621 638	spectrophotometry
+T14	Chemical 1093 1104	oxamniquine
+T15	Spectral_Data 1139 1150	Fluorimetry
+T16	Spectral_Data 1253 1265	fluorimetric
+T17	Chemical 1292 1303	oxamniquine
+T18	Chemical 1312 1328	2-cyanoacetamide
+T19	Chemical 1381 1396	aminoglycosides
+T20	Chemical 1413 1426	carbohydrates
+T21	Biological_Activity 1447 1458	degradation
+T22	Chemical 1480 1495	polysaccharides
+T23	Chemical 1506 1520	catecholamines
+T24	Chemical 1599 1609;1611 1618;1620 1634	derivative nitroso of oxamniquine
+T25	Chemical 1623 1634	oxamniquine
+T26	Chemical 1611 1618	nitroso
+T27	Chemical 1640 1656	2-cyanoacetamide
+T28	Spectral_Data 1694 1706	fluorimetric
+T29	Chemical 2056 2064	solvents
+T30	Chemical 2120 2131	oxamniquine
+T31	Chemical 2203 2219	2-Cyanoacetamide
+T32	Species 2368 2378	volunteers
+T33	Chemical 2421 2436	calcium chlorid
+T34	Chemical 2465 2481	2-cyanoacetamide
+T35	Chemical 2566 2577	oxamniquine
+T36	Chemical 2588 2596	methanol
+T37	Chemical 2625 2630	water
+T38	Chemical 2756 2767	oxamniquine
+T39	Chemical 2846 2850	drug
+T40	Chemical 2105 2109	drug
+T41	Chemical 2951 2967	calcium chloride
+T42	Chemical 3038 3042	zinc
+T43	Chemical 3063 3079	2-cyanoacetamide
+T44	Chemical 3129 3134	water
+T45	Chemical 3204 3209	water
+T46	Chemical 3341 3348	reagent
+T47	Chemical 3567 3578	oxamniquine
+T48	Species 3589 3594	human
+T49	Chemical 3717 3728	oxamniquine
+T50	Chemical 3770 3781	oxamniquine
+T51	Chemical 3880 3891	oxamniquine
+T52	Chemical 3908 3912	drug
+T53	Chemical 3963 3967	NaOH
+T54	Chemical 4194 4202	nitrogen
+T55	Chemical 4274 4282	methanol
+T56	Chemical 4314 4319	water
+T57	Chemical 4456 4460	drug
+T58	Chemical 4508 4519	oxamniquine
+T59	Chemical 4620 4631	nitro group
+T60	Chemical 4681 4694	nitroso group
+T61	Chemical 4715 4717	Zn
+T62	Chemical 4718 4723	CaCl2
+T63	Chemical 4777 4790	nitroso group
+T64	Chemical 4797 4817	sodium nitroprusside
+T65	Chemical 4829 4846	nitroso compounds
+T66	Chemical 4882 4912	methylene containing compounds
+T67	Chemical 4954 4960	imines
+T68	Chemical 5066 5073	ammonia
+T69	Chemical 5100 5134	3-cyanooxazazepin-2-one derivative
+T70	Chemical 5149 5168	fluorescent product
+T71	Chemical 5238 5257	fluorescent product
+T72	Chemical 5425 5443	nitroso derivative
+T73	Chemical 5568 5572	zinc
+T74	Chemical 5697 5713	calcium chloride
+T75	Chemical 6076 6087	fluorophore
+T76	Chemical 6123 6139	2-cyanoacetamide
+T77	Chemical 6441 6447	water-
+T78	Chemical 6707 6718	oxamniquine
+T79	Chemical 7114 7125	oxamniquine
+T80	Chemical 7360 7371	Oxamniquine
+T81	Species 7687 7693	humans
+T82	Chemical 7701 7712	Oxamniquine
+T83	Chemical 7991 8002	oxamniquine
+T84	Chemical 8108 8119	oxamniquine
+T85	Spectral_Data 8061 8073	fluorimetric
+R5	Associated_With Arg1:T84 Arg2:T85	
+T86	Spectral_Data 8162 8174	fluorometric
+T87	Chemical 8192 8203	oxamniquine
+R6	Associated_With Arg1:T87 Arg2:T86	
+T88	Chemical 8480 8491	oxamniquine

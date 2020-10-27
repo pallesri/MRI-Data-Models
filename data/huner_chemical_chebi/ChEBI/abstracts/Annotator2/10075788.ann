@@ -1,0 +1,39 @@
+T1	Species 71 90	Maytenus buchananii
+T2	Chemical 123 136	maytansinoids
+#1	AnnotatorNotes T2	Chemical class
+T3	Spectral_Data 195 210	electrospray MS
+T4	Spectral_Data 212 218	1H NMR
+T5	Spectral_Data 220 227	13C NMR
+T6	Spectral_Data 233 239	2D NMR
+T7	Chemical 282 307	2'-N-demethylmaytanbutine
+T8	Chemical 345 360	maytanbicyclino
+T9	Chemical 377 389	maytansinoid
+T10	Metabolite 123 136	maytansinoids
+R1	Isolated_From Arg1:T10 Arg2:T1	
+T11	Metabolite 282 307	2'-N-demethylmaytanbutine
+T12	Metabolite 345 361	maytanbicyclinol
+T13	Metabolite 377 389	maytansinoid
+T14	Species 439 447	Maytenus
+R2	Isolated_From Arg1:T13 Arg2:T14	
+R3	Isolated_From Arg1:T12 Arg2:T14	
+R4	Isolated_From Arg1:T11 Arg2:T14	
+R5	Isolated_From Arg1:T11 Arg2:T1	
+R6	Isolated_From Arg1:T12 Arg2:T1	
+R7	Isolated_From Arg1:T13 Arg2:T1	
+T15	Chemical 399 416	macrocyclic rings
+R8	Associated_With Arg1:T11 Arg2:T3	
+R9	Associated_With Arg1:T7 Arg2:T3	
+R10	Associated_With Arg1:T12 Arg2:T4	
+R11	Associated_With Arg1:T8 Arg2:T4	
+R12	Associated_With Arg1:T11 Arg2:T5	
+R13	Associated_With Arg1:T7 Arg2:T5	
+R14	Associated_With Arg1:T12 Arg2:T5	
+R15	Associated_With Arg1:T8 Arg2:T5	
+R16	Associated_With Arg1:T11 Arg2:T6	
+R17	Associated_With Arg1:T7 Arg2:T6	
+R18	Associated_With Arg1:T12 Arg2:T3	
+R19	Associated_With Arg1:T8 Arg2:T3	
+R20	Associated_With Arg1:T12 Arg2:T4	
+R21	Associated_With Arg1:T8 Arg2:T4	
+R22	Associated_With Arg1:T12 Arg2:T6	
+R23	Associated_With Arg1:T8 Arg2:T6	

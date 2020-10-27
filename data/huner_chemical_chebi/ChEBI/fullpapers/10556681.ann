@@ -1,0 +1,179 @@
+T1	Protein 6 26	muscarinic receptors
+T2	Protein 131 157	G-protein coupled receptor
+T3	Protein 174 187;307 316	muscarinic M1 receptors
+T4	Protein 174 184;190 194;307 316	muscarinic M3   receptors
+T5	Protein 174 184;198 202;307 316	muscarinic M5   receptors
+T6	Protein 222 237	Gq/11  proteins
+T7	Chemical 260 270	inositides
+T8	Protein 284 297;307 316	muscarinic M2 receptors
+T9	Protein 284 294;303 316	muscarinic M4  receptors
+T10	Protein 341 353	Gi  proteins
+T11	Protein 358 375	adenylate cyclase
+T12	Biological_Activity 358 375	adenylate cyclase
+T13	Protein 400 409	receptors
+T14	Protein 605 613	receptor
+T15	Biological_Activity 633 641	agonists
+T16	Biological_Activity 646 657	antagonists
+T17	Protein 691 710	muscarinic receptor
+T18	Biological_Activity 736 746	inhibitory
+T19	Protein 747 760	autoreceptors
+T20	Chemical 787 800	acetylcholine
+T21	Protein 1011 1024	autoreceptors
+T22	Protein 1036 1049	muscarinic M2
+T23	Protein 1036 1046;1099 1101	muscarinic M4
+T24	Biological_Activity 1169 1180	antagonists
+T25	Protein 1222 1230	receptor
+T26	Chemical 1278 1285	BIBN-99
+T27	Protein 1289 1312	muscarinic M2  receptor
+T28	Biological_Activity 1313 1323	antagonist
+R1	Binds_With Arg1:T26 Arg2:T27	
+R2	Associated_With Arg1:T26 Arg2:T28	
+T29	Protein 1360 1373;1383 1392	muscarinic M2 receptors
+T30	Protein 1360 1370;1379 1393	muscarinic M4  receptors,
+T31	Species 1470 1474	rats
+T32	Biological_Activity 1555 1579	muscarinic M2  receptors
+T33	Protein 1697 1716	muscarinic receptor
+T34	Biological_Activity 1740 1751	antagonists
+T35	Metabolite 787 800	acetylcholine
+T36	Chemical 1794 1807	acetylcholine
+T37	Metabolite 1794 1807	acetylcholine
+T38	Chemical 1912 1920	PD102807
+T39	Protein 1975 1998	muscarinic M4  receptor
+T40	Biological_Activity 1999 2010	antagonists
+R3	Binds_With Arg1:T38 Arg2:T39	
+R4	Associated_With Arg1:T38 Arg2:T40	
+T41	Protein 2107 2130	muscarinic M2  receptor
+T42	Biological_Activity 2131 2142	antagonists
+T43	Chemical 2143 2152	AF-DX 384
+T44	Chemical 2157 2165	BIBN-161
+R5	Associated_With Arg1:T43 Arg2:T42	
+R6	Binds_With Arg1:T43 Arg2:T41	
+R7	Associated_With Arg1:T44 Arg2:T42	
+R8	Binds_With Arg1:T44 Arg2:T41	
+T45	Protein 2235 2247	autoreceptor
+T46	Chemical 2271 2284	acetylcholine
+T47	Metabolite 2271 2284	acetylcholine
+T48	Species 2300 2303	rat
+T49	Species 2402 2421	Sprague–Dawley rats
+T50	Species 2499 2506	Animals
+T51	Chemical 2647 2652	water
+T52	Species 2735 2742	animals
+T53	Species 2814 2820	Animal
+T54	Species 2864 2870	Animal
+T55	Chemical 2877 2885	BIBN-161
+T56	Chemical 2890 2899	AF-DX 384
+T57	Chemical 2970 2978	PD102807
+T58	Chemical 3031 3040	AF-DX 384
+T59	Chemical 3058 3063	water
+T60	Chemical 3073 3081	BIBN-161
+T61	Chemical 3086 3094	PD102807
+T62	Chemical 3119 3122	HCl
+T63	Chemical 3156 3160	NaOH
+T64	Species 3289 3296	Animals
+T65	Biological_Activity 3302 3314	anesthetized
+T66	Chemical 3345 3357	acepromazine
+R9	Associated_With Arg1:T66 Arg2:T65	
+T67	Chemical 3410 3418	xylazine
+R10	Associated_With Arg1:T67 Arg2:T65	
+T68	Chemical 3467 3475	ketamine
+R11	Associated_With Arg1:T68 Arg2:T65	
+T69	Chemical 3921 3934	acetylcholine
+T70	Metabolite 3921 3934	acetylcholine
+T71	Chemical 4117 4121	NaCl
+T72	Chemical 4132 4135	KCl
+T73	Chemical 4144 4151	CaCl2  
+T74	Chemical 4161 4168	MgCl2  
+T75	Chemical 4178 4186	NaHCO3  
+T76	Chemical 4205 4221	phosphate buffer
+T77	Chemical 4245 4256	neostigmine
+T78	Chemical 4318 4331	acetylcholine
+T79	Metabolite 4318 4331	acetylcholine
+T80	Chemical 4431 4444	acetylcholine
+T81	Metabolite 4431 4444	acetylcholine
+T82	Chemical 4514 4523	AF-DX 384
+T83	Chemical 4525 4533	BIBN-161
+T84	Chemical 4537 4545	PD102807
+T85	Chemical 4760 4773	acetylcholine
+T86	Metabolite 4760 4773	acetylcholine
+R12	Isolated_From Arg1:T47 Arg2:T48	
+T87	Chemical 4795 4808	acetylcholine
+T88	Metabolite 4795 4808	acetylcholine
+T89	Biological_Activity 4880 4889	enzymatic
+T90	Chemical 4974 4987	Acetylcholine
+T91	Metabolite 4974 4987	Acetylcholine
+T92	Species 5034 5040	animal
+T93	Chemical 5098 5111	acetylcholine
+T94	Metabolite 5098 5111	acetylcholine
+T95	Chemical 5159 5163	drug
+T96	Protein 5271 5294	muscarinic M2  receptor
+T97	Biological_Activity 5295 5306	antagonists
+T98	Chemical 5307 5316	AF-DX 384
+T99	Chemical 5321 5329	BIBN-161
+T100	Chemical 5342 5355	acetylcholine
+T101	Metabolite 5342 5355	acetylcholine
+T102	Species 5371 5374	rat
+T103	Chemical 5429 5434	drugs
+T104	Chemical 5489 5497	AF-DX384
+T105	Chemical 5528 5536	BIBN-161
+T106	Chemical 5565 5574	AF-DX 384
+T107	Chemical 5587 5595	BIBN-161
+T108	Chemical 5636 5649	acetylcholine
+T109	Metabolite 5636 5649	acetylcholine
+T110	Protein 5752 5775	muscarinic M4  receptor
+T111	Biological_Activity 5776 5786	antagonist
+T112	Chemical 5787 5795	PD102807
+T113	Chemical 6018 6026	PD102807
+T114	Chemical 6042 6055	acetylcholine
+T115	Metabolite 6042 6055	acetylcholine
+T116	Biological_Activity 6161 6172	antagonists
+T117	Chemical 6219 6232	acetylcholine
+T118	Metabolite 6219 6232	acetylcholine
+T119	Species 6254 6257	rat
+T120	Chemical 6334 6342	AF-DX384
+T121	Chemical 6343 6351	BIBN-161
+T122	Chemical 6352 6360	PD102807
+T123	Protein 6433 6446;6461 6469	muscarinic M2 receptor
+T124	Protein 6433 6443;6457 6469	muscarinic M4  receptor
+T125	Protein 6530 6553	muscarinic M4  receptor
+T126	Biological_Activity 6554 6564	antagonist
+T127	Chemical 6565 6573	PD102807
+T128	Chemical 6660 6668	AF-DX384
+T129	Protein 6708 6710	M1
+T130	Protein 6713 6715	M2
+T131	Protein 6718 6720	M3
+T132	Protein 6723 6727	M4  
+T133	Protein 6731 6735	M5  
+T134	Chemical 6793 6801	BIBN-161
+T135	Chemical 6816 6824	PD102807
+T136	Protein 6858 6881	muscarinic M4  receptor
+T137	Species 6957 6962	human
+T138	Protein 6963 6976	muscarinic M1
+T139	Protein 6963 6973;6981 6985	muscarinic M5  
+T140	Protein 7078 7097	muscarinic receptor
+T141	Chemical 7109 7122	acetylcholine
+T142	Metabolite 7109 7122	acetylcholine
+T143	Protein 7141 7145	M2  
+T144	Protein 7157 7161	M4  
+T145	Species 7187 7190	rat
+T146	Protein 7355 7378	muscarinic M2  receptor
+T147	Protein 7393 7405	autoreceptor
+T148	Chemical 7417 7430	acetylcholine
+T149	Biological_Activity 7417 7430	acetylcholine
+T150	Protein 7481 7485	M4  
+T151	Protein 7520 7532	autoreceptor
+T152	Protein 7621 7634;7644 7653	muscarinic M2 receptors
+T153	Protein 7621 7631;7640 7653	muscarinic M4  receptors
+T154	Protein 7753 7777	muscarinic M2  receptors
+T155	Chemical 7799 7812	acetylcholine
+T156	Metabolite 7799 7812	acetylcholine
+T157	Protein 7974 7997	muscarinic M2  receptor
+T158	Biological_Activity 7998 8005	blocked
+T159	Biological_Activity 8021 8032	antagonists
+T160	Chemical 8041 8050	AF-DX 384
+T161	Chemical 8065 8078	acetylcholine
+T162	Metabolite 8065 8078	acetylcholine
+T163	Protein 8122 8145	muscarinic M4  receptor
+T164	Chemical 8208 8217	AF-DX 384
+T165	Chemical 8240 8253	acetylcholine
+T166	Metabolite 8240 8253	acetylcholine
+T167	Species 8269 8272	rat

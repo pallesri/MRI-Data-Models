@@ -1,0 +1,667 @@
+T2	Protein 1 13	Glucosidases
+T3	Protein 35 42	enzymes
+T4	Protein 165 172	enzymes
+T5	Chemical 237 246	cellulose
+T6	Biological_Activity 247 258	degradation
+T7	Species 297 302	plant
+T8	Chemical 356 369	phytohormones
+T9	Metabolite 356 369	phytohormones
+T10	Biological_Activity 342 352	activation
+T11	Protein 543 561	glycosyl hydrolase
+T1	Protein 716 728	glucosidases
+T12	Protein 857 864	enzymes
+T13	Chemical 904 928	p -nitrophenyl glucoside
+T14	Protein 952 964	glucosidases
+T15	Protein 1210 1222	glucosidases
+T16	Species 1204 1209	plant
+T17	Protein 1309 1324	β -glucosidases
+T18	Chemical 1337 1358	cyanogenic glucosides
+T19	Protein 1410 1422	glucosidases
+T20	Biological_Activity 1443 1453	metabolism
+T21	Species 1476 1481	plant
+T22	Chemical 1482 1498	natural products
+T23	Metabolite 1482 1498	natural products
+T24	Protein 1526 1532	enzyme
+T25	Chemical 1564 1572	alkaloid
+T26	Metabolite 1564 1572	alkaloid
+T27	Chemical 1637 1645	alkaloid
+T28	Metabolite 1637 1645	alkaloid
+T29	Chemical 1687 1717	monoterpenoid indole alkaloids
+T30	Metabolite 1687 1717	monoterpenoid indole alkaloids
+T31	Chemical 1747 1761	glucoalkaloids
+T32	Metabolite 1747 1761	glucoalkaloids
+T33	Chemical 1804 1818	glucoalkaloids
+T34	Metabolite 1804 1818	glucoalkaloids
+T35	Protein 1842 1854	glucosidases
+T36	Species 1911 1916	plant
+T37	Species 1945 1964	Catharanthus roseus
+T38	Chemical 2085 2105	alkaloidal glucoside
+T39	Metabolite 2085 2105	alkaloidal glucoside
+T40	Chemical 2106 2119	strictosidine
+T41	Metabolite 2106 2119	strictosidine
+T42	Chemical 2133 2141	alkaloid
+T43	Metabolite 2133 2141	alkaloid
+T44	Chemical 2142 2155	raucaffricine
+T45	Metabolite 2142 2155	raucaffricine
+T46	Chemical 2205 2218	Strictosidine
+T47	Metabolite 2205 2218	Strictosidine
+T48	Chemical 2266 2287	monoterpene glucoside
+T49	Chemical 2288 2299	secologanin
+T50	Chemical 2313 2318	amine
+T51	Chemical 2319 2329	tryptamine
+T52	Chemical 2444 2474	monoterpenoid indole alkaloids
+T53	Metabolite 2444 2474	monoterpenoid indole alkaloids
+T54	Chemical 2121 2122	3
+T55	Metabolite 2121 2122	3
+T56	Chemical 2157 2158	6
+T57	Metabolite 2157 2158	6
+T58	Chemical 2220 2221	3
+T59	Metabolite 2220 2221	3
+T60	Chemical 2301 2302	2
+T61	Chemical 2331 2332	1
+T62	Chemical 2491 2500	glucoside
+T63	Metabolite 2491 2500	glucoside
+T64	Chemical 2547 2557	glucosides
+T65	Chemical 2561 2577	natural products
+T66	Metabolite 2561 2577	natural products
+T67	Chemical 2635 2640	water
+T68	Chemical 2660 2661	3
+T69	Metabolite 2660 2661	3
+T70	Chemical 2758 2766	alkaloid
+T71	Metabolite 2758 2766	alkaloid
+T72	Chemical 2830 2840	glucosidic
+T73	Protein 2849 2874	strictosidine glucosidase
+T74	Biological_Activity 2863 2874	glucosidase
+T75	Chemical 2929 2938	glucoside
+T76	Metabolite 2929 2938	glucoside
+T77	Chemical 2940 2941	6
+T78	Metabolite 2940 2941	6
+T79	Chemical 3087 3088	6
+T80	Metabolite 3087 3088	6
+T81	Protein 3103 3128	raucaffricine glucosidase
+T82	Biological_Activity 3117 3128	glucosidase
+T83	Protein 3130 3132	RG
+T84	Protein 3134 3146	EC 3.2.1.125
+T85	Chemical 3161 3169	aglycone
+T86	Metabolite 3161 3169	aglycone
+T87	Chemical 3170 3180	vomilenine
+T88	Metabolite 3170 3180	vomilenine
+T89	Chemical 3182 3183	4
+T90	Metabolite 3182 3183	4
+T91	Protein 5339 5341	RG
+T92	Chemical 3198 3206	alkaloid
+T93	Metabolite 3198 3206	alkaloid
+T94	Biological_Activity 3267 3281	antiarrhythmic
+T95	Chemical 3282 3290	alkaloid
+T96	Metabolite 3282 3290	alkaloid
+T97	Chemical 3291 3299	ajmaline
+T98	Metabolite 3291 3299	ajmaline
+T99	Chemical 3301 3302	5
+T100	Metabolite 3301 3302	5
+T101	Protein 3324 3326	RG
+R1	Associated_With Arg1:T98 Arg2:T94	
+R2	Associated_With Arg1:T97 Arg2:T94	
+R3	Associated_With Arg1:T100 Arg2:T94	
+R4	Associated_With Arg1:T99 Arg2:T94	
+T102	Chemical 3452 3460	ajmaline
+T103	Metabolite 3452 3460	ajmaline
+T104	Protein 3488 3499	glucosidase
+T105	Species 3533 3539	plants
+T106	Species 3573 3582	Rauwolfia
+T107	Chemical 3632 3640	ajmaline
+T108	Metabolite 3632 3640	ajmaline
+T109	Chemical 3646 3655	alkaloids
+T110	Metabolite 3646 3655	alkaloids
+T111	Protein 3754 3760	enzyme
+T112	Chemical 3784 3794	amino acid
+T113	Protein 3914 3920	enzyme
+T114	Protein 3969 3975	enzyme
+T115	Chemical 3929 3930	4
+T116	Metabolite 3929 3930	4
+T117	Chemical 3979 3987	alkaloid
+T118	Metabolite 3979 3987	alkaloid
+T119	Species 4010 4015	plant
+T120	Protein 4016 4028	glucosidases
+T121	Protein 4061 4072	glucosidase
+T122	Protein 4095 4102	protein
+T123	Protein 4114 4116	RG
+T124	Species 4140 4149	Rauwolfia
+T125	Protein 4193 4199	Enzyme
+T126	Protein 4238 4245	protein
+T127	Protein 4330 4337	protein
+T128	Species 4417 4426	Rauwolfia
+T129	Protein 4530 4536	enzyme
+T130	Protein 4600 4602	RG
+T131	Protein 4663 4665	RG
+T132	Protein 4717 4719	RG
+T133	Protein 4787 4793	enzyme
+T134	Protein 4870 4876	enzyme
+T135	Protein 4901 4908	protein
+T136	Species 4935 4944	Rauwolfia
+T137	Chemical 4969 4980	(NH4 )2 SO4
+T138	Protein 5093 5099	enzyme
+T139	Protein 5183 5194	glucosidase
+T140	Chemical 5232 5247	hydroxylapatite
+T141	Protein 5428 5434	enzyme
+T142	Protein 5479 5486	protein
+T143	Protein 5496 5502	enzyme
+T144	Protein 5655 5666	glucosidase
+T145	Protein 5792 5803	glucosidase
+T146	Species 5845 5854	Rauwolfia
+T147	Protein 5863 5894	polyneuridine aldehyde esterase
+T148	Biological_Activity 5886 5894	esterase
+T149	Protein 5896 5908	PNA esterase
+T150	Biological_Activity 5900 5908	esterase
+T151	Protein 6066 6072	enzyme
+T152	Protein 6303 6309	enzyme
+T153	Protein 6334 6341	protein
+T154	Protein 6374 6380	enzyme
+T155	Chemical 6402 6405	KCl
+T156	Protein 6460 6466	enzyme
+T157	Protein 6519 6526	protein
+T158	Protein 6606 6613	protein
+T159	Protein 6638 6644	enzyme
+T160	Protein 6765 6767	RG
+T161	Protein 6828 6834	enzyme
+T162	Protein 6942 6949	protein
+T163	Protein 6983 6989	enzyme
+T164	Protein 7056 7058	RG
+T165	Protein 7120 7126	enzyme
+T166	Protein 7139 7146	protein
+T167	Chemical 7298 7312	DEAE Sepharose
+T168	Protein 7395 7401	enzyme
+T169	Chemical 7545 7550	sugar
+T170	Protein 7562 7564	RG
+T171	Protein 7587 7593	enzyme
+T172	Protein 7702 7709	protein
+T173	Protein 7827 7833	enzyme
+T174	Protein 7890 7901	glucosidase
+T175	Protein 7944 7950	enzyme
+T176	Chemical 8087 8101	Coomassie Blue
+T177	Protein 8130 8137	protein
+T178	Protein 8185 8192	protein
+T179	Protein 8317 8323	enzyme
+T180	Protein 8349 8356	protein
+T181	Protein 8373 8375	RG
+T182	Protein 8511 8518	protein
+T183	Protein 8641 8647	enzyme
+T184	Protein 8729 8736	protein
+T185	Protein 8748 8755	protein
+T186	Protein 8797 8799	RG
+T187	Protein 8848 8854	enzyme
+T188	Protein 8868 8879	glucosidase
+T189	Protein 8945 8953	proteins
+T190	Protein 8955 8966	transferrin
+T191	Protein 8972 8984	glycoprotein
+T192	Protein 8989 8999	creatinase
+T193	Protein 9005 9027	non-glycosidic protein
+T194	Chemical 9066 9080	nitrocellulose
+T195	Chemical 9117 9123	Glycan
+T196	Protein 9160 9172	glycoprotein
+T197	Protein 9173 9184	transferrin
+T198	Protein 9207 9209	RG
+T199	Chemical 9239 9244	sugar
+T200	Protein 9250 9256	enzyme
+T201	Spectral_Data 9263 9265	MS
+T202	Spectral_Data 9270 9273	NMR
+T203	Protein 9296 9307	glucosidase
+T204	Chemical 9316 9326	vomilenine
+T205	Metabolite 9316 9326	vomilenine
+R5	Associated_With Arg1:T205 Arg2:T202	
+R6	Associated_With Arg1:T205 Arg2:T201	
+R7	Associated_With Arg1:T204 Arg2:T202	
+R8	Associated_With Arg1:T204 Arg2:T201	
+T206	Protein 9331 9337	enzyme
+T207	Chemical 9346 9347	4
+T208	Metabolite 9346 9347	4
+T209	Spectral_Data 9366 9368	MS
+T210	Spectral_Data 9400 9404	EIMS
+T211	Spectral_Data 9475 9480	GC–MS
+T212	Spectral_Data 9491 9507	1 H NMR spectrum
+T213	Protein 9524 9530	enzyme
+T214	Chemical 9539 9540	4
+T215	Metabolite 9539 9540	4
+R9	Associated_With Arg1:T215 Arg2:T212	
+R10	Associated_With Arg1:T214 Arg2:T212	
+T216	Chemical 9558 9565	DMSO-d6
+T217	Chemical 9699 9709	Vomilenine
+T218	Metabolite 9699 9709	Vomilenine
+T219	Spectral_Data 9768 9771	NMR
+T220	Chemical 9857 9878	21β  (R )-isomer of 4
+T221	Chemical 9841 9850;9867 9878	21a (S )- isomer of 4
+T222	Protein 9980 9986	enzyme
+T223	Chemical 9997 9998	6
+T224	Metabolite 9997 9998	6
+T225	Chemical 10008 10009	5
+T226	Metabolite 10008 10009	5
+T227	Chemical 10026 10045	natural derivatives
+T228	Metabolite 10026 10045	natural derivatives
+T229	Chemical 10064 10065	4
+T230	Metabolite 10064 10065	4
+T231	Chemical 10089 10097	carbinol
+T232	Chemical 10099 10105	aminal
+T233	Chemical 10182 10190	aldehyde
+T234	Chemical 10200 10205	amino
+T235	Chemical 10232 10236;10252 10258	21a- isomer
+T236	Metabolite 9857 9878	21β  (R )-isomer of 4
+T237	Metabolite 9841 9850;9867 9878	21a (S )- isomer of 4
+T238	Metabolite 10232 10236;10252 10258	21a- isomer
+T239	Chemical 10238 10240	4b
+T240	Metabolite 10238 10240	4b
+T241	Chemical 10247 10258	21β -isomer
+T242	Metabolite 10247 10258	21β -isomer
+T243	Chemical 10261 10263	4a
+T244	Metabolite 10261 10263	4a
+T245	Spectral_Data 10292 10295	NMR
+T246	Chemical 10350 10357	DMSO-d6
+T247	Chemical 10400 10404	D2 O
+T248	Chemical 10471 10478	DMSO-d6
+T249	Chemical 10480 10484	D2 O
+T250	Chemical 10564 10568	D2 O
+T251	Chemical 10645 10651	isomer
+T252	Metabolite 10645 10651	isomer
+T253	Chemical 10703 10707	D2 O
+T254	Chemical 10728 10733	water
+T255	Chemical 10780 10787	isomers
+T256	Metabolite 10780 10787	isomers
+T257	Chemical 10861 10868	isomers
+T258	Metabolite 10861 10868	isomers
+T259	Spectral_Data 10885 10888	NMR
+T260	Chemical 10914 10924	amino acid
+T261	Protein 10937 10939	RG
+T262	Protein 10959 10965	enzyme
+T263	Protein 10969 10989	endoproteinase Lys C
+T264	Chemical 11022 11029	peptide
+T265	Chemical 11078 11085	peptide
+T266	Chemical 11109 11119	amino acid
+T267	Chemical 11156 11163	peptide
+T268	Protein 11184 11191	protein
+T269	Protein 11270 11285	β -glucosidases
+T270	Chemical 11339 11346	peptide
+T271	Chemical 11041 11043	PF
+T272	Chemical 11239 11244	PF 37
+T273	Chemical 11249 11254	PF 47
+T274	Chemical 11390 11395	PF 37
+T275	Protein 11433 11443	linamarase
+T276	Species 11449 11466	Manihot esculenta
+T277	Chemical 11497 11502	PF 47
+T278	Protein 11525 11539	β -glucosidase
+T279	Species 11545 11557	Prunus avium
+T280	Metabolite 11612 11625;11637 11645	monoterpenoid alkaloid
+T281	Species 11626 11635	Rauwolfia
+T282	Chemical 11626 11645	Rauwolfia  alkaloid
+T283	Chemical 11646 11654	ajmaline
+T284	Metabolite 11646 11654	ajmaline
+T285	Metabolite 11626 11645	Rauwolfia  alkaloid
+T286	Chemical 11612 11625;11637 11645	monoterpenoid alkaloid
+T287	Chemical 11698 11708	prajmalium
+T288	Chemical 11818 11825	quinine
+T289	Biological_Activity 11870 11884	antiarrhythmic
+T290	Chemical 11870 11891	antiarrhythmic drugs.
+T291	Chemical 11892 11900	Ajmaline
+T292	Metabolite 11892 11900	Ajmaline
+T293	Chemical 11902 11903	5
+T294	Metabolite 11902 11903	5
+T295	Chemical 11968 11974	carbon
+T296	Species 12059 12068	Rauwolfia
+R11	Isolated_From Arg1:T294 Arg2:T296	
+R12	Isolated_From Arg1:T292 Arg2:T296	
+T297	Chemical 12122 12130	alkaloid
+T298	Metabolite 12122 12130	alkaloid
+T299	Species 12134 12139	plant
+T300	Species 12187 12192	plant
+T301	Chemical 12225 12231	enzyme
+T302	Species 12376 12385	Rauwolfia
+T303	Protein 12463 12486	UDP glucose transferase
+T304	Chemical 12452 12462	vomilenine
+T305	Metabolite 12452 12462	vomilenine
+T306	Protein 12491 12493	RG
+T307	Chemical 12589 12602	glucoalkaloid
+T308	Metabolite 12589 12602	glucoalkaloid
+T309	Biological_Activity 12475 12486	transferase
+T310	Chemical 12603 12604	6
+T311	Metabolite 12603 12604	6
+T312	Species 12672 12685	R. serpentina
+T313	Species 12687 12692	plant
+T314	Chemical 12821 12829	ajmaline
+T315	Metabolite 12821 12829	ajmaline
+T316	Chemical 12865 12866	4
+T317	Metabolite 12865 12866	4
+T318	Chemical 12926 12934	alkaloid
+T319	Metabolite 12926 12934	alkaloid
+T320	Protein 12949 12956	enzymes
+T321	Chemical 12962 12972	vomilenine
+T322	Metabolite 12962 12972	vomilenine
+T323	Protein 12987 12994	protein
+T324	Protein 13003 13014	glucosidase
+T325	Chemical 13027 13040	raucaffricine
+T326	Metabolite 13027 13040	raucaffricine
+T327	Chemical 13042 13068	vomilenine-β -d -glucoside
+T328	Metabolite 13042 13068	vomilenine-β -d -glucoside
+R13	Metabolite_Of Arg1:T322 Arg2:T325	
+R14	Metabolite_Of Arg1:T322 Arg2:T327	
+T329	Protein 13218 13229	glucosidase
+T330	Species 13253 13262	Rauwolfia
+T331	Chemical 13253 13273	Rauwolfia  alkaloids
+T332	Metabolite 13253 13273	Rauwolfia  alkaloids
+R15	Isolated_From Arg1:T332 Arg2:T330	
+T333	Protein 13290 13296	enzyme
+T334	Protein 13332 13338	enzyme
+T335	Chemical 13347 13357	vomilenine
+T336	Metabolite 13347 13357	vomilenine
+T337	Chemical 13367 13377	amino acid
+T338	Chemical 13401 13408	peptide
+T339	Protein 13447 13458	glucosidase
+T340	Protein 13546 13548	RG
+T341	Species 13604 13613	Rauwolfia
+T342	Protein 13648 13650	RG
+T343	Protein 13744 13751	protein
+T344	Protein 13943 13949	enzyme
+T345	Protein 13959 13966	protein
+T346	Protein 14015 14021	enzyme
+T347	Protein 14086 14092	enzyme
+T348	Chemical 14097 14102	sugar
+T349	Protein 14129 14131	RG
+T350	Protein 14234 14236	RG
+T351	Protein 14283 14289	enzyme
+T352	Chemical 14344 14352	aglycone
+T353	Metabolite 14344 14352	aglycone
+T354	Chemical 14353 14354	4
+T355	Metabolite 14353 14354	4
+T356	Chemical 14361 14362	6
+T357	Metabolite 14361 14362	6
+T358	Spectral_Data 14391 14393	MS
+T359	Spectral_Data 14398 14414	NMR spectroscopy
+R16	Associated_With Arg1:T353 Arg2:T358	
+R17	Associated_With Arg1:T352 Arg2:T358	
+R18	Associated_With Arg1:T355 Arg2:T358	
+R19	Associated_With Arg1:T354 Arg2:T358	
+R20	Associated_With Arg1:T353 Arg2:T359	
+R21	Associated_With Arg1:T352 Arg2:T359	
+R22	Associated_With Arg1:T355 Arg2:T359	
+R23	Associated_With Arg1:T354 Arg2:T359	
+T360	Chemical 14447 14455	alkaloid
+T361	Metabolite 14447 14455	alkaloid
+T362	Chemical 14582 14592	vomilenine
+T363	Metabolite 14582 14592	vomilenine
+T364	Spectral_Data 14698 14714	1 H NMR spectrum
+T365	Chemical 14823 14838	β -hydroxygroup
+T366	Chemical 14840 14849	S -isomer
+T367	Chemical 14887 14889	OH
+T368	Metabolite 14840 14849	S -isomer
+T369	Chemical 14906 14917	(R )-isomer
+T370	Metabolite 14906 14917	(R )-isomer
+T371	Chemical 14896 14901;14911 14917	(S )- isomer
+T372	Metabolite 14896 14901;14911 14917	(S )- isomer
+T373	Chemical 14977 14984	DMSO-d6
+T374	Chemical 14989 15000	pyridine-d5
+R24	Associated_With Arg1:T370 Arg2:T364	
+R25	Associated_With Arg1:T369 Arg2:T364	
+R26	Associated_With Arg1:T372 Arg2:T364	
+R27	Associated_With Arg1:T371 Arg2:T364	
+T375	Chemical 15033 15042	alkaloids
+T376	Metabolite 15033 15042	alkaloids
+T377	Chemical 15130 15140	vomilenine
+T378	Metabolite 15130 15140	vomilenine
+T379	Biological_Activity 15189 15198	reduction
+T380	Chemical 15231 15246	(R )-vomilenine
+T381	Metabolite 15231 15246	(R )-vomilenine
+T382	Chemical 15277 15278	5
+T383	Metabolite 15277 15278	5
+T384	Spectral_Data 15353 15356	NMR
+T385	Chemical 15375 15380	water
+T386	Chemical 15382 15386	D2 O
+T387	Spectral_Data 15405 15408	NMR
+T388	Chemical 15638 15639	4
+T389	Metabolite 15638 15639	4
+T390	Chemical 15695 15703	ajmaline
+T391	Metabolite 15695 15703	ajmaline
+T392	Chemical 15752 15759	peptide
+T393	Species 15871 15876	plant
+T394	Protein 15877 15892	β -glucosidases
+T395	Protein 15901 15911	linamarase
+T396	Species 15917 15924	Cassava
+T397	Species 15926 15943	Manihot esculenta
+T398	Protein 16050 16059;16073 16082	amygdalin hydrolase
+T399	Protein 16064 16082	prunasin hydrolase
+T400	Species 16089 16101	black cherry
+T401	Species 16103 16118	Prunus serotina
+T402	Protein 16153 16163	dhurrinase
+T403	Species 16169 16176	mustard
+T404	Species 16178 16190	Sinapis alba
+T405	Chemical 16219 16229	amino acid
+T406	Chemical 16236 16255	Val–Thr–Glu–Asn–Gly
+T407	Chemical 16259 16264	PF 37
+T408	Protein 16319 16333	β -glucosidase
+T409	Chemical 16401 16414	glutamic acid
+T410	Protein 16483 16497	β -glucosidase
+T411	Species 16503 16525	Agrobacterium faecalis
+T412	Species 16554 16566	sweet almond
+T413	Protein 16758 16764	enzyme
+T414	Protein 16778 16789	glucosidase
+T415	Protein 16822 16834	glucosidases
+T416	Protein 16884 16886	RG
+T417	Protein 16991 17001	hydrolases
+T418	Protein 17003 17005	RG
+T419	Chemical 17036 17046	glucosides
+T420	Chemical 17060 17061	6
+T421	Metabolite 17060 17061	6
+T422	Chemical 16693 16694	6
+T423	Metabolite 16693 16694	6
+T424	Chemical 16699 16700	4
+T425	Metabolite 16699 16700	4
+T426	Chemical 17068 17079;17105 17118	1.2-dihydro raucaffricine
+T427	Chemical 17085 17118	1.2.19.20-tetrahydroraucaffricine
+T428	Chemical 17156 17166	glucosidic
+T429	Chemical 17167 17174	ajmalan
+T430	Chemical 17213 17222	glucoside
+T431	Protein 17257 17268	glucosidase
+T432	Chemical 17288 17298	glucosides
+T433	Chemical 17313 17334	alkaloidal glucosides
+T434	Chemical 17335 17348	strictosidine
+T435	Chemical 17350 17370	strictosidine lactam
+T436	Chemical 17372 17396	monoterpenoid glucosides
+T437	Chemical 17411 17421	glucosides
+T438	Protein 17442 17453	glucosidase
+T439	Chemical 17468 17490	nitrophenyl glucosides
+T440	Protein 17513 17515	RG
+T441	Protein 17577 17583	enzyme
+T442	Protein 17650 17652	RG
+T443	Protein 17688 17707	glycosyl hydrolases
+T444	Protein 17748 17761	β -glucosides
+T445	Chemical 17786 17796	amino acid
+T446	Chemical 17812 17817	PF 37
+T447	Species 17954 17963	Rauwolfia
+T448	Species 17965 17970	plant
+T449	Protein 18001 18007	enzyme
+T450	Protein 18077 18084	protein
+T451	Protein 18187 18189	RG
+T452	Protein 18288 18290	RG
+T453	Chemical 18340 18350	vomilenine
+T454	Metabolite 18340 18350	vomilenine
+T455	Protein 18351 18374	UDP-glucose transferase
+T456	Protein 18443 18454	glucosidase
+T457	Protein 18514 18516	RG
+T458	Chemical 18587 18595	ajmaline
+T459	Metabolite 18587 18595	ajmaline
+T460	Chemical 18621 18629	aglycone
+T461	Metabolite 18621 18629	aglycone
+T462	Chemical 18630 18631	4
+T463	Metabolite 18630 18631	4
+T464	Protein 18679 18685	enzyme
+T465	Chemical 18786 18794	alkaloid
+T466	Metabolite 18786 18794	alkaloid
+T467	Species 18970 18983	R. serpentina
+T468	Species 19239 19248	Rauwolfia
+T469	Protein 19285 19287	RG
+T470	Protein 19305 19312	protein
+T471	Protein 19363 19369	Enzyme
+T472	Protein 19380 19382	RG
+T473	Chemical 19420 19424	EtOH
+T474	Protein 19453 19459	enzyme
+T475	Protein 19470 19472	RG
+T476	Chemical 19542 19549	citrate
+T477	Chemical 19550 19554	NaOH
+T478	Protein 19626 19632	enzyme
+T479	Chemical 19679 19683	MeOH
+T480	Chemical 19925 19931	CH3 CN
+T481	Protein 20170 20176	enzyme
+T482	Species 20339 20352	R. serpentina
+T483	Protein 20425 20432	Protein
+T484	Protein 20447 20454	Protein
+T485	Chemical 20553 20567	Polyacrylamide
+T486	Chemical 20632 20641	Coomassie
+T487	Chemical 20658 20687	Coomasie Brilliant Blue R-250
+T488	Chemical 20693 20697	MeOH
+T489	Chemical 20705 20709	HOAc
+T490	Chemical 20713 20719	water)
+T491	Chemical 20784 20788	MeOH
+T492	Chemical 20798 20802	HOAc
+T493	Chemical 20806 20811	water
+T494	Chemical 20813 20819	Silver
+T495	Protein 20901 20907	Enzyme
+T496	Protein 20950 20961	glucosidase
+T497	Chemical 21025 21035	acrylamide
+T498	Protein 21044 21052	proteins
+T499	Chemical 21128 21136	Tris–HCl
+T500	Chemical 21151 21155	EDTA
+T501	Chemical 21163 21181	β -mercaptoethanol
+T502	Chemical 21183 21187	EtSH
+T503	Chemical 21219 21227	Tris–HCl
+T504	Chemical 21238 21242	EtSH
+T505	Chemical 21294 21302	Tris–HCl
+T506	Chemical 21318 21322	EtSH
+T507	Chemical 21340 21348	Tris–HCl
+T508	Chemical 21364 21367	KCl
+T509	Chemical 21375 21379	EtSH
+T510	Chemical 21440 21448	Bis–Tris
+T511	Chemical 21478 21497	iminodiacetic acid,
+T512	Chemical 21504 21508	EtSH
+T513	Chemical 21580 21598	iminodiacetic acid
+T514	Chemical 21606 21610	EtSH
+T515	Chemical 21628 21636	Tris–HCl
+T516	Chemical 21652 21656	EtSH
+T517	Chemical 21674 21682	Tris–HCl
+T518	Chemical 21698 21702	EtSH
+T519	Chemical 21720 21727	glycine
+T520	Chemical 21735 21743	Tris–HCl
+T521	Chemical 21753 21756	SDS
+T522	Chemical 21762 21766	MeOH
+T523	Chemical 21801 21805	MeOH
+T524	Spectral_Data 21812 21814	MS
+T525	Spectral_Data 21819 21824	GC–MS
+T526	Spectral_Data 21889 21901	mass spectra
+T527	Spectral_Data 22022 22027	GC–MS
+T528	Spectral_Data 22185 22190	GC–MS
+T529	Spectral_Data 22312 22315	NMR
+T530	Spectral_Data 22329 22340	NMR spectra
+T531	Spectral_Data 22456 22459	NMR
+T532	Chemical 22471 22478	DMSO-d6
+T533	Spectral_Data 22493 22509	NMR spectroscopy
+T534	Chemical 22522 22529	DMSO-d6
+T535	Chemical 22535 22539	D2 O
+T536	Protein 22572 22574	RG
+T537	Protein 22649 22656	protein
+T538	Spectral_Data 22675 22688	R. serpentina
+T539	Chemical 22748 22756	nitrogen
+T540	Chemical 23094 23105	(NH4 )2 SO4
+T541	Chemical 23166 23177	(NH4 )2 SO4
+T542	Protein 23465 23472	protein
+T543	Chemical 23543 23556	DEAE-Sephacel
+T544	Protein 23561 23568	protein
+T545	Chemical 23629 23642	DEAE-Sephacel
+T546	Protein 23786 23792	enzyme
+T547	Chemical 23854 23857	KCl
+T548	Chemical 23904 23907	KCl
+T549	Chemical 23990 23993	KCl
+T550	Biological_Activity 24016 24027	glucosidase
+T551	Protein 24016 24027	glucosidase
+T552	Chemical 24125 24140	hydroxylapatite
+T553	Protein 24170 24177	protein
+T554	Protein 24376 24384	proteins
+T555	Biological_Activity 24516 24527	glucosidase
+T556	Protein 24516 24527	glucosidase
+T557	Protein 24572 24578	enzyme
+T558	Protein 24751 24757	enzyme
+T559	Protein 24956 24963	protein
+T560	Protein 25025 25036	glucosidase
+T561	Protein 25325 25331	enzyme
+T562	Protein 25381 25387	enzyme
+T563	Chemical 25390 25393	KCl
+T564	Chemical 25460 25463	KCl
+T565	Biological_Activity 25658 25669	glucosidase
+T566	Protein 25658 25669	glucosidase
+T567	Protein 25703 25709	enzyme
+T568	Protein 25869 25876	protein
+T569	Protein 25962 25970	Proteins
+T570	Protein 26097 26103	enzyme
+T571	Protein 26166 26168	RG
+T572	Protein 26222 26224	RG
+T573	Protein 26253 26263	proteinase
+T574	Biological_Activity 26253 26263	proteinase
+T575	Species 26332 26345	R. serpentina
+T576	Protein 26396 26403	protein
+T577	Protein 26471 26477	enzyme
+T578	Chemical 26503 26514	(NH4 )2 SO4
+T579	Protein 26773 26780	protein
+T580	Chemical 26825 26839	DEAE sepharose
+T581	Protein 26901 26908	protein
+T582	Chemical 26942 26945	KCl
+T583	Protein 26978 26989	Glucosidase
+T584	Biological_Activity 26978 26989	Glucosidase
+T585	Chemical 27026 27029	KCl
+T586	Protein 27087 27094	protein
+T587	Chemical 27218 27238	cellulose triacetate
+T588	Protein 27355 27362	Protein
+T589	Protein 27476 27483	protein
+T590	Protein 27691 27697	enzyme
+T591	Chemical 27726 27729	KCl
+T592	Protein 27777 27783	enzyme
+T593	Protein 27829 27835	enzyme
+T594	Protein 27854 27865	glucosidase
+T595	Protein 27933 27939	enzyme
+T596	Protein 28010 28012	RG
+T597	Chemical 28304 28313	Coomassie
+T598	Protein 28487 28493	enzyme
+T599	Protein 28514 28525	glucosidase
+T600	Biological_Activity 28514 28525	glucosidase
+T601	Protein 28540 28547	protein
+T602	Protein 28588 28590	RG
+T603	Protein 28607 28614	Protein
+T604	Chemical 28624 28627	SDS
+T605	Chemical 28729 28743	nitrocellulose
+T606	Chemical 28816 28820	PVDF
+T607	Chemical 28854 28858	PVDF
+T608	Chemical 28906 28910	MeOH
+T609	Protein 28982 28984	RG
+T610	Protein 29036 29038	RG
+T611	Chemical 29123 29137	nitrocellulose
+T612	Chemical 29192 29198	Glycan
+T613	Protein 29256 29277	glycosylated proteins
+T614	Protein 29302 29308	enzyme
+T615	Chemical 29317 29327	vomilenine
+T616	Metabolite 29317 29327	vomilenine
+T617	Protein 29415 29417	RG
+T618	Chemical 29543 29550	CH2 Cl2
+T619	Chemical 29578 29593	organic solvent
+T620	Chemical 29660 29667	CH2 Cl2
+T621	Chemical 29751 29761	vomilenine
+T622	Metabolite 29751 29761	vomilenine
+T623	Protein 29783 29785	RG
+T624	Chemical 29790 29797	peptide
+T625	Protein 29829 29836	protein
+T626	Protein 29875 29881	enzyme
+T627	Chemical 29921 29924	SDS
+T628	Chemical 29942 29946	PVDF
+T629	Protein 30046 30048	RG
+T630	Protein 30072 30078	enzyme
+T631	Protein 30113 30127	endoproteinase
+T632	Chemical 30128 30131	Lys
+T633	Chemical 30200 30207	peptide
+T634	Chemical 30334 30341	peptide
+T635	Chemical 30359 30369	peptide 37
+T636	Chemical 30374 30384	peptide 47
+T637	Protein 30389 30391	RG
+T638	Protein 30430 30437	protein
+T639	Chemical 30640 30650	amino acid
+T640	Protein 30669 30675	enzyme

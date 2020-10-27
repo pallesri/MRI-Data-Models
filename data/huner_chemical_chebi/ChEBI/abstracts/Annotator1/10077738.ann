@@ -1,0 +1,24 @@
+T1	Biological_Activity 48 58	inhibition
+T2	Chemical 126 163	nonsteroidal anti-inflammatory  drugs
+T3	Biological_Activity 139 156	anti-inflammatory
+T4	Chemical 165 170	NSAID
+T5	Chemical 251 256	NSAID
+T7	Protein 281 297	opioid receptors
+T9	Protein 431 443	mu receptors
+T10	Species 529 533	rats
+T11	Chemical 559 577	lysine clonixinate
+T12	Protein 591 606	delta receptors
+T14	Protein 751 771	opioid-binding sites
+T16	Species 809 812	rat
+T17	Chemical 844 855	clonixinate
+T19	Chemical 963 969	NSAIDs
+T20	Chemical 281 287	opioid
+T22	Protein 1017 1032	opioid receptor
+T21	Protein 896 898;917 925	mu receptor
+T25	Protein 900 905;917 925	delta receptor
+T26	Protein 911 925	kappa receptor
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T4 Arg2:T1	
+T34	Metabolite 62 75	prostaglandin
+T35	Chemical 62 75	prostaglandin
+T6	Biological_Activity 935 942	binding

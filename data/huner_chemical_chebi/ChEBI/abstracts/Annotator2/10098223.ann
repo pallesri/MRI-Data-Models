@@ -1,0 +1,24 @@
+T1	Chemical 0 24	Raloxifene hydrochloride
+T2	Protein 46 63	estrogen receptor
+R1	Binds_With Arg1:T1 Arg2:T2	
+T6	Chemical 218 228	raloxifene
+T7	Chemical 288 298	raloxifene
+T8	Chemical 394 404	raloxifene
+T11	Chemical 672 682	raloxifene
+T12	Chemical 1024 1034	raloxifene
+T13	Chemical 1199 1209	raloxifene
+T14	Chemical 1492 1502	raloxifene
+T16	Chemical 1644 1654	raloxifene
+T4	Species 1555 1560	women
+T18	Species 453 458	women
+T19	Species 306 311	human
+T3	Biological_Activity 88 95	agonist
+T5	Biological_Activity 146 156	antagonist
+R2	Associated_With Arg1:T1 Arg2:T3	
+R3	Has_Structure Arg1:T1 Arg2:T5	
+T21	Species 597 602	women
+T22	Species 857 875	cognitive function
+T23	Chemical 79 87	estrogen
+T24	Chemical 46 54	estrogen
+T25	Biological_Activity 122 132	metabolism
+T9	Chemical 137 145	estrogen

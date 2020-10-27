@@ -1,0 +1,41 @@
+T1	Species 34 43	Rauwolfia
+T2	Protein 94 128	raucaffricine-O-beta-D-glucosidase
+T3	Chemical 158 163	anion
+T4	Chemical 207 222	hydroxylapatite
+T5	Protein 347 358	glucosidase
+T6	Chemical 387 401	DEAE sepharose
+T7	Chemical 403 415	TSK 55 S gel
+#1	AnnotatorNotes T7	ion-exchange resin
+T8	Chemical 451 457	Mono Q
+#2	AnnotatorNotes T8	ion-exchange resin
+T9	Protein 480 491	glucosidase
+T10	Protein 550 556	enzyme
+T11	Protein 572 578	enzyme
+T12	Chemical 586 598	glycosylated
+T13	Protein 632 638	enzyme
+T15	Chemical 648 658	vomilenine
+T16	Chemical 682 690	alkaloid
+T17	Chemical 740 746;757 767	21(R)- vomilenine
+T18	Chemical 751 767	21(S)-vomilenine
+T19	Metabolite 648 658	vomilenine
+T20	Metabolite 740 746;757 767	21(R)- vomilenine
+T21	Metabolite 751 767	21(S)-vomilenine
+T22	Protein 813 819	enzyme
+T23	Protein 825 845	endoproteinase Lys C
+T25	Chemical 859 876	peptide fragments
+T26	Chemical 887 898	amino acids
+T27	Chemical 984 1003	Val-Thr-Glu-Asn-Gly
+T28	Protein 1019 1036	beta-glucosidases
+T29	Protein 1108 1118	linamarase
+T30	Species 1124 1141	Manihot esculenta
+T31	Protein 1163 1179	beta-glucosidase
+T32	Species 1185 1197	Prunus avium
+T33	Protein 1214 1248	Raucaffricine-O-beta-D-glucosidase
+T34	Protein 1293 1312	glycosyl hydrolases
+T35	Chemical 267 273	Mono Q
+#3	AnnotatorNotes T35	anion exchange resin
+T36	Chemical 278 284	Mono P
+#4	AnnotatorNotes T36	anion exchange resin
+R2	Isolated_From Arg1:T19 Arg2:T1	
+R3	Isolated_From Arg1:T20 Arg2:T1	
+R4	Isolated_From Arg1:T21 Arg2:T1	

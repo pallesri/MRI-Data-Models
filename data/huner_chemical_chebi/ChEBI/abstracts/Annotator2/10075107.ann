@@ -1,0 +1,30 @@
+T1	Chemical 16 43	beta-D-glucose pentaacetate
+T3	Chemical 16 43;5 10	beta-D-glucose pentaacetate alpha
+#1	AnnotatorNotes T3	Inferred as alpha-D-glucose pentaacetate
+T6	Chemical 122 150	succinic acid dimethyl ester
+T7	Species 164 167	rat
+T10	Chemical 219 232	hexose esters
+#4	AnnotatorNotes T10	Chemical class
+T11	Chemical 278 287	D-glucose
+T15	Chemical 366 394	succinic acid dimethyl ester
+T16	Chemical 422 452	alpha-D-galactose pentaacetate
+T19	Chemical 481 510	beta-D-galactose pentaacetate
+T20	Biological_Activity 563 577	insulinotropic
+T23	Chemical 588 601	hexose esters
+#7	AnnotatorNotes T23	Chemical class
+R9	Associated_With Arg1:T23 Arg2:T20	
+T24	Chemical 656 668	carbohydrate
+#8	AnnotatorNotes T24	Chemical class
+T25	Chemical 802 808	esters
+#9	AnnotatorNotes T25	Chemical class
+T27	Chemical 880 895	monosaccharides
+#11	AnnotatorNotes T27	Chemical class
+T29	Biological_Activity 989 997	hormonal
+T2	Biological_Activity 636 646	catabolism
+T5	Chemical 857 895	esters of non-nutrient monosaccharides
+R10	Associated_With Arg1:T5 Arg2:T29	
+T4	Protein 96 103	insulin
+T8	Protein 346 353	insulin
+T9	Biological_Activity 399 408	inhibited
+R1	Associated_With Arg1:T16 Arg2:T9	
+T12	Protein 940 947	insulin

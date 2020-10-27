@@ -1,0 +1,12 @@
+T1	Species 37 53	Spongia matamata
+T2	Metabolite 125 146	spongian diterpenoids
+T4	Chemical 185 220	spongia-13(16), 14-dien-19-oic acid
+T5	Metabolite 185 220	spongia-13(16), 14-dien-19-oic acid
+R1	Isolated_From Arg1:T2 Arg2:T1	
+R2	Isolated_From Arg1:T5 Arg2:T1	
+T6	Spectral_Data 260 281	spectroscopic methods
+R3	Associated_With Arg1:T2 Arg2:T6	
+R4	Associated_With Arg1:T5 Arg2:T6	
+R6	Associated_With Arg1:T4 Arg2:T6	
+T7	Chemical 125 146	spongian diterpenoids
+R7	Associated_With Arg1:T7 Arg2:T6	

@@ -1,0 +1,54 @@
+T1	Species 33 52	Lonchocarpus utilus
+T2	Species 57 65	L. urucu
+T3	Chemical 124 134	flavonoids
+#1	AnnotatorNotes T3	Class of chemicals
+T4	Chemical 139 148	stilbenes
+T5	Chemical 165 182	gem-dimethylpyran
+#2	AnnotatorNotes T5	Chemical structural feature
+T6	Chemical 165 217	gem-dimethylpyran moiety or a dihydrodiol derivative
+#3	AnnotatorNotes T6	Chemical structural feature 
+T7	Chemical 272 284	isoflavonoid
+#4	AnnotatorNotes T7	Class of chemicals
+T8	Chemical 285 338	cis-4'',5''-dihydro-4'',5' '-dihydroxylonchocarpusone
+T9	Metabolite 285 338	cis-4'',5''-dihydro-4'',5' '-dihydroxylonchocarpusone
+T11	Metabolite 349 429;431 451;452 477	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 5-hydroxy-3',4'-dimethoxy
+T14	Chemical 790 794	NADH
+T15	Chemical 795 805	ubiquinone
+T16	Protein 790 820	NADH:ubiquinone oxidoreductase
+#5	AnnotatorNotes T16	An enzyme whose name includes the names of two chemicals
+T17	Biological_Activity 806 820	oxidoreductase
+T19	Chemical 878 891	phorbol ester
+T20	Chemical 900 909	ornithine
+T21	Protein 900 923	ornithine decarboxylase
+#6	AnnotatorNotes T21	An enzyme whose name includes the name of a compound (ornithine)
+T23	Biological_Activity 776 786	inhibition
+T24	Biological_Activity 986 998	cytotoxicity
+R1	Isolated_From Arg1:T9 Arg2:T1	
+T25	Species 831 837	bovine
+T26	Species 943 954	MCF-7 cells
+T27	Species 1010 1020	Hepa 1clc7
+T28	Species 1000 1005	MCF-7
+#7	AnnotatorNotes T27	cell line from mouse
+#8	AnnotatorNotes T28	a human breast cancer cell line
+#9	AnnotatorNotes T26	A human breast cancer cell line
+T29	Metabolite 349 429;431 451;483 509	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 5, 3'-dihydroxy-4'-methoxy
+T30	Metabolite 349 429;431 451;515 540	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 5,4'-dihydroxy-3'-methoxy
+T31	Metabolite 349 429;431 451;550 566	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 3', 4'-dimethoxy
+R2	Isolated_From Arg1:T11 Arg2:T1	
+R3	Isolated_From Arg1:T29 Arg2:T1	
+R4	Isolated_From Arg1:T30 Arg2:T1	
+R5	Isolated_From Arg1:T31 Arg2:T1	
+T32	Chemical 349 429;431 451;452 477	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 5-hydroxy-3',4'-dimethoxy
+T33	Chemical 349 429;431 451;483 509	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 5, 3'-dihydroxy-4'-methoxy
+T34	Chemical 349 429;431 451;515 540	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 5,4'-dihydroxy-3'-methoxy
+T35	Chemical 349 429;431 451;550 566	(2S)-6-(gamma, gamma-dimethylallyl)-6'',6''-dimethylpyran[2'',3'':7, 8]flavanone with substituents of 3', 4'-dimethoxy
+T10	Metabolite 582 627;629 654;716 728	6'',6''-dimethylpyran[2'',3'':3', 4']stilbene with 4-hydroxy-5'-methoxy substitution
+T12	Metabolite 582 627;629 633;660 684;716 728	6'',6''-dimethylpyran[2'',3'':3', 4']stilbene with 3,5'-dimethoxy-4-hydroxy substitution
+T13	Metabolite 582 627;629 633;694 710;716 728	6'',6''-dimethylpyran[2'',3'':3', 4']stilbene with 3,4,5-trimethoxy substitution
+R6	Isolated_From Arg1:T10 Arg2:T1	
+R7	Isolated_From Arg1:T13 Arg2:T1	
+R8	Isolated_From Arg1:T12 Arg2:T1	
+T36	Chemical 582 627;629 654;716 728	6'',6''-dimethylpyran[2'',3'':3', 4']stilbene with 4-hydroxy-5'-methoxy substitution
+T37	Chemical 582 627;629 633;660 684;716 728	6'',6''-dimethylpyran[2'',3'':3', 4']stilbene with 3,5'-dimethoxy-4-hydroxy substitution
+T38	Chemical 582 627;629 633;694 710;716 728	6'',6''-dimethylpyran[2'',3'':3', 4']stilbene with 3,4,5-trimethoxy substitution
+T18	Biological_Activity 910 923	decarboxylase

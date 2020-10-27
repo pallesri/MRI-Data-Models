@@ -1,0 +1,14 @@
+T1	Disease 164 178	gastric cancer
+T2	Disease 1279 1293	gastric cancer
+T3	Plant 104 112	mushroom
+T4	Plant 58 65	Maitake
+T5	Plant 67 83	Grifola frondosa
+T6	Plant 227 234	Maitake
+T7	Plant 244 246	ME
+T8	Plant 440 442	ME
+T9	Plant 467 469	ME
+T10	Plant 712 714	ME
+T11	Plant 952 954	ME
+T12	Plant 1149 1151	ME
+T13	Treatment_of_disease 1268 1275	effects
+E1	Treatment_of_disease:T13 Cause:T12 Theme:T2

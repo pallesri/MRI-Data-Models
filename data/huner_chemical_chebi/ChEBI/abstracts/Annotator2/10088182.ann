@@ -1,0 +1,9 @@
+T1	Chemical 0 19	Ethylene-di-bromide
+T3	Biological_Activity 94 109	carcinogenicity
+T4	Biological_Activity 114 126	genotoxicity
+T5	Chemical 165 184	ethylene-di-bromide
+T6	Biological_Activity 185 193	toxicity
+R2	Associated_With Arg1:T5 Arg2:T6	
+T7	Chemical 291 310	ethylene-di-bromide
+R5	Associated_With Arg1:T1 Arg2:T3	
+R6	Associated_With Arg1:T1 Arg2:T4	

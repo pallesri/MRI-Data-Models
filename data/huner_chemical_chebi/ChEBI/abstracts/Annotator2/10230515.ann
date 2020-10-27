@@ -1,0 +1,72 @@
+T1	Biological_Activity 4 15	antioxidant
+T2	Species 28 47	Eriobotrya japonica
+T3	Biological_Activity 80 98	radical scavenging
+T4	Chemical 109 113;146 153	DPPH radical
+T5	Chemical 115 144;146 153	1,1-diphenyl-2-picrylhydrazyl radical
+T6	Chemical 146 153	radical
+T7	Chemical 158 163	lipid
+T9	Species 191 196	mouse
+T10	Chemical 260 281	2-thiobarbituric acid
+T11	Chemical 283 286	TBA
+T12	Chemical 293 301	methanol
+T13	Species 331 350	Eriobotrya japonica
+T14	Biological_Activity 372 383	antioxidant
+T15	Biological_Activity 398 409	antioxidant
+T16	Chemical 422 427	EtOAc
+T17	Chemical 432 438	n-BuOH
+T18	Chemical 526 536	silica gel
+T19	Chemical 538 553	MCl gel CHP-20P
+T20	Chemical 559 573	Sephadex LH-20
+T21	Biological_Activity 597 608	Antioxidant
+T22	Chemical 609 625	chlorogenic acid
+T23	Metabolite 609 625	chlorogenic acid
+T24	Chemical 627 651	quercetin-3-sambubioside
+T25	Metabolite 627 651	quercetin-3-sambubioside
+T26	Chemical 657 663	n-BuOH
+T27	Chemical 678 697	methyl chlorogenate
+T28	Metabolite 678 697	methyl chlorogenate
+T29	Chemical 699 710;725 737	kaempferol- 3-rhamnoside
+T30	Metabolite 699 710;725 737	kaempferol- 3-rhamnoside
+T31	Chemical 715 737	quercetin-3-rhamnoside
+T32	Metabolite 715 737	quercetin-3-rhamnoside
+T33	Chemical 767 779	ursolic acid
+T34	Metabolite 767 779	ursolic acid
+T35	Chemical 785 812	2 alpha-hydroxyursolic acid
+T36	Metabolite 785 812	2 alpha-hydroxyursolic acid
+T37	Chemical 818 823	EtOAc
+T38	Biological_Activity 848 859	Antioxidant
+T39	Chemical 860 870	flavonoids
+T40	Metabolite 860 870	flavonoids
+T41	Chemical 875 891	chlorogenic acid
+T42	Metabolite 875 891	chlorogenic acid
+T43	Biological_Activity 914 924	inhibitory
+T44	Chemical 969 988	dichlorofluorescein
+T45	Chemical 990 993	DCF
+R1	Isolated_From Arg1:T23 Arg2:T13	
+R2	Isolated_From Arg1:T25 Arg2:T13	
+R3	Isolated_From Arg1:T28 Arg2:T13	
+R4	Isolated_From Arg1:T30 Arg2:T13	
+R5	Isolated_From Arg1:T32 Arg2:T13	
+R6	Isolated_From Arg1:T34 Arg2:T13	
+R7	Isolated_From Arg1:T36 Arg2:T13	
+R8	Isolated_From Arg1:T40 Arg2:T13	
+R9	Associated_With Arg1:T23 Arg2:T21	
+R10	Associated_With Arg1:T22 Arg2:T21	
+R11	Associated_With Arg1:T25 Arg2:T21	
+R12	Associated_With Arg1:T24 Arg2:T21	
+R13	Associated_With Arg1:T28 Arg2:T21	
+R14	Associated_With Arg1:T27 Arg2:T21	
+R15	Associated_With Arg1:T30 Arg2:T21	
+R16	Associated_With Arg1:T27 Arg2:T21	
+R17	Associated_With Arg1:T30 Arg2:T21	
+R18	Associated_With Arg1:T29 Arg2:T21	
+R19	Associated_With Arg1:T32 Arg2:T21	
+R20	Associated_With Arg1:T31 Arg2:T21	
+R21	Associated_With Arg1:T40 Arg2:T38	
+R22	Associated_With Arg1:T39 Arg2:T38	
+R23	Associated_With Arg1:T42 Arg2:T38	
+R24	Associated_With Arg1:T41 Arg2:T38	
+R25	Associated_With Arg1:T42 Arg2:T43	
+R26	Associated_With Arg1:T41 Arg2:T43	
+R27	Associated_With Arg1:T40 Arg2:T43	
+R28	Associated_With Arg1:T39 Arg2:T43	

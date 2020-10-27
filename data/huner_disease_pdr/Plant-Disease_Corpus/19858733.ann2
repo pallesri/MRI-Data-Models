@@ -1,0 +1,13 @@
+T1	Disease 112 134	cardiovascular disease
+T3	Disease 201 223	cardiovascular disease
+T9	Disease 1144 1166	coronary heart disease
+T10	Plant 33 38	olive
+T11	Plant 152 157	olive
+T12	Plant 316 321	olive
+T13	Plant 443 448	olive
+T14	Plant 594 599	olive
+T15	Plant 738 743	olive
+T16	Plant 833 838	olive
+T17	Plant 921 926	olive
+T2	Treatment_of_disease 76 86	associated
+E1	Treatment_of_disease:T2 Cause:T10 Theme:T1

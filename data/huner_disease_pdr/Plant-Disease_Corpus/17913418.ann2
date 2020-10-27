@@ -1,0 +1,17 @@
+T1	Disease 389 395	oedema
+T2	Disease 588 594	oedema
+T3	Disease 800 806	oedema
+T4	Disease 1280 1286	oedema
+T6	Plant 86 108	Allanblackia monticola
+T7	Plant 110 120	Guttiferae
+T9	Plant 267 289	Allanblackia monticola
+T11	Plant 751 773	Allanblackia monticola
+T12	Plant 922 933	acetic acid
+T14	Plant 1020 1042	Allanblackia monticola
+T16	Plant 1196 1218	Allanblackia monticola
+T17	Plant 1485 1496	acetic acid
+T19	Plant 1597 1619	Allanblackia monticola
+T21	Plant 1834 1856	Allanblackia monticola
+T5	Treatment_of_disease 783 792	effective
+E1	Treatment_of_disease:T5 Theme:T3 Cause:T11
+*	Equiv T6 T7

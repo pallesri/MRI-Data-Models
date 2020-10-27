@@ -1,0 +1,728 @@
+T1	Chemical 25 32	vitamin
+T2	Biological_Activity 25 32	vitamin
+T3	Chemical 33 39	biotin
+T4	Metabolite 33 39	biotin
+T5	Biological_Activity 55 65	biological
+R1	Associated_With Arg1:T3 Arg2:T2	
+R2	Associated_With Arg1:T4 Arg2:T2	
+T6	Biological_Activity 43 51	cofactor
+R3	Associated_With Arg1:T4 Arg2:T6	
+R4	Associated_With Arg1:T3 Arg2:T6	
+T7	Species 101 115	micro-organism
+T8	Species 121 127	plants
+T9	Protein 165 172	enzymes
+T10	Chemical 248 254	biotin
+T11	Metabolite 248 254	biotin
+T12	Species 278 284	plants
+T13	Species 289 303	microorganisms
+T14	Protein 305 312	enzymes
+T15	Biological_Activity 374 387	antimicrobial
+T16	Chemical 388 393	drugs
+T17	Biological_Activity 398 408	herbicides
+T18	Chemical 398 408	herbicides
+T19	Protein 448 455	enzymes
+T20	Protein 459 494	7,8-diaminopelargonic acid synthase
+T21	Protein 496 509	DAPA synthase
+T22	Protein 515 531	aminotransferase
+T23	Chemical 607 636	7-keto-8-aminopelargonic acid
+T24	Metabolite 607 636	7-keto-8-aminopelargonic acid
+T25	Chemical 638 642	KAPA
+T26	Metabolite 638 642	KAPA
+T27	Chemical 647 673	7,8-diaminopelargonic acid
+T28	Metabolite 647 673	7,8-diaminopelargonic acid
+T29	Chemical 675 679	DAPA
+T30	Metabolite 675 679	DAPA
+R5	Metabolite_Of Arg1:T28 Arg2:T23	
+R6	Metabolite_Of Arg1:T28 Arg2:T25	
+R7	Metabolite_Of Arg1:T30 Arg2:T23	
+R8	Metabolite_Of Arg1:T30 Arg2:T25	
+T31	Protein 723 736	DAPA synthase
+T32	Species 742 758	Escherichia coli
+T33	Protein 917 934	aminotransferases
+T34	Chemical 951 976	S -adenosyl-l -methionine
+T35	Chemical 978 981	SAM
+T36	Chemical 986 997	amino group
+T37	Protein 1034 1047	DAPA synthase
+T38	Chemical 1053 1075	pyridoxal-5′-phosphate
+T39	Chemical 1077 1080	PLP
+T40	Biological_Activity 1085 1093	cofactor
+R9	Associated_With Arg1:T39 Arg2:T40	
+R10	Associated_With Arg1:T38 Arg2:T40	
+T41	Chemical 1129 1139	vitamin B6
+T42	Metabolite 1129 1139	vitamin B6
+T43	Protein 1151 1168	aminotransferases
+T44	Chemical 1234 1244	vitamin B6
+T45	Metabolite 1234 1244	vitamin B6
+T46	Protein 1256 1263	enzymes
+T47	Protein 1343 1356	DAPA synthase
+T48	Chemical 1399 1402	PLP
+T49	Chemical 1427 1430	PLP
+T50	Chemical 1467 1473	lysine
+T51	Chemical 1492 1503	Schiff base
+T52	Chemical 1526 1534	aldimine
+T53	Chemical 1553 1556	SAM
+T54	Biological_Activity 1542 1549	binding
+R12	Binds_With Arg1:T38 Arg2:T37	
+T55	Chemical 1627 1635	aldimine
+T56	Biological_Activity 1676 1684	cofactor
+T57	Chemical 1784 1790	carbon
+T58	Chemical 1824 1833	quinonoid
+T59	Chemical 1883 1889	carbon
+T60	Protein 1913 1939	aspartate aminotransferase
+T61	Chemical 1949 1955	lysine
+T62	Biological_Activity 1986 1991	bound
+R16	Associated_With Arg1:T53 Arg2:T54	
+T63	Biological_Activity 1999 2007	cofactor
+T64	Biological_Activity 2023 2031	acceptor
+T65	Chemical 2124 2132	ketimine
+T66	Chemical 2156 2165	keto acid
+T67	Chemical 2189 2192	SAM
+T68	Chemical 2197 2219	pyridoxamine phosphate
+T69	Protein 2233 2239	enzyme
+T70	Biological_Activity 2220 2225	bound
+T71	Chemical 2349 2353	KAPA
+T72	Metabolite 2349 2353	KAPA
+T73	Biological_Activity 2377 2382	binds
+T74	Chemical 2400 2411	amino group
+T75	Chemical 2417 2439	pyridoxamine phosphate
+T76	Protein 2447 2465	PLP-enzyme complex
+R21	Associated_With Arg1:T72 Arg2:T73	
+R22	Associated_With Arg1:T71 Arg2:T73	
+T77	Chemical 2615 2619	KAPA
+T78	Metabolite 2615 2619	KAPA
+T79	Chemical 2629 2640	amino group
+T80	Protein 2642 2655	DAPA synthase
+T81	Chemical 2661 2665	KAPA
+T82	Metabolite 2661 2665	KAPA
+T83	Chemical 2677 2688	amino group
+T84	Biological_Activity 2689 2697	acceptor
+T85	Chemical 2709 2720	amino group
+T86	Biological_Activity 2721 2726	donor
+T87	Biological_Activity 998 1003	donor
+R23	Associated_With Arg1:T35 Arg2:T87	
+R24	Associated_With Arg1:T34 Arg2:T87	
+T88	Chemical 2733 2737	KAPA
+T89	Protein 2762 2775	DAPA synthase
+R11	Associated_With Arg1:T82 Arg2:T84	
+R13	Associated_With Arg1:T81 Arg2:T84	
+T90	Chemical 2865 2868	PLP
+T91	Protein 2879 2886	enzymes
+T92	Chemical 2986 2989	PLP
+T93	Protein 3000 3007	enzymes
+T94	Chemical 3153 3163	amino acid
+T95	Protein 3214 3231	aminotransferases
+T96	Protein 3246 3254	α-family
+T97	Protein 3268 3275	enzymes
+T98	Chemical 3290 3296	carbon
+T99	Chemical 3318 3329	amino group
+T100	Chemical 3502 3505	PLP
+T101	Biological_Activity 3497 3501	bind
+T102	Chemical 3617 3620	PLP
+T103	Biological_Activity 3621 3628	binding
+T104	Biological_Activity 3678 3695	aminotransferases
+T105	Biological_Activity 3758 3784	aspartate aminotransferase
+T106	Chemical 3952 3955	PLP
+T107	Biological_Activity 3956 3963	binding
+T108	Biological_Activity 4019 4026	binding
+T109	Biological_Activity 4043 4073	d -amino acid aminotransferase
+T110	Biological_Activity 4101 4132	branched chain aminotransferase
+T111	Protein 4235 4248	DAPA synthase
+T112	Protein 4267 4296	aminotransferase subclass III
+T113	Chemical 4304 4307	PLP
+T114	Protein 4378 4385	enzymes
+T115	Protein 4406 4424	ω-aminotransferase
+T116	Protein 4452 4478	ornithine aminotransferase
+T117	Protein 4522 4554	2,2-dialkylglycine decarboxylase
+T118	Protein 4588 4622	glutamate semialdehyde aminomutase
+T119	Protein 4698 4711	DAPA synthase
+T120	Species 4717 4724	E. coli
+T121	Protein 4788 4794	enzyme
+T122	Protein 4821 4847	aspartate aminotransferase
+T123	Chemical 4858 4868	vitamin B6
+T124	Metabolite 4858 4868	vitamin B6
+T125	Protein 4880 4887	enzymes
+T126	Protein 5089 5102	DAPA synthase
+T127	Chemical 5122 5126	KAPA
+T128	Metabolite 5122 5126	KAPA
+T129	Biological_Activity 5128 5133	bound
+T130	Chemical 5141 5144	PLP
+T131	Protein 5157 5163	enzyme
+T132	Protein 5345 5358	DAPA synthase
+T133	Protein 5439 5452	DAPA synthase
+T134	Chemical 5492 5499	mercury
+T135	Chemical 5504 5512	platinum
+T136	Protein 5677 5688	polypeptide
+T137	Chemical 5754 5761	mercury
+T138	Protein 6050 6061	polypeptide
+T139	Chemical 6555 6558	PLP
+T140	Chemical 6928 6933	water
+T141	Chemical 6949 6952	PLP
+T142	Chemical 6984 6987	Lys
+T143	Chemical 7013 7016	Na+
+T144	Chemical 7092 7095	Glu
+T145	Chemical 7057 7075	C-terminal residue
+T146	Chemical 7393 7396	Trp
+T147	Protein 7443 7450	protein
+T148	Chemical 7467 7474	leucine
+T149	Chemical 7600 7621	N-terminal amino acid
+T150	Chemical 7611 7621	amino acid
+T151	Chemical 7795 7798	Trp
+T152	Chemical 7805 7808	Ile
+T153	Chemical 7945 7948	Trp
+T154	Chemical 7988 7991	Ile
+T155	Biological_Activity 8081 8089	cofactor
+T156	Biological_Activity 8090 8097	binding
+T157	Protein 8151 8164	DAPA synthase
+T158	Protein 8266 8277	polypeptide
+T159	Biological_Activity 8381 8389	cofactor
+T160	Biological_Activity 8390 8397	binding
+T161	Protein 8450 8463	DAPA synthase
+T162	Protein 8736 8753	aminotransferases
+T163	Chemical 9903 9910	peptide
+T164	Protein 10247 10258	polypeptide
+T165	Chemical 10602 10605	Arg
+T166	Chemical 10676 10691	carbonyl groups
+T167	Chemical 10704 10707	Gly
+T168	Chemical 10715 10718	Met
+T169	Chemical 10790 10793	Arg
+T170	Chemical 10867 10875	carbonyl
+T171	Chemical 10876 10882	oxygen
+T172	Chemical 10892 10895	Pro
+T173	Chemical 10943 10946	Ala
+T174	Chemical 10990 10998	hydrogen
+T175	Chemical 11029 11037	carbonyl
+T176	Chemical 11038 11044	oxygen
+T177	Chemical 11066 11080	hydroxyl group
+T178	Chemical 11057 11065	phenolic
+T179	Chemical 11084 11087	Tyr
+T180	Chemical 11092 11095	Ile
+T181	Chemical 11193 11196	Tyr
+T182	Chemical 11245 11259	hydroxyl group
+T183	Chemical 11263 11266	Tyr
+T184	Chemical 11280 11288	hydrogen
+T185	Chemical 11324 11332	carbonyl
+T186	Chemical 11333 11339	oxygen
+T187	Chemical 11348 11351	Phe
+T188	Chemical 11433 11436	Tyr
+T189	Chemical 11444 11447	Ala
+T190	Protein 11496 11510	DAPA synthases
+T191	Chemical 11633 11641	hydrogen
+T192	Chemical 11730 11733	Ala
+T193	Chemical 11740 11743	Gly
+T194	Chemical 11771 11774	Tyr
+T195	Chemical 11799 11802	Asn
+T196	Chemical 11850 11853	Tyr
+T197	Chemical 11899 11907	hydrogen
+T198	Chemical 11927 11935	phenolic
+T199	Chemical 11936 11942	oxygen
+T200	Chemical 11964 11967	Asp
+T201	Chemical 12127 12130	Ser
+T202	Chemical 12137 12140	Trp
+T203	Chemical 12176 12184	hydroxyl
+T204	Chemical 12200 12208	carbonyl
+T205	Chemical 12209 12215	oxygen
+T206	Chemical 12245 12262	guanidinium group
+T207	Chemical 12266 12269	Arg
+T208	Chemical 12333 12336	Gly
+T209	Protein 12378 12392	DAPA synthases
+T210	Protein 12414 12427	DAPA synthase
+T211	Protein 12465 12478	DAPA synthase
+T212	Protein 12632 12645	DAPA synthase
+T213	Protein 12963 12976	DAPA synthase
+T214	Chemical 13950 13953	PLP
+T215	Biological_Activity 13954 13961	binding
+T216	Chemical 13970 13973	Lys
+T217	Protein 14043 14056	DAPA synthase
+T218	Chemical 14652 14674	pyridoxal-5′-phosphate
+T219	Biological_Activity 14675 14682	binding
+T220	Biological_Activity 14717 14725	cofactor
+T221	Chemical 14770 14773	PLP
+T222	Biological_Activity 14788 14793	bound
+T223	Chemical 14813 14816	Lys
+T224	Chemical 14840 14843	PLP
+T225	Biological_Activity 14844 14851	binding
+T226	Biological_Activity 15002 15010	cofactor
+T227	Chemical 15090 15096	lysine
+T228	Chemical 15128 15131	PLP
+T229	Protein 15222 15229	protein
+T230	Chemical 15238 15241	PLP
+T231	Biological_Activity 15322 15330	cofactor
+T232	Chemical 15416 15422	oxygen
+T233	Chemical 15436 15445	phosphate
+T234	Chemical 15481 15487	amides
+T235	Chemical 15491 15494	Gly
+T236	Chemical 15502 15505	Ser
+T237	Chemical 15532 15535	Ser
+T238	Chemical 15594 15597	PLP
+T239	Protein 15612 15618	enzyme
+T240	Chemical 15648 15657	phosphate
+T241	Chemical 15658 15664	oxygen
+T242	Chemical 15746 15749	Thr
+T243	Chemical 15784 15792	hydrogen
+T244	Chemical 15833 15838	amide
+T245	Chemical 15853 15862	phosphate
+T246	Chemical 15863 15869	oxygen
+T247	Chemical 15898 15903	water
+T248	Chemical 15921 15929	hydrogen
+T249	Chemical 15951 15960	phosphate
+T250	Chemical 15961 15967	oxygen
+T251	Protein 16015 16026	holo-enzyme
+T252	Chemical 16032 16046	carboxyl group
+T253	Chemical 16050 16053	Asp
+T254	Chemical 16067 16075	hydrogen
+T255	Chemical 16100 16108	pyridine
+T256	Chemical 16109 16117	nitrogen
+T257	Chemical 16150 16158	carboxyl
+T258	Chemical 16199 16207	hydrogen
+T259	Chemical 16220 16228	nitrogen
+T260	Chemical 16247 16255	nitrogen
+T261	Chemical 16275 16288	aspartic acid
+T262	Chemical 16353 16358	amide
+T263	Chemical 16370 16373	Ile
+T264	Chemical 16404 16407	His
+T265	Protein 16440 16447	protein
+T266	Chemical 16472 16480	phenolic
+T267	Chemical 16481 16495	hydroxyl group
+T268	Biological_Activity 16510 16518	cofactor
+T269	Chemical 16540 16545	water
+T270	Chemical 16585 16588	Glu
+T271	Chemical 16611 16616	amide
+T272	Chemical 16620 16623	Ala
+T273	Chemical 16632 16640	pyridine
+T274	Chemical 16649 16652	PLP
+T275	Chemical 16693 16696	Tyr
+T276	Chemical 16777 16780	Ile
+T277	Protein 16849 16856	protein
+T278	Biological_Activity 16859 16866	Binding
+T279	Chemical 16884 16888	KAPA
+T280	Metabolite 16884 16888	KAPA
+T281	Protein 17163 17173	holoenzyme
+T282	Chemical 17354 17372	C-terminal residue
+T283	Chemical 17546 17549	Ile
+T284	Protein 17688 17698	holoenzyme
+T285	Chemical 17883 17886	PLP
+T286	Chemical 17899 17903	KAPA
+T287	Metabolite 17899 17903	KAPA
+T288	Protein 18070 18077	protein
+T289	Biological_Activity 18192 18197	bound
+T290	Chemical 18198 18202	KAPA
+T291	Metabolite 18198 18202	KAPA
+T292	Chemical 18312 18320	carboxyl
+T293	Biological_Activity 18415 18423	cofactor
+T294	Protein 18526 18533	protein
+T295	Chemical 18542 18546	salt
+T296	Chemical 18559 18567	hydrogen
+T297	Chemical 18597 18603	carbon
+T298	Chemical 18633 18643	amino acid
+T299	Chemical 18687 18701	carboxyl group
+T300	Chemical 18705 18709	KAPA
+T301	Metabolite 18705 18709	KAPA
+T302	Chemical 18718 18722	salt
+T303	Chemical 18767 18770	Arg
+T304	Chemical 18786 18792	oxygen
+T305	Chemical 18807 18822	carboxyl groups
+T306	Chemical 18838 18846	hydrogen
+T307	Chemical 18901 18904	Trp
+T308	Chemical 18922 18928	carbon
+T309	Chemical 18942 18946	KAPA
+T310	Metabolite 18942 18946	KAPA
+R14	Isolated_From Arg1:T4 Arg2:T7	
+R15	Isolated_From Arg1:T4 Arg2:T8	
+T311	Chemical 19022 19025	Tyr
+T312	Chemical 19029 19032	Trp
+T313	Chemical 19036 19039	Tyr
+T314	Chemical 19047 19050	Phe
+T315	Chemical 19066 19072	oxygen
+T316	Chemical 19061 19065	keto
+T317	Chemical 19081 19085	KAPA
+T318	Metabolite 19081 19085	KAPA
+T319	Chemical 19094 19102	hydrogen
+T320	Chemical 19127 19130	Lys
+T321	Chemical 19169 19172	PLP
+T322	Chemical 19205 19213	nitrogen
+T323	Chemical 19264 19272	hydrogen
+T324	Chemical 19293 19307	hydroxyl group
+T325	Chemical 19311 19314	Tyr
+T326	Chemical 19326 19333	peptide
+T327	Chemical 19334 19340	oxygen
+T328	Chemical 19344 19347	Gly
+T329	Chemical 19365 19377	methyl group
+T330	Chemical 19381 19385	KAPA
+T331	Metabolite 19381 19385	KAPA
+T332	Chemical 19437 19440	Trp
+T333	Biological_Activity 19499 19506	binding
+T334	Chemical 19611 19614	Tyr
+T335	Chemical 19643 19647	KAPA
+T336	Metabolite 19643 19647	KAPA
+T337	Chemical 19663 19680	guanidinium group
+T338	Chemical 19702 19705	Arg
+T339	Chemical 19750 19754	salt
+T340	Chemical 19769 19783	carboxyl group
+T341	Chemical 19787 19791	KAPA
+T342	Metabolite 19787 19791	KAPA
+T343	Chemical 19862 19865	Trp
+T344	Protein 19941 19948	protein
+T345	Protein 20085 20095	holoenzyme
+T346	Protein 20425 20432	protein
+T347	Chemical 20481 20486	water
+T348	Chemical 20615 20621	sodium
+T349	Chemical 20640 20649	potassium
+T350	Biological_Activity 20627 20634	Binding
+T351	Chemical 20746 20752	sodium
+T352	Chemical 20838 20841	Na+
+T353	Chemical 20896 20902	oxygen
+T354	Chemical 20932 20947	carbonyl groups
+T355	Chemical 20960 20963	Val
+T356	Chemical 20967 20970	Thr
+T357	Chemical 20974 20977	Pro
+T358	Chemical 20985 20988	Leu
+T359	Chemical 21047 21050	Thr
+T360	Chemical 21059 21064	water
+T361	Chemical 21104 21109	metal
+T362	Chemical 21143 21153	vitamin B6
+T363	Metabolite 21143 21153	vitamin B6
+T364	Protein 21165 21172	enzymes
+T365	Protein 21187 21219	2,2-dialkylglycine decarboxylase
+T366	Protein 21253 21266	tryptophanase
+T367	Chemical 21296 21301	metal
+T368	Protein 21327 21340	DAPA synthase
+T369	Protein 21372 21385	decarboxylase
+T370	Chemical 21422 21430	carbonyl
+T371	Chemical 21431 21437	oxygen
+T372	Chemical 21447 21456	threonine
+T373	Chemical 21474 21479	water
+T374	Chemical 21503 21508	metal
+T375	Protein 21638 21651	DAPA synthase
+T376	Chemical 22767 22777	vitamin B6
+T377	Metabolite 22767 22777	vitamin B6
+T378	Protein 22779 22786	enzymes
+T379	Chemical 22858 22861	PLP
+T380	Chemical 22906 22913	Protein
+T381	Chemical 22928 22931	PLP
+T382	Protein 22942 22949	enzymes
+T383	Protein 22975 22988	DAPA synthase
+T384	Protein 23117 23124	enzymes
+T385	Protein 23138 23151	DAPA synthase
+T386	Chemical 23178 23188	amino acid
+T387	Protein 23343 23350	enzymes
+T388	Protein 23437 23444	enzymes
+T389	Chemical 23477 23487	vitamin B6
+T390	Metabolite 23477 23487	vitamin B6
+T391	Protein 23489 23495	enzyme
+T392	Protein 23705 23718	DAPA synthase
+T393	Protein 23797 23804	enzymes
+T394	Biological_Activity 23971 23978	binding
+T395	Protein 24069 24076	enzymes
+T396	Protein 24182 24195	DAPA synthase
+T397	Protein 24197 24229	2,2-dialkylglycine decarboxylase
+T398	Protein 24231 24265	glutamate semialdehyde aminomutase
+T399	Species 24270 24275	human
+T400	Protein 24276 24302	ornithine aminotransferase
+T401	Protein 24323 24353	aminotransferases subclass III
+T402	Protein 24408 24444	Aromatic amino acid aminotransferase
+T403	Protein 24449 24475	aspartate aminotransferase
+T404	Protein 24499 24527	aminotransferases subclass I
+T405	Protein 24533 24563	phosphoserine aminotransferase
+T406	Protein 24598 24625	aminotransferase subclass V
+T407	Protein 24685 24692	enzymes
+T408	Protein 24714 24742	aminotransferase subclass II
+T409	Protein 24834 24841	enzymes
+T410	Protein 24854 24870	aminotransferase
+T411	Protein 24933 24954	tyrosine phenol-lyase
+T412	Protein 24959 24982	tryptophan indole-lyase
+T413	Protein 25010 25031	tyrosine phenol-lyase
+T414	Protein 25043 25064	Cystathionine β-lyase
+T415	Protein 25123 25141	metathione γ-lyase
+T416	Protein 25143 25164	cystathionine γ-lyase
+T417	Protein 25166 25203	O -acetyl-l -homoserine sulfhydrylase
+T418	Protein 25205 25242	O -succinylhomoserine sulphfhydrylase
+T419	Protein 25248 25272	cystathionine γ-synthase
+T420	Protein 25339 25360	cystathionine β-lyase
+T421	Species 25383 25394	prokaryotic
+T422	Protein 25395 25418	ornithine decarboxylase
+T423	Protein 25554 25565	polypeptide
+T424	Protein 25874 25887	DAPA synthase
+T425	Protein 25902 25909	enzymes
+T426	Protein 25950 25971	tyrosine phenol-lyase
+T427	Protein 26129 26149	subclass III enzymes
+T428	Protein 26362 26383	cystathionine-β-lyase
+T429	Protein 26742 26768	aspartate aminotransferase
+T430	Protein 26773 26809	aromatic amino acid aminotransferase
+T431	Protein 27127 27150	Ornithine decarboxylase
+T432	Chemical 27163 27166	PLP
+T433	Protein 27177 27183	enzyme
+T434	Protein 27258 27272	type I enzymes
+T435	Protein 27403 27417	type I enzymes
+T436	Chemical 27532 27535	PLP
+T437	Protein 27587 27605	subclass V enzymes
+T438	Protein 27657 27668	polypeptide
+T439	Protein 27823 27837	type I enzymes
+T440	Chemical 27876 27884	pyridine
+T441	Chemical 27897 27900	PLP
+T442	Biological_Activity 27901 27909	cofactor
+T443	Protein 27922 27936	type I enzymes
+T444	Chemical 28025 28036	Schiff-base
+T445	Chemical 28037 28045	nitrogen
+T446	Protein 28054 28067	DAPA synthase
+T447	Protein 28105 28112	enzymes
+T448	Protein 28123 28146	ornithine decarboxylase
+T449	Chemical 28151 28182	phosphoserine amino transferase
+T450	Chemical 28202 28210	pyridine
+T451	Chemical 28211 28219	nitrogen
+T452	Protein 28230 28261	phosphoserine amino transferase
+T453	Biological_Activity 28309 28317	cofactor
+T454	Biological_Activity 28402 28410	cofactor
+T455	Chemical 28505 28511	lysine
+T456	Protein 28558 28587	aminotransferase subclass III
+T457	Protein 28588 28595	enzymes
+T458	Chemical 28648 28654	lysine
+T459	Chemical 28716 28722	lysine
+T460	Protein 28730 28737	enzymes
+T461	Chemical 28818 28828	amino acid
+T462	Protein 28846 28875	subclass III aminotransferase
+T463	Chemical 28897 28903	lysine
+T464	Chemical 28974 28987	aspartic acid
+T465	Chemical 29017 29020	Asp
+T466	Protein 29027 29040	DAPA synthase
+T467	Protein 29092 29098	enzyme
+T468	Chemical 29112 29122	amino acid
+T469	Chemical 29131 29135	salt
+T470	Chemical 29143 29151	hydrogen
+T471	Chemical 29166 29174	pyridine
+T472	Chemical 29175 29183	nitrogen
+T473	Chemical 29279 29287	aldimine
+T474	Chemical 29288 29296	nitrogen
+T475	Chemical 29403 29411	hydrogen
+T476	Protein 29465 29488	ornithine decarboxylase
+T477	Protein 29493 29506	tryptophanase
+T478	Chemical 29520 29533	aspartic acid
+T479	Chemical 29558 29566	pyridine
+T480	Chemical 29567 29575	nitrogen
+T481	Chemical 29579 29582	PLP
+T482	Protein 29587 29600	DAPA synthase
+T483	Protein 29602 29636	glutamate semialdehyde aminomutase
+T484	Protein 29641 29669	dialkylglycine decarboxylase
+T485	Chemical 29672 29681	histidine
+T486	Chemical 29698 29706	hydrogen
+T487	Chemical 29726 29734	carboxyl
+T488	Chemical 29735 29741	oxygen
+T489	Chemical 29755 29768	aspartic acid
+T490	Chemical 29809 29818	histidine
+T491	Protein 29848 29857;29882 29898	aspartate aminotransferase
+T492	Protein 29862 29898	aromatic amino acid aminotransferase
+T493	Protein 29908 29920;29927 29934	subclass III enzymes
+T494	Protein 29908 29916;29925 29934	subclass V enzymes
+T495	Chemical 29951 29956	amide
+T496	Chemical 29993 30006	aspartic acid
+T497	Chemical 30017 30025	hydrogen
+T498	Chemical 30059 30073	carboxyl group
+T499	Chemical 30082 30095	aspartic acid
+T500	Protein 30107 30128	cystathionine β-lyase
+T501	Protein 30130 30160	phosphoserine aminotransferase
+T502	Protein 30165 30186	tyrosine phenol-lyase
+T503	Chemical 30219 30222	Thr
+T504	Chemical 30223 30226	Ser
+T505	Protein 30280 30287	enzymes
+T506	Protein 30295 30308	DAPA synthase
+T507	Protein 30314 30321	protein
+T508	Chemical 30333 30341	hydrogen
+T509	Chemical 30362 30370	phenolic
+T510	Chemical 30371 30377	oxygen
+T511	Chemical 30392 30400	pyridine
+T512	Chemical 30494 30505	Schiff base
+T513	Biological_Activity 30513 30521	cofactor
+T514	Chemical 30541 30547	lysine
+T515	Chemical 30620 30625	water
+T516	Chemical 30654 30667	glutamic acid
+T517	Protein 30705 30718	DAPA synthase
+T518	Protein 30760 30790	subclass III aminotransferases
+T519	Chemical 30814 30817	PLP
+T520	Protein 30818 30825	enzymes
+T521	Chemical 30880 30888	pyridine
+T522	Chemical 30897 30900	PLP
+T523	Protein 30906 30913	enzymes
+T524	Chemical 30938 30955	aromatic residues
+T525	Chemical 30991 30994	Tyr
+T526	Protein 31001 31014	DAPA synthase
+T527	Protein 31032 31062	subclass III aminotransferases
+T528	Chemical 31067 31083	aromatic residue
+T529	Chemical 31118 31126	pyridine
+T530	Biological_Activity 31139 31147	cofactor
+T531	Protein 31173 31187	type I enzymes
+T532	Protein 31248 31274	aspartate aminotransferase
+T533	Chemical 31371 31379	aldimine
+T534	Biological_Activity 31438 31446	cofactor
+T535	Chemical 31480 31489	quinonoid
+T536	Protein 31556 31593	aminotransferase subclass III enzymes
+T537	Protein 31733 31744	polypeptide
+T538	Chemical 31759 31775	aromatic residue
+T539	Protein 31861 31875	type I enzymes
+T540	Chemical 31946 31962	aromatic residue
+T541	Chemical 32040 32048	pyridine
+T542	Biological_Activity 32061 32069	cofactor
+T543	Protein 32116 32129	tryptophanase
+T544	Protein 32131 32152	cystathionine β-lyase
+T545	Protein 32157 32178	tyrosine phenol-lyase
+T546	Protein 32302 32309	enzymes
+T547	Species 32352 32357	Human
+T548	Protein 32358 32381	ornithine decarboxylase
+T549	Chemical 32512 32527	phosphate group
+T550	Chemical 32531 32534	PLP
+T551	Protein 32548 32576	subclass I aminotransferases
+T552	Protein 32609 32615;32620 32627	type I enzymes
+T553	Chemical 32616 32619	PLP
+T554	Chemical 32676 32685	phosphate
+T555	Chemical 32686 32692	oxygen
+T556	Chemical 32707 32715	arginine
+T557	Chemical 32725 32728	Arg
+T558	Protein 32735 32761	aspartate aminotransferase
+T559	Biological_Activity 32803 32811	cofactor
+T560	Protein 32815 32824;32849 32865	aspartate aminotransferase
+T561	Protein 32829 32866	aromatic amino acid aminotransferases
+T562	Protein 32897 32911	type I enzymes
+T563	Protein 32974 32987	DAPA synthase
+T564	Protein 33039 33045	enzyme
+T565	Chemical 33051 33054	PLP
+T566	Chemical 33059 33063	KAPA
+T567	Metabolite 33059 33063	KAPA
+T568	Chemical 33144 33147	PLP
+T569	Biological_Activity 33160 33168	cofactor
+T570	Chemical 33178 33189	amino group
+T571	Biological_Activity 33190 33198	acceptor
+T572	Chemical 33199 33203	KAPA
+T573	Metabolite 33199 33203	KAPA
+R17	Associated_With Arg1:T573 Arg2:T571	
+R18	Associated_With Arg1:T572 Arg2:T571	
+T574	Chemical 33253 33265	pyridoxamine
+T575	Protein 33278 33284	enzyme
+T576	Chemical 33292 33296	KAPA
+T577	Metabolite 33292 33296	KAPA
+T578	Chemical 33303 33313	amino acid
+T579	Chemical 33364 33369	amino
+T580	Biological_Activity 33370 33375	donor
+T581	Chemical 33413 33416	PLP
+T582	Protein 33429 33435	enzyme
+T583	Chemical 33536 33542	carbon
+T584	Biological_Activity 33555 33563	cofactor
+T585	Chemical 33585 33593	aldimine
+T586	Chemical 33602 33613	amino group
+T587	Chemical 33617 33621	KAPA
+T588	Metabolite 33617 33621	KAPA
+T589	Biological_Activity 33627 33631	bind
+T590	Biological_Activity 33665 33673	cofactor
+R19	Associated_With Arg1:T588 Arg2:T589	
+R20	Associated_With Arg1:T587 Arg2:T589	
+T591	Chemical 33753 33764	amino group
+T592	Biological_Activity 33768 33773	bound
+T593	Protein 33785 33792	protein
+T594	Chemical 33880 33888	aldimine
+T595	Biological_Activity 33953 33960	binding
+T596	Chemical 33964 33968	KAPA
+T597	Metabolite 33964 33968	KAPA
+T598	Chemical 34001 34007	carbon
+T599	Chemical 34016 34020	KAPA
+T600	Metabolite 34016 34020	KAPA
+T601	Chemical 34034 34042	aldimine
+T602	Chemical 34082 34093	amino group
+T603	Chemical 34102 34108	carbon
+T604	Chemical 34146 34172	7,8-diaminopelargonic acid
+T605	Metabolite 34146 34172	7,8-diaminopelargonic acid
+T606	Chemical 34263 34276	DAPA synthase
+T607	Protein 34298 34305	enzymes
+T608	Chemical 34323 34333	vitamin B6
+T609	Metabolite 34323 34333	vitamin B6
+T610	Protein 34345 34352	enzymes
+T611	Biological_Activity 34402 34409	binding
+T612	Protein 34484 34497	DAPA synthase
+T613	Protein 34534 34540	enzyme
+T614	Species 34557 34562	human
+T615	Protein 34563 34589	ornithine aminotransferase
+T616	Chemical 34645 34648	PLP
+T617	Protein 34661 34667	enzyme
+T618	Chemical 34671 34674	SAM
+T619	Protein 34711 34721	holoenzyme
+T620	Biological_Activity 34752 34756	bind
+T621	Chemical 34757 34760	SAM
+T622	Chemical 34899 34906	adenine
+T623	Chemical 34942 34947	sugar
+T624	Biological_Activity 34981 34988	binding
+T625	Chemical 34997 35000	SAM
+T626	Protein 35004 35017	DAPA synthase
+T627	Protein 35069 35075	enzyme
+T628	Chemical 35076 35079	PLP
+T629	Chemical 35080 35083	SAM
+T630	Protein 35069 35083	enzyme-PLP-SAM
+T631	Protein 35202 35215	DAPA synthase
+T632	Biological_Activity 35361 35372	mutagenesis
+T633	Protein 35426 35439	DAPA synthase
+T634	Chemical 35720 35735	sodium chloride
+T635	Protein 35800 35813	DAPA synthase
+T636	Chemical 35814 35817	PLP
+T637	Chemical 35818 35822	KAPA
+T638	Metabolite 35818 35822	KAPA
+T639	Protein 35864 35874	holoenzyme
+T640	Chemical 35893 35897	KAPA
+T641	Metabolite 35893 35897	KAPA
+T642	Chemical 35904 35912	PEG-4000
+T643	Chemical 35919 35922	MPD
+T644	Chemical 35931 35936	Hepes
+T645	Chemical 35961 35965	KAPA
+T646	Metabolite 35961 35965	KAPA
+T647	Chemical 36313 36337	polyethylene glycol 4000
+T648	Chemical 36344 36368	2-methyl-2,4 pentanediol
+T649	Chemical 36378 36406	ethyl mercury thiosalicylate
+T650	Chemical 36408 36412	EMTS
+T651	Chemical 36417 36429	K2 Pt(NO2 )4
+T652	Chemical 36718 36722	EMTS
+T653	Chemical 37147 37154	mercury
+T654	Biological_Activity 37351 37358	binding
+T655	Chemical 37535 37542	mercury
+T656	Protein 37768 37775	protein
+T657	Chemical 38053 38060	mercury
+T658	Protein 38413 38426	DAPA synthase
+T659	Chemical 38427 38430	PLP
+T660	Chemical 38431 38435	KAPA
+T661	Protein 38938 38944	enzyme
+T662	Biological_Activity 39435 39443	cofactor
+T663	Chemical 39445 39448	PLP
+T664	Chemical 40041 40044	PLP
+T665	Chemical 40241 40246	water
+T666	Chemical 40382 40387	water
+T667	Protein 40867 40877	holoenzyme
+T668	Chemical 40888 40893	water
+T669	Chemical 40912 40918	sodium
+T670	Chemical 40936 40940	KAPA
+T671	Metabolite 40936 40940	KAPA
+T672	Chemical 41036 41039	PLP
+T673	Chemical 41433 41438	water
+T674	Chemical 41457 41463	sodium
+T675	Protein 41615 41622	Protein
+T676	Protein 41679 41692	DAPA synthase
+T677	Chemical 41807 41810	PLP
+T678	Protein 41811 41818	enzymes
+T679	Protein 41877 41904	aspartate aminotransferases
+T680	Protein 41938 41945	enzymes
+T681	Species 41987 41994	E. coli
+T682	Protein 41996 42002	enzyme
+T683	Protein 42120 42150	phosphoserine aminotransferase
+T684	Protein 42169 42176	Protein
+T685	Chemical 42268 42276	aldimine
+T686	Protein 42289 42296	enzymes
+T687	Protein 42373 42386	DAPA synthase
+T688	Protein 42426 42433	enzymes
+T689	Protein 42457 42483	aspartate aminotransferase
+T690	Protein 42503 42529	ornithine aminotransferase
+T691	Protein 42620 42627	enzymes
+T692	Protein 42702 42715	DAPA synthase
+T693	Protein 42834 42847	DAPA synthase
+T694	Protein 42861 42867	enzyme
+T695	Protein 43650 43658	proteins
+T696	Protein 43917 43924	enzymes
+T697	Protein 43927 43934	Protein
+T698	Protein 44055 44062	Protein
+T699	Protein 44128 44134	enzyme
+T700	Chemical 44135 44138	PLP
+T701	Protein 44165 44171	enzyme
+T702	Chemical 44172 44175	PLP
+T703	Chemical 44176 44180	KAPA
+T704	Metabolite 44176 44180	KAPA

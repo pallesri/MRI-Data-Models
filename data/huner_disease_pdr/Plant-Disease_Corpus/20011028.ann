@@ -1,0 +1,5 @@
+T1	Disease 117 122	tumor
+T2	Disease 277 283	cancer
+T4	Plant 70 77	ginseng
+T3	Treatment_of_disease 97 104	exhibit
+E1	Treatment_of_disease:T3 Cause:T4 Theme:T1

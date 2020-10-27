@@ -1,0 +1,51 @@
+T1	Chemical 0 10	Anandamide
+T2	Chemical 12 38	N-arachidonoylethanolamine
+T3	Chemical 48 72	fatty acid ethanolamides
+T5	Species 127 131	mice
+T8	Chemical 179 192	pentobarbital
+T10	Chemical 247 276	phenylmethylsulfonyl fluoride
+T11	Chemical 278 282	PMSF
+T12	Chemical 300 310	anandamide
+T13	Protein 382 407	anandamide amidohydrolase
+T15	Species 411 416	mouse
+T16	Biological_Activity 438 452	cataleptogenic
+T17	Chemical 463 475	anandamide  
+R1	Associated_With Arg1:T17 Arg2:T16	
+T18	Chemical 541 550;590 602	N-oleoyl- ethanolamine
+T19	Chemical 579 602	N-linoleoylethanolamine
+R2	Associated_With Arg1:T18 Arg2:T16	
+R3	Associated_With Arg1:T19 Arg2:T16	
+T20	Chemical 730 764	saturated fatty acid ethanolamides
+T21	Chemical 766 778;822 834	N-myristoyl- ethanolamine
+T22	Chemical 780 792;822 834	N-palmitoyl- ethanolamine
+T23	Chemical 794 805;822 834	N-stearoyl- ethanolamine
+T24	Chemical 810 834	N-arachidoylethanolamine
+T25	Biological_Activity 870 884	cataleptogenic
+T27	Chemical 927 937	Anandamide
+T28	Chemical 939 951;978 990	N-linoleoyl- ethanolamine
+T29	Chemical 953 962;978 990	N-oleoyl- ethanolamine
+T30	Chemical 967 990	N-myristoylethanolamine
+T31	Chemical 1144 1157	ethanolamides
+T33	Chemical 1185 1195	Anandamide
+T34	Chemical 1197 1209;1236 1248	N-linoleoyl- ethanolamine
+T35	Chemical 1211 1220;1236 1248	N-oleoyl- ethanolamine
+T36	Chemical 1225 1248	N-palmitoylethanolamine
+T37	Biological_Activity 1373 1387	cataleptogenic
+T38	Chemical 1398 1408	anandamide
+R12	Associated_With Arg1:T38 Arg2:T37	
+T39	Species 1453 1457	mice
+T40	Chemical 1463 1467	PMSF
+T41	Chemical 1513 1523	anandamide
+T42	Chemical 1548 1552	PMSF
+T43	Species 1564 1568	mice
+T44	Species 1590 1594	mice
+T45	Chemical 1600 1604	PMSF
+T46	Chemical 1661 1671	anandamide
+T48	Species 1838 1842	mice
+T49	Chemical 1880 1890	anandamide
+T50	Chemical 1895 1941	N-acylethanolamines of unsaturated fatty acids
+T51	Chemical 1952 1963	cannabinoid
+T53	Species 1980 1984	mice
+T54	Protein 1995 2020	anandamide amidohydrolase
+T55	Chemical 2077 2087	anandamide
+T56	Chemical 1295 1308	pentobarbital

@@ -1,0 +1,62 @@
+T1	Protein 4 15	flavoenzyme
+T2	Protein 16 35	d-aspartate oxidase
+T3	Protein 54 59	DASPO
+T4	Protein 61 72	EC 1.4. 3.1
+T5	Species 100 116	Escherichia coli
+T6	Protein 209 215	bDASPO
+T7	Protein 283 289	rDASPO
+T8	Protein 262 281	recombinant protein
+T9	Species 312 320	E.  coli
+T10	Protein 328 334	rDASPO
+T11	Protein 404 410	bDASPO
+T12	Chemical 449 452	FAD
+T13	Metabolite 449 452	FAD
+T14	Metabolite 521 524	FAD
+T15	Chemical 521 524	FAD
+T16	Metabolite 554 562	6-OH-FAD
+T17	Chemical 554 562	6-OH-FAD
+T18	Protein 670 676	rDASPO
+T19	Protein 689 695	bDASPO
+T20	Protein 730 740	apoprotein
+T21	Chemical 841 855	l-(+)-tartrate
+T22	Protein 866 871	DASPO
+T23	Chemical 978 986	coenzyme
+T24	Chemical 1004 1007	FAD
+T25	Metabolite 1004 1007	FAD
+T26	Protein 1075 1088	flavooxidases
+T27	Protein 1090 1096	rDASPO
+T28	Biological_Activity 1132 1141	oxidative
+T29	Protein 1158 1164	enzyme
+T30	Chemical 1185 1194	compounds
+T31	Biological_Activity 1204 1212	agonists
+T32	Biological_Activity 1216 1227	antagonists
+T33	Chemical 1260 1277	d-aspartatic acid
+T34	Chemical 1279 1295	d-glutamic acid,
+T35	Chemical 1296 1320	N-methyl-d-aspartic acid
+T36	Chemical 1322 1338	d,l-cysteic acid
+T37	Chemical 1340 1360	d-homocysteic  acid,
+T38	Chemical 1361 1399	d, l-2-amino-3-phosphonopropanoic acid
+T39	Chemical 1401 1425	d-alpha-aminoadipic acid
+T40	Chemical 1427 1459	d-aspartic acid-beta-hydroxamate
+T41	Chemical 1461 1483	glycyl-d-aspartic acid
+T42	Chemical 1488 1526	cis-2, 3-piperidine  dicarboxylic acid
+R1	Associated_With Arg1:T33 Arg2:T31	
+R2	Associated_With Arg1:T33 Arg2:T32	
+R3	Associated_With Arg1:T34 Arg2:T31	
+R4	Associated_With Arg1:T34 Arg2:T32	
+R5	Associated_With Arg1:T35 Arg2:T31	
+R6	Associated_With Arg1:T35 Arg2:T32	
+R7	Associated_With Arg1:T36 Arg2:T31	
+R8	Associated_With Arg1:T36 Arg2:T32	
+R9	Associated_With Arg1:T37 Arg2:T31	
+R10	Associated_With Arg1:T37 Arg2:T32	
+R11	Associated_With Arg1:T38 Arg2:T32	
+R12	Associated_With Arg1:T38 Arg2:T31	
+R13	Associated_With Arg1:T39 Arg2:T31	
+R14	Associated_With Arg1:T39 Arg2:T32	
+R15	Associated_With Arg1:T40 Arg2:T31	
+R16	Associated_With Arg1:T40 Arg2:T32	
+R17	Associated_With Arg1:T41 Arg2:T31	
+R18	Associated_With Arg1:T41 Arg2:T32	
+R19	Associated_With Arg1:T42 Arg2:T31	
+R20	Associated_With Arg1:T42 Arg2:T32	

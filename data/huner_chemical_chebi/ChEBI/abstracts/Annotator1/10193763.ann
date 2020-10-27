@@ -1,0 +1,43 @@
+T1	Chemical 11 23	prostacyclin
+T2	Chemical 11 32	prostacyclin analogue
+T3	Chemical 34 42	iloprost
+T5	Chemical 92 102	cyclic AMP
+T7	Chemical 138 175	adenosine 3': 5'-cyclic monophosphate
+T8	Chemical 177 187	cyclic AMP
+T9	Biological_Activity 193 207	vasorelaxation
+R3	Associated_With Arg1:T3 Arg2:T9	
+T10	Protein 269 285	adenylyl cyclase
+T12	Biological_Activity 286 295	inhibitor
+T13	Chemical 297 338	9-(tetrahydro-2-furanyl)-9H-purin-6-amine
+R5	Associated_With Arg1:T13 Arg2:T12	
+T14	Chemical 340 347	SQ22536
+R6	Associated_With Arg1:T14 Arg2:T12	
+T15	Chemical 352 360	iloprost
+T16	Chemical 385 395	cyclic AMP
+T19	Chemical 444 452	Iloprost
+T20	Biological_Activity 498 508	inhibition
+R10	Associated_With Arg1:T19 Arg2:T20	
+T21	Chemical 608 615	SQ22536
+T22	Chemical 668 676	iloprost
+T23	Biological_Activity 690 700	inhibition
+R11	Associated_With Arg1:T22 Arg2:T23	
+T25	Chemical 777 784	SQ22536
+T27	Chemical 840 850	cyclic AMP
+T29	Biological_Activity 1002 1014	vasorelaxant
+T30	Chemical 946 956	cyclic AMP
+T31	Chemical 1026 1034	iloprost
+R14	Associated_With Arg1:T31 Arg2:T29	
+T32	Species 1038 1048	guinea-pig
+T4	Metabolite 92 102	cyclic AMP
+T6	Metabolite 138 175	adenosine 3': 5'-cyclic monophosphate
+T33	Metabolite 177 187	cyclic AMP
+T18	Metabolite 385 395	cyclic AMP
+T17	Chemical 512 525	phenylephrine
+T34	Chemical 704 717	phenylephrine
+T24	Chemical 765 775	cyclic AMP
+T35	Metabolite 765 775	cyclic AMP
+T26	Chemical 810 818	iloprost
+T36	Metabolite 840 850	cyclic AMP
+T28	Metabolite 946 956	cyclic AMP
+R1	Binds_With Arg1:T14 Arg2:T10	
+R2	Binds_With Arg1:T13 Arg2:T10	

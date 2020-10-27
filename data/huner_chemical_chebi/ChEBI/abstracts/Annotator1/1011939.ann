@@ -1,0 +1,41 @@
+T1	Chemical 57 85	chenodeoxycholic acid-24-14C
+T2	Species 174 182	hamsters
+T3	Chemical 57 78	chenodeoxycholic acid
+T4	Metabolite 57 78	chenodeoxycholic acid
+T5	Chemical 200 209	bile acid
+T6	Species 320 328	hamsters
+T7	Metabolite 392 413	chenodeoxycholic acid
+T8	Chemical 392 413	chenodeoxycholic acid
+T9	Chemical 437 459	7-ketolithocholic acid
+T10	Metabolite 437 459	7-ketolithocholic acid
+T11	Metabolite 461 478	lithocholic  acid
+T12	Chemical 461 478	lithocholic  acid
+T13	Chemical 484 504	beta-muricholic acid
+T14	Metabolite 484 504	beta-muricholic acid
+T15	Chemical 537 553	lithocholic acid
+T16	Metabolite 537 553	lithocholic acid
+T17	Chemical 556 579	dehydrolithocholic acid
+T18	Metabolite 556 579	dehydrolithocholic acid
+T19	Chemical 581 600	isolithocholic acid
+T20	Metabolite 581 600	isolithocholic acid
+T21	Chemical 667 688	chenodeoxycholic acid
+T22	Chemical 667 695	chenodeoxycholic acid-24-14C
+T23	Metabolite 667 688	chenodeoxycholic acid
+T24	Metabolite 708 728	beta-muricholic acid
+T25	Chemical 708 728	beta-muricholic acid
+R1	Isolated_From Arg1:T7 Arg2:T6	
+R2	Isolated_From Arg1:T10 Arg2:T6	
+R3	Isolated_From Arg1:T11 Arg2:T6	
+R4	Isolated_From Arg1:T14 Arg2:T6	
+R5	Isolated_From Arg1:T16 Arg2:T6	
+R6	Isolated_From Arg1:T18 Arg2:T6	
+R7	Isolated_From Arg1:T20 Arg2:T6	
+R8	Isolated_From Arg1:T24 Arg2:T6	
+R9	Metabolite_Of Arg1:T10 Arg2:T8	
+R10	Metabolite_Of Arg1:T11 Arg2:T8	
+R11	Metabolite_Of Arg1:T14 Arg2:T8	
+R12	Metabolite_Of Arg1:T16 Arg2:T8	
+R13	Metabolite_Of Arg1:T18 Arg2:T8	
+R14	Metabolite_Of Arg1:T20 Arg2:T8	
+R15	Metabolite_Of Arg1:T24 Arg2:T21	
+T26	Metabolite 200 210	bile acids

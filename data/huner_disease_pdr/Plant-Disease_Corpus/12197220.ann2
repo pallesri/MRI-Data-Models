@@ -1,0 +1,8 @@
+T1	Disease 212 226	bladder cancer
+T2	Disease 315 329	bladder cancer
+T3	Disease 960 980	urothelial neoplasia
+T4	Plant 41 48	tobacco
+T5	Plant 627 637	cigarettes
+T6	Plant 912 921	cigarette
+T7	Cause_of_disease 930 940	influences
+E1	Cause_of_disease:T7 Cause:T6 Theme:T3

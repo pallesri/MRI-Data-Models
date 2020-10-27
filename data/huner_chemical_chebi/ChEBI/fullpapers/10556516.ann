@@ -1,0 +1,458 @@
+T1	Protein 1 18	Chalcone synthase
+T2	Protein 20 23	CHS
+T3	Protein 25 38	E.C. 2.3.1.74
+T4	Chemical 72 81	flavonoid
+T5	Protein 99 116	stilbene synthase
+T6	Protein 118 121	STS
+T7	Protein 123 136	E.C. 2.3.1.95
+T8	Chemical 164 172	stilbene
+T9	Chemical 185 193	stilbene
+T10	Chemical 199 211	phytoalexins
+T11	Protein 213 216	CHS
+T12	Protein 221 224	STS
+T13	Protein 318 321	CHS
+T14	Protein 340 343	CHS
+T15	Protein 348 351	STS
+T16	Chemical 457 477	p -coumaroyl residue
+T17	Chemical 504 515	malonyl-CoA
+T18	Protein 531 538	enzymes
+T19	Chemical 668 679	tetraketide
+T20	Protein 694 697	CHS
+T21	Protein 702 705	STS
+T22	Chemical 810 820	naringenin
+T23	Chemical 821 829	chalcone
+T24	Chemical 834 845	resveratrol
+T25	Chemical 875 885	amino acid
+T26	Protein 913 920	enzymes
+T27	Protein 1000 1003	CHS
+T28	Protein 1008 1011	STS
+T29	Species 1025 1031	plants
+T30	Protein 1043 1047	CHSs
+T31	Protein 1052 1056	STSs
+T32	Protein 1074 1078	STSs
+T33	Protein 1097 1101	CHSs
+T34	Protein 1202 1205	CHS
+T35	Chemical 1224 1234	naringenin
+T36	Chemical 1235 1243	chalcone
+T37	Chemical 1253 1275	triacetic acid lactone
+T38	Chemical 1277 1280	TAL
+T39	Chemical 1286 1298	styrylpyrone
+T40	Chemical 1348 1351	TAL
+T41	Protein 1400 1419	fatty acid synthase
+T42	Protein 1437 1457	polyketide synthases
+T43	Protein 1562 1565	STS
+T44	Species 1587 1602	Pueraria lobata
+T45	Species 1605 1610	kudzu
+T46	Protein 1612 1615	CHS
+T47	Species 1620 1636	Arachis hypogaea
+T48	Species 1639 1645	peanut
+T49	Protein 1647 1650	STS
+T50	Species 1677 1693	Escherichia coli
+T51	Chemical 1713 1727	bisnoryangonin
+T52	Chemical 1729 1732	BNY
+T53	Chemical 1747 1754	lactone
+T54	Chemical 1784 1820	p -coumaroyltriacetic acid lactone (
+T55	Chemical 1820 1824	CTAL
+T56	Chemical 1839 1846	lactone
+T57	Protein 1920 1923	CHS
+T58	Protein 1927 1930	STS
+T59	Protein 1979 1982	CHS
+T60	Protein 1987 1990	STS
+T61	Chemical 1997 2008	resveratrol
+T62	Protein 2023 2026	CHS
+T63	Chemical 2031 2041	naringenin
+T64	Protein 2056 2059	STS
+T65	Protein 2147 2150	STS
+T66	Species 2174 2180	peanut
+T67	Chemical 2258 2263	water
+T68	Chemical 2320 2325	water
+T69	Chemical 2377 2383	phenol
+T70	Chemical 2445 2473	5′-GTC GAC TCT AGA (T)15 -3′
+T71	Species 2534 2545	A. hypogaea
+T72	Protein 2547 2550	STS
+T73	Chemical 2587 2630	5′-CAT CCA TG    G TGT CTG TGA GTG AAT TC-3
+T74	Chemical 2657 2697	5′-GTA TTA    TAT GGC CAT GCT GCG GAG-3′
+T75	Chemical 3076 3080	EtBr
+T76	Protein 3447 3454	Protein
+T77	Species 3483 3506	E. coli  BL21(DE3)pLysE
+T78	Protein 3544 3547	CHS
+T79	Protein 3558 3561	STS
+T80	Chemical 3614 3624	ampicillin
+T81	Chemical 3638 3653	chloramphenicol
+T82	Chemical 3678 3682	IPTG
+T83	Chemical 3792 3811	potassium phosphate
+T84	Chemical 3813 3816	KPi
+T85	Chemical 3840 3843	DTT
+T86	Chemical 3881 3884	ice
+T87	Chemical 3969 3980	(NH4 )2 SO4
+T88	Protein 4017 4020	CHS
+T89	Chemical 4103 4107	DEAE
+T90	Chemical 4197 4201	NaCl
+T91	Chemical 4238 4252	hydroxyapatite
+T92	Chemical 4300 4303	KPi
+T93	Chemical 4329 4332	DTT
+T94	Chemical 4361 4381	polybuffer exchanger
+T95	Chemical 4429 4442	imidazole-HCl
+T96	Chemical 4458 4461	DTT
+T97	Chemical 4478 4494	Polybuffer74-HCl
+T98	Chemical 4510 4513	DTT
+T99	Protein 4515 4518	STS
+T100	Chemical 4559 4563	DEAE
+T101	Chemical 4581 4593	hydroapatite
+T102	Protein 4616 4623	Protein
+T103	Protein 4699 4719	bovine serum albumin
+T104	Species 4699 4705	bovine
+T105	Species 4764 4773	P. lobata
+T106	Protein 4775 4778	CHS
+T107	Species 4783 4794	A. hypogaea
+T108	Protein 4796 4799	STS
+T109	Protein 4803 4814	thioredoxin
+T110	Protein 4803 4837	thioredoxin-HisTag fusion proteins
+T111	Protein 4839 4846	Trx-CHS
+T112	Protein 4851 4858	Trx-STS
+T113	Protein 4939 4945	Enzyme
+T114	Protein 4961 4964	CHS
+T115	Protein 4969 4972	STS
+T116	Protein 5037 5044	protein
+T117	Protein 5065 5071	enzyme
+T118	Chemical 5081 5097	p -coumaroyl-CoA
+T119	Chemical 5110 5129	[2-14 C]malonyl-CoA
+T120	Chemical 5159 5162	KPi
+T121	Chemical 5180 5187	K2 HPO4
+T122	Chemical 5189 5196	KH2 PO4
+T123	Chemical 5215 5218	DTT
+T124	Chemical 5270 5281	acetic acid
+T125	Chemical 5348 5361	ethyl acetate
+T126	Chemical 5443 5451	methanol
+T127	Chemical 5452 5456	H2 O
+T128	Chemical 5457 5468	acetic acid
+T129	Chemical 5482 5489	solvent
+T130	Chemical 5604 5607	TAL
+T131	Chemical 5669 5679	naringenin
+T132	Protein 5779 5785	enzyme
+T133	Biological_Activity 5779 5785	enzyme
+T134	Chemical 5880 5894	bisnoryangonin
+T135	Chemical 5899 5933	p -coumaroyltriacetic acid lactone
+T136	Chemical 5956 5959	BNY
+T137	Chemical 5965 5978	ethyl acetate
+T138	Protein 6010 6013	STS
+T139	Protein 6018 6021	CHS
+T140	Chemical 6164 6172	methanol
+T141	Chemical 6176 6180	H2 O
+T142	Chemical 6195 6206	acetic acid
+T143	Chemical 6248 6256	methanol
+T144	Chemical 6416 6423	solvent
+T145	Chemical 6456 6464	methanol
+T146	Chemical 6482 6508	trimethylsilyldiazomethane
+T147	Spectral_Data 6772 6785	mass spectrum
+T148	Chemical 6835 6843	yangonin
+R1	Associated_With Arg1:T148 Arg2:T147	
+T149	Chemical 6918 6922	CTAL
+T150	Protein 6926 6929	CHS
+T151	Protein 6934 6937	STS
+T152	Spectral_Data 6955 6960	LC-MS
+R2	Associated_With Arg1:T149 Arg2:T152	
+T153	Chemical 6974 6978	CTAL
+T154	Spectral_Data 7003 7039	MS m /z  273.1 [M+H]+ , 271.1 [M−H]−
+T155	Spectral_Data 7042 7096	MS/MS (precursor ion of m /z  271.1) 227.2 [M−H−CO2 ]−
+T156	Spectral_Data 7099 7164	MS/MS/MS (transitions m /z  271.1>227.2) 185.2 [M−H−CO2 −CH2 CO]−
+R3	Associated_With Arg1:T153 Arg2:T154	
+R4	Associated_With Arg1:T153 Arg2:T155	
+R5	Associated_With Arg1:T153 Arg2:T156	
+T157	Protein 7191 7197	enzyme
+T158	Protein 7328 7334	enzyme
+T159	Chemical 7438 7446	methanol
+T160	Chemical 7461 7472	acetic acid
+T161	Chemical 7492 7503	resveratrol
+T162	Chemical 7517 7527	naringenin
+T163	Chemical 7688 7696	methanol
+T164	Chemical 7711 7722	acetic acid
+T165	Chemical 7866 7876	naringenin
+T166	Protein 7881 7884	CHS
+T167	Chemical 7889 7900	resveratrol
+T168	Protein 7905 7908	STS
+T169	Chemical 7938 7949	resveratrol
+T170	Protein 7954 7957	CHS
+T171	Chemical 7962 7972	naringenin
+T172	Protein 7977 7980	STS
+T173	Chemical 8149 8156	solvent
+T174	Chemical 8166 8174	methanol
+T175	Chemical 8179 8192	ethyl acetate
+T176	Chemical 8193 8199	hexane
+T177	Spectral_Data 8345 8350	GC-MS
+T178	Spectral_Data 8355 8360	LC-MS
+T179	Protein 8373 8376	CHS
+T180	Protein 8381 8384	STS
+T181	Chemical 8424 8450	trimethylsilyldiazomethane
+T182	Spectral_Data 8467 8472	GC-MS
+T183	Protein 8513 8516	CHS
+T184	Chemical 8590 8609	dimethylresveratrol
+T185	Chemical 8628 8632;8670 8686	mono methylnaringenin
+T186	Chemical 8667 8686	trimethylnaringenin
+T187	Chemical 8764 8782	dimethylnaringenin
+T188	Protein 8816 8819	STS
+T189	Chemical 8851 8853;8874 8891	di methylresveratrol
+T190	Chemical 8871 8891	trimethylresveratrol
+T191	Spectral_Data 8909 8914	LC-MS
+T192	Protein 8925 8932	Trx-CHS
+T193	Protein 8954 8961	Trx-STS
+T194	Chemical 9007 9023	p -coumaroyl-CoA
+T195	Chemical 9035 9046	malonyl-CoA
+T196	Chemical 9065 9068	KPi
+T197	Chemical 9101 9104	DTT
+T198	Chemical 9183 9187	NaOH
+T199	Chemical 9302 9321	naringenin chalcone
+T200	Chemical 9325 9335	naringenin
+T201	Chemical 9347 9360	ethyl acetate
+T202	Chemical 9384 9391	Na2 SO4
+T203	Chemical 9401 9408	solvent
+T204	Spectral_Data 9483 9488	LC-MS
+T205	Chemical 9538 9549	Resveratrol
+T206	Spectral_Data 9588 9671	MS/MS (precursor ion at 229) m /z  (rel. %) 211 (65), 135 (100), 119 (12), 107 (11)
+R6	Associated_With Arg1:T205 Arg2:T206	
+T207	Chemical 9673 9683	Naringenin
+T208	Spectral_Data 9722 9795	MS/MS (precursor ion at 273) m /z  (rel. %) 171 (18), 153 (80), 147 (100)
+R7	Associated_With Arg1:T207 Arg2:T208	
+T209	Species 9825 9836	A. hypogaea
+T210	Protein 9838 9841	STS
+T211	Chemical 9859 9869	amino acid
+T212	Species 9882 9897	Japanese peanut
+T213	Protein 9898 9901	STS
+T214	Species 9982 9988	peanut
+T215	Protein 9989 9992	STS
+T216	Chemical 10042 10053	amino acids
+T217	Chemical 10092 10095	Ser
+T218	Chemical 10116 10119	Gly
+T219	Chemical 10138 10141	Ser
+T220	Chemical 10149 10152	Ala
+T221	Chemical 10158 10161	Ser
+T222	Chemical 10169 10172	Asn
+T223	Chemical 10178 10181	Leu
+T224	Chemical 10189 10192	Ile
+T225	Chemical 10198 10201	Asp
+T226	Chemical 10209 10212	Gly
+T227	Chemical 10218 10221	Pro
+T228	Chemical 10229 10232	Leu
+T229	Chemical 10238 10241	Glu
+T230	Chemical 10249 10252	Gln
+T231	Chemical 10261 10264	Ala
+T232	Chemical 10272 10275	Thr
+T233	Chemical 10300 10310	amino acid
+T234	Species 10363 10368	plant
+T235	Protein 10406 10409	CHS
+T236	Protein 10414 10417	STS
+T237	Protein 10434 10437	CHS
+T238	Protein 10442 10445	STS
+T239	Species 10463 10470	E. coli
+T240	Protein 10564 10571	enzymes
+T241	Species 10584 10592	bacteria
+T242	Chemical 10687 10690	BNY
+T243	Chemical 10695 10729	p -coumaroyltriacetic acid lactone
+T244	Chemical 10744 10747	BNY
+T245	Chemical 10752 10756	CTAL
+T246	Protein 10760 10763	STS
+T247	Protein 10778 10781	CHS
+T248	Chemical 10890 10901	resveratrol
+T249	Chemical 10906 10916	naringenin
+T250	Protein 10953 10988	p -coumaroyltriacetic acid synthase
+T251	Species 11025 11046	Hydrangea macrophylla
+T252	Chemical 11069 11073	CTAL
+T253	Chemical 11078 11081	BNY
+T254	Chemical 11170 11173	BNY
+T255	Chemical 11178 11182	CTAL
+T256	Spectral_Data 11215 11220	GC-MS
+T257	Spectral_Data 11225 11230	LC-MS
+R8	Associated_With Arg1:T255 Arg2:T257	
+R9	Associated_With Arg1:T255 Arg2:T256	
+R10	Associated_With Arg1:T254 Arg2:T257	
+R11	Associated_With Arg1:T254 Arg2:T256	
+T258	Protein 11279 11282	CHS
+T259	Protein 11287 11290	STS
+T260	Chemical 11325 11344	sulfhydryl reagents
+T261	Chemical 11353 11356	DTT
+T262	Protein 11422 11425	CHS
+T263	Chemical 11452 11470	sulfhydryl reagent
+T264	Chemical 11516 11525	triketide
+T265	Biological_Activity 11487 11495	acceptor
+R12	Associated_With Arg1:T263 Arg2:T265	
+T266	Protein 11503 11509	enzyme
+T267	Chemical 11530 11541	tetraketide
+T268	Chemical 11614 11619	thiol
+T269	Chemical 11687 11693	pyrone
+T270	Chemical 11731 11734	DTT
+T271	Chemical 11786 11789	BNY
+T272	Chemical 11794 11798	CTAL
+T273	Chemical 11832 11850	sulfhydryl reagent
+T274	Protein 11920 11926	enzyme
+T275	Chemical 11970 11973	DTT
+T276	Chemical 12070 12073	BNY
+T277	Chemical 12078 12082	CTAL
+T278	Chemical 12171 12189	pyrone derivatives
+T279	Chemical 12235 12240	acids
+T280	Chemical 12283 12296	ethyl acetate
+T281	Chemical 12329 12335	pyrone
+T282	Chemical 12398 12416	pyrone derivatives
+T283	Chemical 12469 12473	CTAL
+T284	Protein 12503 12506	CHS
+T285	Chemical 12517 12520	BNY
+T286	Protein 12550 12553	STS
+T287	Protein 12643 12661	recombinant enzyme
+T288	Chemical 12727 12738	resveratrol
+T289	Protein 12773 12776	CHS
+T290	Chemical 12814 12824	naringenin
+T291	Protein 12859 12862	STS
+T292	Chemical 13099 13110	resveratrol
+T293	Protein 13123 13126	CHS
+T294	Chemical 13191 13199	methanol
+T295	Chemical 13208 13221	ethyl acetate
+T296	Chemical 13222 13228	hexane
+T297	Chemical 13240 13253	ethyl acetate
+T298	Chemical 13254 13260	hexane
+T299	Chemical 13271 13281	naringenin
+T300	Protein 13294 13297	STS
+T301	Chemical 13321 13329	methanol
+T302	Chemical 13338 13346	methanol
+T303	Chemical 13355 13368	ethyl acetate
+T304	Chemical 13369 13375	hexane
+T305	Chemical 13387 13400	ethyl acetate
+T306	Chemical 13401 13407	hexane
+T307	Chemical 13460 13471	resveratrol
+T308	Chemical 13472 13482	naringenin
+T309	Protein 13488 13491	CHS
+T310	Chemical 13506 13516	naringenin
+T311	Chemical 13517 13528	resveratrol
+T312	Protein 13534 13537	STS
+T313	Spectral_Data 13583 13588	GC-MS
+T314	Spectral_Data 13593 13598	LC-MS
+T315	Spectral_Data 13671 13676	MS/MS
+T316	Protein 13773 13791	Trx fusion enzymes
+T317	Protein 13824 13838	native enzymes
+T318	Protein 13946 13949	CHS
+T319	Species 13964 13970	plants
+T320	Chemical 13992 14005	styrylpyrones
+T321	Protein 14115 14118	CHS
+T322	Species 14141 14147	peanut
+T323	Protein 14148 14151	STS
+T324	Protein 14170 14173	BNY
+T325	Chemical 14177 14189	styrylpyrone
+T326	Chemical 14200 14204	CTAL
+T327	Chemical 14260 14271	tetraketide
+T328	Protein 14347 14350	CHS
+T329	Protein 14355 14358	STS
+T330	Chemical 14419 14430	tetraketide
+T331	Chemical 14500 14503	BNY
+T332	Chemical 14508 14512	CTAL
+T333	Protein 14522 14525	STS
+T334	Protein 14625 14628	CHS
+T335	Protein 14659 14662	STS
+T336	Protein 14742 14745	CHS
+T337	Protein 14768 14771	STS
+T338	Chemical 14826 14835	thioester
+T339	Chemical 14850 14868	sulfhydryl reagent
+T340	Chemical 14904 14913	thioester
+T341	Chemical 14928 14933	water
+T342	Protein 14963 14966	CHS
+T343	Protein 15024 15030	enzyme
+T344	Chemical 15042 15051	flavonoid
+T345	Protein 15075 15095	polyketide reductase
+T346	Protein 15097 15115	chalcone isomerase
+T347	Protein 15136 15143	enzymes
+T348	Chemical 15156 15166	metabolite
+T349	Metabolite 15156 15166	metabolite
+T350	Protein 15209 15212	CHS
+T351	Protein 15217 15220	STS
+T352	Chemical 15270 15289	naringenin chalcone
+T353	Protein 15293 15296	CHS
+T354	Chemical 15323 15331	stilbene
+T355	Protein 15335 15338	STS
+T356	Chemical 15301 15306	aldol
+T357	Protein 15353 15356	CHS
+T358	Protein 15361 15364	STS
+T359	Chemical 15559 15567	chemical
+T360	Chemical 15668 15676	chemical
+T361	Chemical 9275 9283	chemical
+T362	Chemical 15850 15901	methyl ester of 7-phenyl-3,5,7-trioxoheptanoic acid
+T363	Chemical 15866 15901	7-phenyl-3,5,7-trioxoheptanoic acid
+T364	Chemical 15919 15937	acylphloroglucinol
+T365	Chemical 16015 16018	KOH
+T366	Chemical 16038 16043	aldol
+T367	Chemical 16060 16073	triketo acids
+T368	Chemical 16096 16102	acidic
+T369	Chemical 16157 16175	β-resorcylic acids
+T370	Chemical 16202 16227	aromatic carboxylic acids
+T371	Chemical 16250 16276	6-styryl-β-resorcylic acid
+T372	Chemical 16280 16290	pinosylvin
+T373	Chemical 16298 16313	orsellinic acid
+T374	Chemical 16317 16324	orcinol
+T375	Chemical 16390 16393	KOH
+T376	Protein 16408 16421	decarboxylase
+T377	Chemical 16453 16478	stilbene carboxylic acids
+T378	Protein 16542 16545	STS
+T379	Chemical 16582 16592	naringenin
+T380	Chemical 16597 16608	resveratrol
+T381	Protein 16701 16736	p -coumaroyltriacetic acid synthase
+T382	Protein 16738 16742	CTAS
+T383	Protein 16767 16770	CHS
+T384	Protein 16775 16778	STS
+T385	Chemical 16817 16833	p -coumaroyl-CoA
+T386	Chemical 16838 16849	malonyl-CoA
+T387	Chemical 16853 16865	triketo acid
+T388	Chemical 16966 16978	triketo acid
+T389	Chemical 17015 17019	CTAL
+T390	Protein 17107 17110	CHS
+T391	Protein 17115 17118	STS
+T392	Biological_Activity 17135 17144	enzymatic
+T393	Protein 17276 17283	enzymes
+T394	Protein 17356 17363	enzymes
+T395	Species 17431 17438	E. coli
+T396	Protein 17512 17520	proteins
+T397	Species 17501 17511	eukaryotic
+T398	Species 17525 17533	bacteria
+T399	Protein 17646 17649	CHS
+T400	Protein 17654 17657	STS
+T401	Species 17708 17713	plant
+T402	Protein 17733 17736	CHS
+T403	Protein 17762 17769	enzymes
+T404	Chemical 17786 17795	flavonoid
+T405	Chemical 17890 17904	hydroxyapatite
+T406	Protein 18099 18102	CHS
+T407	Protein 18107 18110	STS
+T408	Protein 18291 18298	enzymes
+T409	Species 18388 18397	bacterial
+T410	Protein 18456 18459	CHS
+T411	Protein 18464 18467	STS
+T412	Species 18481 18491	eukaryotic
+T413	Species 18501 18507	yeasts
+T414	Species 18512 18518	insect
+T415	Species 18606 18615	bacterial
+T416	Protein 18759 18762	CHS
+T417	Protein 18767 18770	STS
+T418	Species 18876 18883	alfalfa
+T419	Species 18885 18900	Medicago sativa
+T420	Protein 18903 18906	CHS
+T421	Chemical 18959 18970	amino acids
+T422	Protein 19034 19037	CHS
+T423	Protein 19175 19178	CHS
+T424	Protein 19183 19186	STS
+T425	Protein 19320 19324	STSs
+T426	Protein 19338 19342	CHSs
+T427	Chemical 19394 19404	amino acid
+T428	Chemical 19447 19457	amino acid
+T429	Protein 19486 19489	CHS
+T430	Protein 19496 19499	STS
+T431	Protein 19573 19576	STS
+T432	Protein 19643 19646	STS
+T433	Chemical 19764 19775	amino acids
+T434	Protein 19798 19801	STS
+T435	Species 19871 19876	plant
+T436	Chemical 19877 19888	fatty acids
+T437	Metabolite 19877 19888	fatty acids
+R13	Isolated_From Arg1:T437 Arg2:T435	
+T438	Protein 19931 19952	oleate 12-hydroxylase
+T439	Protein 19958 19978	oleate 12-desaturase
+T440	Biological_Activity 20007 20018	mutagenesis
+T441	Chemical 20053 20064	amino acids
+T442	Protein 20114 20121	enzymes
+T443	Protein 20342 20345	CHS
+T444	Protein 20350 20353	STS
+T445	Species 20371 20378	E. coli

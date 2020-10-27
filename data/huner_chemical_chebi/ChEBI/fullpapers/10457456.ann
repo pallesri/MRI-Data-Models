@@ -1,0 +1,108 @@
+T1	Chemical 1 10	Stilbenes
+T2	Metabolite 1 10	Stilbenes
+T3	Species 42 47	plant
+T4	Species 66 72	grapes
+R1	Isolated_From Arg1:T2 Arg2:T3	
+R2	Isolated_From Arg1:T2 Arg2:T4	
+T5	Chemical 172 190	Trans -resveratrol
+T6	Metabolite 172 190	Trans -resveratrol
+T7	Chemical 199 236	3-O-β-glucoside of trans -resveratrol
+T8	Metabolite 199 236	3-O-β-glucoside of trans -resveratrol
+T9	Chemical 238 251	trans -piceid
+T10	Metabolite 238 252	trans -piceid,
+T11	Chemical 311 330	3′-OH-trans -piceid
+T12	Metabolite 311 330	3′-OH-trans -piceid
+T13	Chemical 332 348	trans -astringin
+T14	Metabolite 332 348	trans -astringin
+T15	Species 400 414	Vitis vinifera
+R3	Isolated_From Arg1:T14 Arg2:T15	
+R4	Isolated_From Arg1:T12 Arg2:T15	
+T16	Biological_Activity 513 527	cardiovascular
+T17	Chemical 603 612	stilbenes
+T18	Metabolite 603 612	stilbenes
+R5	Isolated_From Arg1:T10 Arg2:T4	
+R6	Isolated_From Arg1:T8 Arg2:T4	
+R7	Isolated_From Arg1:T6 Arg2:T4	
+T19	Chemical 614 630	Trans- astringin
+T20	Metabolite 614 630	Trans- astringin
+T21	Biological_Activity 657 668	antioxidant
+T22	Species 723 728	human
+T23	Chemical 729 732	LDL
+T24	Metabolite 729 732	LDL
+R8	Associated_With Arg1:T20 Arg2:T21	
+R9	Associated_With Arg1:T19 Arg2:T21	
+T25	Chemical 994 1002	Methanol
+T26	Chemical 1007 1018	acetic acid
+T27	Chemical 1111 1127	Trans -astringin
+T28	Metabolite 1111 1127	Trans -astringin
+T29	Spectral_Data 1216 1219	NMR
+T30	Spectral_Data 1209 1211	MS
+R10	Associated_With Arg1:T28 Arg2:T29	
+R11	Associated_With Arg1:T27 Arg2:T29	
+R12	Associated_With Arg1:T28 Arg2:T30	
+R13	Associated_With Arg1:T27 Arg2:T30	
+T31	Chemical 1281 1297	trans -astringin
+T32	Metabolite 1281 1297	trans -astringin
+T33	Chemical 1436 1452	trans -astringin
+T34	Chemical 1486 1496	methanolic
+T35	Metabolite 1436 1452	trans -astringin
+T36	Chemical 2036 2047	acetic acid
+T37	Chemical 2068 2076	methanol
+T38	Chemical 2599 2604	water
+T39	Chemical 2807 2817	methanolic
+T40	Chemical 2861 2869	methanol
+T41	Chemical 2870 2881	acetic acid
+T42	Chemical 2919 2935	trans -astringin
+T43	Metabolite 2919 2935	trans -astringin
+T44	Chemical 3233 3249	trans -astringin
+T45	Metabolite 3233 3249	trans -astringin
+T46	Chemical 3488 3504	trans -astringin
+T47	Metabolite 3488 3504	trans -astringin
+T48	Chemical 3591 3607	trans -astringin
+T49	Metabolite 3591 3607	trans -astringin
+T50	Chemical 3683 3699	trans -astringin
+T51	Metabolite 3683 3699	trans -astringin
+T52	Chemical 3814 3823	stilbenes
+T53	Metabolite 3814 3823	stilbenes
+T54	Chemical 3825 3843	trans -resveratrol
+T55	Metabolite 3825 3843	trans -resveratrol
+T56	Chemical 3845 3858	trans -piceid
+T57	Metabolite 3845 3858	trans -piceid
+T58	Chemical 3876 3894	phenolic compounds
+T59	Chemical 3903 3915	(+)-catechin
+T60	Metabolite 3903 3915	(+)-catechin
+T61	Chemical 3917 3924	tyrosol
+T62	Metabolite 3917 3924	tyrosol
+T63	Chemical 3926 3939	gentisic acid
+T64	Metabolite 3926 3939	gentisic acid
+T65	Chemical 3960 3970	methanolic
+T66	Chemical 3983 3999	trans -astringin
+T67	Metabolite 3983 3999	trans -astringin
+T68	Chemical 4192 4208	trans -astringin
+T69	Metabolite 4192 4208	trans -astringin
+T70	Chemical 4296 4312	trans -astringin
+T71	Metabolite 4296 4312	trans -astringin
+T72	Chemical 4405 4421	trans -astringin
+T73	Metabolite 4405 4421	trans -astringin
+T74	Spectral_Data 4478 4495	mass spectrometry
+R14	Associated_With Arg1:T73 Arg2:T74	
+R15	Associated_With Arg1:T72 Arg2:T74	
+T75	Chemical 4497 4513	Trans -astringin
+T76	Metabolite 4497 4513	Trans -astringin
+T77	Spectral_Data 4546 4560	FAB-MS spectra
+R16	Associated_With Arg1:T76 Arg2:T77	
+R17	Associated_With Arg1:T75 Arg2:T77	
+T78	Chemical 4639 4655	trans -astringin
+T79	Metabolite 4639 4655	trans -astringin
+T80	Chemical 5082 5098	trans -astringin
+T81	Metabolite 5082 5098	trans -astringin
+T82	Chemical 5155 5173	trans- resveratrol
+T83	Metabolite 5155 5173	trans- resveratrol
+T84	Chemical 5178 5191	pterostilbene
+T85	Metabolite 5178 5191	pterostilbene
+T86	Chemical 5273 5282	stilbenes
+T87	Metabolite 5273 5282	stilbenes
+T88	Chemical 5579 5595	trans -astringin
+T89	Metabolite 5579 5595	trans -astringin
+T90	Chemical 5672 5688	trans -astringin
+T91	Metabolite 5672 5688	trans -astringin

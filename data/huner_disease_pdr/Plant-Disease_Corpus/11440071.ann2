@@ -1,0 +1,5 @@
+T1	Disease 67 73	cancer
+T2	Disease 966 972	cancer
+T3	Plant 95 102	tobacco
+T4	Cause_of_disease 74 81	related
+E1	Cause_of_disease:T4 Cause:T3 Theme:T1

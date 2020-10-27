@@ -1,0 +1,44 @@
+T3	Protein 0 48	UDP-glucose: anthocyanin 5-O-glucosyltransferase
+T4	Protein 50 54	5-GT
+T5	Chemical 95 107	anthocyanins
+#1	AnnotatorNotes T5	Chemical class
+T6	Protein 223 227	5-GT
+T7	Metabolite 301 312	anthocyanin
+T8	Chemical 301 312	anthocyanin
+T9	Species 328 358	Perilla frutescens var. crispa
+R1	Isolated_From Arg1:T7 Arg2:T9	
+T10	Species 459 473	P. frutescens,
+T11	Protein 582 593	polypeptide
+#2	AnnotatorNotes T11	Chemical class
+T12	Protein 670 690	glucosyltransferases
+#3	AnnotatorNotes T12	Protein class
+T13	Protein 701 751	UDP-glucose: anthocyanidin 3-O-glucosyltransferase
+T16	Species 856 871	Verbena hybrida
+T17	Species 965 989	Saccharomyces cerevisiae
+T18	Protein 925 933	proteins
+T19	Protein 1013 1021	proteins
+T20	Chemical 1072 1100	anthocyanidin 3-O-glucosides
+T21	Chemical 1124 1157	anthocyanidin 3,5-di-O-glucosides
+#4	AnnotatorNotes T21	Chemical class
+#5	AnnotatorNotes T20	Chemical class
+T22	Chemical 1164 1175	UDP-glucose
+T23	Biological_Activity 1181 1189	cofactor
+R2	Associated_With Arg1:T22 Arg2:T23	
+T24	Protein 1237 1241	5-GT
+T25	Biological_Activity 1317 1327	inhibitors
+T26	Protein 1375 1379	5-GT
+T27	Protein 1445 1449	5-GT
+T28	Species 1501 1514	P. frutescens
+T29	Protein 1545 1549	5-GT
+T30	Chemical 1719 1730	anthocyanin
+T31	Species 1747 1760	P. frutescens
+R3	Isolated_From Arg1:T30 Arg2:T31	
+T32	Metabolite 1124 1157	anthocyanidin 3,5-di-O-glucosides
+R4	Metabolite_Of Arg1:T32 Arg2:T20	
+T2	Metabolite 95 107	anthocyanins
+T33	Chemical 601 612	amino acids
+T14	Species 1029 1034	yeast
+T15	Metabolite 1719 1730	anthocyanin
+T34	Chemical 123 132	molecules
+T35	Species 328 346	Perilla frutescens
+T1	Biological_Activity 1731 1743	biosynthesis

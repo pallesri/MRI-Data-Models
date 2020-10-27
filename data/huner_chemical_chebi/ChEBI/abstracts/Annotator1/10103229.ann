@@ -1,0 +1,75 @@
+T1	Species 50 64	Comamonadaceae
+T2	Species 0 20	Bacterial strain LW1
+T3	Chemical 75 98	1-chloro-4-nitrobenzene
+T4	Chemical 100 105	1C4NB
+T5	Chemical 127 133	carbon
+T6	Chemical 135 143	nitrogen
+T7	Chemical 172 177	1C4NB
+T8	Chemical 198 203	1C4NB
+T9	Chemical 264 271	ammonia
+T10	Metabolite 264 271	ammonia
+T11	Chemical 276 284	chloride
+T12	Metabolite 276 284	chloride
+T13	Species 313 316	LW1
+T14	Chemical 329 334	1C4NB
+T15	Chemical 374 396	2-amino-5-chlorophenol
+T16	Metabolite 374 396	2-amino-5-chlorophenol
+R1	Isolated_From Arg1:T16 Arg2:T2	
+T17	Spectral_Data 407 437	13C nuclear magnetic resonance
+R2	Associated_With Arg1:T16 Arg2:T17	
+R3	Associated_With Arg1:T15 Arg2:T17	
+T18	Chemical 550 561	nitro group
+#1	AnnotatorNotes T18	chemical functional group
+T19	Chemical 569 582	hydroxylamino
+#2	AnnotatorNotes T19	chemical group
+T20	Chemical 652 658	oxygen
+T21	Chemical 681 684	NAD
+T22	Metabolite 709 731	2-amino-5-chlorophenol
+T23	Chemical 709 731	2-amino-5-chlorophenol
+T24	Spectral_Data 851 879	absorption maximum at 395 nm
+R4	Associated_With Arg1:T22 Arg2:T24	
+R5	Associated_With Arg1:T23 Arg2:T24	
+T27	Spectral_Data 933 957	maxima at 226 and 272 nm
+T25	Spectral_Data 1017 1037	13C NMR spectroscopy
+T26	Chemical 1063 1085	5-chloropicolinic acid
+T28	Metabolite 1063 1085	5-chloropicolinic acid
+R6	Associated_With Arg1:T28 Arg2:T25	
+R7	Associated_With Arg1:T26 Arg2:T25	
+R8	Associated_With Arg1:T28 Arg2:T27	
+R9	Associated_With Arg1:T26 Arg2:T27	
+T29	Chemical 1105 1108	NAD
+T30	Chemical 1138 1144	oxygen
+T31	Chemical 1168 1190	5-chloropicolinic acid
+T32	Metabolite 1168 1190	5-chloropicolinic acid
+T33	Chemical 1210 1221	new product
+#3	AnnotatorNotes T33	Unspecified compound
+T34	Metabolite 1210 1221	new product
+#4	AnnotatorNotes T34	Unidentified metabolite
+T35	Spectral_Data 1242 1270	absorption maximum at 306 nm
+R10	Associated_With Arg1:T34 Arg2:T35	
+R11	Associated_With Arg1:T33 Arg2:T35	
+R12	Isolated_From Arg1:T10 Arg2:T2	
+R13	Isolated_From Arg1:T9 Arg2:T2	
+R14	Isolated_From Arg1:T12 Arg2:T2	
+R15	Isolated_From Arg1:T11 Arg2:T2	
+R16	Isolated_From Arg1:T28 Arg2:T2	
+R17	Isolated_From Arg1:T26 Arg2:T2	
+R18	Metabolite_Of Arg1:T16 Arg2:T14	
+R19	Metabolite_Of Arg1:T22 Arg2:T26	
+T36	Spectral_Data 400 402;411 437	1H nuclear magnetic resonance
+T37	Spectral_Data 461 478	mass spectrometry
+R20	Associated_With Arg1:T16 Arg2:T36	
+R21	Associated_With Arg1:T15 Arg2:T36	
+R22	Associated_With Arg1:T16 Arg2:T37	
+R23	Associated_With Arg1:T15 Arg2:T37	
+R24	Metabolite_Of Arg1:T16 Arg2:T3	
+T38	Spectral_Data 1010 1012;1021 1037	1H NMR spectroscopy
+T39	Spectral_Data 1042 1059	mass spectrometry
+R25	Associated_With Arg1:T28 Arg2:T38	
+R26	Associated_With Arg1:T26 Arg2:T38	
+R27	Associated_With Arg1:T26 Arg2:T39	
+R28	Associated_With Arg1:T28 Arg2:T39	
+R29	Metabolite_Of Arg1:T10 Arg2:T8	
+R30	Metabolite_Of Arg1:T12 Arg2:T8	
+R31	Metabolite_Of Arg1:T10 Arg2:T3	
+R32	Metabolite_Of Arg1:T12 Arg2:T3	

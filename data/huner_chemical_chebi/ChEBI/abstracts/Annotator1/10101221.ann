@@ -1,0 +1,75 @@
+T1	Chemical 0 9	Manoalide
+T2	Biological_Activity 22 31	analgesic
+T3	Biological_Activity 36 52	antiinflammatory
+T4	Chemical 53 66	sesterterpene
+T5	Metabolite 53 66	sesterterpene
+#1	AnnotatorNotes T4	Class of chemicals
+T6	Species 91 104	marine sponge
+T7	Metabolite 0 9	Manoalide
+R1	Isolated_From Arg1:T7 Arg2:T6	
+T8	Biological_Activity 110 126	antiinflammatory
+T9	Chemical 139 148	manoalide
+T10	Metabolite 139 148	manoalide
+T11	Biological_Activity 159 169	inhibition
+T12	Protein 173 177	PLA2
+#2	AnnotatorNotes T12	An enzyme
+T14	Chemical 219 234	lysine residues
+T15	Chemical 288 296	aldehyde
+T16	Chemical 288 306	aldehyde functions
+#3	AnnotatorNotes T16	functional groups
+T17	Chemical 337 346	manoalide
+T18	Metabolite 337 346	manoalide
+T19	Chemical 359 367	aldehyde
+T20	Chemical 359 374	aldehyde groups
+T21	Chemical 401 420	g-hydroxybutenolide
+#4	AnnotatorNotes T21	structural group
+T22	Metabolite 455 473	cacospongionolides
+T23	Chemical 524 539	masked aldehyde
+#5	AnnotatorNotes T23	structural group
+T24	Protein 582 586	PLA2
+T26	Biological_Activity 587 597	inhibitors
+T27	Chemical 455 473	cacospongionolides
+#6	AnnotatorNotes T27	Class of chemicals
+R2	Associated_With Arg1:T22 Arg2:T26	
+R3	Associated_With Arg1:T27 Arg2:T26	
+R4	Associated_With Arg1:T10 Arg2:T8	
+R5	Associated_With Arg1:T9 Arg2:T8	
+R6	Associated_With Arg1:T7 Arg2:T2	
+R7	Associated_With Arg1:T1 Arg2:T2	
+R8	Associated_With Arg1:T1 Arg2:T3	
+R9	Associated_With Arg1:T7 Arg2:T3	
+R10	Associated_With Arg1:T10 Arg2:T11	
+R11	Associated_With Arg1:T9 Arg2:T11	
+T28	Chemical 666 675	manoalide
+T29	Metabolite 666 675	manoalide
+T30	Biological_Activity 686 696	inhibition
+T31	Chemical 739 756	functional groups
+T32	Chemical 775 787	amino groups
+T33	Protein 791 795	PLA2
+T35	Chemical 796 811	lysine residues
+T36	Chemical 858 867	manoalide
+T37	Metabolite 858 867	manoalide
+T38	Chemical 858 877	manoalide analogues
+T39	Metabolite 858 877	manoalide analogues
+T40	Species 902 916	marine sponges
+R12	Isolated_From Arg1:T39 Arg2:T40	
+T41	Biological_Activity 944 954	inhibitory
+R13	Associated_With Arg1:T39 Arg2:T41	
+T42	Chemical 219 225	lysine
+R18	Associated_With Arg1:T28 Arg2:T30	
+R19	Associated_With Arg1:T29 Arg2:T30	
+T44	Protein 681 685	PLA2
+T45	Protein 939 943	PLA2
+R22	Binds_With Arg1:T9 Arg2:T12	
+R23	Binds_With Arg1:T10 Arg2:T12	
+T13	Biological_Activity 200 207	binding
+T46	Biological_Activity 241 248	binding
+R15	Associated_With Arg1:T9 Arg2:T13	
+R24	Associated_With Arg1:T10 Arg2:T13	
+R14	Binds_With Arg1:T22 Arg2:T24	
+R25	Binds_With Arg1:T27 Arg2:T24	
+R16	Binds_With Arg1:T29 Arg2:T44	
+R17	Binds_With Arg1:T28 Arg2:T44	
+R20	Associated_With Arg1:T38 Arg2:T41	
+R21	Binds_With Arg1:T38 Arg2:T45	
+R26	Binds_With Arg1:T39 Arg2:T45	

@@ -1,0 +1,13 @@
+T1	Disease 107 127	hypercholesterolemia
+T2	Plant 12 18	Garlic
+T7	Plant 210 216	garlic
+T9	Plant 390 396	garlic
+T12	Plant 504 510	garlic
+T13	Plant 542 548	garlic
+T16	Plant 1386 1392	garlic
+T3	Plant 22 36	Allium sativum
+T4	Plant 38 40	As
+T5	Plant 948 951	As.
+T6	Plant 991 993	As
+T8	Treatment_of_disease 60 67	effects
+E1	Treatment_of_disease:T8 Cause:T4 Theme:T1 Cause2:T2

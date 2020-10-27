@@ -1,0 +1,9 @@
+T1	Chemical 78 83	amino
+T2	Chemical 170 179	aldehydes
+#1	AnnotatorNotes T2	Chemical class
+T3	Chemical 184 199	acid anhydrides
+#2	AnnotatorNotes T3	Chemical class
+T4	Chemical 212 246	2,4,6-trinitrobenzenesulfonic acid
+T5	Chemical 399 404	amino
+T6	Chemical 449 464	citraconic acid
+T7	Chemical 491 503	acetaldehyde

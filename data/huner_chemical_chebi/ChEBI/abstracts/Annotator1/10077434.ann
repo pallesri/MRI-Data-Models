@@ -1,0 +1,97 @@
+T2	Protein 0 20	Prolyl endopeptidase
+T3	Protein 22 25	PEP
+T4	Protein 27 39	EC 3.4.21.26
+T6	Protein 47 53	enzyme
+T8	Chemical 94 101	proline
+T9	Chemical 113 126	neuropeptides
+T10	Chemical 134 145	vasopressin
+T11	Metabolite 134 145	vasopressin
+T12	Chemical 147 158	substance P
+T13	Metabolite 147 158	substance P
+T14	Chemical 163 192	thyrotropin-releasing hormone
+T15	Metabolite 163 192	thyrotropin-releasing hormone
+T16	Chemical 194 197	TRH
+T17	Metabolite 194 197	TRH
+T18	Biological_Activity 311 320	inhibitor
+T19	Chemical 373 377	MeOH
+T20	Species 415 429	Rhodiola sacra
+T21	Biological_Activity 457 466	inhibitor
+T22	Species 494 524	Flavobacterium meningosepticum
+T23	Chemical 644 656	hydroquinone
+T24	Metabolite 644 656	hydroquinone
+T25	Metabolite 662 683	4-hydroxybenzoic acid
+T26	Chemical 662 683	4-hydroxybenzoic acid
+T27	Chemical 689 701	caffeic acid
+T28	Metabolite 689 701	caffeic acid
+T29	Metabolite 707 729	4-hydroxycinnamic acid
+T30	Chemical 707 729	4-hydroxycinnamic acid
+T31	Chemical 735 747	suberic acid
+T32	Metabolite 735 747	suberic acid
+T33	Chemical 753 772	protocatechuic acid
+T34	Metabolite 753 772	protocatechuic acid
+T35	Metabolite 778 789	gallic acid
+T36	Chemical 778 789	gallic acid
+T37	Chemical 795 827	(-)-epigallocatechin 3-O-gallate
+T38	Metabolite 795 827	(-)-epigallocatechin 3-O-gallate
+T39	Chemical 833 869	2-phenylethyl beta-D-glucopyranoside
+T40	Metabolite 833 869	2-phenylethyl beta-D-glucopyranoside
+T41	Metabolite 875 947	3-O-galloylepigallocatechin-(4beta-->8)-epigallocatechin+ ++ 3-O-gallate
+T42	Chemical 875 947	3-O-galloylepigallocatechin-(4beta-->8)-epigallocatechin+ ++ 3-O-gallate
+T43	Chemical 954 1023	2-phenylethyl alpha-L-arabinopyranosyl-(1-->6)-beta-D-glucopyranoside
+T44	Metabolite 954 1023	2-phenylethyl alpha-L-arabinopyranosyl-(1-->6)-beta-D-glucopyranoside
+T45	Chemical 1030 1043	sacranoside A
+T46	Metabolite 1030 1043	sacranoside A
+T47	Chemical 1050 1089	beta-D-glucopyranosyl 4-hydroxybenzoate
+T48	Metabolite 1050 1089	beta-D-glucopyranosyl 4-hydroxybenzoate
+T49	Metabolite 1096 1113	rhodiocyanoside A
+T50	Chemical 1096 1113	rhodiocyanoside A
+T51	Chemical 1120 1136	rhodiooctanoside
+T52	Metabolite 1120 1136	rhodiooctanoside
+T53	Chemical 1143 1154	sarmentosin
+T54	Metabolite 1143 1154	sarmentosin
+T55	Chemical 1161 1174	heterodendrin
+T56	Metabolite 1161 1174	heterodendrin
+T57	Metabolite 1181 1188	arbutin
+T58	Chemical 1181 1188	arbutin
+T59	Metabolite 1198 1237	4-O-(beta-D-glucopyranosyl)-gallic acid
+T60	Species 1333 1341	R. sacra
+T61	Biological_Activity 1454 1464	inhibition
+R1	Isolated_From Arg1:T24 Arg2:T20	
+R2	Isolated_From Arg1:T25 Arg2:T20	
+R3	Isolated_From Arg1:T28 Arg2:T20	
+R4	Isolated_From Arg1:T29 Arg2:T20	
+R5	Isolated_From Arg1:T32 Arg2:T20	
+R6	Isolated_From Arg1:T34 Arg2:T20	
+R7	Isolated_From Arg1:T35 Arg2:T20	
+R8	Isolated_From Arg1:T38 Arg2:T20	
+R9	Isolated_From Arg1:T40 Arg2:T20	
+R10	Isolated_From Arg1:T41 Arg2:T20	
+R11	Isolated_From Arg1:T44 Arg2:T20	
+R12	Isolated_From Arg1:T46 Arg2:T20	
+R13	Isolated_From Arg1:T48 Arg2:T20	
+R14	Isolated_From Arg1:T49 Arg2:T20	
+R15	Isolated_From Arg1:T52 Arg2:T20	
+R16	Isolated_From Arg1:T54 Arg2:T20	
+R17	Isolated_From Arg1:T56 Arg2:T20	
+R18	Isolated_From Arg1:T57 Arg2:T20	
+T63	Chemical 1198 1237	4-O-(beta-D-glucopyranosyl)-gallic acid
+R19	Isolated_From Arg1:T59 Arg2:T20	
+R20	Associated_With Arg1:T34 Arg2:T61	
+R21	Associated_With Arg1:T35 Arg2:T61	
+R22	Associated_With Arg1:T37 Arg2:T61	
+R23	Associated_With Arg1:T41 Arg2:T61	
+R24	Associated_With Arg1:T46 Arg2:T61	
+R25	Associated_With Arg1:T57 Arg2:T61	
+R26	Associated_With Arg1:T59 Arg2:T61	
+R28	Associated_With Arg1:T36 Arg2:T61	
+R27	Associated_With Arg1:T33 Arg2:T61	
+R29	Associated_With Arg1:T38 Arg2:T61	
+R30	Associated_With Arg1:T42 Arg2:T61	
+R31	Associated_With Arg1:T45 Arg2:T61	
+R32	Associated_With Arg1:T58 Arg2:T61	
+R33	Associated_With Arg1:T63 Arg2:T61	
+T1	Species 1407 1415	Rhodiola
+T5	Biological_Activity 1678 1687	inhibitor
+T62	Biological_Activity 1726 1735	inhibitor
+T7	Protein 1450 1453	PEP
+T64	Biological_Activity 1628 1638	inhibitors

@@ -1,0 +1,62 @@
+T1	Protein 71 87	cyclooxygenase-1
+T2	Protein 89 94	COX-1
+T3	Protein 97 113	cyclooxygenase-2
+T4	Protein 115 120	COX-2
+T5	Protein 127 142	tyrosine kinase
+T6	Chemical 146 162	prostaglandin E2
+T7	Chemical 164 168	PGE2
+T8	Metabolite 146 162	prostaglandin E2
+T9	Metabolite 164 168	PGE2
+T10	Protein 225 242	interleukin-1beta
+T11	Protein 244 252	IL-1beta
+T12	Protein 261 284	epidermal growth factor
+T13	Protein 286 289	EGF
+T16	Species 184 189	human
+T17	Protein 296 313	cytokine IL-1beta
+T18	Protein 337 340	EGF
+T19	Protein 351 356	COX-2
+T20	Protein 422 425	EGF
+T21	Protein 430 438	IL-1beta
+T22	Protein 460 465	COX-2
+T23	Chemical 522 526	PGE2
+T24	Biological_Activity 527 539	biosynthesis
+T25	Protein 575 583	IL-1beta
+T26	Protein 587 590	EGF
+T27	Protein 606 614	IL-1beta
+T28	Protein 615 618	EGF
+T29	Protein 642 650	IL-1beta
+T30	Protein 655 658	EGF
+T31	Protein 668 673	COX-1
+T32	Protein 715 730	tyrosine kinase
+T33	Biological_Activity 731 740	inhibitor
+T34	Chemical 743 755	Herbimycin A
+T35	Chemical 760 783	PD 153035 hydrochloride
+R1	Associated_With Arg1:T34 Arg2:T33	
+R2	Associated_With Arg1:T35 Arg2:T33	
+T36	Protein 793 798	COX-2
+R5	Binds_With Arg1:T34 Arg2:T32	
+T39	Chemical 822 826	PGE2
+T41	Protein 849 857	IL-1beta
+T42	Protein 880 888	IL-1beta
+T43	Protein 893 896	EGF
+T44	Protein 905 910	COX-1
+T45	Protein 959 964	COX-2
+T47	Biological_Activity 974 983	inhibitor
+T48	Chemical 985 991	NS-398
+R10	Associated_With Arg1:T48 Arg2:T47	
+T50	Chemical 1007 1011	PGE2
+T51	Protein 1034 1042	IL-1beta
+T52	Protein 1044 1047	EGF
+T53	Protein 1117 1125	IL-1beta
+T54	Protein 1130 1133	EGF
+T55	Metabolite 1137 1141	PGE2
+T56	Metabolite 522 526	PGE2
+T57	Metabolite 1007 1011	PGE2
+T59	Protein 1194 1199	COX-2
+T60	Protein 1209 1227	tyrosine kinase(s)
+T61	Protein 1272 1277	COX-2
+T64	Metabolite 822 826	PGE2
+T65	Chemical 1137 1141	PGE2
+R3	Binds_With Arg1:T35 Arg2:T32	
+R4	Binds_With Arg1:T48 Arg2:T45	
+T14	Biological_Activity 507 518	stimulation

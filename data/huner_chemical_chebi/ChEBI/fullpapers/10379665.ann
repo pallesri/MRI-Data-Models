@@ -1,0 +1,237 @@
+T1	Chemical 1 9	SCH66336
+T2	Chemical 11 161	(+) 4-{2-[4-(8-chloro-3, 10-dibromo-6, 11-dihydro-5H-benzo [5,6]  cyclohepta [1,2-b] pyridin-11-yl)-1-piperidinyl]-2-oxoethyl}-1-piperidinecarboxamide
+T3	Biological_Activity 186 195	inhibitor
+T4	Protein 199 227	farnesyl protein transferase
+T5	Protein 229 232	FPT
+R1	Associated_With Arg1:T2 Arg2:T3	
+R2	Associated_With Arg1:T1 Arg2:T3	
+R3	Binds_With Arg1:T2 Arg2:T4	
+R4	Binds_With Arg1:T1 Arg2:T4	
+R5	Binds_With Arg1:T2 Arg2:T5	
+R6	Binds_With Arg1:T1 Arg2:T5	
+T6	Protein 235 238	FPT
+T7	Chemical 353 359	carbon
+T8	Chemical 360 374	farnesyl group
+T9	Biological_Activity 334 342	transfer
+T10	Chemical 382 390	cysteine
+T11	Chemical 406 413	carboxy
+T12	Protein 430 442	Ras proteins
+T13	Chemical 455 463	farnesyl
+T14	Protein 502 514	Ras proteins
+T15	Biological_Activity 549 556	induces
+T16	Protein 600 611	Ras protein
+T17	Chemical 626 629	GTP
+T18	Biological_Activity 630 635	bound
+T19	Biological_Activity 674 683	signaling
+R7	Binds_With Arg1:T17 Arg2:T16	
+T20	Biological_Activity 750 756	signal
+T21	Chemical 792 795	GTP
+T22	Chemical 812 815	GDP
+T23	Protein 834 845	Ras protein
+T24	Biological_Activity 876 885	oncogenic
+T25	Protein 895 898	Ras
+T26	Chemical 912 915	GTP
+T27	Chemical 919 922	GDP
+T28	Metabolite 919 922	GDP
+R8	Metabolite_Of Arg1:T28 Arg2:T26	
+T29	Biological_Activity 979 988	signaling
+T30	Biological_Activity 1071 1080	Oncogenic
+T31	Protein 1090 1102	Ras proteins
+T32	Species 1168 1173	human
+T33	Biological_Activity 1263 1276	farnesylation
+T34	Biological_Activity 1285 1295	inhibiting
+T35	Protein 1296 1299	FPT
+T36	Chemical 1345 1354	compounds
+T37	Biological_Activity 1360 1370	anti-tumor
+T38	Protein 1467 1470	ras
+T39	Species 1480 1485	human
+T40	Species 1527 1531	mice
+T41	Chemical 1550 1559	SCH 66336
+T42	Species 1614 1619	human
+T43	Protein 1749 1755	Ha-Ras
+T44	Species 1767 1771	mice
+T45	Chemical 1830 1839	SCH 66336
+T46	Species 1902 1907	mouse
+T47	Species 1949 1955	animal
+T48	Species 2044 2048	mice
+T49	Biological_Activity 2113 2120	induced
+T50	Chemical 2124 2133	SCH 66336
+R9	Associated_With Arg1:T50 Arg2:T49	
+T51	Chemical 2224 2228	drug
+T52	Chemical 2266 2277	enantiomers
+T53	Biological_Activity 2320 2328	toxicity
+T54	Chemical 2401 2405	drug
+T55	Chemical 2457 2466	SCH 66336
+T56	Chemical 2479 2489	enantiomer
+T57	Species 2655 2662	animals
+T58	Species 2690 2696	humans
+T59	Species 2787 2804	cynomolgus monkey
+T60	Species 2862 2865	rat
+T61	Species 2870 2887	cynomolgus monkey
+T62	Chemical 2920 2929	SCH 66336
+T63	Chemical 2960 2966	Hexane
+T64	Chemical 2968 2976	methanol
+T65	Chemical 2978 2990	acetonitrile
+T66	Chemical 2992 3010	methylene chloride
+T67	Chemical 3012 3019	ethanol
+T68	Chemical 3021 3034	diethyl amine
+T69	Chemical 3039 3057	sodium bicarbonate
+T70	Chemical 3118 3127	SCH 66336
+T71	Chemical 3129 3138	SCH 66337
+T72	Chemical 3140 3163	enantiomer of SCH 66336
+T73	Chemical 3154 3163	SCH 66336
+T74	Chemical 3169 3178	SCH 66347
+T75	Chemical 3295 3312	Azatadine maleate
+T76	Chemical 3507 3516	SCH 66336
+T77	Chemical 3533 3541	methanol
+T78	Chemical 3594 3599	water
+T79	Chemical 4088 4097	SCH 66336
+T80	Chemical 4099 4108	SCH 66337
+T81	Chemical 4113 4122	SCH 66347
+T82	Chemical 4140 4148	methanol
+T83	Species 4488 4494	monkey
+T84	Chemical 4649 4667	sodium bicarbonate
+T85	Chemical 4728 4746	methylene chloride
+T86	Chemical 4750 4756	hexane
+T87	Chemical 4901 4904	HCl
+T88	Chemical 4908 4916	methanol
+T89	Chemical 5000 5008	nitrogen
+T90	Species 5168 5171	rat
+T91	Species 5175 5181	monkey
+T92	Chemical 5290 5295	ethyl
+T93	Chemical 5356 5364	methanol
+T94	Chemical 5377 5382	water
+T95	Chemical 5426 5431	water
+T96	Chemical 5454 5466	acetonitrile
+T97	Species 5470 5475	water
+T98	Chemical 5481 5490	compounds
+T99	Chemical 5516 5528	acetonitrile
+T100	Chemical 5573 5581	nitrogen
+T101	Chemical 5802 5807	Water
+T102	Chemical 5904 5906	CN
+T103	Chemical 6094 6113	potassium phosphate
+T104	Chemical 6121 6133	acetonitrile
+T105	Chemical 6314 6320	hexane
+T106	Chemical 6321 6328	ethanol
+T107	Chemical 6329 6341	diethylamine
+T108	Chemical 6409 6418	SCH 66336
+T109	Species 6428 6446	cynomolgus monkeys
+T110	Chemical 6502 6511	SCH 66336
+T111	Species 6575 6579	rats
+T112	Species 6584 6602	cynomolgus monkeys
+T113	Chemical 6614 6623	SCH 66336
+T114	Chemical 6706 6721	methylcellulose
+T115	Chemical 6764 6773	SCH 66336
+T116	Chemical 7573 7577	drug
+T117	Species 7583 7589	monkey
+T118	Chemical 7620 7629	SCH 66336
+T119	Chemical 7656 7673	azatadine maleate
+T120	Chemical 7726 7735	SCH 66336
+T121	Species 7869 7876	monkeys
+T122	Chemical 7896 7905	SCH 66336
+T123	Chemical 8460 8469	SCH 66336
+T124	Chemical 9486 9495	SCH 66336
+T125	Chemical 9626 9631	water
+T126	Chemical 9859 9868	SCH 66336
+T127	Chemical 10108 10117	SCH 66336
+T128	Chemical 10289 10298	SCH 66336
+T129	Chemical 10500 10509	SCH 66336
+T130	Chemical 10595 10599	drug
+T131	Species 10605 10608	rat
+T132	Species 10613 10630	cynomolgus monkey
+T133	Chemical 10684 10693	SCH 66336
+T134	Chemical 10702 10712	enantiomer
+T135	Chemical 10713 10722	SCH 66337
+T136	Chemical 10797 10806	SCH 66337
+T137	Chemical 10808 10817	SCH 66336
+T138	Species 10952 10956	rats
+T139	Species 10960 10967	monkeys
+T140	Chemical 10987 10996	SCH 66337
+T141	Chemical 10998 11007	SCH 66336
+T142	Chemical 11345 11354	SCH 66337
+T143	Chemical 11359 11368	SCH 66336
+T144	Chemical 11622 11633	enantiomers
+T145	Chemical 11823 11832	SCH 66337
+T146	Chemical 11834 11843	SCH 66336
+T147	Species 11920 11929	SCH 66336
+T148	Protein 11964 11967	FPT
+T149	Biological_Activity 11968 11978	inhibitors
+T150	Protein 12031 12034	FPT
+T151	Biological_Activity 12035 12045	inhibitors
+T152	Chemical 12079 12093	peptidomimetic
+T153	Chemical 12161 12171	sulfhydryl
+T154	Chemical 12322 12331	SCH 44342
+T155	Species 12411 12416	mouse
+T156	Biological_Activity 12441 12450	oxidative
+T157	Biological_Activity 12451 12461	metabolism
+T158	Biological_Activity 12494 12503	metabolic
+T159	Chemical 12513 12522	SCH 44342
+T160	Chemical 12600 12609	SCH 66336
+T161	Chemical 12618 12631	lead compound
+T162	Biological_Activity 12689 12698	metabolic
+T163	Protein 12769 12772	FPT
+T164	Chemical 12818 12827	SCH 66336
+T165	Species 12841 12846	mouse
+T166	Protein 12898 12904	Ha-Ras
+T167	Chemical 13092 13097	ethyl
+T168	Chemical 13341 13349	compound
+T169	Chemical 13365 13373	halogens
+T170	Chemical 13393 13402	SCH 66336
+T171	Chemical 13511 13519	compound
+T172	Chemical 13655 13664	SCH 66336
+T173	Species 13672 13689	cynomolgus monkey
+T174	Chemical 13743 13752	SCH 66336
+T175	Chemical 13754 13763	SCH 66336
+T176	Chemical 13867 13876	SCH 66336
+T177	Chemical 14033 14044	Enantiomers
+T178	Chemical 14048 14077	biologically active molecules
+T179	Biological_Activity 14048 14060	biologically
+T180	Biological_Activity 14125 14135	metabolism
+T181	Chemical 14137 14145	toxicity
+T182	Chemical 14229 14239	enantiomer
+T183	Chemical 14247 14251	drug
+T184	Chemical 14443 14456	cyclodextrins
+T185	Chemical 14460 14469	cellulose
+T186	Chemical 14460 14481	cellulose derivatives
+T187	Chemical 14736 14744	hydrogen
+T188	Chemical 14792 14797	drugs
+T189	Chemical 14820 14832	cyclodextrin
+T190	Chemical 14846 14855	cellulose
+T191	Chemical 14871 14878	amylose
+T192	Chemical 14971 14980	SCH 66336
+T193	Chemical 14985 14994	SCH 66336
+T194	Chemical 15032 15051	cellulose carbamate
+T195	Chemical 15032 15062	cellulose carbamate derivative
+T196	Chemical 15082 15099	amylose carbamate
+T197	Chemical 15082 15110	amylose carbamate derivative
+T198	Biological_Activity 15427 15436	inversion
+T199	Chemical 15440 15449	SCH 66336
+T200	Species 15453 15460	animals
+T201	Chemical 15492 15501	SCH 66336
+T202	Species 15518 15525	animals
+T203	Chemical 15559 15568	SCH 66337
+T204	Chemical 15600 15609	SCH 66337
+T205	Chemical 15673 15682	SCH 66336
+T206	Species 15588 15591	rat
+T207	Species 15714 15731	cynomolgus monkey
+T208	Chemical 15762 15771	SCH 66336
+T209	Chemical 15831 15840	SCH 66337
+T210	Chemical 15930 15939	SCH 66337
+T211	Chemical 15943 15952	SCH 66337
+T212	Chemical 16106 16115	SCH 66336
+T213	Chemical 16149 16158	SCH 66336
+T214	Species 16199 16203	rats
+T215	Species 16208 16226	cynomolgus monkeys
+T216	Chemical 16283 16292	SCH 66336
+T217	Species 16296 16313	cynomolgus monkey
+T218	Chemical 16525 16534	SCH 66336
+T219	Species 16538 16555	cynomolgus monkey
+T220	Chemical 16618 16627	SCH 66336
+T221	Chemical 16637 16647	enantiomer
+T222	Chemical 16648 16657	SCH 66337
+T223	Species 16661 16667	monkey
+T224	Species 16672 16675	rat
+T225	Chemical 16720 16729	SCH 66336
+T226	Biological_Activity 16758 16767	inversion
+T227	Species 16771 16775	rats
+T228	Species 16780 16799	cynomolgus monkeys.

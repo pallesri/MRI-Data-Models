@@ -1,0 +1,22 @@
+T1	Disease 78 99	chronic liver disease
+T2	Disease 179 192	liver disease
+T3	Disease 225 267	advanced hepatitis C-related liver disease
+T4	Disease 391 400	Cirrhosis
+T5	Disease 465 474	cirrhosis
+T6	Disease 675 684	cirrhosis
+T7	Disease 1563 1572	cirrhosis
+T8	Disease 1700 1742	advanced hepatitis C-related liver disease
+T9	Plant 7 13	coffee
+T12	Plant 155 161	coffee
+T13	Plant 278 284	coffee
+T15	Plant 771 777	coffee
+T18	Plant 1122 1128	coffee
+T19	Plant 1752 1758	coffee
+T10	Treatment_of_disease 35 45	associated
+E1	Treatment_of_disease:T10 Cause:T9 Theme:T1
+T11	Plant 289 292	tea
+T14	Disease 453 461	fibrosis
+T21	Disease 714 722	fibrosis
+T16	Plant 1593 1596	Tea
+T17	Treatment_of_disease 1775 1785	associated
+E2	Treatment_of_disease:T17 Cause:T19 Theme:T8

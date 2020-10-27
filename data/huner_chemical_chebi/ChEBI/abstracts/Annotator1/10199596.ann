@@ -1,0 +1,40 @@
+T1	Chemical 33 48	4-fluoroaniline
+T2	Chemical 50 54	4-FA
+T3	Chemical 60 87	1-[13C]-4-fluoroacetanilide
+T4	Chemical 89 94	4-FAA
+T5	Species 200 218	Sprague-Dawley rat
+T6	Chemical 223 227	4-FA
+T7	Chemical 324 354	2-amino-5-fluorophenylsulphate
+T8	Metabolite 324 354	2-amino-5-fluorophenylsulphate
+R1	Metabolite_Of Arg1:T8 Arg2:T1	
+R2	Metabolite_Of Arg1:T8 Arg2:T2	
+T9	Chemical 547 555;616 647	sulphate conjugates of 4-acetamidophenol
+T10	Chemical 630 647	4-acetamidophenol
+T11	Metabolite 547 555;616 647	sulphate conjugates of 4-acetamidophenol
+T12	Chemical 565 576;616 647	glucuronide conjugates of 4-acetamidophenol
+T13	Metabolite 565 576;616 647	glucuronide conjugates of 4-acetamidophenol
+T14	Chemical 589 607;616 647	N-acetyl-cysteinyl conjugates of 4-acetamidophenol
+T15	Metabolite 589 607;616 647	N-acetyl-cysteinyl conjugates of 4-acetamidophenol
+T16	Metabolite 486 511	defluorinated metabolites
+R3	Metabolite_Of Arg1:T11 Arg2:T6	
+R4	Metabolite_Of Arg1:T13 Arg2:T6	
+R5	Metabolite_Of Arg1:T15 Arg2:T6	
+T17	Chemical 699 712	1-[13C]-4-FAA
+T18	Metabolite 33 48	4-fluoroaniline
+R6	Metabolite_Of Arg1:T18 Arg2:T17	
+T19	Chemical 807 811	4-FA
+T20	Metabolite 807 811	4-FA
+R7	Metabolite_Of Arg1:T20 Arg2:T17	
+R8	Metabolite_Of Arg1:T8 Arg2:T17	
+T21	Chemical 649 660	paracetamol
+R9	Metabolite_Of Arg1:T11 Arg2:T17	
+R10	Metabolite_Of Arg1:T13 Arg2:T17	
+T22	Chemical 1133 1140	aniline
+T23	Chemical 1229 1259	aromatic fluorine substituents
+T24	Chemical 1012 1015	13C
+T25	Spectral_Data 119 136	NMR-based methods
+T35	Chemical 817 840	paracetamol metabolites
+T36	Metabolite 817 840	paracetamol metabolites
+T26	Chemical 939 942	13C
+T27	Biological_Activity 685 695	metabolism
+T28	Biological_Activity 1141 1151	metabolism

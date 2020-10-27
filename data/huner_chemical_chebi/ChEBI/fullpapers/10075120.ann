@@ -1,0 +1,565 @@
+T1	Species 1 17	Casimiroa edulis
+T2	Species 44 52	Rutaceae
+T3	Species 74 87	zapote blanco
+T4	Biological_Activity 207 218	hypotensive
+T5	Species 324 331	animals
+T6	Species 422 428	humans
+T7	Chemical 500 508	methanol
+T8	Species 523 536	zapote blanco
+T9	Biological_Activity 555 566	hypotensive
+T10	Biological_Activity 599 611	vasodilation
+T11	Protein 629 652	histamine H1 -receptors
+T12	Biological_Activity 693 709	vasoconstriction
+T13	Species 803 816	zapote blanco
+T14	Chemical 854 877	N ,N -dimethylhistamine
+T15	Metabolite 854 877	N ,N -dimethylhistamine
+T16	Chemical 926 935	histamine
+T17	Species 962 967	plant
+T18	Biological_Activity 986 997	hypotensive
+R1	Associated_With Arg1:T14 Arg2:T18	
+R2	Associated_With Arg1:T15 Arg2:T18	
+R3	Associated_With Arg1:T16 Arg2:T18	
+T19	Metabolite 926 935	histamine
+R4	Associated_With Arg1:T19 Arg2:T18	
+T20	Biological_Activity 1201 1212	hypotensive
+T21	Chemical 1257 1265	methanol
+T22	Species 1280 1293	zapote blanco
+T23	Chemical 1461 1470	histamine
+T24	Metabolite 1461 1470	histamine
+T25	Chemical 926 946	histamine derivative
+T26	Chemical 1461 1481	histamine derivative
+T27	Chemical 1461 1470;1501 1521	histamine N -monomethyl analog
+T28	Species 1586 1591	plant
+T29	Species 1817 1826	C. edulis
+T30	Chemical 2252 2260	methanol
+T31	Chemical 2266 2273	solvent
+T32	Chemical 2403 2416	silica gel 60
+T33	Chemical 2484 2496	acetonitrile
+T34	Chemical 2497 2505	methanol
+T35	Chemical 2522 2532	n-propanol
+T36	Chemical 2533 2538	water
+T37	Chemical 2564 2582	ammonium hydroxide
+T38	Biological_Activity 2649 2660	hypotensive
+T39	Spectral_Data 2840 2842;2855 2862	IR spectra
+T40	Spectral_Data 2844 2847;2855 2862	NMR spectra
+T41	Spectral_Data 2852 2854;2855 2862	MS spectra
+T42	Spectral_Data 2864 2874	IR spectra
+T43	Chemical 2892 2895	Kbr
+T44	Spectral_Data 2971 2986	1 H NMR spectra
+T45	Chemical 3004 3012	methanol
+T46	Chemical 3016 3020	D2 O
+T47	Spectral_Data 3061 3071	MS spectra
+T48	Spectral_Data 3249 3273	1 H and DEPT NMR spectra
+T53	Spectral_Data 3293 3297;3320 3323	COSY NMR
+T54	Spectral_Data 3299 3304;3320 3323	TOCSY NMR
+T55	Spectral_Data 3306 3310;3320 3323	HMQC NMR
+T49	Spectral_Data 3315 3323	HMBC NMR
+T50	Species 3385 3389	rats
+T51	Species 3394 3405	guinea pigs
+T52	Species 3411 3422	Wistar rats
+T56	Species 3451 3462	guinea pigs
+T57	Chemical 3521 3541	sodium pentobarbital
+T58	Chemical 3620 3632	polyethylene
+T59	Species 3688 3692	rats
+T60	Species 3738 3749	guinea pigs
+T61	Species 4179 4186	animals
+T62	Chemical 4311 4321	loratadine
+T63	Chemical 4367 4380;4382 4384;4396 4404	hydrochloride of prazosin
+T64	Chemical 4367 4380;4382 4384;4406 4421	hydrochloride of dl -propranolol
+T65	Chemical 4367 4380;4382 4384;4423 4439	hydrochloride of l -phenylephrine
+T66	Chemical 4367 4380;4382 4384;4444 4478	hydrochloride of N ω-nitro-l -arginine methyl ester
+T67	Chemical 4367 4380;4382 4394	hydrochloride of histamine
+T68	Chemical 4491 4507	atropine sulfate
+T69	Chemical 4509 4523;4539 4548	(±)-synephrine free base
+T70	Chemical 4528 4548	cimetidine free base
+T71	Chemical 4551 4571	γ -aminobutyric acid
+T72	Chemical 4573 4583	l -proline
+T73	Chemical 4588 4608	N -methyl-l -proline
+T74	Chemical 4650 4660	Loratadine
+T75	Chemical 4665 4678	casimiroedine
+T76	Chemical 4719 4724	water
+T77	Chemical 4736 4741	drugs
+T78	Chemical 4769 4775	saline
+T79	Chemical 5387 5395	methanol
+T80	Species 5410 5423	zapote blanco
+T81	Biological_Activity 5513 5527	cardiovascular
+T82	Chemical 5581 5590;5595 5606	histamine derivatives
+T83	Chemical 5592 5593	H
+T84	Chemical 5607 5629	N -momomethylhistamine
+T85	Chemical 5631 5634	MMH
+T86	Chemical 5640 5662	N,N -dimethylhistamine
+T87	Chemical 5664 5667	DMH
+T88	Chemical 5678 5702	imidazolic glucoalkaloid
+T89	Chemical 5703 5716	casimiroedine
+T90	Chemical 5718 5721	CAS
+T91	Biological_Activity 5738 5749	hypotension
+R5	Associated_With Arg1:T90 Arg2:T91	
+R6	Associated_With Arg1:T89 Arg2:T91	
+R7	Associated_With Arg1:T88 Arg2:T91	
+R8	Associated_With Arg1:T87 Arg2:T91	
+R9	Associated_With Arg1:T86 Arg2:T91	
+R10	Associated_With Arg1:T85 Arg2:T91	
+R11	Associated_With Arg1:T84 Arg2:T91	
+T92	Chemical 5766 5780	phenethylamine
+T93	Chemical 5766 5791	phenethylamine derivative
+T94	Chemical 5792 5812	synephrine acetonide
+T95	Chemical 5814 5816	SA
+T96	Chemical 5847 5857	Silica gel
+T97	Chemical 5882 5890	methanol
+T98	Biological_Activity 5992 6003	hypotension
+T99	Spectral_Data 6005 6015;6034 6037	High field NMR
+T100	Spectral_Data 6020 6037	bidimensional NMR
+T101	Metabolite 5607 5629	N -momomethylhistamine
+T102	Metabolite 5631 5634	MMH
+T103	Metabolite 5640 5662	N,N -dimethylhistamine
+T104	Metabolite 5664 5667	DMH
+T105	Metabolite 5703 5716	casimiroedine
+T106	Metabolite 5718 5721	CAS
+R12	Associated_With Arg1:T106 Arg2:T91	
+R13	Associated_With Arg1:T105 Arg2:T91	
+R14	Associated_With Arg1:T104 Arg2:T91	
+R15	Associated_With Arg1:T103 Arg2:T91	
+R16	Associated_With Arg1:T102 Arg2:T91	
+R17	Associated_With Arg1:T101 Arg2:T91	
+T107	Metabolite 5792 5812	synephrine acetonide
+R18	Isolated_From Arg1:T107 Arg2:T80	
+R19	Isolated_From Arg1:T106 Arg2:T80	
+R20	Isolated_From Arg1:T105 Arg2:T80	
+R21	Isolated_From Arg1:T104 Arg2:T80	
+R22	Isolated_From Arg1:T103 Arg2:T80	
+R23	Isolated_From Arg1:T102 Arg2:T80	
+R24	Isolated_From Arg1:T101 Arg2:T80	
+T108	Chemical 6067 6078	amino acids
+T109	Chemical 6079 6095	N -methylproline
+T110	Metabolite 6079 6095	N -methylproline
+T111	Metabolite 6097 6099	MP
+T112	Chemical 6097 6099	MP
+T113	Chemical 6107 6114	proline
+T114	Metabolite 6107 6114	proline
+T115	Chemical 6116 6117	P
+T116	Metabolite 6116 6117	P
+T117	Chemical 6125 6145	γ -aminobutyric acid
+T118	Metabolite 6125 6145	γ -aminobutyric acid
+T119	Chemical 6147 6151	GABA
+T120	Metabolite 6147 6151	GABA
+T121	Metabolite 5814 5816	SA
+R25	Isolated_From Arg1:T121 Arg2:T80	
+R26	Isolated_From Arg1:T110 Arg2:T80	
+R27	Isolated_From Arg1:T111 Arg2:T80	
+R28	Isolated_From Arg1:T114 Arg2:T80	
+R29	Isolated_From Arg1:T116 Arg2:T80	
+R30	Isolated_From Arg1:T118 Arg2:T80	
+R31	Isolated_From Arg1:T120 Arg2:T80	
+R32	Associated_With Arg1:T110 Arg2:T100	
+R33	Associated_With Arg1:T109 Arg2:T100	
+R34	Associated_With Arg1:T111 Arg2:T99	
+R35	Associated_With Arg1:T112 Arg2:T99	
+R36	Associated_With Arg1:T110 Arg2:T99	
+R37	Associated_With Arg1:T109 Arg2:T99	
+R38	Associated_With Arg1:T111 Arg2:T100	
+R39	Associated_With Arg1:T112 Arg2:T100	
+R40	Associated_With Arg1:T114 Arg2:T99	
+R41	Associated_With Arg1:T113 Arg2:T99	
+R42	Associated_With Arg1:T114 Arg2:T100	
+R43	Associated_With Arg1:T113 Arg2:T100	
+R44	Associated_With Arg1:T116 Arg2:T99	
+R45	Associated_With Arg1:T115 Arg2:T99	
+R46	Associated_With Arg1:T116 Arg2:T100	
+R47	Associated_With Arg1:T115 Arg2:T100	
+R48	Associated_With Arg1:T118 Arg2:T100	
+R49	Associated_With Arg1:T117 Arg2:T100	
+R50	Associated_With Arg1:T118 Arg2:T99	
+R51	Associated_With Arg1:T117 Arg2:T99	
+R54	Associated_With Arg1:T120 Arg2:T100	
+R56	Associated_With Arg1:T119 Arg2:T100	
+R52	Associated_With Arg1:T120 Arg2:T99	
+R53	Associated_With Arg1:T119 Arg2:T99	
+T122	Chemical_Structure 6203 6264	structures of the seven compounds identified appear in Fig. 1
+T123	Chemical 6283 6304	histamine derivatives
+T124	Chemical 6310 6313	MMH
+T125	Metabolite 6310 6313	MMH
+T126	Chemical 6318 6321	DMH
+T127	Metabolite 6318 6321	DMH
+T128	Chemical 6334 6335	H
+T129	Chemical 6472 6473	H
+T130	Biological_Activity 6536 6546	antagonist
+T131	Chemical 6547 6557	loratadine
+R55	Associated_With Arg1:T131 Arg2:T130	
+T132	Chemical 6585 6595	cimetidine
+R57	Associated_With Arg1:T132 Arg2:T130	
+T133	Protein 6532 6534	H1
+T134	Protein 6573 6575	H2
+T135	Chemical 6612 6613	H
+T136	Biological_Activity 6687 6699	chronotropic
+T137	Chemical 6803 6806	MMH
+T138	Metabolite 6803 6806	MMH
+T139	Chemical 6811 6814	DMH
+T140	Metabolite 6811 6814	DMH
+T141	Chemical 6800 6801	H
+R58	Associated_With Arg1:T138 Arg2:T136	
+R59	Associated_With Arg1:T137 Arg2:T136	
+R60	Associated_With Arg1:T140 Arg2:T136	
+R61	Associated_With Arg1:T139 Arg2:T136	
+T142	Species 6832 6836	rats
+T143	Protein 6735 6737	H1
+T144	Protein 6743 6745	H2
+T145	Chemical 6872 6885	phenylephrine
+T146	Chemical 6923 6935	nitric oxide
+T147	Biological_Activity 6946 6955	inhibitor
+T148	Chemical 6956 6989	Nω -nitro-l -arginine methylester
+T149	Chemical 6991 6998	l -NAME
+R62	Associated_With Arg1:T149 Arg2:T147	
+R63	Associated_With Arg1:T148 Arg2:T147	
+R64	Associated_With Arg1:T101 Arg2:T39	
+R65	Associated_With Arg1:T101 Arg2:T40	
+R66	Associated_With Arg1:T101 Arg2:T41	
+R67	Associated_With Arg1:T84 Arg2:T39	
+R68	Associated_With Arg1:T84 Arg2:T40	
+R69	Associated_With Arg1:T84 Arg2:T41	
+R70	Associated_With Arg1:T103 Arg2:T39	
+R71	Associated_With Arg1:T103 Arg2:T40	
+R72	Associated_With Arg1:T103 Arg2:T41	
+R73	Associated_With Arg1:T86 Arg2:T39	
+R74	Associated_With Arg1:T86 Arg2:T40	
+R75	Associated_With Arg1:T86 Arg2:T41	
+R76	Associated_With Arg1:T105 Arg2:T39	
+R77	Associated_With Arg1:T105 Arg2:T40	
+R78	Associated_With Arg1:T105 Arg2:T41	
+R79	Associated_With Arg1:T89 Arg2:T39	
+R80	Associated_With Arg1:T89 Arg2:T40	
+R81	Associated_With Arg1:T89 Arg2:T41	
+R82	Associated_With Arg1:T107 Arg2:T39	
+R83	Associated_With Arg1:T107 Arg2:T40	
+R84	Associated_With Arg1:T107 Arg2:T41	
+R85	Associated_With Arg1:T94 Arg2:T39	
+R86	Associated_With Arg1:T94 Arg2:T41	
+R87	Associated_With Arg1:T94 Arg2:T40	
+T150	Chemical 7001 7014	Phenylephrine
+T151	Chemical 7160 7167	l -NAME
+T152	Biological_Activity 7214 7225	Hypotensive
+T153	Chemical 7239 7240	H
+T154	Biological_Activity 7292 7307	vasoconstrictor
+T155	Chemical 7447 7454	l -NAME
+T156	Chemical 7536 7537	H
+T157	Chemical 7601 7608	l -NAME
+T158	Biological_Activity 7588 7597	inhibited
+R88	Associated_With Arg1:T157 Arg2:T158	
+T159	Chemical 7629 7632	DMH
+T160	Biological_Activity 7469 7480	antagonized
+R89	Associated_With Arg1:T155 Arg2:T160	
+T161	Chemical 7494 7495	H
+T162	Chemical 7500 7503	DMH
+T163	Chemical 7516 7519	MMH
+T164	Metabolite 7516 7519	MMH
+T165	Metabolite 7500 7503	DMH
+T166	Metabolite 7629 7632	DMH
+T167	Chemical 7661 7681	synephrine acetonide
+T168	Chemical 7754 7762	atropine
+T169	Chemical 7859 7861	SA
+T170	Chemical 7824 7858	cyclized phenethylamine derivative
+T171	Chemical 7969 7979	synephrine
+T172	Chemical 7964 7968	drug
+T173	Chemical 7981 7982	S
+T174	Biological_Activity 8078 8088	antagonist
+T175	Chemical 8089 8097	prazosin
+R90	Associated_With Arg1:T175 Arg2:T174	
+T177	Biological_Activity 8140 8147	blocker
+T178	Chemical 8148 8159	propranolol
+R91	Associated_With Arg1:T178 Arg2:T177	
+T176	Biological_Activity 8233 8243	antagonist
+R92	Associated_With Arg1:T175 Arg2:T176	
+R93	Associated_With Arg1:T178 Arg2:T176	
+T179	Chemical 8278 8291	casimiroedine
+T180	Species 8315 8319	rats
+T181	Chemical 8454 8465	amino acids
+T182	Chemical 8568 8581	glucoalkaloid
+T183	Chemical 8582 8585	CAS
+T184	Metabolite 8582 8585	CAS
+T185	Biological_Activity 8593 8604	hypotensive
+T186	Species 8715 8726	guinea pigs
+T187	Species 8784 8791	animals
+T188	Species 8915 8919	rats
+T189	Chemical 9007 9010	CAS
+T190	Metabolite 9007 9010	CAS
+T191	Chemical 9041 9044	DMH
+T192	Metabolite 9041 9044	DMH
+T193	Species 9109 9118	C. edulis
+R94	Isolated_From Arg1:T192 Arg2:T193	
+R95	Isolated_From Arg1:T190 Arg2:T193	
+T194	Chemical 9121 9124	MMH
+T195	Metabolite 9121 9124	MMH
+T196	Chemical 9126 9128	MP
+T197	Metabolite 9126 9128	MP
+T198	Chemical 9130 9131	P
+T199	Metabolite 9130 9131	P
+T200	Chemical 9136 9140	GABA
+T201	Metabolite 9136 9140	GABA
+R96	Isolated_From Arg1:T195 Arg2:T193	
+R97	Isolated_From Arg1:T197 Arg2:T193	
+R98	Isolated_From Arg1:T199 Arg2:T193	
+R99	Isolated_From Arg1:T201 Arg2:T193	
+T202	Chemical 9206 9208	SA
+T203	Metabolite 9206 9208	SA
+R100	Isolated_From Arg1:T203 Arg2:T193	
+T204	Chemical 9525 9527	SA
+T205	Species 9656 9659	rat
+T206	Chemical 9661 9664	MMH
+T207	Metabolite 9661 9664	MMH
+T208	Chemical 9669 9672	DMH
+T209	Metabolite 9669 9672	DMH
+T210	Biological_Activity 9690 9701	hypotensive
+R101	Associated_With Arg1:T207 Arg2:T210	
+R102	Associated_With Arg1:T209 Arg2:T210	
+R103	Associated_With Arg1:T206 Arg2:T210	
+R104	Associated_With Arg1:T208 Arg2:T210	
+T211	Chemical 9778 9779	H
+R105	Associated_With Arg1:T211 Arg2:T210	
+T212	Species 9966 9977	Casimiroa  
+T213	Biological_Activity 10093 10104	antagonists
+T214	Protein 10193 10206	H1 -receptors
+T215	Chemical 10220 10230	loratadine
+T216	Biological_Activity 10239 10249	antagonist
+R106	Associated_With Arg1:T215 Arg2:T216	
+T217	Protein 10368 10381	H1 -receptors
+T218	Chemical 10415 10416	H
+T219	Species 10431 10434	rat
+T220	Chemical 10533 10536	MMH
+T221	Chemical 10541 10544	DMH
+T222	Metabolite 10533 10536	MMH
+T223	Metabolite 10541 10544	DMH
+T224	Protein 10616 10620;10628 10637	H1 - receptors
+T225	Protein 10624 10637	H2 -receptors
+T226	Biological_Activity 10684 10695	antagonists
+T227	Protein 10720 10743	β - adrenegic receptors
+T228	Chemical 10793 10794	H
+T229	Species 10798 10801	rat
+T230	Chemical 10889 10890	H
+T231	Species 10894 10897	rat
+T232	Chemical 10982 10994	nitric oxide
+T233	Biological_Activity 11045 11056	hypotensive
+T234	Chemical 11068 11069	H
+T235	Chemical 11071 11074	MMH
+T236	Chemical 11079 11082	DMH
+T237	Metabolite 11071 11074	MMH
+T238	Metabolite 11079 11082	DMH
+T239	Species 11099 11103	rats
+T240	Chemical 11124 11136	nitric oxide
+T241	Biological_Activity 11147 11156	inhibitor
+T242	Chemical 11157 11164	l -NAME
+R107	Associated_With Arg1:T242 Arg2:T241	
+T243	Biological_Activity 7399 7408	depressor
+T244	Biological_Activity 11239 11248	depressor
+T245	Chemical 11262 11263	H
+T246	Chemical 11398 11411	acetylcholine
+T247	Biological_Activity 11443 11454	vasodilator
+R108	Associated_With Arg1:T246 Arg2:T247	
+T248	Chemical 11477 11489	nitric oxide
+T249	Biological_Activity 11500 11510	inhibition
+T250	Species 11514 11521	rabbits
+T251	Chemical 11568 11581	phenylephrine
+T252	Chemical 11678 11690	nitric oxide
+T253	Chemical 11754 11766	nitric oxide
+T254	Biological_Activity 11777 11787	inhibition
+T255	Chemical 11804 11817	phenylephrine
+T256	Species 11834 11838	rats
+T257	Chemical 11872 11873	H
+T258	Chemical 11878 11881	DMH
+T259	Metabolite 11878 11881	DMH
+T260	Metabolite 11907 11910	MMH
+T261	Chemical 11907 11910	MMH
+T262	Chemical 11915 11927	nitric oxide
+T263	Species 11994 11997	rat
+T264	Chemical 12070 12071	H
+T265	Chemical 12076 12079	DMH
+T266	Metabolite 12076 12079	DMH
+T267	Metabolite 12092 12095	MMH
+T268	Chemical 12092 12095	MMH
+T269	Chemical 12186 12187	H
+T270	Chemical 12192 12195	DMH
+T271	Metabolite 12192 12195	DMH
+T272	Protein 12228 12241	H1 -receptors
+T273	Chemical 12331 12343	nitric oxide
+T274	Chemical 12416 12419	MMH
+T275	Metabolite 12416 12419	MMH
+T276	Protein 12445 12458	H1 -receptors
+T277	Chemical 12518 12519	H
+T278	Species 12574 12577	rat
+T279	Protein 12610 12635	smooth muscle H receptors
+T280	Protein 12676 12678	H2
+T281	Protein 12724 12726	H1
+T282	Species 12742 12745	dog
+T283	Chemical 12819 12835	prostaglandin I2
+T284	Metabolite 12819 12835	prostaglandin I2
+R109	Isolated_From Arg1:T284 Arg2:T282	
+T285	Chemical 12930 12933	MMH
+T286	Metabolite 12930 12933	MMH
+T287	Biological_Activity 12942 12956	vasodilatation
+R110	Associated_With Arg1:T286 Arg2:T287	
+R111	Associated_With Arg1:T285 Arg2:T287	
+T288	Biological_Activity 12168 12182	vasodilatation
+R112	Associated_With Arg1:T269 Arg2:T288	
+R113	Associated_With Arg1:T271 Arg2:T288	
+R114	Associated_With Arg1:T270 Arg2:T288	
+T289	Biological_Activity 12552 12566	vasodilatation
+T290	Biological_Activity 778 789	Hypotension
+T291	Biological_Activity 8366 8377	hypotension
+T292	Biological_Activity 10119 10130	hypotension
+T293	Biological_Activity 11375 11386	hypotension
+R115	Associated_With Arg1:T246 Arg2:T293	
+T294	Biological_Activity 11849 11860	hypotension
+R116	Associated_With Arg1:T257 Arg2:T294	
+R117	Associated_With Arg1:T259 Arg2:T294	
+R118	Associated_With Arg1:T258 Arg2:T294	
+R119	Associated_With Arg1:T234 Arg2:T233	
+R120	Associated_With Arg1:T237 Arg2:T233	
+R121	Associated_With Arg1:T238 Arg2:T233	
+R122	Associated_With Arg1:T235 Arg2:T233	
+R123	Associated_With Arg1:T236 Arg2:T233	
+R124	Associated_With Arg1:T245 Arg2:T244	
+T295	Biological_Activity 14315 14326	hypotensive
+T296	Biological_Activity 14657 14668	hypotension
+T297	Biological_Activity 15173 15184	hypotensive
+T298	Biological_Activity 14837 14848	hypotensive
+T299	Species 14891 14894	dog
+T300	Species 14859 14870	Casimiroa  
+T301	Biological_Activity 15725 15736	hypotension
+T302	Species 15740 15751	guinea pigs
+T303	Species 15798 15809	Casimiroa  
+T304	Biological_Activity 15837 15846	depressor
+T305	Biological_Activity 15906 15917	hypotension
+T306	Biological_Activity 16496 16507	hypotension
+T307	Biological_Activity 16758 16769	hypotension
+T308	Biological_Activity 16961 16972	hypotensive
+T309	Biological_Activity 12728 12738	relaxation
+T310	Chemical 12982 12985	DMH
+T311	Metabolite 12982 12985	DMH
+T312	Chemical 12998 12999	H
+T313	Chemical 13003 13006	MMH
+T314	Metabolite 13003 13006	MMH
+T315	Chemical 13035 13042	l -NAME
+T316	Chemical 13070 13082	nitric oxide
+T317	Chemical 13165 13168	DMH
+T318	Metabolite 13165 13168	DMH
+T319	Chemical 13190 13197	l -NAME
+T320	Biological_Activity 13266 13277	stimulation
+T321	Biological_Activity 13314 13324	antagonize
+R125	Associated_With Arg1:T319 Arg2:T321	
+T322	Protein 13345 13356	angiotensin
+T323	Chemical 13360 13374	norepinephrine
+T324	Metabolite 13360 13374	norepinephrine
+T325	Chemical 13495 13497	SA
+T326	Metabolite 13495 13497	SA
+T327	Biological_Activity 13515 13527	hypertension
+R126	Associated_With Arg1:T326 Arg2:T327	
+R127	Associated_With Arg1:T325 Arg2:T327	
+T328	Chemical 13590 13591	S
+T329	Protein 13624 13643	adrenergic receptor
+T330	Biological_Activity 13644 13651	agonsit
+R128	Associated_With Arg1:T328 Arg2:T330	
+T331	Protein 13680 13683;13703 13712	β 1 receptors
+T332	Protein 13696 13712	α 1  - receptors
+T333	Biological_Activity 13780 13787	pressor
+T334	Biological_Activity 7995 8002	Pressor
+R129	Associated_With Arg1:T169 Arg2:T334	
+R130	Associated_With Arg1:T171 Arg2:T334	
+R131	Associated_With Arg1:T173 Arg2:T334	
+T335	Chemical 13798 13800	SA
+T336	Metabolite 13798 13800	SA
+T337	Chemical 13805 13806	S
+R132	Associated_With Arg1:T336 Arg2:T333	
+R133	Associated_With Arg1:T335 Arg2:T333	
+R134	Associated_With Arg1:T337 Arg2:T333	
+T338	Chemical 13585 13589	drug
+T339	Biological_Activity 13863 13873	antagonist
+T340	Chemical 13874 13882	prazosin
+R135	Associated_With Arg1:T340 Arg2:T339	
+T341	Species 13927 13938	Casimiroa  
+T342	Species 13949 13952	rat
+T343	Protein 14055 14058;14066 14075	α - receptors
+T344	Protein 14063 14075	β -receptors
+T345	Chemical 14114 14122	prazosin
+T346	Chemical 14127 14138	propranolol
+T347	Protein 14178 14189	α -receptor
+T348	Chemical 14224 14237	phenylephrine
+T349	Chemical 14243 14259	m-OH isomer of S
+T350	Chemical 14258 14259	S
+T351	Species 14339 14350	Casimiroa  
+T352	Chemical 14350 14358	methanol
+T353	Chemical 9274 9283	compounds
+T354	Biological_Activity 14469 14478	depressor
+T355	Biological_Activity 14540 14552	antagonistic
+T356	Species 14589 14594	plant
+T357	Chemical 14685 14698	H derivatives
+T358	Metabolite 14685 14698	H derivatives
+T359	Chemical 14715 14726	amino acids
+T360	Metabolite 14715 14726	amino acids
+T361	Chemical 14957 14961	GABA
+T362	Species 14991 14994	rat
+T363	Chemical 15149 15150	P
+T364	Metabolite 15149 15150	P
+T365	Chemical 15155 15157	MP
+T366	Metabolite 15155 15157	MP
+T367	Chemical 15236 15240	GABA
+T368	Metabolite 14957 14961	GABA
+T369	Metabolite 15236 15240	GABA
+T370	Chemical 16830 16834	GABA
+T371	Metabolite 16830 16834	GABA
+T372	Chemical 8266 8268	MP
+T373	Metabolite 8266 8268	MP
+T374	Metabolite 8296 8298	MP
+T375	Chemical 8296 8298	MP
+T376	Chemical 8927 8929	MP
+T377	Metabolite 8927 8929	MP
+T378	Chemical 14745 14747	MP
+T379	Metabolite 14745 14747	MP
+T380	Chemical 15112 15114	MP
+T381	Metabolite 15112 15114	MP
+T382	Chemical 15289 15291	MP
+T383	Metabolite 15289 15291	MP
+T384	Chemical 15351 15362	amino acids
+T385	Chemical 15397 15404	peptide
+T386	Chemical 15482 15483	P
+T387	Metabolite 15482 15483	P
+T388	Biological_Activity 15515 15526	vasodilator
+T389	Chemical 15527 15535	peptides
+T390	Chemical 15536 15544	kallidin
+T391	Chemical 15549 15559	bradykinin
+R136	Associated_With Arg1:T390 Arg2:T388	
+R137	Associated_With Arg1:T391 Arg2:T388	
+T392	Chemical 15588 15591	CAS
+T393	Metabolite 15588 15591	CAS
+T394	Species 15615 15626	Casimiroa  
+R138	Isolated_From Arg1:T393 Arg2:T394	
+T395	Species 15694 15698	rats
+R139	Associated_With Arg1:T393 Arg2:T301	
+T396	Chemical 15902 15905	CAS
+R140	Associated_With Arg1:T392 Arg2:T301	
+T397	Metabolite 15902 15905	CAS
+R141	Associated_With Arg1:T397 Arg2:T305	
+R142	Associated_With Arg1:T396 Arg2:T305	
+T398	Species 16298 16302	rats
+T399	Species 16318 16329	guinea pigs
+T400	Protein 16389 16391	H3
+T401	Biological_Activity 16393 16400	agonist
+T402	Chemical 16401 16421	R-α -methylhistamine
+R143	Associated_With Arg1:T402 Arg2:T401	
+T403	Species 16514 16523	C. edulis
+T404	Chemical 16613 16616	MMH
+T405	Metabolite 16613 16616	MMH
+T406	Chemical 16621 16624	DMH
+T407	Metabolite 16621 16624	DMH
+T408	Protein 16641 16668	H1 -histaminergic receptors
+T409	Chemical 16808 16819	amino acids
+T410	Chemical 16820 16822	MP
+T411	Chemical 16824 16825	P
+T412	Metabolite 16820 16822	MP
+T413	Metabolite 16824 16825	P
+T414	Chemical 16269 16272	CAS
+T415	Metabolite 16269 16272	CAS
+T416	Chemical 16879 16882	CAS
+T417	Metabolite 16879 16882	CAS
+T418	Protein 16910 16937	H3 -histaminergic receptors
+T419	Chemical 16987 16989	SA
+T420	Metabolite 16987 16989	SA
+T421	Protein 17040 17043;17052 17062	α - adrenergic
+T422	Protein 17048 17062	β - adrenergic

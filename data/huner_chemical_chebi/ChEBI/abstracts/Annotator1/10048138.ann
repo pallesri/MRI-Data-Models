@@ -1,0 +1,42 @@
+T1	Chemical 0 11	Oxaliplatin
+T2	Chemical 23 32	cisplatin
+T3	Chemical 56 64	mannitol
+T4	Chemical 70 82	ormaplatin  
+T5	Chemical 143 150	Lactose
+T6	Chemical 196 207	oxaliplatin
+T7	Chemical 217 223	saline
+T8	Chemical 262 271	cisplatin
+T9	Chemical 276 286	ormaplatin
+T10	Biological_Activity 371 384	neurotoxicity
+T11	Chemical 623 633	ormaplatin
+T12	Chemical 636 645	cisplatin
+T13	Chemical 654 665	oxaliplatin
+T14	Chemical 687 695	platinum
+T15	Chemical 799 808	cisplatin
+T16	Chemical 811 822	oxaliplatin
+T17	Chemical 825 835	ormaplatin
+T18	Chemical 922 932	ormaplatin
+T19	Chemical 956 967	oxaliplatin
+T20	Chemical 970 979	cisplatin
+T21	Chemical 1025 1033	platinum
+T22	Chemical 1050 1060	ormaplatin
+T23	Chemical 1065 1076	oxaliplatin
+T24	Chemical 1086 1095	cisplatin
+T25	Chemical 1122 1132	ormaplatin
+T26	Biological_Activity 1145 1155	neurotoxic
+T27	Species 1195 1205	Wistar rat
+T28	Chemical 1263 1273	ormaplatin
+T29	Chemical 1278 1289	oxaliplatin
+T30	Biological_Activity 1299 1309	neurotoxic
+T31	Chemical 1315 1324	cisplatin
+T32	Biological_Activity 1334 1347	neurotoxicity
+T33	Chemical 1387 1395	platinum
+R1	Associated_With Arg1:T11 Arg2:T10	
+R2	Associated_With Arg1:T12 Arg2:T10	
+R3	Associated_With Arg1:T13 Arg2:T10	
+R4	Associated_With Arg1:T25 Arg2:T26	
+R5	Associated_With Arg1:T28 Arg2:T30	
+R6	Associated_With Arg1:T29 Arg2:T30	
+R7	Associated_With Arg1:T31 Arg2:T30	
+T35	Spectral_Data 750 767	mass spectrometry
+R11	Associated_With Arg1:T14 Arg2:T35	

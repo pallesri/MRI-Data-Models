@@ -1,0 +1,135 @@
+T1	Species 146 161	Plasmodium  spp
+T2	Species 175 196	Plasmodium falciparum
+T3	Biological_Activity 208 220	antimalarial
+T4	Chemical 230 241	chloroquine
+R1	Associated_With Arg1:T4 Arg2:T3	
+T5	Biological_Activity 267 279	antimalarial
+T6	Chemical 267 285	antimalarial drugs
+T7	Species 355 361	plants
+T8	Biological_Activity 395 407	antimalarial
+T9	Biological_Activity 411 422	antipyretic
+T10	Biological_Activity 647 661	antiplasmodial
+T11	Species 635 641	plants
+T12	Species 764 778	Andira inermis
+T13	Chemical 989 994	water
+T14	Chemical 1291 1302	isoflavones
+T15	Metabolite 1291 1302	isoflavones
+T16	Species 1482 1495	P. falciparum
+T17	Chemical 1670 1683	silica gel 60
+T18	Chemical 1827 1847	Nucleosil P 300 C-18
+T19	Chemical 1984 1994	acetone-D6
+T20	Chemical 2048 2051	TMS
+T21	Chemical 2178 2195	[3 H]hypoxanthine
+T22	Species 2313 2323	A. inermis
+T23	Chemical 2706 2721	petroleum ether
+T24	Chemical 2722 2735	ethyl acetate
+T25	Chemical 2843 2851	methanol
+T26	Chemical 2852 2857	water
+T27	Chemical 3067 3082	petroleum ether
+T28	Chemical 3083 3096	ethyl acetate
+T29	Chemical 3261 3274	silica gel 60
+T30	Chemical 3298 3309	cyclohexane
+T31	Chemical 3311 3322	cyclohexane
+T32	Chemical 3323 3336	ethyl acetate
+T33	Chemical 3351 3359	methanol
+T34	Species 3412 3425	P. falciparum
+T35	Chemical 3469 3480	cyclohexane
+T36	Chemical 3481 3494	ethyl acetate
+T37	Chemical 3627 3635	methanol
+T38	Chemical 3636 3641	water
+T39	Chemical 3745 3753	methanol
+T40	Chemical 3754 3759	water
+T41	Chemical 3846 3854	prunetin
+T42	Metabolite 3846 3854	prunetin
+R2	Isolated_From Arg1:T42 Arg2:T22	
+T43	Spectral_Data 3857 3945	EI-MS: m /z  (rel. int.)=284 (M+ , 100), 166 (35), 138 (22), 118 (15), 110 (10), 95 (13)
+R3	Associated_With Arg1:T42 Arg2:T43	
+R4	Associated_With Arg1:T41 Arg2:T43	
+T44	Spectral_Data 3947 4183	1 H-NMR (400 MHz, acetone-D6 ): δ  (ppm)=3.93 (3 H, s, CH3 O-7), 6.36 (1 H, d, J =2.3 Hz, H-6), 6.55 (1 H, d, J =2.4 Hz, H-8), 6.91 (2 H, d, J =8.5 Hz, H-3′,5′), 7.47 (2 H, d, J =8.5 Hz, H-2′,6′), 8.22 (1 H, s, H-2), 13.4 (1 H, s, OH-5)
+R5	Associated_With Arg1:T42 Arg2:T44	
+R6	Associated_With Arg1:T41 Arg2:T44	
+T45	Biological_Activity 4190 4204	Antiplasmodial
+T46	Chemical 4233 4244	chloroquine
+T47	Species 4265 4278;4337 4340	P. falciparum Dd2
+T48	Species 4265 4283	P. falciparum  poW
+T49	Species 4265 4278	P. falciparum
+T50	Chemical 4309 4320	chloroquine
+T51	Chemical 4471 4487	RPMI 1640 medium
+T52	Chemical 4512 4517	Hepes
+T53	Chemical 4525 4531	NaHCO3
+T54	Chemical 4615 4619	DMSO
+T55	Chemical 4648 4664	RPMI 1640 medium
+T56	Chemical 5010 5027	[3 H]hypoxanthine
+T57	Chemical 5130 5147	[3 H]hypoxanthine
+T58	Biological_Activity 5325 5335	inhibition
+T59	Biological_Activity 5467 5476	inhibited
+T60	Chemical 5690 5701	isoflavones
+T61	Metabolite 5690 5701	isoflavones
+T62	Metabolite 5770 5782	formononetin
+T63	Chemical 5770 5782	formononetin
+T64	Species 6394 6404	A. inermis
+R7	Isolated_From Arg1:T62 Arg2:T64	
+T65	Chemical 5897 5905	prunetin
+T66	Metabolite 5897 5905	prunetin
+R8	Isolated_From Arg1:T66 Arg2:T64	
+T67	Spectral_Data 5940 5967;6011 6035	1 H-NMR values for prunetin are given in Section 2.3
+T68	Chemical 5959 5967	prunetin
+T69	Metabolite 5959 5967	prunetin
+R9	Associated_With Arg1:T69 Arg2:T67	
+R10	Associated_With Arg1:T68 Arg2:T67	
+T70	Chemical 6092 6103	biochanin A
+T71	Metabolite 6092 6103	biochanin A
+T72	Chemical 6105 6114	calycosin
+T73	Metabolite 6105 6114	calycosin
+T74	Chemical 6116 6125	genistein
+T75	Metabolite 6116 6125	genistein
+T76	Chemical 6131 6141	pratensein
+T77	Metabolite 6131 6141	pratensein
+R11	Isolated_From Arg1:T71 Arg2:T64	
+R12	Isolated_From Arg1:T73 Arg2:T64	
+R13	Isolated_From Arg1:T75 Arg2:T64	
+R14	Isolated_From Arg1:T77 Arg2:T64	
+T78	Species 6485 6498	P. falciparum
+T79	Species 6485 6498;6657 6667	P. falciparum strain poW
+T80	Species 6485 6498;6731 6740	P. falciparum clone Dd2
+T81	Chemical 6635 6646	chloroquine
+T82	Chemical 6709 6720	chloroquine
+T83	Chemical 6742 6751	Calycosin
+T84	Metabolite 6742 6751	Calycosin
+T85	Chemical 6801 6810	genistein
+T86	Metabolite 6801 6810	genistein
+T87	Species 6989 6999	A. inermis
+T88	Biological_Activity 7022 7036	antiplasmodial
+T89	Chemical 7171 7182	isoflavones
+T90	Metabolite 7171 7182	isoflavones
+T91	Biological_Activity 7212 7226	antiplasmodial
+T92	Chemical 7239 7250	isoflavones
+T93	Metabolite 7239 7250	isoflavones
+T94	Species 7259 7272	P. falciparum
+T95	Chemical 6259 6267	Prunetin
+T96	Metabolite 6259 6267	Prunetin
+T97	Chemical 6274 6283	calycosin
+T98	Metabolite 6274 6283	calycosin
+T99	Chemical 6294 6304	pratensein
+T100	Metabolite 6294 6304	pratensein
+T101	Species 6358 6364	Andira
+R15	Associated_With Arg1:T84 Arg2:T88	
+R16	Associated_With Arg1:T86 Arg2:T88	
+R17	Associated_With Arg1:T83 Arg2:T88	
+R18	Associated_With Arg1:T85 Arg2:T88	
+T102	Chemical 7300 7309	calycosin
+T103	Metabolite 7300 7309	calycosin
+T104	Chemical 7314 7323	genistein
+T105	Metabolite 7314 7323	genistein
+T106	Biological_Activity 7372 7386	antiplasmodial
+T107	Chemical 7435 7444	calycosin
+T108	Metabolite 7435 7444	calycosin
+T109	Species 7478 7498	Giardia intestinalis
+T110	Chemical 7749 7760	isoflavones
+T111	Biological_Activity 7800 7814	antiplasmodial
+T112	Species 7832 7845	P. falciparum
+T113	Chemical 8164 8172	methanol
+T114	Chemical 8173 8178	water
+T115	Species 8189 8199	A. inermis
+T116	Biological_Activity 8214 8228	antiplasmodial
+T117	Chemical 8299 8304	water

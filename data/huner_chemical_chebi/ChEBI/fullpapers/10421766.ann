@@ -1,0 +1,170 @@
+T1	Protein 10 30	polyketide synthases
+T2	Protein 32 35	PKS
+T3	Chemical 99 133	16-membered  macrolide antibiotics
+T6	Biological_Activity 122 133	antibiotics
+T7	Chemical 144 154	methymycin
+T8	Chemical 156 170	erythromycin  
+T9	Chemical 174 181	tylosin
+R1	Associated_With Arg1:T7 Arg2:T6	
+R2	Associated_With Arg1:T8 Arg2:T6	
+R3	Associated_With Arg1:T9 Arg2:T6	
+T10	Protein 212 221	enzymes  
+T11	Chemical 265 290	polyketide  macrolactones
+T12	Chemical 367 382	acyl thioesters
+T13	Chemical 418 424	carbon
+T14	Chemical 476 486	polyketide
+T15	Chemical 510 517	monomer
+T16	Chemical 541 547	carbon
+T17	Protein 610 613	PKS
+T18	Biological_Activity 689 700	antibiotics
+T19	Chemical 101 133;87 89	-membered  macrolide antibiotics 12
+T4	Chemical 102 133;91 94	membered  macrolide antibiotics 14-
+T5	Chemical 689 700	antibiotics
+T20	Chemical 708 718	Picromycin
+T21	Chemical 824 832	ketolide
+T22	Chemical 849 857	HMR 3004
+T23	Chemical 890 900	macrolides
+T24	Species 924 933	pathogens
+T25	Chemical 947 959	erythromycin
+T26	Chemical 720 721	1
+R4	Associated_With Arg1:T20 Arg2:T18	
+R5	Associated_With Arg1:T22 Arg2:T18	
+T27	Chemical 1018 1028	picromycin
+T28	Protein 1029 1032	PKS
+T29	Chemical 1081 1097	ketolide analogs
+T30	Protein 1167 1170	PKS
+T31	Chemical 1223 1235	erythromycin
+T32	Protein 1236 1241	PKS  
+T33	Protein 1242 1273	6-deoxyerythronolide B synthase
+T34	Protein 1275 1279	DEBS
+T35	Species 1284 1308	Streptomyces  coelicolor
+T36	Protein 1373 1377	DEBS
+T37	Protein 1466 1470	DEBS
+T38	Species 1486 1512	Saccharopolyspora etythaea
+T39	Protein 1561 1564	PKS
+T40	Protein 1601 1604	PKS
+T41	Chemical 1745 1755	polyketide
+T42	Species 1767 1779	Streptomyces
+T43	Protein 1866 1869	PKS
+T44	Protein 1905 1909	DEBS
+T45	Protein 1937 1940	PKS
+T46	Chemical 2002 2012	picromycin
+T47	Species 2031 2054	Streptomyces venezuelae
+T48	Species 2190 2203	S. venezuelae
+T49	Metabolite 2221 2230	macrolide
+T50	Chemical 2221 2230	macrolide
+T51	Chemical 2280 2291	polyketides
+T52	Metabolite 2280 2291	polyketides
+T53	Metabolite 101 133;87 89	-membered  macrolide antibiotics 12
+T54	Metabolite 102 133;91 94	membered  macrolide antibiotics 14-
+T55	Metabolite 99 133	16-membered  macrolide antibiotics
+T56	Metabolite 144 154	methymycin
+T57	Metabolite 156 170	erythromycin  
+T58	Metabolite 174 181	tylosin
+R6	Associated_With Arg1:T56 Arg2:T6	
+R7	Associated_With Arg1:T57 Arg2:T6	
+R8	Associated_With Arg1:T58 Arg2:T6	
+T59	Metabolite 476 486	polyketide
+T60	Metabolite 1223 1235	erythromycin
+T61	Metabolite 1745 1755	polyketide
+T62	Metabolite 708 718	Picromycin
+R9	Associated_With Arg1:T62 Arg2:T18	
+T63	Chemical 2345 2366	14-membered macrolide
+T64	Chemical 2367 2377	picromycin
+T65	Metabolite 2367 2377	picromycin
+T66	Chemical 2388 2409	12-membered macrolide
+T67	Metabolite 2388 2409	12-membered macrolide
+T68	Metabolite 2345 2366	14-membered macrolide
+T69	Chemical 2379 2380	l
+T70	Metabolite 2379 2380	l
+T71	Metabolite 2410 2420	methymycin
+T72	Chemical 2410 2420	methymycin
+T73	Chemical 2422 2423	2
+T74	Metabolite 2422 2423	2
+R10	Isolated_From Arg1:T65 Arg2:T48	
+R11	Isolated_From Arg1:T65 Arg2:T48	
+R12	Isolated_From Arg1:T70 Arg2:T48	
+R13	Isolated_From Arg1:T71 Arg2:T48	
+R14	Isolated_From Arg1:T74 Arg2:T48	
+R15	Isolated_From Arg1:T52 Arg2:T48	
+T75	Chemical 5986 5996	picromycin
+T76	Metabolite 5986 5996	picromycin
+T77	Chemical 5997 6007	methymycin
+T78	Metabolite 5997 6007	methymycin
+T79	Protein 6008 6027	polyketide synthase
+T80	Protein 6244 6263	polyketide synthase
+T81	Protein 6265 6268	PKS
+T82	Chemical 6325 6357	14-membered macrolide antibiotic
+T83	Metabolite 6325 6357	14-membered macrolide antibiotic
+T84	Chemical 6358 6368	picromycin
+T85	Metabolite 6358 6368	picromycin
+T86	Biological_Activity 6347 6357	antibiotic
+T87	Chemical 6377 6409	12-membered macrolide antibiotic
+T88	Metabolite 6377 6409	12-membered macrolide antibiotic
+T89	Biological_Activity 6399 6409	antibiotic
+T90	Chemical 6410 6420	methymycin
+T91	Metabolite 6410 6420	methymycin
+T92	Species 6424 6449	Streptomyces Venezuelas .
+T93	Chemical 6533 6545	erythromycin
+T94	Metabolite 6533 6545	erythromycin
+T95	Protein 6546 6549	PKS
+T96	Chemical 6599 6609	picromycin
+T97	Metabolite 6599 6609	picromycin
+T98	Chemical 6610 6620	methymycin
+T99	Metabolite 6610 6620	methymycin
+T100	Protein 6621 6624	PKS
+T101	Protein 6687 6690	PKS
+T102	Protein 6736 6739	PKS
+T103	Protein 6754 6766	thioesterase
+T104	Protein 6775 6780	pikTE
+T105	Protein 6790 6798	Pik TEII
+T106	Protein 6799 6811	thioesterase
+T107	Chemical 6866 6876	polyketide
+T108	Metabolite 6866 6876	polyketide
+T109	Chemical 6905 6915	picromycin
+T110	Metabolite 6905 6915	picromycin
+T111	Chemical 6916 6926	methymycin
+T112	Metabolite 6916 6926	methymycin
+T113	Protein 6927 6930	PKS
+T114	Species 6990 7011	Streptomyces lividans
+T115	Chemical 7046 7057	narbonolide
+T116	Metabolite 7046 7057	narbonolide
+T117	Chemical 7062 7081	10-deoxymethynolide
+T118	Metabolite 7062 7081	10-deoxymethynolide
+T119	Chemical 7101 7111	picromycin
+T120	Metabolite 7101 7111	picromycin
+T121	Chemical 7116 7126	methymycin
+T122	Metabolite 7116 7126	methymycin
+R16	Isolated_From Arg1:T116 Arg2:T114	
+R17	Isolated_From Arg1:T118 Arg2:T114	
+R18	Metabolite_Of Arg1:T120 Arg2:T115	
+R19	Metabolite_Of Arg1:T122 Arg2:T117	
+T123	Protein 7166 7174	Pik TEII
+T124	Protein 7175 7187	thioesterase
+T125	Chemical 7264 7273	compounds
+T126	Protein 7313 7320	protein
+T127	Protein 7352 7355	PKS
+T128	Protein 7356 7368	thioesterase
+T129	Protein 7377 7382	pikTE
+T130	Protein 7387 7418	6-deoxyerythronolide B synthase
+T131	Protein 7420 7424	DEBS
+T132	Chemical 7456 7481	14-membered macrolactones
+T133	Metabolite 7456 7481	14-membered macrolactones
+T134	Protein 7535 7538	PKS
+T135	Chemical 7600 7625	12-membered macrolactones
+T136	Metabolite 7600 7625	12-membered macrolactones
+T137	Chemical 7592 7595;7603 7625	14- membered macrolactones
+T138	Metabolite 7592 7595;7603 7625	14- membered macrolactones
+T139	Chemical 7663 7675	macrolactone
+T140	Metabolite 7663 7675	macrolactone
+T141	Chemical 7777 7787	picromycin
+T142	Metabolite 7777 7787	picromycin
+T143	Protein 7788 7791	PKS
+T144	Protein 7827 7832	pikTE
+T145	Chemical 7853 7867	erythromycin  
+T146	Metabolite 7853 7867	erythromycin  
+T147	Chemical 7867 7879	methymycin  
+T148	Metabolite 7867 7879	methymycin  
+T149	Chemical 7879 7891	picromycin  
+T150	Metabolite 7879 7891	picromycin  
+T151	Protein 7890 7915	 polyketide  thioesterase

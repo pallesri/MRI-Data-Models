@@ -1,0 +1,73 @@
+T1	Species 3 11	starfish
+T2	Biological_Activity 48 55	hormone
+T3	Chemical 57 72	1-methyladenine
+T4	Metabolite 57 72	1-methyladenine
+R1	Isolated_From Arg1:T4 Arg2:T1	
+T5	Chemical 74 78	1-MA
+T6	Metabolite 74 78	1-MA
+R2	Isolated_From Arg1:T6 Arg2:T1	
+T7	Protein 100 109	receptors
+T9	Biological_Activity 87 92	binds
+R7	Associated_With Arg1:T4 Arg2:T9	
+R8	Associated_With Arg1:T3 Arg2:T9	
+R9	Associated_With Arg1:T6 Arg2:T9	
+R10	Associated_With Arg1:T5 Arg2:T9	
+T10	Chemical 178 182	1-MA
+T11	Metabolite 178 182	1-MA
+T12	Biological_Activity 183 193	stimulates
+T13	Protein 213 222	G protein
+T14	Protein 278 287	G protein
+T15	Protein 308 324	pertussis  toxin
+T16	Protein 257 287	betagamma subunit of G protein
+T17	Protein 289 299	Gbetagamma
+T18	Protein 335 356	Gi-type alpha subunit
+T19	Protein 389 399	Gbetagamma
+T22	Protein 422 432	Gbetagamma
+T23	Chemical 413 417	1-MA
+T24	Metabolite 413 417	1-MA
+T26	Protein 504 511	protein
+T28	Metabolite 549 553	1-MA
+T29	Chemical 549 553	1-MA
+T30	Protein 783 790	protein
+T31	Protein 625 632	protein
+T33	Chemical 660 674	serine residue
+T34	Chemical 708 712	1-MA
+T35	Metabolite 708 712	1-MA
+T36	Protein 716 726	Gbetagamma
+T37	Protein 732 742	Gbetagamma
+T39	Chemical 808 818	wortmannin
+T40	Chemical 822 830	LY294002
+T41	Protein 882 911	phosphatidylinositol 3-kinase
+T43	Protein 913 917	PI3K
+T47	Chemical 920 928	LY294002
+T48	Protein 944 954	Gbetagamma
+T51	Chemical 967 971	1-MA
+T52	Metabolite 967 971	1-MA
+T53	Protein 1059 1066	protein
+T54	Protein 1091 1101	Gbetagamma
+T55	Protein 1106 1110	PI3K
+T56	Chemical 1145 1149	1-MA
+T57	Metabolite 1145 1149	1-MA
+T58	Species 1158 1166	starfish
+R25	Associated_With Arg1:T4 Arg2:T2	
+R26	Associated_With Arg1:T3 Arg2:T2	
+R27	Associated_With Arg1:T11 Arg2:T12	
+R28	Associated_With Arg1:T10 Arg2:T12	
+T62	Protein 1220 1227	protein
+T21	Biological_Activity 795 804	inhibited
+R11	Associated_With Arg1:T39 Arg2:T21	
+R12	Associated_With Arg1:T40 Arg2:T21	
+T25	Biological_Activity 868 878	inhibitors
+R13	Associated_With Arg1:T39 Arg2:T25	
+R14	Associated_With Arg1:T40 Arg2:T25	
+T27	Biological_Activity 934 943	inhibited
+R15	Associated_With Arg1:T47 Arg2:T27	
+R16	Binds_With Arg1:T4 Arg2:T7	
+R21	Binds_With Arg1:T3 Arg2:T7	
+R22	Binds_With Arg1:T6 Arg2:T7	
+R23	Binds_With Arg1:T5 Arg2:T7	
+R3	Binds_With Arg1:T39 Arg2:T41	
+R4	Binds_With Arg1:T39 Arg2:T43	
+R5	Binds_With Arg1:T40 Arg2:T41	
+R6	Binds_With Arg1:T40 Arg2:T43	
+T8	Biological_Activity 1266 1286	maturation-promoting

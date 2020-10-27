@@ -1,0 +1,14 @@
+T1	Disease 124 135	lung cancer
+T2	Disease 174 179	tumor
+T3	Disease 277 282	tumor
+T4	Disease 581 592	lung cancer
+T5	Disease 647 655	toxicity
+T6	Disease 777 787	lung tumor
+T7	Plant 14 21	ginseng
+T9	Plant 69 80	red ginseng
+T12	Plant 232 239	ginseng
+T14	Plant 321 328	ginseng
+T16	Plant 508 519	red ginseng
+T20	Plant 676 683	ginseng
+T8	Treatment_of_disease 746 756	prevention
+E1	Treatment_of_disease:T8 Theme:T6 Cause:T20

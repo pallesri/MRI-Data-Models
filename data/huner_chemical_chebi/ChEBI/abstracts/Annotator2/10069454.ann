@@ -1,0 +1,48 @@
+T1	Protein 0 28	DNA-dependent protein kinase
+T2	Protein 30 36	DNA-PK
+T3	Chemical 47 57	ADP-ribose
+T4	Chemical 42 58	poly(ADP-ribose)
+T5	Protein 42 69	poly(ADP-ribose) polymerase
+T6	Protein 71 75	PARP
+T7	Chemical 216 226	wortmannin
+T8	Chemical 228 230	WM
+T9	Biological_Activity 187 197	inhibitors
+T10	Protein 248 254	DNA-PK
+T12	Chemical 260 294	8-hydroxy-2-methylquinazolin-4-one
+T13	Chemical 296 302	NU1025
+T14	Protein 307 311	PARP
+T16	Biological_Activity 312 321	inhibitor
+R5	Associated_With Arg1:T13 Arg2:T16	
+R6	Associated_With Arg1:T12 Arg2:T16	
+T17	Species 417 432	Chinese hamster
+T18	Chemical 497 509	temozolomide
+T19	Chemical 511 513	WM
+T20	Chemical 529 535	NU1025
+T21	Biological_Activity 565 577	cytotoxicity
+R7	Associated_With Arg1:T20 Arg2:T21	
+R8	Associated_With Arg1:T19 Arg2:T21	
+T22	Chemical 755 757	WM
+T23	Chemical 761 767	NU1025
+T25	Biological_Activity 914 923	inhibitor
+T26	Biological_Activity 887 897	inhibitors
+T27	Chemical 1133 1135	WM
+T28	Chemical 1139 1145	NU1025
+T30	Chemical 1340 1342	WM
+T31	Chemical 1408 1414	NU1025
+T33	Chemical 1464 1470	NU1025
+T34	Biological_Activity 1544 1553	inhibitor
+T35	Biological_Activity 1870 1879	inhibitor
+T36	Biological_Activity 1682 1692	inhibitors
+T37	Biological_Activity 239 247	inhibits
+R14	Associated_With Arg1:T8 Arg2:T37	
+R15	Associated_With Arg1:T7 Arg2:T37	
+T24	Biological_Activity 784 796	cytotoxicity
+T38	Chemical 800 812	temozolomide
+R9	Associated_With Arg1:T38 Arg2:T24	
+R10	Associated_With Arg1:T23 Arg2:T24	
+R16	Associated_With Arg1:T22 Arg2:T24	
+T39	Protein 207 214	enzymes
+R17	Binds_With Arg1:T7 Arg2:T10	
+R18	Binds_With Arg1:T8 Arg2:T10	
+R1	Binds_With Arg1:T13 Arg2:T14	
+R2	Binds_With Arg1:T12 Arg2:T14	

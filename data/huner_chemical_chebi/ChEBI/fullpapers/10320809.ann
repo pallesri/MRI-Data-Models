@@ -1,0 +1,563 @@
+T1	Protein 63 75	transacylase
+T2	Biological_Activity 63 75	transacylase
+T3	Chemical 122 132	acyl group
+T4	Chemical 138 173	1-acyl-sn -glycero-3-phosphocholine
+T5	Chemical 175 185	1-acyl-GPC
+T6	Chemical 211 221	1-acyl-GPC
+T7	Chemical 233 252	phosphatidylcholine
+T8	Chemical 254 256	PC
+T9	Protein 276 282	enzyme
+T10	Species 288 291	rat
+T11	Protein 351 363	transacylase
+T12	Biological_Activity 351 363	transacylase
+T13	Protein 398 415	lysophospholipase
+T14	Biological_Activity 398 415	lysophospholipase
+T15	Chemical 465 467	PC
+T16	Protein 562 580	lysophospholipases
+T17	Protein 653 683	lysophospholipase-transacylase
+T18	Protein 756 767	acyl-enzyme
+T19	Protein 779 785	enzyme
+T20	Protein 796 826	Lysophospholipase-transacylase
+T21	Protein 949 955	enzyme
+T22	Chemical 989 999	amino acid
+T23	Chemical 1019 1024	amino
+T24	Species 1071 1087	Escherichia coli
+T25	Protein 1089 1103	asparaginase I
+T26	Chemical 1143 1154	Thr-Asp-Lys
+T27	Chemical 1172 1179	leucine
+T28	Chemical 1198 1206	carboxyl
+T29	Protein 1237 1244	ankyrin
+T30	Protein 1321 1338	lysophospholipase
+T31	Protein 1347 1359	transacylase
+T32	Biological_Activity 1347 1359	transacylase
+T33	Chemical 1423 1434	amino acids
+T34	Protein 1444 1475	Gly-X-Ser-X-Gly esterase/lipase
+T35	Chemical 1510 1513	Ser
+T36	Chemical 1518 1521	Asp
+T37	Chemical 1526 1529	His
+T38	Species 1581 1584	rat
+T39	Protein 1598 1628	lysophospholipase-transacylase
+T40	Chemical 1645 1662	palmitoyl residue
+T41	Chemical 1668 1683	1-palmitoyl-GPC
+T42	Chemical 1708 1723	1-palmitoyl-GPC
+T43	Chemical 1737 1760	2-palmitoyl-sn -glycero
+T44	Chemical 1773 1792	2-palmitoylglycerol
+T45	Chemical 1805 1824	1,2-dipalmitoyl-GPC
+T46	Chemical 1829 1852	1,2-dipalmitoylglycerol
+T47	Protein 1951 1957	enzyme
+T48	Biological_Activity 1920 1934	transacylation
+T49	Protein 2013 2019	enzyme
+T50	Chemical 2047 2076	unsaturated fatty acyl chains
+T51	Chemical 2033 2042;2059 2076	saturated fatty acyl chains
+T52	Chemical 2082 2092	1-acyl-GPC
+T53	Chemical 2132 2146	acyl acceptors
+T54	Chemical 2161 2171	2-acyl-GPC
+T55	Chemical 2197 2210	acyl acceptor
+T56	Protein 2226 2232	enzyme
+T57	Chemical 2249 2269	arachidonoyl residue
+T58	Chemical 2301 2312	donor lipid
+T59	Chemical 2342 2356	acceptor lipid
+T60	Protein 2367 2373	enzyme
+T61	Chemical 2393 2411	2-arachidonoyl-GPC
+T62	Chemical 2413 2429	arachidonic acid
+T63	Chemical 2467 2485	2-arachidonoyl-GPC
+T64	Chemical 2509 2527	2-arachidonoyl-GPC
+T65	Chemical 2539 2561	1,2-diarachidonoyl-GPC
+T66	Chemical 2603 2633	lysophospholipase-transacylase
+T67	Chemical 2660 2677	1-arachidonoyl PC
+T68	Chemical 2747 2757	anandamide
+T69	Metabolite 2747 2757	anandamide
+T70	Protein 2719 2738	cannabinol receptor
+T71	Chemical 2719 2729	cannabinol
+T72	Chemical 2807 2822	1-Palmitoyl-GPC
+T73	Chemical 2893 2938	1-Palmitoyl-sn -glycero-3-phosphoethanolamine
+T74	Chemical 2940 2955	1-palmitoyl-GPE
+T75	Chemical 2958 3000	1-acyl-sn -glycero-3-phospho-myo -inositol
+T76	Chemical 3002 3012	1-acyl-GPI
+T77	Chemical 3019 3053	1-acyl-sn -glycero-3-phosphoserine
+T78	Chemical 3055 3065	1-acyl-GPS
+T79	Chemical 3090 3096	Lipids
+T80	Chemical 3119 3148	1-Stearoyl-2-arachidonoyl-GPC
+T81	Chemical 3153 3158;3165 3182	1(3)- palmitoylglycerol
+T82	Chemical 3163 3182	2-palmitoylglycerol
+T83	Chemical 3221 3229	Glycerol
+T84	Chemical 3270 3291	1-[14 C]Palmitoyl-GPC
+T85	Chemical 3307 3342	1-stearoyl-2-[14 C]arachidonoyl-GPC
+T86	Chemical 3362 3395	1-palmitoyl-2-[14 C]palmitoyl-GPC
+T87	Chemical 3435 3445	Silica Gel
+T88	Species 3503 3520	Rhizopus arrhizus
+T89	Protein 3503 3528	Rhizopus arrhizus  lipase
+T90	Chemical 3589 3607;3633 3636	2-[14 C]palmitoyl- GPC
+T91	Chemical 3612 3636	2-[14 C]arachidonoyl-GPC
+T92	Chemical 3662 3695	1-palmitoyl-2-[14 C]palmitoyl-GPC
+T93	Chemical 3715 3750	1-stearoyl-2-[14 C]arachidonoyl-GPC
+T94	Species 3784 3795	R. arrhizus
+T95	Protein 3784 3803	R. arrhizus  lipase
+T96	Chemical 3847 3852	CaCl2
+T97	Chemical 3864 3876	Triton X-100
+T98	Chemical 3906 3924;3950 3953	2-[14 C]Palmitoyl- GPC
+T99	Chemical 3929 3953	2-[14 C]arachidonoyl-GPC
+T100	Chemical 3983 3993	chloroform
+T101	Chemical 3994 4002	methanol
+T102	Chemical 4091 4101	chloroform
+T103	Chemical 4102 4110	methanol
+T104	Chemical 4111 4118	ammonia
+T105	Chemical 4119 4124	water
+T106	Chemical 4161 4168	solvent
+T107	Chemical 4173 4183	chloroform
+T108	Chemical 4184 4191	acetone
+T109	Chemical 4192 4200	methanol
+T110	Chemical 4201 4212	acetic acid
+T111	Chemical 4213 4218	water
+T112	Chemical 4259 4266	solvent
+T113	Chemical 4292 4310;4333 4336	2-[14 C]palmitoyl- GPC
+T114	Chemical 4314 4336	[14 C]arachidonoyl-GPC
+T115	Chemical 4397 4405	methanol
+T116	Chemical 4443 4448	water
+T117	Chemical 4550 4554	acyl
+T118	Protein 4571 4577	Enzyme
+T119	Protein 4608 4638	lysophospholipase-transacylase
+T120	Species 4657 4660	rat
+T121	Chemical 4740 4745	butyl
+T122	Protein 4808 4814	enzyme
+T123	Protein 4891 4897	enzyme
+T124	Chemical 4911 4919	Glycerol
+T125	Chemical 4946 4963	dimethylsulfoxide
+T126	Protein 5001 5018	Lysophospholipase
+T127	Biological_Activity 5001 5018	Lysophospholipase
+T128	Chemical 5098 5102	Acyl
+T129	Protein 5163 5169	enzyme
+T130	Chemical 5255 5276	1-[14 C]palmitoyl-GPC
+T131	Chemical 5297 5307	acyl donor
+T132	Chemical 5344 5352	glycerol
+T133	Chemical 5356 5374	2-palmitoylglycero
+T134	Chemical 5379 5392	acyl acceptor
+T135	Chemical 5440 5450	chloroform
+T136	Chemical 5451 5459	methanol
+T137	Chemical 5526 5531	water
+T138	Chemical 5743 5753	chloroform
+T139	Chemical 5754 5762	methanol
+T140	Chemical 5822 5839	acylation product
+T141	Chemical 5843 5851	glycerol
+T142	Chemical 5871 5878	solvent
+T143	Chemical 5906 5916	chloroform
+T144	Chemical 5917 5925	methanol
+T145	Chemical 5926 5933	ammonia
+T146	Chemical 5934 5939	water
+T147	Chemical 5982 5992	chloroform
+T148	Chemical 5993 6000	acetone
+T149	Chemical 6001 6010	methanol/
+T150	Chemical 6010 6021	acetic acid
+T151	Chemical 6022 6027	water
+T152	Chemical 6060 6077	acylation product
+T153	Chemical 6081 6100	2-palmitoylglycerol
+T154	Chemical 6120 6127	solvent
+T155	Chemical 6156 6165	n -hexane
+T156	Chemical 6166 6179	diethyl ether
+T157	Chemical 6180 6191	acetic acid
+T158	Chemical 6232 6242	chloroform
+T159	Chemical 6243 6251	methanol
+T160	Chemical 6252 6259	ammonia
+T161	Chemical 6260 6265	water
+T162	Chemical 6295 6301	lipids
+T163	Chemical 6391 6398	toluene
+T164	Chemical 6399 6411	Triton X-100
+T165	Chemical 6534 6551	palmitoylglycerol
+T166	Chemical 6573 6579	borate
+T167	Chemical 6592 6602	silica gel
+T168	Chemical 6616 6626	chloroform
+T169	Chemical 6627 6634	acetone
+T170	Chemical 6670 6677	solvent
+T171	Chemical 6690 6694	Acyl
+T172	Chemical 6743 6749	enzyme
+T173	Chemical 6776 6797	1-[14 C]palmitoyl-GPC
+T174	Chemical 6801 6811	acyl donor
+T175	Chemical 6823 6838	1-palmitoyl-GPE
+T176	Chemical 6840 6850	1-acyl-GPI
+T177	Chemical 6855 6865	1-acyl-GPS
+T178	Chemical 6869 6882	acyl acceptor
+T179	Chemical 6942 6948	lipids
+T180	Chemical 7011 7018	solvent
+T181	Chemical 7055 7059	Acyl
+T182	Protein 7144 7150	enzyme
+T183	Chemical 7177 7198	2-[14 C]palmitoyl-GPC
+T184	Chemical 7220 7244	2-[14 C]arachidonoyl-GPC
+T185	Chemical 7330 7337	solvent
+T186	Chemical 7409 7444	1-stearoyl-2-[14 C]arachidonoyl-GPC
+T187	Chemical 7462 7478	1,2-dioleoyl-GPE
+T188	Species 7512 7523	R. arrhizus
+T189	Protein 7512 7531	R. arrhizus  lipase
+T190	Chemical 7584 7592	Tris-HCl
+T191	Chemical 7608 7613	CaCl2
+T192	Chemical 7626 7638	Triton X-100
+T193	Protein 7694 7724	lysophospholipase-transacylase
+T194	Chemical 7741 7750	phosphate
+T195	Chemical 7840 7846	Lipids
+T196	Chemical 7882 7889	solvent
+T197	Chemical 8055 8059	Acyl
+T198	Chemical 8068 8076	glycerol
+T199	Chemical 8081 8095	2-acylglycerol
+T200	Chemical 8101 8111	1-acyl-GPC
+T201	Protein 8149 8179	lysophospholipase-transacylase
+T202	Chemical 8199 8220	1-[14 C]palmitoyl-GPC
+T203	Chemical 8243 8259	monoacylglycerol
+T204	Chemical 8315 8328	palmitic acid
+T205	Chemical 8333 8348	dipalmitoyl-GPC
+T206	Protein 8377 8383	enzyme
+T207	Chemical 8398 8406	glycerol
+T208	Chemical 8453 8469	monoacylglycerol
+T209	Chemical 8491 8495	acyl
+T210	Chemical 8504 8512	glycerol
+T211	Protein 8530 8536	enzyme
+T212	Chemical 8596 8604	glycerol
+T213	Chemical 8645 8660	monoacylglycero
+T214	Chemical 8708 8724	monoacylglycerol
+T215	Chemical 8767 8775	glycerol
+T216	Chemical 8833 8849	monoacylglycerol
+T217	Chemical 8882 8890	glycerol
+T218	Chemical 8930 8946	monoacylglycerol
+T219	Chemical 8997 9005	glycerol
+T220	Species 9017 9020	rat
+T221	Chemical 9066 9070	acyl
+T222	Chemical 9079 9087	glycerol
+T223	Chemical 9091 9097	lysoPC
+T224	Chemical 9171 9177	carbon
+T225	Chemical 9185 9193	glycerol
+T226	Chemical 9234 9251	palmitoylglycerol
+T227	Chemical 9264 9285	1-[14 C]palmitoyl-GPC
+T228	Chemical 9290 9298	glycerol
+T229	Chemical 9304 9310	borate
+T230	Chemical 9323 9335	silicic acid
+T231	Chemical 9360 9368;9375 9383	sn -1(3) -isomer.
+T232	Chemical 9374 9383	2-isomer.
+T233	Chemical 9384 9406	1(3)-Palmitoylglycerol
+T234	Chemical 9433 9452	2-palmitoylglycerol
+T235	Chemical 9461 9471	boric acid
+T236	Chemical 9495 9508	hydroxy group
+T237	Chemical 9550 9571	1-[14 C]palmitoyl-GPC
+T238	Chemical 9576 9584	glycerol
+T239	Chemical 9607 9629	1(3)-palmitoylglycerol
+T240	Chemical 9636 9644	glycerol
+T241	Protein 9691 9697	enzyme
+T242	Chemical 9649 9653	acyl
+T243	Chemical 9704 9723	2-palmitoylglycerol
+T244	Chemical 9736 9749	acyl acceptor
+T245	Chemical 9751 9774	1,2-dipalmitoylglycerol
+T246	Chemical 9800 9823	1,3-Dipalmitoylglycerol
+T247	Chemical 9859 9882	1,2-Dipalmitoylglycerol
+T248	Chemical 9917 9936	2-palmitoylglycerol
+T250	Chemical 10051 10070	2-palmitoylglycerol
+T251	Chemical 10018 10022	Mg2+
+T249	Chemical 10080 10084	Mg2+
+T252	Chemical 10097 10115	1,2-diacylglycerol
+T253	Chemical 10137 10139	PC
+T254	Protein 10164 10194	lysophospholipase-transacylase
+T255	Chemical 10231 10235	acyl
+T256	Chemical 10255 10265	1-acyl-GPC
+T257	Chemical 10266 10274	glycerol
+T258	Chemical 10275 10292	1(3)-acylglycerol
+T259	Chemical 10293 10296	GPC
+T260	Chemical 10300 10310	1-acyl-GPC
+T261	Chemical 10311 10325	2-acylglycerol
+T262	Chemical 10326 10344	1,2-diacylglycerol
+T263	Chemical 10345 10348	GPC
+T264	Chemical 10359 10363	Acyl
+T265	Chemical 10372 10396	1-acyl lysophospholipids
+T266	Chemical 10402 10412	1-acyl-GPC
+T267	Chemical 10503 10527	1-acyl lysophospholipids
+T268	Chemical 10531 10544	acyl acceptor
+T269	Protein 10466 10472	enzyme
+T270	Protein 10559 10565	enzyme
+T271	Chemical 10585 10606	1-[14 C]palmitoyl-GPC
+T272	Chemical 10618 10642	1-acyl lysophospholipids
+T273	Chemical 10644 10659	1-palmitoyl-GPE
+T274	Chemical 10661 10671	1-acyl-GPI
+T275	Chemical 10676 10686	1-acyl-GPS
+T276	Chemical 10788 10809	1-[14 C]palmitoyl-GPC
+T277	Chemical 10866 10887	[14 C]dipalmitoyl-GPC
+T278	Chemical 10913 10934	1-[14 C]palmitoyl-GPC
+T279	Chemical 10954 10969	1-palmitoyl-GPE
+T280	Chemical 10971 10981	1-acyl-GPI
+T281	Chemical 10986 10996	1-acyl-GPS
+T282	Chemical 10998 11006	[14 C]PC
+T283	Chemical 11045 11077	1-palmitoyl-2[14 C]palmitoyl-GPE
+T284	Chemical 11079 11107	1-acyl-2-[14 C]palmitoyl-GPI
+T285	Chemical 11113 11141	1-acyl-2-[14 C]palmitoyl-GPS
+T286	Chemical 11167 11171	acyl
+T287	Chemical 11182 11184	PC
+T288	Chemical 11185 11187	PE
+T289	Chemical 11189 11191	PC
+T290	Chemical 11192 11194	PI
+T291	Chemical 11200 11202	PC
+T292	Chemical 11203 11205	PS
+T293	Chemical 11233 11250	lysophospholipids
+T294	Biological_Activity 11286 11297	transferase
+T295	Protein 11286 11297	transferase
+T296	Chemical 11310 11327	lysophospholipids
+R1	Associated_With Arg1:T296 Arg2:T294	
+T297	Chemical 11343 11351	[14 C]PE
+T298	Chemical 11390 11398	[14 C]PC
+T299	Chemical 11416 11431	1-palmitoyl-GPE
+T300	Chemical 11450 11463	acyl acceptor
+T301	Chemical 11479 11489	1-acyl-GPI
+T302	Chemical 11494 11504	1-acyl-GPS
+T303	Chemical 11518 11531	acyl acceptor
+T304	Chemical 11552 11560	[14 C]PI
+T305	Chemical 11565 11573	[14 C]PS
+T306	Chemical 11605 11615	1-acyl-GPI
+T307	Chemical 11620 11630	1-acyl-GPS
+T308	Chemical 11648 11661	acyl acceptor
+T309	Chemical 11747 11764	lysophospholipids
+T310	Chemical 11768 11781	acyl acceptor
+T311	Chemical 11800 11815	1-palmitoyl-GPC
+T312	Chemical 11816 11831	1-palmitoyl-GPE
+T313	Chemical 11832 11842	1-acyl-GPI
+T314	Chemical 11843 11853	1-acyl-GPS
+T315	Biological_Activity 11913 11923	hydrolytic
+T316	Protein 11940 11946	enzyme
+T317	Protein 11963 11969	enzyme
+T318	Chemical 12021 12031	1-acyl-GPC
+T319	Chemical 12032 12042	1-acyl-GPX
+T320	Chemical 12044 12047	GPC
+T321	Chemical 12048 12051	GPE
+T322	Chemical 12052 12055	GPI
+T323	Chemical 12056 12059	GPS
+T324	Chemical 12061 12075	1,2-diacyl-GPX
+T325	Chemical 12077 12080	GPC
+T326	Chemical 12081 12084	GPE
+T327	Chemical 12085 12088	GPI
+T328	Chemical 12089 12092	GPS
+T329	Chemical 12094 12097	GPX
+T330	Chemical 12099 12102	GPC
+T331	Chemical 12103 12106	GPE
+T332	Chemical 12107 12110	GPI
+T333	Chemical 12111 12114	GPS
+T334	Chemical 12126 12130	Acyl
+T335	Chemical 12139 12149	2-acyl-GPC
+T336	Chemical 12155 12165	2-acyl-GPC
+T337	Protein 12224 12230	enzyme
+T338	Chemical 12240 12250	2-acyl-GPC
+T339	Chemical 12281 12301;12325 12328	2-[14 C]arachidonoyl GPC
+T340	Chemical 12307 12328	2-[14 C]palmitoyl-GPC
+T341	Chemical 12334 12369	1-stearoyl-2-[14 C]arachidonoyl-GPC
+T342	Chemical 12374 12407	1-palmitoyl-2-[14 C]palmitoyl-GPC
+T343	Species 12441 12452	R. arrhizus
+T344	Protein 12441 12460	R. arrhizus  lipase
+T345	Chemical 12497 12509	acyl residue
+T346	Chemical 12513 12526	phospholipids
+T347	Chemical 12532 12542	2-acyl-GPC
+T348	Chemical 12603 12613	2-acyl-GPC
+T349	Chemical 12656 12669	1-acyl isomer
+T350	Chemical 12674 12678	acyl
+T351	Chemical 12712 12722	2-acyl-GPC
+T352	Protein 12773 12779	enzyme
+T353	Chemical 12799 12823	2-[14 C]arachidonoyl-GPC
+T354	Chemical 12827 12848	2-[14 C]palmitoyl-GPC
+T355	Chemical 12951 12961	fatty acid
+T356	Protein 13016 13022	enzyme
+T358	Chemical 13041 13046	ester
+T357	Chemical 13099 13114	2-palmitoyl-GPC
+T359	Chemical 13170 13182	sn -1 isomer
+T360	Chemical 13184 13202	2-Arachidonoyl-GPC
+T361	Chemical 13260 13270	fatty acid
+T362	Chemical 13272 13274	PC
+T363	Chemical 13279 13295	monoacylglycerol
+T364	Chemical 13363 13373	2-acyl-GPC
+T365	Chemical 13398 13408	2-acyl-GPC
+T366	Chemical 13410 13426	Monoacylglycerol
+T367	Chemical 13461 13471	2-acyl-GPC
+T368	Chemical 13475 13483	glycerol
+T369	Protein 13501 13507	enzyme
+R2	Binds_With Arg1:T368 Arg2:T369	
+T370	Chemical 13509 13530	1,2-Diarachidonoyl PC
+T371	Chemical 13569 13587	2-arachidonoyl-GPC
+T372	Chemical 13663 13677	dipalmitoyl PC
+T373	Protein 13770 13776	lipase
+T374	Biological_Activity 13822 13834	transacylase
+T375	Protein 13822 13834	transacylase
+T376	Protein 13851 13857	enzyme
+T377	Chemical 13884 13894	2-acyl-GPC
+T378	Chemical 13900 13910	2-acyl-GPE
+T379	Chemical 13933 13943	acyl donor
+T380	Chemical 13933 13937;13948 13956	acyl acceptor
+T381	Chemical 13981 14016	1-stearoyl-2-[14 C]arachidonoyl-GPC
+T382	Chemical 14021 14037	1,2-dioleoyl-GPE
+T383	Species 14054 14062	Rhizopus
+T384	Protein 14054 14070	Rhizopus  lipase
+T385	Protein 14091 14121	lysophospholipase-transacylase
+T386	Chemical 14149 14154	lipid
+T387	Chemical 14245 14247	PE
+T388	Chemical 14285 14287	PC
+T389	Chemical 14330 14354	2-[14 C]arachidonoyl-GPC
+T390	Chemical 14358 14370	2-oleoyl-GPE
+T391	Chemical 14396 14398	PC
+T392	Chemical 14403 14405	PE
+T393	Chemical 14439 14441	PE
+T394	Protein 14479 14508	lysophospholipase-transacylas
+T395	Chemical 14514 14520	lipase
+T396	Protein 14536 14566	lysophospholipase-transacylase
+T397	Chemical 14592 14594	PE
+T398	Protein 14662 14668	enzyme
+T399	Chemical 14694 14698	acyl
+T400	Chemical 14761 14783	[14 C]arachidonic acid
+T401	Chemical 14802 14837	1-stearoyl-2-[14 C]arachidonoyl-GPC
+T402	Protein 14864 14894	lysophospholipase-transacylase
+T403	Species 14899 14907	Rhizopus
+T404	Protein 14899 14915	Rhizopus  lipase
+T405	Protein 14921 14927	lipase
+T406	Chemical 14969 14985	arachidonic acid
+T407	Chemical 14999 15034	1-stearoyl-2-[14 C]arachidonoyl-GPC
+T408	Protein 15054 15084	lysophospholipase-transacylase
+T409	Species 15089 15097	Rhizopus
+T410	Protein 15089 15105	Rhizopus  lipase
+T411	Protein 15112 15142	lysophospholipase-transacylase
+T412	Chemical 15156 15172	arachidonic acid
+T413	Protein 15269 15275	enzyme
+T414	Chemical 15336 15341	ester
+T415	Species 15391 15394	rat
+T416	Protein 15408 15425	lysophospholipase
+T417	Chemical 15460 15474;15489 15493	2-arachidonoyl -GPC
+T418	Chemical 15479 15488;15489 15493	palmitoyl -GPC
+T419	Chemical 15494 15498	H2 O
+T420	Chemical 15499 15515	arachidonic acid
+T421	Chemical 15520 15533	palmitic acid
+T422	Chemical 15535 15538	GPC
+T423	Chemical 15543 15557;15572 15576	2-arachidonoyl -GPC
+T424	Chemical 15562 15571;15572 15576	palmitoyl -GPC
+T425	Chemical 15577 15591;15606 15610	2-arachidonoyl -GPC
+T426	Chemical 15596 15605;15606 15610	palmitoyl -GPC
+T427	Chemical 15611 15629;15646 15650	1,2-diarachidonoyl -GPC
+T428	Chemical 15634 15645;15646 15650	dipalmitoyl -GPC
+T429	Chemical 15651 15654	GPC
+T430	Chemical 15659 15673;15688 15692	2-arachidonoyl -GPC
+T431	Chemical 15678 15687;15688 15692	palmitoyl -GPC
+T432	Chemical 15693 15701	glycerol
+T433	Chemical 15702 15722	arachidonoylglycerol
+T434	Chemical 15727 15744	palmitoylglycerol
+T435	Chemical 15746 15749	GPC
+T436	Chemical 15754 15772	2-arachidonoyl-GPC
+T437	Chemical 15773 15783	2-acyl-GPE
+T438	Chemical 15784 15809	1-arachidonoyl-2-acyl-GPE
+T439	Chemical 15810 15813	GPC
+T440	Chemical 15895 15897	PC
+T441	Chemical 15920 15926	lysoPC
+T442	Protein 16000 16017	lysophospholipase
+T443	Biological_Activity 16000 16017	lysophospholipase
+T444	Protein 16054 16060	enzyme
+T445	Biological_Activity 16099 16116	lysophospholipase
+T446	Protein 16099 16116	lysophospholipase
+T447	Chemical 16181 16195	DEAE-cellulose
+T448	Protein 16254 16263	hydrolase
+T449	Biological_Activity 16254 16263	hydrolase
+T450	Biological_Activity 16312 16329	lysophospholipase
+T451	Protein 16312 16329	lysophospholipase
+T452	Protein 16340 16352	transacylase
+T453	Biological_Activity 16340 16352	transacylase
+T454	Protein 16403 16409	enzyme
+T455	Protein 16432 16449	lysophospholipase
+T456	Protein 16461 16473	transacylase
+T457	Protein 16488 16518	lysophospholipase-transacylase
+T458	Chemical 16534 16544	amino acid
+T459	Protein 16632 16638	enzyme
+T460	Chemical 16697 16701	acyl
+T461	Chemical 16716 16726	1-acyl-GPC
+T462	Chemical 16756 16764	glycerol
+T463	Chemical 16769 16783	2-acylglycerol
+T464	Chemical 16815 16819	acyl
+T465	Chemical 16834 16844	1-acyl-GPC
+T466	Chemical 16871 16881	1-acyl-GPC
+T467	Chemical 16883 16893	1-acyl-GPE
+T468	Chemical 16905 16922	lysophospholipids
+T469	Chemical 16955 16959	acyl
+T470	Chemical 16974 16984	2-acyl-GPC
+T471	Chemical 17010 17020	2-acyl-GPC
+T472	Chemical 17025 17035	2-acyl-GPE
+T473	Chemical 17090 17113	1-acyl lysophospholipid
+T474	Chemical 17138 17161	1-acyl lysophospholipid
+T475	Protein 17190 17220	lysophospholipase-transacylase
+T476	Biological_Activity 17190 17220	lysophospholipase-transacylase
+T477	Chemical 17239 17249	fatty acid
+T478	Chemical 17398 17411	phospholipids
+T479	Protein 17572 17589	lysophospholipase
+T480	Chemical 17634 17650	phospholipase A2
+T481	Protein 17673 17690	lysophospholipase
+T482	Biological_Activity 17673 17690	lysophospholipase
+T483	Chemical 17777 17785	glycerol
+T484	Chemical 17791 17806	1-palmitoyl-GPC
+T485	Protein 17858 17875	lysophospholipase
+T486	Biological_Activity 17858 17875	lysophospholipase
+T487	Protein 17980 17992	transacylase
+T488	Biological_Activity 17980 17992	transacylase
+T489	Chemical 18023 18035	phospholipid
+T490	Chemical 18068 18078	fatty acid
+T491	Chemical 18116 18129	phospholipids
+T492	Chemical 18131 18147	Arachidonic acid
+T493	Chemical 18169 18182	phospholipids
+T494	Chemical 18239 18247	glycerol
+T495	Protein 18272 18284	transacylase
+T496	Chemical 18298 18310	phospholipid
+T497	Chemical 18332 18348	arachidonic acid
+T498	Chemical 18381 18409	2-arachidonoyl phospholipids
+T499	Chemical 18411 18427	Lysophospholipid
+T500	Protein 18428 18443	acyltransferase
+T501	Chemical 18444 18448	acyl
+T502	Chemical 18475 18499	1-acyl lysophospholipids
+T503	Chemical 18505 18521	arachidonoyl-CoA
+T504	Chemical 18532 18535	CoA
+T505	Protein 18546 18558	transacylase
+T506	Chemical 18587 18607	diacyl phospholipids
+T507	Chemical 18611 18621	acyl donor
+T508	Chemical 18637 18653	arachidonic acid
+T509	Chemical 18679 18703	1-acyl lysophospholipids
+T510	Chemical 18714 18717	CoA
+T511	Protein 18730 18742	transacylase
+T512	Chemical 18774 18790	arachidonic acid
+T513	Chemical 18818 18830	phospholipid
+T514	Chemical 18856 18867	1-alkyl-GPC
+T515	Chemical 18877 18890	1-alkenyl-GPE
+T516	Protein 18911 18941	lysophospholipase-transacylase
+T517	Chemical 18981 18995;19007 19019	1-arachidonoyl phospholipid
+T518	Chemical 19041 19061	arachidonoyl residue
+T519	Chemical 19067 19098	2-arachidonoyl lysophospholipid
+T520	Chemical 19124 19147	2-acyl lysophospholipid
+T521	Chemical 19158 19172;19184 19196	1-arachidonoyl phospholipid
+T522	Species 19217 19226	mammalian
+T523	Chemical 19302 19319	1-arachidonoyl PC
+T524	Protein 19367 19386	cannabinol receptor
+T525	Chemical 19367 19393	cannabinol receptor ligand
+T526	Chemical 19367 19377	cannabinol
+T527	Chemical 19395 19419	arachidonoylethanolamide
+T528	Metabolite 19395 19419	arachidonoylethanolamide
+T529	Chemical 19423 19433	anandamide
+T530	Metabolite 19423 19433	anandamide
+R3	Binds_With Arg1:T527 Arg2:T524	
+R4	Binds_With Arg1:T528 Arg2:T524	
+R5	Binds_With Arg1:T530 Arg2:T524	
+R6	Binds_With Arg1:T529 Arg2:T524	
+T531	Chemical 19494 19504	Anandamide
+T532	Metabolite 19494 19504	Anandamide
+T533	Chemical 19522 19540	N -arachidonoyl-PE
+R7	Metabolite_Of Arg1:T532 Arg2:T533	
+T534	Protein 19548 19563	phospholipase D
+T535	Chemical 19573 19587	phosphodiester
+T536	Chemical 19615 19633	N -Arachidonoyl-PE
+T537	Chemical 19672 19692	arachidonoyl residue
+T538	Chemical 19698 19715	1-arachidonoyl PC
+T539	Chemical 19723 19735	ethanolamine
+T540	Chemical 19746 19748	PE
+T541	Chemical 19785 19802	1-arachidonoyl PC
+T542	Chemical 19867 19884	1-arachidonoyl PC
+T543	Chemical 19906 19924	2-arachidonoyl-GPC
+T544	Biological_Activity 19944 19958	transacylation
+T545	Protein 19971 20001	lysophospholipase-transacylase
+T546	Protein 20079 20095	phospholipase A1
+T547	Chemical 20115 20117	PC
+T548	Chemical 20147 20149	PC
+T549	Protein 20187 20203	phospholipase A1
+T550	Protein 20217 20234	lysophospholipase
+T551	Chemical 20265 20283	2-arachidonoyl-GPC
+T552	Metabolite 20265 20283	2-arachidonoyl-GPC
+T553	Chemical 20317 20319	PC
+R8	Metabolite_Of Arg1:T552 Arg2:T553	
+T554	Chemical 20414 20428;20440 20442	1-arachidonoyl PC
+T555	Protein 20446 20476	lysophospholipase-transacylase

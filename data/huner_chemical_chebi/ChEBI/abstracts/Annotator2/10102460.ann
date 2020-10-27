@@ -1,0 +1,16 @@
+T1	Chemical 130 140	melagatran
+T2	Biological_Activity 190 199	inhibitor
+R1	Associated_With Arg1:T1 Arg2:T2	
+T3	Chemical 219 226	heparin
+T4	Chemical 386 396	melagatran
+T5	Chemical 704 714	melagatran
+T6	Chemical 990 1000	melagatran
+T7	Chemical 1017 1024	heparin
+T8	Chemical 1070 1080	melagatran
+T9	Chemical 1155 1165	melagatran
+T10	Chemical 1252 1262	melagatran
+T11	Species 12 20	patients
+T14	Species 1033 1041	patients
+T16	Species 1288 1296	patients
+T12	Protein 181 189	thrombin
+R3	Binds_With Arg1:T1 Arg2:T12	

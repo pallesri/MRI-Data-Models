@@ -1,0 +1,1094 @@
+T1	Chemical 1 9	Dopamine
+T2	Metabolite 1 9	Dopamine
+T3	Chemical 11 13	DA
+T4	Metabolite 11 13	DA
+T5	Chemical 241 243	DA
+T6	Metabolite 241 243	DA
+T7	Chemical 416 427	amino acids
+T8	Chemical 437 452	methamphetamine
+T9	Chemical 496 498	DA
+T10	Metabolite 496 498	DA
+T11	Metabolite 579 581	DA
+T12	Chemical 579 581	DA
+T13	Species 690 696	gerbil
+T14	Chemical 743 745	DA
+T15	Metabolite 743 745	DA
+T16	Chemical 889 891	DA
+T17	Metabolite 889 891	DA
+T18	Biological_Activity 902 911	apoptosis
+R1	Associated_With Arg1:T17 Arg2:T18	
+R2	Associated_With Arg1:T16 Arg2:T18	
+T19	Chemical 950 952	DA
+T20	Metabolite 950 952	DA
+T21	Chemical 1004 1006	DA
+T22	Metabolite 1004 1006	DA
+T23	Chemical 1037 1039	DA
+T24	Metabolite 1037 1039	DA
+T25	Metabolite 1227 1229	DA
+T26	Chemical 1227 1229	DA
+T27	Biological_Activity 1238 1247	apoptosis
+R3	Associated_With Arg1:T25 Arg2:T27	
+R4	Associated_With Arg1:T26 Arg2:T27	
+T28	Protein 1372 1376	AP-1
+T29	Protein 1381 1386	NF-κB
+T30	Species 1401 1404	rat
+T31	Chemical 1476 1478	DA
+T32	Metabolite 1476 1478	DA
+T33	Species 1482 1486	rats
+T34	Biological_Activity 1502 1512	activation
+R5	Associated_With Arg1:T32 Arg2:T34	
+R6	Associated_With Arg1:T31 Arg2:T34	
+T35	Protein 1558 1589	glial fibrillary acidic protein
+T36	Protein 1591 1595	GFAP
+T37	Chemical 1667 1682	[3 H  ]R05-4864
+T38	Biological_Activity 1683 1690	binding
+T39	Protein 1705 1729	benzodiazepine receptors
+R7	Associated_With Arg1:T37 Arg2:T38	
+R8	Binds_With Arg1:T37 Arg2:T39	
+T40	Biological_Activity 1921 1931	metabolism
+T41	Chemical 2031 2044	neuropeptides
+T42	Species 2059 2062	rat
+T43	Biological_Activity 2126 2136	protective
+T44	Biological_Activity 2247 2257	protective
+T45	Chemical 2273 2290	hydrogen peroxide
+T46	Biological_Activity 2291 2299	toxicity
+R9	Associated_With Arg1:T45 Arg2:T46	
+T47	Chemical 2368 2370	DA
+T48	Metabolite 2368 2370	DA
+T49	Biological_Activity 2371 2380	activates
+R10	Associated_With Arg1:T48 Arg2:T49	
+R11	Associated_With Arg1:T47 Arg2:T49	
+T50	Biological_Activity 2442 2452	activation
+T51	Chemical 2470 2472	DA
+T52	Metabolite 2470 2472	DA
+T53	Species 2491 2494	rat
+T54	Protein 2533 2549	DA D2L receptors
+T55	Protein 2698 2710	D2 receptors
+T56	Chemical 2766 2768	DA
+T57	Metabolite 2766 2768	DA
+T59	Chemical 2897 2908	domperidone
+T60	Protein 2912 2923	D2 receptor
+T61	Biological_Activity 2924 2934	antagonist
+R12	Associated_With Arg1:T59 Arg2:T61	
+T58	Protein 2942 2944	D2
+T62	Biological_Activity 2945 2956	antagonists
+T63	Chemical 2958 2976	[3 H  ]domperidone
+T64	Chemical 2981 2997	[3 H  ]spiperone
+R13	Associated_With Arg1:T63 Arg2:T62	
+R14	Associated_With Arg1:T64 Arg2:T62	
+R15	Binds_With Arg1:T59 Arg2:T60	
+T65	Protein 3049 3060	D2 receptor
+T66	Protein 3117 3127	polymerase
+T67	Protein 3338 3350	D2 receptors
+T68	Protein 3481 3497	D2L DA receptors
+T69	Protein 3529 3541	D2 receptors
+T70	Protein 3692 3704	D2 receptors
+T71	Biological_Activity 3710 3717	binding
+T72	Protein 3732 3744	D2 receptors
+T73	Protein 3818 3828	G proteins
+T74	Biological_Activity 3843 3853	inhibition
+T75	Protein 3857 3874	adenylate cyclase
+T76	Protein 3903 3941	extracellular signal-regulated kinases
+T77	Protein 3943 3947	ERKs
+T78	Protein 3953 3976	c-Jun N-terminal kinase
+T79	Protein 3978 3981	JNK
+T80	Protein 3792 3807	pertussis-toxin
+T81	Protein 4031 4043	D2 receptors
+T82	Protein 4107 4119	D2 receptors
+T83	Chemical 4270 4272	DA
+T84	Chemical 4385 4387	DA
+T85	Metabolite 4385 4387	DA
+T86	Metabolite 4270 4272	DA
+T87	Protein 4444 4448	ERKs
+T88	Protein 4453 4456	JNK
+T89	Chemical 4548 4550	DA
+T90	Metabolite 4548 4550	DA
+T91	Chemical 4635 4637	DA
+T92	Metabolite 4635 4637	DA
+T93	Chemical 4644 4646	DA
+T94	Metabolite 4644 4646	DA
+T95	Biological_Activity 4658 4669	mitogenesis
+R16	Associated_With Arg1:T94 Arg2:T95	
+R17	Associated_With Arg1:T93 Arg2:T95	
+T96	Protein 4679 4690	D2-receptor
+T97	Protein 4720 4735	tyrosine kinase
+T98	Protein 4763 4766	ERK
+T99	Protein 5006 5010	ERK2
+T100	Protein 5093 5113	phospho-specific ERK
+T101	Protein 7984 8004	phospho-specific ERK
+T102	Protein 8006 8010	ERK2
+T103	Protein 8012 8037	phospho-specific p38 MAPK
+T104	Protein 8042 8046	PY99
+T105	Protein 8384 8388	ERK2
+T106	Protein 13136 13139	ERK
+T107	Protein 13308 13311	ERK
+T108	Protein 13367 13370	ERK
+T109	Protein 13506 13509	ERK
+T110	Protein 13581 13585	ERK2
+T111	Protein 13686 13689	ERK
+T112	Protein 14051 14054	ERK
+T113	Protein 14081 14084	ERK
+T114	Protein 14244 14247	ERK
+T115	Protein 14373 14376	ERK
+T116	Protein 15970 15979	anti-ERK2
+T117	Protein 15991 16000	anti-ERK2
+T118	Protein 20078 20087	anti-ERK2
+T119	Protein 21169 21178	anti-ERK2
+T120	Protein 30545 30548	ERK
+T121	Protein 30616 30619	ERK
+T122	Protein 5074 5084	Antibodies
+T123	Protein 5118 5143	phospho-specific p38 MAPK
+T124	Chemical 4971 4994	phosphorylated tyrosine
+T125	Chemical 4996 5000	PY99
+T126	Protein 4952 4962	Antibodies
+T127	Chemical 4813 4815	DA
+T128	Protein 4830 4834	GFAP
+T129	Protein 4868 4879	D2-receptor
+T130	Protein 4892 4900	p38 MAPK
+T131	Biological_Activity 4388 4397	stimulate
+R18	Associated_With Arg1:T85 Arg2:T131	
+R19	Associated_With Arg1:T84 Arg2:T131	
+T132	Biological_Activity 4551 4560	stimulate
+R20	Associated_With Arg1:T90 Arg2:T132	
+R21	Associated_With Arg1:T89 Arg2:T132	
+T133	Biological_Activity 4571 4582	mitogenesis
+R22	Associated_With Arg1:T90 Arg2:T133	
+R23	Associated_With Arg1:T89 Arg2:T133	
+T134	Chemical 5189 5191	DA
+T135	Chemical 5193 5197;5206 5230	(+)- butaclamol hydrochloride
+T136	Chemical 5202 5230	(−)-butaclamol hydrochloride
+T137	Chemical 5236 5264	(−)-quinpirole hydrochloride
+T138	Chemical 5325 5333	PD098059
+T139	Protein 5335 5338	p38
+T140	Biological_Activity 5339 5348	inhibitor
+T141	Chemical 5349 5358	SB 203580
+R24	Associated_With Arg1:T141 Arg2:T140	
+R25	Binds_With Arg1:T141 Arg2:T139	
+T142	Chemical 5360 5388	diphenyleneiodonium chloride
+T143	Chemical 5390 5393	DPI
+T144	Chemical 5396 5408	Herbimycin A
+T145	Chemical 5410 5420	Wortmannin
+T146	Chemical 5422 5424	H7
+T147	Chemical 5430 5443	staurosporine
+T148	Protein 5482 5497	Pertussis toxin
+T149	Protein 5499 5502	PTX
+T150	Chemical 5508 5529	N -acetyl-l -cysteine
+T151	Chemical 5531 5534	NAC
+T152	Chemical 5569 5585	[3 H  ]Thymidine
+T153	Chemical 5639 5648	Genistein
+T154	Chemical 5688 5701	Hoechst 33342
+T155	Chemical 5857 5891	Dulbecco's modified Eagle's medium
+T156	Chemical 5893 5897	DMEM
+T157	Species 5926 5932	bovine
+T158	Species 5952 5956	calf
+T159	Chemical 5968 5978	penicillin
+T160	Chemical 5979 5991	streptomycin
+T161	Chemical 5996 6005	puromycin
+T162	Chemical 6084 6093	puromycin
+T163	Chemical 6099 6107	tyrosine
+T164	Chemical 6206 6219	ascorbic acid
+T165	Chemical 6318 6322	DMEM
+T166	Protein 6128 6132	GFAP
+T167	Protein 7022 7026	GFAP
+T168	Protein 21958 21962	GFAP
+T169	Protein 22087 22091	GFAP
+T170	Protein 22265 22269	GFAP
+T171	Protein 22361 22365	GFAP
+T172	Protein 22499 22503	GFAP
+T173	Protein 22564 22568	GFAP
+T174	Protein 22781 22785	GFAP
+T175	Protein 22886 22890	GFAP
+T176	Protein 23000 23004	GFAP
+T177	Protein 23136 23140	GFAP
+T178	Protein 23033 23037	GFAP
+T179	Protein 23357 23361	GFAP
+T180	Protein 23587 23591	GFAP
+T181	Protein 23738 23742	GFAP
+T182	Protein 23847 23851	GFAP
+T183	Protein 24033 24037	GFAP
+T184	Protein 24220 24224	GFAP
+T185	Protein 24285 24289	GFAP
+T186	Protein 24396 24400	GFAP
+T187	Protein 24623 24627	GFAP
+T188	Protein 24780 24784	GFAP
+T189	Protein 28338 28342	GFAP
+T190	Protein 28379 28383	GFAP
+T191	Protein 28610 28614	GFAP
+T192	Protein 28863 28867	GFAP
+T193	Protein 28743 28747	GFAP
+T194	Protein 32276 32280	GFAP
+T195	Protein 32420 32424	GFAP
+T196	Protein 32879 32883	GFAP
+T197	Protein 32638 32642	GFAP
+T198	Protein 32826 32830	GFAP
+T199	Protein 32725 32729	GFAP
+T200	Protein 33000 33004	GFAP
+T201	Protein 33618 33622	GFAP
+T202	Protein 33204 33208	GFAP
+T203	Protein 33907 33911	GFAP
+T204	Protein 33876 33880	GFAP
+T205	Chemical 6335 6348	ascorbic acid
+T206	Protein 6409 6412	PTX
+T207	Chemical 6470 6472	DA
+T208	Chemical 6568 6571	PBS
+T209	Protein 6431 6434	PTX
+T210	Chemical 6634 6639	Hepes
+T211	Chemical 6656 6660	NaCl
+T212	Chemical 6669 6674	MgCl2
+T213	Chemical 6684 6688	EDTA
+T214	Chemical 6695 6707	Triton X-100
+T215	Chemical 6715 6733	β-glycerophosphate
+T216	Chemical 6742 6762	sodium orthovanadate
+T217	Chemical 6771 6774	DTT
+T218	Chemical 6786 6790	PMSF
+T219	Chemical 6804 6813	leupeptin
+T220	Chemical 6976 6999	Bio-Rad protein reagent
+T221	Chemical 7200 7203	PBS
+T222	Chemical 7274 7282	Tris–HCl
+T223	Chemical 7299 7303	NaCl
+T224	Chemical 7312 7316	EDTA
+T225	Chemical 7323 7327	EGTA
+T226	Chemical 7332 7354	sodium dodecyl sulfate
+T227	Chemical 7356 7359	SDS
+T228	Species 7367 7387	sodium orthovanadate
+T229	Chemical 7394 7398	PMSF
+T230	Chemical 7408 7419	pepstatin A
+T231	Protein 7433 7442	aprotinin
+T232	Protein 7479 7486	protein
+T233	Chemical 7540 7549	Micro BCA
+T234	Protein 7702 7709	protein
+T235	Chemical 7789 7803	nitrocellulose
+T236	Chemical 7809 7823	nitrocellulose
+T237	Chemical 7870 7881	TBST buffer
+T238	Chemical 7889 7897	Tris–HCl
+T239	Chemical 7914 7918	NaCl
+T240	Chemical 7930 7938	Tween-20
+T241	Chemical 8059 8063	TBST
+T242	Protein 8078 8081	BSA
+T243	Protein 8169 8191	horseradish-peroxidase
+T244	Protein 8213 8221	antibody
+T245	Protein 8347 8354	protein
+T246	Chemical 8821 8825	DMEM
+T247	Chemical 9656 9660	DMEM
+T248	Chemical 8885 8898	ascorbic acid
+T249	Chemical 9673 9686	ascorbic acid
+T250	Chemical 9840 9853	Hoechst 33342
+T251	Chemical 10016 10021	argon
+T252	Chemical 10026 10033	krypton
+T253	Chemical 10042 10055	Hoechst 33342
+T254	Chemical 10128 10135	krypton
+T255	Chemical 8942 8944	DA
+T256	Chemical 10433 10435	DA
+T257	Chemical 10512 10514	DA
+T258	Chemical 10653 10655	DA
+T259	Chemical 10733 10735	DA
+T260	Chemical 10808 10810	DA
+T261	Chemical 10945 10947	DA
+T262	Chemical 10888 10890	DA
+T263	Chemical 11125 11127	DA
+T264	Chemical 11162 11164	DA
+T265	Chemical 11229 11231	DA
+T266	Chemical 11394 11396	DA
+T267	Chemical 11497 11499	DA
+T268	Chemical 11694 11696	DA
+T269	Chemical 11617 11619	DA
+T270	Chemical 11871 11873	DA
+T271	Chemical 12003 12005	DA
+T272	Chemical 12196 12198	DA
+T273	Chemical 12433 12435	DA
+T274	Chemical 12639 12641	DA
+T275	Chemical 12790 12792	DA
+T276	Chemical 12918 12920	DA
+T277	Chemical 12883 12885	DA
+T278	Chemical 12982 12984	DA
+T279	Chemical 13057 13059	DA
+T280	Chemical 13114 13116	DA
+T281	Chemical 13465 13467	DA
+T282	Chemical 13337 13339	DA
+T283	Chemical 13710 13712	DA
+T284	Chemical 13811 13813	DA
+T285	Chemical 14345 14347	DA
+T286	Chemical 14444 14446	DA
+T287	Chemical 14804 14806	DA
+T288	Chemical 14998 15000	DA
+T289	Chemical 15029 15031	DA
+T290	Chemical 15099 15101	DA
+T291	Chemical 15378 15380	DA
+T292	Chemical 15738 15740	DA
+T293	Chemical 15815 15817	DA
+T294	Chemical 15680 15682	DA
+T295	Chemical 16312 16314	DA
+T296	Chemical 16628 16630	DA
+T297	Chemical 16842 16844	DA
+T298	Chemical 17283 17285	DA
+T299	Chemical 17412 17414	DA
+T300	Chemical 17624 17626	DA
+T301	Chemical 17947 17949	DA
+T302	Chemical 18145 18147	DA
+T303	Chemical 18248 18250	DA
+T304	Chemical 18488 18490	DA
+T305	Chemical 18573 18575	DA
+T306	Chemical 18719 18721	DA
+T307	Chemical 18728 18730	DA
+T308	Chemical 19318 19320	DA
+T309	Chemical 19962 19964	DA
+T310	Chemical 20443 20445	DA
+T311	Chemical 20597 20599	DA
+T312	Chemical 20891 20893	DA
+T313	Chemical 20791 20793	DA
+T314	Chemical 21329 21331	DA
+T315	Chemical 21452 21454	DA
+T316	Chemical 21546 21548	DA
+T317	Chemical 21864 21866	DA
+T319	Chemical 22016 22018	DA
+T320	Chemical 21945 21947	DA
+T321	Chemical 22223 22225	DA
+T322	Chemical 22534 22536	DA
+T323	Chemical 22632 22634	DA
+T324	Chemical 22701 22703	DA
+T325	Chemical 22766 22768	DA
+T326	Chemical 22912 22914	DA
+T327	Chemical 23022 23024	DA
+T328	Chemical 23286 23288	DA
+T329	Chemical 23122 23124	DA
+T330	Chemical 23523 23525	DA
+T331	Chemical 23833 23835	DA
+T332	Chemical 24056 24058	DA
+T333	Chemical 24130 24132	DA
+T334	Chemical 24206 24208	DA
+T335	Chemical 24261 24263	DA
+T336	Chemical 24426 24428	DA
+T337	Chemical 24653 24655	DA
+T338	Chemical 24879 24881	DA
+T339	Chemical 25232 25234	DA
+T340	Chemical 24985 24987	DA
+T341	Chemical 25362 25364	DA
+T342	Chemical 25565 25567	DA
+T343	Chemical 25440 25442	DA
+T344	Chemical 25717 25719	DA
+T345	Chemical 25779 25781	DA
+T346	Chemical 26340 26342	DA
+T347	Chemical 26173 26175	DA
+T348	Chemical 26004 26006	DA
+T349	Chemical 26964 26966	DA
+T350	Chemical 26734 26736	DA
+T351	Chemical 27900 27902	DA
+T352	Chemical 27600 27602	DA
+T353	Chemical 27525 27527	DA
+T354	Chemical 27439 27441	DA
+T355	Chemical 27307 27309	DA
+T356	Chemical 27076 27078	DA
+T357	Chemical 27998 28000	DA
+T358	Chemical 28270 28272	DA
+T359	Chemical 28192 28194	DA
+T360	Chemical 28771 28773	DA
+T361	Chemical 28596 28598	DA
+T362	Chemical 28370 28372	DA
+T363	Chemical 28493 28495	DA
+T364	Chemical 30236 30238	DA
+T365	Chemical 30074 30076	DA
+T366	Chemical 30001 30003	DA
+T367	Chemical 29779 29781	DA
+T368	Chemical 29630 29632	DA
+T369	Chemical 29475 29477	DA
+T370	Chemical 29046 29048	DA
+T371	Chemical 28918 28920	DA
+T372	Chemical 32175 32177	DA
+T373	Chemical 31511 31513	DA
+T374	Chemical 31347 31349	DA
+T375	Chemical 31208 31210	DA
+T376	Chemical 31100 31102	DA
+T377	Chemical 31026 31028	DA
+T378	Chemical 30820 30822	DA
+T379	Chemical 30727 30729	DA
+T380	Chemical 30563 30565	DA
+T381	Chemical 30482 30484	DA
+T382	Chemical 32815 32817	DA
+T383	Chemical 32746 32748	DA
+T384	Chemical 32627 32629	DA
+T385	Chemical 32406 32408	DA
+T386	Chemical 32324 32326	DA
+T387	Chemical 8976 8992	[3 H  ]thymidine
+T388	Chemical 9076 9096	trichloroacetic acid
+T389	Chemical 9127 9137	STE buffer
+T390	Chemical 9146 9150	NaCl
+T391	Chemical 9158 9166	Tris–HCl
+T392	Chemical 9181 9185	EDTA
+T393	Chemical 9237 9240	SDS
+T394	Chemical 9252 9256	NaOH
+T395	Chemical 9271 9287	[3 H  ]thymidine
+T396	Biological_Activity 10436 10446	stimulates
+R26	Associated_With Arg1:T256 Arg2:T396	
+T397	Biological_Activity 10447 10458	mitogenesis
+R27	Associated_With Arg1:T256 Arg2:T397	
+T398	Biological_Activity 10526 10537	mitogenesis
+R28	Associated_With Arg1:T257 Arg2:T398	
+T399	Biological_Activity 10515 10525	stimulated
+R29	Associated_With Arg1:T257 Arg2:T399	
+T400	Chemical 10573 10589	[3 H  ]thymidine
+T401	Biological_Activity 10816 10825	stimulate
+T402	Biological_Activity 10891 10902	stimulation
+R30	Associated_With Arg1:T262 Arg2:T402	
+T403	Biological_Activity 10948 10958	stimulated
+R31	Associated_With Arg1:T261 Arg2:T403	
+T404	Chemical 10959 10975	[3 H  ]thymidine
+T405	Chemical 11043 11059	[3 H  ]thymidine
+T406	Biological_Activity 11133 11142	mitogenic
+R32	Associated_With Arg1:T264 Arg2:T406	
+T407	Chemical 11301 11313	aphidicoline
+T408	Biological_Activity 11272 11281	inhibited
+R33	Associated_With Arg1:T407 Arg2:T408	
+T409	Protein 11351 11365	DNA polymerase
+T410	Biological_Activity 11368 11377	inhibitor
+R34	Associated_With Arg1:T407 Arg2:T410	
+T411	Biological_Activity 11397 11406	mitogenic
+R35	Associated_With Arg1:T266 Arg2:T411	
+T412	Biological_Activity 11708 11719	mitogenesis
+T413	Protein 11743 11755	D2 receptors
+R36	Associated_With Arg1:T268 Arg2:T412	
+T414	Chemical 11801 11815	(+)-butaclamol
+T415	Biological_Activity 11838 11848	antagonist
+T416	Protein 11826 11837	D2 receptor
+R37	Binds_With Arg1:T414 Arg2:T416	
+T417	Chemical 11886 11902	[3 H  ]thymidine
+T418	Biological_Activity 11861 11870	inhibited
+R38	Associated_With Arg1:T414 Arg2:T418	
+T419	Chemical 11930 11944	(−)-butaclamol
+T420	Chemical 11966 11980	(+)-butaclamol
+T421	Biological_Activity 12017 12028	mitogenesis
+R39	Associated_With Arg1:T271 Arg2:T421	
+T422	Chemical 12095 12105	quinpirole
+T423	Protein 12118 12129	D2 receptor
+T424	Biological_Activity 12130 12137	agonist
+R40	Associated_With Arg1:T422 Arg2:T424	
+R41	Binds_With Arg1:T422 Arg2:T423	
+T425	Chemical 12221 12231	quinpirole
+T426	Chemical 12261 12271	Quinpirole
+T427	Protein 12512 12525	D2L receptors
+T428	Chemical 12547 12563	[3 H  ]thymidine
+T429	Protein 12735 12738	PTX
+T430	Protein 12742 12760	G protein-receptor
+T431	Chemical 12804 12820	[3 H  ]thymidine
+T432	Biological_Activity 12897 12908	mitogenesis
+R42	Associated_With Arg1:T277 Arg2:T432	
+T433	Protein 12921 12932	D2 receptor
+T434	Protein 12961 12967	kinase
+T435	Biological_Activity 12968 12978	inhibitors
+T436	Biological_Activity 12993 13004	mitogenesis
+R43	Associated_With Arg1:T278 Arg2:T436	
+T437	Biological_Activity 13071 13082	mitogenesis
+R44	Associated_With Arg1:T279 Arg2:T437	
+T438	Protein 13143 13164	protein serine kinase
+T439	Protein 13650 13657	protein
+T440	Biological_Activity 13721 13732	mitogenesis
+R45	Associated_With Arg1:T283 Arg2:T440	
+T441	Chemical 13765 13773	PD098059
+T442	Biological_Activity 13792 13801	inhibitor
+R46	Associated_With Arg1:T441 Arg2:T442	
+T443	Protein 13787 13791	MEK1
+T444	Protein 14239 14243	MEK1
+T445	Chemical 13861 13863	DA
+T446	Biological_Activity 14128 14137	inhibited
+T447	Chemical 13952 13961	PD 098059
+T448	Chemical 14024 14033	PD 098059
+T449	Protein 14035 14039	bFGF
+R47	Associated_With Arg1:T448 Arg2:T446	
+T450	Chemical 14227 14235	PD098059
+T451	Biological_Activity 14206 14216	inhibitory
+R48	Associated_With Arg1:T450 Arg2:T451	
+T452	Biological_Activity 14301 14312	mitogenesis
+R49	Associated_With Arg1:T285 Arg2:T452	
+T453	Protein 14369 14372	MEK
+T454	Protein 14423 14429	kinase
+T455	Biological_Activity 14430 14440	inhibitors
+T456	Biological_Activity 14458 14469	mitogenesis
+R50	Associated_With Arg1:T286 Arg2:T456	
+T457	Chemical 14497 14507	Wortmannin
+T458	Biological_Activity 14477 14486	inhibitor
+R51	Associated_With Arg1:T457 Arg2:T458	
+T459	Protein 14512 14522	PI3 kinase
+R52	Binds_With Arg1:T457 Arg2:T459	
+T460	Chemical 14524 14533	rapamycin
+T461	Protein 14538 14547	S6 kinase
+R53	Associated_With Arg1:T460 Arg2:T458	
+R54	Binds_With Arg1:T460 Arg2:T461	
+T462	Chemical 14553 14561	SB203580
+T463	Protein 14566 14580	p38 MAP kinase
+R55	Binds_With Arg1:T462 Arg2:T463	
+R56	Associated_With Arg1:T462 Arg2:T458	
+T464	Chemical 14818 14834	[3 H  ]thymidine
+T465	Protein 14797 14800	PKC
+T466	Biological_Activity 15043 15054	mitogenesis
+T467	Protein 15066 15073	protein
+T468	Chemical 15074 15082	tyrosine
+T469	Protein 15113 15120	protein
+T470	Chemical 15121 15129	tyrosine
+T471	Biological_Activity 15032 15042	stimulates
+R57	Associated_With Arg1:T289 Arg2:T471	
+R58	Associated_With Arg1:T289 Arg2:T466	
+T472	Biological_Activity 15083 15098	phosphorylation
+R59	Associated_With Arg1:T289 Arg2:T472	
+T473	Biological_Activity 15130 15145	phosphorylation
+R60	Associated_With Arg1:T290 Arg2:T473	
+T474	Chemical 15215 15238	phosphorylated tyrosine
+T475	Protein 15250 15258	proteins
+T476	Biological_Activity 13371 13386	phosphorylation
+T477	Biological_Activity 13510 13525	phosphorylation
+T478	Biological_Activity 14085 14100	phosphorylation
+T479	Biological_Activity 6108 6123	phosphorylation
+T480	Protein 15291 15326	monoclonal anti-phosphotyrosine IgG
+T481	Protein 15328 15332	PY99
+T482	Protein 15382 15389	protein
+T483	Chemical 15390 15398	tyrosine
+T484	Biological_Activity 15399 15414	phosphorylation
+R61	Associated_With Arg1:T291 Arg2:T484	
+T485	Chemical 15536 15544	tyrosine
+T487	Protein 15536 15568	tyrosine-phosphorylated proteins
+T488	Chemical 15694 15702	tyrosine
+T489	Biological_Activity 15703 15718	phosphorylation
+R62	Associated_With Arg1:T294 Arg2:T489	
+T490	Biological_Activity 15852 15863	mitogenesis
+R63	Associated_With Arg1:T293 Arg2:T490	
+T491	Protein 15902 15909	protein
+T492	Protein 16065 16072	protein
+T493	Protein 16090 16097	protein
+T494	Chemical 16098 16106	tyrosine
+T495	Biological_Activity 16107 16122	phosphorylation
+T496	Protein 16183 16194	D2 receptor
+T497	Chemical 16249 16263	(+)-butaclamol
+T498	Protein 16276 16287	D2 receptor
+T499	Biological_Activity 16288 16298	antagonist
+R64	Associated_With Arg1:T497 Arg2:T499	
+R65	Binds_With Arg1:T497 Arg2:T498	
+T500	Protein 16323 16330	protein
+T501	Chemical 16331 16339	tyrosine
+T502	Biological_Activity 16340 16355	phosphorylation
+R66	Associated_With Arg1:T295 Arg2:T502	
+T503	Chemical 16433 16447	(+)-butaclamol
+T504	Biological_Activity 16489 16499	inhibition
+T505	Protein 16503 16510	protein
+T506	Chemical 16511 16519	tyrosine
+T507	Biological_Activity 16520 16535	phosphorylation
+R67	Associated_With Arg1:T503 Arg2:T504	
+T508	Chemical 16574 16588	(+)-butaclamol
+T509	Biological_Activity 16678 16686	blocking
+T510	Protein 16710 16722	D2 receptors
+T511	Chemical 16763 16777	(−)-butaclamol
+T512	Chemical 16799 16813	(+)-butaclamol
+T513	Chemical 16856 16864	tyrosine
+T514	Biological_Activity 16865 16880	phosphorylation
+R68	Associated_With Arg1:T297 Arg2:T514	
+T515	Chemical 16925 16935	quinpirole
+T516	Protein 16939 16950	D2 receptor
+T517	Biological_Activity 16951 16958	agonist
+R69	Associated_With Arg1:T515 Arg2:T517	
+T518	Protein 16963 16970	protein
+T519	Chemical 16971 16979	tyrosine
+T520	Biological_Activity 16980 16995	phosphorylation
+T521	Chemical 17049 17059	quinpirole
+T523	Chemical 17124 17132	tyrosine
+T524	Chemical 17215 17223	tyrosine
+T526	Protein 17124 17156	tyrosine-phosphorylated proteins
+T527	Protein 17215 17247	tyrosine-phosphorylated proteins
+T528	Protein 17362 17365	PTX
+T529	Protein 17390 17393	PTX
+T530	Protein 17610 17613	PTX
+T531	Protein 17690 17693	PTX
+T532	Protein 17880 17883	PTX
+T533	Protein 23804 23807	PTX
+T534	Protein 23891 23894	PTX
+T535	Protein 30892 30895	PTX
+T536	Protein 31008 31011	PTX
+T537	Protein 31134 31137	PTX
+T538	Protein 31264 31267	PTX
+T539	Protein 31428 31431	PTX
+T540	Protein 31632 31635	PTX
+T541	Protein 32086 32089	PTX
+T542	Protein 31998 32001	PTX
+T543	Protein 17362 17386	PTX-sensitive G proteins
+T544	Protein 17423 17430	protein
+T545	Chemical 17431 17439	tyrosine
+T546	Biological_Activity 17440 17455	phosphorylation
+T547	Biological_Activity 17404 17411	blocked
+T548	Chemical 17476 17484	tyrosine
+T549	Protein 17476 17508	tyrosine-phosphorylated proteins
+T550	Biological_Activity 17614 17623	inhibited
+T551	Chemical 17647 17655	tyrosine
+T552	Biological_Activity 17656 17671	phosphorylation
+R70	Associated_With Arg1:T299 Arg2:T546	
+R71	Associated_With Arg1:T300 Arg2:T552	
+T553	Chemical 17743 17751	tyrosine
+T554	Protein 17743 17775	tyrosine-phosphorylated proteins
+T555	Chemical 17842 17850	tyrosine
+T556	Biological_Activity 17851 17866	phosphorylation
+T557	Biological_Activity 17961 17972	mitogenesis
+T558	Biological_Activity 17900 17910	inhibitory
+T559	Protein 18007 18018	D2 receptor
+T560	Protein 18049 18072	protein tyrosine kinase
+T561	Protein 18114 18129	tyrosine kinase
+R72	Associated_With Arg1:T301 Arg2:T557	
+T562	Biological_Activity 18159 18170	mitogenesis
+R73	Associated_With Arg1:T302 Arg2:T562	
+T563	Chemical 18198 18207	genistein
+T564	Protein 18218 18233	tyrosine kinase
+T565	Biological_Activity 18234 18243	inhibitor
+R74	Associated_With Arg1:T563 Arg2:T565	
+R75	Binds_With Arg1:T563 Arg2:T564	
+T566	Chemical 18259 18267	tyrosine
+T567	Biological_Activity 18268 18283	phosphorylation
+T568	Biological_Activity 18288 18299	mitogenesis
+R76	Associated_With Arg1:T303 Arg2:T567	
+R77	Associated_With Arg1:T303 Arg2:T568	
+T569	Chemical 18348 18357	genistein
+T570	Chemical 18361 18371	herbimycin
+T571	Protein 18381 18396	tyrosine kinase
+T572	Biological_Activity 18397 18406	inhibitor
+R78	Associated_With Arg1:T569 Arg2:T572	
+R79	Associated_With Arg1:T570 Arg2:T572	
+R80	Binds_With Arg1:T569 Arg2:T571	
+R81	Binds_With Arg1:T570 Arg2:T571	
+T573	Protein 18434 18441	protein
+T574	Chemical 18442 18450	tyrosine
+T575	Biological_Activity 18451 18466	phosphorylation
+T576	Chemical 18513 18522	genistein
+T577	Biological_Activity 18534 18543	inhibited
+R82	Associated_With Arg1:T576 Arg2:T577	
+T578	Protein 18639 18662	protein tyrosine kinase
+T579	Biological_Activity 18696 18707	mitogenesis
+T580	Biological_Activity 18739 18750	mitogenesis
+R83	Associated_With Arg1:T307 Arg2:T580	
+T581	Chemical 18789 18797	tyrosine
+T582	Biological_Activity 18798 18813	phosphorylation
+T583	Chemical 18831 18854	reactive oxygen species
+T584	Chemical 18856 18859	ROS
+T585	Chemical 19017 19020	ROS
+T586	Protein 19128 19140	D2 receptors
+T587	Biological_Activity 19151 19162	mitogenesis
+R84	Associated_With Arg1:T260 Arg2:T401	
+T588	Biological_Activity 11697 11707	stimulated
+R85	Associated_With Arg1:T268 Arg2:T588	
+T589	Biological_Activity 12006 12016	stimulated
+R86	Associated_With Arg1:T271 Arg2:T589	
+T590	Biological_Activity 12793 12803	stimulated
+R87	Associated_With Arg1:T275 Arg2:T590	
+T591	Biological_Activity 12886 12896	stimulated
+R88	Associated_With Arg1:T277 Arg2:T591	
+T592	Biological_Activity 13060 13070	stimulated
+R89	Associated_With Arg1:T279 Arg2:T592	
+T593	Biological_Activity 13202 13212	stimulated
+T594	Biological_Activity 13496 13505	stimulate
+R90	Associated_With Arg1:T281 Arg2:T594	
+R91	Associated_With Arg1:T281 Arg2:T477	
+T595	Biological_Activity 13864 13874	stimulated
+R92	Associated_With Arg1:T445 Arg2:T595	
+T596	Biological_Activity 13908 13917	inhibited
+R93	Associated_With Arg1:T447 Arg2:T596	
+T597	Biological_Activity 14040 14050	stimulated
+T598	Biological_Activity 14447 14457	stimulated
+R94	Associated_With Arg1:T286 Arg2:T598	
+T599	Biological_Activity 14807 14817	stimulated
+R95	Associated_With Arg1:T287 Arg2:T599	
+T600	Biological_Activity 15102 15112	stimulated
+R96	Associated_With Arg1:T290 Arg2:T600	
+T601	Biological_Activity 15683 15693	stimulated
+R97	Associated_With Arg1:T294 Arg2:T601	
+T602	Biological_Activity 16845 16855	stimulated
+R98	Associated_With Arg1:T297 Arg2:T602	
+T603	Biological_Activity 15837 15848	stimulation
+T604	Biological_Activity 17636 17646	stimulated
+R99	Associated_With Arg1:T300 Arg2:T604	
+T605	Biological_Activity 17950 17960	stimulated
+R100	Associated_With Arg1:T301 Arg2:T605	
+T606	Biological_Activity 18148 18158	stimulated
+R101	Associated_With Arg1:T302 Arg2:T606	
+T607	Biological_Activity 18467 18477	stimulated
+R102	Associated_With Arg1:T304 Arg2:T607	
+R103	Associated_With Arg1:T304 Arg2:T575	
+T608	Biological_Activity 19141 19150	stimulate
+T609	Protein 19208 19223	tyrosine kinase
+T610	Chemical 19259 19279	diphenylene iodonium
+T611	Chemical 19281 19284	DPI
+T612	Chemical 19290 19308	N -acetyl cysteine
+T613	Chemical 19310 19313	NAC
+T614	Chemical 19329 19337	tyrosine
+T615	Biological_Activity 19338 19353	phosphorylation
+T616	Biological_Activity 19358 19369	mitogenesis
+T617	Chemical 19371 19374	DPI
+T618	Biological_Activity 19381 19390	inhibitor
+R104	Associated_With Arg1:T617 Arg2:T618	
+T619	Chemical 19394 19403	flavonoid
+T620	Protein 19415 19423	oxidases
+T621	Chemical 19459 19469	superoxide
+T622	Chemical 19475 19481	oxygen
+T623	Chemical 19487 19491	NADH
+T624	Chemical 19492 19497	NADPH
+T625	Chemical 19535 19544	flavonoid
+T626	Protein 19556 19564	oxidases
+T627	Protein 19574 19597	NADPH-dependent oxidase
+T628	Chemical 19574 19579	NADPH
+T629	Protein 19656 19665	receptors
+T630	Protein 19685 19700	tyrosine-kinase
+T631	Protein 19685 19721	tyrosine-kinase-containing receptors
+T632	Protein 19726 19735	G-protein
+T633	Protein 19726 19753	G-protein-coupled receptors
+T634	Chemical 19765 19768	NAC
+T635	Chemical 19805 19818	free radicals
+T636	Chemical 19866 19869	DPI
+T637	Chemical 19879 19882	NAC
+T638	Chemical 19899 19907	tyrosine
+T639	Biological_Activity 19908 19923	phosphorylation
+T640	Biological_Activity 19939 19950	mitogenesis
+R105	Associated_With Arg1:T309 Arg2:T640	
+R106	Associated_With Arg1:T309 Arg2:T639	
+T641	Chemical 19991 19994	DPI
+T642	Chemical 19998 20001	NAC
+T643	Chemical 20026 20034	tyrosine
+T644	Biological_Activity 20035 20050	phosphorylation
+T645	Protein 20054 20062	proteins
+T646	Protein 20156 20163	protein
+T647	Protein 20250 20273	protein tyrosine kinase
+T648	Biological_Activity 20289 20300	mitogenesis
+T649	Chemical 20335 20338	ROS
+T650	Chemical 20376 20385	flavonoid
+T651	Protein 20397 20405	oxidases
+T652	Chemical 20436 20439	ROS
+T653	Chemical 20454 20462	tyrosine
+T654	Biological_Activity 20463 20478	phosphorylation
+T655	Biological_Activity 20483 20494	mitogenesis
+T656	Chemical 20523 20528	H2 O2
+R107	Associated_With Arg1:T310 Arg2:T654	
+R108	Associated_With Arg1:T310 Arg2:T655	
+T657	Protein 20551 20574	protein tyrosine kinase
+T658	Biological_Activity 20600 20610	stimulated
+R109	Associated_With Arg1:T311 Arg2:T658	
+T659	Chemical 20637 20640	ROS
+T660	Chemical 20710 20715	H2 O2
+T661	Protein 20729 20743	protein kinase
+T662	Biological_Activity 20737 20743	kinase
+T663	Biological_Activity 20768 20779	mitogenesis
+R110	Associated_With Arg1:T660 Arg2:T662	
+R111	Associated_With Arg1:T660 Arg2:T663	
+T664	Chemical 20843 20848	H2 O2
+T665	Chemical 20902 20910	tyrosine
+T667	Protein 20958 20978	anti-phosphotyrosine
+T668	Protein 21190 21197	protein
+T669	Chemical 21231 21236	H2 O2
+T670	Chemical 21276 21284	tyrosine
+T672	Protein 21276 21308	tyrosine-phosphorylated proteins
+T673	Protein 20902 20934	tyrosine-phosphorylated proteins
+T486	Chemical 21342 21347	H2 O2
+T522	Biological_Activity 21309 21319	stimulated
+R112	Associated_With Arg1:T314 Arg2:T522	
+T525	Chemical 21442 21447	H2 O2
+T666	Biological_Activity 21466 21477	mitogenesis
+T671	Biological_Activity 21455 21465	stimulated
+R113	Associated_With Arg1:T315 Arg2:T671	
+R114	Associated_With Arg1:T315 Arg2:T666	
+T674	Biological_Activity 21557 21568	mitogenesis
+T675	Chemical 21592 21597	H2 O2
+T676	Chemical 21645 21650	H2 O2
+R115	Associated_With Arg1:T316 Arg2:T674	
+T677	Chemical 21843 21848	H2 O2
+T318	Biological_Activity 21989 22000	stimulating
+R116	Associated_With Arg1:T319 Arg2:T318	
+T678	Biological_Activity 22712 22723	mitogenesis
+R117	Associated_With Arg1:T324 Arg2:T678	
+T679	Biological_Activity 22841 22852	mitogenesis
+T680	Biological_Activity 22940 22951	mitogenesis
+T681	Protein 23072 23080	p38 MAPK
+T684	Protein 23191 23218	D2 receptor–tyrosine kinase
+T682	Biological_Activity 23300 23311	mitogenesis
+R118	Associated_With Arg1:T328 Arg2:T682	
+T683	Protein 23408 23420	D2 receptors
+T685	Protein 23456 23467	D2 receptor
+T686	Biological_Activity 23468 23478	antagonist
+T687	Chemical 23480 23494	(+)-butaclamol
+R119	Associated_With Arg1:T687 Arg2:T686	
+R120	Binds_With Arg1:T687 Arg2:T685	
+T688	Chemical 23677 23687	quinpirole
+T689	Protein 23700 23711	D2 receptor
+T690	Biological_Activity 23712 23719	agonist
+R121	Associated_With Arg1:T688 Arg2:T690	
+R122	Binds_With Arg1:T688 Arg2:T689	
+T691	Protein 23891 23915	PTX-sensitive G proteins
+T692	Chemical 23988 23997	genistein
+T693	Chemical 24007 24010	NAC
+T694	Biological_Activity 24141 24152	mitogenesis
+T695	Biological_Activity 24118 24126	blocking
+R123	Associated_With Arg1:T692 Arg2:T695	
+R124	Associated_With Arg1:T693 Arg2:T695	
+R125	Associated_With Arg1:T333 Arg2:T694	
+T696	Chemical 24175 24183	PD098059
+T697	Biological_Activity 24209 24219	stimulated
+R126	Associated_With Arg1:T334 Arg2:T697	
+T698	Biological_Activity 24272 24283	mitogenesis
+R127	Associated_With Arg1:T335 Arg2:T698	
+T699	Biological_Activity 24290 24301	stimulation
+T700	Protein 24331 24358	D2 receptor–tyrosine kinase
+T701	Biological_Activity 24412 24422	stimulated
+R128	Associated_With Arg1:T336 Arg2:T701	
+T702	Biological_Activity 24438 24447	inhibited
+T703	Chemical 24482 24490	SB203580
+T704	Protein 24504 24512	p38 MAPK
+T705	Biological_Activity 24513 24522	inhibitor
+R130	Associated_With Arg1:T703 Arg2:T705	
+R129	Associated_With Arg1:T703 Arg2:T702	
+T706	Chemical 24577 24586	SB 203580
+T707	Biological_Activity 24639 24649	stimulated
+R131	Associated_With Arg1:T337 Arg2:T707	
+T708	Biological_Activity 24598 24605	blocked
+R132	Associated_With Arg1:T706 Arg2:T708	
+T709	Biological_Activity 24717 24727	activation
+T710	Protein 24731 24739	p38 MAPK
+T711	Protein 24806 24836	anti-phospho-specific p38 MAPK
+T712	Protein 24885 24893	p38 MAPK
+T713	Biological_Activity 24894 24909	phosphorylation
+T714	Protein 25005 25013	p38 MAPK
+T715	Protein 25154 25162	p38 MAPK
+T716	Biological_Activity 25163 25178	phosphorylation
+T717	Biological_Activity 25365 25375	stimulated
+R133	Associated_With Arg1:T341 Arg2:T717	
+T718	Biological_Activity 25376 25391	phosphorylation
+R134	Associated_With Arg1:T341 Arg2:T718	
+T719	Protein 25395 25403	p38 MAPK
+T720	Chemical 25330 25344	(+)-butaclamol
+T721	Protein 25453 25461	p38 MAPK
+T722	Protein 25485 25497	D2 receptors
+T723	Biological_Activity 25568 25577	stimulate
+T724	Biological_Activity 25578 25589	mitogenesis
+R135	Associated_With Arg1:T342 Arg2:T723	
+R136	Associated_With Arg1:T342 Arg2:T724	
+T725	Biological_Activity 25656 25667	mitogenesis
+R137	Associated_With Arg1:T344 Arg2:T725	
+T726	Biological_Activity 25732 25743	mitogenesis
+R138	Associated_With Arg1:T345 Arg2:T726	
+T727	Biological_Activity 25744 25754	stimulated
+R139	Associated_With Arg1:T345 Arg2:T727	
+T728	Biological_Activity 25840 25851	mitogenesis
+T729	Protein 25861 25877	D2 receptor–MAPK
+T730	Protein 25924 25951	D2-receptor–tyrosine kinase
+T731	Biological_Activity 26015 26026	mitogenesis
+T732	Biological_Activity 26185 26194	stimulate
+R140	Associated_With Arg1:T347 Arg2:T732	
+T733	Protein 26195 26199	MAPK
+T734	Protein 26220 26227	protein
+T735	Chemical 26228 26236	tyrosine
+T736	Biological_Activity 26237 26252	phosphorylation
+T737	Biological_Activity 26261 26272	mitogenesis
+T738	Biological_Activity 26280 26289	inhibited
+T739	Protein 26305 26317	MAPK pathway
+T740	Protein 26513 26525	MAPK pathway
+T741	Protein 26831 26843	MAPK pathway
+T742	Protein 32585 32597	MAPK pathway
+T743	Protein 26362 26385	protein tyrosine kinase
+T744	Protein 26404 26408	MAPK
+T745	Biological_Activity 26429 26440	mitogenesis
+T746	Biological_Activity 26352 26361	stimulate
+R141	Associated_With Arg1:T346 Arg2:T746	
+R142	Associated_With Arg1:T346 Arg2:T745	
+T747	Biological_Activity 26448 26455	blocked
+T748	Protein 26459 26474	tyrosine kinase
+T749	Chemical 26459 26485	tyrosine kinase inhibitors
+R143	Associated_With Arg1:T749 Arg2:T747	
+T750	Protein 26697 26709	D2 receptors
+T751	Chemical 26901 26922	excitatory amino acid
+T752	Biological_Activity 26931 26944	neurotoxicity
+T753	Protein 27162 27166	prot
+T754	Chemical 27170 27178	tyrosine
+T755	Biological_Activity 27179 27194	phosphorylation
+T756	Protein 27199 27207	p38 MAPK
+T757	Biological_Activity 27208 27223	phosphorylation
+T758	Biological_Activity 27318 27328	activation
+R144	Associated_With Arg1:T355 Arg2:T758	
+T759	Biological_Activity 27442 27450	activate
+R145	Associated_With Arg1:T354 Arg2:T759	
+T760	Protein 27492 27501	receptors
+T761	Biological_Activity 27528 27538	stimulated
+T762	Biological_Activity 27539 27550	mitogenesis
+R146	Associated_With Arg1:T353 Arg2:T761	
+R147	Associated_With Arg1:T353 Arg2:T762	
+T763	Chemical 27569 27583	(+)-butaclamol
+T764	Protein 27597 27611	D2 DA receptor
+T765	Biological_Activity 27612 27622	antagonist
+R148	Associated_With Arg1:T763 Arg2:T765	
+T766	Chemical 27642 27656	(−)-butaclamol
+T767	Chemical 27681 27695	(+)-butaclamol
+R149	Binds_With Arg1:T763 Arg2:T764	
+T768	Chemical 27697 27707	Quinpirole
+T769	Protein 27720 27731	D2 receptor
+T770	Biological_Activity 27732 27739	agonist
+R150	Associated_With Arg1:T768 Arg2:T770	
+T771	Protein 27838 27851	D2 receptors,
+T772	Biological_Activity 27885 27896	stimulation
+R151	Associated_With Arg1:T351 Arg2:T772	
+T773	Biological_Activity 27949 27960	mitogenesis
+T774	Chemical 27982 27985	ROS
+T775	Chemical 28073 28082	monoamine
+T776	Protein 28073 28092	monoamine receptors
+T777	Protein 28102 28124	β adrenergic receptors
+T778	Biological_Activity 28221 28230	stimulate
+R152	Associated_With Arg1:T359 Arg2:T778	
+T779	Protein 28237 28246	receptors
+T780	Protein 28270 28282	DA receptors
+T781	Protein 28286 28294	receptor
+T782	Biological_Activity 28356 28366	stimulated
+R153	Associated_With Arg1:T362 Arg2:T782	
+T783	Chemical 28445 28448	NAC
+T784	Chemical 28469 28472	ROS
+T785	Biological_Activity 28460 28468	scavenge
+R154	Associated_With Arg1:T783 Arg2:T785	
+T786	Protein 28519 28530	D2-receptor
+T787	Protein 28575 28583	receptor
+T788	Protein 28674 28686	D2 receptors
+T789	Biological_Activity 28774 28785	stimulation
+R155	Associated_With Arg1:T360 Arg2:T789	
+T790	Protein 28820 28842	β adrenergic receptors
+T791	Biological_Activity 28599 28609	stimulated
+R156	Associated_With Arg1:T361 Arg2:T791	
+T792	Biological_Activity 28921 28931	stimulated
+R157	Associated_With Arg1:T371 Arg2:T792	
+T793	Biological_Activity 28932 28943	mitogenesis
+R158	Associated_With Arg1:T371 Arg2:T793	
+T794	Chemical 28995 28998	ROS
+T795	Biological_Activity 29049 29059	stimulated
+T796	Biological_Activity 29060 29071	mitogenesis
+R159	Associated_With Arg1:T370 Arg2:T795	
+R160	Associated_With Arg1:T370 Arg2:T796	
+T797	Biological_Activity 29079 29088	inhibited
+T798	Chemical 29092 29095	DPI
+T799	Chemical 29097 29100	DPI
+T800	Biological_Activity 29152 29161	inhibitor
+R161	Associated_With Arg1:T798 Arg2:T797	
+R162	Associated_With Arg1:T799 Arg2:T800	
+T801	Chemical 29181 29186	NADPH
+T802	Protein 29181 29204	NADPH-dependent oxidase
+T803	Biological_Activity 29215 29222	binding
+R163	Associated_With Arg1:T799 Arg2:T803	
+T804	Protein 29230 29242	flavoprotein
+T805	Protein 29260 29267	oxidase
+R164	Binds_With Arg1:T799 Arg2:T802	
+R165	Binds_With Arg1:T799 Arg2:T804	
+T806	Protein 29302 29325	NADPH-dependent oxidase
+T807	Chemical 29302 29307	NADPH
+T808	Chemical 29348 29364	substrate oxygen
+T809	Chemical 29358 29364	oxygen
+T810	Chemical 29383 29399	superoxide anion
+T811	Chemical 29434 29463	reactive oxygen intermediates
+T812	Biological_Activity 29486 29497	mitogenesis
+R166	Associated_With Arg1:T369 Arg2:T812	
+T813	Chemical 29550 29553	NAC
+T814	Biological_Activity 29537 29548	antioxidant
+R167	Associated_With Arg1:T813 Arg2:T814	
+T815	Chemical 29606 29611	H2 O2
+T816	Protein 29641 29648	protein
+T817	Chemical 29649 29657	tyrosine
+T818	Biological_Activity 29658 29673	phosphorylation
+T819	Biological_Activity 29678 29689	mitogenesis
+R168	Associated_With Arg1:T368 Arg2:T818	
+R169	Associated_With Arg1:T368 Arg2:T819	
+T820	Chemical 29723 29726	ROS
+T821	Biological_Activity 29793 29804	mitogenesis
+T822	Chemical 29859 29862	ROS
+T823	Chemical 29945 29953	mitogens
+T824	Chemical 29963 29973	endothelin
+T825	Biological_Activity 30012 30023	mitogenesis
+T826	Chemical 30033 30041	tyrosine
+T827	Biological_Activity 30042 30057	phosphorylation
+T828	Protein 30111 30118	protein
+T829	Chemical 30119 30127	tyrosine
+T830	Biological_Activity 30128 30143	phosphorylation
+T831	Chemical 30169 30177	tyrosine
+T832	Biological_Activity 30178 30193	phosphorylation
+T833	Protein 30267 30274	protein
+T834	Chemical 30275 30283	tyrosine
+T835	Biological_Activity 30284 30299	phosphorylation
+T836	Biological_Activity 30304 30315	mitogenesis
+T837	Chemical 30378 30387	genistein
+T838	Protein 30398 30421	protein tyrosine kinase
+T839	Biological_Activity 30422 30431	inhibitor
+R170	Associated_With Arg1:T837 Arg2:T839	
+T840	Chemical 30462 30469	mitogen
+T841	Chemical 30470 30480	endothelin
+T842	Biological_Activity 30496 30507	mitogenesis
+R171	Associated_With Arg1:T381 Arg2:T842	
+T843	Protein 30529 30544	tyrosine kinase
+T844	Chemical 30645 30653	PD098095
+T845	Protein 30659 30663	MEK1
+T846	Biological_Activity 30664 30673	inhibitor
+R172	Associated_With Arg1:T844 Arg2:T846	
+R173	Binds_With Arg1:T844 Arg2:T845	
+T847	Biological_Activity 30738 30749	mitogenesis
+R174	Associated_With Arg1:T379 Arg2:T847	
+T848	Biological_Activity 30823 30833	stimulated
+T849	Biological_Activity 30834 30845	mitogenesis
+R175	Associated_With Arg1:T378 Arg2:T848	
+R176	Associated_With Arg1:T378 Arg2:T849	
+T850	Protein 30892 30916	PTX-sensitive G proteins
+T851	Biological_Activity 31017 31025	inhibits
+T852	Biological_Activity 31029 31039	stimulated
+T853	Biological_Activity 31040 31051	mitogenesis
+R177	Associated_With Arg1:T377 Arg2:T852	
+R178	Associated_With Arg1:T377 Arg2:T853	
+T854	Chemical 31219 31227	tyrosine
+T855	Biological_Activity 31228 31243	phosphorylation
+R179	Associated_With Arg1:T375 Arg2:T855	
+T856	Biological_Activity 31201 31207	blocks
+T857	Biological_Activity 31271 31278	inhibit
+T858	Protein 31279 31286	protein
+T859	Chemical 31287 31295	tyrosine
+T860	Biological_Activity 31296 31311	phosphorylation
+T861	Biological_Activity 31339 31346	inhibit
+T862	Biological_Activity 31358 31369	mitogenesis
+R180	Associated_With Arg1:T374 Arg2:T862	
+T863	Protein 31428 31452	PTX-resistant G proteins
+T864	Biological_Activity 31522 31533	mitogenesis
+R181	Associated_With Arg1:T373 Arg2:T864	
+T865	Protein 31611 31620	receptors
+T866	Protein 31632 31658	PTX-insensitive G proteins
+T867	Protein 31672 31681	G protein
+T868	Protein 31682 31685	Ras
+T869	Protein 31732 31740	thrombin
+T870	Protein 31756 31763	mitogen
+T871	Protein 31857 31860	G12
+T872	Protein 31879 31899	GTP binding proteins
+T873	Protein 31917 31929	D2 receptors
+T874	Protein 31962 31971	prolactin
+T875	Protein 31998 32023	PTX-insensitive G protein
+T876	Protein 32053 32065	D2 receptors
+T877	Protein 32086 32112	PTX-insensitive G proteins
+T878	Protein 32116 32136	Ras small G proteins
+T879	Protein 32235 32243	p38 MAPK
+T880	Biological_Activity 31952 31961	stimulate
+T881	Biological_Activity 32327 32338	stimulation
+R182	Associated_With Arg1:T386 Arg2:T881	
+T882	Biological_Activity 32454 32463	inhibited
+T883	Chemical 32498 32506	SB203580
+T884	Biological_Activity 32527 32536	inhibitor
+T885	Biological_Activity 32409 32419	stimulated
+R183	Associated_With Arg1:T883 Arg2:T884	
+T886	Protein 32540 32548	p38 MAPK
+T887	Chemical 32601 32609	PD098059
+T888	Protein 32697 32705	p38 MAPK
+T889	Protein 32759 32767	p38 MAPK
+T890	Protein 32866 32874	p38 MAPK
+T891	Protein 32915 32927	D2 receptors
+T892	Protein 33008 33016	p38 MAPK
+T893	Chemical 33060 33064	cAMP
+T894	Protein 33091 33113	β-adrenergic receptors
+T895	Biological_Activity 33076 33087	stimulation
+T896	Biological_Activity 33125 33136	stimulation
+T897	Protein 33140 33157	adenylate cyclase
+T898	Chemical 33161 33170	forskolin
+R184	Associated_With Arg1:T898 Arg2:T896	
+T899	Chemical 33230 33234	cAMP
+T900	Protein 33238 33246	p38 MAPK
+T901	Protein 33397 33408	D2-receptor
+T902	Protein 33432 33461	redox–protein tyrosine kinase
+T903	Biological_Activity 33512 33523	mitogenesis
+T904	Biological_Activity 33492 33503	stimulation
+T905	Protein 33540 33551	D2 receptor
+T906	Protein 33564 33572	p38 MAPK
+T907	Biological_Activity 33603 33614	stimulation
+T908	Species 33663 33666	rat
+T909	Chemical 33803 33819	[3 H  ]thymidine
+T910	Chemical 33916 33932	[3 H  ]thymidine

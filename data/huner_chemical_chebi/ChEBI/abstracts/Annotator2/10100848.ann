@@ -1,0 +1,46 @@
+T1	Chemical 34 46	methyl ester
+T2	Chemical 50 62	hepoxilin A3
+T3	Species 178 183	human
+T4	Chemical 34 62	methyl ester of hepoxilin A3
+T5	Chemical 215 224	free acid
+#1	AnnotatorNotes T5	Inferred from previous sentence
+T7	Chemical 305 317	hepoxilin A3
+T9	Chemical 415 422	ethanol
+T10	Chemical 442 446	DMSO
+T11	Chemical 452 464	methyl ester
+T12	Chemical 545 554	free acid
+T13	Chemical 563 575	methyl ester
+T15	Chemical 740 752	hepoxilin A3
+T16	Chemical 774 786	methyl ester
+T18	Chemical 865 874	free acid
+T19	Chemical 1114 1132	Lanthanum chloride
+T20	Biological_Activity 1137 1146	inhibitor
+R7	Associated_With Arg1:T19 Arg2:T20	
+T21	Chemical 1259 1268	hepoxilin
+T22	Chemical 1308 1326	lanthanum chloride
+T23	Chemical 1341 1350	hepoxilin
+T24	Chemical 1395 1402	calcium
+T25	Chemical 111 118	calcium
+T26	Chemical 391 398	calcium
+T27	Chemical 517 524	calcium
+T28	Chemical 702 709	calcium
+T29	Chemical 840 847	calcium
+T30	Chemical 1465 1472	calcium
+T31	Chemical 1566 1573	calcium
+T33	Chemical 1592 1604	methyl ester
+T34	Chemical 1629 1638	free acid
+T35	Chemical 1741 1753	methyl ester
+T36	Chemical 1757 1769	hepoxilin A3
+T37	Chemical 1741 1769	methyl ester of hepoxilin A3
+T38	Chemical 1824 1833	free acid
+T39	Chemical 1886 1890	DMSO
+T40	Chemical 1906 1915	hepoxilin
+T41	Chemical 1916 1925	free acid
+T42	Chemical 1906 1925	hepoxilin free acid
+T43	Chemical 1974 1981	ethanol
+T44	Chemical 2014 2023	hepoxilin
+T47	Chemical 2067 2074	calcium
+T49	Chemical 2142 2149	calcium
+T50	Chemical 305 317;452 464	hepoxilin A3 methyl ester
+T6	Chemical 1150 1157	calcium
+T8	Protein 72 80	receptor

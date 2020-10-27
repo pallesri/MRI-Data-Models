@@ -1,0 +1,23 @@
+T1	Protein 10 17	enzymes
+T4	Species 110 134	Saccharomyces cerevisiae
+T5	Chemical 25 43	tricarboxylic acid
+T6	Species 165 170	yeast
+T7	Chemical 45 48	TCA
+T8	Chemical 271 274	TCA
+T10	Chemical 304 307	TCA
+T12	Chemical 413 419	carbon
+T13	Protein 561 600	NAD+-dependent isocitrate dehydrogenase
+T14	Protein 602 609	NAD-IDH
+T15	Chemical 658 666	glycerol
+T16	Protein 779 805	TCA cycle citrate synthase
+T17	Biological_Activity 838 848	metabolism
+T19	Chemical 854 857	TCA
+T21	Chemical 969 972	TCA
+T22	Chemical 1041 1049	glycerol
+T23	Chemical 1066 1069	TCA
+T25	Chemical 1155 1163	glycerol
+T26	Chemical 1180 1183	TCA
+T28	Chemical 1210 1218	glycerol
+T29	Protein 1361 1368	NAD-IDH
+T30	Chemical 1392 1395	TCA
+T32	Protein 271 289	TCA cycle proteins

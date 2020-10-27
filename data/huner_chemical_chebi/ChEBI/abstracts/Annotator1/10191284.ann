@@ -1,0 +1,27 @@
+T1	Chemical 46 75	3-methyl-branched fatty acids
+T2	Biological_Activity 33 42	oxidation
+T3	Species 91 94	rat
+T4	Chemical 102 104;111 136	R- 3-methylhexadecanoic acid
+T5	Chemical 109 136	S-3-methylhexadecanoic acid
+T6	Chemical 334 354	2-methylpentadecanal
+T7	Chemical 410 435	3-methylhexadecanoic acid
+T8	Metabolite 334 354	2-methylpentadecanal
+R1	Metabolite_Of Arg1:T8 Arg2:T7	
+T9	Chemical 440 466	2-methylpentadecanoic acid
+T10	Chemical 500 520	R-1-phenylethylamine
+T11	Biological_Activity 397 406	oxidation
+T12	Biological_Activity 684 693	oxidation
+T13	Chemical 735 769	2-hydroxy-3-methylhexadecanoyl-CoA
+T14	Metabolite 735 769	2-hydroxy-3-methylhexadecanoyl-CoA
+R2	Metabolite_Of Arg1:T14 Arg2:T7	
+R3	Metabolite_Of Arg1:T8 Arg2:T13	
+T15	Chemical 825 841;862 897	methyl esters of 2-hydroxy-3-methylhexadecanoic acid
+T16	Chemical 961 974	hydroxy group
+T17	Chemical 980 1035	R-2-methoxy-2-trifluoromethylphenylacetic acid chloride
+T18	Chemical 1181 1215	2-hydroxy-3-methylhexadecanoyl-CoA
+T19	Biological_Activity 1355 1364	oxidation
+T20	Biological_Activity 1452 1461	oxidation
+T21	Chemical 1542 1568	2-hydroxy-3-methylacyl-CoA
+T22	Metabolite 1542 1568	2-hydroxy-3-methylacyl-CoA
+T23	Biological_Activity 261 270	oxidation
+T24	Biological_Activity 703 713	Metabolism

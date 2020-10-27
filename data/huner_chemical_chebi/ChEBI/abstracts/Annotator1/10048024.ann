@@ -1,0 +1,21 @@
+T1	Species 35 56	Bacillus subtilis 168
+T2	Chemical 127 143	teichuronic acid
+T3	Chemical 203 218	UDP-glucuronate
+T4	Chemical 307 316	phosphate
+T5	Chemical 370 377	uronate
+T7	Chemical 458 469	phosphate  
+T8	Chemical 645 654	phosphate
+T9	Metabolite 697 708	uronic acid
+T10	Chemical 822 830;847 851	teichoic acid
+#1	AnnotatorNotes T10	Implied: teichoic acid
+T11	Chemical 835 851	teichuronic acid
+T12	Metabolite 127 143	teichuronic acid
+T13	Metabolite 203 218	UDP-glucuronate
+R1	Isolated_From Arg1:T13 Arg2:T1	
+T14	Metabolite 822 830;847 851	teichoic acid
+T15	Metabolite 835 851	teichuronic acid
+R2	Isolated_From Arg1:T12 Arg2:T1	
+R3	Metabolite_Of Arg1:T12 Arg2:T3	
+T6	Chemical 697 708	uronic acid
+T16	Chemical 945 953	polymers
+T17	Biological_Activity 765 772	inducer

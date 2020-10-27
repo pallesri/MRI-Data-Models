@@ -1,0 +1,17 @@
+T1	Chemical 30 54	(Z)-3-hexen-1-yl acetate
+T2	Chemical 59 65	hexane
+T3	Chemical 95 111	(Z)-3-hexen-1-ol
+T4	Chemical 117 128	acetic acid
+T5	Protein 185 191	lipase
+T7	Species 197 215	Candida antarctica
+T8	Species 217 228	Novozym 435
+#1	AnnotatorNotes T5	An enzyme
+T9	Chemical 376 381	water
+T10	Chemical 469 474	ester
+T11	Chemical 604 609	water
+T14	Chemical 742 747	water
+T16	Protein 803 809	lipase
+T17	Chemical 1162 1186	(Z)-3-hexen-1-yl acetate
+T6	Protein 856 862	enzyme
+T12	Protein 1059 1065	enzyme
+T13	Protein 1126 1132	enzyme

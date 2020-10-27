@@ -1,0 +1,14 @@
+T1	Chemical 16 26	butan-1-ol
+T2	Chemical 79 100	3-methyl-cholarthrene
+T3	Species 113 121	hamsters
+T4	Chemical 153 158	lipid
+T5	Chemical 176 181	lipid
+T7	Protein 218 234	cytochrome P-450
+T8	Chemical 311 330	dimethylnitrosamine
+T10	Chemical 358 368	butan-1-ol
+T11	Chemical 385 397	phospholipid
+T12	Chemical 401 420	phosphatidylcholine
+T13	Chemical 491 503	phospholipid
+T14	Chemical 504 533	dilauroyl phosphatidylcholine
+T15	Chemical 591 602;617 636	dipalmitoyl phosphatidylcholine
+T16	Chemical 606 636	distearoyl phosphatidylcholine

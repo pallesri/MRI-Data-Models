@@ -1,0 +1,585 @@
+T1	Species 30 39	helminths
+T2	Species 186 193	animals
+T3	Species 60 66	people
+T4	Biological_Activity 289 302	immunological
+T5	Species 344 353	helminths
+T6	Chemical 411 426	glycoconjugates
+T7	Metabolite 411 426	glycoconjugates
+T8	Biological_Activity 466 481	immune response
+T9	Species 529 537	helminth
+T10	Chemical 538 550	carbohydrate
+T11	Metabolite 538 550	carbohydrate
+T12	Species 627 635	helminth
+T13	Biological_Activity 654 663	induction
+T14	Protein 676 679	IgE
+T15	Protein 715 725	T-helper-2
+T16	Protein 727 730	Th2
+T17	Chemical 761 768	antigen
+T18	Protein 774 777	IgE
+T19	Biological_Activity 791 801	activation
+T20	Biological_Activity 806 819	proliferation
+T21	Protein 924 927	IgE
+T22	Species 1 10	Parasitic
+T23	Species 334 343	parasitic
+T24	Species 1004 1012	parasite
+T25	Protein 1022 1025	IgE
+T26	Biological_Activity 1093 1103	protective
+T27	Protein 1113 1116	IgE
+T28	Species 1183 1191	parasite
+T29	Chemical 1192 1200	antigens
+T30	Biological_Activity 1206 1212	induce
+T31	Protein 1219 1222	IgE
+T32	Chemical 1234 1243	N-glycans
+T33	Chemical 1261 1306	α1→3-Fuc’ (R-GlcNAcβ1→4(Fucα1→3)GlcNAcβ1-Asn)
+T34	Chemical 1318 1354	β1→2-Xyl’ (Xylβ1→2Manβ1→4GlcNAcβ1-R)
+T35	Species 1373 1378	plant
+T36	Species 1380 1386	insect
+T37	Species 1391 1398	mollusc
+T38	Species 1408 1417	mammalian
+T39	Protein 1419 1432	glycoproteins
+T40	Biological_Activity 1469 1482	allergenicity
+T41	Protein 1487 1490	IgE
+T42	Species 1602 1610	nematode
+T43	Species 1611 1631	Haemonchus contortus
+T44	Protein 1643 1656	glycoproteins
+T45	Chemical 1671 1688	α1→3-Fuc residues
+T46	Biological_Activity 1737 1745	epitopes
+T47	Chemical 1728 1744	β1→2-Xyl epitope
+T48	Chemical 1715 1723;1737 1744	α1→3-Fuc epitope
+T49	Species 1772 1785	glycoproteins
+T50	Species 1793 1798	human
+T51	Species 1799 1811	schistosomes
+T52	Species 1813 1832	Schistosoma mansoni
+T53	Species 1838 1859	Schistosoma japonicum
+T54	Biological_Activity 1900 1908	epitopes
+T55	Chemical 1891 1908	β1→2-Xyl epitopes
+T56	Chemical 1878 1886;1900 1907	α1→3-Fuc epitope
+T57	Protein 1933 1936	IgE
+T58	Species 1958 1966	helminth
+T59	Biological_Activity 2021 2029	epitopes
+T60	Species 2039 2048	helminths
+T61	Protein 2071 2084	glycoproteins
+T62	Species 2098 2107	parasitic
+T63	Species 2108 2117	helminths
+T64	Species 2147 2155	nematode
+T65	Species 2156 2178	Caenorhabditis elegans
+T66	Protein 2223 2240;2263 2273	α1→3-Fuc specific antibodies
+T67	Protein 2245 2273	β1→2-Xyl specific antibodies
+T68	Chemical 2359 2365	glycan
+T69	Species 2408 2417	helminths
+T70	Chemical 2447 2454	glycans
+T71	Chemical 2469 2477	α1→3-Fuc
+T72	Protein 2496 2510	IgE antibodies
+T73	Species 2516 2521	sheep
+T74	Species 2536 2548	H. contortus
+T75	Species 2554 2558	mice
+T76	Species 2573 2583	S. mansoni
+T77	Chemical 2615 2622	Antigen
+T78	Species 2645 2653	Honeybee
+T79	Protein 2660 2676	phospholipase A2
+T80	Protein 2678 2682	PLA2
+T81	Species 2688 2697	cucurbita
+T82	Protein 2698 2715	ascorbate oxidase
+T83	Species 2749 2761	H. contortus
+T84	Species 2810 2815	sheep
+T85	Species 2863 2875	H. contortus
+T86	Species 2952 2957	Sheep
+T87	Species 3015 3020	sheep
+T88	Species 3055 3067	H. contortus
+T89	Species 3114 3133	Dirofilaria immitis
+T90	Species 3136 3156	Hymenolepis diminuta
+T91	Species 3159 3176	Fasciola hepatica
+T92	Species 3179 3189	S. mansoni
+T93	Species 3192 3204	S. japonicum
+T94	Species 3210 3233	Schistosoma haematobium
+T95	Species 3279 3289	C. elegans
+T96	Species 3326 3330	worm
+T97	Chemical 3342 3350	SDS-PAGE
+T98	Species 3453 3473	Trichinella spiralis
+T99	Species 3476 3490	Toxocara canis
+T100	Species 3496 3505	cercariae
+T101	Species 3509 3533	Trichobilharzia ocellata
+T102	Chemical 3562 3565	PBS
+T103	Protein 3580 3588	protease
+T104	Biological_Activity 3589 3599	inhibitors
+T105	Chemical 3600 3608	Pefabloc
+T106	Chemical 3620 3624	EDTA
+T107	Chemical 3638 3647	leupeptin
+T108	Chemical 3660 3669	pepstatin
+T109	Protein 3682 3691	aprotinin
+R1	Associated_With Arg1:T105 Arg2:T104	
+R2	Binds_With Arg1:T105 Arg2:T103	
+R3	Associated_With Arg1:T106 Arg2:T104	
+R4	Binds_With Arg1:T106 Arg2:T103	
+R5	Associated_With Arg1:T107 Arg2:T104	
+R6	Binds_With Arg1:T107 Arg2:T103	
+R7	Associated_With Arg1:T108 Arg2:T104	
+R8	Binds_With Arg1:T108 Arg2:T103	
+T110	Chemical 3758 3770	Triton X-100
+T111	Chemical 3816 3819	ice
+T112	Chemical 3850 3858	SDS-PAGE
+T115	Protein 2958 2966	antisera
+T116	Protein 3972 3980	antisera
+T113	Protein 4003 4029	β1→2-Xyl specific antisera
+T114	Protein 3990 3998;4012 4029	α1→3-Fuc specific antisera
+T117	Protein 4084 4093	antiserum
+T118	Protein 4109 4131	horseradish peroxidase
+T119	Species 4109 4120	horseradish
+T120	Species 4174 4182	honeybee
+T121	Protein 4183 4187	PLA2
+T122	Chemical 4236 4244	α1→3-Fuc
+T123	Chemical 4249 4257	β1→2-Xyl
+T124	Protein 4273 4281	Antisera
+T125	Species 4365 4373	Helminth
+T126	Protein 4410 4417	protein
+T127	Protein 4535 4543	antibody
+T128	Protein 4647 4680	β1→2-Xyl containing glycoproteins
+T129	Protein 4634 4642;4656 4679	α1→3-Fuc containing glycoprotein
+T130	Species 4682 4688	rabbit
+T131	Protein 4722 4755	anti-β1→2-Xyl specific antibodies
+T132	Protein 4700 4705;4710 4718;4736 4755	anti- α1→3-Fuc specific antibodies
+T133	Protein 4779 4787	antibody
+T134	Species 4792 4796	goat
+T135	Species 4802 4808	rabbit
+T136	Protein 4810 4813	IgG
+T137	Protein 4814 4817	IgM
+T138	Protein 4819 4829	peroxidase
+T139	Protein 4893 4901	antibody
+T140	Species 4920 4925	mouse
+T141	Protein 4926 4929	IgE
+T142	Species 4992 4997	mouse
+T143	Species 5032 5038	rabbit
+T144	Species 5044 5049	mouse
+T145	Protein 5050 5053	IgE
+T146	Protein 5054 5064	peroxidase
+T147	Biological_Activity 5130 5135	Bound
+T148	Protein 5136 5146	antibodies
+T149	Chemical 5179 5192	chloronaphtol
+T150	Chemical 5196 5199	TBS
+T151	Chemical 5217 5222	H2 O2
+T152	Species 5333 5345	H. contortus
+T153	Protein 5351 5355	PLA2
+T154	Species 5357 5377	Arabidopsis thaliana
+T155	Species 5380 5391	A. thaliana
+T156	Species 5402 5407	human
+T157	Protein 5408 5419	transferrin
+T158	Protein 5433 5446	glycoproteins
+T159	Species 5465 5470	sheep
+T160	Biological_Activity 5537 5547	inhibition
+T161	Protein 5605 5618	glycoproteins
+T162	Biological_Activity 5629 5639	inhibition
+T163	Protein 5690 5703	glycoproteins
+T164	Chemical 5709 5724	monosaccharides
+T165	Chemical 5725 5730	D-Glc
+T166	Chemical 5732 5737	L-Fuc
+T167	Chemical 5739 5744	D-Xyl
+T168	Chemical 5748 5753	L-Xyl
+T169	Species 5772 5777	sheep
+T170	Protein 5886 5912	β1→2-Xyl specific antisera
+T171	Protein 5873 5880;5895 5912	α1→3-Fu specific antisera
+T172	Protein 5917 5925	antisera
+T173	Species 5969 5974	plant
+T174	Protein 5975 5987	glycoprotein
+T175	Species 5988 5999	horseradish
+T176	Protein 5988 6010	horseradish peroxidase
+T177	Chemical 6026 6033	glycans
+T178	Protein 6074 6083	antiserum
+T179	Species 6109 6117	honeybee
+T180	Protein 6124 6140	phospholipase A2
+T182	Protein 6142 6146	PLA2
+T181	Chemical 6212 6220	α1→3-Fuc
+T183	Chemical 6225 6233	β1→2-Xyl
+T184	Protein 6287 6297	antibodies
+T185	Species 6340 6349	mammalian
+T186	Protein 6350 6363	glycoproteins
+T187	Chemical 6390 6398	α1→3-Fuc
+T188	Chemical 6404 6412	β1→2-Xyl
+T189	Protein 6463 6471	antisera
+T190	Protein 6494 6507	glycoproteins
+T191	Species 6536 6547	A. thaliana
+T192	Chemical 6575 6584	N-glycans
+T193	Chemical 6659 6666	mannose
+T194	Chemical 6672 6681	N-glycans
+T195	Chemical 6704 6720;6742 6751	α1→3-fucosylated N-glycans
+T196	Chemical 6725 6751	β1→2-xylosylated N-glycans
+T197	Species 6821 6832	A. thaliana
+T198	Protein 6844 6852	antisera
+T199	Biological_Activity 6861 6865	bind
+T200	Protein 6869 6882	glycoproteins
+T201	Species 6905 6916	A. thaliana
+T202	Protein 6927 6961	N -acetylglucosaminyltransferase I
+T203	Chemical 7026 7050	β2-xylosylated N-glycans
+T204	Protein 7007 7021;7041 7050	α3-fucosylated N-glycans
+T205	Protein 7170 7188	α1→3-Fuc antiserum
+T206	Chemical 7194 7197	LPS
+T207	Species 7203 7233	Helicobacter pylori  strain O3
+T208	Chemical 7246 7268	Galβ1→4(Fucα1→3)GlcNAc
+T209	Chemical 7284 7294	sialyl-Lex
+T210	Protein 7307 7328	α1 -acid glycoprotein
+T211	Protein 7330 7333	AGP
+T212	Species 7348 7356	patients
+T213	Protein 7405 7431	α1→6-fucosylated human IgG
+T214	Species 7422 7427	human
+T215	Protein 7436 7488	neoglycoprotein containing GalNAcβ1→4(Fucα1→3)GlcNAc
+T216	Protein 7528 7555	α1→3-Fuc specific antiserum
+T217	Chemical 7581 7594	Fucα1→3GlcNAc
+T218	Chemical 7649 7665	O-linked glycans
+T219	Chemical 7643 7645	N-
+T220	Chemical 7690 7707	β1→2-Xyl residues
+T221	Chemical 7677 7685;7699 7707	α1→3-Fuc residues
+T222	Protein 7711 7718	protein
+T223	Chemical 7726 7733	glycans
+T224	Species 7747 7756	helminths
+T225	Chemical 7791 7808	β1→2-Xyl residues
+T226	Chemical 7778 7786;7800 7808	α1→3-Fuc residues
+T227	Protein 7812 7819	protein
+T228	Chemical 7827 7834	glycans
+T229	Species 7848 7857	helminths
+T230	Protein 7940 7966	β1→2-Xyl specific antisera
+T231	Protein 7927 7935;7949 7966	α1→3-Fuc specific antisera
+T232	Species 8011 8020	helminths
+T233	Species 8044 8055	T. ocellata
+T234	Species 8081 8090	cercariae
+T235	Chemical 8133 8141	antigens
+T236	Species 8159 8171	H. contortus
+T237	Chemical 8231 8251	soluble egg antigens
+T238	Species 8218 8228	S. mansoni
+T239	Chemical 8179 8198;8204 8212	excretory/secretory antigens
+T240	Species 8282 8291	helminths
+T241	Protein 8314 8327	glycoproteins
+T242	Protein 8376 8404	α1→3-Fuc specific antibodies
+T243	Species 8426 8437	H. diminuta
+T244	Species 8440 8451	F. hepatica
+T245	Species 8457 8465	T. canis
+T246	Protein 8467 8480	glycoproteins
+T247	Protein 8527 8554	β1→2-Xyl specific antiserum
+T248	Biological_Activity 8562 8569	binding
+T249	Protein 8573 8586	glycoproteins
+T250	Species 8620 8630	C. elegans
+T251	Species 8633 8643	S. mansoni
+T252	Species 8646 8660	S. haematobium
+T253	Species 8663 8673	S. mansoni
+T254	Chemical 8675 8686	SE antigens
+T255	Species 8688 8698	D. immitis
+T256	Species 8701 8709	T. canis
+T257	Species 8719 8728	cercariae
+T258	Species 8732 8743	T. ocellata
+T259	Biological_Activity 8757 8764	binding
+T260	Species 8793 8801	parasite
+T261	Protein 8847 8850	IgE
+T262	Biological_Activity 8862 8872	S. mansoni
+T263	Species 8883 8887	mice
+T264	Species 8906 8917	A. thaliana
+T265	Protein 8919 8932	glycoproteins
+T266	Species 8982 8986	mice
+T267	Species 8992 9002	S. mansoni
+T268	Protein 9015 9018	IgE
+T269	Chemical 9051 9077	β1→2-xylosylated N-glycans
+T270	Chemical 9027 9043;9068 9077	α1→3-fucosylated N-glycans
+T271	Protein 9104 9112	proteins
+T272	Species 9116 9126	S. mansoni
+T273	Species 9129 9140	A. thaliana
+T274	Species 9170 9181	A. thaliana
+T275	Chemical 9200 9208	antigens
+T276	Protein 9246 9256	antibodies
+T277	Protein 9258 9261	IgE
+T278	Species 9282 9286	mice
+T279	Species 9316 9326	S. mansoni
+T280	Biological_Activity 9328 9333	binds
+T281	Species 9345 9355	S. mansoni
+T282	Protein 9357 9365	proteins
+T283	Protein 9382 9385	IgE
+T284	Species 9398 9403	mouse
+T285	Protein 9437 9440	IgE
+T286	Species 9459 9463	mice
+T287	Protein 9494 9502	proteins
+T288	Species 9506 9517	A. thaliana
+T289	Protein 9570 9580	antibodies
+T290	Chemical 9617 9624	glycans
+T291	Chemical 9653 9669	β1→2-Xyl residue
+T292	Chemical 9641 9649;9662 9669	α1→3-Fuc residue
+T293	Biological_Activity 9709 9716	binding
+T294	Protein 9724 9727	IgE
+T295	Protein 9728 9738	antibodies
+T296	Species 9753 9757	mice
+T297	Species 9763 9771	honeybee
+T298	Protein 9772 9776	PLA2
+T299	Chemical 9827 9835	α1→3-Fuc
+T300	Biological_Activity 9842 9849	epitope
+R9	Associated_With Arg1:T299 Arg2:T300	
+T301	Species 9861 9871	S. mansoni
+T302	Species 9882 9886	mice
+T303	Protein 9893 9896	IgE
+T304	Species 9910 9922	H. contortus
+T305	Species 9933 9938	sheep
+T306	Chemical 9955 9981	α1→3-fucosylated N-glycans
+T307	Species 9992 9997	sheep
+T308	Species 10012 10024	H. contortus
+T309	Protein 10084 10087	IgE
+T310	Species 10109 10114	sheep
+T311	Species 10126 10138	H. contortus
+T312	Protein 10140 10156	ES glycoproteins
+T313	Species 10158 10166	honeybee
+T314	Protein 10167 10171	PLA2
+T315	Species 10176 10187	A. thaliana
+T316	Protein 10189 10202	glycoproteins
+T317	Species 10226 10231	human
+T318	Protein 10232 10243	transferrin
+T319	Protein 10247 10260	glycoproteins
+T320	Species 10285 10296	A. thaliana
+T321	Chemical 10315 10323	antigens
+T322	Biological_Activity 10338 10345	binding
+T323	Protein 10349 10352	IgG
+T324	Protein 10353 10363	antibodies
+T325	Species 10382 10387	sheep
+T326	Species 10396 10407	A. thaliana
+T327	Protein 10413 10417	PLA2
+T328	Protein 10418 10426	proteins
+T329	Protein 10458 10461	IgG
+T330	Biological_Activity 10462 10469	binding
+T331	Species 10491 10503	H. contortus
+T332	Protein 10505 10516	ES proteins
+T333	Protein 10563 10566	IgE
+T334	Species 10584 10596	H. contortus
+T335	Species 10607 10612	sheep
+T336	Biological_Activity 10642 10649	epitope
+T337	Chemical 10633 10649	α1→3-Fuc epitope
+T338	Species 10670 10675	plant
+T339	Protein 10676 10689	glycoproteins
+T340	Species 10694 10702	honeybee
+T341	Protein 10703 10707	PLA2
+T342	Biological_Activity 10747 10757	inhibition
+T343	Protein 10818 10822	PLA2
+T344	Biological_Activity 10829 10834	block
+T345	Biological_Activity 10839 10846	binding
+T346	Protein 10850 10853	IgE
+T347	Species 10868 10873	sheep
+T348	Protein 10877 10879	ES
+T349	Protein 10892 10894	ES
+T350	Biological_Activity 10901 10906	block
+T351	Biological_Activity 10911 10918	binding
+T352	Protein 10927 10930	IgE
+T353	Protein 10934 10938	PLA2
+T354	Species 10948 10953	human
+T355	Protein 10954 10965	transferrin
+T356	Chemical 10983 10989	fucose
+T357	Protein 11008 11011	IgE
+T358	Biological_Activity 10998 11003	block
+T359	Biological_Activity 11012 11019	binding
+T360	Biological_Activity 11021 11028	Binding
+T361	Species 11032 11037	sheep
+T362	Protein 11038 11041	IgE
+T363	Species 11045 11057	H. contortus
+T364	Protein 11059 11061	ES
+T365	Biological_Activity 11066 11075	inhibited
+T366	Chemical 11086 11091	L-Fuc
+T367	Chemical 11154 11159	D-Xyl
+T368	Chemical 11161 11166	L-Xyl
+T369	Chemical 11170 11175	D-Glc
+T370	Biological_Activity 11192 11202	inhibition
+T371	Protein 11300 11302	ES
+T372	Protein 11312 11315	IgE
+T373	Species 11331 11343	H. contortus
+T374	Species 11354 11359	sheep
+T375	Chemical 11376 11402	α1→3-fucosylated N-glycans
+T376	Protein 11448 11451	IgE
+T377	Species 11466 11476	S. mansoni
+T378	Species 11487 11491	mice
+T379	Species 11496 11508	H. contortus
+T380	Species 11519 11524	sheep
+T381	Species 11543 11554	A. thaliana
+T382	Protein 11556 11569	glycoproteins
+T383	Chemical 11586 11602;11624 11633	α1→3-fucosylated N-glycans
+T384	Chemical 11607 11633	β1→2-xylosylated N-glycans
+T385	Protein 11648 11651	IgE
+T386	Biological_Activity 11676 11680	bind
+T387	Protein 11684 11697	glycoproteins
+T388	Species 11720 11731	A. thaliana
+T389	Chemical 11753 11761	antigens
+T390	Chemical 11785 11791	glycan
+T391	Chemical 11876 11893	β1→2-Xyl residues
+T392	Chemical 11856 11864;11885 11893	α1→3-Fuc residues
+T393	Biological_Activity 11898 11906	epitopes
+R10	Associated_With Arg1:T392 Arg2:T393	
+R11	Associated_With Arg1:T391 Arg2:T393	
+T394	Protein 11916 11919	IgE
+T395	Species 11925 11935	S. mansoni
+T396	Species 11946 11950	mice
+T397	Species 11955 11967	H. contortus
+T398	Species 11978 11983	sheep
+T399	Species 12015 12020	human
+T400	Species 12021 12032	schistosome
+T401	Species 12033 12043	S. mansoni
+T402	Protein 12057 12070	glycoproteins
+T403	Chemical 12090 12098;12112 12120	α1→3-Fuc residues
+T404	Chemical 12103 12120	β1→2-Xyl residues
+T405	Protein 12204 12232	β1→2-Xyl specific antibodies
+T406	Protein 12191 12199;12213 12233	α1→3-Fuc specific antibodies.
+T407	Chemical 12251 12259	antigens
+T408	Species 12276 12283	mammals
+T409	Protein 12318 12340	anti-glycan antibodies
+T410	Species 12348 12359	schistosome
+T411	Species 12495 12505	S. mansoni
+T412	Chemical 12434 12442	antigens
+T413	Species 12446 12457	A. thaliana
+T414	Biological_Activity 12475 12482	binding
+T415	Protein 12486 12489	IgE
+T416	Species 12516 12520	mice
+T417	Species 12548 12556	nematode
+T418	Species 12557 12569	H. contortus
+T419	Protein 12580 12593	glycoproteins
+T420	Chemical 12608 12634	α1→3-fucosylated N-glycans
+T421	Chemical 12687 12695	β1→2-Xyl
+T422	Chemical 12745 12753	α1→3-Fuc
+T423	Species 12774 12785	A. thaliana
+T424	Biological_Activity 12787 12794	epitope
+T425	Protein 12813 12816	IgE
+T426	Species 12822 12834	H. contortus
+T427	Species 12845 12850	sheep
+T428	Chemical 12927 12943	α1→3-Fuc residue
+T429	Biological_Activity 12962 12969	epitope
+T430	Species 12984 12992	parasite
+T431	Species 13020 13032	H. contortus
+T432	Species 13043 13048	sheep
+T433	Protein 13074 13077	IgG
+T434	Chemical 13102 13109	antigen
+T435	Protein 13155 13158	IgM
+T436	Protein 13162 13165	IgG
+T437	Protein 13166 13176	antibodies
+T438	Species 13211 13219	parasite
+T439	Species 13244 13252	parasite
+T440	Chemical 13261 13273	carbohydrate
+T441	Biological_Activity 13381 13388	epitope
+T442	Chemical 13372 13388	α1→3-Fuc epitope
+T443	Protein 13415 13418	Th2
+T444	Protein 13457 13460	IgE
+T445	Chemical 13520 13526	fucose
+T446	Protein 13536 13539	IgE
+T447	Biological_Activity 13568 13575	inducer
+T448	Protein 13581 13584	Th2
+T449	Species 13658 13661	bee
+T450	Protein 13662 13667	venom
+T451	Species 13679 13687	subjects
+T452	Biological_Activity 13694 13705	proliferate
+T453	Species 13721 13729	honeybee
+T454	Protein 13730 13734	PLA2
+T455	Chemical 13822 13830	N-glycan
+T456	Chemical 13911 13928	α-1→3-Fuc antigen
+T457	Biological_Activity 13950 13963	immunological
+R12	Associated_With Arg1:T456 Arg2:T457	
+T458	Species 14029 14034	sheep
+T459	Protein 14040 14042	ES
+T460	Chemical 14043 14051	antigens
+T461	Species 14055 14067	H. contortus
+T462	Biological_Activity 14069 14076	induces
+T463	Biological_Activity 14077 14087	protection
+T464	Biological_Activity 14130 14140	protection
+T465	Protein 14160 14163	IgE
+T466	Protein 14181 14184	IgG
+T467	Chemical 14222 14238	α1→3-Fuc antigen
+T468	Biological_Activity 14259 14269	protective
+T469	Chemical 14270 14277	antigen
+R13	Associated_With Arg1:T467 Arg2:T468	
+T470	Species 14281 14293	H. contortus
+T471	Species 14325 14333	helminth
+T472	Biological_Activity 14421 14429	epitopes
+T473	Chemical 14409 14429	xylosylated epitopes
+T474	Chemical 14388 14399;14421 14429	fucosylated epitopes
+T475	Species 14439 14448	helminths
+T476	Species 14507 14516	helminths
+T477	Species 14546 14551	phyla
+T478	Species 14552 14567	Platyhelminthes
+T479	Species 14572 14581	Nematodes
+T480	Protein 14593 14606	glycoproteins
+T481	Chemical 14623 14649	α1→3-fucosylated N-glycans
+T482	Chemical 14706 14715	N-glycans
+T483	Chemical 14771 14779	β1→2-Xyl
+T484	Protein 14794 14807	glycoproteins
+T485	Species 14817 14829	S. japonicum
+T486	Species 14852 14862	S. mansoni
+T487	Species 14868 14882	S. haematobium
+T488	Protein 14896 14926	β1→2-xylosylated glycoproteins
+T489	Chemical 14987 15015	f β1→2-xylosylated N-glycans
+T490	Protein 15023 15036	glycoproteins
+T491	Species 15040 15052	S. japonicum
+T492	Species 15082 15094	S. japonicum
+T493	Species 15152 15157	plant
+T494	Protein 15167 15176	antiserum
+T495	Biological_Activity 15194 15198	bind
+T496	Chemical 15209 15226	β1→2-Xyl residues
+T497	Biological_Activity 15250 15257	epitope
+T498	Chemical 15297 15303	fucose
+T499	Species 15412 15417	plant
+T500	Species 15419 15428	arthropod
+T501	Species 15433 15440	mollusc
+T502	Protein 15513 15521	proteins
+T503	Protein 15526 15535	profilins
+T504	Species 15539 15545	plants
+T505	Protein 15557 15569	tropomyosins
+T506	Species 15573 15582	crustacea
+T507	Species 15587 15595	mollusca
+T508	Species 15649 15658	parasitic
+T509	Species 15659 15668	helminths
+T510	Species 15682 15691	helminths
+T511	Species 15696 15704	molluscs
+T512	Biological_Activity 15744 15753	antigenic
+T513	Chemical 15787 15796	N-glycans
+T514	Chemical 15775 15783	β1→2-Xyl
+T515	Chemical 15759 15767	α1→3-Fuc
+T516	Species 15828 15841	invertebrates
+T517	Species 15846 15852	plants
+T518	Protein 15961 15964	IgE
+T519	Protein 15965 15975	antibodies
+T520	Species 15981 15989	patients
+T521	Species 16003 16011	honeybee
+T522	Protein 16012 16017	venom
+T523	Species 16021 16026	plant
+T524	Species 16046 16052	cereal
+T525	Protein 16059 16067	proteins
+T526	Chemical 16097 16126	β1→2-Xyl containing N-glycans
+T527	Chemical 16081 16089;16106 16126	α1→3-Fuc containing N-glycans
+T528	Chemical 16172 16180	α1→3-Fuc
+T529	Species 16212 16220	helminth
+T530	Protein 16221 16234	glycoproteins
+T531	Protein 16244 16247	IgE
+T532	Biological_Activity 16068 16072	bind
+T533	Protein 16248 16258	antibodies
+T534	Species 16264 16272	helminth
+T535	Biological_Activity 16288 16292	bind
+T536	Chemical 16301 16307	glycan
+T537	Biological_Activity 16308 16315	epitope
+T538	Chemical 16371 16378	antigen
+T539	Biological_Activity 16408 16417	induction
+T540	Species 16426 16434	helminth
+T541	Protein 16444 16447	Th2
+T542	Biological_Activity 15990 15998	allergic
+T543	Biological_Activity 16469 16477	allergic
+T544	Species 16532 16541	helminths
+T545	Protein 16610 16618	cytokine
+T546	Biological_Activity 16641 16651	protective
+T547	Species 16732 16740	helminth
+T548	Biological_Activity 16766 16775	allergens
+T549	Chemical 16766 16775	allergens
+T550	Chemical 16883 16891	antigens
+T551	Species 16896 16899	bee
+T552	Protein 16900 16905	venom
+T553	Protein 16906 16919	phospholipase
+T554	Chemical 16978 16994	α1→3-Fuc epitope
+T555	Biological_Activity 16987 16994	epitope
+T556	Chemical 17015 17023	allergen
+T557	Biological_Activity 17015 17023	allergen
+T558	Species 17118 17126	helminth
+T559	Species 17253 17261	parasite
+T560	Protein 17285 17288	Th2
+T561	Biological_Activity 17289 17299	activation
+T562	Protein 17304 17307	IgE
+T563	Biological_Activity 17308 17317	induction
+T564	Biological_Activity 17388 17404	immune responses
+T565	Species 17446 17455	parasitic
+T566	Species 17692 17703	schistosome
+T567	Species 17713 17717	mice
+T568	Species 17789 17800	A. thaliana
+T569	Species 17859 17869	C. elegans
+T570	Species 18048 18057	parasites
+T571	Species 18062 18070	parasite
+T572	Protein 18176 18191	neoglycoprotein

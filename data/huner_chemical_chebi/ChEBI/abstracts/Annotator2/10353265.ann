@@ -1,0 +1,79 @@
+T1	Chemical 30 52	tetrahydroswertianolin
+T2	Chemical 54 57	THS
+T3	Biological_Activity 62 78	hepatoprotective
+T4	Species 90 106	Swertia japonica
+T5	Protein 111 138	tumor necrosis factor-alpha
+T6	Protein 140 149	TNF-alpha
+T7	Chemical 190 205	D-galactosamine
+T9	Biological_Activity 169 178	apoptosis
+T10	Chemical 207 213	D-GalN
+T11	Chemical 237 255	lipopolysaccharide
+T12	Chemical 257 260	LPS
+T13	Species 286 290	mice
+T14	Metabolite 30 52	tetrahydroswertianolin
+T15	Metabolite 54 57	THS
+R1	Isolated_From Arg1:T15 Arg2:T4	
+R2	Isolated_From Arg1:T14 Arg2:T4	
+R3	Associated_With Arg1:T7 Arg2:T9	
+R5	Associated_With Arg1:T10 Arg2:T9	
+R8	Associated_With Arg1:T11 Arg2:T9	
+R10	Associated_With Arg1:T12 Arg2:T9	
+T16	Biological_Activity 292 301	Apoptotic
+T19	Species 465 469	mice
+T20	Protein 518 544	serum alanine transaminase
+T21	Protein 546 549	ALT
+T25	Protein 705 708	ALT
+T26	Chemical 760 763	THS
+T28	Species 887 891	mice
+T30	Protein 1028 1031	ALT
+T31	Chemical 1072 1075	THS
+T33	Biological_Activity 645 654	apoptotic
+T35	Biological_Activity 950 959	apoptotic
+R12	Associated_With Arg1:T26 Arg2:T35	
+T36	Chemical 1107 1110	THS
+T37	Chemical 1169 1181	glycyrrhizin
+T38	Chemical 1183 1186	GCR
+T39	Biological_Activity 1216 1232	hepatoprotective
+R15	Associated_With Arg1:T37 Arg2:T39	
+R17	Associated_With Arg1:T38 Arg2:T39	
+T41	Chemical 1275 1278	GCR
+T42	Species 1372 1376	mice
+T43	Biological_Activity 1318 1325	inhibit
+T44	Biological_Activity 1416 1425	protected
+T45	Protein 1440 1443	ALT
+R19	Associated_With Arg1:T41 Arg2:T44	
+T46	Biological_Activity 1493 1503	inhibitory
+T48	Chemical 1627 1630	THS
+T49	Biological_Activity 1596 1612	hepatoprotective
+T50	Chemical 1656 1659	GCR
+T51	Biological_Activity 1688 1697	apoptosis
+R20	Associated_With Arg1:T48 Arg2:T49	
+R21	Associated_With Arg1:T48 Arg2:T46	
+R22	Associated_With Arg1:T50 Arg2:T49	
+T52	Protein 1766 1775	TNF-alpha
+T53	Species 1826 1830	mice
+T54	Chemical 1836 1842	D-GalN
+T55	Chemical 1847 1850	LPS
+T56	Chemical 1888 1891	THS
+T57	Protein 1996 2028	reverse transcriptase-polymerase
+T58	Chemical 2063 2066	THS
+T59	Biological_Activity 2067 2074	blocked
+T60	Protein 2075 2084	TNF-alpha
+R23	Associated_With Arg1:T58 Arg2:T59	
+T61	Protein 2134 2143	TNF-alpha
+T62	Biological_Activity 2177 2186	apoptosis
+T63	Biological_Activity 2218 2229	suppressing
+T64	Protein 2230 2239	TNF-alpha
+T65	Chemical 2283 2286	THS
+T66	Biological_Activity 2287 2297	inhibition
+R24	Associated_With Arg1:T65 Arg2:T66	
+R25	Associated_With Arg1:T65 Arg2:T63	
+R26	Associated_With Arg1:T15 Arg2:T3	
+R27	Associated_With Arg1:T2 Arg2:T3	
+R28	Associated_With Arg1:T14 Arg2:T3	
+R29	Associated_With Arg1:T1 Arg2:T3	
+T8	Biological_Activity 1009 1018	reduction
+T17	Biological_Activity 1541 1550	apoptosis
+T18	Biological_Activity 2309 2318	apoptosis
+R4	Associated_With Arg1:T65 Arg2:T18	
+T22	Biological_Activity 532 544	transaminase

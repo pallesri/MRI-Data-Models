@@ -1,0 +1,7 @@
+T1	Disease 89 100	anti-cancer
+T2	Disease 291 302	anti-cancer
+T3	Disease 331 343	liver cancer
+T4	Disease 1521 1542	hepatocellular cancer
+T6	Plant 11 26	Myrica cerifera
+T5	Treatment_of_disease 46 56	fruitfully
+E1	Treatment_of_disease:T5 Cause:T6 Theme:T1

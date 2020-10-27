@@ -1,0 +1,9 @@
+T1	Disease 48 61	hyperglycemia
+T2	Disease 329 342	hyperglycemia
+T3	Disease 347 366	glucose intolerance
+T4	Disease 782 795	hyperglycemia
+T5	Plant 161 179	green or black tea
+T6	Plant 650 669	green and black tea
+T7	Plant 732 751	green and black tea
+T8	Treatment_of_disease 752 760	suppress
+E1	Treatment_of_disease:T8 Cause:T7 Theme:T4

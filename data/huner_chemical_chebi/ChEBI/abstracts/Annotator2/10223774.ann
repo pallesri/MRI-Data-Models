@@ -1,0 +1,54 @@
+T1	Biological_Activity 47 57	metabolism
+T2	Chemical 61 66;77 86	R(+)- ketorolac
+T3	Chemical 71 86	S(-)- ketorolac
+T4	Species 90 98	children
+T5	Species 109 117	Children
+T6	Chemical 168 177	ketorolac
+T7	Chemical 160 177	racemic ketorolac
+T8	Chemical 295 304	ketorolac
+T9	Chemical 287 304	Racemic ketorolac
+T10	Chemical 333 350	racemic ketorolac
+T11	Chemical 341 350	ketorolac
+T12	Chemical 352 373	para-hydroxyketorolac
+T13	Metabolite 352 373	para-hydroxyketorolac
+T14	Chemical 379 400	ketorolac glucuronide
+T15	Metabolite 379 400	ketorolac glucuronide
+R1	Isolated_From Arg1:T13 Arg2:T5	
+R2	Isolated_From Arg1:T15 Arg2:T5	
+R3	Metabolite_Of Arg1:T13 Arg2:T11	
+R4	Metabolite_Of Arg1:T15 Arg2:T11	
+T16	Chemical 433 438;448 457	S(-)- ketorolac
+T17	Chemical 443 457	R(+)-ketorolac
+T18	Chemical 483 488;498 507	S(-)- ketorolac
+T19	Chemical 493 507	R(+)-ketorolac
+T20	Chemical 483 488;512 533	S(-)- ketorolac glucuronide
+T21	Chemical 493 507;522 533	R(+)-ketorolac glucuronide
+T22	Chemical 622 634	racemic drug
+T23	Chemical 644 655	enantiomers
+T24	Species 681 688	patient
+T25	Chemical 713 730	racemic ketorolac
+T26	Species 734 742	children
+T27	Chemical 721 730	ketorolac
+T28	Species 795 801	adults
+T29	Chemical 820 835	S(-) enantiomer
+T30	Chemical 860 875	R(+) enantiomer
+T31	Chemical 899 913	S(-)-ketorolac
+T32	Chemical 935 950	R(+) enantiomer
+T33	Chemical 999 1014	S(-) enantiomer
+T34	Chemical 1044 1053	R(+) form
+T35	Chemical 1067 1093	S(-)-ketorolac glucuronide
+T36	Metabolite 1067 1093	S(-)-ketorolac glucuronide
+T37	Chemical 1120 1135	R(+) enantiomer
+T38	Metabolite 1120 1135	R(+) enantiomer
+R5	Isolated_From Arg1:T36 Arg2:T26	
+R6	Isolated_From Arg1:T38 Arg2:T26	
+R7	Metabolite_Of Arg1:T36 Arg2:T31	
+R8	Metabolite_Of Arg1:T38 Arg2:T32	
+T39	Species 1173 1181	children
+T40	Chemical 1224 1233	ketorolac
+T41	Species 1261 1269	children
+T42	Species 1326 1332	adults
+T43	Chemical 1392 1406	S(-)-ketorolac
+T44	Protein 1601 1608	protein
+T46	Chemical 1651 1666	S(-) enantiomer
+T47	Biological_Activity 1697 1707	metabolism

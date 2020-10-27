@@ -1,0 +1,22 @@
+T1	Disease 113 132	Alzheimer's disease
+T2	Disease 134 136	AD
+T3	Disease 185 187	AD
+T4	Disease 308 336	AD-like cognitive impairment
+T5	Disease 341 343	AD
+T6	Disease 355 357	AD
+T7	Disease 464 481	memory impairment
+T8	Disease 576 578	AD
+T9	Disease 631 633	AD
+T10	Disease 823 825	AD
+T11	Disease 954 956	AD
+T12	Disease 1021 1023	AD
+T13	Disease 1256 1258	AD
+T14	Disease 1779 1781	AD
+T15	Disease 1864 1866	AD
+T17	Plant 64 70	coffee
+T19	Plant 247 253	coffee
+T21	Plant 1237 1243	coffee
+T22	Plant 1332 1338	coffee
+T24	Plant 1735 1741	coffee
+T26	Treatment_of_disease 83 92	effective
+E1	Treatment_of_disease:T26 Theme:T1 Theme2:T2 Cause:T17

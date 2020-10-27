@@ -1,0 +1,22 @@
+T1	Disease 103 110	obesity
+T2	Disease 115 123	diabetes
+T3	Disease 543 550	obesity
+T4	Disease 1343 1365	increased ATP turnover
+T5	Disease 1518 1525	obesity
+T6	Disease 1739 1754	type 2 diabetes
+T7	Plant 49 55	coffee
+T9	Plant 340 346	coffee
+T12	Plant 395 401	coffee
+T13	Plant 562 568	coffee
+T15	Plant 674 680	coffee
+T17	Plant 1496 1502	coffee
+T19	Plant 1628 1634	coffee
+T21	Plant 1703 1709	coffee
+T8	Treatment_of_disease 72 78	reduce
+E1	Treatment_of_disease:T8 Theme:T1 Theme2:T2 Cause:T7
+T10	Treatment_of_disease 551 558	effects
+E2	Treatment_of_disease:T10 Cause:T13 Theme:T3
+T11	Treatment_of_disease 1473 1492	suppressive effects
+E3	Treatment_of_disease:T11 Cause:T17 Theme:T5
+T14	Treatment_of_disease 1725 1735	prevention
+E4	Treatment_of_disease:T14 Theme:T6 Cause:T21

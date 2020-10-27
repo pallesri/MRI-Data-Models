@@ -1,0 +1,499 @@
+T1	Protein 5 20	cytochrome P450
+T2	Protein 22 25	CYP
+T3	Protein 27 39	EC 1.14.14.1
+T4	Biological_Activity 72 82	metabolism
+T5	Chemical 94 99	drugs
+T6	Chemical 101 109	steroids
+T7	Chemical 111 119	mutagens
+T8	Biological_Activity 111 119	mutagens
+T9	Chemical 124 135	carcinogens
+T10	Biological_Activity 124 135	carcinogens
+T11	Biological_Activity 149 159	metabolize
+T12	Chemical 175 197	reactive intermediates
+T13	Metabolite 175 197	reactive intermediates
+T14	Biological_Activity 198 205	binding
+T15	Protein 223 231	proteins
+T16	Chemical 248 254	lipids
+T17	Protein 262 265	CYP
+T18	Chemical 279 296	Organic compounds
+T19	Protein 307 310	CYP
+T20	Biological_Activity 339 346	binding
+T21	Chemical 356 367	metabolites
+T22	Metabolite 356 367	metabolites
+T23	Protein 375 383	CYP heme
+T24	Protein 385 395	apoprotein
+R1	Binds_With Arg1:T22 Arg2:T23	
+R2	Binds_With Arg1:T22 Arg2:T24	
+R3	Binds_With Arg1:T21 Arg2:T23	
+R4	Binds_With Arg1:T21 Arg2:T24	
+R5	Associated_With Arg1:T22 Arg2:T20	
+R6	Associated_With Arg1:T21 Arg2:T20	
+T25	Protein 436 439	CYP
+T26	Chemical 460 483	superoxide anionradical
+T27	Chemical 485 490	H2 O2
+T28	Chemical 501 524	reactive oxygen species
+T29	Metabolite 460 483	superoxide anionradical
+T30	Metabolite 485 490	H2 O2
+T31	Metabolite 501 524	reactive oxygen species
+T32	Chemical 586 609	reactive oxygen species
+T33	Metabolite 586 609	reactive oxygen species
+T34	Chemical 620 625	lipid
+T35	Protein 650 662	CYP isoforms
+T36	Biological_Activity 725 735	inhibition
+T37	Protein 754 757	CYP
+T38	Chemical 784 794	xenobiotic
+T39	Biological_Activity 784 794	xenobiotic
+T40	Chemical 827 837	xenobiotic
+T41	Metabolite 827 837	xenobiotic
+T42	Biological_Activity 838 846	toxicity
+T43	Chemical 894 901	steroid
+T44	Protein 955 967	CYP isoforms
+T45	Biological_Activity 979 989	activation
+T46	Biological_Activity 990 1004	detoxification
+T47	Chemical 1014 1028	procarcinogens
+T48	Biological_Activity 1014 1028	procarcinogens
+T49	Chemical 1112 1119	Benzene
+T50	Species 1138 1143	human
+T51	Species 1148 1154	animal
+T52	Biological_Activity 1155 1165	carcinogen
+T53	Biological_Activity 1190 1200	epigenetic
+R7	Associated_With Arg1:T49 Arg2:T52	
+T54	Chemical 1212 1219	Benzene
+T55	Biological_Activity 1220 1227	induced
+T56	Biological_Activity 1228 1238	myelotoxic
+T57	Biological_Activity 1243 1255	carcinogenic
+T58	Biological_Activity 1302 1309	binding
+T59	Chemical 1317 1328	metabolites
+T60	Metabolite 1317 1328	metabolites
+R8	Associated_With Arg1:T54 Arg2:T55	
+R9	Associated_With Arg1:T54 Arg2:T56	
+T61	Chemical 1372 1379	benzene
+T62	Protein 1406 1421	cytochrome P450
+T63	Species 1446 1450	rats
+T64	Chemical 1465 1478	phenobarbital
+T65	Chemical 1506 1513	benzene
+T66	Protein 1517 1520	CYP
+T67	Chemical 1632 1644	benzoquinone
+T68	Metabolite 1632 1644	benzoquinone
+R10	Metabolite_Of Arg1:T68 Arg2:T65	
+T69	Protein 1716 1719	CYP
+T70	Chemical 1735 1742	benzene
+T71	Chemical 1751 1762	metabolites
+T72	Metabolite 1751 1762	metabolites
+T73	Chemical 1764 1769	Lipid
+T74	Chemical 1800 1823	reactive oxygen species
+T75	Metabolite 1800 1823	reactive oxygen species
+T76	Chemical 1872 1895	superoxide anionradical
+T77	Metabolite 1872 1895	superoxide anionradical
+T78	Species 1954 1957	rat
+T79	Protein 1958 1970	CYP isoforms
+T80	Species 2022 2027	human
+T81	Species 2032 2035	rat
+T82	Protein 2036 2039	CYP
+T83	Chemical 2141 2146	NADPH
+T84	Chemical 2148 2152	NADP
+T85	Chemical 2154 2173	glucose-6-phosphate
+T86	Chemical 2175 2188	chlorzoxazone
+T87	Chemical 2190 2208	7-pentoxyresorufin
+T88	Chemical 2210 2228	7-ethoxyresorufin,
+T89	Chemical 2229 2238	resorufin
+T90	Chemical 2240 2251	tolbutamide
+T91	Chemical 2253 2263	nifedipine
+T92	Chemical 2265 2280	β-naphtoflavone
+T93	Chemical 2282 2311	pregnenolone 16α-carbonitrile
+T94	Chemical 2313 2318	MgCl2
+T95	Chemical 2321 2325	Tris
+T96	Chemical 2327 2330	KCl
+T97	Protein 2432 2465	Glucose-6-phosphate dehydrogenase
+T98	Chemical 2591 2613	6-Hydroxychlorzoxazone
+T99	Species 2714 2717	rat
+T100	Protein 2718 2724	CYP1A1
+T101	Protein 2718 2723;2725 2726	CYP1A 2
+T102	Protein 2718 2721;2728 2731	CYP 2B1
+T103	Protein 2718 2721;2733 2736	CYP 2E1
+T104	Protein 2718 2721;2742 2745	CYP 3A1
+T105	Protein 2718 2721;2742 2744;2746 2747	CYP 3A 2
+T106	Protein 2748 2758	antibodies
+T107	Chemical 2882 2892	nifedipine
+T108	Chemical 2897 2915	hydroxytolbutamide
+T109	Chemical 3036 3048	Hydroquinone
+T110	Chemical 3053 3061	catechol
+T111	Chemical 3098 3110	benzoquinone
+T112	Metabolite 3098 3110	benzoquinone
+T113	Species 3143 3150	Animals
+T114	Species 3180 3191	Wistar rats
+T115	Species 3306 3310	rats
+T116	Biological_Activity 3352 3358	induce
+T117	Protein 3367 3379	CYP isoforms
+T118	Species 3383 3386	rat
+T119	Species 3442 3446	rats
+T120	Chemical 3484 3491	benzene
+T121	Biological_Activity 3564 3570	induce
+T122	Protein 3586 3592	CYP2E1
+T123	Chemical 3628 3657	pregnenolone 16α-carbonitrile
+T124	Protein 3662 3667	CYP3A
+T125	Biological_Activity 3668 3677	induction
+R11	Associated_With Arg1:T123 Arg2:T125	
+T126	Chemical 3716 3725	olive oil
+T127	Species 3716 3721	olive
+T128	Chemical 3795 3815	sodium phenobarbital
+T129	Chemical 3834 3839	water
+T130	Protein 3916 3922	CYP2B1
+T131	Biological_Activity 3909 3915	induce
+R12	Associated_With Arg1:T128 Arg2:T131	
+T132	Chemical 3928 3943	β-naphtoflavone
+T133	Species 3955 3959	rats
+T134	Chemical 3973 3982	olive oil
+T135	Species 3973 3978	olive
+T136	Protein 4019 4025	CYP1A1
+T137	Protein 4019 4024;4026 4027	CYP1A 2
+T138	Biological_Activity 4028 4035	induced
+T139	Species 4052 4059	animals
+T140	Biological_Activity 4092 4099	inducer
+T141	Chemical 4148 4155	benzene
+T142	Species 4169 4176	animals
+T143	Species 4246 4251	Human
+T144	Species 4266 4271	Human
+T145	Species 4359 4365	donors
+T146	Species 4498 4506	nitrogen
+T147	Species 4551 4557	donors
+T148	Chemical 4594 4605	antibiotics
+T149	Biological_Activity 4594 4605	antibiotics
+T150	Chemical 4607 4622	chloramphenicol
+T151	Chemical 4624 4634	penicillin
+T152	Chemical 4636 4646	ampicillin
+T153	Chemical 4648 4658	gentamycin
+R13	Associated_With Arg1:T150 Arg2:T149	
+R14	Associated_With Arg1:T151 Arg2:T149	
+R15	Associated_With Arg1:T152 Arg2:T149	
+R16	Associated_With Arg1:T153 Arg2:T149	
+T154	Chemical 4661 4669	mannitol
+T155	Chemical 4674 4682	hormones
+T156	Biological_Activity 4674 4682	hormones
+T157	Chemical 4684 4698	hydrocortisone
+T158	Chemical 4700 4713	dexamethasone
+R17	Associated_With Arg1:T157 Arg2:T156	
+R18	Associated_With Arg1:T158 Arg2:T156	
+T159	Protein 4891 4898	Protein
+T160	Protein 5010 5023	serum albumin
+T161	Protein 5049 5052	CYP
+T162	Spectral_Data 5082 5100	spectrophotometric
+T163	Protein 5178 5185	protein
+T164	Chemical 5218 5226	catechol
+T165	Chemical 5228 5240	hydroquinone
+T166	Chemical 5245 5257	benzoquinone
+T167	Metabolite 5245 5257	benzoquinone
+T168	Chemical 5266 5271	NADPH
+T169	Chemical 5280 5285	NADPH
+T170	Chemical 5330 5349	glucose-6-phosphate
+T171	Chemical 5316 5321	MgCl2
+T172	Chemical 5356 5360	NADP
+T173	Protein 5371 5404	glucose-6-phosphate dehydrogenase
+T174	Chemical 5440 5443	KCl
+T175	Chemical 5450 5454	Tris
+T176	Chemical 5528 5533	water
+T177	Protein 5593 5596	CYP
+T178	Spectral_Data 5617 5635	spectrophotometric
+T179	Chemical 5702 5710	quinones
+T180	Chemical 5868 5871	KCl
+T181	Chemical 5872 5876	Tris
+T182	Protein 5915 5925	apoprotein
+T183	Protein 5935 5947	CYP isoforms
+T184	Biological_Activity 5960 5970	metabolism
+T185	Chemical 6081 6092	OH radicals
+T186	Chemical 6094 6114	semiquinone radicals
+T187	Chemical 6119 6134	malondialdehyde
+T188	Chemical 6136 6139	MDA
+T189	Chemical 6182 6185	SDS
+T190	Chemical 6186 6200	polyacrylamide
+T191	Protein 6235 6243	proteins
+T192	Chemical 6365 6379	polyacrylamide
+T193	Protein 6413 6420	protein
+T194	Protein 6580 6588	antibody
+T195	Chemical 6608 6612	PBST
+T196	Chemical 6627 6646	potassium phosphate
+T197	Chemical 6663 6667	NaCl
+T198	Chemical 6674 6682	Tween 80
+T199	Species 6689 6692	rat
+T200	Protein 6693 6699	CYP1A1
+T201	Protein 6693 6698;6700 6701	CYP1A 2
+T202	Protein 6693 6696;6703 6706	CYP 2B1
+T203	Protein 6693 6696;6708 6711	CYP 2E1
+T204	Protein 6693 6696;6716 6719	CYP 3A1
+T205	Protein 6693 6696;6716 6718;6720 6721	CYP 3A 2
+T206	Protein 6722 6743	polyclonal antibodies
+T207	Species 6859 6863	goat
+T208	Species 6869 6875	rabbit
+T209	Protein 6876 6879	IgG
+T210	Protein 6891 6913	horseradish peroxidase
+T211	Protein 6929 6937	antibody
+T212	Chemical 7036 7055	1-chloro-4-naphthol
+T213	Chemical 7066 7071	H2 O2
+T214	Metabolite 7066 7071	H2 O2
+T215	Chemical 7076 7079	PBS
+T216	Protein 7102 7108	Enzyme
+T217	Chemical 7116 7133	7-Ethoxyresorufin
+T218	Chemical 7154 7172	7-pentoxyresorufin
+T219	Chemical 7286 7291	NADPH
+T220	Protein 7306 7309	CYP
+T221	Chemical 7322 7330	Coumarin
+T222	Protein 7432 7435	CYP
+T223	Chemical 7448 7459	Tolbutamide
+T224	Chemical 7551 7556	NADPH
+T225	Chemical 7582 7587	MgCl2
+T226	Chemical 7596 7615	glucose-6-phosphate
+T227	Chemical 7622 7626	NADP
+T228	Protein 7637 7670	glucose-6-phosphate dehydrogenase
+T229	Protein 7686 7689	CYP
+T230	Chemical 7702 7715	Chlorzoxazone
+T231	Chemical 7800 7805	NADPH
+T232	Protein 7853 7856	CYP
+T233	Chemical 7882 7892	nifedipine
+T234	Chemical 7960 7965	NADPH
+T235	Protein 8010 8013	CYP
+T236	Chemical 8088 8091	KCl
+T237	Chemical 8092 8096	Tris
+T238	Chemical 8125 8130	water
+T239	Chemical 8172 8183	OH radicals
+T240	Chemical 8220 8225	lipid
+T241	Chemical 8288 8313	Semiquinone anion radical
+T242	Protein 8605 8608	CYP
+T243	Chemical 8624 8632	quinones
+T244	Chemical 8637 8642	NADPH
+T245	Spectral_Data 8644 8662	spectrophotometric
+T246	Protein 8677 8680	CYP
+T247	Species 8705 8709	rats
+T248	Protein 8734 8737	CYP
+T249	Biological_Activity 8738 8746	inducers
+T250	Chemical 8777 8782	NADPH
+T251	Chemical 8804 8812	quinones
+T252	Chemical 8831 8836	NADPH
+T253	Species 8874 8877	rat
+T254	Protein 8878 8890	CYP isoforms
+T255	Chemical 8923 8928	NADPH
+T256	Chemical 8933 8945	benzoquinone
+T257	Metabolite 8933 8945	benzoquinone
+T258	Protein 8947 8962	CYP 3A isoforms
+T259	Protein 9035 9041;9060 9067	CYP 3A isoform
+T260	Protein 9053 9067	CYP 1A isoform
+T261	Chemical 9139 9151	benzoquinone
+T262	Metabolite 9139 9151	benzoquinone
+T263	Protein 9292 9304	CYP isoforms
+T264	Protein 9335 9342	Protein
+T265	Species 9366 9369	rat
+T266	Protein 9370 9377	CYP 3A1
+T267	Protein 9370 9376;9378 9379	CYP 3A 2
+T268	Protein 9370 9373;9384 9387	CYP 1A1
+T269	Protein 9370 9373;9384 9386;9388 9389	CYP 1A 2
+T270	Protein 9390 9398	proteins
+T271	Chemical 9461 9473	benzoquinone
+T272	Metabolite 9461 9473	benzoquinone
+T273	Protein 9488 9495	CYP 2B1
+T274	Protein 9524 9527	CYP
+T275	Biological_Activity 9524 9527	CYP
+T276	Protein 9549 9555	CYP 1A
+T277	Protein 9549 9552;9560 9562	CYP 3A
+T278	Biological_Activity 9563 9569	marker
+T279	Chemical 9610 9622	benzoquinone
+T280	Metabolite 9610 9622	benzoquinone
+T281	Chemical 9644 9654	nifedipine
+T282	Protein 9690 9694	EROD
+T283	Protein 9712 9719	CYP 2B1
+T284	Protein 9712 9715;9724 9727	CYP 2E1
+T285	Protein 9728 9736	proteins
+T286	Chemical 9803 9815	benzoquinone
+T287	Metabolite 9803 9815	benzoquinone
+T288	Protein 9864 9867	CYP
+T289	Biological_Activity 9907 9913	marker
+T290	Protein 9950 9954	PROD
+T291	Chemical 9978 9991	chlorzoxazone
+T292	Species 10004 10007	Rat
+T293	Protein 10021 10033	CYP isoforms
+T294	Chemical 10107 10112	NADPH
+T295	Chemical 10172 10184	benzoquinone
+T296	Metabolite 10172 10184	benzoquinone
+T297	Protein 10207 10213;10221 10228	CYP 1A isoform
+T298	Protein 10207 10210;10218 10220;10221 10228	CYP 3A isoform
+T299	Chemical 10334 10346	hydroquinone
+T300	Protein 10376 10379	CYP
+T301	Protein 10441 10453	CYP isoforms
+T302	Protein 10468 10474;10482 10489	CYP 1A isoform
+T303	Protein 10468 10471;10479 10489	CYP 3A isoform
+T304	Chemical 10495 10503	quinones
+T305	Biological_Activity 10610 10620	inhibition
+T306	Protein 10624 10631	CYP 2B1
+T307	Protein 10637 10643	CYP 1A
+T308	Biological_Activity 10624 10631	CYP 2B1
+T309	Biological_Activity 10637 10643	CYP 1A
+T310	Chemical 10656 10678	avarol-sesquiterpenoid
+T311	Chemical 10679 10691	hydroquinone
+T312	Chemical 10700 10707	quinone
+T313	Chemical 10708 10715	avarone
+R19	Associated_With Arg1:T311 Arg2:T305	
+R20	Associated_With Arg1:T313 Arg2:T305	
+R21	Binds_With Arg1:T311 Arg2:T306	
+R22	Binds_With Arg1:T311 Arg2:T307	
+R23	Binds_With Arg1:T313 Arg2:T307	
+R24	Binds_With Arg1:T313 Arg2:T306	
+T314	Biological_Activity 10752 10762	inhibition
+T315	Protein 10766 10770	PROD
+T316	Biological_Activity 10766 10770	PROD
+T317	Chemical 10800 10804	EROD
+T318	Species 10809 10812	rat
+T319	Chemical 10851 10858	benzene
+T320	Chemical 10870 10879	m -xylene
+R25	Associated_With Arg1:T320 Arg2:T314	
+R26	Binds_With Arg1:T320 Arg2:T315	
+T321	Protein 10965 10969	PROD
+T322	Chemical 10973 10981	quinones
+T323	Protein 11001 11005	EROD
+T324	Species 11009 11012	rat
+T325	Chemical 11123 11131	quinones
+T326	Protein 11156 11164	proteins
+T327	Protein 11201 11213	CYP proteins
+T328	Protein 11279 11282	CYP
+T329	Chemical 11322 11333	OH radicals
+T330	Chemical 11335 11354	semiquinone radical
+T331	Chemical 11360 11365	lipid
+T332	Chemical 11379 11389	OH radical
+T333	Biological_Activity 11404 11413	induction
+T334	Chemical 11417 11422	lipid
+T335	Chemical 11505 11510	NADPH
+T336	Chemical 11530 11542	hydroquinone
+T337	Chemical 11546 11558	benzoquinone
+T338	Metabolite 11546 11558	benzoquinone
+T339	Chemical 11577 11582	NADPH
+T340	Chemical 11607 11612	NADPH
+T341	Chemical 11671 11682	OH radicals
+T342	Chemical 11687 11690	MDA
+T343	Biological_Activity 11692 11698	marker
+R27	Associated_With Arg1:T342 Arg2:T343	
+T344	Chemical 11797 11805	quinones
+T345	Chemical 11844 11855	OH radicals
+T346	Chemical 11860 11863	MDA
+T347	Chemical 11935 11943	quinones
+T348	Biological_Activity 11961 11971	protective
+T349	Chemical 11987 11997	OH radical
+T350	Chemical 12013 12018	lipid
+T351	Protein 12135 12138	CYP
+T352	Chemical 12154 12162	quinones
+T353	Chemical 12164 12187	Reactive oxygen species
+T354	Biological_Activity 12188 12198	scavenging
+T355	Protein 12211 12230	quinonic substances
+R28	Associated_With Arg1:T347 Arg2:T348	
+T356	Biological_Activity 12258 12268	protective
+T357	Chemical 12279 12287	quinones
+T358	Chemical 12296 12319	reactive oxygen species
+T359	Biological_Activity 12334 12343	induction
+T360	Chemical 12347 12352	lipid
+T361	Biological_Activity 12398 12407	antitumor
+T362	Chemical 12428 12439	cytostatics
+T363	Biological_Activity 12428 12439	cytostatics
+T364	Chemical 12445 12452	quinone
+T365	Chemical 12493 12513	quinonic metabolites
+T366	Metabolite 12493 12513	quinonic metabolites
+T367	Biological_Activity 12537 12546	metabolic
+T368	Chemical 12562 12572	adriamycin
+T369	Chemical 12574 12586	daunorubicin
+T370	Chemical 12588 12597	etoposide
+R29	Associated_With Arg1:T362 Arg2:T361	
+T371	Chemical 12618 12628	OH radical
+T372	Protein 12669 12672	CYP
+T373	Chemical 12697 12702	NADPH
+T374	Chemical 12720 12730	OH radical
+T375	Protein 12771 12774	CYP
+T376	Chemical 12790 12795	NADPH
+T377	Protein 12849 12856	CYP 2E1
+T378	Chemical 12894 12917	reactive oxygen species
+T379	Chemical 12931 12936	lipid
+T380	Biological_Activity 12922 12930	initiate
+T381	Chemical 12978 12989	OH radicals
+T382	Chemical 12993 12996	MDA
+T383	Biological_Activity 13016 13023	induced
+T384	Protein 13024 13031	CYP 2E1
+T385	Protein 13200 13203	CYP
+T386	Biological_Activity 13204 13212	inducers
+T387	Chemical 13284 13288	O2 −
+T388	Chemical 13294 13299	H2 O2
+T389	Chemical 13330 13333	MDA
+T390	Chemical 13360 13365	NADPH
+T391	Protein 13425 13428	CYP
+T392	Chemical 13477 13482	lipid
+T393	Protein 13531 13534	CYP
+T394	Chemical 13554 13559	NADPH
+T395	Chemical 13652 13671	Semiquinone radical
+T396	Protein 13736 13739	CYP
+T397	Chemical 13764 13772	quinones
+T398	Chemical 13792 13805	phenobarbital
+T399	Species 13817 13821	rats
+T400	Protein 13953 13956	CYP
+T401	Biological_Activity 13988 13995	binding
+T402	Chemical 14003 14027	oxidized form of quinone
+T403	Chemical 14042 14054	benzoquinone
+T404	Protein 14059 14066	protein
+T405	Metabolite 14042 14054	benzoquinone
+T406	Chemical 14071 14075	heme
+T407	Protein 14088 14091	CYP
+R30	Associated_With Arg1:T405 Arg2:T401	
+R31	Associated_With Arg1:T403 Arg2:T401	
+R32	Binds_With Arg1:T405 Arg2:T407	
+R33	Binds_With Arg1:T403 Arg2:T407	
+T408	Chemical 14213 14225	hydroquinone
+T409	Chemical 14242 14254	benzoquinone
+T410	Metabolite 14242 14254	benzoquinone
+T411	Biological_Activity 14304 14311	binding
+T412	Protein 14318 14321	CYP
+T413	Protein 14366 14369	CYP
+T414	Species 14429 14434	human
+T415	Chemical 14474 14479	NADPH
+T416	Chemical 14489 14496	quinone
+T417	Chemical 14505 14510	NADPH
+T418	Protein 14592 14604	CYP isoforms
+T419	Species 14580 14585	human
+T420	Protein 14592 14595;14611 14614	CYP 2A6
+T421	Protein 14592 14595;14616 14619	CYP 2C9
+T422	Protein 14592 14595;14621 14624	CYP 2E1
+T423	Protein 14592 14595;14626 14629	CYP 3A4
+T424	Protein 14592 14595;14606 14609	CYP 1A2
+T425	Species 14656 14661	human
+T426	Protein 14668 14671	CYP
+T427	Chemical 14738 14743	NADPH
+T428	Species 14785 14788	rat
+T429	Protein 14789 14792	CYP
+T430	Protein 14861 14864	CYP
+T431	Chemical 14902 14907	NADPH
+T432	Species 14949 14954	human
+T433	Chemical 15041 15053	benzoquinone
+T434	Metabolite 15041 15053	benzoquinone
+T435	Species 15059 15062	rat
+T436	Chemical 15120 15128	quinones
+T437	Chemical 15130 15142	hydroquinone
+T438	Chemical 15147 15155	catechol
+T439	Chemical 15199 15211	benzoquinone
+T440	Metabolite 15199 15211	benzoquinone
+T441	Species 15269 15273	rats
+T442	Biological_Activity 15298 15306	inducers
+T443	Protein 15366 15378	CYP isoforms
+T444	Protein 15393 15396	CYP
+T445	Chemical 15412 15420	quinones
+T446	Chemical 15435 15447	hydroquinone
+T447	Protein 15486 15490	EROD
+T448	Chemical 15513 15525	benzoquinone
+T449	Metabolite 15513 15525	benzoquinone
+T450	Chemical 15564 15574	nifedipine
+T451	Protein 15804 15807	CYP
+T452	Species 15823 15828	human
+T453	Species 16012 16018	humans
+T454	Biological_Activity 16046 16057	xenobiotics
+T455	Chemical 16046 16057	xenobiotics
+T456	Chemical 16082 16090	quinonic
+R34	Associated_With Arg1:T456 Arg2:T454	
+T457	Species 16188 16194	humans
+T458	Species 16233 16238	human
+T459	Chemical 16251 16262	xenobiotics
+T460	Biological_Activity 16251 16262	xenobiotics
+T461	Chemical 16277 16297	quinonic metabolites
+T462	Metabolite 16277 16297	quinonic metabolites
+T463	Species 16351 16356	human
+T464	Protein 16423 16435	CYP isoforms
+T465	Chemical 16439 16446	quinone

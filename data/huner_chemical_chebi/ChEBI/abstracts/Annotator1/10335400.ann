@@ -1,0 +1,52 @@
+T1	Protein 51 86;95 104	human immunodeficiency virus type 1 integrase
+T2	Protein 88 93;95 104	HIV-1 integrase
+T4	Biological_Activity 37 46	inhibitor
+T6	Biological_Activity 210 219	inhibitor
+T7	Metabolite 261 270	Equisetin
+T8	Chemical 261 270	Equisetin
+T9	Species 297 318	Fusarium heterosporum
+R1	Isolated_From Arg1:T7 Arg2:T9	
+T10	Chemical 332 367	enantiomeric homologue of equisetin
+T11	Metabolite 332 367	enantiomeric homologue of equisetin
+T12	Species 373 382	Phoma sp.
+R2	Isolated_From Arg1:T11 Arg2:T12	
+T13	Protein 414 429	HIV-1 integrase
+T14	Biological_Activity 400 409	inhibitor
+R3	Associated_With Arg1:T7 Arg2:T14	
+R4	Associated_With Arg1:T8 Arg2:T14	
+R5	Associated_With Arg1:T11 Arg2:T14	
+R6	Associated_With Arg1:T10 Arg2:T14	
+T15	Chemical 474 492	decalin derivative
+T16	Chemical 494 507	integric acid
+T17	Chemical 513 523	oteromycin
+T18	Biological_Activity 551 560	inhibitor
+T19	Protein 565 574	integrase
+R11	Associated_With Arg1:T16 Arg2:T18	
+R12	Associated_With Arg1:T17 Arg2:T18	
+T21	Chemical 576 585	Equisetin
+T22	Metabolite 576 585	Equisetin
+T23	Biological_Activity 608 615	inhibit
+R15	Associated_With Arg1:T21 Arg2:T23	
+R16	Associated_With Arg1:T22 Arg2:T23	
+R17	Associated_With Arg1:T16 Arg2:T23	
+R18	Associated_With Arg1:T17 Arg2:T23	
+T25	Protein 716 722	enzyme
+T26	Chemical 763 774	amino acids
+T27	Biological_Activity 805 812	inhibit
+R25	Associated_With Arg1:T22 Arg2:T27	
+R26	Associated_With Arg1:T21 Arg2:T27	
+R29	Associated_With Arg1:T16 Arg2:T27	
+R30	Associated_With Arg1:T17 Arg2:T27	
+T29	Biological_Activity 1111 1121	inhibitors
+T30	Protein 1125 1140	HIV-1 integrase
+T31	Protein 1316 1325	integrase
+T32	Biological_Activity 1326 1336	inhibitors
+T33	Chemical 1235 1244	compounds
+R31	Binds_With Arg1:T8 Arg2:T13	
+R32	Binds_With Arg1:T7 Arg2:T13	
+R33	Binds_With Arg1:T10 Arg2:T13	
+R34	Binds_With Arg1:T11 Arg2:T13	
+R7	Binds_With Arg1:T16 Arg2:T19	
+R8	Binds_With Arg1:T17 Arg2:T19	
+R9	Binds_With Arg1:T16 Arg2:T13	
+R10	Binds_With Arg1:T17 Arg2:T13	

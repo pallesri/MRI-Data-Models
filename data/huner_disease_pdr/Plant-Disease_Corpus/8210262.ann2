@@ -1,0 +1,9 @@
+T1	Disease 1038 1044	cancer
+T2	Plant 28 35	tobacco
+T3	Plant 326 333	tobacco
+T4	Plant 477 484	tobacco
+T5	Plant 569 576	tobacco
+T6	Plant 833 840	tobacco
+T7	Plant 990 997	tobacco
+T8	Cause_of_disease 1029 1033	risk
+E1	Cause_of_disease:T8 Theme:T1 Cause:T7

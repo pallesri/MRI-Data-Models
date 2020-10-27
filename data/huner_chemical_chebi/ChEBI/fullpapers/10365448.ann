@@ -1,0 +1,663 @@
+T1	Chemical 20 30	N -glycans
+T2	Metabolite 20 30	N -glycans
+T3	Species 34 40	plants
+T4	Protein 226 234	proteins
+T5	Chemical 270 280	N -glycans
+T6	Metabolite 270 280	N -glycans
+T7	Chemical 411 437	N -linked oligosaccharides
+R1	Isolated_From Arg1:T2 Arg2:T3	
+T8	Metabolite 411 437	N -linked oligosaccharides
+T9	Species 441 446	plant
+T10	Chemical 551 561	N -glycans
+T11	Metabolite 551 561	N -glycans
+T12	Biological_Activity 580 594	immunogenicity
+T13	Protein 598 611	glycoproteins
+T14	Biological_Activity 626 635	antigenic
+T15	Chemical 636 644	epitopes
+T16	Biological_Activity 636 644	epitopes
+T17	Protein 680 702	horseradish peroxidase
+T18	Protein 704 707	HRP
+T19	Protein 750 753	HRP
+T20	Species 714 721	rabbits
+T21	Species 799 804	plant
+T22	Protein 805 818	glycoproteins
+T23	Chemical 828 835	glycans
+T24	Metabolite 828 835	glycans
+T25	Protein 858 880	horseradish peroxidase
+T26	Chemical 882 893	β1,2-xylose
+T27	Protein 914 934	glycoprotein–glycans
+T28	Species 963 972	mammalian
+T29	Metabolite 882 893	β1,2-xylose
+T30	Protein 1154 1157	HRP
+T31	Species 1169 1174	plant
+T32	Protein 1175 1188	glycoproteins
+T33	Species 1198 1201	bee
+T34	Protein 1198 1224	bee-venom phospholipase A2
+T35	Chemical 1243 1255	carbohydrate
+T36	Biological_Activity 1256 1263	epitope
+T37	Chemical 1256 1263	epitope
+T38	Chemical 1458 1469	α1,3-fucose
+T39	Metabolite 1458 1469	α1,3-fucose
+T40	Biological_Activity 1497 1508	immunogenic
+T41	Biological_Activity 1509 1516	epitope
+T42	Chemical 1509 1516	epitope
+T43	Chemical 1541 1551	N -glycans
+T44	Metabolite 1541 1551	N -glycans
+T45	Biological_Activity 1604 1613	antigenic
+T46	Biological_Activity 1624 1634	allergenic
+T47	Chemical 1635 1643	epitopes
+T48	Biological_Activity 1635 1643	epitopes
+T49	Species 1729 1732	bee
+T51	Protein 1780 1790	antibodies
+T52	Protein 1794 1807	glycopeptides
+T53	Protein 1811 1827	phospholipase A2
+T54	Chemical 1860 1871	α1,3-fucose
+T55	Chemical 1947 1959	carbohydrate
+T56	Chemical 2084 2097	carbohydrates
+T57	Chemical 2110 2120	N -glycans
+T58	Metabolite 2110 2120	N -glycans
+T59	Protein 2257 2264	roteins
+T60	Biological_Activity 2278 2292	allergological
+T50	Biological_Activity 2390 2399	allergens
+T61	Chemical 2486 2493	glycans
+T62	Biological_Activity 2618 2626	epitopes
+T63	Chemical 2618 2626	epitopes
+T64	Biological_Activity 2654 2667	immunological
+T65	Chemical 2757 2764	glycans
+T66	Metabolite 2757 2764	glycans
+T67	Protein 2813 2819	lectin
+T68	Biological_Activity 2820 2827	binding
+T69	Biological_Activity 3067 3080	allergenicity
+T70	Chemical 3084 3094	N -glycans
+T71	Metabolite 3084 3094	N -glycans
+T72	Biological_Activity 3098 3106	epitopes
+T73	Chemical 3098 3106	epitopes
+T74	Chemical 3174 3200	N -linked oligosaccharides
+T75	Metabolite 3174 3200	N -linked oligosaccharides
+T76	Species 3204 3210	tomato
+R2	Isolated_From Arg1:T75 Arg2:T76	
+T77	Chemical 3388 3398	N -glycans
+T78	Metabolite 3388 3398	N -glycans
+T79	Species 3404 3410	tomato
+R3	Isolated_From Arg1:T78 Arg2:T79	
+T80	Protein 3432 3439	protein
+T81	Species 3454 3460	tomato
+T82	Species 3536 3544	tomatoes
+T83	Protein 3606 3614	proteins
+T84	Chemical 3648 3664	ammonium sulfate
+T85	Chemical 3703 3710	acetone
+T86	Protein 3781 3789	proteins
+T87	Chemical 3806 3813	acetone
+T88	Chemical 3852 3862	flavonoids
+T89	Chemical 3864 3875	carotinoids
+T90	Chemical 3900 3905	salts
+T91	Metabolite 3852 3862	flavonoids
+T92	Metabolite 3864 3875	carotinoids
+R4	Isolated_From Arg1:T91 Arg2:T82	
+R5	Isolated_From Arg1:T92 Arg2:T82	
+T93	Protein 3936 3944	proteins
+T94	Species 4248 4253	fruit
+T95	Species 4258 4267	vegetable
+T96	Chemical 4412 4432	N -acetylglucosamine
+T97	Chemical 4440 4450	aminosugar
+T98	Chemical 4483 4489	GlcNAc
+T99	Chemical 4580 4590	N -glycans
+T100	Metabolite 4580 4590	N -glycans
+T101	Protein 4610 4622	glycopeptide
+T102	Chemical 4654 4660	GlcNAc
+T103	Chemical 4668 4683	oligosaccharide
+T104	Chemical 4690 4706	oligosaccharides
+T105	Protein 4730 4743	glycopeptides
+T106	Protein 4750 4766	N -glycosidase A
+T107	Protein 4783 4791	peptides
+T108	Protein 4805 4818	glycopeptides
+T109	Chemical 4892 4907	2-aminopyridine
+T110	Chemical 4959 4985	N -linked oligosaccharides
+T111	Metabolite 4959 4985	N -linked oligosaccharides
+T112	Chemical 5006 5022	oligosaccharides
+T113	Chemical 5301 5307	glycan
+T114	Chemical 5407 5423	oligosaccharides
+T115	Chemical 5492 5508	oligosaccharides
+T116	Protein 5554 5568	exoglycosidase
+T117	Protein 5585 5598	α-mannosidase
+T118	Protein 5600 5625	β-N -acetylhexosaminidase
+T119	Protein 5630 5647	endoglycosidase H
+T120	Chemical 5882 5897	oligosaccharide
+T121	Chemical 6097 6104	glycans
+T122	Chemical 6127 6146	oligosaccharide 1-A
+T123	Species 6185 6191	tomato
+R6	Isolated_From Arg1:T122 Arg2:T123	
+T124	Chemical 6273 6279	glycan
+T125	Protein 6304 6317	α-mannosidase
+T126	Protein 6398 6414	phospholipase A2
+T127	Protein 6421 6434	α-mannosidase
+T128	Chemical 6492 6511	oligosaccharide 1-A
+T129	Chemical 6529 6532	1-A
+T130	Chemical 6569 6588	Oligosaccharide 1-B
+T131	Protein 6612 6626	α-mannosidase.
+T132	Protein 6725 6738	α-mannosidase
+T133	Protein 6775 6797	horseradish peroxidase
+T134	Chemical 6799 6804	MMXF3
+T135	Chemical 6808 6811	1-B
+T136	Chemical 6963 6970	glucose
+T137	Protein 6997 7010	α-mannosidase
+T138	Biological_Activity 6374 6383	digestion
+T139	Biological_Activity 6739 6748	digestion
+T140	Chemical 7066 7073	glucose
+T141	Protein 7143 7146	MMX
+T142	Biological_Activity 7134 7142	digested
+T143	Species 7152 7160	zucchini
+T144	Protein 7161 7178	ascorbate–oxidase
+T145	Biological_Activity 7222 7231	digestion
+T146	Chemical 7259 7274	oligosaccharide
+T147	Chemical 7280 7283	1-C
+T148	Chemical 7364 7367	1-C
+T149	Protein 7481 7494	α-mannosidase
+T150	Chemical 7527 7534	mannose
+T151	Protein 7716 7732	phospholipase A2
+T152	Protein 7909 7922	α-mannosidase
+T153	Protein 7933 7939	fibrin
+T154	Chemical 8018 8033	Oligosaccharide
+T155	Chemical 8034 8037	3-A
+T156	Chemical 8113 8128	oligosaccharide
+T157	Species 8134 8143	pineapple
+T158	Protein 8149 8158	bromelain
+T159	Protein 8169 8182	α-mannosidase
+T160	Biological_Activity 8183 8192	digestion
+T161	Chemical 8196 8199	3-A
+T162	Chemical 8256 8259	1-B
+T163	Chemical 8265 8272	glucose
+T164	Chemical 8308 8311	3-B
+T165	Protein 8383 8396	α-mannosidase
+T166	Biological_Activity 8397 8407	digestions
+T167	Protein 8463 8480	ascorbate oxidase
+T168	Biological_Activity 8490 8499	digestion
+T169	Protein 8505 8518	α-mannosidase
+T170	Chemical 8567 8570	1-C
+T171	Protein 8932 8945	α-mannosidase
+T172	Biological_Activity 8946 8955	digestion
+T173	Chemical 9036 9043	glucose
+T174	Chemical 9087 9094	mannose
+T175	Chemical 9177 9180	1-A
+T176	Protein 9280 9296	phospholipase A2
+T177	Chemical 9307 9309	5A
+T178	Biological_Activity 9358 9367	digesting
+T179	Protein 9396 9409	α-mannosidase
+T180	Chemical 9479 9494	oligosaccharide
+T181	Chemical 9496 9497	5
+T182	Chemical 9552 9561	N -glycan
+T183	Metabolite 9552 9561	N -glycan
+T184	Protein 9601 9614	α-mannosidase
+T185	Biological_Activity 9615 9624	digestion
+T186	Chemical 9710 9725	oligosaccharide
+T187	Chemical 9726 9729	3-A
+T188	Chemical 9790 9805	oligosaccharide
+T189	Chemical 9806 9809	1-B
+T190	Chemical 6561 6565	00F3
+T191	Chemical 6830 6835	00XF3
+T192	Chemical 7394 7397	M0X
+T193	Chemical 8160 8165	M0XF3
+T194	Chemical 8440 8443	MMX
+T195	Chemical 8646 8649	MMX
+T196	Chemical 9218 9222	MMF3
+T197	Chemical 9311 9315	MMF3
+T198	Chemical 9738 9743	M0XF3
+T199	Chemical 9839 9844	00XF3
+T200	Chemical 9899 9904	MMXF3
+T201	Chemical 9954 9969	oligosaccharide
+T202	Protein 9975 9997	horseradish peroxidase
+T203	Chemical 10136 10143	glucose
+T204	Biological_Activity 10182 10192	digestible
+T205	Protein 10196 10222	β-N -acetyl-hexosaminidase
+T206	Species 10314 10322	hornbeam
+T207	Chemical 10323 10330	GnGnXF3
+T208	Biological_Activity 10332 10341	digestion
+T209	Protein 10356 10362	enzyme
+T210	Chemical 10472 10478	MGnXF3
+T211	Chemical 10485 10491	GnMXF3
+T212	Chemical 10547 10563	oligosaccharides
+T213	Protein 10586 10612	β-N -acetylglucosaminidase
+T214	Biological_Activity 10613 10622	digestion
+T215	Species 10626 10634	hornbeam
+T216	Chemical 10642 10649	GnGnXF3
+T217	Chemical 10652 10667	Oligosaccharide
+T218	Protein 10729 10743	hexosaminidase
+T219	Biological_Activity 10744 10753	digestion
+T220	Chemical 10809 10816	glucose
+T221	Chemical 10901 10907	MGnXF3
+T222	Chemical 10913 10919	GnMXF3
+T223	Biological_Activity 10931 10940	digestion
+T224	Protein 10946 10972	β-N -acetyl-hexosaminidase
+T225	Chemical 11049 11054	MMXF3
+T226	Chemical 10668 10669	8
+T227	Chemical 11064 11079	oligosaccharide
+T228	Chemical 11080 11081	8
+T229	Chemical 11106 11113	GnGnXF3
+T230	Chemical 11122 11145	Oligomannosidic glycans
+T231	Chemical 11218 11225	glucose
+T232	Chemical 11233 11256	oligomannosidic glycans
+T233	Protein 11313 11326	α-mannosidase
+T234	Biological_Activity 11327 11337	digestions
+T235	Protein 11390 11403	α-mannosidase
+T236	Chemical 11625 11668	Manα1–6Manβ1–4GlcNAcβ1–4GlcNAc–pyridylamine
+T237	Chemical 11673 11709	Manβ1–4GlcNAcβ1–4GlcNAc–pyridylamine
+T238	Protein 11737 11750	α-mannosidase
+T240	Chemical 11761 11763	MM
+T241	Protein 11812 11829	endoglycosidase H
+T239	Chemical 11891 11910	pyridylamino–GlcNAc
+T242	Chemical 11916 11923	glucose
+T243	Chemical 11985 12000	oligomannosidic
+T244	Chemical 12041 12057	oligosaccharides
+T245	Species 12063 12073	soybean 7S
+T246	Protein 12075 12087	glycoprotein
+T247	Chemical 12246 12258	Man6 GlcNAc2
+T248	Chemical 12260 12272	Man8 GlcNAc2
+T249	Chemical 12428 12440	Man8 GlcNAc2
+T250	Chemical 12319 12323	M7.1
+T251	Chemical 12329 12333	M7.2
+T252	Chemical 12533 12537	M8.1
+T253	Chemical 12711 12715	Man9
+T254	Chemical 12724 12728	M9.1
+T255	Spectral_Data 12861 12874	mass spectrum
+T256	Chemical 12904 12909	MMXF3
+R7	Associated_With Arg1:T256 Arg2:T255	
+T257	Species 13033 13041	tomatoes
+T258	Species 13074 13077;13088 13096	red tomatoes
+T259	Species 13082 13096	green tomatoes
+T260	Species 13097 13121	Red Notoro-type tomatoes
+T261	Chemical 13239 13245	glycan
+T262	Species 13301 13304;13315 13338	red San Marzano-type fruits
+T263	Species 13309 13338	green San Marzano-type fruits
+T264	Chemical 13387 13393	glycan
+T265	Chemical 13568 13577	N -glycan
+T266	Metabolite 13568 13577	N -glycan
+T267	Species 13692 13717	San Marzano-type tomatoes
+T268	Chemical 13944 13950	glycan
+T269	Chemical 14112 14122	N -glycans
+T270	Species 14126 14132	tomato
+T271	Protein 14244 14251	protein
+T272	Species 14263 14271	tomatoes
+T273	Chemical 14300 14306	sugars
+T274	Chemical 14311 14326	polysaccharides
+T275	Protein 14486 14493	protein
+T276	Chemical 14542 14549	acetone
+T277	Protein 14775 14782	protein
+T278	Biological_Activity 14890 14904	immunochemical
+T279	Chemical 15024 15035	borohydride
+T280	Chemical 15100 15106	sugars
+T281	Species 15180 15185	grass
+T282	Protein 15328 15344	N -glycosidase A
+T283	Species 15350 15357	almonds
+T284	Protein 15398 15411	glycopeptides
+T285	Protein 15466 15482	N -glycosidase F
+T286	Species 15488 15518	Flavobacterium meningosepticum
+T287	Chemical 15534 15541	glycans
+T288	Chemical 15553 15559	fucose
+T289	Chemical 15575 15585	Asn–GlcNAc
+T290	Protein 15757 15771	exoglycosidase
+T291	Biological_Activity 15772 15782	digestions
+T292	Protein 15856 15868	glycoprotein
+T293	Chemical 15869 15876	glycans
+T294	Chemical 16043 16049	fucose
+T295	Chemical 16069 16075	xylose
+T296	Chemical 16088 16111	oligomannosidic glycans
+T297	Species 16189 16194	plant
+T298	Protein 16195 16208	glycoproteins
+T299	Chemical 16210 16215	MMXF3
+T300	Species 16259 16264	plant
+T301	Chemical 16265 16274	N -glycan
+T302	Metabolite 16265 16274	N -glycan
+T303	Chemical 16312 16327	oligosaccharide
+T304	Species 16331 16337	tomato
+T305	Protein 16368 16390	horseradish peroxidase
+T306	Protein 16419 16427	protease
+T307	Metabolite 16210 16215	MMXF3
+R8	Isolated_From Arg1:T307 Arg2:T304	
+T308	Biological_Activity 16428 16437	inhibitor
+T309	Species 16459 16482	Caesalpinia Pulcherrima
+T310	Species 16443 16457	barbados pride
+T311	Species 16517 16533	Sophora japonica
+T312	Protein 16535 16541	lectin
+T313	Protein 16570 16577	ricin D
+T314	Species 16596 16609	castor plants
+T315	Species 16611 16627	Ricinus communis
+T316	Chemical 16654 16659	M0XF3
+T317	Metabolite 16654 16659	M0XF3
+T318	Species 16723 16729	tomato
+T319	Species 16767 16776	pineapple
+T320	Protein 16782 16791	bromelain
+T321	Species 16821 16827	barley
+T322	Protein 16828 16838	peroxidase
+R9	Isolated_From Arg1:T317 Arg2:T318	
+R10	Isolated_From Arg1:T317 Arg2:T319	
+R11	Isolated_From Arg1:T317 Arg2:T321	
+T323	Chemical 16898 16914;16939 16946	α1,3-fucosylated glycans
+T324	Chemical 16922 16946	β1,2-xylosylated glycans
+T325	Metabolite 16898 16914;16939 16946	α1,3-fucosylated glycans
+T326	Metabolite 16922 16946	β1,2-xylosylated glycans
+T327	Species 16975 16981	tomato
+T328	Species 17022 17028	plants
+T329	Chemical 17030 17033	MMX
+T330	Metabolite 17030 17033	MMX
+T331	Chemical 17068 17077	N -glycan
+T332	Metabolite 17068 17077	N -glycan
+T333	Species 17081 17085	rice
+T334	Protein 17086 17095	α-amylase
+T335	Chemical 17178 17193	oligosaccharide
+T336	Species 17212 17216	bean
+T337	Protein 17225 17232	protein
+T338	Protein 17233 17242	phaseolin
+R12	Isolated_From Arg1:T330 Arg2:T333	
+R13	Isolated_From Arg1:T332 Arg2:T333	
+T339	Chemical 17296 17299	M0X
+T340	Metabolite 17296 17299	M0X
+T341	Chemical 17324 17334	N -glycans
+T342	Metabolite 17324 17334	N -glycans
+T343	Species 17338 17344	barley
+T344	Protein 17344 17394	(1–3,1–4)-β-d -glucan 4-glucanohydrolase isoenzyme
+R14	Isolated_From Arg1:T340 Arg2:T343	
+R15	Isolated_From Arg1:T342 Arg2:T343	
+T345	Chemical 17437 17441	MMF3
+T346	Metabolite 17437 17441	MMF3
+T347	Species 17479 17486	soybean
+T348	Protein 17487 17497	peroxidase
+R16	Isolated_From Arg1:T346 Arg2:T347	
+T349	Chemical 17591 17597	GlcNAc
+T350	Chemical 17634 17644	N -glycans
+T351	Metabolite 17634 17643	N -glycan
+T352	Species 17648 17654	tomato
+T353	Protein 17696 17703	lactase
+T354	Species 17709 17717	sycamore
+R17	Isolated_From Arg1:T351 Arg2:T352	
+R18	Isolated_From Arg1:T351 Arg2:T354	
+T355	Chemical 17754 17760	GnMXF3
+T356	Metabolite 17754 17760	GnMXF3
+T357	Chemical 17766 17772	MGnXF3
+T358	Metabolite 17766 17772	MGnXF3
+T359	Species 17807 17822	red kidney bean
+T360	Protein 17823 17861	Fe(III)–Zn(II) purple acid phosphatase
+R19	Isolated_From Arg1:T358 Arg2:T359	
+R20	Isolated_From Arg1:T356 Arg2:T359	
+T361	Chemical 17885 17900	Oligomannosidic
+T362	Chemical 17945 17955	N -glycans
+T363	Metabolite 17945 17955	N -glycans
+T364	Species 17959 17965	tomato
+T365	Species 17995 18001	plants
+T366	Species 18008 18015	soybean
+T367	Protein 18016 18026	agglutinin
+T368	Protein 18087 18096	phaseolin
+T369	Species 18111 18115	bean
+T370	Species 18139 18143	rice
+T371	Protein 18179 18188	α-amylase
+T372	Biological_Activity 18189 18198	inhibitor
+T373	Species 18204 18221	white kidney bean
+T374	Species 18223 18240	Phasolus vulgaris
+R21	Isolated_From Arg1:T363 Arg2:T364	
+R22	Isolated_From Arg1:T363 Arg2:T365	
+R23	Isolated_From Arg1:T363 Arg2:T366	
+R24	Isolated_From Arg1:T363 Arg2:T369	
+R25	Isolated_From Arg1:T363 Arg2:T370	
+R26	Isolated_From Arg1:T363 Arg2:T373	
+R27	Isolated_From Arg1:T363 Arg2:T374	
+T375	Species 18304 18310	insect
+T376	Species 18312 18317	yeast
+T377	Species 18322 18331	mammalian
+T378	Protein 18332 18345	glycoproteins
+R28	Isolated_From Arg1:T363 Arg2:T375	
+R29	Isolated_From Arg1:T363 Arg2:T376	
+R30	Isolated_From Arg1:T363 Arg2:T377	
+T379	Chemical 18347 18360	α-1,3-Fucosyl
+T380	Chemical 18383 18403	N -acetylglucosamine
+T381	Chemical 18434 18444	N -glycans
+T382	Metabolite 18434 18444	N -glycans
+T383	Species 18450 18456	plants
+T384	Species 18471 18478	insects
+T385	Species 18505 18511	tomato
+T386	Chemical 18512 18538	N -linked oligosaccharides
+T387	Metabolite 18512 18538	N -linked oligosaccharides
+T388	Chemical 18569 18578	N -glycan
+T389	Metabolite 18569 18578	N -glycan
+T390	Species 18587 18593	tomato
+R31	Isolated_From Arg1:T382 Arg2:T383	
+R32	Isolated_From Arg1:T382 Arg2:T384	
+R33	Isolated_From Arg1:T387 Arg2:T385	
+R34	Isolated_From Arg1:T389 Arg2:T390	
+T391	Chemical 18607 18623	fucosyl residues
+T392	Chemical 18635 18663	β1,2-linked xylosyl residues
+T393	Species 18683 18692	mammalian
+T394	Protein 18693 18706	glycoproteins
+T395	Species 18728 18733	plant
+T396	Protein 18734 18747	glycoproteins
+T397	Biological_Activity 18748 18759	immunogenic
+T398	Protein 18802 18812	antibodies
+T399	Chemical 18842 18849	epitope
+T400	Biological_Activity 18842 18849	epitope
+T401	Chemical 18889 18916	α1,3-fucosylated N -glycans
+T402	Metabolite 18889 18916	α1,3-fucosylated N -glycans
+T403	Chemical 18934 18940	xylose
+T404	Chemical 18977 18989	carbohydrate
+T405	Species 19032 19037	plant
+T406	Species 19049 19055	insect
+T407	Biological_Activity 19056 19065	allergens
+T408	Species 19184 19192	tomatoes
+T409	Protein 19263 19273	antibodies
+T410	Species 19277 19282	grass
+T411	Species 19314 19320	tomato
+T412	Protein 19331 19337	Lectin
+T413	Protein 19350 19358	proteins
+T414	Biological_Activity 19369 19379	inhibition
+T415	Protein 19398 19411	glycopeptides
+T416	Chemical 19421 19427	glycan
+T417	Chemical 19465 19477	carbohydrate
+T418	Chemical 19482 19490	epitopes
+T419	Biological_Activity 19482 19490	epitopes
+T420	Chemical 19499 19510	α1,3-fucose
+T421	Species 19548 19554	tomato
+T422	Metabolite 19555 19565	N -glycans
+T423	Chemical 19555 19565	N -glycans
+R35	Isolated_From Arg1:T422 Arg2:T421	
+T424	Chemical 19617 19629	α1,3-fucosyl
+T425	Species 19652 19657	fruit
+T426	Species 19743 19755	Red tomatoes
+T427	Species 19765 19771	Notoro
+T428	Species 19803 19806;19817 19825	red tomatoes
+T429	Species 19835 19846	San Marzano
+T430	Protein 19892 19908	N -glycosidase A
+T431	Species 19914 19921	almonds
+T432	Protein 19926 19943	endoglycosidase H
+T433	Species 19949 19970	Streptomyces plicatus
+T434	Protein 20013 20039	β-N -acetylglucosaminidase
+T435	Species 20041 20050	jack bean
+T436	Protein 20053 20066	α-mannosidase
+T437	Species 20068 20077	jack bean
+T438	Protein 20083 20089	pepsin
+T439	Species 20096 20103	porcine
+T440	Chemical 20146 20161	2-aminopyridine
+T441	Chemical 20163 20186	sodium cyanoborohydride
+T442	Chemical 20188 20204	dithioerythritol
+T443	Chemical 20206 20217	benzamidine
+T444	Chemical 20222 20226	PMSF
+T445	Protein 20275 20283	proteins
+T446	Chemical 20308 20315	acetone
+T447	Species 20447 20453	tomato
+T448	Chemical 20490 20493	ice
+T449	Chemical 20499 20506	acetone
+T450	Chemical 20510 20517	dry ice
+T451	Chemical 20537 20540	ice
+T452	Chemical 20546 20553	acetone
+T453	Chemical 20592 20599	dry ice
+T454	Chemical 20747 20754	acetone
+T455	Chemical 20769 20776	acetone
+T456	Chemical 20777 20789	diethylether
+T457	Chemical 20848 20855	acetone
+T458	Chemical 20887 20896	phosphate
+T459	Chemical 20906 20912	saline
+T460	Chemical 20920 20929	phosphate
+T461	Chemical 20945 20949	NaCl
+T462	Chemical 21115 21120	water
+T463	Chemical 21179 21195	Ammonium sulfate
+T464	Chemical 21262 21278	ammonium sulfate
+T465	Species 21321 21327	tomato
+T466	Chemical 21369 21378	phosphate
+T467	Chemical 21394 21398	NaCl
+T468	Chemical 21405 21409	EDTA
+T469	Chemical 21416 21427	benzamidine
+T470	Chemical 21434 21437	DTE
+T471	Chemical 21446 21450	PMSF
+T472	Chemical 21559 21575	ammonium sulfate
+T473	Chemical 21779 21784	water
+T474	Chemical 21823 21833	N -glycans
+T475	Metabolite 21823 21833	N -glycans
+T476	Chemical 21875 21886	formic acid
+T477	Biological_Activity 21891 21899	digested
+T478	Protein 21905 21911	pepsin
+T479	Protein 21956 21962	pepsin
+T480	Chemical 22163 22174	acetic acid
+T481	Chemical 22245 22256	acetic acid
+T482	Protein 22262 22274	glycopeptide
+T483	Chemical 22304 22311	ammonia
+T484	Chemical 22344 22356	Carbohydrate
+T485	Chemical 22396 22403	orcinol
+T486	Chemical 22404 22417	sulfuric acid
+T487	Chemical 22517 22522	water
+T488	Chemical 22554 22561	ammonia
+T489	Chemical 22582 22600	sodium borohydride
+T490	Chemical 22698 22709	acetic acid
+T491	Chemical 22768 22779	acetic acid
+T492	Chemical 22783 22791	methanol
+T493	Chemical 22807 22811	MeOH
+T494	Chemical 22848 22855	citrate
+T495	Chemical 22856 22865	phosphate
+T496	Protein 22901 22917	N -glycosidase A
+T497	Biological_Activity 22877 22885	digested
+T498	Chemical 22937 22953	Oligosaccharides
+T499	Protein 22983 22996	glycopeptides
+T500	Protein 23001 23009	peptides
+T501	Chemical 23096 23103	glycans
+T502	Chemical 23123 23138	2-aminopyridine
+T503	Chemical 23316 23327	acetic acid
+T504	Chemical 23351 23383	pyridylaminated oligosaccharides
+T505	Chemical 23533 23562	pyridylamino-oligosaccharides
+T506	Chemical 23632 23639	Glucose
+T507	Chemical 23768 23775	glucose
+T508	Chemical 23632 23649	Glucose oligomers
+T509	Chemical 23971 23982	acetic acid
+T510	Chemical 23984 23997	triethylamine
+T511	Chemical 24006 24018	acetonitrile
+T512	Chemical 24045 24056	acetic acid
+T513	Chemical 24080 24092	acetonitrile
+T514	Chemical 24317 24333	ammonium acetate
+T515	Chemical 24395 24403	methanol
+T516	Chemical 24461 24493	pyridylaminated oligosaccharides
+T517	Protein 24604 24618	Exoglycosidase
+T518	Biological_Activity 24619 24629	digestions
+T519	Chemical 24662 24677	oligosaccharide
+T520	Protein 24737 24743	enzyme
+T521	Protein 24772 24785	α-mannosidase
+T522	Chemical 24795 24809	sodium acetate
+T523	Chemical 24836 24841	ZnCl2
+T524	Chemical 24883 24890	mannose
+T525	Protein 24909 24922	α-mannosidase
+T526	Chemical 24957 24964	mannose
+T527	Protein 24980 25005	β-N -acetylhexosaminidase
+T528	Protein 25047 25053	enzyme
+T529	Chemical 25091 25105	sodium citrate
+T530	Protein 25120 25137	endoglycosidase H
+T531	Chemical 25147 25161	sodium citrate
+T532	Chemical 25162 25171	phosphate
+T533	Chemical 25211 25227	oligosaccharides
+T534	Chemical 25228 25260	Pyridylaminated oligosaccharides
+T535	Chemical 25332 25371	Manα1–6(Manα1–3)Manβ1–4GlcNAcβ1–4GlcNAc
+T536	Metabolite 25332 25371	Manα1–6(Manα1–3)Manβ1–4GlcNAcβ1–4GlcNAc
+T537	Chemical 25373 25375	MM
+T538	Metabolite 25373 25375	MM
+T539	Species 25382 25388	bovine
+T540	Protein 25389 25395	fibrin
+R36	Isolated_From Arg1:T538 Arg2:T539	
+R37	Isolated_From Arg1:T536 Arg2:T539	
+T541	Chemical 25434 25482	Manα1–6(Manα1–3)(Xylβ1–2)Manβ1–4GlcNAcβ1–4GlcNAc
+T542	Species 25494 25502	zucchini
+T543	Metabolite 25434 25482	Manα1–6(Manα1–3)(Xylβ1–2)Manβ1–4GlcNAcβ1–4GlcNAc
+T544	Chemical 25484 25487	MMX
+T545	Metabolite 25484 25487	MMX
+T546	Protein 25503 25520	ascorbate oxidase
+R38	Isolated_From Arg1:T545 Arg2:T542	
+R39	Isolated_From Arg1:T543 Arg2:T542	
+T547	Chemical 25539 25587	Manα1–6(Manα1–3)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T548	Metabolite 25539 25587	Manα1–6(Manα1–3)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T549	Chemical 25589 25593	MMF3
+T550	Metabolite 25589 25593	MMF3
+T551	Species 25601 25609	honeybee
+T552	Protein 25616 25632	phospholipase A2
+R40	Isolated_From Arg1:T550 Arg2:T551	
+R41	Isolated_From Arg1:T548 Arg2:T551	
+T553	Chemical 25658 25706	Manα1–6(Xylβ1–2)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T554	Metabolite 25658 25706	Manα1–6(Xylβ1–2)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T555	Chemical 25708 25713	M0XF3
+T556	Metabolite 25708 25713	M0XF3
+T557	Species 25721 25730	pineapple
+T558	Protein 25736 25745	bromelain
+R42	Isolated_From Arg1:T556 Arg2:T557	
+R43	Isolated_From Arg1:T554 Arg2:T557	
+T559	Chemical 25772 25829	Manα1–6(Manα1–3)(Xylβ1–2)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T560	Metabolite 25772 25829	Manα1–6(Manα1–3)(Xylβ1–2)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T561	Chemical 25831 25836	MMXF3
+T562	Metabolite 25831 25836	MMXF3
+T563	Species 25844 25855	horseradish
+T564	Protein 25856 25866	peroxidase
+T565	Protein 25844 25866	horseradish peroxidase
+R44	Isolated_From Arg1:T562 Arg2:T563	
+R45	Isolated_From Arg1:T560 Arg2:T563	
+T566	Chemical 25893 25970	GlcNAcβ1–2Manα1–6(GlcNAcβ1–2Manα1–3)(Xylβ1–2)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T567	Metabolite 25893 25970	GlcNAcβ1–2Manα1–6(GlcNAcβ1–2Manα1–3)(Xylβ1–2)Manβ1–4GlcNAcβ1–4(Fucα1–3)GlcNAc
+T568	Chemical 25972 25979	GnGnXF3
+T569	Metabolite 25972 25979	GnGnXF3
+T570	Species 25987 25995	hornbeam
+R46	Isolated_From Arg1:T569 Arg2:T570	
+R47	Isolated_From Arg1:T567 Arg2:T570	
+T571	Chemical 26031 26043	Man6 GlcNAc2
+T572	Chemical 26045 26052	[M6.1]1
+T573	Chemical 26063 26075	oligomannose
+T574	Metabolite 26031 26043	Man6 GlcNAc2
+T575	Metabolite 26045 26052	[M6.1]1
+T576	Chemical 26129 26141	Man7 GlcNAc2
+T577	Metabolite 26129 26141	Man7 GlcNAc2
+T578	Chemical 26143 26150	[M7.1]1
+T579	Metabolite 26143 26150	[M7.1]1
+T580	Chemical 26154 26161	[M7.2]1
+T581	Metabolite 26154 26161	[M7.2]1
+T582	Chemical 26169 26181	Man8 GlcNAc2
+T583	Metabolite 26169 26181	Man8 GlcNAc2
+T584	Chemical 26183 26190	[M8.1]1
+T585	Metabolite 26183 26190	[M8.1]1
+T586	Species 26198 26205	soybean
+T587	Protein 26206 26222	7S -glycoprotein
+R48	Isolated_From Arg1:T585 Arg2:T586	
+R49	Isolated_From Arg1:T583 Arg2:T586	
+R50	Isolated_From Arg1:T581 Arg2:T586	
+R51	Isolated_From Arg1:T579 Arg2:T586	
+R52	Isolated_From Arg1:T577 Arg2:T586	
+T588	Chemical 26306 26322	oligosaccharides
+T589	Chemical 26341 26347	methyl
+T590	Chemical 26404 26444	pyridylaminated isomaltooligosaccharides
+T591	Chemical 26485 26492	dextran
+T592	Spectral_Data 26499 26579	Matrix-assisted laser desorption/ionization – time of flight – mass spectrometry
+T593	Spectral_Data 26580 26592	MALDI–TOF–MS
+T594	Chemical 26724 26739;26747 26757	pyridylaminated N -glycans
+T595	Species 26740 26746	tomato
+T596	Chemical 26828 26836	nitrogen
+T597	Chemical 26909 26914	water
+T598	Chemical 26944 26969	2,5-dihydroxybenzoic acid
+T599	Chemical 26973 26978	water
+T600	Chemical 26994 27006	acetonitrile
+T601	Chemical 27018 27022	NaCl
+T602	Spectral_Data 27089 27101	Mass spectra
+T603	Chemical 27193 27229	pyridylaminated GlcNAc2 Man3 GlcNAc2
+T604	Species 27273 27279	bovine
+T605	Protein 27280 27286	fibrin
+T606	Chemical 27378 27393	OPA-aminosugars
+T607	Protein 27412 27424	glycopeptide
+T608	Chemical 27458 27461	TFA
+T609	Chemical 27466 27476	aminosugar
+T610	Species 27648 27654	tomato
+T611	Chemical 27699 27709	aminosugar

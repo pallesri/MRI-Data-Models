@@ -1,0 +1,81 @@
+T1	Biological_Activity 165 182	neurodegeneration
+T2	Chemical 184 198	Prostaglandins
+T3	Metabolite 184 198	Prostaglandins
+T6	Chemical 321 350	cyclopentenone prostaglandins
+T7	Chemical 321 349;361 371	cyclopentenone prostaglandin precursors
+T10	Chemical 490 508	lipopolysaccharide
+T11	Species 520 523	rat
+T12	Species 537 543	murine
+T13	Protein 576 584	IL-1beta
+T14	Species 596 599	rat
+T15	Chemical 612 641	Cyclopentenone prostaglandins
+T16	Biological_Activity 655 664	inhibitor
+T17	Chemical 731 744;746 748	prostaglandin E2
+T18	Chemical 731 744;753 755	prostaglandin D2
+R1	Associated_With Arg1:T15 Arg2:T16	
+T19	Metabolite 321 349	cyclopentenone prostaglandin
+T20	Metabolite 612 641	Cyclopentenone prostaglandins
+R2	Associated_With Arg1:T20 Arg2:T16	
+R3	Associated_With Arg1:T18 Arg2:T16	
+R4	Associated_With Arg1:T17 Arg2:T16	
+R5	Metabolite_Of Arg1:T20 Arg2:T17	
+R6	Metabolite_Of Arg1:T20 Arg2:T18	
+T21	Protein 436 467	inducible nitric-oxide synthase
+T22	Protein 469 473	iNOS
+T23	Chemical 757 793	15-Deoxy-Delta12,14-prostaglandin J2
+T24	Metabolite 757 793	15-Deoxy-Delta12,14-prostaglandin J2
+T25	Chemical 795 804	15d-PGJ2)
+T26	Metabolite 795 803	15d-PGJ2
+T27	Chemical 825 838	prostaglandin
+T28	Metabolite 825 838	prostaglandin
+R7	Associated_With Arg1:T24 Arg2:T16	
+R8	Associated_With Arg1:T23 Arg2:T16	
+R9	Associated_With Arg1:T25 Arg2:T16	
+R10	Associated_With Arg1:T26 Arg2:T16	
+T29	Chemical 883 891	15d-PGJ2
+T30	Metabolite 883 891	15d-PGJ2
+T32	Biological_Activity 892 900	suppress
+R13	Associated_With Arg1:T30 Arg2:T32	
+R14	Associated_With Arg1:T29 Arg2:T32	
+T34	Metabolite 972 980	15d-PGJ2
+T35	Chemical 972 980	15d-PGJ2
+T36	Protein 1029 1077	peroxisome proliferator-activated receptor gamma
+T37	Protein 1079 1088	PPARgamma
+T38	Chemical 1098 1110	troglitazone
+T39	Protein 1133 1142	PPARgamma
+T42	Biological_Activity 1158 1165	inhibit
+T43	Protein 1166 1170	iNOS
+T44	Chemical 1194 1206	troglitazone
+T45	Metabolite 1211 1219	15d-PGJ2
+T46	Chemical 1211 1219	15d-PGJ2
+T47	Protein 1311 1320	PPARgamma
+T48	Protein 1255 1259	PPAR
+T50	Metabolite 1322 1330	15d-PGJ2
+T53	Protein 1419 1427	NFkappaB
+T54	Biological_Activity 1452 1460	activity
+T55	Protein 1467 1475	NFkappaB
+T56	Biological_Activity 1529 1540	suppression
+T57	Chemical 1563 1571	15d-PGJ2
+T58	Metabolite 1563 1571	15d-PGJ2
+T59	Chemical 1322 1330	15d-PGJ2
+R19	Associated_With Arg1:T59 Arg2:T54	
+R20	Associated_With Arg1:T50 Arg2:T54	
+R21	Associated_With Arg1:T57 Arg2:T56	
+R22	Associated_With Arg1:T58 Arg2:T56	
+T60	Protein 1602 1610	NFkappaB
+T61	Biological_Activity 1584 1596	interference
+R23	Associated_With Arg1:T58 Arg2:T61	
+R24	Associated_With Arg1:T57 Arg2:T61	
+T62	Metabolite 1720 1749	cyclopentenone prostaglandins
+T63	Chemical 1720 1750	cyclopentenone prostaglandins,
+T4	Biological_Activity 248 257	mediators
+R25	Associated_With Arg1:T2 Arg2:T4	
+R26	Associated_With Arg1:T3 Arg2:T4	
+T5	Protein 669 673	iNOS
+T8	Protein 903 907	iNOS
+T9	Protein 927 931	iNOS
+R11	Binds_With Arg1:T38 Arg2:T39	
+R12	Binds_With Arg1:T38 Arg2:T36	
+T31	Biological_Activity 1226 1235	stimulate
+T33	Protein 1555 1559	iNOS
+T40	Biological_Activity 1828 1840	inflammatory

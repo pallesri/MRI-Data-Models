@@ -1,0 +1,8 @@
+T1	Disease 36 55	respiratory disease
+T2	Disease 717 736	respiratory disease
+T3	Disease 1518 1537	respiratory disease
+T4	Plant 72 79	tobacco
+T5	Plant 509 516	tobacco
+T6	Plant 1084 1091	tobacco
+T7	Cause_of_disease 16 20	risk
+E1	Cause_of_disease:T7 Theme:T1 Cause:T4

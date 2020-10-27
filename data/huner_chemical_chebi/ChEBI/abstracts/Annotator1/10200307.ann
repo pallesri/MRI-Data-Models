@@ -1,0 +1,57 @@
+T1	Chemical 10 31	benzamide derivatives
+T2	Protein 79 98	histone deacetylase
+T3	Protein 100 103	HDA
+T4	Biological_Activity 71 78	inhibit
+T6	Chemical 144 165	benzamide derivatives
+T7	Chemical 167 176	MS-27-275
+T8	Biological_Activity 236 245	antitumor
+T9	Species 295 300	human
+T10	Protein 301 304	HDA
+T12	Biological_Activity 266 275	inhibited
+T13	Chemical 256 265	MS-27-275
+R2	Associated_With Arg1:T13 Arg2:T12	
+T14	Biological_Activity 316 332	hyperacetylation
+R3	Associated_With Arg1:T13 Arg2:T14	
+T15	Biological_Activity 426 435	inhibitor
+T16	Protein 422 425	HDA
+T18	Chemical 446 461	sodium butyrate
+T19	Chemical 466 481	trichostatin  A
+R6	Associated_With Arg1:T18 Arg2:T15	
+R7	Associated_With Arg1:T19 Arg2:T15	
+T20	Chemical 483 492	MS-27-275
+T21	Protein 520 528	gelsolin
+T22	Protein 501 515	p21(WAF1/CIP1)
+T28	Chemical 666 675	MS-27-275
+T29	Species 692 697	human
+T30	Biological_Activity 771 780	antitumor
+T31	Chemical 788 802	5-fluorouracil
+R23	Associated_With Arg1:T31 Arg2:T30	
+R24	Associated_With Arg1:T7 Arg2:T8	
+R25	Associated_With Arg1:T28 Arg2:T30	
+T32	Chemical 920 929	MS-27-275
+T33	Chemical 931 940	MS-27-275
+T34	Species 1036 1045	nude mice
+T35	Biological_Activity 970 979	inhibited
+T36	Chemical 1089 1103	5-fluorouracil
+T37	Chemical 1142 1151	MS-27-275
+T38	Biological_Activity 1164 1174	inhibiting
+T39	Chemical 1107 1151	structurally analogous compound to MS-27-275
+R26	Associated_With Arg1:T37 Arg2:T38	
+T40	Chemical 1303 1312	MS-27-275
+T41	Biological_Activity 1324 1333	antitumor
+R27	Associated_With Arg1:T40 Arg2:T41	
+T42	Biological_Activity 1352 1362	inhibition
+R28	Associated_With Arg1:T40 Arg2:T42	
+T43	Biological_Activity 1452 1461	antitumor
+R31	Associated_With Arg1:T1 Arg2:T4	
+T46	Protein 1160 1163	HDA
+T47	Protein 1348 1351	HDA
+T49	Chemical 1452 1468	antitumor agents
+R8	Associated_With Arg1:T33 Arg2:T35	
+R9	Binds_With Arg1:T1 Arg2:T2	
+R10	Binds_With Arg1:T1 Arg2:T3	
+R11	Binds_With Arg1:T13 Arg2:T10	
+R1	Binds_With Arg1:T18 Arg2:T16	
+R12	Binds_With Arg1:T19 Arg2:T16	
+R4	Binds_With Arg1:T37 Arg2:T46	
+R5	Binds_With Arg1:T40 Arg2:T47	

@@ -1,0 +1,360 @@
+T1	Chemical 24 32	peptides
+T2	Biological_Activity 38 48	biological
+T3	Biological_Activity 201 210	enzymatic
+T4	Chemical 211 218	peptide
+T5	Chemical 312 319	peptide
+T6	Chemical 354 371	amino acid amides
+T7	Chemical 354 364	amino acid
+T8	Chemical 365 371	amides
+T9	Chemical 414 455	N -carbobenzyloxy-l -tyrosine ethyl ester
+T10	Chemical 457 467	CBZ-Tyroet
+T11	Chemical 473 503	acetyl-l -tyrosine ethyl ester
+T12	Chemical 505 514	Ac-Tyroet
+T13	Biological_Activity 526 533	enzymic
+T14	Chemical 609 618	dipeptide
+T15	Chemical 620 636	N -CBZ-Tyr-leuNH
+T16	Chemical 689 703	l -leucinamide
+T17	Chemical 709 719	CBZ-Tyroet
+T18	Protein 725 735	subtilisin
+T19	Protein 739 753	α-chymotrypsin
+T20	Biological_Activity 778 787	enzymatic
+T21	Chemical 788 795	peptide
+T22	Chemical 824 831	solvent
+T23	Chemical 984 998	l -leucinamide
+T24	Chemical 1003 1045	N -trifluoroacetyl-l -tyrosine ethyl ester
+T25	Chemical 1047 1058	TFAc-Tyroet
+T26	Chemical 1067 1076	dipeptide
+T27	Chemical 1206 1223	amino acid amides
+T28	Chemical 1206 1216	amino acid
+T29	Chemical 1217 1223	amides
+T30	Chemical 1228 1248	tyrosine derivatives
+T31	Chemical 1228 1236	tyrosine
+T32	Chemical 1285 1295	amino acid
+T33	Chemical 1285 1307	amino acid derivatives
+T34	Chemical 1366 1380	l -leucinamide
+T35	Chemical 1417 1431	l -alaninamide
+T36	Chemical 1472 1484	methyl group
+T37	Chemical 1489 1500	amino group
+T38	Spectral_Data 1590 1593	NMR
+T39	Chemical 1632 1640	tyrosine
+T40	Chemical 1632 1652	tyrosine derivatives
+T41	Chemical 1662 1671	Ac-Tyroet
+T42	Chemical 1673 1683	CBZ-Tyroet
+T43	Chemical 1685 1696	TFAc-Tyroet
+T44	Chemical 1733 1747	l -leucinamide
+R1	Associated_With Arg1:T40 Arg2:T38	
+R2	Associated_With Arg1:T41 Arg2:T38	
+R3	Associated_With Arg1:T42 Arg2:T38	
+R4	Associated_With Arg1:T43 Arg2:T38	
+R5	Associated_With Arg1:T44 Arg2:T38	
+T45	Chemical 1942 1982	N-carbobenzyloxy-l -tyrosine ethyl ester
+T46	Chemical 1984 1994	CBZ-Tyroet
+T47	Chemical 1996 2006	CBZ-Tyroet
+T48	Chemical 2048 2052	acid
+T49	Chemical 2063 2079	thionyl chloride
+T50	Chemical 2100 2129	N -carbobenzyloxy-l -tyrosine
+T51	Chemical 2164 2171	ethanol
+T52	Chemical 2192 2208	thionyl chloride
+T53	Chemical 2288 2293	water
+T54	Chemical 2395 2408	ethyl acetate
+T55	Chemical 2443 2468	sodium hydrogen carbonate
+T56	Chemical 2521 2550	N -carbobenzyloxy-l -tyrosine
+T57	Chemical 2563 2576	ethyl acetate
+T58	Chemical 2600 2618	magnesium sulphate
+T59	Chemical 2687 2697	CBZ-Tyroet
+T60	Chemical 2729 2742	ethyl acetate
+T61	Chemical 2747 2762	petroleum ether
+T62	Chemical 2791 2804	D2-CBZ-Tyroet
+T63	Chemical 2835 2845	CBZ-Tyroet
+T64	Chemical 2849 2853	D2 O
+T65	Chemical 3001 3010	deuterium
+T66	Chemical 3057 3080	di-phosphorus pentoxide
+T67	Chemical 3182 3223	N-trifluoroacetyl-l -tyrosine ethyl ester
+T68	Chemical 3225 3236	TFAc-Tyroet
+T69	Chemical 3238 3249	TFAc-Tyroet
+T70	Chemical 3290 3313	l -tyrosine ethyl ester
+T71	Chemical 3327 3349	ethyl trifluoroacetate
+T72	Chemical 3266 3281	trifluoroacetyl
+T73	Chemical 3378 3399	tetramethyl guanidine
+T74	Chemical 3422 3445	l -tyrosine ethyl ester
+T75	Chemical 3482 3489	ethanol
+T76	Chemical 3501 3522	tetramethyl guanidine
+T77	Chemical 3546 3568	ethyl trifluoroacetate
+T78	Chemical 3696 3710	Dowex 50X2-400
+T79	Chemical 3753 3759	carbon
+T80	Chemical 3858 3876	diatomaceous earth
+T81	Chemical 3925 3936	TFAc-Tyroet
+T82	Chemical 3965 3980	dichloromethane
+T83	Chemical 3991 3998	ethanol
+T84	Chemical 4089 4100	TFAc-Tyroet
+T85	Chemical 4102 4116	D2-TFAc-Tyroet
+T86	Chemical 4154 4167	D2-CBZ-Tyroet
+T87	Chemical 4176 4206	Acetyl-l -tyrosine ethyl ester
+T88	Chemical 4208 4217	Ac-Tyroet
+T89	Chemical 4219 4228	Ac-Tyroet
+T90	Chemical 4382 4391	Ac-Tyroet
+T91	Chemical 4371 4391	deuterated Ac-Tyroet
+T92	Chemical 4393 4405	D2-Ac-Tyroet
+T93	Chemical 4443 4456	D2-CBZ-Tyroet
+T94	Spectral_Data 4476 4479	NMR
+T95	Spectral_Data 4508 4511	NMR
+T96	Chemical 6504 6512	tyrosine
+T97	Chemical 6504 6524	tyrosine derivatives
+T98	Chemical 6594 6602	tyrosine
+T99	Chemical 6594 6614	tyrosine derivatives
+T100	Chemical 6737 6745	tyrosine
+T101	Chemical 6737 6757	tyrosine derivatives
+T102	Chemical 7090 7101	TFAc-Tyroet
+T103	Chemical 7114 7123	Ac-Tyroet
+T104	Chemical 7217 7227	CBZ-Tyroet
+T105	Chemical 7259 7266	benzene
+T106	Chemical 7448 7456	tyrosine
+T107	Chemical 7448 7468	tyrosine derivatives
+T108	Chemical 7662 7671	Ac-Tyroet
+T109	Chemical 7957 7967	amino acid
+T110	Chemical 7957 7974	amino acid amides
+T111	Chemical 7988 8001	methyl groups
+T112	Chemical 8135 8144	Ac-Tyroet
+T113	Chemical 8194 8208	l -leucinamide
+T114	Chemical 8299 8311	methyl group
+T115	Chemical 8415 8435	deuterated Ac-Tyroet
+T116	Chemical 8426 8435	Ac-Tyroet
+T117	Chemical 8527 8547	deuterated Ac-Tyroet
+T118	Chemical 8538 8547	Ac-Tyroet
+T119	Chemical 8512 8522;8538 8547	protonated Ac-Tyroet
+T120	Chemical 8630 8640	CBZ-Tyroet
+T121	Chemical 8619 8640	deuterated CBZ-Tyroet
+T122	Chemical 8645 8656	TFAc-Tyroet
+T123	Chemical 8703 8705	NH
+T124	Chemical 8709 8711	OH
+T125	Chemical 8724 8728	H2 O
+T126	Chemical 8824 8831	benzene
+T127	Chemical 8864 8876	methyl group
+T128	Chemical 8895 8902	benzene
+T129	Chemical 8967 8976	Ac-Tyroet
+T130	Chemical 9601 9607	methyl
+T131	Chemical 9635 9648	aromatic ring
+T132	Chemical 9677 9686	Ac-Tyroet
+T133	Chemical 9903 9912	Ac-Tyroet
+T134	Chemical 10135 10148	methyl groups
+T135	Chemical 10152 10166	l -leucinamide
+T136	Chemical 10278 10292	l -leucinamide
+T137	Chemical 10349 10358	Ac-Tyroet
+T138	Chemical 10369 10382	methyl groups
+T139	Chemical 10412 10420	carbonyl
+T140	Chemical 10421 10427	carbon
+T141	Chemical 10459 10469	CH2  group
+T142	Chemical 10496 10509	methyl groups
+T143	Chemical 10566 10574	carbonyl
+T144	Chemical 10575 10581	carbon
+T145	Chemical 10612 10624	methyl group
+T146	Chemical 10666 10678	methyl group
+T147	Chemical 10717 10727	methionine
+T148	Chemical 10728 10770	methyl d -α-galacturonic acid methyl ester
+T149	Chemical 10779 10796	methylpyranisides
+T150	Chemical 10821 10833	methyl group
+T151	Chemical 10970 10982	methyl group
+T152	Chemical 11125 11133	CH2 –CH3
+T153	Chemical 11396 11403	benzene
+T154	Chemical 11533 11545	methyl group
+T155	Chemical 11601 11614	phenylalanine
+T156	Chemical 11694 11701	benzene
+T157	Chemical 11726 11739	phenylalanine
+T158	Chemical 11750 11759	Ac-Tyroet
+T159	Chemical 11772 11786	hydroxyl group
+T160	Chemical 11801 11808	benzene
+T161	Chemical 11824 11832	hydrogen
+T162	Chemical 11845 11850	amide
+T163	Chemical 12116 12126	CBZ-Tyroet
+T164	Chemical 12162 12171	Ac-Tyroet
+T165	Chemical 12202 12214	methyl group
+T166	Chemical 12573 12580	benzene
+T167	Chemical 12874 12886	methyl group
+T168	Chemical 12925 12935	CBZ-Tyroet
+T169	Chemical 12940 12949	Ac-Tyroet
+T170	Chemical 13017 13030	methyl groups
+T171	Chemical 13046 13055	Ac-Tyroet
+T172	Chemical 13083 13093	CBZ-Tyroet
+T173	Chemical 13126 13138	methyl group
+T174	Chemical 13153 13161	carbonyl
+T175	Chemical 13162 13168	carbon
+T176	Chemical 13172 13181	Ac-Tyroet
+T177	Chemical 13305 13317	methyl group
+T178	Chemical 13334 13343	Ac-Tyroet
+T179	Chemical 13438 13448	CBZ-Tyroet
+T180	Chemical 13534 13541	benzene
+T181	Chemical 13551 13561	CBZ-Tyroet
+T182	Chemical 13595 13609	hydroxyl group
+T183	Chemical 13656 13663	benzene
+T184	Chemical 13910 13918	hydrogen
+T185	Chemical 13926 13933	benzene
+T186	Chemical 13999 14006	benzene
+T187	Chemical 14074 14084	CBZ-Tyroet
+T188	Chemical 14098 14107	Ac-Tyroet
+T189	Chemical 14250 14261	TFAc-Tyroet
+T190	Chemical 14424 14433	Ac-Tyroet
+T191	Chemical 14438 14448	CBZ-Tyroet
+T192	Chemical 14663 14675	methyl group
+T193	Chemical 14767 14773	methyl
+T194	Chemical 14845 14856	TFAc-Tyroet
+T195	Chemical 14976 14988	methyl group
+T196	Chemical 15072 15084	methyl group
+T197	Chemical 15097 15108	TFAc-Tyroet
+T198	Chemical 15145 15155	CBZ-Tyroet
+T199	Species 15160 15169	Ac-Tyroet
+T200	Chemical 15270 15277	benzene
+T201	Chemical 15290 15301	TFAc-Tyroet
+T202	Chemical 15467 15487	perfluorinated group
+T203	Chemical 15579 15596	amino acid amides
+T204	Chemical 15579 15589	amino acid
+T205	Chemical 15590 15597	amides.
+T206	Chemical 15686 15695	Ac-Tyroet
+T207	Chemical 16060 16069	Ac-Tyroet
+T208	Chemical 16074 16086	D2-Ac-Tyroet
+T209	Chemical 16218 16227	deuterium
+T210	Chemical 16622 16631	Ac-Tyroet
+T211	Chemical 16982 16991	Ac-Tyroet
+T212	Chemical 17319 17328	Ac-Tyroet
+T213	Chemical 17342 17354	D2-Ac-Tyroet
+T214	Chemical 17443 17452	Ac-Tyroet
+T215	Chemical 17467 17479	D2-Ac-Tyroet
+T216	Chemical 17846 17853	benzene
+T217	Chemical 18060 18067	benzene
+T218	Chemical 18653 18662	deuterium
+T219	Chemical 19054 19064	CBZ-Tyroet
+T220	Chemical 19194 19204	CBZ-Tyroet
+T221	Chemical 19237 19246	Ac-Tyroet
+T222	Chemical 19350 19359	Ac-Tyroet
+T223	Chemical 19361 19368	benzene
+T224	Chemical 19452 19462	CBZ-Tyroet
+T225	Chemical 19555 19565	CBZ-Tyroet
+T226	Chemical 19700 19710	CBZ-Tyroet
+T227	Chemical 19960 19970	CBZ-Tyroet
+T228	Chemical 19976 19983	benzene
+T229	Chemical 20009 20019	CBZ-Tyroet
+T230	Chemical 20163 20170	benzene
+T231	Chemical 20410 20417	benzene
+T232	Chemical 20673 20683	CBZ-Tyroet
+T233	Chemical 20719 20728	Ac-Tyroet
+T234	Chemical 20981 20990	deuterium
+T235	Chemical 21072 21081	Ac-Tyroet
+T236	Chemical 21213 21224	TFAc-Tyroet
+T237	Chemical 21229 21243	D2-TFAc-Tyroet
+T238	Chemical 21501 21510	Ac-Tyroet
+T239	Chemical 21515 21525	CBZ-Tyroet
+T240	Chemical 21532 21539	benzene
+T241	Chemical 21590 21601	TFAc-Tyroet
+T242	Chemical 21612 21624	methyl group
+T243	Chemical 21886 21898	methyl group
+T244	Chemical 21962 21973	TFAc-Tyroet
+T245	Chemical 22184 22195	TFAc-Tyroet
+T246	Chemical 22226 22238	methyl group
+T247	Chemical 22496 22510	l -leucinamide
+T248	Chemical 22530 22544;22554 22565	l -leucinamide derivatives
+T249	Chemical 22545 22553	tyrosine
+T250	Chemical 22545 22565	tyrosine derivatives
+T251	Chemical 22566 22580	l -leucinamide
+T252	Chemical 22637 22647	CBZ-Tyroet
+T253	Chemical 22652 22661	Ac-Tyroet
+T254	Chemical 22685 22693	l -leuNH
+T255	Chemical 22694 22705	TFAc-Tyroet
+T256	Chemical 22812 22820	tyrosine
+T257	Chemical 22812 22832	tyrosine derivatives
+T258	Chemical 22797 22811	l -leucinamide
+T259	Chemical 22797 22811;22821 22832	l -leucinamide derivatives
+T260	Chemical 22978 22986	l -leuNH
+T261	Chemical 22987 22997	CBZ-Tyroet
+T262	Chemical 23216 23224	l -leuNH
+T263	Chemical 23225 23234	Ac-Tyroet
+T264	Chemical 24483 24488	LeuNH
+T265	Chemical 24489 24499	CBZ-Tyroet
+T266	Chemical 24595 24600	LeuNH
+T267	Chemical 24601 24611	CBZ-Tyroet
+T268	Chemical 25211 25216	LeuNH
+T269	Chemical 25217 25226	Ac-Tyroet
+T270	Chemical 25231 25236	LeuNH
+T271	Chemical 25237 25247	CBZ-Tyroet
+T272	Chemical 25445 25457	methyl group
+T273	Chemical 25675 25683	l -leuND
+T274	Chemical 25684 25697	D2-CBZ-Tyroet
+T275	Chemical 25960 25963	NH2
+T276	Chemical 25968 25970	OH
+T277	Chemical 26067 26077	CBZ-Tyroet
+T278	Chemical 26082 26091	Ac-Tyroet
+T279	Chemical 26107 26114	benzene
+T280	Chemical 26282 26289	benzene
+T281	Chemical 26355 26367	methyl group
+T282	Chemical 26788 26800	methyl group
+T283	Chemical 26857 26865	l -leuNH
+T284	Chemical 26866 26876	CBZ-Tyroet
+T285	Chemical 26890 26898	l -leuNH
+T286	Chemical 26899 26908	Ac-Tyroet
+T287	Chemical 27155 27167	methyl group
+T288	Chemical 27274 27286	methyl group
+T289	Chemical 27455 27467	methyl group
+T290	Chemical 27722 27734	methyl group
+T291	Chemical 27909 27921	methyl group
+T292	Chemical 27963 27971	l -leuNH
+T293	Chemical 27972 27982	CBZ-Tyroet
+T294	Chemical 27987 27995	l -leuNH
+T295	Chemical 27996 28005	Ac-Tyroet
+T296	Chemical 28022 28030	l -leuNH
+T297	Chemical 28031 28042	TFAc-Tyroet
+T298	Chemical 28104 28112	l -leuNH
+T299	Chemical 28113 28123	TFAc-Tyroe
+T300	Chemical 28494 28502	l -leuNH
+T301	Chemical 28503 28514	TFAc-Tyroet
+T302	Chemical 28785 28793	l -leuNH
+T303	Chemical 28798 28809	TFAc-Tyroet
+T304	Chemical 28883 28894	TFAc-Tyroet
+T305	Chemical 28948 28956	l -leuNH
+T306	Chemical 29020 29028	l -leuNH
+T307	Chemical 29029 29040	TFAc-Tyroet
+T308	Chemical 29309 29317	l -leuNH
+T309	Chemical 29363 29371	l -leuNH
+T310	Chemical 29422 29433	TFAc-Tyroet
+T311	Chemical 29616 29621	LeuNH
+T312	Chemical 29941 29949	tyrosine
+T313	Chemical 29941 29961	tyrosine derivatives
+T314	Chemical 29977 29984	benzene
+T315	Chemical 30045 30053	fluorine
+T316	Chemical 30045 30074	fluorine substituted compound
+T317	Spectral_Data 30120 30130	X-ray data
+T318	Chemical 30176 30184	fluorine
+T319	Chemical 30199 30206	benzene
+T320	Spectral_Data 30252 30254;30265 30272	UV spectra
+T321	Spectral_Data 30259 30272	Raman spectra
+T322	Chemical 30289 30296	benzene
+T323	Chemical 30339 30359	fluorinated compound
+T324	Chemical 30547 30554	benzene
+T325	Chemical 30751 30760	Ac-Tyroet
+T326	Chemical 30822 30829	benzene
+T327	Chemical 30900 30907	benzene
+T328	Chemical 30984 30995	TFAc-Tyroet
+T329	Chemical 31069 31089	fluorinated analogue
+T330	Chemical 31196 31204	fluorine
+T331	Chemical 31671 31679	fluorine
+T332	Chemical 31671 31698	fluorine-substituted lipids
+T333	Chemical 31865 31873	fluorine
+T334	Chemical 31865 31892	fluorine-substituted lipids
+T335	Chemical 31957 31965	tyrosine
+T336	Chemical 31957 31977	tyrosine derivatives
+T337	Chemical 31979 31988	Ac-Tyroet
+T338	Chemical 31990 32000	CBZ-Tyroet
+T339	Chemical 32002 32013	TFAc-Tyroet
+T340	Chemical 32038 32052	l -leucinamide
+T341	Chemical 32288 32300	methyl group
+T342	Chemical 32421 32428	benzene
+T343	Chemical 32509 32518	Ac-Tyroet
+T344	Chemical 32523 32533	CBZ-Tyroet
+T345	Chemical 32572 32583	TFAc-Tyroet
+T346	Chemical 32680 32688	l -leuNH
+T347	Chemical 32689 32699	CBZ-Tyroet
+T348	Chemical 32704 32712	l -leuNH
+T349	Chemical 32713 32722	Ac-Tyroet
+T350	Chemical 32770 32778	l -leuNH
+T351	Chemical 32779 32791	TFAc-Tyroet.
+T352	Chemical 32807 32814	benzene
+T353	Chemical 32869 32877	tyrosine
+T354	Chemical 32869 32889	tyrosine derivatives
+T355	Chemical 32947 32961	l -leucinamide

@@ -1,0 +1,15 @@
+T1	Disease 87 104	gastric carcinoma
+T2	Disease 178 192	gastric cancer
+T3	Disease 359 365	tumour
+T4	Disease 665 671	cancer
+T5	Disease 948 954	cancer
+T7	Plant 148 154	garlic
+T8	Plant 219 225	garlic
+T11	Plant 401 407	garlic
+T13	Plant 417 423	garlic
+T15	Plant 616 622	garlic
+T16	Plant 626 632	garlic
+T18	Plant 828 834	garlic
+T20	Plant 920 926	garlic
+T6	Treatment_of_disease 159 165	reduce
+E1	Treatment_of_disease:T6 Theme:T2 Cause:T7

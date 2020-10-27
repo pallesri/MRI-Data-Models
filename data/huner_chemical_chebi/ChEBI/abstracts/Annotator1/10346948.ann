@@ -1,0 +1,29 @@
+T1	Chemical 36 56	sesquiterpene esters
+T2	Species 89 110	Celastrus orbiculatus
+T3	Chemical 167 240	1beta-acetoxy-6alpha-furoyloxy-9alpha-benzoyl oxydihydro-beta-agarofur an
+T4	Metabolite 167 240	1beta-acetoxy-6alpha-furoyloxy-9alpha-benzoyl oxydihydro-beta-agarofur an
+R1	Isolated_From Arg1:T4 Arg2:T2	
+T5	Chemical 246 319	1beta-acetoxy-6alpha-benzoyloxy-9alpha-furoyloxydih ydro-beta-agarofur an
+T6	Metabolite 246 319	1beta-acetoxy-6alpha-benzoyloxy-9alpha-furoyloxydih ydro-beta-agarofur an
+R2	Isolated_From Arg1:T6 Arg2:T2	
+T7	Chemical 325 388	1beta-acetoxy-6alpha, 9alpha-difuroyloxydihydro-beta-agarofuran
+T8	Metabolite 325 388	1beta-acetoxy-6alpha, 9alpha-difuroyloxydihydro-beta-agarofuran
+R3	Isolated_From Arg1:T8 Arg2:T2	
+T9	Chemical 394 476	1beta, 2beta-diacetoxy-6alpha-furoyloxy-9alpha-benzo yloxydihydro-beta-agarof uran
+T10	Metabolite 394 476	1beta, 2beta-diacetoxy-6alpha-furoyloxy-9alpha-benzo yloxydihydro-beta-agarof uran
+R4	Isolated_From Arg1:T10 Arg2:T2	
+T11	Chemical 483 564	1beta-acetoxy-2beta, 6alpha-difuroyloxy-9alpha-benzoyloxydihydro-beta -agarofuran
+T12	Metabolite 483 564	1beta-acetoxy-2beta, 6alpha-difuroyloxy-9alpha-benzoyloxydihydro-beta -agarofuran
+R5	Isolated_From Arg1:T12 Arg2:T2	
+T13	Chemical 574 645	1beta-acetoxy-2beta,6alpha, 9alpha-tribenzoyloxydihydro-beta-agarofuran
+T14	Metabolite 574 645	1beta-acetoxy-2beta,6alpha, 9alpha-tribenzoyloxydihydro-beta-agarofuran
+R6	Isolated_From Arg1:T14 Arg2:T2	
+T16	Chemical 733 744	vinblastine
+T17	Chemical 710 719	verapamil
+T18	Chemical 9 12	1-6
+T19	Chemical 31 34	7-9
+T20	Chemical 672 675	7-9
+T21	Metabolite 672 675	7-9
+T22	Metabolite 31 34	7-9
+T23	Metabolite 9 12	1-6
+T15	Biological_Activity 723 732	reversing

@@ -1,0 +1,18 @@
+T1	Disease 117 141	atherosclerotic diseases
+T2	Disease 146 152	cancer
+T3	Disease 208 232	acute myocardial infarct
+T4	Disease 334 340	cancer
+T5	Disease 511 517	cancer
+T6	Disease 577 594	colorectal cancer
+T7	Disease 598 622	acute myocardial infarct
+T8	Disease 719 726	cancers
+T9	Disease 738 783	endometrial and postmenopausal breast cancers
+T10	Disease 908 932	acute myocardial infarct
+T11	Disease 1049 1073	acute myocardial infarct
+T12	Disease 1078 1085	cancers
+T13	Plant 86 93	tobacco
+T14	Plant 533 540	tobacco
+T15	Plant 830 837	tobacco
+T16	Disease 846 853	cancers
+T17	Cause_of_disease 838 845	related
+E1	Cause_of_disease:T17 Cause:T15 Theme:T16

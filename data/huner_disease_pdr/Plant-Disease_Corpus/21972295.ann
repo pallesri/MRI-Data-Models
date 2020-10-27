@@ -1,0 +1,22 @@
+T1	Disease 169 181	tuberculosis
+T2	Disease 269 281	tuberculosis
+T3	Disease 369 381	tuberculosis
+T4	Disease 455 467	tuberculosis
+T5	Disease 490 502	tuberculosis
+T6	Disease 684 687	HIV
+T7	Disease 780 792	tuberculosis
+T8	Disease 849 861	tuberculosis
+T9	Disease 1013 1025	tuberculosis
+T10	Disease 1262 1274	tuberculosis
+T11	Disease 1497 1509	tuberculosis
+T12	Disease 1693 1705	tuberculosis
+T13	Disease 1785 1797	tuberculosis
+T14	Disease 1871 1883	tuberculosis
+T15	Disease 1966 1978	tuberculosis
+T16	Plant 39 46	tobacco
+T17	Plant 1348 1355	tobacco
+T18	Plant 1620 1627	tobacco
+T19	Plant 1740 1747	Tobacco
+T20	Plant 1914 1921	tobacco
+T21	Cause_of_disease 1776 1784	increase
+E1	Cause_of_disease:T21 Theme:T13 Cause:T19

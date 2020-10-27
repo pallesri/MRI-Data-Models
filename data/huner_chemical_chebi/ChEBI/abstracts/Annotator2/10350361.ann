@@ -1,0 +1,14 @@
+T1	Species 51 57	people
+T2	Chemical 169 179	alprazolam
+T3	Biological_Activity 198 205	agonist
+T4	Chemical 183 197	benzodiazepine
+T5	Species 265 269	rats
+R1	Associated_With Arg1:T2 Arg2:T3	
+T6	Chemical 237 244	ethanol
+T9	Chemical 369 378	saccharin
+T10	Chemical 402 409	ethanol
+T11	Chemical 415 424	saccharin
+T12	Chemical 558 565	ethanol
+T14	Chemical 594 604	alprazolam
+T16	Biological_Activity 206 216	anxiolytic
+R3	Associated_With Arg1:T2 Arg2:T16	

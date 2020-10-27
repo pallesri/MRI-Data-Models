@@ -1,0 +1,17 @@
+T1	Disease 14 53	Cancer registration coverage and cancer
+T2	Disease 220 237	avoidable cancers
+T3	Disease 291 297	cancer
+T4	Disease 357 364	cancers
+T5	Disease 641 648	cancers
+T6	Disease 881 887	cancer
+T7	Disease 1163 1178	Prostate cancer
+T8	Disease 1297 1314	Colorectal cancer
+T9	Disease 1478 1491	breast cancer
+T10	Disease 1652 1667	Cervical cancer
+T11	Disease 1897 1904	cancers
+T12	Disease 1947 1972	screen-detectable cancers
+T13	Disease 2005 2011	cancer
+T14	Disease 2058 2064	cancer
+T15	Plant 1881 1888	tobacco
+T16	Cause_of_disease 1889 1896	related
+E1	Cause_of_disease:T16 Theme:T11 Cause:T15

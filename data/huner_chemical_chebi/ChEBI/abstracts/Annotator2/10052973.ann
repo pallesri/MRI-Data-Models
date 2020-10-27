@@ -1,0 +1,103 @@
+T1	Chemical 100 108;110 127;133 145;16 44;82 99	lysergol dihydrolysergol-I elymoclavine cycloalkanecarboxylic esters clavine alkaloids
+#1	AnnotatorNotes T1	Chemical class
+T2	Chemical 82 99	clavine alkaloids
+#2	AnnotatorNotes T2	Chemical class
+T3	Metabolite 82 99	clavine alkaloids
+T4	Chemical 100 108	lysergol
+T5	Metabolite 100 108	lysergol
+T6	Chemical 110 127	dihydrolysergol-I
+T7	Metabolite 110 128	dihydrolysergol-I,
+T8	Chemical 133 145	elymoclavine
+T9	Metabolite 133 145	elymoclavine
+T10	Protein 196 212	5-HT2A receptors
+T13	Protein 217 237	alpha1-adrenoceptors
+T14	Species 241 244	rat
+T15	Chemical 294 322;336 344	cycloalkanecarboxylic esters lysergol
+#3	AnnotatorNotes T15	Chemical class
+T16	Chemical 336 344	lysergol
+T17	Biological_Activity 372 387	partial agonist
+T18	Biological_Activity 393 404	antagonists
+T19	Chemical 434 438	5-HT
+T20	Biological_Activity 483 490	agonist
+T22	Chemical 626 640	alicyclic ring
+T24	Chemical 767 771	5-HT
+T28	Biological_Activity 871 877	ligand
+T29	Species 908 911	rat
+T30	Protein 912 928	5-HT2A receptors
+T32	Chemical 1011 1023;947 975;989 1006	elymoclavine cycloalkanecarboxylic esters dihydrolysergol-I
+#6	AnnotatorNotes T32	Chemical class
+T33	Metabolite 989 1006	dihydrolysergol-I
+T34	Metabolite 1011 1023	elymoclavine
+T35	Chemical 1128 1144	cycloalkyl rings
+T36	Chemical 1152 1156	acyl
+T37	Chemical 1172 1181	isopropyl
+T38	Protein 1220 1235	5-HT2A receptor
+T41	Chemical 1265 1293;1307 1315;1317 1335;1341 1353	cycloalkanecarboxylic esters lysergol dihydrolysergol-I, elymoclavine
+#7	AnnotatorNotes T41	Chemical class
+T42	Chemical 1307 1315	lysergol
+T43	Chemical 1317 1334	dihydrolysergol-I
+T44	Chemical 1341 1353	elymoclavine
+T45	Protein 1392 1413	alpha1-adrenoceptors.
+T48	Chemical 1499 1503	acyl
+T49	Chemical 1519 1525	esters
+#8	AnnotatorNotes T49	Chemical class
+T51	Protein 1539 1553	5-HT2A recepto
+T53	Chemical 1577 1585;1609 1633	alcohols N-1-isopropyl homologues
+T55	Chemical 1635 1654	1-isopropyllysergol
+T56	Chemical 1656 1658	1b
+T57	Chemical 1661 1689	1-isopropyldihydrolysergol-I
+T58	Chemical 1691 1693	2b
+T59	Chemical 1700 1723	1-isopropylelymoclavine
+T60	Chemical 1725 1727	3b
+T62	Protein 1760 1776	5-HT2A receptors
+T64	Chemical 1826 1832	esters
+#9	AnnotatorNotes T64	Chemical class
+T65	Chemical 1834 1849	Compounds 1b-3b
+T66	Species 1921 1931	guinea-pig
+T67	Species 1953 1956	rat
+T69	Protein 1932 1948	5-HT1B receptors
+T71	Protein 1957 1977	alpha1-adrenoceptors
+T72	Species 2001 2004	rat
+T74	Protein 2005 2021	5-HT2A receptors
+T75	Chemical 2040 2048	clavines
+#10	AnnotatorNotes T75	Chemical class
+T76	Chemical 2084 2089	1b-3b
+T77	Chemical 2101 2103	4b
+T78	Chemical 2108 2110	5b
+T79	Protein 2129 2144	5-HT2A receptor
+T81	Biological_Activity 2145 2155	antagonist
+R31	Associated_With Arg1:T78 Arg2:T81	
+R32	Associated_With Arg1:T77 Arg2:T81	
+T82	Biological_Activity 2172 2182	antagonist
+T83	Chemical 2202 2210	clavines
+T84	Chemical 2212 2217	1b-5b
+T85	Species 2226 2229	rat
+T86	Chemical 2248 2271	indolo[4,3-fg]quinoline
+T87	Metabolite 2286 2295	ergolines
+#11	AnnotatorNotes T87	Chemical class
+T90	Protein 2346 2362	5-HT2A  receptor
+R34	Associated_With Arg1:T83 Arg2:T82	
+T91	Metabolite 336 344	lysergol
+R3	Associated_With Arg1:T15 Arg2:T17	
+T21	Chemical 520 551	cyclopropanecarboxylic ester 6a
+R4	Associated_With Arg1:T21 Arg2:T20	
+T25	Protein 467 481	5-HT2A recepto
+T23	Biological_Activity 726 736	antagonist
+T26	Chemical 812 841	N-1-isopropyl homologue of 6a
+T92	Metabolite 1307 1316	lysergol,
+T95	Metabolite 1317 1334	dihydrolysergol-I
+T96	Metabolite 1341 1353	elymoclavine
+T97	Metabolite 2040 2048	clavines
+R1	Associated_With Arg1:T15 Arg2:T18	
+R2	Associated_With Arg1:T26 Arg2:T28	
+R6	Binds_With Arg1:T26 Arg2:T30	
+R7	Binds_With Arg1:T21 Arg2:T25	
+R5	Binds_With Arg1:T41 Arg2:T45	
+R8	Binds_With Arg1:T59 Arg2:T62	
+R9	Binds_With Arg1:T57 Arg2:T62	
+R10	Binds_With Arg1:T55 Arg2:T62	
+R11	Binds_With Arg1:T78 Arg2:T79	
+R14	Binds_With Arg1:T77 Arg2:T79	
+R15	Binds_With Arg1:T86 Arg2:T90	
+T11	Chemical 843 854	compound 6b
+R12	Binds_With Arg1:T11 Arg2:T30	

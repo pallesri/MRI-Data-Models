@@ -1,0 +1,71 @@
+T1	Species 28 47	Eriobotrya japonica
+T2	Chemical 115 144;146 153	1,1-diphenyl-2-picrylhydrazyl radical
+T3	Chemical 109 113;146 153	DPPH radical
+T4	Biological_Activity 80 98	radical scavenging
+T6	Species 191 196	mouse
+T7	Chemical 260 281	2-thiobarbituric acid
+T8	Chemical 283 286	TBA
+T9	Chemical 233 236	air
+T10	Chemical 293 301	methanol
+T11	Species 331 350	Eriobotrya japonica
+T12	Biological_Activity 372 383	antioxidant
+T13	Biological_Activity 398 409	antioxidant
+T14	Chemical 422 427	EtOAc
+T15	Chemical 432 438	n-BuOH
+T16	Chemical 526 536	silica gel
+T17	Chemical 538 553	MCl gel CHP-20P
+#1	AnnotatorNotes T17	ion exchange resin
+T18	Chemical 559 573	Sephadex LH-20
+T19	Biological_Activity 597 608	Antioxidant
+T20	Chemical 609 625	chlorogenic acid
+T21	Chemical 627 651	quercetin-3-sambubioside
+T22	Chemical 657 663	n-BuOH
+T23	Chemical 678 697	methyl chlorogenate
+T24	Chemical 699 709;724 737	kaempferol -3-rhamnoside
+T25	Chemical 715 737	quercetin-3-rhamnoside
+T26	Chemical 767 779	ursolic acid
+T27	Chemical 785 812	2 alpha-hydroxyursolic acid
+T28	Chemical 818 823	EtOAc
+T29	Biological_Activity 848 859	Antioxidant
+T30	Chemical 860 870	flavonoids
+T31	Chemical 875 891	chlorogenic acid
+T33	Chemical 969 988	dichlorofluorescein
+T34	Chemical 990 993	DCF
+T35	Metabolite 609 625	chlorogenic acid
+T36	Metabolite 627 651	quercetin-3-sambubioside
+T37	Metabolite 678 697	methyl chlorogenate
+T38	Metabolite 699 709;724 737	kaempferol -3-rhamnoside
+T39	Metabolite 715 737	quercetin-3-rhamnoside
+T40	Metabolite 767 779	ursolic acid
+T41	Metabolite 785 812	2 alpha-hydroxyursolic acid
+T42	Metabolite 860 870	flavonoids
+T43	Metabolite 875 891	chlorogenic acid
+R1	Associated_With Arg1:T35 Arg2:T19	
+R2	Associated_With Arg1:T20 Arg2:T19	
+R3	Associated_With Arg1:T36 Arg2:T19	
+R4	Associated_With Arg1:T21 Arg2:T19	
+R5	Associated_With Arg1:T37 Arg2:T19	
+R6	Associated_With Arg1:T23 Arg2:T19	
+R7	Associated_With Arg1:T38 Arg2:T19	
+R8	Associated_With Arg1:T24 Arg2:T19	
+R9	Associated_With Arg1:T39 Arg2:T19	
+R10	Associated_With Arg1:T25 Arg2:T19	
+R11	Isolated_From Arg1:T35 Arg2:T11	
+R12	Isolated_From Arg1:T36 Arg2:T11	
+R13	Isolated_From Arg1:T37 Arg2:T11	
+R14	Isolated_From Arg1:T38 Arg2:T11	
+R15	Isolated_From Arg1:T39 Arg2:T11	
+R16	Isolated_From Arg1:T40 Arg2:T11	
+R17	Isolated_From Arg1:T41 Arg2:T11	
+R18	Associated_With Arg1:T42 Arg2:T29	
+R19	Associated_With Arg1:T30 Arg2:T29	
+R20	Associated_With Arg1:T43 Arg2:T29	
+R21	Associated_With Arg1:T31 Arg2:T29	
+R26	Isolated_From Arg1:T42 Arg2:T11	
+R27	Isolated_From Arg1:T43 Arg2:T11	
+T44	Biological_Activity 4 15	antioxidant
+T5	Biological_Activity 914 924	inhibitory
+R22	Associated_With Arg1:T31 Arg2:T5	
+R23	Associated_With Arg1:T43 Arg2:T5	
+R24	Associated_With Arg1:T42 Arg2:T5	
+R25	Associated_With Arg1:T30 Arg2:T5	

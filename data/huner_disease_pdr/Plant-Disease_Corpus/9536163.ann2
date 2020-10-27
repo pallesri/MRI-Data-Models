@@ -1,0 +1,8 @@
+T1	Disease 880 891	lung cancer
+T2	Disease 893 907	heart diseases
+T3	Disease 913 931	non-natural deaths
+T4	Disease 1195 1215	dying of lung cancer
+T5	Disease 1220 1234	heart diseases
+T6	Plant 1260 1267	tobacco
+T7	Cause_of_disease 1187 1191	risk
+E1	Cause_of_disease:T7 Theme:T4 Theme2:T5 Cause:T6

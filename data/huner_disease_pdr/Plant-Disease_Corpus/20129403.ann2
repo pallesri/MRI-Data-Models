@@ -1,0 +1,24 @@
+T1	Disease 408 432	irritable bowel syndrome
+T2	Disease 493 507	colonic cancer
+T3	Disease 866 875	psoriasis
+T4	Disease 880 886	eczema
+T5	Disease 989 1001	hypertrophic
+T6	Plant 0 6	Almond
+T7	Plant 185 191	almond
+T8	Plant 327 333	almond
+T9	Plant 574 580	almond
+T10	Plant 736 742	almond
+T11	Plant 960 966	almond
+T12	Plant 1060 1066	Almond
+T13	Plant 1218 1224	almond
+T14	Plant 12 27	Oleum amygdalae
+T15	Plant 173 180	almonds
+T16	Disease 273 287	hepatotoxicity
+T17	Treatment_of_disease 196 200	have
+E1	Treatment_of_disease:T17 Cause:T7 Theme:T16
+T18	Treatment_of_disease 400 407	reduces
+E2	Treatment_of_disease:T18 Cause:T8 Theme:T1
+T19	Treatment_of_disease 832 837	treat
+E3	Treatment_of_disease:T19 Theme:T3 Theme2:T4 Cause:T10
+T20	Treatment_of_disease 981 988	reduces
+E4	Treatment_of_disease:T20 Theme:T5 Cause:T11

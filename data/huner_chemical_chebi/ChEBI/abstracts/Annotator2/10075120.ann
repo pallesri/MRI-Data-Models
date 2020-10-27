@@ -1,0 +1,77 @@
+T2	Species 70 86	Casimiroa edulis
+T3	Biological_Activity 135 149	cardiovascular
+T4	Chemical 184 204	synephrine acetonide
+T6	Chemical 229 250	N-monomethylhistamine
+T7	Chemical 252 273	N,N-dimethylhistamine
+T8	Chemical 275 282	proline
+T9	Chemical 284 299	N-methylproline
+R1	Associated_With Arg1:T4 Arg2:T3	
+R2	Associated_With Arg1:T6 Arg2:T3	
+R3	Associated_With Arg1:T7 Arg2:T3	
+R4	Associated_With Arg1:T8 Arg2:T3	
+R5	Associated_With Arg1:T9 Arg2:T3	
+R6	Isolated_From Arg1:T4 Arg2:T2	
+R7	Isolated_From Arg1:T6 Arg2:T2	
+R8	Isolated_From Arg1:T7 Arg2:T2	
+R9	Isolated_From Arg1:T8 Arg2:T2	
+R10	Isolated_From Arg1:T9 Arg2:T2	
+T10	Chemical 301 324	gamma-aminobutyric acid
+T11	Chemical 329 342	casimiroedine
+R11	Isolated_From Arg1:T10 Arg2:T2	
+R12	Associated_With Arg1:T11 Arg2:T3	
+T12	Species 360 364	rats
+T15	Protein 437 463	H1-histaminergic receptors
+T16	Chemical 483 505	N,N-dimethylhistamine,
+T18	Chemical 532 552	Synephrine acetonide
+T22	Protein 615 621;637 663	alpha- beta-adrenergic receptores
+#1	AnnotatorNotes T22	Inferred by beta-adrenergic receptores
+T23	Protein 626 631;637 663	alpha beta-adrenergic receptores
+T24	Protein 637 663	beta-adrenergic receptores
+T28	Chemical 715 729	N-methyproline
+T29	Chemical 731 738	proline
+T30	Chemical 743 766	gamma-aminobutyric acid
+T32	Chemical 819 832	casimiroedine
+T34	Species 883 887	rats
+T35	Species 933 944	guinea pigs
+T37	Species 992 1001	C. edulis
+T39	Chemical 371 392	histamine derivatives
+#2	AnnotatorNotes T39	Chemical class
+T40	Chemical 510 522	nitric oxide
+T41	Protein 1117 1129	H1-receptors
+T44	Chemical 1194 1205	amino acids
+#3	AnnotatorNotes T44	Chemical class
+T45	Chemical 1251 1264	casimiroedine
+T46	Biological_Activity 1278 1288	activation
+T47	Protein 1292 1304	H3-receptors
+R26	Associated_With Arg1:T45 Arg2:T46	
+T50	Chemical 1342 1362	synephrine acetonide
+T52	Biological_Activity 1371 1381	adrenergic
+R29	Associated_With Arg1:T50 Arg2:T52	
+T53	Metabolite 184 204	synephrine acetonide
+T54	Metabolite 229 250	N-monomethylhistamine
+T55	Metabolite 252 273	N,N-dimethylhistamine
+T56	Metabolite 275 282	proline
+T57	Metabolite 284 299	N-methylproline
+T58	Metabolite 301 324	gamma-aminobutyric acid
+T59	Metabolite 329 342	casimiroedine
+R30	Isolated_From Arg1:T59 Arg2:T2	
+R31	Associated_With Arg1:T10 Arg2:T3	
+T1	Chemical 39 49	methanolic
+T13	Metabolite 371 392	histamine derivatives
+T19	Metabolite 1342 1362	synephrine acetonide
+T38	Chemical 1085 1106	histamine derivatives
+T51	Metabolite 819 832	casimiroedine
+T60	Metabolite 532 552	Synephrine acetonide
+T61	Metabolite 1194 1205	amino acids
+T62	Metabolite 1251 1264	casimiroedine
+R22	Binds_With Arg1:T13 Arg2:T15	
+R23	Binds_With Arg1:T39 Arg2:T15	
+R13	Binds_With Arg1:T60 Arg2:T24	
+R14	Binds_With Arg1:T60 Arg2:T22	
+R16	Binds_With Arg1:T18 Arg2:T24	
+R17	Binds_With Arg1:T18 Arg2:T22	
+R18	Binds_With Arg1:T38 Arg2:T41	
+R15	Associated_With Arg1:T62 Arg2:T46	
+R19	Binds_With Arg1:T62 Arg2:T47	
+R20	Binds_With Arg1:T45 Arg2:T47	
+R21	Associated_With Arg1:T19 Arg2:T52	

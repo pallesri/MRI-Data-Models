@@ -1,0 +1,14 @@
+T1	Disease 446 466	hypercholesterolemia
+T2	Disease 1887 1907	hypercholesterolemia
+T3	Plant 12 18	Garlic
+T6	Plant 145 151	garlic
+T8	Plant 287 293	garlic
+T10	Plant 407 413	garlic
+T12	Plant 897 903	garlic
+T15	Plant 1047 1053	garlic
+T16	Plant 1427 1433	garlic
+T18	Plant 1612 1618	garlic
+T20	Plant 1738 1744	garlic
+T23	Plant 1775 1781	Garlic
+T4	Treatment_of_disease 397 403	effect
+E1	Treatment_of_disease:T4 Cause:T10 Theme:T1

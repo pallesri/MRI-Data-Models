@@ -1,0 +1,19 @@
+T1	Disease 719 728	addiction
+T2	Disease 918 934	coronary disease
+T3	Disease 939 960	myocardial infarction
+T4	Disease 1283 1293	arrhythmia
+T5	Disease 1401 1412	solid tumor
+T6	Plant 116 122	coffee
+T8	Plant 145 154	chocolate
+T9	Plant 551 557	coffee
+T12	Plant 652 658	coffee
+T14	Plant 741 747	Coffee
+T15	Plant 892 898	coffee
+T18	Plant 1113 1119	coffee
+T19	Plant 1179 1185	coffee
+T22	Plant 1355 1361	coffee
+T23	Plant 1428 1434	coffee
+T25	Plant 1683 1689	coffee
+T27	Plant 1784 1790	coffee
+T7	Cause_of_disease 1388 1392	risk
+E1	Cause_of_disease:T7 Theme:T5 Cause:T22

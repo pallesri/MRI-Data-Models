@@ -1,0 +1,8 @@
+T1	Disease 68 93	substance abuse disorders
+T2	Disease 205 227	chronic mental illness
+T3	Plant 0 7	Tobacco
+T4	Plant 147 154	tobacco
+T5	Plant 542 549	tobacco
+T6	Cause_of_disease 12 18	exerts
+E1	Cause_of_disease:T6 Theme:T7 Theme2:T1 Cause:T3
+T7	Disease 47 63	mental illnesses

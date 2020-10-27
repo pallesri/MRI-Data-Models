@@ -1,0 +1,6 @@
+T2	Disease 102 111	Hepatitis
+T4	Plant 175 180	olive
+T1	Disease 91 100	hepatitis
+T5	Cause_of_disease 116 123	induced
+E1	Cause_of_disease:T5 Theme:T2 Cause:T4
+T3	Disease 827 836	hepatitis

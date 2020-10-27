@@ -1,0 +1,39 @@
+T1	Species 7 14	persons
+T3	Species 39 52	chrysanthemum
+T4	Chemical 101 122	sequiterpene lactones
+#1	AnnotatorNotes T4	Class of chemicals
+T5	Chemical 163 171	lactones
+T6	Chemical 232 245	alantolactone
+T8	Chemical 277 289	arbusculin A
+T9	Chemical 291 307	8-deoxycumambrin
+T10	Chemical 309 317	ambrosin
+T11	Chemical 319 325	damsin
+T12	Chemical 330 344	psilostachynin
+T13	Chemical 394 415	alpha-methylene group
+#2	AnnotatorNotes T13	part of a chemical structure
+T14	Chemical 432 450	gamma-lactone ring
+#3	AnnotatorNotes T14	part of a chemical structure
+T15	Chemical 394 450	alpha-methylene group attached to the gamma-lactone ring
+#4	AnnotatorNotes T15	part of a chemical structure
+T16	Biological_Activity 484 494	allergenic
+R7	Associated_With Arg1:T15 Arg2:T16	
+T17	Chemical 507 529	sesquiterpene lactones
+T18	Chemical 531 540	Pyrethrum
+T19	Chemical 594 604	pyrethrins
+#5	AnnotatorNotes T19	Class of chemicals
+T20	Species 584 592	patients
+T21	Species 649 662	chrysanthemum
+T22	Species 663 671	patients
+T23	Species 56 64	florists
+T24	Chemical 716 725	colophony
+T25	Chemical 701 711	turpentine
+T26	Chemical 741 747	primin
+T27	Species 733 739	garlic
+T28	Chemical 752 756	tars
+R1	Associated_With Arg1:T6 Arg2:T16	
+R2	Associated_With Arg1:T8 Arg2:T16	
+R3	Associated_With Arg1:T9 Arg2:T16	
+R4	Associated_With Arg1:T10 Arg2:T16	
+R5	Associated_With Arg1:T11 Arg2:T16	
+R6	Associated_With Arg1:T12 Arg2:T16	
+R8	Associated_With Arg1:T18 Arg2:T16	

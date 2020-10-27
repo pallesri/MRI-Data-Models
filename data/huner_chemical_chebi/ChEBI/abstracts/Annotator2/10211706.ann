@@ -1,0 +1,71 @@
+T1	Chemical 29 55	neutral glycosphingolipids
+T2	Chemical 37 55;6 18	glycosphingolipids sialosylated
+T3	Chemical 73 85	iso-neolacto
+T4	Species 110 117	porcine
+R1	Isolated_From Arg1:T2 Arg2:T4	
+T5	Metabolite 29 55	neutral glycosphingolipids
+T6	Metabolite 37 55;6 18	glycosphingolipids sialosylated
+R2	Isolated_From Arg1:T5 Arg2:T4	
+R3	Isolated_From Arg1:T6 Arg2:T4	
+T7	Protein 208 222	exoglycosidase
+T8	Spectral_Data 427 446	1H-NMR spectroscopy
+T9	Spectral_Data 395 422	MALDI-TOF mass spectrometry
+T10	Protein 296 317;361 371	anti-Galalpha1-->3Gal antibodies
+T11	Protein 319 342;361 371	anti-type 2 lactosamine antibodies
+T12	Protein 347 371	anti-Lewis(x) antibodies
+T13	Chemical 455 474	neutral glycolipids
+T14	Chemical 503 533	VI3VI'3(alphaGal)2-iso-nLc8Cer
+T15	Metabolite 503 533	VI3VI'3(alphaGal)2-iso-nLc8Cer
+T16	Chemical 592 609	Galalpha3Lewis(x)
+T17	Chemical 624 662	VI3VI'3(alphaGal)2V'3alphaFuc-iso-nLc8
+T18	Metabolite 624 662	VI3VI'3(alphaGal)2V'3alphaFuc-iso-nLc8
+T19	Chemical 668 712	VI3VI'3(alphaGal)2 V3V'3(alphaFuc)2-iso-nLc8
+T20	Metabolite 668 712	VI3VI'3(alphaGal)2 V3V'3(alphaFuc)2-iso-nLc8
+T21	Chemical 725 742	Galalpha3Lewis(x)
+T22	Chemical 797 821	sialosylated glycolipids
+T23	Metabolite 797 821	sialosylated glycolipids
+T24	Metabolite 455 474	neutral glycolipids
+T25	Chemical 883 907	VI3VI'3(NeuAc)2-iso-nLc8
+T26	Metabolite 883 908	VI3VI'3(NeuAc)2-iso-nLc8,
+T27	Chemical 913 943	VI3NeuAcVI'3alphaGal-iso-nLc8.
+T28	Metabolite 913 942	VI3NeuAcVI'3alphaGal-iso-nLc8
+T29	Chemical 990 1007	Galalpha3Lewis(x)
+T30	Chemical 1050 1073	N-acetylneuraminic acid
+T31	Chemical 1099 1140	VI3NeuAcVI'3alphaGalV'3alphaFuc-iso-nLc8.
+T32	Metabolite 1099 1139	VI3NeuAcVI'3alphaGalV'3alphaFuc-iso-nLc8
+T33	Species 1183 1190	porcine
+T34	Protein 1183 1222	porcine kidney alpha3fucosyltransferase
+T35	Chemical 1239 1252	Gala3Lewis(x)
+T36	Chemical 1309 1332	Galalpha3neolactosamine
+T37	Chemical 1371 1392	sialosylated Lewis(x)
+T38	Chemical 1423 1434	glycolipids
+R4	Isolated_From Arg1:T15 Arg2:T4	
+R5	Isolated_From Arg1:T18 Arg2:T4	
+R6	Isolated_From Arg1:T20 Arg2:T4	
+R7	Isolated_From Arg1:T26 Arg2:T4	
+R8	Isolated_From Arg1:T28 Arg2:T4	
+R9	Isolated_From Arg1:T32 Arg2:T4	
+R10	Associated_With Arg1:T15 Arg2:T8	
+R11	Associated_With Arg1:T14 Arg2:T8	
+R12	Associated_With Arg1:T18 Arg2:T8	
+R13	Associated_With Arg1:T17 Arg2:T8	
+R14	Associated_With Arg1:T20 Arg2:T8	
+R15	Associated_With Arg1:T19 Arg2:T8	
+R16	Associated_With Arg1:T15 Arg2:T9	
+R17	Associated_With Arg1:T14 Arg2:T9	
+R18	Associated_With Arg1:T18 Arg2:T9	
+R19	Associated_With Arg1:T17 Arg2:T9	
+R20	Associated_With Arg1:T20 Arg2:T9	
+R21	Associated_With Arg1:T19 Arg2:T9	
+R22	Associated_With Arg1:T26 Arg2:T8	
+R23	Associated_With Arg1:T25 Arg2:T8	
+R24	Associated_With Arg1:T28 Arg2:T8	
+R25	Associated_With Arg1:T27 Arg2:T8	
+R26	Associated_With Arg1:T32 Arg2:T8	
+R27	Associated_With Arg1:T31 Arg2:T8	
+R28	Associated_With Arg1:T26 Arg2:T9	
+R29	Associated_With Arg1:T25 Arg2:T9	
+R30	Associated_With Arg1:T28 Arg2:T9	
+R31	Associated_With Arg1:T27 Arg2:T9	
+R32	Associated_With Arg1:T32 Arg2:T9	
+R33	Associated_With Arg1:T31 Arg2:T9	

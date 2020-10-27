@@ -1,0 +1,8 @@
+T1	Disease 33 38	tumor
+T2	Disease 171 176	tumor
+T3	Disease 268 273	tumor
+T4	Disease 365 370	tumor
+T6	Plant 19 25	garlic
+T7	Plant 305 311	garlic
+T5	Treatment_of_disease 357 364	against
+E1	Treatment_of_disease:T5 Theme:T4 Cause:T7

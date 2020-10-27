@@ -1,0 +1,54 @@
+T1	Chemical 8 23	benzodiazepines
+T2	Chemical 25 29	BZDs
+T3	Biological_Activity 112 128	neurotransmitter
+T4	Chemical 130 154	gamma-amino-butyric acid
+T5	Chemical 156 160	GABA
+T6	Chemical 179 183	GABA
+T7	Protein 179 193	GABA receptors
+T10	Chemical 266 270	BZDs
+T11	Chemical 297 301	GABA
+T12	Chemical 320 324	BZDs
+T13	Biological_Activity 335 348	antiepileptic
+T14	Chemical 359 367	diazepam
+T15	Chemical 369 379	clonazepam
+T16	Chemical 381 389	clobazam
+T17	Chemical 391 401	nitrazepam
+T18	Chemical 420 429	lorazepam
+T19	Chemical 434 443	midazolam
+T20	Chemical 470 474	BZDs
+T21	Chemical 573 583	Clonazepam
+T22	Chemical 588 596	clobazam
+T23	Chemical 609 619	nitrazepam
+T24	Chemical 728 732	BZDs
+T25	Chemical 861 866	drugs
+T26	Biological_Activity 911 919	sedative
+T27	Chemical 1004 1008	BZDs
+T29	Chemical 1179 1188	Diazepam,
+T30	Chemical 1189 1199	clonazepam
+T31	Chemical 1204 1213	lorazepam
+T32	Chemical 1347 1356	midazolam
+R1	Associated_With Arg1:T4 Arg2:T3	
+R2	Associated_With Arg1:T5 Arg2:T3	
+R5	Associated_With Arg1:T14 Arg2:T13	
+R6	Associated_With Arg1:T15 Arg2:T13	
+R7	Associated_With Arg1:T16 Arg2:T13	
+R8	Associated_With Arg1:T17 Arg2:T13	
+R9	Associated_With Arg1:T18 Arg2:T13	
+R10	Associated_With Arg1:T19 Arg2:T13	
+R11	Associated_With Arg1:T21 Arg2:T13	
+R12	Associated_With Arg1:T22 Arg2:T13	
+R13	Associated_With Arg1:T23 Arg2:T13	
+T8	Protein 223 255	ligand-gated  chloride channels.
+T35	Chemical 1060 1065	drugs
+R22	Binds_With Arg1:T5 Arg2:T7	
+R23	Binds_With Arg1:T4 Arg2:T7	
+T33	Chemical 335 354	antiepileptic drugs
+R3	Associated_With Arg1:T14 Arg2:T26	
+R4	Associated_With Arg1:T21 Arg2:T26	
+R18	Associated_With Arg1:T23 Arg2:T26	
+R19	Associated_With Arg1:T14 Arg2:T26	
+R24	Associated_With Arg1:T18 Arg2:T26	
+R25	Associated_With Arg1:T19 Arg2:T26	
+T9	Metabolite 130 154	gamma-amino-butyric acid
+T28	Metabolite 156 160	GABA
+T34	Metabolite 297 301	GABA

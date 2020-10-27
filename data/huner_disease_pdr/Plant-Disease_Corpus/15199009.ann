@@ -1,0 +1,5 @@
+T1	Disease 438 444	cancer
+T2	Plant 406 413	tobacco
+T3	Plant 422 429	tobacco
+T4	Cause_of_disease 430 437	related
+E1	Cause_of_disease:T4 Theme:T1 Cause:T3

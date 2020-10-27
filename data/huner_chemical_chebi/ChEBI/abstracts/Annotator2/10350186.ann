@@ -1,0 +1,66 @@
+T1	Species 26 35	bacterial
+T2	Species 40 43	rat
+T3	Protein 50 76	glutathione S-transferases
+T4	Protein 78 81	GST
+T5	Chemical 95 110	dichloromethane
+T6	Chemical 112 115	DCM
+T7	Protein 136 173	theta class glutathione S-transferase
+T8	Protein 175 183	rGSTTI-1
+T9	Species 190 193	rat
+T10	Chemical 220 234	dihalomethanes
+T11	Protein 306 322	DCM dehalogenase
+T12	Protein 323 326	GST
+T13	Species 332 354	Methylophilus sp. DM11
+T14	Species 367 376	bacterial
+T15	Protein 378 394	DCM dehalogenase
+T16	Species 400 403	rat
+T17	Protein 404 410	enzyme
+T18	Protein 447 459	dehalogenase
+T19	Species 466 494	Methylobacterium sp. DM4-2cr
+T20	Chemical 507 510	DCM
+T22	Chemical 538 541	DCM
+T23	Biological_Activity 542 551	inhibited
+T24	Chemical 564 572	methanol
+T25	Protein 580 587	DM4-2cr
+T26	Species 618 621	rat
+T27	Protein 628 635	GSTT1-1
+T28	Species 640 669	Salmonella typhimurium TA1535
+T29	Species 685 688	rat
+T30	Species 693 702	bacterial
+T31	Chemical 704 707	DCM
+T32	Protein 715 718	GST
+T33	Chemical 753 756	DCM
+T34	Biological_Activity 810 821	prototrophy
+T35	Chemical 800 809	histidine
+T36	Species 859 862	rat
+T37	Protein 863 869	enzyme
+T38	Protein 907 910	GST
+T40	Chemical 934 937	DCM
+T41	Chemical 941 953	formaldehyde
+T42	Species 1023 1026	rat
+T43	Protein 1027 1032	GSTT1
+T44	Protein 1091 1107	DCM dehalogenase
+T45	Species 1081 1090	bacterial
+T46	Chemical 1141 1153	formaldehyde
+T47	Biological_Activity 1171 1179	toxicant
+T48	Protein 1196 1199	GST
+T49	Chemical 1209 1212	DCM
+T52	Chemical 1285 1288	DCM
+T53	Protein 1292 1295	GST
+T54	Chemical 1308 1333	S-chloromethylglutathione
+T55	Species 1425 1428	rat
+T56	Species 1433 1442	bacterial
+T57	Protein 1443 1457	DCM-active GST
+T58	Protein 1454 1457	GST
+T59	Chemical 1443 1446	DCM
+T60	Biological_Activity 1477 1485	toxicity
+T61	Biological_Activity 1490 1502	genotoxicity
+T62	Protein 1539 1546	enzymes
+T63	Species 1550 1558	bacteria
+T64	Species 1573 1582	bacterial
+T65	Chemical 1583 1586	DCM
+T66	Protein 1583 1600	DCM dehalogenases
+T67	Protein 1601 1604	GST
+T68	Biological_Activity 1634 1639	toxic
+T70	Chemical 1698 1701	DCM
+T71	Chemical 1664 1675	glutathione

@@ -1,0 +1,8 @@
+T1	Chemical 0 6	IC202A
+T2	Biological_Activity 14 31	immunosuppressive
+R1	Associated_With Arg1:T1 Arg2:T2	
+T3	Metabolite 0 6	IC202A
+T4	Species 85 115	Streptoalloteichus sp. 1454-19
+R2	Isolated_From Arg1:T3 Arg2:T4	
+T5	Protein 225 232	mitogen
+R5	Associated_With Arg1:T3 Arg2:T2	

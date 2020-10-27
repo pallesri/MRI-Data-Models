@@ -1,0 +1,20 @@
+T1	Disease 80 103	acute mountain sickness
+T2	Disease 540 558	normobaric hypoxia
+T3	Disease 925 943	normobaric hypoxia
+T4	Disease 1032 1050	normobaric hypoxia
+T5	Disease 1225 1243	normobaric hypoxia
+T9	Plant 0 13	Ginkgo biloba
+T11	Plant 33 39	ginkgo
+T13	Plant 189 195	ginkgo
+T16	Plant 380 393	Ginkgo biloba
+T21	Plant 663 676	Ginkgo biloba
+T24	Plant 794 807	Ginkgo biloba
+T26	Plant 888 894	ginkgo
+T29	Plant 993 999	ginkgo
+T30	Plant 1072 1078	ginkgo
+T35	Plant 1109 1122	Ginkgo biloba
+T38	Plant 1270 1283	Ginkgo biloba
+T6	Treatment_of_disease 50 57	prevent
+E1	Treatment_of_disease:T6 Cause:T11 Theme:T1 Cause2:T9
+T7	Treatment_of_disease 910 917	reduced
+E2	Treatment_of_disease:T7 Theme:T3 Cause:T26

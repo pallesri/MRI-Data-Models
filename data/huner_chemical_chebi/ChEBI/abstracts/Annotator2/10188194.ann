@@ -1,0 +1,136 @@
+T1	Chemical 0 24	Antiandrogenic chemicals
+T2	Biological_Activity 0 14	Antiandrogenic
+R2	Associated_With Arg1:T1 Arg2:T2	
+T4	Protein 189 206	androgen receptor
+T6	Biological_Activity 212 222	antagonist
+T7	Chemical 224 233	flutamide
+T8	Biological_Activity 261 269	agenesis
+R3	Associated_With Arg1:T7 Arg2:T6	
+R5	Associated_With Arg1:T7 Arg2:T8	
+T10	Chemical 316 327	finasteride
+T11	Biological_Activity 332 341	inhibitor
+T12	Chemical 374 378	DHT)
+R7	Associated_With Arg1:T10 Arg2:T11	
+T14	Chemical 481 498	dibutyl phthalate
+T15	Chemical 500 503	DBP
+T17	Chemical 577 586	flutamide
+T18	Chemical 590 601	vinclozolin
+T19	Biological_Activity 617 631	AR antagonists
+T20	Protein 617 619	AR
+T22	Species 646 661	male offsprings
+T23	Chemical 775 784	flutamide
+T24	Chemical 788 789	V
+T25	Chemical 603 604	V
+R10	Associated_With Arg1:T25 Arg2:T19	
+R11	Associated_With Arg1:T18 Arg2:T19	
+R12	Associated_With Arg1:T17 Arg2:T19	
+T28	Biological_Activity 902 916	anti-androgens
+T30	Biological_Activity 942 950	toxicant
+T31	Chemical 951 978	ethane dimethane sulphonate
+T32	Chemical 980 983	EDS
+R22	Associated_With Arg1:T31 Arg2:T30	
+R23	Associated_With Arg1:T32 Arg2:T30	
+T33	Chemical 1004 1011	linuron
+T34	Chemical 1036 1044	p,p'-DDE
+T35	Chemical 1066 1078	ketoconazole
+T36	Chemical 1102 1113	procymidone
+T37	Chemical 1138 1150	chlozolinate
+T38	Chemical 1172 1181	iprodione
+T39	Chemical 1115 1116	P
+T40	Chemical 1203 1206	DBP
+T41	Chemical 1228 1250	diethylhexyl phthalate
+T42	Chemical 1282 1306	polychlorinated biphenyl
+T43	Chemical 1308 1311	PCB
+T44	Chemical 1282 1306;1313 1329	polychlorinated biphenyl congener no. 169
+R24	Associated_With Arg1:T31 Arg2:T28	
+R25	Associated_With Arg1:T32 Arg2:T28	
+R26	Associated_With Arg1:T33 Arg2:T28	
+R27	Associated_With Arg1:T33 Arg2:T28	
+T45	Chemical 1013 1014	L
+R28	Associated_With Arg1:T45 Arg2:T28	
+R29	Associated_With Arg1:T34 Arg2:T28	
+R30	Associated_With Arg1:T35 Arg2:T28	
+R31	Associated_With Arg1:T36 Arg2:T28	
+R32	Associated_With Arg1:T39 Arg2:T28	
+R33	Associated_With Arg1:T37 Arg2:T30	
+R34	Associated_With Arg1:T38 Arg2:T30	
+R35	Associated_With Arg1:T40 Arg2:T30	
+R36	Associated_With Arg1:T41 Arg2:T30	
+T46	Chemical 1252 1256	DEHP
+R37	Associated_With Arg1:T46 Arg2:T30	
+R38	Associated_With Arg1:T44 Arg2:T28	
+T47	Chemical 1393 1402	chemicals
+T49	Chemical 1530 1541	Vinclozolin
+T50	Chemical 1543 1544	P
+T51	Chemical 1550 1553	DDE
+T52	Chemical 1561 1571	AR ligands
+T53	Protein 1561 1563	AR
+R39	Associated_With Arg1:T51 Arg2:T52	
+R40	Associated_With Arg1:T50 Arg2:T52	
+R41	Associated_With Arg1:T49 Arg2:T52	
+T55	Biological_Activity 1602 1610	toxicity
+R45	Associated_With Arg1:T51 Arg2:T55	
+R46	Associated_With Arg1:T50 Arg2:T55	
+R47	Associated_With Arg1:T49 Arg2:T55	
+T56	Chemical 1621 1629	p,p'-DDE
+R48	Associated_With Arg1:T56 Arg2:T55	
+T57	Chemical 1661 1664	DBP
+T58	Chemical 1669 1673	DEHP
+T59	Chemical 1716 1726	AR ligands
+T60	Protein 1716 1718	AR
+T61	Species 1728 1743	Male offsprings
+T64	Chemical 1833 1842	flutamide
+T65	Chemical 1844 1845	P
+T66	Chemical 1850 1851	V
+T67	Chemical 1880 1887	Linuron
+T70	Protein 1971 1973	AR
+T72	Chemical 2074 2075	L
+T75	Chemical 2212 2213	L
+T76	Chemical 2244 2247	DBP
+T77	Chemical 2276 2277	L
+T78	Biological_Activity 2323 2331	toxicity
+T79	Biological_Activity 2358 2365	binding
+T80	Protein 2355 2357	AR
+R60	Associated_With Arg1:T77 Arg2:T78	
+R61	Associated_With Arg1:T77 Arg2:T79	
+T82	Chemical 2367 2379	Chlozolinate
+T83	Chemical 2384 2393	iprodione
+T85	Biological_Activity 2451 2459	toxicity
+T86	Chemical 2482 2485	EDS
+T87	Biological_Activity 2511 2519	toxicity
+R63	Associated_With Arg1:T86 Arg2:T87	
+T90	Chemical 2629 2632	EDS
+T92	Species 2653 2662	male pups
+T93	Chemical 2671 2683	Ketoconazole
+T94	Species 2718 2723	males
+T97	Biological_Activity 2745 2758	anti-hormonal
+T98	Biological_Activity 2785 2795	inhibiting
+R67	Associated_With Arg1:T93 Arg2:T97	
+R68	Associated_With Arg1:T93 Arg2:T98	
+T101	Chemical 2933 2942	chemicals
+T103	Biological_Activity 3018 3032	anti-androgens
+T104	Chemical 3033 3034	V
+T105	Chemical 3036 3037	P
+T106	Chemical 3043 3051	p,p'-DDE
+R72	Associated_With Arg1:T104 Arg2:T103	
+R73	Associated_With Arg1:T105 Arg2:T103	
+R74	Associated_With Arg1:T106 Arg2:T103	
+T107	Chemical 3060 3069	flutamide
+T108	Chemical 3123 3126	DBP
+T109	Chemical 3128 3132	DEHP
+T110	Chemical 3138 3139	L
+T111	Chemical 3156 3159	PCB
+T112	Biological_Activity 3210 3223	anti-androgen
+T113	Biological_Activity 3416 3424	toxicity
+T114	Protein 208 210	AR
+R75	Binds_With Arg1:T7 Arg2:T114	
+R76	Binds_With Arg1:T7 Arg2:T4	
+T5	Chemical 345 372	5 alpha-dihydrotestosterone
+R8	Binds_With Arg1:T25 Arg2:T20	
+R9	Binds_With Arg1:T18 Arg2:T20	
+R77	Binds_With Arg1:T17 Arg2:T20	
+R13	Binds_With Arg1:T56 Arg2:T53	
+R14	Binds_With Arg1:T51 Arg2:T53	
+R15	Binds_With Arg1:T50 Arg2:T53	
+R78	Binds_With Arg1:T49 Arg2:T53	
+R42	Binds_With Arg1:T77 Arg2:T80	

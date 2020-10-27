@@ -1,0 +1,404 @@
+T1	Chemical 1 25	Galacto-oligosaccharides
+T2	Chemical 41 69	oligogalactosylated glucoses
+T3	Species 160 174	bifidobacteria
+T4	Chemical 246 257	fatty acids
+T5	Chemical 293 317	galacto-oligosaccharides
+T6	Species 336 346	microflora
+T7	Chemical 415 443	Oligogalactosylated glucoses
+T8	Chemical 465 472	lactose
+T9	Protein 518 533	β-galactosidase
+T10	Protein 535 546	EC 3.2.1.23
+T11	Protein 590 596	enzyme
+T12	Chemical 598 607	substrate
+T13	Chemical 769 797	oligogalactosylated glucoses
+T16	Protein 897 912	β-galactosidase
+T17	Chemical 949 952	Gal
+T18	Chemical 970 973	Glc
+T19	Chemical 1009 1033	β-d -Galp -(1→2)-d -Glcp
+T20	Chemical 1036 1060	β-d -Galp -(1→3)-d -Glcp
+T21	Chemical 1063 1087	β-d -Galp -(1→4)-d -Glcp
+T22	Chemical 1094 1118	β-d -Galp -(1→6)-d -Glcp
+T23	Chemical 1130 1133	Glc
+T24	Chemical 1167 1181	oligogalactose
+T25	Chemical 1239 1276	oligogalactosylated glucose tetramers
+T26	Chemical 769 796;825 831	oligogalactosylated glucose dimers
+T14	Chemical 769 796;835 844	oligogalactosylated glucose pentamers
+T15	Chemical 1239 1266;1281 1290	oligogalactosylated glucose pentamers
+T27	Protein 1395 1410	β-galactosidase
+T28	Chemical 1439 1465	α-d -Glcp -(1↔1)-β-d -Galp
+T29	Chemical 1487 1515	oligogalactosylated glucoses
+T30	Chemical 1551 1567	oligosaccharides
+T31	Chemical 1580 1595	β-galactosidase
+T32	Chemical 1600 1627	oligogalactosylated glucose
+T35	Chemical 1876 1892	oligosaccharides
+T36	Chemical 2021 2048	oligogalactosylated glucose
+T33	Spectral_Data 2331 2351	1 H NMR spectroscopy
+T34	Chemical 2158 2187	(β-d -Galp -(1→4))n  -d -Glcp
+T37	Chemical 2194 2240	(β-d -Galp -(1→6))n  -β-d -Galp -(1→4)-d -Glcp
+R1	Associated_With Arg1:T37 Arg2:T33	
+R2	Associated_With Arg1:T34 Arg2:T33	
+T38	Chemical 2374 2401	oligogalactosylated glucose
+T39	Spectral_Data 2478 2490	NMR analysis
+T40	Chemical 2772 2800	oligogalactosylated glucoses
+T41	Chemical 3114 3127	disaccharides
+T42	Spectral_Data 3215 3231	1 H NMR spectrum
+T43	Chemical 3279 3282	Gal
+T44	Chemical 3287 3290	Glc
+R3	Associated_With Arg1:T43 Arg2:T42	
+R4	Associated_With Arg1:T44 Arg2:T42	
+T45	Chemical 3334 3346	disaccharide
+T46	Chemical 3361 3364	Glc
+T47	Chemical 3369 3372	Gal
+T48	Chemical 3398 3404	Methyl
+T49	Chemical 3474 3478	Galp
+T50	Chemical 3493 3497	Glcp
+T51	Chemical 3565 3585	sodium borodeuteride
+T52	Chemical 3688 3694	sodium
+T53	Chemical 3729 3731	Na
+T54	Chemical 3739 3768	nonreduced permethylated Hex2
+T55	Spectral_Data 3500 3541	Electrospray ionization mass spectrometry
+T56	Spectral_Data 3543 3547	ESMS
+T57	Spectral_Data 3816 3833	FAB mass spectrum
+T58	Spectral_Data 3891 3968	fast atom bombardment collision induced dissociation tandem mass spectrometry
+T59	Spectral_Data 3970 3983	FAB CID MS-MS
+T60	Spectral_Data 4064 4084	tandem mass spectrum
+T61	Spectral_Data 4017 4035	mass spectrometric
+T62	Chemical 4192 4199	methano
+T63	Spectral_Data 4524 4593	1D 1 H NMR analysis showed two anomeric signals at δ  5.230 and 4.571
+T64	Spectral_Data 4664 4748	δ  5.230 (3 J 1,2  3.7 Hz) had correlations to H-2,3,4,5,6a,6b in the TOCSY spectrum
+T65	Chemical 4766 4772	α-Glcp
+R5	Associated_With Arg1:T65 Arg2:T64	
+T66	Spectral_Data 4797 4864	δ  4.571 (3 J 1,2  7.6 Hz) only showed TOCSY cross-peaks to H-2,3,4
+T67	Chemical 5019 5025	β-Galp
+T68	Spectral_Data 5280 5294	ROESY spectrum
+T69	Chemical 5222 5270	α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p
+R6	Associated_With Arg1:T69 Arg2:T68	
+T70	Chemical 5397 5403	carbon
+T71	Spectral_Data 5431 5437;5447 5454	seHSQC spectra
+T72	Spectral_Data 5442 5454	HMBC spectra
+T73	Chemical 5528 5531	Gal
+T74	Chemical 5586 5591	β-Gal
+T75	Chemical 5607 5612	α-Glc
+T76	Spectral_Data 5626 5796	HMBC spectrum showed two interresidual contacts (I  H-1,II′  C-1 and II′  H-1,I  C-1) and the H-1/C-1 coupling constants (Glc 1 J C-1,H-1  174 Hz, Gal 1 J C-1,H-1  163 Hz
+T77	Chemical 5748 5751	Glc
+T78	Chemical 5773 5776	Gal
+T79	Chemical 5216 5220	2.1A
+T80	Chemical 5820 5824	2.1A
+R7	Associated_With Arg1:T80 Arg2:T76	
+T81	Chemical 5943 5947	3.1A
+T82	Chemical 5949 6025	β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p
+T83	Biological_Activity 485 505	transgalactosylating
+T84	Biological_Activity 1362 1382	transgalactosylating
+T85	Chemical 6090 6093	Glc
+T86	Chemical 6098 6101	Gal
+T87	Chemical 6131 6137	Methyl
+T88	Chemical 6190 6194	Galp
+T89	Chemical 6200 6218	4-substituted Glcp
+T90	Chemical 6258 6278	sodium borodeuteride
+T91	Chemical 6372 6374	Na
+T92	Spectral_Data 6462 6475	mass spectrum
+T93	Chemical 6517 6532	oligosaccharide
+T94	Chemical 6658 6664	methyl
+T95	Chemical 6812 6820	methanol
+T96	Spectral_Data 6954 7193	1 H NMR analysis of Fraction 3.1 (Fig. 2 (B)) showed three, equally intense, anomeric signals at δ  5.228 (3 J 1,2  3.4 Hz, 1 J C-1,H-1  173 Hz), 4.576 (3 J 1,2  7.0 Hz, 1 J C-1,H-1  160 Hz), and 4.443 (3 J 1,2  7.9 Hz, 1 J C-1,H-1  163 Hz
+T97	Spectral_Data 7257 7261	HMBC
+T98	Chemical 7315 7316;7346 7362	α galactopyranosyl
+T99	Chemical 7315 7316;7340 7345;7353 7362	α gluco pyranosyl
+T100	Chemical 7338 7345;7353 7362	β gluco pyranosyl
+T101	Chemical 7338 7339;7346 7362	β galactopyranosyl
+T102	Spectral_Data 7373 7392	2D NMR spectroscopy
+T103	Spectral_Data 7394 7397	DQF
+T104	Spectral_Data 7398 7402	COSY
+T105	Spectral_Data 7404 7409	TOCSY
+T106	Spectral_Data 7415 7420	ROESY
+T107	Chemical 7606 7610	Glcp
+T108	Chemical 7650 7654	Galp
+T109	Chemical 7701 7715	monosaccharide
+T110	Spectral_Data 7758 7810	ROESY cross-peaks II  H-1,I  H-4 and I  H-1,II′  H-1
+T111	Spectral_Data 7834 7927	HMBC contacts (Fig. 3  ) II  H-1,I  C-4, I  H-4,II  C-1, I  H-1,II′  C-1, and II′  H-1,I  C-1
+T112	Chemical 7952 7958	carbon
+T113	Chemical 6041 6055	monosaccharide
+T114	Spectral_Data 7996 8009	HMBC spectrum
+T115	Chemical 8069 8075	β-Galp
+T116	Chemical 8107 8127	4-substituted α-Glcp
+T117	Spectral_Data 8167 8346	1D 1 H NMR spectrum of Fraction 3.1 (Fig. 2 (B)) some other anomeric signals with much lower intensity (ca. 10%) were visible (δ  5.45, 3 J 1,2  3.4 Hz; 4.62, 7.2 Hz; 4.53, 7.0 Hz
+T121	Spectral_Data 8586 8596	2D spectra
+T122	Chemical 8646 8650	3.1B
+T123	Spectral_Data 8669 8751	ROESY spectrum, showing a strong ROE I  H-1,II′  H-1 and a weak ROE II  H-1,I  H-2
+R8	Associated_With Arg1:T122 Arg2:T123	
+T124	Chemical 8773 8776	Glc
+T126	Chemical 8904 8923	2-substituted α-Glc
+T127	Chemical 8941 8961	2-substituted hexose
+T128	Chemical 8979 8985	methyl
+T129	Chemical 9118 9132	Monosaccharide
+T130	Chemical 9183 9186	Glc
+T131	Chemical 9191 9194	Gal
+T132	Chemical 9252 9272	sodium borodeuteride
+T133	Spectral_Data 9420 9436	1 H NMR spectrum
+T134	Spectral_Data 9540 9554	TOCSY spectrum
+T135	Chemical 9590 9594	Glcp
+T136	Biological_Activity 9659 9672	galactosidase
+T137	Protein 9657 9672	β-galactosidase
+T138	Chemical 9620 9636	oligosaccharides
+T139	Chemical 9686 9701	oligosaccharide
+T140	Chemical 9723 9726	Glc
+T141	Chemical 9834 9838	Galp
+T142	Spectral_Data 9864 9869	TOCSY
+T143	Spectral_Data 9887 9901	ROESY spectrum
+T144	Chemical 9986 9992	β-Galp
+T145	Chemical 10148 10166	4-substituted Galp
+T146	Chemical 10368 10372	Galp
+T147	Chemical 10402 10406	Glcp
+T149	Chemical 10435 10439	3.1A
+T151	Chemical 5353 5360	protons
+T153	Chemical 10551 10656	β -d  -G  III    al p-(1→4 )-β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p
+T155	Chemical 10666 10772	β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p-(4←1 )-β -d  -G  III′    al p
+T156	Spectral_Data 10868 10873;10893 10900	TOCSY spectra
+T157	Spectral_Data 10875 10880;10893 10900	ROESY spectra
+T158	Spectral_Data 10886 10900	seHSQC spectra
+T159	Spectral_Data 10949 11048	1 H NMR analysis of Fraction 4.1 shows anomeric signals (δ  5.26, 5.25, 4.68, 4.64, 4.56, and 4.52)
+T160	Chemical 11386 11390	5.1A
+T161	Chemical 11393 11397	5.1B
+T162	Chemical 11404 11408	5.1C
+T163	Chemical 11411 11415	5.1A
+T164	Chemical 11417 11550	β -d  -G  IV    al p-(1→4 )-β -d  -G  III    al p-(1→4 )-β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p
+T165	Chemical 11554 11558	5.1B
+T166	Chemical 11560 11695	β -d  -G  III    al p-(1→4 )-β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p-(4←1 )-β -d  -G  III′    al p
+T167	Chemical 11699 11703	5.1C
+T168	Chemical 11705 11840	β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p-(4←1 )-β -d  -G  III′    al p-(4←1 )-β -d  -G  IV′    al p
+T169	Spectral_Data 11850 11863	ESMS spectrum
+T170	Chemical 11871 11891	sodium borodeuteride
+T171	Chemical 11986 11988	Na
+T172	Spectral_Data 12040 12056	1 H NMR spectrum
+T173	Spectral_Data 12283 12296	TOCSY spectra
+T174	Chemical 12335 12341	α-Glcp
+T175	Chemical 12416 12422	β-Galp
+T176	Chemical 12450 12456	α-Glcp
+T177	Chemical 12702 12705	Glc
+T178	Chemical 12992 12998	β-Galp
+T179	Chemical 13010 13014	5.1C
+T180	Chemical 13041 13061	4-substituted β-Galp
+T181	Chemical 13080 13086	α-Glcp
+T182	Chemical 13099 13103	5.1A
+T183	Chemical 13109 13113	5.1B
+T184	Spectral_Data 13134 13139	ROESY
+T185	Spectral_Data 13144 13149	TOCSY
+T186	Chemical 13173 13193	4-substituted β-Galp
+T187	Chemical 13237 13243	β-Galp
+T188	Chemical 13260 13280	4-substituted β-Galp
+T189	Chemical 13307 13312	α-Glc
+T190	Spectral_Data 13380 13385	ROESY
+T191	Chemical 13402 13408	β-Galp
+T192	Chemical 13556 13562	α-Glcp
+T193	Chemical 13637 13642	β-Gal
+T194	Chemical 13669 13673	5.1C
+T195	Chemical 13680 13685	α-Glc
+T196	Spectral_Data 13716 13721	ROESY
+T197	Chemical 13740 13746	β-Galp
+T198	Spectral_Data 13788 13802	TOCSY spectrum
+T199	Chemical 13808 13812	Galp
+T200	Chemical 13897 13901	5.1A
+T201	Chemical 13957 13961	5.1A
+T202	Chemical 13967 13971	5.1C
+T203	Chemical 14031 14091	β-Galp -(1→4)-β-Galp  and β-Galp -(1→4)-α-Glcp -(1↔1)-β-Galp
+T204	Spectral_Data 14124 14135	NMR spectra
+T205	Chemical 14217 14221	5.1B
+T206	Chemical 14344 14348	6.1A
+T207	Chemical 14351 14355	6.1B
+T208	Chemical 14358 14362	6.1C
+T209	Chemical 14369 14373	6.1D
+T210	Chemical 14376 14380	6.1A
+T211	Chemical 14382 14542	β -d  -G  V    al p-(1→4 )-β -d  -G  IV    al p-(1→4 )-β -d  -G  III    al p-(1→4 )-β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p
+T212	Chemical 14546 14550	6.1B
+T213	Chemical 14552 14715	β -d  -G  IV    al p-(1→4 )-β -d  -G  III    al p-(1→4 )-β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p-(4←1 )-β -d  -G  III′    al p
+T214	Chemical 14719 14723	6.1C
+T215	Chemical 14725 14889	β -d  -G  III    al p-(1→4 )-β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p-(4←1 )-β -d  -G  III′    al p-(4←1 )-β -d  -G  IV′    al p
+T216	Chemical 14893 14897	6.1D
+T217	Chemical 14899 15062	β -d  -G  II    al p-(1→4 )-α -d  -G  I    lc p-(1↔1 )-β -d  -G  II′    al p-(4←1 )-β -d  -G  III′    al p-(4←1 )-β -d  -G  IV′    al p-(4←1 )-β -d  -G  V′    al p
+T218	Chemical 15065 15079	Monosaccharide
+T219	Chemical 15114 15117	Gal
+T220	Chemical 15122 15125	Glc
+T221	Chemical 15155 15161	Methyl
+T222	Chemical 15210 15212	Ga
+T223	Chemical 15215 15232	4-substituted Gal
+T224	Chemical 15238 15255	4-substituted Glc
+T225	Spectral_Data 15264 15277	ESMS spectrum
+T226	Chemical 15285 15305	sodium borodeuteride
+T227	Chemical 15400 15402	Na
+T228	Spectral_Data 15444 15449	TOCSY
+T229	Spectral_Data 15451 15456	ROESY
+T230	Spectral_Data 15462 15468	seHSQC
+T231	Chemical 15530 15579	β-Galp -(1→, →4)-β-Galp -(1→, and →4)-α-Glcp -(1→
+T232	Spectral_Data 15591 15607	1 H NMR spectrum
+T233	Chemical 15692 15698	β-Galp
+T234	Chemical 15724 15730	α-Glcp
+T235	Chemical 15747 15751	5.1C
+T236	Chemical 15757 15761	4.1B
+T237	Chemical 15848 15854	β-Galp
+T238	Chemical 15890 15894	6.1D
+T239	Spectral_Data 16025 16030	TOCSY
+T240	Spectral_Data 16035 16041	seHSQC
+T241	Spectral_Data 16072 16078	α-Glcp
+T242	Chemical 16132 16135	Glc
+T243	Chemical 16220 16224	6.1D
+T244	Chemical 16409 16415	β-Galp
+T245	Chemical 16434 16440	α-Glcp
+T246	Chemical 16479 16483	6.1A
+T247	Chemical 16496 16500	6.1B
+T248	Chemical 16506 16510	6.1C
+T249	Chemical 16555 16559	6.1A
+T250	Chemical 16586 16590	6.1D
+T251	Chemical 16674 16698	β-Galp -(1→4))n  -β-Galp
+T252	Chemical 16710 16744	β-Galp -(1→4)-α-Glcp -(1↔1)-β-Galp
+T253	Spectral_Data 16777 16788	NMR spectra
+T254	Chemical 16906 16909	Glc
+T255	Chemical 16967 16983	oligosaccharides
+T256	Biological_Activity 17000 17020	transgalactosylation
+T257	Protein 17033 17048	β-galactosidase
+T258	Chemical 17055 17062	lactose
+T259	Chemical 17129 17145	oligosaccharides
+T260	Chemical 17161 17167	α-Glcp
+T261	Chemical 17199 17205	β-Galp
+T262	Chemical 17241 17267	α-d -Glcp -(1↔1)-β-d -Galp
+T263	Biological_Activity 17323 17339	gastrointestinal
+T264	Chemical 17350 17373	galactosylated glucoses
+T265	Chemical 17394 17397	Glc
+T266	Chemical 17444 17450	β-Glcp
+T267	Chemical 17481 17497	oligosaccharides
+T268	Protein 17552 17558	enzyme
+T269	Chemical 17568 17575	lactose
+R9	Binds_With Arg1:T269 Arg2:T257	
+T270	Chemical 17602 17609	lactose
+T271	Protein 17635 17641	enzyme
+T272	Chemical 17694 17702	hydrogen
+T273	Chemical 17726 17729	Gal
+T274	Chemical 17754 17757	Glc
+T275	Biological_Activity 17784 17804	transgalactosylation
+T276	Chemical 17827 17830	Gal
+T277	Chemical 17846 17856	galactosyl
+T278	Chemical 17911 17914	Glc
+T279	Protein 17920 17933	galactosidase
+T280	Biological_Activity 17920 17933	galactosidase
+T281	Chemical 17992 18000	hydrogen
+T282	Chemical 18023 18026	Gal
+T283	Chemical 18048 18051	Glc
+T284	Protein 18138 18144	enzyme
+T285	Chemical 18149 18151	Ga
+T286	Biological_Activity 18160 18180	transgalactosylation
+T287	Chemical 18220 18223	Glc
+T288	Chemical 18250 18260	galactosyl
+T289	Chemical 18290 18293	Glc
+T290	Chemical 18358 18363	α-Glc
+T291	Chemical 18399 18402	Gal
+T292	Chemical 18459 18464	β-Glc
+T293	Chemical 18488 18504	oligosaccharides
+T294	Chemical 18545 18557	Galactobiose
+T295	Chemical 18561 18569	pentaose
+T296	Chemical 18626 18641	arabinogalactan
+T297	Protein 18648 18663	endogalactanase
+T298	Species 18669 18677	A. niger
+T299	Chemical 18821 18845	galacto-oligosaccharides
+T300	Chemical 18859 18882	galactosylated glucoses
+T301	Protein 18903 18918	β-galactosidase
+T302	Biological_Activity 18905 18918	galactosidase
+T303	Chemical 18925 18932	lactose
+T304	Chemical 19094 19097	Gal
+T305	Chemical 19102 19105	Glc
+T306	Chemical 19115 19117;19126 19136	di saccharide
+T307	Chemical 19123 19136	trisaccharide
+T308	Chemical 19166 19174	charcoal
+T309	Chemical 19312 19314;19328 19339	di saccharides
+T310	Chemical 19324 19339	hexasaccharides
+T311	Chemical 19452 19461	oligomers
+T312	Chemical 19480 19495	oligosaccharide
+T313	Chemical 19555 19557;19571 19582	di saccharides
+T314	Chemical 19567 19582	hexasaccharides
+T315	Chemical 19622 19638	oligosaccharides
+T316	Chemical 19665 19688	galactosylated glucoses
+T317	Chemical 19700 19723	galactosylated glucoses
+T318	Chemical 19905 19910	water
+T319	Chemical 20159 20164	water
+T320	Chemical 20314 20320	sugars
+T321	Chemical 20796 20800	NaOH
+T322	Chemical 20806 20811	NaOAc
+T323	Chemical 20821 20825	NaOH
+T324	Chemical 20840 20845	water
+T325	Chemical 21054 21058	HOAc
+T326	Chemical 21164 21169	water
+T327	Chemical 21214 21230	oligosaccharides
+T328	Chemical 21446 21451	NaOAc
+T329	Chemical 21461 21465	NaOH
+T330	Chemical 21531 21535	gold
+T331	Chemical 21671 21675	HOAc
+T332	Chemical 21793 21798	water
+T333	Chemical 22079 22093	Monosaccharide
+T334	Chemical 22103 22119	Oligosaccharides
+T335	Chemical 22138 22146	methanol
+T336	Chemical 22152 22160	methanol
+T337	Chemical 22167 22170	HCl
+T338	Chemical 22216 22233	methyl glycosides
+T339	Chemical 22269 22289	hexamethyldisilazane
+T340	Chemical 22290 22311	trimethylchlorosilane
+T341	Chemical 22312 22320	pyridine
+T342	Chemical 22239 22253	trimethylsilyl
+T343	Chemical 22369 22375	Methyl
+T344	Chemical 22422 22428	NH4 OH
+T345	Chemical 22449 22454	NaBD4
+T346	Chemical 22519 22523	HOAc
+T347	Chemical 22544 22554	Boric acid
+T348	Chemical 22605 22609	MeOH
+T349	Chemical 22610 22614	HOAc
+T350	Chemical 22619 22623	MeOH
+T351	Chemical 22712 22716	NaOH
+T352	Chemical 22772 22778	Me2 SO
+T353	Chemical 22805 22808	MeI
+T354	Chemical 22905 22914	Na2 S2 O3
+T355	Chemical 22938 22943	CHCl3
+T356	Chemical 22957 22967	chloroform
+T357	Chemical 22993 22998	water
+T358	Chemical 23056 23064	CF3 COOH
+T359	Chemical 23128 23133	Ac2 O
+T360	Chemical 23111 23117	acetyl
+T361	Chemical 23172 23177	water
+T362	Chemical 23212 23218	NaHCO3
+T363	Chemical 23225 23262	partially methylated alditol acetates
+T364	Chemical 23283 23290	CH2 Cl2
+T365	Chemical 23340 23342	N2
+T366	Spectral_Data 23383 23387	EIMS
+T367	Spectral_Data 23421 23454	electron impact mass spectrometry
+T368	Spectral_Data 23460 23464	EIMS
+T369	Spectral_Data 23470 23474	EIMS
+T370	Chemical 23569 23571	He
+T371	Chemical 23600 23606	silica
+T372	Spectral_Data 23756 23773	Mass spectrometry
+T373	Spectral_Data 23845 23863	mass spectrometric
+T374	Chemical 23874 23879	NaBD4
+T375	Chemical 23907 23920	carbohydrates
+T376	Chemical 23943 23947	MeOH
+T377	Chemical 23954 23959	HCOOH
+T378	Spectral_Data 23973 23977	ESMS
+T379	Chemical 24160 24164	MeOH
+T380	Chemical 24171 24176	HCOOH
+T381	Chemical 24462 24498	peracetylated malto-oligosaccharides
+T382	Spectral_Data 24500 24505	FABMS
+T383	Chemical 24623 24625	Xe
+T384	Chemical 25266 25271	NaBD4
+T385	Chemical 25299 25312	carbohydrates
+T386	Chemical 25337 25341	MeOH
+T387	Chemical 25395 25407	thioglycerol
+T388	Chemical 25509 25513	D2 O
+T389	Chemical 25592 25596	D2 O
+T390	Chemical 26045 26052	acetone
+T391	Chemical 26067 26074	acetate
+T392	Chemical 26112 26119	glucose
+T393	Chemical 26124 26128	Glcp
+T394	Chemical 26141 26145	Glcp
+T395	Chemical 26310 26313	HOD
+T396	Chemical 26689 26692	HOD
+T397	Spectral_Data 26773 26778	TOCSY
+T398	Spectral_Data 27112 27120	DQF-COSY
+T399	Spectral_Data 27178 27183	TOCSY
+T400	Spectral_Data 27309 27314	ROESY
+T401	Chemical 27655 27658	HOD
+T402	Chemical 29040 29046	carbon
+T118	Spectral_Data 12126 12225	-1α region δ  5.21–5.23, three overlapping doublets (3 J 1,2  3–4 Hz) at δ  5.216, 5.221, and 5.227

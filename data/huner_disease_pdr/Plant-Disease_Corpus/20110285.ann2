@@ -1,0 +1,22 @@
+T1	Disease 28 41	breast cancer
+T2	Disease 133 146	breast cancer
+T3	Disease 218 224	cancer
+T5	Disease 466 479	breast cancer
+T6	Disease 587 600	breast cancer
+T7	Disease 734 747	breast cancer
+T8	Disease 970 983	breast cancer
+T9	Disease 1154 1167	breast cancer
+T10	Disease 1268 1281	breast cancer
+T11	Disease 1477 1490	breast cancer
+T12	Disease 1584 1597	breast cancer
+T13	Plant 390 397	tobacco
+T14	Plant 1135 1142	tobacco
+T15	Plant 1327 1334	tobacco
+T16	Plant 1565 1572	tobacco
+T4	Disease 406 414	cancers.
+T17	Cause_of_disease 398 405	related
+E1	Cause_of_disease:T17 Theme:T4 Cause:T13
+T18	Cause_of_disease 1125 1131	effect
+E2	Cause_of_disease:T18 Cause:T14 Theme:T9
+T19	Cause_of_disease 1555 1561	effect
+E3	Cause_of_disease:T19 Cause:T16 Theme:T12

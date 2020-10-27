@@ -1,0 +1,70 @@
+T2	Species 24 28	rats
+T3	Chemical 62 72	diclofenac
+T4	Protein 134 140	enzyme
+T5	Protein 191 199	proteins
+T6	Protein 222 238	cytochromes P450
+T7	Species 242 247	human
+T8	Chemical 329 339	diclofenac
+T9	Chemical 460 470	diclofenac
+T11	Chemical 512 517	NADPH
+T13	Chemical 617 627	diclofenac
+T14	Chemical 639 659	4'-hydroxydiclofenac
+T16	Chemical 745 759	sulfaphenazole
+T19	Metabolite 639 659	4'-hydroxydiclofenac
+T21	Chemical 845 859	troleandomycin
+T22	Biological_Activity 864 873	inhibitor
+T23	Protein 877 885	P450 3A4
+T26	Chemical 950 960	diclofenac
+R2	Associated_With Arg1:T21 Arg2:T22	
+T27	Species 1030 1035	human
+T30	Protein 0 20	Cytochrome P450 2C11
+T31	Protein 537 556	Cytochrome P450 2C9
+T33	Protein 1036 1044	P450 2C9
+T34	Protein 1049 1057	P450 3A4
+T35	Protein 1145 1153	proteins
+T39	Metabolite 1286 1305	5-hydroxydiclofenac
+T40	Chemical 1328 1332	EDTA
+T41	Chemical 1334 1345	glutathione
+T42	Chemical 1351 1356	NADPH
+T44	Chemical 1362 1382	p-benzoquinone imine
+T45	Species 1425 1430	human
+T46	Chemical 1493 1496	GSH
+T47	Chemical 1511 1514	GSH
+T48	Chemical 1555 1565	diclofenac
+T49	Species 1569 1574	human
+T50	Protein 1636 1640	P450
+T51	Chemical 1667 1677	diclofenac
+T52	Protein 1751 1755	P450
+T53	Protein 1751 1759	P450 3A4
+T54	Protein 1796 1803	enzymes
+T55	Chemical 1854 1864	diclofenac
+T58	Chemical 2030 2035	NADPH
+T59	Chemical 2037 2040	GSH
+R4	Metabolite_Of Arg1:T19 Arg2:T13	
+T1	Species 375 386	individuals
+T10	Protein 491 506	protein adducts
+T12	Protein 720 735	protein adducts
+T15	Protein 806 820	protein adduct
+T20	Biological_Activity 603 613	metabolism
+T62	Biological_Activity 764 773	inhibitor
+R1	Associated_With Arg1:T16 Arg2:T62	
+T17	Protein 902 916	protein adduct
+T18	Chemical 1162 1216	p-benzoquinone imine derivative of 5-hydroxydiclofenac
+T25	Chemical 1286 1305	5-hydroxydiclofenac
+T28	Chemical 1257 1262	metal
+T29	Chemical 1880 1934	p-benzoquinone imine derivative of 5-hydroxydiclofenac
+T32	Chemical 2052 2067	reducing agents
+R3	Binds_With Arg1:T21 Arg2:T23	
+R5	Associated_With Arg1:T13 Arg2:T20	
+T24	Biological_Activity 318 325	binding
+R6	Associated_With Arg1:T8 Arg2:T24	
+T36	Biological_Activity 1315 1324	inhibited
+R7	Associated_With Arg1:T40 Arg2:T36	
+R8	Associated_With Arg1:T41 Arg2:T36	
+R9	Associated_With Arg1:T42 Arg2:T36	
+T37	Biological_Activity 1544 1551	binding
+R10	Associated_With Arg1:T48 Arg2:T37	
+T38	Biological_Activity 1840 1850	metabolism
+T43	Biological_Activity 1967 1974	binding
+R11	Associated_With Arg1:T29 Arg2:T43	
+T56	Chemical 1915 1934	5-hydroxydiclofenac

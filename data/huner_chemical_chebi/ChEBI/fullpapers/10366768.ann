@@ -1,0 +1,602 @@
+T1	Chemical 1 16	2-Nitrofluorene
+T2	Chemical 18 20	NF
+T3	Chemical 86 127	nitrated polycyclic aromatic hydrocarbons
+T4	Chemical 129 139	nitro-PAHs
+T5	Chemical 150 152	NF
+T6	Biological_Activity 176 185	oxidative
+T7	Biological_Activity 191 200	reductive
+T8	Biological_Activity 201 210	metabolic
+T9	Chemical 307 326	reduced metabolites
+T10	Metabolite 307 326	reduced metabolites
+T11	Chemical 339 354	2-aminofluorene
+T12	Metabolite 339 354	2-aminofluorene
+T13	Chemical 356 358	AF
+T14	Metabolite 356 358	AF
+T15	Chemical 364 385	2-acetylaminofluorene
+T16	Metabolite 364 385	2-acetylaminofluorene
+T17	Chemical 387 390	AAF
+T18	Metabolite 387 390	AAF
+T19	Biological_Activity 402 413	carcinogens
+R1	Associated_With Arg1:T18 Arg2:T19	
+R2	Associated_With Arg1:T17 Arg2:T19	
+R3	Associated_With Arg1:T16 Arg2:T19	
+R4	Associated_With Arg1:T15 Arg2:T19	
+R5	Associated_With Arg1:T14 Arg2:T19	
+R6	Associated_With Arg1:T13 Arg2:T19	
+R7	Associated_With Arg1:T12 Arg2:T19	
+R8	Associated_With Arg1:T11 Arg2:T19	
+R9	Metabolite_Of Arg1:T12 Arg2:T1	
+R10	Metabolite_Of Arg1:T14 Arg2:T1	
+R11	Metabolite_Of Arg1:T16 Arg2:T1	
+R12	Metabolite_Of Arg1:T18 Arg2:T1	
+R13	Metabolite_Of Arg1:T12 Arg2:T5	
+R14	Metabolite_Of Arg1:T14 Arg2:T5	
+R15	Metabolite_Of Arg1:T16 Arg2:T5	
+R16	Metabolite_Of Arg1:T18 Arg2:T5	
+T20	Chemical 435 437	NF
+T21	Biological_Activity 438 445	induces
+T22	Chemical 480 488	dG-C8-AF
+T23	Metabolite 480 488	dG-C8-AF
+R17	Metabolite_Of Arg1:T23 Arg2:T20	
+R18	Associated_With Arg1:T20 Arg2:T21	
+T24	Chemical 538 546	dG-C8-AF
+T25	Metabolite 538 546	dG-C8-AF
+T26	Chemical 402 413	carcinogens
+T27	Chemical 574 576	AF
+T28	Metabolite 574 576	AF
+T29	Chemical 582 585	AAF
+T30	Metabolite 582 585	AAF
+T31	Chemical 613 622	dG-C8-AAF
+T32	Metabolite 613 622	dG-C8-AAF
+T33	Chemical 624 635	dG-N 2 -AAF
+T34	Metabolite 624 636	dG-N 2 -AAF,
+T35	Biological_Activity 669 682	pre-mutagenic
+T36	Biological_Activity 686 691	toxic
+R19	Associated_With Arg1:T34 Arg2:T35	
+R20	Associated_With Arg1:T33 Arg2:T35	
+R21	Associated_With Arg1:T33 Arg2:T36	
+R22	Associated_With Arg1:T34 Arg2:T36	
+R23	Associated_With Arg1:T32 Arg2:T35	
+R24	Associated_With Arg1:T31 Arg2:T35	
+R25	Associated_With Arg1:T32 Arg2:T36	
+R26	Associated_With Arg1:T31 Arg2:T36	
+T37	Biological_Activity 698 709	Carcinogens
+T38	Chemical 698 709	Carcinogens
+T39	Biological_Activity 729 735	induce
+T40	Chemical 446 456	DNA adduct
+T41	Metabolite 446 456	DNA adduct
+T42	Chemical 517 528	DNA adducts
+T43	Metabolite 517 528	DNA adducts
+T44	Chemical 736 747	DNA adducts
+T45	Metabolite 736 747	DNA adducts
+T46	Species 777 782	human
+T47	Chemical 900 911	DNA adducts
+T48	Metabolite 900 911	DNA adducts
+T49	Metabolite 937 948	DNA adducts
+T50	Chemical 937 948	DNA adducts
+T51	Species 959 964	human
+T52	Chemical 1080 1091	DNA adducts
+T53	Chemical 1080 1091	DNA adducts
+T54	Species 1095 1100	human
+T55	Chemical 28 31	air
+T56	Chemical 1149 1152	air
+T57	Chemical 1177 1188	DNA adducts
+T58	Metabolite 1177 1188	DNA adducts
+T59	Biological_Activity 1219 1228	genotoxic
+T60	Chemical 1235 1246	DNA adducts
+T61	Metabolite 1235 1246	DNA adducts
+T62	Biological_Activity 1405 1414	induction
+T63	Chemical 1462 1473	DNA adducts
+T64	Metabolite 1462 1473	DNA adducts
+T65	Biological_Activity 1525 1534	mutations
+T66	Biological_Activity 1562 1572	carcinogen
+T67	Chemical 1671 1682	DNA adducts
+T68	Metabolite 1671 1682	DNA adducts
+T69	Biological_Activity 1688 1700	carcinogenic
+T70	Chemical 1701 1716	alkenylbenzenes
+R27	Associated_With Arg1:T70 Arg2:T69	
+T71	Species 1737 1748	B6C3F1 mice
+T72	Chemical 1802 1809	adducts
+T73	Metabolite 1802 1809	adducts
+T74	Biological_Activity 1864 1879	carcinogenicity
+T75	Chemical 1883 1890	safrole
+T76	Chemical 1903 1918	alkenylbenzenes
+T77	Species 1930 1934	mice
+R28	Associated_With Arg1:T75 Arg2:T74	
+R29	Associated_With Arg1:T76 Arg2:T74	
+T78	Chemical 1991 2021	O 6 -methylguanine-DNA adducts
+T79	Metabolite 1991 2021	O 6 -methylguanine-DNA adducts
+T80	Species 2042 2046	mice
+T81	Chemical 2052 2072	N -methylnitrosourea
+T82	Chemical 2146 2154	platinum
+T83	Chemical 2216 2225	cisplatin
+T84	Species 2240 2245	human
+T85	Species 2325 2336	Wistar rats
+T86	Chemical 2349 2351	NF
+T87	Biological_Activity 2352 2359	induces
+R30	Associated_With Arg1:T86 Arg2:T87	
+T88	Chemical 2405 2416	DNA adducts
+T89	Metabolite 2405 2416	DNA adducts
+T90	Chemical 2471 2473	NF
+T91	Chemical 2615 2617	NF
+T92	Chemical 2642 2653	carcinogens
+T93	Biological_Activity 2642 2653	carcinogens
+T94	Biological_Activity 2654 2660	induce
+T95	Chemical 2661 2672	DNA adducts
+T96	Metabolite 2661 2672	DNA adducts
+T97	Biological_Activity 2795 2804	mutagenic
+T98	Chemical 2831 2841	DNA adduct
+T99	Metabolite 2831 2841	DNA adduct
+T100	Chemical 2853 2864	carcinogens
+T101	Metabolite 2853 2864	carcinogens
+T102	Chemical 2920 2930	DNA adduct
+T103	Metabolite 2920 2930	DNA adduct
+T104	Chemical 3071 3082	DNA adducts
+T105	Metabolite 3071 3082	DNA adducts
+T106	Chemical 3130 3132	NF
+T107	Species 3163 3169	Animal
+T108	Species 3186 3197	Wistar rats
+T109	Species 3326 3330	rats
+T110	Species 3482 3486	rats
+T111	Species 3586 3590	rats
+T112	Chemical 3614 3619	water
+T113	Species 3636 3640	rats
+T114	Chemical 3755 3757	NF
+T115	Species 3961 3965	rats
+T116	Chemical 3975 3977	NF
+T117	Chemical 4179 4189	DNA adduct
+T118	Metabolite 4179 4190	DNA adducts
+T119	Chemical 4328 4338	DNA adduct
+T120	Metabolite 4328 4338	DNA adduct
+T121	Chemical 4365 4375	DNA adduct
+T122	Metabolite 4365 4375	DNA adduct
+T123	Species 4408 4412	rats
+T124	Chemical 4433 4435	NF
+R31	Isolated_From Arg1:T122 Arg2:T123	
+T125	Chemical 4468 4478	DNA adduct
+T126	Metabolite 4468 4478	DNA adduct
+T127	Species 4546 4550	rats
+T128	Chemical 4607 4609	NF
+T129	Chemical 4647 4657	DNA adduct
+T130	Metabolite 4647 4657	DNA adduct
+T131	Chemical 4703 4705	NF
+T132	Chemical 4757 4767	DNA adduct
+T133	Metabolite 4757 4767	DNA adduct
+T134	Species 4794 4797	rat
+T135	Chemical 4833 4836	SDS
+T136	Chemical 4843 4847	EDTA
+T137	Chemical 4858 4866	Tris–HCl
+T138	Chemical 4898 4901	ice
+T139	Protein 4913 4918	RNAse
+T140	Protein 4923 4935	proteinase K
+T141	Biological_Activity 4936 4945	digestion
+T142	Chemical 4972 4978	phenol
+T143	Chemical 4983 4993	chloroform
+T144	Protein 5049 5066	phosphodiesterase
+T145	Chemical 5068 5079	DNA adducts
+T146	Metabolite 5068 5079	DNA adducts
+T147	Chemical 5097 5104	butanol
+T148	Chemical 5135 5162	tetrabutylammonium chloride
+T149	Chemical 5164 5175	DNA adducts
+T150	Metabolite 5164 5175	DNA adducts
+T151	Chemical 5199 5212	[γ-32 P  ]ATP
+T152	Protein 5216 5237	polynucleotide kinase
+T153	Chemical 5351 5355	32 P
+T154	Chemical 5387 5398	DNA adducts
+T155	Metabolite 5387 5398	DNA adducts
+T156	Chemical 5447 5451	32 P
+T157	Chemical 5480 5484	32 P
+T158	Chemical 5617 5633	ammonium formate
+T159	Chemical 5641 5652	formic acid
+T160	Chemical 5694 5706	acetonitrile
+T161	Chemical 5749 5775	phosphorylated nucleotides
+T162	Chemical 5780 5787	adducts
+T163	Chemical 5793 5797	32 P
+T164	Chemical 5840 5851	DNA adducts
+T165	Metabolite 5840 5851	DNA adducts
+T166	Chemical 5914 5928	NF-DNA adducts
+T167	Metabolite 5914 5928	NF-DNA adducts
+T168	Chemical 5967 5974	Butanol
+T169	Protein 5990 6001	nuclease P1
+T170	Chemical 6107 6121	NF-DNA adducts
+T171	Metabolite 6107 6121	NF-DNA adducts
+T172	Species 6157 6161	rats
+T173	Chemical 6188 6190	NF
+T174	Protein 6207 6218	nuclease P1
+T175	Chemical 6248 6259	nucleotides
+T176	Biological_Activity 6265 6281	dephosphorylated
+T177	Protein 6313 6324	nuclease P1
+T178	Chemical 6334 6339	ZnCI2
+T179	Chemical 6353 6356	DNA
+T180	Chemical 6438 6443	water
+T181	Chemical 6448 6452	32 P
+T182	Chemical 6507 6521	NF-DNA adducts
+T183	Metabolite 6507 6521	NF-DNA adducts
+T184	Chemical 6522 6533	DNA adducts
+T185	Metabolite 6522 6533	DNA adducts
+T186	Chemical 6572 6574	NF
+T187	Chemical 6619 6629	DNA adduct
+T188	Chemical 6641 6650	dGp-C8-AF
+T189	Chemical 6652 6662	dGp-C8-AAF
+T190	Chemical 6667 6679	dGp-N 2 -AAF
+T191	Chemical 6696 6706	DNA adduct
+T192	Chemical 6839 6850	DNA adducts
+T193	Metabolite 6839 6850	DNA adducts
+T194	Chemical 6852 6864	DNA adduct A
+T195	Metabolite 6852 6864	DNA adduct A
+T196	Chemical 6852 6862;6866 6867	DNA adduct B
+T197	Chemical 6852 6862;6869 6870	DNA adduct C
+T198	Chemical 6852 6862;6875 6876	DNA adduct D
+T199	Metabolite 6852 6862;6866 6867	DNA adduct B
+T200	Metabolite 6852 6862;6869 6870	DNA adduct C
+T201	Metabolite 6852 6862;6875 6876	DNA adduct D
+T202	Species 6892 6895	rat
+T203	Chemical 6945 6947	NF
+R32	Isolated_From Arg1:T201 Arg2:T202	
+R33	Isolated_From Arg1:T200 Arg2:T202	
+R34	Isolated_From Arg1:T199 Arg2:T202	
+R35	Isolated_From Arg1:T195 Arg2:T202	
+R36	Metabolite_Of Arg1:T201 Arg2:T203	
+R37	Metabolite_Of Arg1:T200 Arg2:T203	
+R38	Metabolite_Of Arg1:T199 Arg2:T203	
+R39	Metabolite_Of Arg1:T195 Arg2:T203	
+T204	Chemical 6987 6991	32 P
+T205	Chemical 7016 7027	DNA adducts
+T206	Metabolite 7016 7027	DNA adducts
+T207	Chemical 7127 7129	NF
+T208	Chemical 7139 7149;7151 7152	DNA adduct A
+T209	Chemical 7139 7149;7157 7158	DNA adduct B
+T210	Chemical 7227 7229	NF
+T211	Metabolite 7139 7149;7151 7152	DNA adduct A
+T212	Metabolite 7139 7149;7157 7158	DNA adduct B
+T213	Chemical 7246 7252;7254 7255	Adduct C
+T214	Chemical 7246 7252;7260 7261	Adduct D
+T215	Metabolite 7246 7252;7254 7255	Adduct C
+T216	Metabolite 7246 7252;7260 7261	Adduct D
+T217	Chemical 7347 7358	DNA adducts
+T218	Metabolite 7347 7358	DNA adducts
+T219	Chemical 7423 7425	NF
+T220	Chemical 7509 7519	DNA adduct
+T221	Metabolite 7509 7519	DNA adduct
+T222	Chemical 7559 7571	DNA adduct D
+T223	Metabolite 7559 7571	DNA adduct D
+T224	Chemical 7598 7608;7610 7611	DNA adduct A
+T225	Metabolite 7598 7608;7610 7611	DNA adduct A
+T226	Chemical 7598 7608;7616 7617	DNA adduct C
+T227	Metabolite 7598 7608;7616 7617	DNA adduct C
+T228	Chemical 7712 7722	DNA adduct
+T229	Metabolite 7712 7722	DNA adduct
+T230	Chemical 7801 7803	NF
+T231	Chemical 7844 7846	NF
+T232	Chemical 7934 7936	NF
+T233	Chemical 7870 7880;7882 7884	DNA adduct A,
+T234	Metabolite 7870 7880;7882 7883	DNA adduct A
+T235	Chemical 7870 7880;7885 7886	DNA adduct B
+T236	Metabolite 7870 7880;7885 7886	DNA adduct B
+T237	Chemical 7870 7880;7891 7892	DNA adduct C
+T238	Metabolite 7870 7880;7891 7892	DNA adduct C
+T239	Chemical 7946 7954	Adduct D
+T240	Metabolite 7946 7954	Adduct D
+T241	Chemical 7974 7984	DNA adduct
+T242	Metabolite 7974 7984	DNA adduct
+T243	Chemical 8037 8039	NF
+T244	Chemical 8114 8120;8122 8123	Adduct A
+T245	Metabolite 8114 8120;8122 8123	Adduct A
+T246	Chemical 8114 8120;8128 8129	Adduct B
+T247	Metabolite 8114 8120;8128 8129	Adduct B
+T248	Chemical 8184 8186	NF
+T249	Chemical 8280 8282	NF
+T250	Chemical 8376 8384	adduct A
+T251	Metabolite 8376 8384	adduct A
+T252	Chemical 8424 8434	DNA adduct
+T253	Metabolite 8424 8434	DNA adduct
+T254	Chemical 8510 8512	NF
+T255	Chemical 8585 8593	adduct D
+T256	Metabolite 8585 8593	adduct D
+T257	Chemical 8616 8626;8628 8629	DNA adduct A
+T258	Metabolite 8616 8626;8628 8629	DNA adduct A
+T259	Chemical 8616 8626;8634 8635	DNA adduct C
+T260	Metabolite 8616 8626;8634 8635	DNA adduct C
+T261	Chemical 8700 8711	DNA adducts
+T262	Metabolite 8700 8711	DNA adducts
+T263	Chemical 8723 8725	NF
+T264	Chemical 8727 8731	32 P
+T265	Chemical 8772 8784	DNA adduct D
+T266	Metabolite 8772 8784	DNA adduct D
+T267	Chemical 8802 8810	dG-C8-AF
+T268	Chemical 8815 8827	DNA adduct C
+T269	Metabolite 8815 8827	DNA adduct C
+T270	Chemical 8845 8856	dG-N 2 -AAF
+T271	Chemical 8866 8878	DNA adduct A
+T272	Metabolite 8866 8878	DNA adduct A
+T273	Chemical 8866 8876;8883 8884	DNA adduct B
+T274	Metabolite 8866 8876;8883 8884	DNA adduct B
+T275	Chemical 8965 8977	DNA adduct A
+T276	Metabolite 8965 8977	DNA adduct A
+T277	Chemical 8965 8975;8982 8983	DNA adduct C
+T278	Metabolite 8965 8975;8982 8983	DNA adduct C
+T279	Protein 9004 9015	nuclease P1
+T280	Chemical 9042 9049	butanol
+T281	Chemical 9081 9091;9093 9094	DNA adduct B
+T282	Metabolite 9081 9091;9093 9094	DNA adduct B
+T283	Chemical 9081 9091;9099 9100	DNA adduct D
+T284	Metabolite 9081 9091;9099 9100	DNA adduct D
+T285	Chemical 9127 9138	nuclease P1
+T286	Chemical 9182 9196	NF-DNA adducts
+T287	Metabolite 9182 9196	NF-DNA adducts
+T288	Species 9204 9207	rat
+T289	Chemical 9241 9243	NF
+T290	Chemical 9311 9321	DNA adduct
+T291	Metabolite 9311 9321	DNA adduct
+T292	Chemical 9344 9355	DNA adducts
+T293	Metabolite 9344 9355	DNA adducts
+T294	Chemical 9364 9370;9372 9373	Adduct B
+T295	Metabolite 9364 9370;9372 9373	Adduct B
+T296	Chemical 9364 9370;9378 9379	Adduct D
+T297	Metabolite 9364 9370;9378 9379	Adduct D
+T298	Chemical 9432 9434	NF
+T299	Chemical 9444 9456	DNA adduct D
+T300	Metabolite 9444 9456	DNA adduct D
+T301	Chemical 9542 9552;9554 9555	DNA adduct A
+T302	Metabolite 9542 9552;9554 9555	DNA adduct A
+T303	Chemical 9542 9552;9560 9561	DNA adduct C
+T304	Metabolite 9542 9552;9560 9561	DNA adduct C
+T305	Chemical 9585 9597	DNA adduct A
+T306	Metabolite 9585 9597	DNA adduct A
+T307	Chemical 9693 9695	NF
+T308	Species 9707 9711	rats
+T309	Biological_Activity 9712 9719	induces
+R40	Associated_With Arg1:T307 Arg2:T309	
+T310	Chemical 9776 9786	DNA adduct
+T311	Metabolite 9776 9786	DNA adduct
+T312	Chemical 9852 9862	DNA adduct
+T313	Metabolite 9852 9862	DNA adduct
+T314	Chemical 9894 9896	NF
+T315	Chemical 10022 10034	DNA adducts,
+T316	Metabolite 10022 10033	DNA adducts
+T317	Chemical 10044 10056	DNA adduct A
+T318	Metabolite 10044 10056	DNA adduct A
+T319	Chemical 10044 10054;10058 10059	DNA adduct B
+T320	Metabolite 10044 10054;10058 10059	DNA adduct B
+T321	Chemical 10044 10054;10061 10062	DNA adduct C
+T322	Metabolite 10044 10054;10061 10062	DNA adduct C
+T323	Chemical 10044 10054;10067 10068	DNA adduct D
+T324	Metabolite 10044 10054;10067 10068	DNA adduct D
+T325	Chemical 10136 10138	NF
+T326	Chemical 10172 10186	NF-DNA adducts
+T327	Metabolite 10172 10186	NF-DNA adducts
+T328	Chemical 10236 10238	NF
+T329	Chemical 10296 10302;10304 10305	adduct B
+T330	Metabolite 10296 10302;10304 10305	adduct B
+T331	Chemical 10296 10302;10307 10308	adduct C
+T332	Metabolite 10296 10302;10307 10308	adduct C
+T333	Chemical 10296 10302;10314 10315	adduct D
+T334	Metabolite 10296 10302;10314 10315	adduct D
+T335	Chemical 10373 10375	NF
+T336	Chemical 10466 10476;10478 10479	DNA adduct B
+T337	Metabolite 10466 10476;10478 10479	DNA adduct B
+T338	Chemical 10466 10476;10484 10485	DNA adduct D
+T339	Metabolite 10466 10476;10484 10485	DNA adduct D
+T340	Chemical 10503 10505	NF
+T341	Chemical 10515 10525	DNA adduct
+T342	Metabolite 10515 10525	DNA adduct
+T343	Chemical 10566 10568	NF
+T344	Chemical 10722 10724	NF
+T345	Species 10731 10735	rats
+T346	Chemical 10779 10791	DNA adduct D
+T347	Metabolite 10779 10791	DNA adduct D
+T348	Chemical 10816 10824	dG-C8-AF
+T349	Chemical 10860 10874	NF-DNA adducts
+T350	Metabolite 10860 10874	NF-DNA adducts
+T351	Chemical 10923 10925	NF
+T352	Chemical 10935 10945;10947 10948	DNA adduct A
+T353	Metabolite 10935 10945;10947 10948	DNA adduct A
+T354	Chemical 10935 10945;10953 10954	DNA adduct B
+T355	Metabolite 10935 10945;10953 10954	DNA adduct B
+T356	Metabolite 10816 10824	dG-C8-AF
+R41	Metabolite_Of Arg1:T356 Arg2:T344	
+T357	Chemical 10999 11009	DNA adduct
+T358	Metabolite 10999 11009	DNA adduct
+T359	Chemical 11018 11030	DNA adduct D
+T360	Metabolite 11018 11030	DNA adduct D
+T361	Chemical 11032 11040	dG-C8-AF
+T362	Metabolite 11032 11040	dG-C8-AF
+T363	Chemical 11150 11160	DNA adduct
+T364	Metabolite 11150 11160	DNA adduct
+T365	Chemical 11163 11175	DNA adduct D
+T366	Metabolite 11163 11175	DNA adduct D
+T367	Chemical 11177 11185	dG-C8-AF
+T368	Metabolite 11177 11185	dG-C8-AF
+T369	Chemical 11213 11215	NF
+T370	Chemical 11248 11259	DNA adducts
+T371	Metabolite 11248 11259	DNA adducts
+T372	Chemical 11270 11272	NF
+T373	Species 11333 11336	rat
+R42	Isolated_From Arg1:T356 Arg2:T345	
+T374	Chemical 11439 11449	DNA adduct
+T375	Metabolite 11439 11449	DNA adduct
+T376	Chemical 11572 11583	DNA adducts
+T377	Metabolite 11572 11583	DNA adducts
+T378	Chemical 11639 11641	NF
+T379	Species 11685 11689	rats
+T380	Chemical 11733 11735	NF
+T381	Chemical 11778 11780	NF
+T382	Chemical 11867 11869	NF
+T383	Species 11888 11892	rats
+T384	Chemical 11967 11969	NF
+T385	Chemical 12047 12057	DNA adduct
+T386	Metabolite 12047 12057	DNA adduct
+T387	Species 12089 12093	rats
+T388	Chemical 12124 12134	DNA adduct
+T389	Metabolite 12124 12134	DNA adduct
+T390	Chemical 12215 12225	DNA adduct
+T391	Metabolite 12215 12225	DNA adduct
+T392	Chemical 12281 12287;12289 12290	adduct B
+T393	Metabolite 12281 12287;12295 12296	adduct D
+T394	Chemical 12281 12287;12295 12296	adduct D
+T395	Metabolite 12281 12287;12289 12290	adduct B
+T396	Chemical 12310 12316;12318 12319	adduct A
+T397	Chemical 12310 12316;12324 12325	adduct C
+T398	Metabolite 12310 12316;12318 12319	adduct A
+T399	Metabolite 12310 12316;12324 12325	adduct C
+T400	Species 12385 12388	rat
+T401	Chemical 12701 12712	DNA adducts
+T402	Metabolite 12701 12712	DNA adducts
+T403	Chemical 12724 12726	NF
+T404	Chemical 12728 12736	adduct D
+T405	Metabolite 12728 12736	adduct D
+T406	Chemical 12760 12768	dG-C8-AF
+T407	Metabolite 12760 12768	dG-C8-AF
+T408	Chemical 12773 12784	dG-N 2 -AAF
+T409	Metabolite 12773 12784	dG-N 2 -AAF
+T410	Chemical 12800 12810;12812 12813	DNA adduct A
+T411	Chemical 12800 12810;12818 12819	DNA adduct B
+T412	Metabolite 12800 12810;12812 12813	DNA adduct A
+T413	Metabolite 12800 12810;12818 12819	DNA adduct B
+T414	Chemical 12911 12925	NF-DNA adducts
+T415	Metabolite 12911 12925	NF-DNA adducts
+T416	Chemical 12959 12969	DNA adduct
+T417	Metabolite 12959 12969	DNA adduct
+T418	Chemical 12993 13000	butanol
+T419	Chemical 13024 13039	aromatic amines
+T420	Chemical 13040 13051	DNA adducts
+T421	Metabolite 13040 13051	DNA adducts
+T422	Protein 13056 13067	nuclease P1
+T423	Chemical 13080 13096	PAHs-DNA adducts
+T424	Metabolite 13080 13096	PAHs-DNA adducts
+T425	Chemical 13112 13124	DNA adduct A
+T426	Metabolite 13112 13124	DNA adduct A
+T427	Chemical 13112 13122;13129 13130	DNA adduct C
+T428	Metabolite 13112 13122;13129 13130	DNA adduct C
+T429	Protein 13154 13165	nuclease P1
+T430	Chemical 13196 13203	butanol
+T431	Chemical 13235 13245;13247 13248	DNA adduct B
+T432	Chemical 13235 13245;13253 13254	DNA adduct D
+T433	Metabolite 13235 13245;13247 13248	DNA adduct B
+T434	Metabolite 13235 13245;13253 13254	DNA adduct D
+T435	Protein 13282 13293	nuclease P1
+T436	Chemical 13325 13337	DNA adduct A
+T437	Metabolite 13325 13337	DNA adduct A
+T438	Chemical 13358 13360	NF
+T439	Chemical 13358 13367	NF adduct
+T440	Metabolite 13358 13367	NF adduct
+T441	Chemical 13384 13394	DNA adduct
+T442	Metabolite 13384 13394	DNA adduct
+T443	Chemical 13442 13452	DNA adduct
+T444	Metabolite 13442 13452	DNA adduct
+T445	Chemical 13481 13504	oxidative NF metabolite
+T446	Metabolite 13481 13504	oxidative NF metabolite
+T447	Chemical 13491 13493	NF
+T448	Chemical 13518 13521	DNA
+T449	Chemical 13541 13548	epoxide
+T450	Chemical 13576 13590	hydroxyl group
+T451	Chemical 13613 13619	OH-NFs
+T452	Metabolite 13613 13619	OH-NFs
+T453	Biological_Activity 13631 13641	genotoxins
+R43	Associated_With Arg1:T452 Arg2:T453	
+R44	Associated_With Arg1:T451 Arg2:T453	
+T454	Chemical 13649 13656	hydroxy
+T455	Chemical 13688 13690	NF
+T456	Biological_Activity 13736 13750	detoxification
+T457	Chemical 13766 13778	DNA adduct B
+T458	Metabolite 13766 13778	DNA adduct B
+T459	Protein 13803 13814	nuclease P1
+T460	Biological_Activity 13815 13828	hydrolyzation
+T461	Chemical 13851 13860	arylamine
+T462	Chemical 13851 13871	arylamine DNA adduct
+T463	Metabolite 13851 13870	arylamine DNA adduc
+T464	Chemical 13911 13923	DNA adduct B
+T465	Metabolite 13911 13923	DNA adduct B
+T466	Chemical 13935 13944	phosphate
+T467	Chemical 13948 13960	DNA adduct A
+T468	Metabolite 13948 13960	DNA adduct A
+T469	Protein 13967 13978	nuclease P1
+T470	Chemical 13990 14002	DNA adduct B
+T471	Metabolite 13990 14002	DNA adduct B
+T472	Chemical 14019 14031	DNA adduct A
+T473	Metabolite 14019 14031	DNA adduct A
+R45	Metabolite_Of Arg1:T473 Arg2:T470	
+T474	Chemical 14039 14049	DNA adduct
+T475	Metabolite 14039 14049	DNA adduct
+T476	Chemical 14153 14163	DNA adduct
+T477	Metabolite 14153 14163	DNA adduct
+T478	Chemical 14258 14269	DNA adducts
+T479	Metabolite 14258 14269	DNA adducts
+T480	Species 14277 14280	rat
+T481	Chemical 14311 14314	AAF
+T482	Chemical 14345 14347	NF
+T483	Metabolite 14311 14314	AAF
+T484	Biological_Activity 14384 14395	metabolized
+T485	Chemical 14399 14401	AF
+T486	Metabolite 14399 14401	AF
+T487	Chemical 14406 14409	AAF
+T488	Metabolite 14406 14409	AAF
+T489	Species 14413 14417	rats
+R46	Metabolite_Of Arg1:T486 Arg2:T482	
+R47	Metabolite_Of Arg1:T488 Arg2:T482	
+R48	Isolated_From Arg1:T488 Arg2:T489	
+R49	Isolated_From Arg1:T486 Arg2:T489	
+T490	Chemical 14434 14445	DNA adducts
+T491	Metabolite 14434 14445	DNA adducts
+T492	Chemical 14453 14461	dG-C8-AF
+T493	Metabolite 14453 14461	dG-C8-AF
+T494	Chemical 14466 14477	dG-N 2 -AAF
+T495	Metabolite 14466 14477	dG-N 2 -AAF
+T496	Species 14499 14502	rat
+T497	Chemical 14517 14519	NF
+T498	Chemical 14540 14543	AAF
+T499	Metabolite 14540 14543	AAF
+R50	Metabolite_Of Arg1:T495 Arg2:T497	
+R51	Metabolite_Of Arg1:T493 Arg2:T497	
+R52	Metabolite_Of Arg1:T495 Arg2:T498	
+R53	Metabolite_Of Arg1:T493 Arg2:T498	
+T500	Species 14578 14582	rats
+T501	Chemical 14660 14663	AAF
+T502	Metabolite 14660 14663	AAF
+T503	Chemical 14711 14722	DNA adducts
+T504	Metabolite 14711 14722	DNA adducts
+T505	Chemical 14767 14781	NF-DNA adducts
+T506	Metabolite 14767 14781	NF-DNA adducts
+T507	Species 14807 14810	rat
+R54	Isolated_From Arg1:T506 Arg2:T507	
+T508	Chemical 14890 14904	NF-DNA adducts
+T509	Metabolite 14890 14904	NF-DNA adducts
+T510	Chemical 14991 14993	NF
+T511	Chemical 15014 15025	DNA adducts
+T512	Chemical 15031 15042	DNA adducts
+T513	Metabolite 15031 15042	DNA adducts
+T514	Chemical 15050 15056;15058 15059	adduct C
+T515	Chemical 15050 15056;15064 15065	adduct D
+T516	Metabolite 15050 15056;15058 15059	adduct C
+T517	Metabolite 15050 15056;15064 15065	adduct D
+T518	Chemical 15088 15099	dG-N 2 -AAF
+T519	Metabolite 15088 15099	dG-N 2 -AAF
+T520	Metabolite 15104 15112	dG-C8-AF
+T521	Chemical 15104 15112	dG-C8-AF
+T522	Chemical 15128 15138;15140 15141	DNA adduct A
+T523	Chemical 15128 15138;15146 15147	DNA adduct B
+T524	Metabolite 15128 15138;15140 15141	DNA adduct A
+T525	Metabolite 15128 15138;15146 15147	DNA adduct B
+T526	Chemical 15188 15202	NF-DNA adducts
+T527	Metabolite 15188 15202	NF-DNA adducts
+T528	Chemical 15222 15224	NF
+T529	Chemical 15234 15248	NF-DNA adducts
+T530	Metabolite 15234 15248	NF-DNA adducts
+T531	Chemical 15286 15288	NF
+T532	Chemical 15301 15311;15313 15314	DNA adduct A
+T533	Chemical 15301 15311;15319 15320	DNA adduct C
+T534	Metabolite 15301 15311;15313 15314	DNA adduct A
+T535	Metabolite 15301 15311;15319 15320	DNA adduct C
+T536	Species 15437 15441	rats
+T537	Chemical 15465 15479	NF-DNA adducts
+T538	Metabolite 15465 15479	NF-DNA adducts
+T539	Species 15508 15511	rat
+T540	Chemical 15552 15554	NF
+T541	Chemical 15603 15617	NF-DNA adducts
+T542	Chemical 15657 15659	NF
+T543	Metabolite 15603 15617	NF-DNA adducts
+T544	Biological_Activity 15668 15682	carcinogenesis
+R55	Associated_With Arg1:T542 Arg2:T544	
+T545	Metabolite 6641 6650	dGp-C8-AF
+T546	Metabolite 6652 6662	dGp-C8-AAF
+T547	Metabolite 6667 6679	dGp-N 2 -AAF

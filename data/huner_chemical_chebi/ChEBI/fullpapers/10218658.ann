@@ -1,0 +1,659 @@
+T1	Biological_Activity 17 27	metabolism
+T2	Chemical 29 40	lipoic acid
+T3	Chemical 42 44	LA
+T4	Chemical 46 63	6,8-thioctic acid
+T5	Chemical 117 130	lysyl residue
+T6	Chemical 154 165	α-keto acid
+T7	Protein 154 179	α-keto acid dehydrogenase
+T8	Protein 203 225	pyruvate dehydrogenase
+T9	Protein 245 274	α-ketoglutarate dehydrogenase
+T10	Protein 292 332	branched-chain α-keto acid dehydrogenase
+T11	Protein 354 363	H protein
+T12	Protein 371 394	glycine cleavage system
+T13	Chemical 452 464	carbohydrate
+T14	Chemical 469 480	amino acids
+T15	Biological_Activity 514 524	metabolism
+T16	Protein 612 642	dihydrolipoamide dehydrogenase
+T17	Protein 644 646	E3
+T18	Protein 702 704	E3
+T19	Chemical 721 737	dihydrolipoamide
+T20	Chemical 799 808	lipoamide
+T21	Chemical 813 817	NADH
+T22	Chemical 819 821	LA
+T23	Protein 877 879	E3
+T24	Biological_Activity 904 916	anti-oxidant
+T25	Chemical 951 953	LA
+R1	Associated_With Arg1:T25 Arg2:T24	
+T26	Chemical 1078 1080	LA
+T27	Species 1098 1106	patients
+T28	Chemical 1187 1189	LA
+T29	Biological_Activity 1317 1327	metabolism
+R2	Associated_With Arg1:T28 Arg2:T29	
+T30	Chemical 1369 1376	glucose
+T31	Chemical 1447 1449	LA
+T32	Chemical 1489 1504	calcium oxalate
+T33	Biological_Activity 1468 1478	preventive
+R3	Associated_With Arg1:T31 Arg2:T33	
+T34	Chemical 1586 1588	LA
+T35	Biological_Activity 1667 1690	free-radical scavenging
+T36	Chemical 1699 1717	dihydrolipoic acid
+R4	Associated_With Arg1:T36 Arg2:T35	
+T37	Chemical 1763 1765	LA
+T38	Chemical 1719 1723	DHLA
+T39	Metabolite 1699 1717	dihydrolipoic acid
+T40	Metabolite 1719 1723	DHLA
+T41	Metabolite 29 40	lipoic acid
+T42	Metabolite 42 44	LA
+T43	Metabolite 46 63	6,8-thioctic acid
+T44	Metabolite 819 821	LA
+T45	Metabolite 951 953	LA
+R5	Associated_With Arg1:T45 Arg2:T24	
+T46	Metabolite 1078 1080	LA
+T47	Metabolite 1187 1189	LA
+R6	Associated_With Arg1:T47 Arg2:T29	
+T48	Metabolite 1447 1449	LA
+R7	Associated_With Arg1:T48 Arg2:T33	
+T49	Metabolite 1586 1588	LA
+T50	Metabolite 1763 1765	LA
+R8	Metabolite_Of Arg1:T40 Arg2:T37	
+R9	Metabolite_Of Arg1:T39 Arg2:T37	
+T51	Metabolite 1789 1793	DHLA
+T52	Chemical 1789 1793	DHLA
+T53	Biological_Activity 1794 1803	prevented
+R10	Associated_With Arg1:T51 Arg2:T53	
+R11	Associated_With Arg1:T52 Arg2:T53	
+T54	Protein 1835 1859	low density lipoproteins
+T55	Species 1896 1899	rat
+T56	Chemical 1932 1936	R-LA
+T57	Chemical 2022 2030	pyruvate
+T58	Biological_Activity 1964 1975	antioxidant
+R12	Associated_With Arg1:T56 Arg2:T58	
+T59	Biological_Activity 2031 2041	metabolism
+T60	Protein 2046 2049	PDC
+T61	Chemical 2073 2106	1,2-diselenolane-3-pentanoic acid
+T62	Chemical 2108 2113	Se-LA
+T63	Chemical 2115 2135	diseleno lipoic acid
+T64	Chemical 2154 2156	LA
+T65	Metabolite 2154 2156	LA
+T66	Chemical 2170 2182	sulfur atoms
+T67	Chemical 2204 2218	selenium atoms
+T68	Biological_Activity 2254 2265	antioxidant
+R13	Associated_With Arg1:T61 Arg2:T68	
+R14	Associated_With Arg1:T62 Arg2:T68	
+R15	Associated_With Arg1:T63 Arg2:T68	
+T69	Chemical 2281 2283	LA
+T70	Metabolite 2281 2283	LA
+T71	Chemical 2288 2293	Se-LA
+T72	Chemical 2349 2363	selenium atoms
+T73	Chemical 2371 2385	1,2-dithiolane
+T74	Chemical 2394 2399	Se-LA
+T75	Biological_Activity 2434 2446	anti-oxidant
+T76	Chemical 2578 2583	Se-LA
+T77	Protein 2613 2620	protein
+T78	Species 2647 2652	human
+T79	Protein 2647 2676	human low density lipoprotein
+T80	Chemical 2724 2726	LA
+T81	Metabolite 2724 2726	LA
+T82	Chemical 2753 2780	lipid peroxidation products
+T83	Biological_Activity 2591 2602	antioxidant
+R16	Associated_With Arg1:T76 Arg2:T83	
+R17	Associated_With Arg1:T81 Arg2:T83	
+R18	Associated_With Arg1:T80 Arg2:T83	
+T84	Chemical 2800 2831	both enantiomers of lipoic acid
+T85	Chemical 2820 2835;2843 2847;2848 2849	lipoic acid (R- form )
+T86	Chemical 2820 2833;2840 2847;2848 2849	lipoic acid ( S- form )
+T87	Chemical 2854 2865	lipoic acid
+T88	Chemical 2854 2876	lipoic acid homologues
+T89	Metabolite 2854 2865	lipoic acid
+T90	Chemical 2878 2910	RS-1,2-dithiolane-3-caproic acid
+T91	Chemical 2912 2932	RS-bisnorlipoic acid
+T92	Chemical 2937 2959	RS-tetranorlipoic acid
+T93	Protein 3008 3010	E3
+T94	Chemical 3049 3063	LA enantiomers
+T95	Chemical 3049 3051;3074 3081	LA analogs
+T96	Protein 3103 3106	PDC
+T97	Chemical 3240 3245	Se-LA
+T98	Protein 3249 3252	PDC
+T99	Chemical 3317 3322	Se-LA
+T100	Chemical 3337 3339;3356 3358	R- LA
+T101	Chemical 3344 3346;3356 3358	S- LA
+T102	Species 3390 3399	mammalian
+T103	Protein 3400 3403	PDC
+T104	Chemical 3472 3480	pyruvate
+T105	Species 3547 3554	Porcine
+T106	Protein 3561 3564	PDC
+T107	Chemical 3569 3581	DL-lipoamide
+T108	Chemical 3642 3646	R-LA
+T109	Chemical 3648 3652	S-LA
+T110	Chemical 3658 3663	Se-LA
+T111	Chemical 3724 3743	DL-Dihydrolipoamide
+T112	Chemical 3788 3800	DL-lipoamide
+T113	Chemical 3806 3811	NaBH4
+T114	Chemical 3819 3837	[1-14 C]Acetyl-CoA
+T115	Chemical 3842 3858	[1-14 C]pyruvate
+T116	Protein 3976 3979	PDC
+T117	Chemical 4032 4043	lipoic acid
+T118	Chemical 4061 4065	R-LA
+T119	Chemical 4067 4071	S-LA
+T120	Chemical 4077 4082	Se-LA
+T121	Chemical 4158 4165	ethanol
+T122	Chemical 4221 4237	lipoic compounds
+T123	Chemical 4299 4306	ethanol
+T124	Protein 4316 4323	enzymes
+T125	Protein 4351 4357	enzyme
+T126	Species 4474 4481	Porcine
+T127	Protein 4488 4491	PDC
+T128	Chemical 4530 4536	14 CO2
+T129	Chemical 4552 4568	[1-14 C]pyruvate
+T130	Metabolite 4530 4536	14 CO2
+R19	Metabolite_Of Arg1:T130 Arg2:T129	
+T131	Chemical 4655 4671	[1-14 C]pyruvate
+T132	Chemical 4696 4718	thiamine pyrophosphate
+T133	Chemical 4728 4738	coenzyme A
+T134	Chemical 4748 4752	NAD+
+T135	Chemical 4770 4786	lipoic compounds
+T136	Species 4848 4855	porcine
+T137	Protein 4862 4865	PDC
+T138	Chemical 4904 4924	trichloroacetic acid
+T139	Chemical 4942 4950	pyruvate
+T140	Chemical 4991 4997	14 CO2
+T141	Chemical 5025 5047	benzothonium hydroxide
+T142	Protein 5256 5262	enzyme
+T143	Protein 5297 5337	Recombinant human pyruvate dehydrogenase
+T144	Species 5309 5314	human
+T145	Protein 5315 5337	pyruvate dehydrogenase
+T146	Protein 5339 5341	E1
+T147	Protein 5429 5431	E1
+T148	Chemical 5485 5514	2,6-dichlorophenol-indophenol
+T149	Chemical 5582 5598	lipoic compounds
+T150	Chemical 5623 5631	pyruvate
+T151	Chemical 5781 5819	reduced 2,6-dichlorophenol-indo-phenol
+T152	Protein 5906 5940	dihydrolipoamide acetyltransferase
+T153	Protein 5942 5944	E2
+T154	Chemical 6037 6041	MOPS
+T155	Chemical 6058 6072	dithiothreitol
+T156	Chemical 6082 6086	NADH
+T157	Chemical 6096 6115	DL-dihydrolipoamide
+T158	Chemical 6127 6143	lipoic compounds
+T159	Species 6165 6172	porcine
+T160	Protein 6179 6182	PDC
+T161	Chemical 6266 6284	[1-14 C]acetyl-CoA
+T162	Chemical 6404 6411	benzene
+T163	Protein 6521 6527	enzyme
+T164	Species 6565 6570	human
+T165	Protein 6553 6573	Recombinant human E3
+T166	Species 6595 6622	Escherichia coli  XL-1 Blue
+T167	Species 6723 6728	human
+T168	Protein 6824 6826	E3
+T169	Chemical 6978 7004	potassium phosphate buffer
+T170	Chemical 7019 7038	DL-dihydrolipoamide
+T171	Chemical 7045 7049	NAD+
+T172	Chemical 7063 7067	EDTA
+T173	Chemical 7107 7133	potassium phosphate buffer
+T174	Chemical 7148 7157	lipoamide
+T175	Chemical 7186 7202	lipoic compounds
+T176	Chemical 7212 7216	NAD+
+T177	Chemical 7229 7233	NADH
+T178	Chemical 7235 7239	NAD+
+T179	Protein 7356 7358	E3
+T180	Chemical 7373 7377	NADH
+T181	Protein 7524 7526	E3
+T182	Chemical 7582 7598	lipoic compounds
+T183	Chemical 7600 7604	R-LA
+T184	Chemical 7619 7623	S-LA
+T185	Chemical 7635 7640	Se-LA
+T186	Chemical 7657 7676	DL-dihydrolipoamide
+T187	Protein 7769 7775	enzyme
+T188	Chemical 7848 7856	Pyruvate
+T189	Chemical 7895 7911	[1-14 C]pyruvate
+T190	Species 8076 8080	calf
+T191	Protein 8261 8279	phosphorylated PDC
+T192	Chemical 8374 8393	dichloroacetic acid
+T193	Chemical 8497 8522	phosphate buffered saline
+T194	Chemical 8539 8558	dichloroacetic acid
+T195	Protein 8573 8583	E1 kinases
+T196	Biological_Activity 8560 8569	inhibitor
+R20	Associated_With Arg1:T194 Arg2:T196	
+T197	Species 8632 8657	phosphate buffered saline
+T198	Chemical 8674 8693	dichloroacetic acid
+T199	Chemical 8830 8846	lipoic compounds
+T200	Chemical 8903 8919	[1-14 C]pyruvate
+T201	Chemical 9006 9014	pyruvate
+T202	Chemical 9088 9108	trichloroacetic acid
+T203	Chemical 9120 9128	pyruvate
+T204	Chemical 9176 9182	14 CO2
+T205	Chemical 9195 9217	benzothonium hydroxide
+T206	Chemical 9314 9320	14 CO2
+T207	Chemical 9469 9484	lipoic compound
+T208	Chemical 9520 9528	Pyruvate
+T209	Protein 9544 9564	pyruvate carboxylase
+T210	Chemical 9597 9615	tricarboxylic acid
+T211	Chemical 9668 9676	pyruvate
+T212	Chemical 9735 9750	n-octanoic acid
+T213	Chemical 9762 9781	dichloroacetic acid
+T214	Chemical 9850 9865	n-octanoic acid
+T215	Protein 9888 9890	E1
+T216	Biological_Activity 9891 9897	kinase
+T217	Protein 9969 9972	PDC
+T218	Chemical 10015 10032	enantiomers of LA
+T219	Chemical 10030 10032	LA
+T220	Chemical 10034 10038	R-LA
+T221	Chemical 10043 10047	S-LA
+T222	Protein 10113 10116	PDC
+T223	Species 10122 10131	mammalian
+T224	Species 10136 10147	prokaryotic
+T225	Chemical 10207 10211	R-LA
+T226	Chemical 10216 10220	S-LA
+T227	Chemical 10257 10262	Se-LA
+T228	Species 10300 10307	porcine
+T229	Protein 10314 10317	PDC
+T230	Protein 10300 10317	porcine heart PDC
+T231	Chemical 10349 10353	R-LA
+T232	Chemical 10358 10362	S-LA
+T233	Biological_Activity 10331 10340	inhibited
+R21	Associated_With Arg1:T231 Arg2:T233	
+R22	Associated_With Arg1:T232 Arg2:T233	
+T234	Chemical 10432 10434	LA
+T235	Chemical 10463 10468	Se-LA
+T236	Protein 10478 10481	PDC
+T237	Biological_Activity 10482 10492	inhibition
+R23	Associated_With Arg1:T235 Arg2:T237	
+T238	Chemical 10546 10551	Se-LA
+T239	Chemical 10608 10610	LA
+T240	Biological_Activity 10620 10630	inhibition
+T241	Protein 10642 10645	PDC
+R24	Associated_With Arg1:T239 Arg2:T240	
+T242	Biological_Activity 10675 10685	inhibition
+T243	Chemical 10753 10769	lipoic compounds
+T244	Species 10819 10828	mammalian
+T245	Protein 10829 10832	PDC
+T246	Protein 10863 10865	E3
+T247	Chemical 10912 10931	DL-dihydrolipoamide
+T248	Chemical 10968 10984	lipoic compounds
+T249	Protein 11012 11032	recombinant human E3
+T250	Species 11024 11029	human
+T251	Protein 11030 11032	E3
+T252	Chemical 11060 11065	Se-LA
+T253	Chemical 11135 11139	R-LA
+T254	Chemical 11144 11148	S-LA
+T255	Protein 11228 11230	E3
+T256	Protein 11329 11331	E3
+T257	Chemical 11344 11348	R-LA
+T258	Chemical 11353 11357	S-LA
+T259	Protein 11448 11451	PDC
+T260	Biological_Activity 11542 11552	inhibition
+T261	Chemical 11566 11570	NADH
+T262	Protein 11670 11672	E3
+T263	Chemical 11698 11723	oxidized lipoic compounds
+T264	Protein 11752 11754	E3
+T265	Chemical 11785 11789	R-LA
+T266	Chemical 11791 11795	S-LA
+T267	Chemical 11797 11802	Se-LA
+T268	Chemical 11808 11820	DL-lipoamide
+T269	Protein 11898 11900	E3
+T270	Chemical 11941 11945	R-LA
+T271	Metabolite 11941 11945	R-LA
+T272	Chemical 11976 11980	S-LA
+T273	Chemical 12058 12063	Se-LA
+T274	Metabolite 11785 11789	R-LA
+T275	Metabolite 11344 11348	R-LA
+T276	Metabolite 11135 11139	R-LA
+T277	Metabolite 10349 10353	R-LA
+R25	Associated_With Arg1:T277 Arg2:T233	
+T278	Metabolite 10207 10211	R-LA
+T279	Metabolite 10034 10038	R-LA
+T280	Chemical 12087 12091	R-LA
+T281	Metabolite 12087 12091	R-LA
+T282	Chemical 12128 12133	Se-LA
+T283	Chemical 12160 12164	R-LA
+T284	Metabolite 12160 12164	R-LA
+T285	Chemical 12168 12172	S-LA
+T286	Chemical 12187 12199	DL-lipoamide
+T287	Protein 12256 12258	E3
+T288	Chemical 12327 12339	DL-lipoamide
+T289	Chemical 12356 12360	S-LA
+T290	Chemical 12398 12414	lipoic compounds
+T291	Chemical 12458 12462	NADH
+T292	Protein 12527 12530	PDC
+T293	Chemical 12578 12582	R-LA
+T294	Metabolite 12578 12582	R-LA
+T295	Chemical 12587 12591	S-LA
+T296	Protein 12603 12605	E1
+T297	Protein 12678 12680	E1
+T298	Chemical 12721 12729	pyruvate
+T299	Chemical 12791 12807	lipoic compounds
+T300	Chemical 12809 12813	R-LA
+T301	Metabolite 12809 12813	R-LA
+T302	Chemical 12818 12822	S-LA
+T303	Protein 12852 12854	E1
+T304	Chemical 12942 12947	Se-LA
+T305	Protein 12958 12960	E1
+T306	Biological_Activity 12948 12957	inhibited
+R26	Associated_With Arg1:T304 Arg2:T306	
+T307	Chemical 12999 13007	pyruvate
+T308	Chemical 13054 13070	lipoic compounds
+T309	Protein 13092 13094	E1
+T310	Chemical 13121 13129	pyruvate
+T311	Biological_Activity 13180 13197	inhibitory effect
+T312	Chemical 13201 13206	Se-LA
+R27	Associated_With Arg1:T312 Arg2:T311	
+T313	Protein 13210 13212	E1
+T314	Chemical 13315 13331	lipoic compounds
+T315	Protein 13335 13337	E2
+T316	Species 13364 13371	porcine
+T317	Protein 13364 13380	porcine heart E2
+T318	Protein 13378 13380	E2
+T319	Chemical 13425 13443	[1-14 C]acetyl-CoA
+T320	Chemical 13448 13464	dihydrolipoamide
+T321	Chemical 13485 13489	R-LA
+T322	Chemical 13494 13498	S-LA
+T323	Biological_Activity 13541 13559	inhibitory effects
+T324	Protein 13567 13569	E2
+R28	Associated_With Arg1:T321 Arg2:T323	
+R29	Associated_With Arg1:T322 Arg2:T323	
+T325	Chemical 13613 13617	R-LA
+T326	Chemical 13621 13625	S-LA
+T327	Protein 13632 13634	E2
+T328	Biological_Activity 13648 13657	inhibited
+R30	Associated_With Arg1:T325 Arg2:T328	
+R31	Associated_With Arg1:T326 Arg2:T328	
+T329	Chemical 13746 13765	DL-dihydrolipoamide
+T330	Chemical 13830 13845	lipoic compound
+T331	Chemical 13910 13917	benzene
+T332	Chemical 13957 13976	DL-dihydrolipoamide
+T333	Biological_Activity 13992 14002	inhibition
+T334	Protein 14006 14008	E2
+T335	Chemical 14021 14025	R-LA
+T336	Chemical 14029 14033	S-LA
+T337	Protein 14113 14116	PDC
+T338	Biological_Activity 14099 14109	inhibition
+T339	Chemical 14129 14133	R-LA
+T340	Chemical 14137 14141	S-LA
+R32	Associated_With Arg1:T339 Arg2:T338	
+R33	Associated_With Arg1:T340 Arg2:T338	
+R34	Associated_With Arg1:T335 Arg2:T333	
+R35	Associated_With Arg1:T336 Arg2:T333	
+T341	Chemical 14162 14167	Se-LA
+T342	Species 14187 14204	inhibitory effect
+T343	Protein 14208 14210	E2
+R36	Isolated_From Arg1:T341 Arg2:T342	
+T344	Protein 14289 14291	E2
+T345	Biological_Activity 14380 14398	inhibitory effects
+T346	Chemical 14406 14422	lipoic compounds
+T347	Protein 14444 14447	PDC
+T348	Biological_Activity 14494 14512	inhibitory effects
+T349	Chemical 14516 14532	lipoic compounds
+T350	Protein 14545 14548	PDC
+T351	Chemical 14634 14642	pyruvate
+T352	Protein 14663 14666	PDC
+T353	Biological_Activity 14688 14698	inhibition
+T354	Chemical 14702 14710	pyruvate
+T355	Chemical 14740 14742	LA
+T356	Chemical 14766 14778	carbohydrate
+T357	Biological_Activity 14779 14789	metabolism
+T358	Chemical 14832 14838	14 CO2
+T359	Chemical 14845 14861	[1-14 C]pyruvate
+T360	Metabolite 14832 14838	14 CO2
+R37	Metabolite_Of Arg1:T360 Arg2:T359	
+T361	Protein 14907 14910	PDC
+T362	Chemical 14939 14951	oxaloacetate
+T363	Protein 14955 14975	pyruvate carboxylase
+T364	Biological_Activity 14995 15005	metabolism
+T365	Chemical 15009 15021	oxaloacetate
+T366	Chemical 15030 15048	tricarboxylic acid
+T367	Chemical 15124 15140	lipoic compounds
+T368	Chemical 15183 15189	14 CO2
+T369	Metabolite 15183 15189	14 CO2
+T370	Chemical 15196 15212	[1-14 C]pyruvate
+R38	Metabolite_Of Arg1:T369 Arg2:T370	
+T371	Protein 15217 15220	PDC
+T372	Chemical 15257 15265	pyruvate
+T373	Chemical 15296 15302	14 CO2
+T374	Biological_Activity 15324 15334	metabolism
+T375	Chemical 15338 15346	pyruvate
+T376	Protein 15351 15371	pyruvate carboxylase
+T377	Chemical 15380 15398	tricarboxylic acid
+T378	Chemical 15466 15474	Pyruvate
+T379	Chemical 15558 15562	R-LA
+T380	Chemical 15670 15678	pyruvate
+T381	Chemical 15738 15742	S-LA
+T382	Chemical 15746 15765	DL-dihydrolipoamide
+T383	Chemical 15793 15801	pyruvate
+T384	Chemical 15860 15865	Se-LA
+T385	Biological_Activity 15934 15952	inhibitory effects
+T386	Chemical 15961 15963;15985 15996	R- lipoic acid
+T387	Chemical 15968 15970;15985 15996	S- lipoic acid
+T388	Protein 16024 16027	PDC
+T389	Species 16033 16040	porcine
+T390	Protein 16115 16118	PDC
+T391	Species 16124 16130	bovine
+R39	Associated_With Arg1:T386 Arg2:T385	
+R40	Associated_With Arg1:T387 Arg2:T385	
+T392	Chemical 16249 16253	R-LA
+T393	Chemical 16257 16261	S-LA
+T394	Species 16272 16275	pig
+T395	Protein 16282 16285	PDC
+T396	Protein 16272 16285	pig heart PDC
+T397	Biological_Activity 16262 16271	inhibited
+R41	Associated_With Arg1:T392 Arg2:T397	
+R42	Associated_With Arg1:T393 Arg2:T397	
+T398	Biological_Activity 16349 16359	inhibition
+T399	Protein 16376 16379	PDC
+T400	Chemical 16391 16395	R-LA
+T401	Chemical 16400 16404	S-LA
+T402	Metabolite 13613 13617	R-LA
+T403	Metabolite 13485 13489	R-LA
+T404	Metabolite 14129 14133	R-LA
+T405	Metabolite 14021 14025	R-LA
+T406	Metabolite 15558 15562	R-LA
+T407	Metabolite 15961 15963;15985 15996	R- lipoic acid
+T408	Metabolite 16249 16253	R-LA
+R43	Associated_With Arg1:T408 Arg2:T397	
+T409	Metabolite 16391 16395	R-LA
+R44	Associated_With Arg1:T409 Arg2:T398	
+R45	Associated_With Arg1:T400 Arg2:T398	
+R46	Associated_With Arg1:T401 Arg2:T398	
+T410	Species 16363 16369	bovine
+T411	Protein 16363 16379	bovine heart PDC
+T412	Chemical 16532 16534	LA
+T413	Protein 16564 16567	PDC
+T414	Species 16573 16576	rat
+T415	Protein 16691 16694	PDC
+T416	Species 16709 16716	E. coli
+T417	Chemical 16512 16534	both enantiomers of LA
+T418	Biological_Activity 16588 16597	activated
+R47	Associated_With Arg1:T417 Arg2:T418	
+T419	Chemical 16770 16774	R-LA
+T420	Metabolite 16770 16774	R-LA
+T421	Chemical 16779 16783	S-LA
+T422	Protein 16791 16794	PDC
+T423	Protein 16907 16913	enzyme
+T424	Protein 17146 17149	PDC
+T425	Species 17264 17271	porcine
+T426	Protein 17264 17281	porcine heart PDC
+T427	Protein 17278 17281	PDC
+T428	Protein 17300 17303	PDC
+T429	Chemical 17394 17396	LA
+T430	Protein 17420 17422	E1
+T431	Protein 17427 17429	E3
+T432	Protein 17444 17447	PDC
+T433	Chemical 17491 17513	lipoic acid enantiomer
+T434	Chemical 17491 17502	lipoic acid
+T435	Protein 17522 17524	E2
+T436	Protein 17538 17541	PDC
+T437	Species 17785 17794	mammalian
+T438	Protein 17795 17797	E3
+T439	Chemical 17844 17848	NADH
+T440	Chemical 17950 17954	S-LA
+T441	Chemical 17993 17997	R-LA
+T442	Metabolite 17993 17997	R-LA
+T443	Chemical 18121 18125	S-LA
+T444	Chemical 18130 18134	R-LA
+T445	Metabolite 18130 18134	R-LA
+T446	Chemical 18215 18219	R-LA
+T447	Metabolite 18215 18219	R-LA
+T448	Chemical 18243 18247	S-LA
+T449	Protein 18359 18361	E3
+T450	Species 18367 18372	human
+T451	Chemical 18417 18421	R-LA
+T452	Metabolite 18417 18421	R-LA
+T453	Chemical 18426 18430	S-LA
+T454	Chemical 18551 18555	R-LA
+T455	Metabolite 18551 18555	R-LA
+T456	Chemical 18560 18564	S-LA
+T457	Species 18618 18623	human
+T458	Protein 18618 18632	human liver E3
+T459	Protein 18630 18632	E3
+T460	Chemical 18687 18691	R-LA
+T461	Metabolite 18687 18691	R-LA
+T462	Chemical 18707 18711	S-LA
+T463	Chemical 18753 18757	R-LA
+T464	Protein 18753 18757	R-LA
+T465	Protein 18782 18788	PDC-E3
+T466	Species 18794 18799	human
+T467	Protein 18842 18848	PDC-E2
+T468	Chemical 18866 18870	R-LA
+T469	Metabolite 18866 18870	R-LA
+T470	Chemical 18875 18879	S-LA
+T471	Biological_Activity 18828 18838	inhibition
+T472	Biological_Activity 18923 18933	inhibition
+T473	Protein 18937 18940	PDC
+R48	Associated_With Arg1:T469 Arg2:T471	
+R49	Associated_With Arg1:T468 Arg2:T471	
+R50	Associated_With Arg1:T470 Arg2:T471	
+T474	Chemical 18982 18984	LA
+T475	Chemical 19126 19137	lipoic acid
+T476	Chemical 19289 19291	LA
+T477	Protein 19340 19342	E2
+T478	Chemical 19442 19444	LA
+T479	Chemical 19459 19477	dihydrolipoic acid
+T480	Protein 19495 19497	E3
+T481	Protein 19502 19523	glutathione reductase
+T482	Chemical 19542 19560	dihydrolipoic acid
+T483	Metabolite 19459 19477	dihydrolipoic acid
+R51	Metabolite_Of Arg1:T483 Arg2:T478	
+T484	Metabolite 19542 19560	dihydrolipoic acid
+T485	Chemical 19630 19634	R-LA
+T486	Metabolite 19630 19634	R-LA
+T487	Chemical 19639 19643	S-LA
+T488	Protein 19689 19691	E1
+T489	Protein 19743 19746	PDC
+T490	Protein 19793 19795	E2
+T491	Protein 19800 19802	E3
+T492	Biological_Activity 19779 19789	inhibition
+T493	Protein 19877 19880	PDC
+T494	Chemical 19964 19969	Se-LA
+T495	Biological_Activity 19979 19989	inhibition
+T496	Protein 19993 19996	PDC
+T497	Chemical 20032 20034	LA
+R52	Associated_With Arg1:T494 Arg2:T495	
+R53	Associated_With Arg1:T497 Arg2:T495	
+R54	Binds_With Arg1:T494 Arg2:T496	
+R55	Binds_With Arg1:T497 Arg2:T496	
+T498	Biological_Activity 20036 20046	Inhibition
+T499	Protein 20050 20053	PDC
+T500	Chemical 20097 20102	Se-LA
+T501	Chemical 20115 20119	R-LA
+T502	Metabolite 20115 20119	R-LA
+T503	Chemical 20123 20127	S-LA
+R56	Associated_With Arg1:T500 Arg2:T498	
+R57	Associated_With Arg1:T502 Arg2:T498	
+R58	Associated_With Arg1:T501 Arg2:T498	
+R59	Associated_With Arg1:T503 Arg2:T498	
+T504	Chemical 20148 20153	Se-LA
+T505	Chemical 20174 20178	R-LA
+T506	Metabolite 20174 20178	R-LA
+T507	Chemical 20183 20187	S-LA
+T508	Biological_Activity 20195 20205	inhibition
+T509	Protein 20209 20211	E3
+R60	Associated_With Arg1:T504 Arg2:T508	
+R61	Associated_With Arg1:T506 Arg2:T508	
+R62	Associated_With Arg1:T505 Arg2:T508	
+R63	Associated_With Arg1:T507 Arg2:T508	
+T510	Protein 20270 20272	E2
+T511	Biological_Activity 20260 20269	inhibited
+T512	Chemical 20318 20322	R-LA
+T513	Metabolite 20318 20322	R-LA
+T514	Chemical 20327 20331	S-LA
+T515	Protein 20349 20351	E1
+T516	Protein 20409 20412	PDC
+T517	Biological_Activity 20431 20441	inhibition
+T518	Chemical 20461 20465	NADH
+T519	Protein 20507 20509	E1
+T520	Chemical 20535 20540	Se-LA
+T521	Biological_Activity 20541 20550	inhibited
+R64	Associated_With Arg1:T520 Arg2:T521	
+T522	Protein 20571 20573	E1
+T523	Biological_Activity 20613 20623	inhibition
+T524	Chemical 20627 20632	Se-LA
+R65	Associated_With Arg1:T524 Arg2:T523	
+T525	Biological_Activity 20670 20680	inhibition
+T526	Protein 20708 20711	PDC
+T527	Chemical 20739 20744	Se-LA
+T528	Chemical 20749 20751;20757 20759	R- LA
+T529	Metabolite 20749 20751;20757 20759	R- LA
+T530	Chemical 20755 20759	S-LA
+T531	Protein 20791 20794	PDC
+T532	Chemical 20802 20807	Se-LA
+T533	Protein 20866 20868	E3
+T534	Chemical 20910 20926	lipoic compounds
+T535	Protein 20934 20936	E3
+T536	Chemical 21012 21024	DL-lipoamide
+T537	Protein 21052 21054	E3
+T538	Chemical 21186 21188;21204 21213	D- lipoamide
+T539	Chemical 21193 21195;21204 21213	L- lipoamide
+T540	Chemical 21300 21304	R-LA
+T541	Chemical 21364 21376	DL-lipoamide
+T542	Chemical 21410 21426	lipoic compounds
+T543	Chemical 21443 21455	DL-lipoamide
+T544	Protein 21511 21513	E3
+T545	Chemical 21524 21540	lipoic compounds
+T546	Chemical 21587 21603	lipoic compounds
+T547	Chemical 21607 21615	pyruvate
+T548	Protein 21672 21675	PDC
+T549	Chemical 21763 21779	lipoic compounds
+T550	Chemical 21813 21817	R-LA
+T551	Metabolite 21813 21817	R-LA
+T552	Chemical 21944 21948	R-LA
+T553	Metabolite 21944 21948	R-LA
+T554	Chemical 22003 22018	R,S-lipoic acid
+T555	Chemical 22071 22074	CoA
+T556	Chemical 22095 22105	lipoyl-CoA
+T557	Chemical 22144 22151	lactate
+T558	Chemical 22156 22164	pyruvate
+T559	Species 22168 22171	rat
+T560	Chemical 22294 22302	pyruvate
+T561	Chemical 22360 22363	CoA
+T562	Chemical 22391 22403	lipoic acids
+T563	Chemical 22444 22448	R-LA
+T564	Metabolite 22444 22448	R-LA
+T565	Chemical 22453 22457	S-LA
+T566	Species 22477 22486	mammalian
+T567	Protein 22487 22490	PDC
+T568	Chemical 22523 22528	Se-LA
+T569	Chemical 22536 22538	LA
+T570	Protein 22601 22603	E1
+T571	Protein 22653 22656	PDC
+T572	Chemical 22658 22662	R-LA
+T573	Metabolite 22658 22662	R-LA
+T574	Chemical 22745 22753	pyruvate
+T575	Biological_Activity 22754 22764	metabolism
+T576	Protein 22769 22772	PDC
+T577	Protein 22836 22838	E3
+T578	Chemical 22924 22935	oxidized LA
+T579	Chemical 22939 22943	DHLA
+T580	Biological_Activity 23003 23015	anti-oxidant
+R66	Associated_With Arg1:T579 Arg2:T580	
+T581	Chemical 23093 23100	glucose
+T582	Species 23116 23125	mammalian
+T583	Chemical 23153 23164	lipoic acid
+T584	Chemical 23219 23223	S-LA
+T585	Chemical 23225 23229	R-LA
+T586	Metabolite 23225 23229	R-LA
+T587	Protein 23256 23258	E3
+T588	Chemical 23296 23304	pyruvate
+T589	Chemical 23371 23375	R-LA
+T590	Metabolite 23371 23375	R-LA
+T591	Chemical 23406 23408;23415 23417	R- LA
+T592	Metabolite 23406 23408;23415 23417	R- LA
+T593	Chemical 23413 23417	S-LA

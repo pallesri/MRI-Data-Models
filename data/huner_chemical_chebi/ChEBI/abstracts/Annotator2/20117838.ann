@@ -1,0 +1,18 @@
+T1	Species 0 7	Daphnia
+T2	Species 486 494	daphnids
+T3	Chemical 541 568	poly  aromatic hydrocarbons
+#1	AnnotatorNotes T3	Chemical class
+T4	Chemical 570 576	pyrene
+T5	Chemical 581 593	fluoranthene
+T6	Species 782 795	Daphnia magna
+T7	Spectral_Data 1263 1302	Nuclear Magnetic Resonance Spectroscopy
+T10	Biological_Activity 1602 1612	metabolism
+T11	Species 1751 1763	invertebrate
+T8	Spectral_Data 1307 1310;1315 1354	Gas Liquid Chromatography Mass Spectrometry
+R1	Associated_With Arg1:T5 Arg2:T7	
+R2	Associated_With Arg1:T5 Arg2:T8	
+R3	Associated_With Arg1:T4 Arg2:T8	
+R4	Associated_With Arg1:T4 Arg2:T7	
+R5	Associated_With Arg1:T3 Arg2:T7	
+R6	Associated_With Arg1:T3 Arg2:T8	
+T9	Chemical 1591 1601	aminosugar

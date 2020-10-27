@@ -1,0 +1,208 @@
+T1	Chemical 1 5	MDMA
+T2	Chemical 11 18	Ecstasy
+T3	Chemical 25 59	3,4-methylenedioxyethylamphetamine
+T4	Chemical 61 65	MDEA
+T5	Chemical 71 74	Eve
+T6	Chemical 114 119	drugs
+T7	Biological_Activity 229 242	hallucinogens
+T8	Biological_Activity 274 288	mood enhancers
+T9	Chemical 390 395	drugs
+R1	Associated_With Arg1:T1 Arg2:T7	
+R2	Associated_With Arg1:T2 Arg2:T7	
+R3	Associated_With Arg1:T3 Arg2:T7	
+R4	Associated_With Arg1:T4 Arg2:T7	
+R5	Associated_With Arg1:T5 Arg2:T7	
+R6	Associated_With Arg1:T1 Arg2:T8	
+R7	Associated_With Arg1:T2 Arg2:T8	
+R8	Associated_With Arg1:T3 Arg2:T8	
+R9	Associated_With Arg1:T4 Arg2:T8	
+R10	Associated_With Arg1:T5 Arg2:T8	
+T10	Biological_Activity 528 537	stimulant
+T11	Biological_Activity 542 553	psychedelic
+T12	Chemical 608 618	monoamines
+T13	Metabolite 608 618	monoamines
+T14	Chemical 633 642	serotonin
+T15	Metabolite 633 642	serotonin
+T16	Chemical 647 655	dopamine
+T17	Metabolite 647 655	dopamine
+T18	Chemical 718 722	MDMA
+T19	Chemical 723 727	MDEA
+R11	Associated_With Arg1:T18 Arg2:T10	
+R12	Associated_With Arg1:T18 Arg2:T11	
+R13	Associated_With Arg1:T19 Arg2:T10	
+R14	Associated_With Arg1:T19 Arg2:T11	
+R15	Associated_With Arg1:T3 Arg2:T10	
+R16	Associated_With Arg1:T3 Arg2:T11	
+R17	Associated_With Arg1:T2 Arg2:T10	
+R18	Associated_With Arg1:T2 Arg2:T11	
+R19	Associated_With Arg1:T5 Arg2:T11	
+R20	Associated_With Arg1:T5 Arg2:T10	
+T20	Biological_Activity 825 830	Toxic
+T21	Biological_Activity 891 902	amphetamine
+T22	Chemical 1126 1130	MDMA
+T23	Biological_Activity 1131 1135	MDEA
+T25	Chemical 1380 1384	MDMA
+T26	Chemical 1385 1389	MDEA
+T27	Biological_Activity 1390 1402	intoxication
+R21	Associated_With Arg1:T26 Arg2:T27	
+R22	Associated_With Arg1:T25 Arg2:T27	
+T24	Chemical 1632 1639	Ecstasy
+T28	Biological_Activity 1864 1874	hypertonia
+T29	Biological_Activity 1879 1891	hyperpyrexia
+R23	Associated_With Arg1:T24 Arg2:T28	
+R24	Associated_With Arg1:T24 Arg2:T29	
+T30	Species 2193 2200	patient
+T31	Chemical 2330 2336	HCO3  
+T32	Biological_Activity 2422 2433	coagulation
+T33	Chemical 2466 2473	heparin
+T34	Chemical 2503 2510	heparin
+T35	Chemical 2885 2895	creatinine
+T36	Metabolite 2885 2895	creatinine
+T37	Chemical 2928 2930	Na
+T38	Protein 2942 2945	CPK
+T39	Protein 2952 2955	CPK
+T40	Protein 2771 2781	fibrinogen
+T41	Chemical 2914 2915	K
+T42	Protein 2972 2975	ALT
+T43	Protein 2963 2966	AST
+T44	Chemical 3229 3236	Ecstasy
+T45	Protein 3738 3748	fibrinogen
+T46	Species 3986 3993	patient
+T47	Chemical 4035 4043	dopamine
+T48	Metabolite 4035 4043	dopamine
+T49	Biological_Activity 4079 4090	hypotension
+T50	Chemical 4257 4267	creatinine
+T51	Metabolite 4257 4267	creatinine
+T52	Chemical 4286 4287	K
+T53	Chemical 4299 4301	Na
+T54	Protein 4313 4316	CPK
+T55	Protein 4323 4326	CPK
+T56	Protein 4334 4337	AST
+T57	Protein 4343 4346	ALT
+T58	Chemical 4408 4420	Amphetamines
+T59	Metabolite 4408 4420	Amphetamines
+T60	Species 4455 4463	subjects
+R25	Isolated_From Arg1:T59 Arg2:T60	
+T61	Biological_Activity 4494 4507	Toxicological
+T62	Spectral_Data 4567 4584	mass spectrometry
+T63	Chemical 4755 4759	MDMA
+T64	Chemical 4761 4765	MDEA
+T65	Chemical 4770 4773	MDA
+T66	Metabolite 4770 4773	MDA
+T67	Chemical 4775 4785	metabolite
+T68	Metabolite 4775 4785	metabolite
+T69	Chemical 4789 4793	MDMA
+R26	Metabolite_Of Arg1:T66 Arg2:T63	
+T70	Protein 4945 4981	polyclonal anti-myoglobin antibodies
+T71	Protein 5036 5073	polyclonal anti-fibrinogen antibodies
+T72	Protein 4961 4970	myoglobin
+T73	Protein 5052 5062	fibrinogen
+T74	Protein 5134 5171	polyclonal anti-fibrinogen antibodies
+T75	Protein 5150 5160	fibrinogen
+T76	Protein 5218 5239	anti-FDP-E antibodies
+T77	Chemical 5465 5473	formalin
+T78	Chemical 5480 5488	paraffin
+T79	Chemical 5540 5552	haematoxylin
+T80	Chemical 5553 5558	eosin
+T81	Chemical 5560 5573	periodic acid
+T82	Chemical 5585 5605	phosphotungstic acid
+T83	Chemical 5606 5618	haematoxylin
+T84	Chemical 5585 5618	phosphotungstic acid–haematoxylin
+T85	Chemical 5620 5624	PTAH
+T86	Biological_Activity 6033 6045	myocytolysis
+T87	Biological_Activity 6117 6133	hypercontraction
+T88	Biological_Activity 6236 6251	hypercontracted
+T89	Biological_Activity 6300 6312	myocytolysis
+T90	Biological_Activity 6736 6744	necrosis
+T91	Biological_Activity 6363 6371	fibrosis
+T92	Biological_Activity 6813 6824	coagulation
+T93	Biological_Activity 6825 6833	necrosis
+T94	Protein 6856 6862	fibrin
+T95	Biological_Activity 6893 6901	necrosis
+T96	Protein 7036 7044	necrosis
+T97	Protein 7113 7119	fibrin
+T98	Protein 7143 7149	fibrin
+T99	Biological_Activity 7207 7218	degradation
+T100	Protein 7244 7254	peroxidase
+T101	Protein 7255 7263	antibody
+T102	Protein 7244 7263	peroxidase antibody
+T103	Protein 7277 7292;7320 7330	anti-fibrinogen antibodies
+T104	Protein 7282 7292	fibrinogen
+T105	Protein 7294 7304;7320 7330	anti-FDP-D antibodies
+T106	Protein 7309 7330	anti-FDP-E antibodies
+T107	Biological_Activity 7633 7641	necrosis
+T108	Protein 8126 8135	myoglobin
+T109	Protein 7879 7888	myoglobin
+T110	Protein 8216 8223	protein
+T111	Biological_Activity 8490 8502	intoxication
+T112	Chemical 8523 8527	MDMA
+T113	Chemical 8532 8536	MDEA
+T114	Chemical 8561 8565	MDMA
+T115	Chemical 8570 8574	MDEA
+T116	Chemical 8585 8590	drugs
+T117	Biological_Activity 8768 8779	coagulation
+T118	Chemical 8924 8928	MDMA
+T119	Biological_Activity 8985 8995	arrhythmia
+T120	Chemical 9023 9027	MDMA
+R27	Associated_With Arg1:T120 Arg2:T119	
+T121	Biological_Activity 9178 9182	MDEA
+T122	Biological_Activity 9183 9195	intoxication
+T123	Biological_Activity 9358 9370	intoxication
+T124	Chemical 9374 9378	MDMA
+T125	Chemical 9383 9387	MDEA
+T126	Chemical 9463 9474	amphetamine
+T127	Chemical 9549 9562	catecholamine
+T128	Metabolite 9549 9562	catecholamine
+T129	Biological_Activity 9606 9614	necrosis
+T130	Chemical 9620 9633	catecholamine
+T131	Metabolite 9620 9633	catecholamine
+T132	Biological_Activity 9643 9663	platelet aggregation
+R28	Associated_With Arg1:T131 Arg2:T132	
+R29	Associated_With Arg1:T130 Arg2:T132	
+T133	Chemical 9766 9773	cocaine
+T134	Biological_Activity 10038 10046	necrosis
+T135	Biological_Activity 10083 10095	myocytolysis
+T136	Biological_Activity 10130 10138	necrosis
+T137	Biological_Activity 10166 10178	myocytolysis
+T138	Biological_Activity 10259 10269	adrenergic
+T139	Biological_Activity 10299 10311	myocytolytic
+T140	Biological_Activity 10419 10429	adrenergic
+T141	Biological_Activity 10484 10496	myocytolysis
+T142	Biological_Activity 10525 10532	stimuli
+T143	Chemical 10536 10540	drug
+T144	Chemical 11004 11009	drugs
+T145	Chemical 11031 11043	anaesthetics
+T146	Biological_Activity 11031 11043	anaesthetics
+T147	Chemical 11127 11138	amphetamine
+T148	Chemical 11127 11150	amphetamine derivatives
+T149	Chemical 11191 11195	MDMA
+T150	Protein 11199 11222	debrisoquine hydroylase
+T151	Protein 11224 11230	CYP2D6
+T152	Protein 11284 11290	CYP2D6
+T153	Protein 11308 11323	cytochrome P450
+T154	Protein 11339 11346	enzymes
+T155	Chemical 11452 11456	drug
+T156	Biological_Activity 11483 11496	myoglobinuria
+T157	Protein 11543 11552	myoglobin
+T158	Protein 11645 11654	myoglobin
+T159	Protein 11779 11788	myoglobin
+T160	Biological_Activity 11871 11886	microthrombosis
+T161	Biological_Activity 12067 12075	necrosis
+T162	Chemical 12148 12152	MDMA
+T163	Chemical 12153 12157	MDEA
+T164	Chemical 12244 12248	drug
+T165	Chemical 12401 12408	Ecstasy
+T166	Biological_Activity 12493 12498	toxic
+T167	Biological_Activity 12543 12551	toxicity
+T168	Chemical 12559 12563	MDMA
+T169	Chemical 12568 12573	drugs
+T170	Chemical 12583 12590	Ecstasy
+T171	Chemical 12748 12755	Ecstasy
+T172	Chemical 12864 12868	drug
+T173	Biological_Activity 12917 12930	toxicological
+T174	Chemical 13008 13020	amphetamines
+T175	Chemical 13123 13135	amphetamines
+T176	Biological_Activity 13158 13168	metabolism
+T177	Chemical 13237 13241	drug
+T178	Biological_Activity 13302 13310	toxicity
+T179	Chemical 13436 13448	amphetamines

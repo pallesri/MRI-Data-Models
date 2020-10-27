@@ -1,0 +1,41 @@
+T3	Protein 47 51	TR55
+T4	Biological_Activity 71 82	signaling  
+T5	Protein 104 120	adapter proteins
+T6	Protein 126 131	TRADD
+T7	Protein 136 139	FAN
+T8	Chemical 155 169	primary  amine
+T9	Chemical 170 190	monodansylcadaverine
+T10	Chemical 192 195	MDC
+T11	Protein 234 255	tumor necrosis factor
+T12	Protein 257 260	TNF
+T13	Chemical 339 342	MDC
+T14	Protein 412 415	FAN
+T15	Protein 420 425	TRADD
+T16	Protein 651 668	signaling enzymes
+T18	Biological_Activity 291 324	intracellular signal distribution
+T19	Protein 234 255;262 270	tumor necrosis factor receptor
+T1	Protein 11 45	receptor for tumor necrosis factor
+T2	Biological_Activity 444 454	activation
+T20	Protein 492 508	sphingomyelinase
+T21	Biological_Activity 535 546	stimulation
+T22	Protein 550 582	proline-directed protein kinases
+T23	Chemical 604 607	MDC
+T24	Protein 383 399	p55 TNF receptor
+T25	Protein 401 405	TR55
+T26	Protein 710 714	TR55
+T27	Protein 721 742	acid sphingomyelinase
+T29	Protein 747 778	c-Jun-N-terminal protein kinase
+T31	Protein 790 793	TNF
+T33	Chemical 873 876	MDC
+T35	Biological_Activity 637 647	activation
+T37	Protein 921 925	TR55
+T38	Biological_Activity 1036 1045	apoptosis
+T40	Protein 972 976	TR55
+T41	Biological_Activity 951 961	activation
+T28	Biological_Activity 509 519	activation
+T17	Biological_Activity 794 803	signaling
+T30	Biological_Activity 807 816	apoptosis
+R1	Binds_With Arg1:T33 Arg2:T31	
+R2	Binds_With Arg1:T33 Arg2:T29	
+R3	Binds_With Arg1:T33 Arg2:T27	
+R4	Associated_With Arg1:T33 Arg2:T17	

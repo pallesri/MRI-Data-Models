@@ -1,0 +1,152 @@
+T1	Protein 1 16	Cholinesterases
+T2	Protein 95 115	acetylcholinesterase
+T3	Protein 123 133	EC 3.1.1.7
+T4	Protein 117 121	AChE
+T5	Biological_Activity 198 214	neurotransmitter
+T6	Chemical 225 238	acetylcholine
+T7	Metabolite 225 238	acetylcholine
+R1	Associated_With Arg1:T7 Arg2:T5	
+R2	Associated_With Arg1:T6 Arg2:T5	
+T8	Biological_Activity 265 276	cholinergic
+T9	Species 305 315	vertebrate
+T10	Protein 316 337	butyrylcholinesterase
+T11	Protein 340 350	EC 3.1.1.8
+T12	Biological_Activity 373 383	metabolise
+T13	Chemical 384 395	xenobiotics
+T14	Biological_Activity 384 395	xenobiotics
+T15	Protein 403 410	enzymes
+T16	Biological_Activity 439 446	binding
+T17	Chemical 562 579	aromatic residues
+T18	Chemical 704 707	Ser
+T19	Chemical 797 800	Trp
+T20	Chemical 864 871	choline
+T21	Chemical 928 939	acyl esters
+T22	Protein 943 958	cholinesterases
+T23	Chemical 1017 1030	acetylcholine
+T24	Chemical 1228 1231	Ser
+T25	Biological_Activity 1259 1264	binds
+T26	Protein 1312 1318	enzyme
+T27	Species 1376 1382	insect
+T28	Protein 1383 1389	enzyme
+T29	Biological_Activity 1506 1516	inhibition
+T30	Biological_Activity 1771 1778	binding
+T31	Protein 1791 1798	protein
+T32	Biological_Activity 1833 1840	Binding
+T33	Biological_Activity 2005 2016	metabolised
+T34	Biological_Activity 2029 2036	binding
+T35	Protein 2089 2095	enzyme
+T36	Protein 2463 2469	enzyme
+T37	Biological_Activity 2623 2633	inhibitors
+T38	Protein 2646 2655	enzymatic
+T39	Biological_Activity 2634 2638	bind
+T40	Biological_Activity 2675 2679	bind
+T41	Protein 2714 2718;2735 2741	free enzyme
+T42	Protein 2726 2741	acylated enzyme
+T43	Biological_Activity 2748 2755	binding
+T44	Protein 2790 2803	acetyl–enzyme
+T45	Biological_Activity 2804 2813	inhibitor
+T46	Protein 2874 2887	acetyl-enzyme
+T47	Biological_Activity 2908 2915	binding
+T48	Biological_Activity 2996 3003	binding
+T49	Biological_Activity 3075 3084	inhibitor
+T50	Biological_Activity 3219 3230	mutagenesis
+T51	Protein 3316 3320	AChE
+T52	Biological_Activity 3344 3354	inhibitors
+T53	Chemical 3356 3375	tetramethylammonium
+T54	Chemical 3377 3380	TMA
+T55	Chemical 3383 3394	edrophonium
+T56	Chemical 3399 3406	choline
+R3	Associated_With Arg1:T53 Arg2:T52	
+R4	Associated_With Arg1:T54 Arg2:T52	
+R5	Associated_With Arg1:T55 Arg2:T52	
+R6	Associated_With Arg1:T56 Arg2:T52	
+R7	Binds_With Arg1:T53 Arg2:T51	
+R8	Binds_With Arg1:T54 Arg2:T51	
+R9	Binds_With Arg1:T55 Arg2:T51	
+R10	Binds_With Arg1:T56 Arg2:T51	
+T57	Chemical 3432 3435	TMA
+T58	Biological_Activity 3436 3441	binds
+T59	Protein 3462 3469	protein
+T60	Chemical 3506 3517	edrophonium
+T61	Chemical 3522 3529	choline
+T62	Biological_Activity 3530 3534	bind
+T63	Protein 3582 3586	AChE
+T64	Protein 3626 3630	AChE
+T65	Protein 3763 3770	protein
+T66	Chemical 3850 3857	peptide
+T67	Chemical 3873 3883	glycolipid
+T68	Protein 3896 3900	AChE
+T69	Protein 4060 4069	proteases
+T70	Species 4074 4084	drosophila
+T71	Protein 4085 4089	AChE
+T72	Species 4119 4125	bovine
+T73	Protein 4119 4140	bovine serum albumine
+T74	Chemical 4263 4279	phosphate buffer
+T75	Chemical 4303 4327	acetylthiocholine iodide
+T76	Biological_Activity 4452 4463	inhibitions
+T77	Chemical 4499 4502	TMA
+T78	Chemical 4525 4536	edrophonium
+T79	Chemical 4564 4571	choline
+T80	Biological_Activity 4643 4652	inhibitor
+T81	Biological_Activity 4800 4804	bind
+T82	Biological_Activity 4965 4974	inhibitor
+T83	Biological_Activity 5031 5038	binding
+T84	Biological_Activity 5133 5143	inhibition
+T85	Protein 5617 5621	AChE
+T86	Species 5610 5616	insect
+T87	Biological_Activity 6048 6058	activation
+T88	Biological_Activity 6062 6072	inhibition
+T89	Biological_Activity 6159 6166	binding
+T90	Protein 6327 6334	enzymes
+T91	Biological_Activity 6473 6484	metabolised
+T92	Biological_Activity 6849 6856	binding
+T93	Biological_Activity 6895 6904	inhibitor
+T94	Protein 6912 6919	protein
+T95	Chemical 7492 7495	TMA
+T96	Chemical 7497 7508	edrophonium
+T97	Chemical 7512 7519	choline
+T98	Biological_Activity 7581 7590	inhibitor
+T99	Chemical 7666 7673	choline
+T100	Chemical 7678 7689	edrophonium
+T101	Biological_Activity 7927 7936	inhibitor
+T102	Protein 8005 8025	acetylcholinesterase
+T103	Biological_Activity 8026 8036	inhibition
+T104	Chemical 8042 8053	edrophonium
+T105	Chemical 8058 8065	choline
+T106	Biological_Activity 8152 8159	binding
+T107	Protein 8172 8178	enzyme
+T108	Biological_Activity 8184 8191	binding
+T109	Biological_Activity 8286 8293	binding
+T110	Biological_Activity 8300 8309	inhibitor
+T111	Biological_Activity 8397 8406	inhibitor
+T112	Species 8604 8614	vertebrate
+T113	Protein 8615 8619	AChE
+T114	Biological_Activity 8716 8725	inhibitor
+T115	Biological_Activity 8742 8751	enzymatic
+T116	Biological_Activity 8879 8888	inhibitor
+T117	Biological_Activity 8889 8896	binding
+T118	Protein 8904 8911	protein
+T119	Chemical 9056 9063	choline
+T120	Chemical 9068 9079	edrophonium
+T121	Chemical 9099 9102	TMA
+T122	Chemical 9291 9294	TMA
+T123	Chemical 9438 9441	TMA
+T124	Species 9472 9482	vertebrate
+T125	Protein 9483 9489	enzyme
+T126	Protein 9527 9533	enzyme
+T127	Biological_Activity 9590 9600	activation
+T128	Biological_Activity 9605 9615	inhibition
+T129	Chemical 9647 9650	TMA
+T130	Biological_Activity 9849 9859	inhibitors
+T131	Biological_Activity 9886 9893	binding
+T132	Biological_Activity 10087 10097	inhibitors
+T133	Biological_Activity 10212 10221	inhibitor
+T134	Biological_Activity 10316 10325	inhibitor
+T135	Chemical 10345 10352	choline
+T136	Chemical 10369 10380	edrophonium
+T137	Chemical 10385 10388	TMA
+T138	Protein 10567 10573	enzyme
+T139	Chemical 10804 10807	Trp
+T140	Species 10918 10930	Drosophila  
+T141	Protein 10930 10934	AChE
+T142	Biological_Activity 11050 11059	inhibitor

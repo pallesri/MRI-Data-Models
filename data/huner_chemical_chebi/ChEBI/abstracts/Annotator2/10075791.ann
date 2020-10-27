@@ -1,0 +1,9 @@
+T1	Chemical 0 15	7-Epiclusianone
+T2	Metabolite 0 15	7-Epiclusianone
+T3	Species 31 50	Rheedia gardneriana
+R1	Isolated_From Arg1:T2 Arg2:T3	
+T4	Species 143 161	Trypanosoma  cruzi
+T5	Species 210 214	mice
+T8	Species 291 318	Cladosporium sphaerospermum
+T9	Species 333 354	Biomphalaria glabrata
+T10	Species 243 257	Artemia salina

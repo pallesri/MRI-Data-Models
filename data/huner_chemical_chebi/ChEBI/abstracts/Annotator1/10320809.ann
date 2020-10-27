@@ -1,0 +1,44 @@
+T1	Species 0 3	Rat
+T2	Protein 17 47	lysophospholipase-transacylase
+T3	Chemical 85 119	1-acyl-sn-glycero-3-phosphocholine
+T4	Chemical 185 219	1-acyl-sn-glycero-3-phosphocholine
+T5	Chemical 228 247	phosphatidylcholine
+T7	Protein 395 401	enzyme
+T9	Protein 407 413	enzyme
+T11	Chemical 480 486	lipids
+T12	Chemical 501 514	acyl residues
+T13	Chemical 646 680	1-acyl-sn-glycero-3-phosphocholine
+T14	Chemical 725 733	glycerol
+T15	Chemical 738 756	2-acyl-sn-glycerol
+T16	Chemical 768 789	1(3)-acyl-sn-glycerol
+T17	Chemical 794 816	1,2-diacyl-sn-glycerol
+T18	Chemical 886 920	1-acyl-sn-glycero-3-phosphocholine
+T19	Chemical 972 1006	1-acyl-sn-glycero-3-phosphocholine
+T20	Chemical 1017 1056	1-acyl-sn-glycero-3-phosphoethanolamine
+T21	Chemical 1068 1087	phosphatidylcholine
+T22	Chemical 1092 1116	phosphatidylethanolamine
+T23	Chemical 1132 1172	1-Acyl-sn-glycero-3-phospho-myo-inositol
+T24	Chemical 1178 1211	1-acyl-sn-glycero-3-phosphoserine
+T26	Chemical 1321 1355	2-acyl-sn-glycero-3-phosphocholine
+T27	Chemical 1396 1430	2-acyl-sn-glycero-3-phosphocholine
+T28	Chemical 1435 1474	2-acyl-sn-glycero-3-phosphoethanolamine
+T29	Chemical 1486 1505	phosphatidylcholine
+T30	Chemical 1510 1534	phosphatidylethanolamine
+T31	Protein 1568 1574	enzyme
+T33	Chemical 1613 1647	2-acyl-sn-glycero-3-phosphocholine
+T34	Chemical 1686 1702	arachidonic acid
+T35	Chemical 1751 1757	lipids
+T36	Chemical 1791 1797	lipids
+T37	Chemical 1814 1848	1-arachidonoyl phosphatidylcholine
+T38	Chemical 1855 1897	2-arachidonoyl-sn-glycero-3-phosphocholine
+T39	Chemical 1931 1965	diarachidonoyl phosphatidylcholine
+T40	Protein 2039 2069	lysophospholipase-transacylase
+T41	Chemical 2107 2141	1-arachidonoyl phosphatidylcholine
+T42	Chemical 2187 2197	anandamide
+T8	Protein 366 378	transacylase
+T47	Chemical 630 642	acyl residue
+T48	Chemical 870 882	acyl residue
+T49	Chemical 1305 1317	acyl residue
+T50	Chemical 1595 1607	acyl residue
+T51	Protein 1260 1266	enzyme
+T6	Biological_Activity 366 378	transacylase

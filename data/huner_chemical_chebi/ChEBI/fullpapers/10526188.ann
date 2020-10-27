@@ -1,0 +1,256 @@
+T1	Biological_Activity 43 49	immune
+T2	Biological_Activity 230 242	pathogenetic
+T3	Biological_Activity 271 284	demyelination
+T4	Chemical 286 298	Gangliosides
+T5	Chemical 320 328	antigens
+T6	Biological_Activity 320 328	antigens
+R1	Associated_With Arg1:T4 Arg2:T6	
+T7	Protein 378 404	Antiganglioside antibodies
+T8	Chemical 478 490	gangliosides
+T9	Chemical 492 495	LM1
+T10	Metabolite 286 298	Gangliosides
+T11	Metabolite 478 490	gangliosides
+T12	Metabolite 492 495	LM1
+T13	Chemical 497 530	sialosylneolactotetraosylceramide
+T14	Metabolite 497 530	sialosylneolactotetraosylceramide
+T15	Protein 592 609	Anti-LM1 antibody
+T16	Biological_Activity 642 654	pathogenesis
+T17	Protein 713 730	anti-LM1 antibody
+T18	Species 747 755	patients
+T19	Protein 841 862	anti-LM1 IgG antibody
+T20	Species 893 901	Patients
+T21	Species 957 965	patients
+T22	Biological_Activity 1014 1024	neurologic
+T23	Species 1095 1103	patients
+T24	Biological_Activity 1117 1129	inflammatory
+T25	Biological_Activity 1305 1322	neurodegenerative
+T26	Species 1344 1352	patients
+T27	Species 1441 1449	subjects
+T28	Protein 1572 1578	Enzyme
+T29	Protein 1718 1737	anti-LM1 antibodies
+T30	Chemical 1864 1871	antigen
+T31	Biological_Activity 1864 1871	antigen
+T32	Species 1947 1953	bovine
+T33	Protein 1947 1967	bovine serum albumin
+T34	Protein 1969 1972	BSA
+T35	Chemical 1977 2002	phosphate-buffered saline
+T36	Chemical 2004 2007	PBS
+T37	Protein 2037 2040	BSA
+T38	Chemical 2044 2047	PBS
+T39	Protein 2172 2175	BSA
+T40	Chemical 2179 2182	PBS
+T41	Protein 2184 2194	peroxidase
+T42	Protein 2184 2220;2228 2236	peroxidase-conjugated anti-human IgM antibody
+T43	Protein 2184 2216;2224 2236	peroxidase-conjugated anti-human IgG antibody
+T44	Protein 2317 2320	BSA
+T45	Chemical 2324 2327	PBS
+T46	Protein 2448 2451	BSA
+T47	Chemical 2455 2458	PBS
+T48	Chemical 2522 2559	orthophenylenediamine dihydrochloride
+T49	Chemical 2573 2582	phosphate
+T50	Chemical 2583 2590	citrate
+T51	Chemical 2686 2692	H2 SO4
+T52	Protein 3047 3064	anti-LM1 antibody
+T53	Protein 3144 3161	Anti-LM1 antibody
+T54	Protein 3275 3296	anti-LM1 IgG antibody
+T55	Protein 3314 3324	antibodies
+T56	Chemical 3342 3354	gangliosides
+T57	Metabolite 3342 3354	gangliosides
+T58	Chemical 3363 3366	GM1
+T59	Chemical 3368 3371	GM2
+T60	Metabolite 3363 3366	GM1
+T61	Metabolite 3368 3371	GM2
+T62	Chemical 3373 3376	GM3
+T63	Metabolite 3378 3382	GM1b
+T64	Metabolite 3373 3376	GM3
+T65	Chemical 3378 3382	GM1b
+T66	Chemical 3384 3388	GD1a
+T67	Metabolite 3384 3388	GD1a
+T68	Chemical 3390 3394	GD1b
+T69	Metabolite 3390 3394	GD1b
+T70	Chemical 3396 3399	GD3
+T71	Metabolite 3396 3399	GD3
+T72	Chemical 3401 3412	GalNAc-GD1a
+T73	Metabolite 3401 3412	GalNAc-GD1a
+T74	Chemical 3414 3418	GT1b
+T75	Metabolite 3414 3418	GT1b
+T76	Chemical 3423 3427	GQ1b
+T77	Metabolite 3423 3427	GQ1b
+T78	Species 3454 3462	patients
+T79	Protein 3489 3513	anti-GQ1b IgG antibodies
+T80	Protein 3515 3525	Antibodies
+T81	Chemical 3540 3552	gangliosides
+T82	Metabolite 3540 3552	gangliosides
+T83	Protein 3773 3781	antibody
+T84	Chemical 3800 3812	gangliosides
+T85	Metabolite 3800 3812	gangliosides
+T86	Species 3891 3899	patients
+T87	Protein 3909 3930	anti-LM1 IgG antibody
+T88	Biological_Activity 4091 4103	inflammatory
+T89	Species 4020 4028	Patients
+T90	Species 4324 4332	Patients
+T91	Biological_Activity 4366 4379	demyelination
+T92	Protein 4498 4520	anti-GQ1b IgG antibody
+T93	Species 4546 4554	patients
+T94	Protein 4575 4596	anti-LM1 IgG antibody
+T95	Protein 4680 4706	antiganglioside antibodies
+T96	Protein 4771 4792	IgG anti-LM1 antibody
+T97	Species 4713 4721	patients
+T98	Species 4826 4834	patients
+T99	Protein 4840 4861	anti-LM1 IgG antibody
+T100	Species 4895 4903	patients
+T101	Protein 4909 4930	IgM anti-LM1 antibody
+T102	Species 4956 4964	patients
+T103	Biological_Activity 5007 5014	binding
+T104	Species 5022 5030	patients
+T105	Protein 5032 5040	antibody
+T106	Chemical 5044 5047	LM1
+T107	Metabolite 5044 5047	LM1
+R2	Binds_With Arg1:T107 Arg2:T105	
+R3	Binds_With Arg1:T106 Arg2:T105	
+R4	Associated_With Arg1:T107 Arg2:T103	
+R5	Associated_With Arg1:T106 Arg2:T103	
+T108	Species 5146 5154	patients
+T109	Species 5156 5163;5165 5166	patient 3
+T110	Species 5156 5163;5168 5169	patient 4
+T111	Species 5156 5163;5174 5175	patient 5
+T112	Protein 5178 5199	Anti-LM1 IgG antibody
+T113	Species 5255 5262	patient
+T114	Species 5321 5330	patient 3
+T115	Species 5386 5395	patient 4
+T116	Species 5435 5444	patient 5
+T117	Protein 5449 5466	anti-LM1 antibody
+T118	Species 5570 5578	patients
+T119	Protein 5588 5609	anti-LM1 IgG antibody
+T120	Protein 5619 5629	antibodies
+T121	Chemical 5644 5656	gangliosides
+T122	Metabolite 5644 5656	gangliosides
+T123	Species 5678 5686	patients
+T124	Protein 5695 5717	anti-GQ1b IgG antibody
+T125	Protein 5735 5757	anti-GQ1b IgG antibody
+T126	Species 5805 5813	patients
+T127	Protein 5842 5864	anti-GQ1b IgG antibody
+T128	Protein 5927 5948	anti-LM1 IgG antibody
+T129	Species 6016 6024	patients
+T130	Protein 6030 6051	anti-LM1 IgG antibody
+T131	Protein 6080 6101	anti-LM1 IgG antibody
+T132	Species 6165 6173	patients
+T133	Species 6218 6226	patients
+T134	Species 6241 6249	patients
+T135	Protein 6323 6347	anti-GQ1b IgG antibodies
+T136	Species 6368 6376	patients
+T137	Species 6413 6421	patients
+T138	Species 6423 6432	patient 7
+T139	Protein 6483 6491	antibody
+T140	Species 6495 6515	Campylobacter jejuni
+T141	Species 6518 6527	C. jejuni
+T142	Species 11627 11635	patients
+T143	Species 6595 6603	patients
+T144	Protein 6613 6634	anti-LM1 IgG antibody
+T145	Species 6665 6672	patient
+T146	Species 6674 6683	patient 7
+T147	Species 6747 6755	patients
+T148	Species 6855 6863	patients
+T149	Protein 6873 6894	anti-LM1 IgG antibody
+T150	Species 6941 6949	patients
+T151	Species 6998 7007	patient 7
+T152	Protein 7058 7070	IgG antibody
+T153	Chemical 7074 7077	LM1
+T154	Metabolite 7074 7077	LM1
+T155	Species 7115 7123	patients
+T156	Species 7149 7157	patients
+T157	Species 7186 7194	patients
+T158	Protein 7200 7212	IgM antibody
+T159	Chemical 7216 7219	LM1
+T160	Metabolite 7216 7219	LM1
+T161	Species 7242 7250	patients
+T162	Species 7287 7295	patients
+T163	Protein 7359 7378	anti-LM1 antibodies
+T164	Protein 7421 7440	anti-LM1 antibodies
+T165	Biological_Activity 7458 7471	demyelinating
+T166	Species 7577 7585	patients
+T167	Species 7599 7607	patients
+T168	Protein 7643 7662	anti-LM1 antibodies
+T169	Protein 7678 7681	IgG
+T170	Species 7732 7740	patients
+T171	Protein 7793 7814	anti-LM1 IgG antibody
+T172	Protein 7848 7869	anti-LM1 IgM antibody
+T173	Protein 7919 7931	IgG antibody
+T174	Chemical 7935 7938	LM1
+T175	Metabolite 7935 7938	LM1
+T176	Species 7952 7960	patients
+T177	Species 7973 7981	patients
+T178	Species 7996 8004	patients
+T179	Protein 8014 8026	IgM antibody
+T180	Chemical 8030 8033	LM1
+T181	Metabolite 8030 8033	LM1
+T182	Species 8048 8056	patients
+T183	Species 8069 8077	patients
+T184	Species 8092 8100	patients
+T185	Biological_Activity 8222 8235	immunogenetic
+T186	Species 8323 8331	patients
+T187	Protein 8341 8362	anti-LM1 IgG antibody
+T188	Chemical 8420 8423	LM1
+T189	Metabolite 8420 8423	LM1
+T190	Chemical 8443 8454	ganglioside
+T191	Metabolite 8443 8454	ganglioside
+T192	Protein 8491 8508	anti-LM1 antibody
+T193	Biological_Activity 8539 8552	demyelinating
+T194	Biological_Activity 8567 8579	pathogenesis
+T195	Species 8601 8609	patients
+T196	Protein 8619 8640	anti-LM1 IgG antibody
+T197	Biological_Activity 8656 8669	demyelination
+T198	Species 8701 8709	patients
+T199	Species 8747 8756	patient 7
+T200	Species 8772 8781	C. jejuni
+T201	Biological_Activity 8871 8884	demyelination
+T202	Species 8890 8898	patients
+T203	Species 8913 8922	C. jejuni
+T204	Species 9001 9010	patient 7
+T205	Species 9055 9064	C. jejuni
+T206	Species 9134 9144	patient 7,
+T207	Species 9149 9157	patients
+T208	Protein 9167 9188	anti-LM1 IgG antibody
+T209	Protein 9288 9309	anti-LM1 IgG antibody
+T210	Biological_Activity 9321 9334	demyelinating
+T211	Species 9412 9420	patients
+T212	Protein 9438 9459	anti-LM1 IgG antibody
+T213	Protein 9475 9497	anti-GQ1b IgG antibody
+T214	Species 9570 9577	patient
+T215	Protein 9596 9617	anti-LM1 IgG antibody
+T216	Protein 9623 9645	anti-GQ1b IgG antibody
+T217	Species 9691 9699	patients
+T218	Chemical 9751 9767	ganglioside GQ1b
+T219	Metabolite 9751 9767	ganglioside GQ1b
+T220	Species 9813 9818	human
+R6	Isolated_From Arg1:T219 Arg2:T220	
+T221	Chemical 9955 9967	carbohydrate
+T222	Chemical 9981 9984	LM1
+T223	Metabolite 9981 9984	LM1
+T224	Chemical 10017 10021	GQ1b
+T225	Metabolite 10017 10021	GQ1b
+T226	Protein 10050 10058	antibody
+T227	Chemical 10078 10081	LM1
+T228	Metabolite 10078 10081	LM1
+T229	Chemical 10086 10090	GQ1b
+T230	Metabolite 10086 10090	GQ1b
+T231	Species 10144 10152	patients
+T232	Protein 10177 10199	anti-GQ1b IgG antibody
+T233	Species 10335 10343	patients
+T234	Protein 10358 10366;10381 10395	anti-LM1 IgG antibodies
+T235	Protein 10371 10395	anti-GQ1b IgG antibodies
+T236	Protein 10507 10517	antibodies
+T237	Chemical 10521 10524	GM1
+T238	Metabolite 10521 10524	GM1
+T239	Chemical 10529 10540	GalNAc-GD1a
+T240	Metabolite 10529 10540	GalNAc-GD1a
+T241	Protein 10649 10658;10672 10682	anti-GQ1b antibodies
+T242	Protein 10663 10682	anti-LM1 antibodies
+T243	Protein 10793 10812	anti-LM1 antibodies
+T244	Biological_Activity 10819 10832	demyelination
+T245	Protein 10870 10887	anti-LM1 antibody
+T246	Species 10923 10931	patients
+T247	Biological_Activity 11011 11024	demyelination
+T248	Biological_Activity 11110 11123	demyelinating
+T249	Species 823 831	patients
+T250	Species 7444 7452	patients

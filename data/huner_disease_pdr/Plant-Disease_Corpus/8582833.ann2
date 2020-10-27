@@ -1,0 +1,11 @@
+T1	Disease 31 47	malignant tumors
+T4	Disease 356 385	bilateral cervical metastases
+T6	Disease 443 467	hepatocellular carcinoma
+T7	Disease 545 561	malignant tumors
+T9	Plant 110 119	marijuana
+T10	Plant 236 244	cannabis
+T11	Plant 661 669	cannabis
+T2	Disease 308 331	squamous cell carcinoma
+T3	Disease 390 404	adenocarcinoma
+T5	Cause_of_disease 631 638	related
+E1	Cause_of_disease:T5 Theme:T7 Cause:T11

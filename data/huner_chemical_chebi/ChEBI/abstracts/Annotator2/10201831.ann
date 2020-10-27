@@ -1,0 +1,11 @@
+T1	Species 139 145	murine
+T3	Chemical 23 47	alpha-galactosylceramide
+T4	Chemical 49 61	alpha-GalCer
+T5	Chemical 82 114	3beta-galactosylated derivatives
+T6	Chemical 71 78;88 114	3alpha- galactosylated derivatives
+T7	Chemical 164 198	3alpha-galactosylated alpha-GalCer
+T9	Chemical 256 268	alpha-GalCer
+T10	Chemical 278 311	3beta-galactosylated alpha-GalCer
+T11	Chemical 347 359	alpha-GalCer
+T12	Chemical 374 389	alpha-Gal-3-Cer
+T13	Biological_Activity 404 420	immunostimulator

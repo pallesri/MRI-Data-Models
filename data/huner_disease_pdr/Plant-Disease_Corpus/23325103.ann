@@ -1,0 +1,16 @@
+T1	Disease 114 137	gastrointestinal cancer
+T2	Disease 139 161	cardiovascular disease
+T3	Disease 166 174	diabetes
+T4	Disease 336 352	diabetic disease
+T5	Disease 445 453	diabetes
+T6	Disease 767 775	diabetes
+T7	Plant 33 41	mushroom
+T8	Plant 0 17	Inonotus obliquus
+T9	Plant 258 269	I. obliquus
+T10	Treatment_of_disease 308 315	effects
+E1	Treatment_of_disease:T10 Theme:T4 Cause:T12
+T11	Plant 408 416	mycelium
+T12	Plant 238 246	mycelium
+T13	Plant 543 554	I. obliquus
+T14	Plant 555 563	mycelium
+T15	Plant 846 854	mycelium

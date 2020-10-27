@@ -1,0 +1,84 @@
+T1	Biological_Activity 11 20	analgesic
+T2	Chemical 33 42	ketorolac
+T3	Species 46 52	humans
+T4	Chemical 72 108	nonsteroidal anti-inflammatory drugs
+T5	Biological_Activity 85 102	anti-inflammatory
+T6	Chemical 110 116	NSAIDs
+T7	Biological_Activity 209 218	analgesic
+T8	Chemical 172 177	NSAID
+T9	Chemical 275 290	(R,S)-ketorolac
+T11	Protein 364 378	cyclooxygenase
+T13	Protein 380 383	COX
+T14	Biological_Activity 385 394	inhibitor
+T15	Chemical 397 409	indomethacin
+T16	Chemical 411 415	INDO
+T17	Chemical 421 438	diclofenac sodium
+T18	Chemical 440 442	DS
+T19	Biological_Activity 476 485	inhibitor
+T20	Chemical 487 496	celecoxib
+T21	Protein 470 475	COX-2
+T23	Chemical 536 551	(R,S)-ketorolac
+T24	Chemical 576 587	acetic acid
+T25	Chemical 606 617	carrageenan
+T27	Chemical 648 659	carrageenan
+T29	Species 688 692	rats
+T30	Chemical 751 766	(R,S)-ketorolac
+T31	Chemical 804 817	(S)-ketorolac
+T32	Chemical 917 923;940 949	(R,S)- ketorolac
+T33	Chemical 926 930;940 949	(S)- ketorolac
+T34	Chemical 936 949	(R)-ketorolac
+T35	Chemical 951 955	INDO
+T36	Chemical 961 963	DS
+T37	Biological_Activity 998 1015	anti-inflammatory
+T38	Chemical 1058 1072	(R,S)-ketorola
+T39	Chemical 1109 1113	INDO
+T40	Chemical 1117 1119	DS
+T41	Protein 1171 1174	COX
+T43	Biological_Activity 1175 1185	inhibition
+T44	Chemical 1190 1205	(R,S)-ketorolac
+T45	Chemical 1211 1215	INDO
+T46	Chemical 1220 1222	DS
+T47	Chemical 1239 1252	(S)-ketorolac
+T48	Protein 1274 1281	enzymes
+T49	Protein 1296 1305	receptors
+T50	Chemical 1395 1410	(R,S)-ketorolac
+T51	Protein 1283 1291	channels
+T52	Chemical 1451 1453	DS
+T53	Chemical 1457 1461	INDO
+T54	Chemical 1479 1494	(R,S)-ketorolac
+T56	Chemical 1530 1536	NSAIDs
+T57	Chemical 1604 1619	(R,S)-ketorolac
+T58	Chemical 1655 1668	(S)-ketorolac
+T60	Biological_Activity 893 902	analgesic
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T2 Arg2:T5	
+R3	Associated_With Arg1:T15 Arg2:T14	
+R4	Associated_With Arg1:T16 Arg2:T14	
+R5	Associated_With Arg1:T17 Arg2:T14	
+R6	Associated_With Arg1:T18 Arg2:T14	
+R7	Associated_With Arg1:T20 Arg2:T19	
+R17	Associated_With Arg1:T31 Arg2:T60	
+R18	Associated_With Arg1:T31 Arg2:T37	
+R19	Associated_With Arg1:T35 Arg2:T60	
+R20	Associated_With Arg1:T36 Arg2:T60	
+R21	Associated_With Arg1:T35 Arg2:T37	
+R22	Associated_With Arg1:T36 Arg2:T37	
+R23	Associated_With Arg1:T32 Arg2:T60	
+R24	Associated_With Arg1:T33 Arg2:T60	
+R25	Associated_With Arg1:T32 Arg2:T37	
+R26	Associated_With Arg1:T33 Arg2:T37	
+R27	Associated_With Arg1:T44 Arg2:T43	
+R28	Associated_With Arg1:T45 Arg2:T43	
+R29	Associated_With Arg1:T46 Arg2:T43	
+R33	Binds_With Arg1:T15 Arg2:T11	
+R34	Binds_With Arg1:T15 Arg2:T13	
+R35	Binds_With Arg1:T16 Arg2:T11	
+R36	Binds_With Arg1:T16 Arg2:T13	
+R37	Binds_With Arg1:T17 Arg2:T11	
+R38	Binds_With Arg1:T17 Arg2:T13	
+R39	Binds_With Arg1:T18 Arg2:T11	
+R40	Binds_With Arg1:T18 Arg2:T13	
+R8	Binds_With Arg1:T20 Arg2:T21	
+R9	Binds_With Arg1:T44 Arg2:T41	
+R10	Binds_With Arg1:T45 Arg2:T41	
+R11	Binds_With Arg1:T46 Arg2:T41	

@@ -1,0 +1,189 @@
+T1	Protein 565 579	cholinesterase
+T2	Biological_Activity 580 589	inhibitor
+T3	Chemical 590 609	[11 C]physostigmine
+R1	Associated_With Arg1:T3 Arg2:T2	
+R2	Binds_With Arg1:T3 Arg2:T1	
+T6	Protein 729 737	receptor
+T8	Chemical 1092 1107	11 C-flumazenil
+T9	Chemical 1239 1247	dopamine
+T10	Protein 1239 1265	dopamine D2 -like receptor
+T11	Chemical 1274 1291	[11 C]nemonapride
+R3	Binds_With Arg1:T11 Arg2:T10	
+T12	Chemical 1293 1309	[11 C]YM-09151-2
+R4	Binds_With Arg1:T12 Arg2:T10	
+T13	Chemical 1427 1435	dopamine
+T14	Protein 1427 1453	dopamine D2 -like receptor
+T16	Biological_Activity 482 489	ligands
+T17	Biological_Activity 514 521	ligands
+T18	Biological_Activity 738 745	ligands
+T19	Biological_Activity 1266 1272	ligand
+R5	Associated_With Arg1:T11 Arg2:T19	
+R6	Associated_With Arg1:T12 Arg2:T19	
+T4	Biological_Activity 1454 1461	ligands
+T5	Biological_Activity 1499 1506	binding
+T7	Chemical 1517 1534	[11 C]nemonapride
+T15	Chemical 1560 1568	dopamine
+T20	Protein 1560 1587	dopamine D2 -like receptors
+T21	Chemical 1656 1673	[11 C]Nemonapride
+T22	Chemical 1675 1676	9
+T23	Chemical 1683 1698	[11 C]SCH 23390
+T24	Chemical 1700 1701	4
+T25	Chemical 1762 1780	desmethyl compound
+T26	Chemical 1786 1805	[11 C]methyl iodide
+T27	Species 2257 2273	Male Wistar rats
+T28	Species 2363 2369	animal
+T29	Species 2399 2405	Animal
+T30	Chemical 4103 4120	[11 C]Nemonapride
+T31	Species 4245 4248	rat
+T32	Chemical 4551 4579	3-aminopropyltriethoxysilane
+T33	Chemical 4583 4590	acetone
+T34	Species 4905 4908	rat
+T35	Chemical 4923 4940	[11 C]nemonapride
+T36	Chemical 5524 5539	[11 C]SCH 23390
+T37	Chemical 5589 5606	[11 C]nemonapride
+T38	Chemical 5608 5623	[11 C]SCH 23390
+T39	Species 5700 5704	rats
+T40	Species 5741 5745	rats
+T41	Chemical 6204 6221	[11 C]nemonapride
+T42	Chemical 6274 6291	[11 C]Nemonapride
+T43	Species 6358 6362	rats
+T44	Chemical 7057 7074	[11 C]nemonapride
+T45	Biological_Activity 7478 7485	binding
+T46	Biological_Activity 7558 7564	ligand
+T47	Chemical 7658 7669	nemonapride
+T48	Chemical 7809 7826	[11 C]nemonapride
+T49	Chemical 7861 7878	[11 C]Nemonapride
+T50	Species 7952 7956	rats
+T51	Chemical 8202 8219	[11 C]nemonapride
+T52	Species 8322 8325	rat
+T53	Chemical 8520 8524	NaCl
+T54	Chemical 8615 8632	[11 C]nemonapride
+T55	Chemical 8763 8766	ice
+T56	Chemical 8778 8786	Tris-HCl
+T57	Chemical 8814 8818	NaCl
+T58	Chemical 8987 8991	11 C
+T59	Chemical 9306 9323	[11 C]nemonapride
+T60	Chemical 9421 9438	[11 C]nemonapride
+T61	Biological_Activity 9623 9630	binding
+T62	Chemical 9705 9716	haloperidol
+T63	Biological_Activity 10038 10044	ligand
+T64	Protein 10023 10031	receptor
+T65	Protein 7469 7477	receptor
+T66	Biological_Activity 10097 10103	ligand
+T67	Biological_Activity 10127 10133	ligand
+T68	Biological_Activity 10164 10170	ligand
+T69	Biological_Activity 10176 10182	ligand
+T70	Chemical 10427 10431	11 C
+T71	Chemical 11172 11176	11 C
+T72	Chemical 11193 11197	14 C
+T73	Chemical 11311 11315	11 C
+T74	Chemical 11343 11347	14 C
+T75	Chemical 11509 11526	[11 C]nemonapride
+T76	Chemical 11563 11567	11 C
+T77	Protein 11703 11724	dopamine D2  receptor
+T78	Chemical 11703 11711	dopamine
+T79	Chemical 12104 12121	[11 C]nemonapride
+T80	Chemical 12494 12498	11 C
+T81	Chemical 13026 13030	11 C
+T82	Chemical 13609 13626	[11 C]nemonapride
+T83	Chemical 13961 13978	[11 C]nemonapride
+T84	Chemical 14261 14278	[11 C]nemonapride
+T85	Chemical 14681 14698	[11 C]nemonapride
+T86	Chemical 14955 14972	[11 C]nemonapride
+T87	Protein 15272 15280	receptor
+T88	Biological_Activity 15281 15288	binding
+T89	Chemical 15303 15320	[11 C]nemonapride
+T90	Protein 15354 15371	dopamine receptor
+T91	Biological_Activity 15372 15379	ligands
+T92	Chemical 15388 15404	[11 C]raclopride
+T93	Chemical 15406 15430	[11 C]N -methylspiperone
+T94	Chemical 15436 15451	[11 C]SCH 23390
+R7	Associated_With Arg1:T92 Arg2:T91	
+R8	Associated_With Arg1:T93 Arg2:T91	
+R9	Associated_With Arg1:T94 Arg2:T91	
+R10	Binds_With Arg1:T92 Arg2:T90	
+R11	Binds_With Arg1:T93 Arg2:T90	
+R12	Binds_With Arg1:T94 Arg2:T90	
+T95	Biological_Activity 15505 15511	ligand
+T96	Chemical 15562 15579	[11 C]nemonapride
+T97	Chemical 15719 15736	[11 C]Nemonapride
+T98	Biological_Activity 15737 15744	binding
+R13	Associated_With Arg1:T97 Arg2:T98	
+T99	Chemical 15829 15840	nemonapride
+T100	Biological_Activity 15805 15812	binding
+T101	Chemical 15841 15857	([3 H]YM-09151-2
+T102	Biological_Activity 15891 15898	binding
+R14	Associated_With Arg1:T99 Arg2:T100	
+R15	Associated_With Arg1:T101 Arg2:T100	
+T103	Chemical 16058 16075	[11 C]nemonapride
+T104	Chemical 16177 16181	11 C
+T105	Biological_Activity 16182 16188	ligand
+T106	Chemical 16215 16232	[11 C]nemonapride
+T107	Chemical 16357 16360	3 H
+T108	Chemical 16408 16425	[11 C]nemonapride
+T109	Chemical 16641 16658	[11 C]nemonapride
+T110	Biological_Activity 17295 17302	binding
+T111	Biological_Activity 17253 17261	blockers
+T112	Biological_Activity 17479 17486	binding
+T113	Biological_Activity 17546 17553	binding
+T114	Chemical 17564 17581	[11 C]nemonapride
+T115	Biological_Activity 17720 17727	binding
+T116	Chemical 17791 17802	haloperidol
+T117	Biological_Activity 17843 17850	binding
+T118	Chemical 17917 17933	[3 H]nemonapride
+T119	Biological_Activity 17934 17941	binding
+R16	Associated_With Arg1:T118 Arg2:T119	
+T120	Chemical 17984 17993	sulpiride
+T121	Chemical 18000 18011	haloperidol
+T122	Biological_Activity 18041 18048	binding
+T123	Protein 18086 18107	serotonin-2 receptors
+T124	Chemical 18142 18150	dopamine
+T125	Protein 18142 18164	dopamine D4  receptors
+T126	Chemical 18174 18185	haloperidol
+T127	Chemical 18195 18205	raclopride
+T128	Protein 18235 18250	Sigma receptors
+T129	Biological_Activity 18292 18299	binding
+T130	Chemical 18343 18354	nemonapride
+T131	Protein 18380 18395	sigma receptors
+R17	Binds_With Arg1:T130 Arg2:T131	
+T132	Biological_Activity 18422 18430	blocking
+T133	Protein 18454 18468	sigma receptor
+T134	Biological_Activity 18469 18475	ligand
+T135	Chemical 18477 18530	R (−)-N -(3-phenyl-n -propyl)-1-phenyl-2-aminopropane
+T136	Chemical 18532 18536	PPAP
+R18	Associated_With Arg1:T135 Arg2:T134	
+R19	Associated_With Arg1:T136 Arg2:T134	
+R20	Binds_With Arg1:T135 Arg2:T133	
+R21	Binds_With Arg1:T136 Arg2:T133	
+T137	Chemical 18579 18596	[11 C]nemonapride
+T138	Chemical 18627 18638	nemonapride
+T139	Chemical 18645 18656	haloperidol
+T140	Species 18704 18709	mouse
+T141	Protein 18732 18746	sigma receptor
+T142	Biological_Activity 18747 18754	ligands
+T143	Chemical 18763 18767	PPAP
+T144	Chemical 18769 18781	(+)-SKF10047
+T145	Chemical 18783 18842	R (+)-3-(3-hydroxyphenyl)-N -propylpiperidine hydrochloride
+T146	Chemical 18844 18855	R [+]-3-PPP
+T147	Chemical 18861 18867	NE-100
+T148	Chemical 18893 18910	[11 C]nemonapride
+T149	Chemical 18983 19000	[11 C]nemonapride
+R22	Associated_With Arg1:T147 Arg2:T142	
+R23	Associated_With Arg1:T146 Arg2:T142	
+R24	Associated_With Arg1:T145 Arg2:T142	
+R25	Associated_With Arg1:T144 Arg2:T142	
+R26	Associated_With Arg1:T143 Arg2:T142	
+R27	Binds_With Arg1:T147 Arg2:T141	
+R28	Binds_With Arg1:T146 Arg2:T141	
+R29	Binds_With Arg1:T145 Arg2:T141	
+R30	Binds_With Arg1:T144 Arg2:T141	
+R31	Binds_With Arg1:T143 Arg2:T141	
+T150	Protein 19005 19020	sigma receptors
+R32	Binds_With Arg1:T149 Arg2:T150	
+T151	Biological_Activity 19123 19130	binding
+T152	Chemical 19140 19157	[11 C]nemonapride
+T153	Chemical 469 473	11 C
+T154	Chemical 716 720	11 C
+T155	Chemical 1226 1230	11 C
+T156	Chemical 1724 1729	11 C-
+T157	Chemical 3079 3083	11 C

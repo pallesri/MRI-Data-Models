@@ -1,0 +1,15 @@
+T1	Chemical 28 40	testosterone
+T2	Chemical 45 71	5alpha-dihydrotestosterone
+T3	Chemical 100 103	HTO
+T4	Chemical 144 151	tritium
+T5	Chemical 144 168	tritium labeled steroids
+T6	Species 226 229	rat
+T7	Protein 178 185	enzymes
+T8	Chemical 210 222	testosterone
+T9	Chemical 236 262	2alpha-hydroxytestosterone
+T10	Metabolite 236 262	2alpha-hydroxytestosterone
+R1	Metabolite_Of Arg1:T10 Arg2:T8	
+R2	Isolated_From Arg1:T10 Arg2:T6	
+T11	Spectral_Data 294 328	gaschromatography and mass spectra
+R3	Associated_With Arg1:T10 Arg2:T11	
+R4	Associated_With Arg1:T9 Arg2:T11	

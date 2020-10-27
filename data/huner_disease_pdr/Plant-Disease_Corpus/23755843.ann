@@ -1,0 +1,29 @@
+T1	Disease 140 149	hepatitis
+T2	Disease 154 166	liver cancer
+T3	Disease 329 343	liver diseases
+T4	Disease 522 531	hepatitis
+T5	Disease 554 566	liver cancer
+T6	Disease 865 870	liver
+T7	Disease 961 970	hepatitis
+T8	Disease 1118 1123	liver
+T9	Disease 1383 1392	hepatitis
+T10	Disease 1397 1417	liver carcinogenesis
+T11	Disease 1531 1540	hepatitis
+T12	Disease 1545 1565	liver carcinogenesis
+T13	Plant 104 110	coffee
+T15	Plant 311 317	coffee
+T17	Plant 374 380	coffee
+T23	Plant 900 906	Coffee
+T25	Plant 1244 1250	coffee
+T27	Plant 1355 1361	coffee
+T29	Plant 1503 1509	coffee
+T14	Treatment_of_disease 119 126	reduces
+E1	Treatment_of_disease:T14 Theme:T1 Cause:T13 Theme2:T2
+T16	Treatment_of_disease 318 325	effects
+E2	Treatment_of_disease:T16 Theme:T3 Cause:T15
+T20	Treatment_of_disease 1374 1382	prevents
+E3	Treatment_of_disease:T20 Theme:T9 Theme2:T10 Cause:T27
+T21	Treatment_of_disease 1517 1527	prevention
+E4	Treatment_of_disease:T21 Theme:T11 Theme2:T12 Cause:T29
+T22	Treatment_of_disease 935 942	delayed
+E5	Treatment_of_disease:T22 Theme:T7 Cause:T23

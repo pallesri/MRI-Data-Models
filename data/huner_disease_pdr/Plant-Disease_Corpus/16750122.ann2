@@ -1,0 +1,35 @@
+T1	Disease 79 85	asthma
+T2	Disease 123 129	asthma
+T4	Disease 280 286	asthma
+T5	Disease 365 371	asthma
+T6	Disease 445 451	asthma
+T9	Plant 64 70	carrot
+T11	Plant 148 155	carrots
+T13	Plant 305 312	carrots
+T14	Plant 463 469	carrot
+T17	Plant 657 663	carrot
+T20	Plant 940 946	carrot
+T21	Plant 1011 1017	carrot
+T24	Plant 1098 1104	carrot
+T25	Plant 1471 1477	carrot
+T27	Plant 1737 1743	carrot
+T29	Plant 1798 1804	carrot
+T31	Plant 1825 1831	carrot
+T10	Plant 174 181	pollens
+T34	Disease 213 232	rhinoconjunctivitis
+T35	Plant 240 245	grass
+T3	Plant 250 262	olive pollen
+T12	Disease 263 270	allergy
+T36	Disease 341 360	rhinoconjunctivitis
+T37	Plant 420 427	pollens
+T38	Cause_of_disease 372 378	due to
+E1	Cause_of_disease:T38 Theme:T5 Theme2:T36 Cause:T37
+T15	Plant 766 778	birch pollen
+T7	Plant 1548 1554	pollen
+T16	Disease 1555 1563	allergy.
+T18	Disease 1805 1812	allergy
+T19	Disease 1814 1821	Allergy
+T22	Plant 1893 1900	pollens
+T23	Plant 1932 1944	birch pollen
+T8	Plant 2016 2022	pollen
+T26	Disease 2023 2030	allergy

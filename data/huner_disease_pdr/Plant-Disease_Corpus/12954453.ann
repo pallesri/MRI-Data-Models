@@ -1,0 +1,9 @@
+T1	Disease 167 186	Alzheimer's disease
+T2	Disease 1323 1342	Alzheimer's disease
+T4	Plant 278 292	Dipsacus asper
+T7	Plant 870 884	Dipsacus asper
+T9	Plant 951 965	Dipsacus asper
+T11	Plant 1157 1171	Dipsacus asper
+T13	Plant 1260 1274	Dipsacus asper
+T3	Treatment_of_disease 1295 1306	therapeutic
+E1	Treatment_of_disease:T3 Theme:T2 Cause:T13

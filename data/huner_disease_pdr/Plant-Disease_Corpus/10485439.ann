@@ -1,0 +1,28 @@
+T1	Disease 48 60	colon cancer	D003110
+T2	Disease 262 274	colon cancer	D003110
+T4	Disease 779 784	tumor	D009369
+T7	Disease 1162 1167	tumor	D009369
+T9	Disease 1543 1548	tumor	D009369
+T12	Plant 20 25	wheat	4565
+T16	Plant 367 372	wheat	4565
+T19	Plant 525 530	wheat	4565
+T21	Plant 1017 1022	wheat	4565
+T23	Plant 1179 1184	wheat	4565
+T24	Plant 1416 1421	Wheat	4565
+T27	Plant 1579 1584	Wheat	4565
+T29	Plant 1694 1699	Wheat	4565
+T30	Plant 201 206	wheat	4565
+T6	Disease 999 1004	tumor	D009369
+T3	Disease 702 707	tumor	D009369
+T10	Disease 1646 1651	tumor	D009369
+T13	Treatment_of_disease 31 39	protects
+E1	Treatment_of_disease:T13 Cause:T12 Theme:T1	
+R1	Treatment_of_disease_wo Arg1:T30 Arg2:T2	
+R2	Treatment_of_disease_wo Arg1:T21 Arg2:T6	
+R3	Treatment_of_disease_wo Arg1:T27 Arg2:T10	
+T5	Disease 879 899	colon carcinogenesis	D003110
+T8	Disease 901 920	aberrant crypt foci	D058739
+T11	Disease 922 925	ACF	D058739
+*	Equiv T8 T11
+T14	Disease 1214 1217	ACF	D058739
+T15	Disease 1689 1692	ACF	D058739

@@ -1,0 +1,28 @@
+T1	Disease 87 102	pancreas cancer
+T2	Disease 190 196	Cancer
+T3	Disease 579 594	pancreas cancer
+T4	Disease 712 718	cancer
+T5	Disease 770 785	pancreas cancer
+T6	Disease 815 841	colon, and rectum) cancers
+T7	Disease 1025 1031	cancer
+T8	Disease 1139 1154	pancreas cancer
+T9	Disease 1394 1410	referent cancers
+T10	Disease 1491 1503	colon cancer
+T11	Disease 1524 1550	pancreas and rectum cancer
+T12	Disease 1974 1989	pancreas cancer
+T14	Plant 12 18	Coffee
+T15	Plant 262 268	coffee
+T18	Plant 422 428	coffee
+T19	Plant 556 562	coffee
+T22	Plant 658 664	coffee
+T23	Plant 902 909	tobacco
+T24	Plant 984 990	coffee
+T26	Plant 1107 1113	coffee
+T29	Plant 1350 1356	coffee
+T30	Plant 1584 1591	tobacco
+T32	Plant 1741 1747	coffee
+T34	Plant 1939 1945	coffee
+T35	Cause_of_disease 1966 1970	risk
+E1	Cause_of_disease:T35 Theme:T12 Cause:T34
+T13	Cause_of_disease 71 75	risk
+E2	Cause_of_disease:T13 Theme:T1 Cause:T14

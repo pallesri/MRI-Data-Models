@@ -1,0 +1,687 @@
+T1	Chemical 5 21	tetrasaccharides
+T2	Chemical 22 39	lacto-N -tetraose
+T3	Metabolite 22 39	lacto-N -tetraose
+T4	Chemical 41 42	1
+T5	Metabolite 41 42	1
+T6	Chemical 49 69	lacto-N -neotetraose
+T7	Metabolite 49 69	lacto-N -neotetraose
+T8	Metabolite 5 21	tetrasaccharides
+T9	Chemical 71 72	2
+T10	Metabolite 71 72	2
+T11	Chemical 91 107	oligosaccharides
+T12	Metabolite 91 107	oligosaccharides
+T13	Species 122 127	human
+T14	Chemical 166 192	aminodeoxy oligosaccharide
+R1	Isolated_From Arg1:T10 Arg2:T13	
+R3	Isolated_From Arg1:T7 Arg2:T13	
+R5	Isolated_From Arg1:T5 Arg2:T13	
+R7	Isolated_From Arg1:T3 Arg2:T13	
+R9	Isolated_From Arg1:T12 Arg2:T13	
+T16	Chemical 240 255;257 258	Oligosaccharide 1
+T15	Chemical 240 255;264 265	Oligosaccharide 2
+T17	Chemical 318 334	oligosaccharides
+T18	Metabolite 318 334	oligosaccharides
+T19	Species 338 343	human
+T20	Chemical 360 371	glycolipids
+T21	Metabolite 360 371	glycolipids
+T22	Chemical 381 394	paragloboside
+T23	Metabolite 381 394	paragloboside
+T24	Chemical 399 420	sialosylparagloboside
+T25	Metabolite 399 420	sialosylparagloboside
+T26	Protein 429 442	glycoproteins
+R11	Isolated_From Arg1:T21 Arg2:T19	
+R2	Isolated_From Arg1:T23 Arg2:T19	
+R4	Isolated_From Arg1:T25 Arg2:T19	
+T28	Chemical 450 466	oligosaccharides
+T29	Metabolite 240 255;257 258	Oligosaccharide 1
+T30	Metabolite 240 255;264 265	Oligosaccharide 2
+T31	Metabolite 450 466	oligosaccharides
+T32	Biological_Activity 504 512	acceptor
+T33	Protein 528 548	glycosyltransferases
+T34	Protein 579 591	glycosidases
+T35	Biological_Activity 614 623	antigenic
+T36	Chemical 675 695	lacto-N -neotetraose
+T37	Metabolite 675 695	lacto-N -neotetraose
+T38	Protein 722 730	antibody
+T39	Biological_Activity 731 736	bound
+T40	Biological_Activity 774 786	immunization
+T41	Species 799 804	human
+T42	Chemical 824 837	Paragloboside
+T43	Metabolite 824 837	Paragloboside
+T44	Chemical 841 867	lactoneotetraosyl ceramide
+T45	Species 893 898	human
+T46	Species 1002 1009	hamster
+R8	Isolated_From Arg1:T43 Arg2:T46	
+T47	Biological_Activity 1070 1077	antigen
+T48	Chemical 1115 1150	Neu5Ac α-(2→6)-lacto-N -neotetraose
+T49	Metabolite 1115 1150	Neu5Ac α-(2→6)-lacto-N -neotetraose
+T50	Biological_Activity 1170 1180	inhibition
+T51	Species 1213 1218	human
+R10	Associated_With Arg1:T49 Arg2:T50	
+R12	Associated_With Arg1:T48 Arg2:T50	
+T52	Chemical 1264 1265	1
+T53	Metabolite 1264 1265	1
+T54	Chemical 1271 1272	2
+T55	Metabolite 1271 1272	2
+T56	Species 1305 1316	pneumococci
+T57	Chemical 1331 1346	pentasaccharide
+T58	Chemical 1347 1395	HSO3 -3Gal-β-(1→3)-GlcNAc-β-(1→3)-Gal-β-(1→4)Glc
+T59	Chemical 1422 1437	oligosaccharide
+T60	Species 1450 1455	human
+T61	Protein 1456 1466	E-selectin
+T27	Protein 1518 1528	E-selectin
+T62	Biological_Activity 1553 1562	inhibitor
+T63	Protein 1566 1576	E-selectin
+R6	Associated_With Arg1:T58 Arg2:T62	
+T64	Biological_Activity 1592 1602	inhibitors
+T65	Biological_Activity 1689 1699	metastasis
+T66	Chemical 1764 1785	lacto-N -neotetraoses
+T67	Chemical 1838 1902	blood group I-active biantennary neolacto-type decaosyl ceramide
+T68	Chemical 1959 1975	oligosaccharides
+T69	Chemical 1990 2016	2-amino-2-deoxy-d -glucose
+T70	Chemical 2101 2113	amino group.
+T71	Chemical 2187 2215	2-deoxy-2-phthalimido sugars
+T72	Chemical 2229 2244	glycosyl donors
+T73	Chemical 2266 2298	lacto-N -neotetraose derivatives
+T74	Chemical 2312 2346	p -nitrophenyl lacto-N -tetraoside
+T75	Chemical 2361 2390	benzyl lacto-N -neotetraoside
+T76	Chemical 2403 2416	lacto-N -bios
+T77	Chemical 2438 2449	phthalimide
+T78	Chemical 2471 2492	benzyl glycoside of 2
+T79	Chemical 2514 2527	ceramide of 1
+T80	Chemical 2557 2580	2-azido-2-deoxy glucose
+T81	Chemical 2604 2624	N -acetylglucosamine
+T82	Chemical 2637 2666	methyl lacto-N -neotetraoside
+T83	Chemical 2637 2666;2671 2682	methyl lacto-N -neotetraoside derivatives
+T84	Chemical 2712 2723	phthalimide
+T85	Chemical 2748 2757	oxazoline
+T86	Chemical 2828 2845	lacto-N -tetraose
+T87	Metabolite 2828 2845	lacto-N -tetraose
+R13	Binds_With Arg1:T58 Arg2:T61	
+T88	Chemical 2871 2880	oxazoline
+T89	Chemical 2895 2937	β-d -galactopyranosyl-(1→3)-d -glucosamine
+T90	Chemical 2939 2955	lacto-N -biose I
+T91	Chemical 2993 3000	lactose
+T92	Chemical 3029 3075	2-O -methyl derivative of the galactose moiety
+T93	Chemical 3126 3135	oxazoline
+T94	Chemical 3178 3193;3200 3205	dimethylmaleoyl group
+T95	Chemical 3195 3198;3200 3205	DMM group
+T96	Chemical 3215 3220	amino
+T97	Chemical 3242 3253	glucosamine
+T98	Chemical 3362 3387	d -glucosamine derivative
+T99	Chemical 3395 3409	glycosyl donor
+T100	Chemical 3482 3500	glycosyl acceptors
+T101	Chemical 3516 3542	dimethylmaleoylamido group
+T102	Chemical 3662 3671	DMM group
+T103	Chemical 3756 3776	lacto-N -neotetraose
+T104	Metabolite 3756 3776	lacto-N -neotetraose
+T105	Chemical 3778 3779	2
+T106	Metabolite 3778 3779	2
+T107	Chemical 3786 3803	lacto-N -tetraose
+T108	Metabolite 3786 3803	lacto-N -tetraose
+T109	Chemical 3805 3806	1
+T110	Metabolite 3805 3806	1
+T111	Chemical 3923 3939	oligosaccharides
+T112	Chemical 4002 4018	tetrasaccharides
+T113	Chemical 4041 4054	disaccharides
+T114	Chemical 4084 4096	disaccharide
+T115	Chemical 4117 4128	glucosamine
+T116	Chemical 4152 4161	DMM group
+T117	Chemical 4196 4208;4215 4216	disaccharide 7
+T118	Chemical 4260 4270	acceptor 4
+T119	Chemical 4311 4333	trichloroacetimidate 3
+T120	Chemical 4363 4403	trimethylsilyl trifluoromethanesulfonate
+T121	Chemical 4405 4415	Me3 SiOTf)
+T122	Chemical 4428 4451	β-linked disaccharide 5
+T123	Spectral_Data 4471 4654	1 H NMR spectrum supported the assignment; two doublets for H-1 and H-1′ at δ  5.10 and 4.61 with a J  value of 8.0 Hz for each indicated the axial nature of H-1 and H-2 in both rings
+R14	Associated_With Arg1:T122 Arg2:T123	
+T124	Chemical 4660 4684;4693 4698	tert -butyldimethylsilyl group
+T125	Chemical 4686 4691;4693 4698	TBDMS group
+T126	Chemical 4716 4717	5
+T127	Chemical 4724 4750	tetrabutylammonium fluorid
+T128	Chemical 4753 4757	TBAF
+T129	Chemical 4767 4768	6
+T130	Chemical 4813 4833;4840 4841	trichloroacetimidate 7
+T131	Chemical 4872 4884	disaccharide
+T132	Chemical 4894 4991	benzyl (2,4,6-tri-O -benzyl-β-d -galactopyranosyl)-(1→4)-2,3,6-tri-O -benzyl-β-d -glucopyranoside
+T133	Chemical 4993 4994	8
+T134	Chemical 5020 5037	tetrasaccharide 9
+T135	Spectral_Data 5044 5138	13 C NMR spectrum showed the presence of four signals at δ  100.20, 100.70, 102.70, and 102.80
+R15	Associated_With Arg1:T134 Arg2:T135	
+T136	Chemical 5210 5219	DMM group
+T137	Chemical 5225 5226	9
+T138	Chemical 5233 5237	NaOH
+T139	Chemical 5250 5253	DMM
+T140	Chemical 5286 5289	HCl
+T141	Chemical 5322 5332	butenolide
+T142	Chemical 5355 5361	acetyl
+T143	Chemical 5372 5376	10  
+T144	Chemical 5415 5432	hydrazine hydrate
+T145	Chemical 5503 5505	10
+T146	Spectral_Data 5581 5601	1 H NMR spectroscopy
+T147	Chemical 5666 5687	dimethylmaleoyl group
+R16	Associated_With Arg1:T147 Arg2:T146	
+T148	Chemical 5644 5650	methyl
+T149	Chemical 5746 5752	methyl
+T150	Chemical 5810 5822	benzyl group
+T151	Chemical 5836 5842	acetyl
+T152	Chemical 5771 5779	hydrogen
+T153	Chemical 5854 5856	11
+T154	Chemical 5878 5903	peracetyl derivative of 2
+R17	Associated_With Arg1:T145 Arg2:T146	
+T155	Spectral_Data 5910 5926	1 H NMR spectrum
+T156	Chemical 5930 5932	11
+R18	Associated_With Arg1:T154 Arg2:T155	
+R19	Associated_With Arg1:T156 Arg2:T155	
+T157	Chemical 5973 5974;6001 6007	α anomer
+T158	Chemical 5989 5990;6001 6007	β anomer
+R20	Associated_With Arg1:T157 Arg2:T155	
+R21	Associated_With Arg1:T158 Arg2:T155	
+T159	Spectral_Data 6125 6145	1 H NMR spectroscopy
+T160	Chemical 6168 6170	11
+T161	Chemical 6177 6178	2
+T162	Spectral_Data 6198 6206	13 C NMR
+T163	Chemical 6215 6216	2
+R22	Associated_With Arg1:T163 Arg2:T162	
+T164	Chemical 6283 6284	2
+T165	Chemical 6308 6310	11
+T166	Chemical 6346 6347	2
+T167	Chemical 6388 6407	lacto-N -tetraose 1
+T168	Metabolite 6388 6405	lacto-N -tetraose
+T169	Chemical 6485 6497	disaccharide
+T170	Chemical 6513 6525;6535 6536	disaccharide 8
+T171	Chemical 6680 6695	tetrasaccharide
+T172	Chemical 6742 6746;6757 6767	mono saccharide
+T173	Chemical 6752 6767	oligosaccharide
+T174	Chemical 6810 6812	12
+T175	Chemical 6836 6837	8
+T176	Chemical 6847 6849	13
+T177	Spectral_Data 6878 6985	1 H NMR spectrum showed a doublet at δ  5.27 for the newly formed glycosidic bond with a J  value of 8.4 Hz
+R23	Associated_With Arg1:T176 Arg2:T177	
+T178	Spectral_Data 7185 7252	13 C NMR spectrum showed signals at δ c  100.30, 100.50, and 102.80
+R24	Associated_With Arg1:T176 Arg2:T178	
+T179	Chemical 7336 7343	p -TsOH
+T180	Chemical 7349 7351	14
+T181	Spectral_Data 7359 7370	NMR spectra
+R25	Associated_With Arg1:T180 Arg2:T181	
+T182	Chemical 7397 7408	benzylidene
+T183	Chemical 7439 7448	DMM group
+T185	Chemical 7455 7467	acetyl group
+T184	Chemical 7498 7504	alkali
+T186	Chemical 7540 7546	acetyl
+T187	Chemical 7588 7596	hydrogen
+T188	Chemical 7605 7607	15
+T189	Chemical 7560 7562	15
+T190	Chemical 7622 7628	acetyl
+T191	Chemical 7644 7667	peracetyl derivative 16
+T192	Chemical 7685 7686;7693 7699	α anomer
+T193	Chemical 7691 7699	β anomer
+T194	Chemical 7775 7787;7794 7796	disaccharide 21
+T195	Chemical 7822 7824	17
+T196	Chemical 7857 7864	p -TsOH
+T197	Chemical 7873 7875	18
+T198	Chemical 7885 7891	acetyl
+T199	Chemical 7902 7904	19
+T200	Chemical 7933 7944	TBDMS group
+T201	Chemical 7950 7954	TBAF
+T202	Chemical 7960 7978	1-O-unprotected 20
+T203	Chemical 8025 8046	trichloroacetonitrile
+T204	Chemical 8066 8069	DBU
+T205	Chemical 8078 8101	trichloroacetimidate 21
+T206	Chemical 8116 8118	21
+T207	Chemical 8125 8126	8
+T208	Chemical 8159 8177	tetrasaccharide 22
+T209	Spectral_Data 8197 8289	1 H NMR spectrum showed for the H-1c a doublet at δ  5.16 with a coupling constant of 8.4 Hz
+R26	Associated_With Arg1:T208 Arg2:T209	
+T210	Spectral_Data 8342 8408	13 C NMR spectrum showed signals at δ c  99.90, 100.50, 102.8 (2C)
+R27	Associated_With Arg1:T208 Arg2:T210	
+T211	Chemical 8479 8488	DMM group
+T212	Chemical 8494 8496	22
+T213	Chemical 8513 8519	acetyl
+T214	Chemical 8534 8536	15
+T215	Chemical 8636 8653	lacto-N -tetraose
+T216	Metabolite 8636 8653	lacto-N -tetraose
+T217	Chemical 8655 8656	1
+T218	Metabolite 8655 8656	1
+T219	Chemical 8663 8683	lacto-N -neotetraose
+T220	Metabolite 8663 8683	lacto-N -neotetraose
+T221	Chemical 8685 8686	2
+T222	Metabolite 8685 8686	2
+T223	Chemical 8775 8787	amino sugars
+T224	Chemical 8793 8817	dimethylmaleic anhydride
+T225	Chemical 8832 8855	dimethylmaleimido group
+T226	Chemical 8881 8887	alkali
+T227	Chemical 8900 8904	acid
+T228	Chemical 8996 9008	amino sugars
+T229	Chemical 9045 9056	amino acids
+T230	Protein 9061 9069	proteins
+T231	Chemical 9105 9125;9134 9139	trichloroacetimidate group
+T232	Chemical 9158 9169	glucosamine
+T233	Chemical 9220 9235	oligosaccharide
+T234	Chemical 9250 9265	glycosyl donors
+T235	Chemical 9309 9318	DMM group
+T236	Chemical 9401 9416	oligosaccharide
+T237	Chemical 9535 9551	tetrasaccharides
+T238	Chemical 9655 9671	oligosaccharides
+T239	Chemical 9712 9720	Solvents
+T240	Chemical 9789 9795	Silica
+T241	Chemical 9942 9960	ammonium molybdate
+T242	Chemical 9971 9989	cerium(IV) sulfate
+T243	Chemical 10004 10010	H2 SO4
+T244	Chemical 10024 10030	H2 SO4
+T245	Chemical 10096 10102	silica
+T246	Spectral_Data 10408 10419	NMR spectra
+T247	Chemical 10484 10501	tetramethylsilane
+T248	Spectral_Data 10543 10558	1 H NMR spectra
+T249	Chemical 10696 10712	13 C NMR spectra
+T250	Chemical 10727 10733	carbon
+T251	Spectral_Data 10808 10818	MS spectra
+T252	Chemical 11011 11152	tert-Butyldimethylsilyl (2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→4)-3,6-di-O-benzyl-2-deoxy-2-dimethylmaleimido-β-d -glucopyranoside
+T253	Chemical 11154 11155	5
+T254	Chemical 11199 11200	4
+T255	Chemical 11228 11235	CH2 Cl2
+T256	Chemical 11262 11270	nitrogen
+T257	Chemical 11294 11303	Me3 SiOTf
+T258	Chemical 11315 11322	CH2 Cl2
+T259	Chemical 11410 11415	Et3 N
+T260	Chemical 11519 11524	EtOAc
+T261	Chemical 11572 11581	petroleum
+T262	Chemical 11582 11587	EtOAc
+T263	Spectral_Data 11634 12311	1 H NMR (600 MHz, CDCl3 ): δ  7.36–7.10 (m, 10 H, 2 Ph), 5.26 (d, 1 H, J 3,4  2.9 Hz, H-4b), 5.13 (dd, 1 H, J 1,2  8.0, J 2,3  10.4 Hz, H-2b), 5.10 (d, 1 H, J 1,2  8.0 Hz, H-1a), 4.86 (dd, 1 H, H-3b), 4.61 (d, 1 H, H-1b), 4.73, 4.50 (2 d, 2 H, J gem  12.2 Hz, CH 2 Ph), 4.85, 4.41 (2 d, 2 H, J gem  12.4 Hz, CH 2 Ph), 4.12 (dd, 1 H, J 2,3  10.8, J 3,4  8.8 Hz, H-3a), 3.98–3.93 (m, 3 H, H-4a, H-6b, H-6′b), 3.84 (dd, 1 H, H-2a), 3.73 (dd, 1 H, J gem  11.0, J 5,6′  3.4 Hz, H-6′a), 3.68–3.65 (m, 2 H, H-5b, H-6a), 3.44 (m, 1 H, H-5a), 2.05, 1.99, 1.98, 1.95 (4 s, 12 H, 4 CH3 CO), 1.80 (br.s, 6 H, 2 CH3 ), 0.72 [s, 9 H, SiC(CH3 )3 ], 0.02 (s, 3 H, SiCH3 ), −0.09 (s, 3 H, SiCH3
+T264	Chemical 11652 11657	CDCl3
+T272	Spectral_Data 12315 12765	13 C NMR (150.9 MHz, CDCl3 ): δ  170.31, 170.20, 170.03, 169.17 (4 CH3 C O, 2 CO), 139.10–136.69, 128.51–127.03 (2 Ph), 100.38 (C-1b), 93.43 (C-1a), 78.03 (C-4a), 74.76 (C-3a), 74.08 (C-5a), 73.58 (C H2 Ph), 71.03 (C H2 Ph), 70.48 (C-3b), 69.53 (C-5b), 67.72 (C-2b), 67.06 (C-6a), 66.95 (C-4b), 60.85 (C-6b), 57.54 (C-2a), 25.32 [SiC(C H3 )3 ], 20.75, 20.64, 20.59, 20.54 (4 C H3 CO), 17.57 [SiC (CH3 )], 8.00 (2 CH3 ), −4.24 (SiCH3 ), −5.62 (SiCH3 )
+T273	Chemical 12336 12341	CDCl3
+T281	Spectral_Data 12767 12772	FABMS
+T282	Chemical 12794 12797	NaI
+T283	Chemical 11535 11536	5
+R28	Associated_With Arg1:T283 Arg2:T263	
+R29	Associated_With Arg1:T283 Arg2:T272	
+R30	Associated_With Arg1:T283 Arg2:T281	
+R31	Associated_With Arg1:T252 Arg2:T263	
+R32	Associated_With Arg1:T252 Arg2:T272	
+R33	Associated_With Arg1:T252 Arg2:T281	
+T284	Chemical 12936 13079	O- [(2,3,4,6-Tetra-O-acetyl-β-d -galactopyranosyl)-(1→4)-3,6-di-O-benzyl-2-deoxy-2-dimethylmaleimido-α,β-d -glucopyranosyl trichloroacetimidate
+T285	Chemical 13081 13082	7
+T286	Chemical 13099 13100	5
+T287	Chemical 13128 13131	THF
+T288	Chemical 13145 13148	ice
+T289	Chemical 13184 13188	AcOH
+T290	Chemical 13214 13218	TBAF
+T291	Chemical 13275 13278	ice
+T292	Chemical 13365 13369	NaCl
+T293	Chemical 13406 13413	CH2 Cl2
+T294	Chemical 13480 13497	magnesium sulfate
+T295	Chemical 13593 13598	EtOAc
+T296	Chemical 13599 13614	petroleum ether
+T297	Chemical 13625 13626	6
+T298	Chemical 13671 13672	6
+T299	Chemical 13694 13715	trichloroacetonitrile
+T300	Chemical 13739 13773	1,8-diazabicyclo(5,4,0)undec-7-ene
+T301	Chemical 13802 13809	CH2 Cl2
+T302	Chemical 13944 13959	petroleum ether
+T303	Chemical 13960 13965	EtOAc
+T304	Chemical 13969 13982	triethylamine
+T305	Chemical 13993 13994	7
+T306	Chemical 14063 14078	petroleum ether
+T307	Chemical 14079 14084	EtOAc
+T308	Chemical 14088 14102	triethylamine)
+T309	Spectral_Data 14147 14154	1 H NMR
+T310	Chemical 14165 14176	d 6 -Me2 SO
+T312	Spectral_Data 14459 14464	FABMS
+T313	Chemical 14486 14489	NaI
+R34	Associated_With Arg1:T284 Arg2:T309	
+R35	Associated_With Arg1:T284 Arg2:T312	
+R36	Associated_With Arg1:T305 Arg2:T309	
+R37	Associated_With Arg1:T305 Arg2:T312	
+T314	Chemical 14649 14869	Benzyl (2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→4)-(3,6-di-O-benzyl-2-deoxy-2-dimethylmaleimido-β-d -glucopyranosyl)-(1→3)-(2,4,6-tri-O-benzyl-β-d -galactopyranosyl)-(1→4)-2,3,6-tri-O-benzyl-β-d -glucopyranoside
+T315	Chemical 14871 14872	9
+T316	Chemical 14888 14889	7
+T317	Chemical 14917 14918	8
+T318	Chemical 14949 14953	MeCN
+T319	Chemical 14979 14987	nitrogen
+T320	Chemical 15011 15020	Me3 SiOTf
+T321	Chemical 15032 15036	MeCN
+T322	Chemical 15111 15124	triethylamine
+T323	Chemical 15218 15233	petroleum ether
+T324	Chemical 15234 15239	EtOAc
+T325	Chemical 15250 15251	9
+T326	Chemical 15294 15309	petroleum ether
+T327	Chemical 15310 15315	EtOAc
+T328	Chemical 15352 15357	CHCl3
+T329	Spectral_Data 15361 16297	1 H NMR (600 MHz, CDCl3 ): δ  7.34–7.07 (m, 45 H, 9 Ph), 5.26 (d, 1 H, J 3,4  3.0 Hz, H-4d), 5.21 (d, 1 H, J 1,2  8.4 Hz, H-1c), 5.14 (dd, 1 H, J 1,2  8.4, J 2,3  10.2 Hz, H-2d), 5.04 (d, 1 H, J gem  11.4 Hz, CHH Ph), 4.92 (d, 1 H, J gem  10.5 Hz, CH HPh), 4.88–4.82 (m, 4 H, H-3d, 1.5 CH 2 Ph), 4.69 (d, 1 H, J gem  10.8 Hz, CH HPh), 4.66 (d, 1 H, J gem  11.8 Hz, CHH Ph), 4.60–4.56 (m, 3 H, H-1d, CH 2 Ph), 4.48 (d, 1 H, J gem  11.4 Hz, CH HPh), 4.47 (d, 1 H, J gem  12.1 Hz, CH HPh), 4.44 (d, 1 H, J gem  11.8 Hz, CH HPh), 4.39–4.26 (m, 7 H, H-1b, H-1a, 2.5 CH 2 Ph), 4.21–4.17 (m, 2 H, H-3c, CH HPh), 4.03–4.01 (m, 3 H, H-2c, H-4b, H-4c), 3.93 (m, 2 H, H-6d, H-6′d), 3.88 (m, 1 H, H-4a), 3.77–3.71 (m, 2 H, H-6c, H-6′c), 3.63 (m, 1 H, H-5d), 3.55–3.51 (m, 5 H, H-5c, H-6′b, H-2b, H-3b, H-6′a), 3.40–3.35 (m, 5 H, H-6b, H-6a, H-5b, H-2a, H-3a), 3.01 (m, 1 H, H-5a), 2.07, 1.99, 1.98, 1.97 (4 s, 12 H, 4 CH3 CO), 1.56 (br.s, 6 H, 2 CH
+T330	Chemical 15379 15384	CDCl3
+T339	Spectral_Data 16302 16794	13 C NMR (150.9 MHz, CDCl3 ): δ  102.80 (C-1a), 102.70 (C-1b), 100.70 (C-1d), 100.20 (C-1c), 83.40 (C-3a), 82.50 (C-3b), 82.00 (C-2a), 79.30 (C-2b), 78.20 (C-4c), 77.30 (C-3c), 76.90 (C-4b), 76.40 (C-4a), 75.80 (C H2 Ph), 75.30 (2 C H2 Ph), 75.20 (C-5a), 74.70 (C-5, C H2 Ph), 74.60 (C H2 Ph), 74.20 (C H2 Ph), 73.80 (C H2 Ph), 73.50 (C H2 Ph), 73.30 (C-5b), 71.30 (C H2 Ph, C-3d), 70.80 (C-5d), 69.90 (C-2d), 68.60 (C-6b), 68.30 (C-6c), 68.20 (C-6a), 67.20 (C-4d), 60.90 (C-6d), 56.40 (C-2c)
+T340	Chemical 16323 16328	CDCl3
+T341	Spectral_Data 16796 16804	MALDI-MS
+T342	Chemical 16821 16824	DHB
+T343	Chemical 16825 16828	THF
+R38	Associated_With Arg1:T314 Arg2:T329	
+R39	Associated_With Arg1:T314 Arg2:T339	
+R40	Associated_With Arg1:T314 Arg2:T341	
+R41	Associated_With Arg1:T325 Arg2:T329	
+R42	Associated_With Arg1:T325 Arg2:T339	
+R43	Associated_With Arg1:T325 Arg2:T341	
+T344	Chemical 16969 17181	Benzyl (2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→4)-(2-acetamido-2-deoxy-3,6-di-O-benzyl-β-d -glucopyranosyl)-(1→3)-(2,4,6-tri-O-benzyl-β-d -galactopyranosyl)-(1→4)-2,3,6-tri-O-benzyl-β-d -glucopyranoside
+T345	Chemical 17183 17185	10
+T346	Chemical 17216 17217	9
+T347	Chemical 17245 17249	NaOH
+T348	Chemical 17272 17276	MeOH
+T349	Chemical 17277 17284	dioxane
+T350	Chemical 17285 17290	water
+T351	Chemical 17379 17382	HCl
+T352	Chemical 17383 17387	H2 O
+T353	Chemical 17422 17425	HCl
+T354	Chemical 17473 17485	ethanolamine
+T355	Chemical 17554 17562	pyridine
+T356	Chemical 17563 17567	AcOH
+T357	Chemical 17638 17645	toluene
+T358	Chemical 17732 17739	CH2 Cl2
+T359	Chemical 17699 17704	water
+T360	Chemical 17797 17804	MgSO4  
+T361	Chemical 17899 17914	petroleum ether
+T362	Chemical 17915 17920	EtOAc
+T363	Chemical 17980 17982	10
+T364	Chemical 18031 18045	etroleum ether
+T365	Chemical 18046 18051	EtOAc
+T366	Chemical 18089 18099	chloroform
+T367	Chemical 18120 18125	CDCl3
+T368	Spectral_Data 18747 19270	13 C NMR (150.9 MHz, CDCl3 ): δ  102.40 (C-1b), 102.30 (C-1a), 101.70 (C-1c), 99.80 (C-1d), 82.70 (C-3a), 81.70 (C-3b), 81.60 (C-2a), 79.70 (C-2b), 78.40 (C-3c), 76.30 (C-4c), 76.10 (C-4b), 75.80 (C-4a), 75.30 (C H2 Ph), 74.90 (C-5a), 74.80 (C H2 Ph), 74.70 (C H2 Ph), 74.60 (C-5c), 74.50 (C H2 Ph), 73.60 (C H2 Ph), 73.30 (C H2 Ph), 73.20 (C H2 Ph), 73.10 (C H2 Ph), 73.00 (C-5b), 70.80 (C H2 Ph), 70.60 (C-3d), 70.40 (C-5d), 69.30 (C-2d), 68.30 (C-6c), 68.10 (C-6b), 68.00 (C-6a), 66.70 (C-4d), 60.50 (C-6d), 55.10 (C-2c)
+T369	Chemical 18768 18773	CDCl3
+T370	Spectral_Data 18102 18743	1 H NMR (600 MHz, CDCl3 ): δ  7.34–7.17 (m, 45 H, 9 Ph), 5.80 (br.s, 1 H, NH), 5.28 (d, 1 H, J 3,4  3.0, H-4d), 5.12 (dd, 1 H, J 1,2 =J 2,3  9.0 Hz, H-2d), 5.01 (d, 1 H, J gem  11.6 Hz, CH HPh), 4.98 (d, 1 H, J gem  10.6 Hz, CH HPh), 4.92–4.31 (m, 20 H, H-1b, H-1a, H-1d, H-3d, H-1c, 7.5 CH 2 Ph), 4.18 (d, 1 H, J gem  11.6 Hz, CH HPh), 4.01–3.90 (m, 5 H, H-6d, H-4a, H-4b, H-6′d, H-4c), 3.78–3.72 (m, 5 H, H-6′a, H-6c, H-6′c, H-3c, H-2c), 3.67–3.58 (m, 4 H, H-3b, H-5d, H-6a, H-2b), 3.52–3.49 (m, 3 H, H-3a, H-6′b, H-5c), 3.45–3.41 (m, 2 H, H-5b, H-2a), 3.35 (m, 1 H, H-6b), 3.24 (2 m, 1 H, H-5a), 2.01, 1.99, 1.98, 1.53 (4 s, 15 H, 5 CH3 C
+T371	Spectral_Data 19272 19279	MALDIMS
+T372	Chemical 19296 19299	DHB
+T373	Chemical 19300 19303	THT
+R44	Associated_With Arg1:T344 Arg2:T370	
+R45	Associated_With Arg1:T344 Arg2:T368	
+R46	Associated_With Arg1:T344 Arg2:T371	
+R47	Associated_With Arg1:T363 Arg2:T370	
+R48	Associated_With Arg1:T363 Arg2:T368	
+R49	Associated_With Arg1:T363 Arg2:T371	
+T374	Chemical 19468 19469	9
+T375	Chemical 19494 19511	hydrazine hydrate
+T376	Chemical 19547 19551	MeOH
+T377	Chemical 19663 19668	Ac2 O
+T378	Chemical 19673 19681	pyridine
+T379	Chemical 19717 19719	10
+T380	Chemical 19742 19951	(2,3,4,6-Tetra-O-acetyl-β-d -galactopyranosyl)-(1→4)-(2-acetamido-2-deoxy-3,6-di-O-acetyl-β-d -glucopyranosyl)-(1→3)-(2,4,6-tri-O-acetyl-β-d -galactopyranosyl)-(1→4)-1,2,3,6-tetra-O-acetyl-α,β-d -glucopyranose
+T381	Chemical 19953 19955	11
+T382	Chemical 20005 20009	AcOH
+T383	Chemical 20010 20014	MeOH
+T384	Chemical 20015 20022	dioxane
+T385	Chemical 20048 20056	hydrogen
+T386	Chemical 20076 20085	palladium
+T387	Chemical 20089 20095	carbon
+T388	Chemical 20101 20103	Pd
+T389	Chemical 20173 20179	Celite
+T390	Chemical 20196 20200	MeOH
+T391	Chemical 20296 20304	pyridine
+T392	Chemical 20314 20319	Ac2 O
+T393	Chemical 20402 20404	10
+T394	Chemical 20463 20470	toluene
+T395	Chemical 20471 20478	acetone
+T396	Chemical 20565 20572	toluene
+T397	Chemical 20573 20580	acetone
+T398	Spectral_Data 20595 21402	1 H NMR (600 MHz, CDCl3 ): δ  6.23 (d, 0.6 H, J 1,2 =J 1,2 =3.5 Hz, H-1aα ), 5.63 (d, 0.4 H, J 1,2  8.3 Hz, H-1aβ ), 5.4 (t, 0.6 Hz, J 2,3 =J 3,4  9.7 Hz, H-3aα ), 5.32 (m, 2 H, H-4d, NH), 5.28 (m, 1 H, J 3,4  3.3 Hz, H-4b), 5.18–5.15 (m, 1.4 H, H-3c, H-3aβ ), 5.8 (dd, 1 H, J 1,2 =J 2,3  8.2 Hz, H-2d), 5.02 (dd, 0.4 H, J 1,2  8.3, J 2,3  9.2 Hz, H-2aβ ), 4.99–4.95 (m, 2.63 H, H-3d, H-2b, H-2aα ), 4.76 (m, 1 H, H-6′c), 4.65 (m, 1 H, H-1c), 4.52 (d, 1 H, J 1,2  7.9 Hz, H-1d), 4.39–4.37 (m, 1 H, H-6′aβ , H-6′aα ), 4.31 (d, 1 H, J 1,2  7.9 Hz, H-1b), 4.13–4.02 (m, 5 H, H-6b, H-6′b, H-6d, H-6′d, H-6aβ , H-6aα ), 3.96–3.94 (m, 1.6 H, H-6c, H-5aα ), 3.85 (br.t, 1 H, H-5d), 3.78–3.71 (m, 4.4 H, H-3b, H-5aβ , H-4aα , H-5b, H-4aβ , H-4c), 3.49–3.47 (m, 2 H, H-5c, H-2c), 2.16–1.88 (several s, 42 H, 14 CH3 C
+T399	Chemical 20613 20618	CDCl3
+T400	Spectral_Data 21406 21867	13 C NMR (150.9 MHz, CDCl3 ): δ  101.40 (C-1d), 101.10, 100.70 (C-1b), 100.50 (C-1c), 91.80 (C-1aβ ), 89.20 (C-1aα ), 76.00 (C-3b), 75.90 (C-4c), 75.40 (C-4aα ), 75.30 (C-4aβ ), 73.90 (C-5aβ ), 73.00 (C-5c), 72.60 (C-3aβ ), 72.10 (C-3c), 71.40 (C-5b), 71.30 (C-2aα ), 71.10 (C-3d), 71.00 (C-5d), 70.70 (C-2aβ ), 69.60 (C-3aα ), 69.50 (C-2b), 69.40 (C-2d), 69.10 (C-4b), 66.90 (C-4d), 62.10 (C-6aα ), 61.80 (C-6aβ , C-6b), 61.00 (C-6d), 60.50 (C-6c), 55.20 (C-2c
+T401	Spectral_Data 21870 21877	MALDIMS
+T402	Chemical 21894 21897	DHB
+T403	Chemical 21898 21901	THT
+R50	Associated_With Arg1:T380 Arg2:T398	
+R51	Associated_With Arg1:T380 Arg2:T400	
+R52	Associated_With Arg1:T380 Arg2:T401	
+T404	Chemical 20489 20491	11
+R53	Associated_With Arg1:T404 Arg2:T398	
+R54	Associated_With Arg1:T404 Arg2:T400	
+R55	Associated_With Arg1:T404 Arg2:T401	
+T405	Chemical 22040 22163	(β-d -Galactopysranosyl)(1→4)-(2-acetamido-2-deoxy-β-d -glucopyranosyl)(1→3)-(β-d -galactopyranosyl)-(1→4)-d -glucopyranose
+T406	Chemical 22165 22166	2
+T407	Chemical 22182 22184	11
+T408	Chemical 22210 22214	MeOH
+T409	Chemical 22229 22234	MeONa
+T410	Chemical 22337 22353	Amberlite IR 120
+T411	Chemical 22443 22448	water
+T412	Chemical 22458 22459	2
+T413	Chemical 22490 22497	CH2 Cl2
+T414	Chemical 22499 22503	MeOH
+T415	Chemical 22504 22508	AcOH
+T416	Chemical 22534 22538	EtOH
+T417	Chemical 22539 22544	water
+T418	Spectral_Data 22559 22566	MALDIMS
+T419	Chemical 22583 22586	DHB
+T420	Chemical 22587 22590	THF
+R56	Associated_With Arg1:T405 Arg2:T418	
+R57	Associated_With Arg1:T412 Arg2:T418	
+T421	Spectral_Data 22732 22752	1 H NMR spectroscopy
+T422	Chemical 22768 22772	D2 O
+R58	Associated_With Arg1:T405 Arg2:T421	
+R59	Associated_With Arg1:T412 Arg2:T421	
+T423	Chemical 22825 23045	Benzyl (2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→3)-(4,6-benzylidene-2-deoxy-2-dimethylmaleimido-β-d -glucopyranosyl)-(1→3)-(2,4,6-tri-O-benzyl-β-d -galactopyranosyl)-(1→4)-2,3,6-tri-O-benzyl-β-d -glucopyranoside
+T424	Chemical 23047 23049	13
+T425	Chemical 23065 23067	12
+T426	Chemical 23093 23094	8
+T427	Chemical 23125 23132	CH2 Cl2
+T428	Chemical 23159 23167	nitrogen
+T429	Chemical 23194 23203	Me3 SiOTf
+T430	Chemical 23215 23222	CH2 Cl2
+T431	Chemical 23302 23315	triethylamine
+T432	Chemical 23409 23424	petroleum ether
+T433	Chemical 23425 23430	EtOAc
+T434	Chemical 23441 23443	13
+T435	Chemical 23488 23503	petroleum ether
+T436	Chemical 23504 23509	EtOAc
+T437	Chemical 23546 23551	CHCl3
+T438	Spectral_Data 23555 24713	1 H NMR (600 MHz, CDCl3 ): δ  7.40–7.10 (m, 40 H, 8 Ph), 5.57 (s, 1 H, CH Ph), 5.27 (d, 1 H, J 1,2  8.4 Hz, H-1c), 5.22 (dd, 1 H, J 3,4  2.6 Hz, H-4d), 5.00 (dd, 1 H, J 1,2  8.0, J 2,3  10.3 Hz, H-2d), 4.94 (d, 1 H, J gem  11.3 Hz, CHH Ph), 4.92 (d, 1 H, J gem  10.5 Hz, CHH Ph), 4.86 (d, 1 H, J gem  12.1 Hz, CHH Ph), 4.85 (d, 1 H, J gem  10.8 Hz, CH HPh), 4.81 (dd, 1 H, J 3,4  3.4 Hz, H-3d), 4.70 (d, 1 H, J gem  10.8 Hz, CH HPh), 4.65 (dd, 1 H, J 2,3 =J 3,4  9.5 Hz, H-3c), 4.61 (d, 1 H, J gem  10.5 Hz, CH HPh), 4.57 (d, 1 H, J gem  10.5 Hz, CH HPH), 4.54–4.51 (m, 2 H, H-1d, CH HPh), 4.48 (m, 2 H, CH 2 Ph), 4.39 (dd, 1 H, J gem  10.5, J 5,6′  4.8 Hz, H-6′c), 4.36–4.28 (m, 4 H, H-1a, H-1b, CH 2 Ph), 4.27 (d, 1 H, J gem  12.1 Hz, CH HPh), 4.22 (d, 1 H, J gem  11.8 Hz, CH HPh), 4.14 (dd, 1 H, J 2,3  9.5 Hz, H-2c), 4.05 (dd, 1 H, J gem  11.0, J 5,6′  8.1 Hz, H-6′d), 3.91–3.83 (m, 4 H, H-6c, H-6d, H-4b, H-4a), 3.77 (dd, 1 H, J 3,4 =J 4,5  9.5 Hz, H-4c), 3.60–3.48 (m, 6 H, H-5d, H-6′b, H-6′a, H-2b, H-3b, H-5c), 3.41–3.35 (m, 5 H, H-6a, H-6b, H-5b, H-3a, H-2a), 2.98 (m, 1 H, H-5a), 2.09, 1.93, 1.90, 1.81 (4 s, 12 H, 4 CH3 CO), 1.55 (br.s, 6 H, 2 CH
+T439	Chemical 23573 23578	CDCl3
+T440	Spectral_Data 24718 25208	13 C NMR (150.9 MHz, CDCl3 ): δ  102.80 (C-1a, C-1b), 101.90 (C-C HPh), 100.50 (C-1d), 100.30 (C-1c), 83.40 (C-3a), 82.10 (C-2a), 81.80 (C-3b), 81.20 (C-4c), 79.40 (C-2b), 76.80 (C-4b), 76.30 (C-4a), 75.70 (C H2 Ph), 75.40 (C-3c, C H2 Ph), 75.30 (C H2 Ph), 75.20 (C-5a), 74.50 (C H2 Ph), 73.80 (C H2 Ph), 73.50 (C H2 Ph), 73.40 (C-5b), 71.40 (C-3d), 71.20 (C H2 Ph), 70.70 (C-5d), 69.50 (C-2d), 69.10 (C-6c), 68.50 (C-6b), 68.10 (C-6a), 67.00 (C-4d), 66.30 (C-5c), 61.20 (C-6d), 56.00 (C-2c
+T441	Chemical 24739 24744	CDCl3
+T442	Spectral_Data 25211 25218	MALDIMS
+T443	Chemical 25235 25238	DHB
+T444	Chemical 25239 25242	THT
+R60	Associated_With Arg1:T423 Arg2:T438	
+R61	Associated_With Arg1:T434 Arg2:T438	
+R62	Associated_With Arg1:T423 Arg2:T440	
+R63	Associated_With Arg1:T434 Arg2:T440	
+R64	Associated_With Arg1:T423 Arg2:T442	
+R65	Associated_With Arg1:T434 Arg2:T442	
+T445	Chemical 25382 25594	Benzyl (2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→3)-(2-acetamido-4,6-di-O-acetyl-2-deoxy-β-d -glucopyranosyl)-(1→3)-(2,4,6-tri-O-benzyl-β-d -galactopyranosyl)-(1→4)-2,3,6-tri-O-benzyl-β-d -glucopyranoside
+T446	Chemical 25596 25598	15
+T447	Chemical 25610 25612	13
+T448	Chemical 25628 25630	13
+T449	Chemical 25655 25662	p -TsOH
+T450	Chemical 25689 25700	ethanethiol
+T451	Chemical 25736 25743	CH2 Cl2
+T452	Chemical 25817 25822	Et3 N
+T453	Chemical 25916 25931	petroleum ether
+T454	Chemical 25932 25937	EtOAc
+T455	Chemical 25987 26002	petroleum ether
+T456	Chemical 26003 26008	EtOAc
+T457	Chemical 26085 26089	NaOH
+T458	Chemical 26115 26122	dioxane
+T459	Chemical 26123 26128	water
+T460	Chemical 26239 26242	HCl
+T461	Chemical 26290 26296	K2 CO3
+T462	Chemical 26350 26362	ethanolamine
+T463	Chemical 26402 26407	Ac2 O
+T464	Chemical 26419 26427	pyridine
+T465	Chemical 26510 26512	10
+T466	Chemical 26569 26584	petroleum ether
+T467	Chemical 26585 26590	EtOAc
+T468	Chemical 26665 26669	15  
+T469	Chemical 26713 26728	petroleum ether
+T470	Chemical 26729 26734	EtOAc
+T471	Chemical 26773 26778	CHCl3
+T472	Spectral_Data 26782 27520	1 H NMR (600 MHz, CDCl3 ): δ  7.40–7.10 (m, 35 H, 7 Ph), 5.33 (br.s, 1 H, H-4d), 4.99–4.84 (m, 9 H, NH, H-4c, H-1c, H-3d, H-2d, 2.5 CH 2 Ph), 4.73 (d, 1 H, J gem  10.9 Hz, CH HPh), 4.69 (d, 1 H, J gem  10.5 Hz, CH HPh), 4.63–4.57 (m, 3 H, 1.5 CH 2 Ph), 4.50 (d, 1 H, J gem  11.7 Hz, CH HPh), 4.44–4.40 (m, 3 H, H-1b, H-1a, CH HPh), 4.34–4.33 (m, 2 H, H-1d, CH HPh), 4.21–4.15 (m, 5 H, H-3c, H-6′d, H-6c, H-6′c, CH HPh), 4.07 (m, 1 H, H-6d), 3.98 (m, 1 H, H-4a), 3.92 (m, 1 H, H-4b), 3.83 (m, 1 H, H-5d), 3.76–3.74 (m, 2 H, H-5c, H-6′a), 3.67–3.66 (m, 2 H, H-6a, H-2b), 3.54–3.45 (m, 5 H, H-2c, H-2a, H-6′b, H-3a, H-3b), 3.40 (m, 1 H, H-5b), 3.36 (m, 1 H, H-6b), 3.28 (m, 1 H, H-5a), 2.13, 2.10, 2.05, 1.99, 1.95, 1.52 (6 s, 21 H, 7 CH3 CO
+T473	Chemical 26800 26805	CDCl3
+T474	Spectral_Data 27523 27965	13 C NMR (150.9 MHz, CDCl3 ): δ  102.80 (C-1a, C-1b), 101.20 (C-1c), 101.10 (C-1d), 83.10 (C-3a), 82.10 (C-2a, C-3b), 80.70 (C-2b), 77.10 (C-3c), 76.70 (C-4a), 76.40 (C-4b), 75.50 (C-5a, C H2 Ph), 75.40 (C H2 Ph), 75.20 (C H2 Ph), 75.10 (C H2 Ph), 73.70 (2 C H2 Ph), 73.60 (C-5b), 72.10 (C-5c), 71.30 (C-3d, C H2 Ph), 70.80 (C-5d), 69.80 (C-4c), 69.40 (C-2d), 68.60 (C-6a), 68.40 (C-6b), 67.20 (C-4d), 63.00 (C-6c), 61.40 (C-6d), 57.40 (C-2c)
+T475	Chemical 27544 27549	CDCl3
+T476	Spectral_Data 27967 27972	FABMS
+T477	Chemical 27994 27997	NaI
+R66	Associated_With Arg1:T445 Arg2:T472	
+R67	Associated_With Arg1:T445 Arg2:T474	
+R68	Associated_With Arg1:T445 Arg2:T476	
+R69	Associated_With Arg1:T468 Arg2:T472	
+R70	Associated_With Arg1:T468 Arg2:T474	
+R71	Associated_With Arg1:T468 Arg2:T476	
+T479	Chemical 28145 28156	Compound 22
+T478	Chemical 28209 28213	14  
+T480	Chemical 28222 28226	15  
+T481	Chemical 28248 28457	(2,3,4,6-Tetra-O-acetyl-β-d -galactopyranosyl)-(1→3)-(2-acetamido-2-deoxy-4,6-di-O-acetyl-β-d -glucopyranosyl)-(1→3)-(2,4,6-tri-O-acetyl-β-d -galactopyranosyl)-(1→4)-1,2,3,6-tetra-O-acetyl-α/β-d -glucopyranose
+T482	Chemical 28459 28461	16
+T483	Chemical 28524 28526	11
+T484	Chemical 28529 28540	compound 15
+T485	Chemical 28586 28590	AcOH
+T486	Chemical 28591 28595	MeOH
+T487	Chemical 28596 28603	dioxane
+T488	Chemical 28617 28625	hydrogen
+T489	Chemical 28651 28653	Pd
+T490	Chemical 28654 28655	C
+T491	Chemical 28661 28663	Pd
+T492	Chemical 28723 28729	acetyl
+T493	Chemical 28775 28782	toluene
+T494	Chemical 28783 28790	acetone
+T495	Chemical 28877 28884	toluene
+T496	Chemical 28888 28889	t
+T497	Spectral_Data 28907 29640	1 H NMR (600 MHz, CDCl3 ): δ  6.23 (d, 0.33 H, J 1,2  3.5 Hz, H-1aa ), 5.65–5.63 (m, 1.7 H, NH, H-1aβ ), 5.41 (t, 0.3 H, J 2,3 =J 3,4  9.8 Hz, H-3aα ), 5.32–5.31 (m, 2 H, H-4b, H-4d), 5.20 (t, 0.7 H, H-3aβ ), 5.11 (t, 1 H, H-1c), 5.02–4.91 (m, 5 H, H-4c, H-3d, H-2aα , H-2b, H-2d, H-2aβ ), 4.54 (t, 1 H, J 2,3 =J 3,4  9.8 Hz, H-3c), 4.44–4.38 (m, 3 H, H-6′aα , H-6′aβ , H-6′c, H-1d), 4.33, 4.32 (2 d, 1 H, J 1,2  7.8 Hz, H-1b), 4.14 (dd, 1 H, J gem  12.1, J5,6  2.9 Hz, H-6aα , H-6aβ ), 4.07–4.01 (m, 4 H, H-6b, H-6′b, H-6d, H-6′d), 3.98–3.96 (m, 1.3 H, H-5aα , H-6c), 3.82 (t, 1 H, H-5d), 3.77–3.73 (m, 3.7 H, H-3b, H-5aβ , H-5b, H-4aα , H-4aβ ), 3.59 (br.d, 1 H, H-5c), 2.80 (br.t, 1 H, H-2c), 2.16–1.94 (several s, 42 H, 14 CH3 CO
+T498	Chemical 28925 28930	CDCl3
+T499	Spectral_Data 29643 30083	13 C NMR (150.9 MHz, CDCl3 ): δ  101.30, 100.90 (C-1b), 101.00 (C-1d), 99.00 (C-1c), 91.90 (C-1aβ), 89.30 (C-1aα), 76.50 (C-3b), 76.30 (C-3c), 75.50 (C-4aα), 75.30 (C-4aβ), 74.00 (C-5aβ), 72.70 (C-3aβ), 72.20, 71.60 (C-5c), 71.40 (C-3d), 71.20 (C-2aα) 71.10 (C-5aα), 70.90 (C-5d), 70.70 (C-2aβ), 69.90 (C-2d), 69.70 (C-3aα, C-2b), 69.50 (C-4d), 69.20 (C-4c), 67.20 (C-4b), 62.00 (C-6a), 61.80 (C-6b), 61.70 (C-6c), 61.20 (C-6d), 59.30 (C-2c
+T500	Chemical 29664 29669	CDCl3
+T501	Spectral_Data 30086 30093	MALDIMS
+T502	Chemical 30110 30113	DHB
+T503	Chemical 30114 30117	THT
+R72	Associated_With Arg1:T481 Arg2:T497	
+R73	Associated_With Arg1:T481 Arg2:T499	
+R74	Associated_With Arg1:T481 Arg2:T501	
+T504	Chemical 28801 28803	16
+R75	Associated_With Arg1:T504 Arg2:T497	
+R76	Associated_With Arg1:T504 Arg2:T499	
+R77	Associated_With Arg1:T504 Arg2:T501	
+T505	Chemical 30257 30375	β-d -Galactopyranosyl-(1→3)-2-acetamido-2-deoxy-β-d -glucopyranosyl-(1→3)-β-d -galactopyranosyl-(1→4)-d -glucopyranose
+T506	Chemical 30377 30378	1
+T507	Chemical 30394 30396	16
+T508	Chemical 30421 30425	MeOH
+T509	Chemical 30439 30444	NaOMe
+T510	Chemical 30457 30461	MeOH
+T511	Chemical 30502 30507	water
+T512	Chemical 30521 30526	NaOMe
+T513	Chemical 30624 30625	2
+T514	Chemical 30708 30712	EtOH
+T515	Chemical 30713 30718	water
+T516	Chemical 30729 30730	1
+T517	Chemical 30769 30773	EtOH
+T518	Chemical 30774 30779	water
+T519	Chemical 30876 30882	H 2  O
+T520	Spectral_Data 30890 30897	MALDIMS
+T521	Chemical 30914 30917	DHB
+T522	Chemical 30918 30921	NaI
+T523	Spectral_Data 30956 30976	1 H NMR spectroscopy
+T524	Chemical 30992 30996	D2 O
+R78	Associated_With Arg1:T505 Arg2:T520	
+R79	Associated_With Arg1:T505 Arg2:T523	
+R80	Associated_With Arg1:T516 Arg2:T520	
+R81	Associated_With Arg1:T516 Arg2:T523	
+T525	Chemical 31051 31175	tert-Butyldimethylsilyl(2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→3)-2-deoxy-2-dimethylmaleimido-β-d -glucopyranoside
+T526	Chemical 31177 31179	18
+T527	Chemical 31195 31199	17  
+T528	Chemical 31220 31227	p -TsOH
+T529	Chemical 31253 31264	ethanethiol
+T530	Chemical 31301 31308	CH2 Cl2
+T531	Chemical 31383 31396	triethylamine
+T532	Chemical 31490 31505	petroleum ether
+T533	Chemical 31506 31511	EtOAc
+T534	Chemical 31522 31524	18
+T535	Chemical 31567 31582	petroleum ether
+T536	Chemical 31583 31588	EtOAc
+T537	Chemical 31625 31635	chloroform
+T538	Spectral_Data 31638 32230	1 H NMR (600 MHz, CDCl3 ): δ  5.31 (d, 1 H, J 3,4  2.6 Hz, H-4b), 5.13 (dd, 1 H, J 1,2  8.0, J 2,3  10.5 Hz, H-2b), 5.07 (d, 1 H, J 1,2  8.1 Hz, H-1a), 4.91 (dd, 1 H, J 3,4  2.6 Hz, H-3b), 4.35 (d, 1 H, H-1b), 4.32 (dd, 1 H, J 2,3  10.8, J 3,4  8.4 Hz, H-3a), 4.09 (m, 2 H, H-6b, H-6′b), 3.95 (m, 1 H, H-5b), 3.91–3.88 (m, 2 H, H-6′a, H-2a), 3.75 (dd, 1 H, J gem  11.5, J 5,6  5.6 Hz, H-6a), 3.54 (dd, 1 H, J 3,4  8.4, J 4,5  9.2 Hz, H-4a), 3.46 (m, 1 H, H-5a), 2.12, 2.05, 1.95, 1.92, 1.81 (5 s, 18 H, 2 CH3 , 4 CH3 CO), 0.73 [s, 9 H, SiC(CH3 )3 ], 0.02 (s, 3 H SiCH3 ), −0.07 (s, 3 H, SiCH3
+T539	Chemical 31656 31661	CDCl3
+T540	Spectral_Data 32234 32631	13 C NMR (150.9 MHz, CDCl3 ): δ  170.38, 170.10, 170.05, 168.68 (4 CH3 C O, 2 CO), 137.41 (2 C-DMM), 101.03 (C-1b), 93.41 (C-1a), 81.78 (C-3a), 75.36 (C-5a), 71.20 (C-5b), 70.76 (C-4a), 70.64 (C-3b), 68.60 (C-2b), 66.87 (C-4b), 63.17 (C-6a), 61.48 (C-6b), 56.87 (C-2a), 25.24 [SiC(C H3 )3 ], 20.58, 20.53, 20.47, 20.27 (4 C H3 CO), 17.48 [SiC [CH3 )], 8.73 (2 C–CH3 ), −4.10 (SiCH3 ), −5.61 (SiCH3
+T541	Chemical 32255 32260	CDCl3
+T542	Spectral_Data 32635 32640	FABMS
+T543	Chemical 32662 32665	NaI
+R82	Associated_With Arg1:T525 Arg2:T538	
+R83	Associated_With Arg1:T525 Arg2:T540	
+R84	Associated_With Arg1:T525 Arg2:T542	
+R85	Associated_With Arg1:T534 Arg2:T538	
+R86	Associated_With Arg1:T534 Arg2:T540	
+R87	Associated_With Arg1:T534 Arg2:T542	
+T544	Chemical 32805 32945	tert-Butyldimethylsilyl(2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→3)-4,6-di-O-acetyl-2-deoxy-2-dimethylmaleimido-β-d -glucopyranoside
+T545	Chemical 32947 32949	19
+T546	Chemical 32965 32969	18  
+T547	Chemical 32990 32998	pyridine
+T548	Chemical 33011 33027	acetic anhydride
+T549	Chemical 33173 33188	petroleum ether
+T550	Chemical 33189 33194	EtOAc
+T551	Chemical 33252 33267	petroleum ether
+T552	Chemical 33268 33273	EtOAc
+T553	Chemical 33309 33314	CHCl3
+T554	Spectral_Data 33318 33879	1 H NMR (600 MHz, CDCl3 ): δ  5.26 (d, 1 H, J 3,4  Hz, H-4b), 5.06 (d, 1 H, J 1,2  8.1 Hz, H-1a), 4.93 (m, 1 H, H-2b), 4.92 (m, 1 H, H-4a), 4.84 (dd, 1 H, J 2,3  10.4, J 3,4  3.4 Hz, H-3b), 4.54 (dd, 1 H, J 2,3  10.8, J 3,4  9.3 Hz, H-3a), 4.20 (d, 1 H, J 1,2  7.8 Hz, H-1b), 4.13 (m, 2 H, H-6a, H-6′a), 4.07 (m, 2 H, H-6b, H-6′b), 3.95 (dd, 1 H, J 2,3  10.8 Hz, H-2a), 3.76 (m, 1 H, H-5b), 3.70 (m, 1 H, H-5a), 2.10, 2.05, 2.04, 2.03, 2.02, 1.97, 1.91, 1.89 (8 s, 24 H, 2 CH3 , 6 CH3 CO), 0.73 [s, 9 H, SiC(CH3 )3 ], 0.02 (s, 3 H, SiCH3 ), −0.06 (s, 3 H, SiCH3
+T555	Chemical 33336 33341	CDCl3
+T556	Spectral_Data 33883 34233	13 C NMR (150.9 MHz, CDCl3 ): δ  170.32, 170.19, 169.29, 169.10 (6 CH3 C O, 2 CO), 100.37 (C-1b), 93.26 (C-1a), 75.08 (C-3a), 71.86 (C-5a), 70.84 (C-3b), 70.47 (C-5b), 69.70 (C-4a), 68.97 (C-2b), 66.76 (C-4b), 62.70 (C-6a), 60.76 (C-6b), 57.69 (C-2a), 25.27 [SiC(C H3 )3 ], 20.78, 20.65, 20.53 (6 C H3 CO), 8.83 (2 CH3 ), −4.24 (SiCH3 ), −5.60 (SiCH3
+T557	Chemical 33904 33909	CDCl3
+T558	Spectral_Data 34237 34243	FAB MS
+T559	Chemical 34265 34268	NaI
+R88	Associated_With Arg1:T544 Arg2:T554	
+R89	Associated_With Arg1:T544 Arg2:T556	
+R90	Associated_With Arg1:T544 Arg2:T558	
+T560	Chemical 33205 33207	19
+R91	Associated_With Arg1:T560 Arg2:T554	
+R92	Associated_With Arg1:T560 Arg2:T556	
+R93	Associated_With Arg1:T560 Arg2:T558	
+T561	Chemical 34424 34566	O-[(2,3,4,6-Tetra-O-acetyl-β-d -galactopyranosyl)-(1→3)-4,6-di-O-acetyl-2-deoxy-2-dimethylmaleimido-α/β-d -glucopyranosyl]trichloroacetimidate
+T562	Chemical 34568 34570	21
+T563	Chemical 34586 34588	19
+T564	Chemical 34620 34624	AcOH
+T565	Chemical 34660 34664	TBAF
+T566	Chemical 34693 34696	THF
+T567	Chemical 34806 34811	EtOAc
+T568	Chemical 34812 34827	petroleum ether
+T569	Chemical 34890 34895	EtOAc
+T570	Chemical 34896 34911	petroleum ether
+T571	Chemical 34838 34840	20
+T572	Chemical 34990 34997	CH2 Cl2
+T573	Chemical 35021 35042	trichloroacetonitrile
+T574	Chemical 35067 35070	DBU
+T575	Chemical 35225 35230	EtOAc
+T576	Chemical 35231 35246	petroleum ether
+T577	Chemical 35250 35255	Et3 N
+T578	Chemical 35266 35270	21  
+T579	Chemical 35343 35348	EtOAc
+T580	Chemical 35349 35364	petroleum ether
+T581	Chemical 35368 35373	Et3 N
+T582	Spectral_Data 35388 35638	1 H NMR (250 MHz, CDCl3 ): δ  8.66 (s, 0.15 H, NHα ), 8.62 (s, 0.85 H, NHβ ), 6.19 (d, 0.15 H, J 1,2  3.2 Hz, H-1aa ), 6.15 (d, 0.85 H, J 1,2  8.9 Hz, H-1aβ ), 5.31–3.76 (m, 13 H), 2.13, 2.11, 2.08, 2.07, 1.98, 1.94, 1.81 (7 s, 24 H, 2 CH3 , 6 CH3 CO
+T583	Chemical 35406 35411	CDCl3
+T584	Spectral_Data 35641 35646	FABMS
+T585	Chemical 35668 35671	NaI
+R94	Associated_With Arg1:T561 Arg2:T582	
+R95	Associated_With Arg1:T578 Arg2:T582	
+R96	Associated_With Arg1:T561 Arg2:T584	
+R97	Associated_With Arg1:T578 Arg2:T584	
+T586	Chemical 35832 36052	Benzyl (2,3,4,6-tetra-O-acetyl-β-d -galactopyranosyl)-(1→3)-(4,6-di-O-acetyl-2-deoxy-2-dimethylmaleimido-β-d -glucopyranosyl)-(1→3)-(2,4,6-tri-O-benzyl-β-d -galactopyranosyl)-(1→4)-2,3,6-tri-O-benzyl-β-d -glucopyranoside
+T587	Chemical 36054 36056	22
+T588	Chemical 36072 36076	21  
+T589	Chemical 36101 36102	8
+T590	Chemical 36132 36136	MeCN
+T591	Chemical 36162 36170	nitrogen
+T592	Chemical 36194 36203	Me3 SiOTf
+T593	Chemical 36215 36219	MeCN
+T594	Chemical 36309 36314	Et3 N
+T595	Chemical 36410 36425	petroleum ether
+T596	Chemical 36426 36431	EtOAc
+T597	Chemical 36442 36446	22  
+T598	Chemical 36489 36504	petroleum ether
+T599	Chemical 36505 36510	EtOAc
+T600	Chemical 36549 36554	CHCl3
+T601	Chemical 36576 36581	CDCl3
+T602	Spectral_Data 36558 37414	1 H NMR (600 MHz, CDCl3 ): δ  7.30–7.10 (m, 35 H, 7 Ph), 5.27 (d, 1 H, J 3,4  3.5 Hz, H-4d), 5.16 (d, 1 H, J 1,2  8.4 Hz, H-1c), 4.97 (dd, 1 H, J 3,4 =J 4,5  9.5 Hz, H-4c), 4.94–4.91 (m, 3 H, H-2d, CH 2 Ph), 4.86, 4.27 (2 d, 2 H, J gem  12.1 Hz, CH 2 Ph), 4.78 (dd, 1 H, J 2,3  10.4, J 3,4  3.5 Hz, H-3d), 4.85, 4.70 (2 d, 2 H, J gem  10.8 Hz, CH 2 Ph), 4.62–4.51 (m, 5 H, H-3c, 2 CH 2 Ph), 4.47 (d, 1 H, J gem  11.5 Hz, 1 H, CH HPh), 4.36–4.31 (m, 4 H, H-1b, H-1a, CH 2 Ph), 4.21–4.18 (m, 3 H, H-6c, H-6′c, CH HPh), 4.11–4.08 (m, 4 H, H-1d, H-2c, H-6d, H-6′d), 3.96 (dd, 1 H, J 3,4  2.6 Hz, H-4b), 3.91 (m, 1 H, H-4a), 3.75 (m, 1 H, H-5c), 3.71 (m, 1 H, H-5d), 3.60–3.50 (m, 4 H, H-6′b, H-3b, H-2b, H-6′a), 3.41–3.36 (m, 5 H, H-6b, H-5b, H-6a, H-2a, H-3a), 2.99 (m, 1 H, H-5a), 2.10–1.90 (6 s, 18 H, 6 CH3 CO), 1.70 (br.s, 3 H, CH3 ), 1.50 (br.s, 3 H, CH3
+T603	Spectral_Data 37418 37881	13 C NMR (150.9 MHz, CDCl3 ): δ  102.80 (C-1a, C-1b), 100.50 (C-1d), 99.90 (C-1c), 83.30 (C-3a), 82.60 (C-3b), 82.00 (C-2a), 79.00 (C-2b), 76.70 (C-4b), 76.30 (C-4a), 75.70 (C H2 Ph), 74.50 (C H2 Ph), 75.20 (C-5a, C H2 Ph), 74.60 (C-3c), 74.30 (C H2 Ph), 73.70 (C H2 Ph), 73.60 (C H2 Ph), 73.40 (C-5b), 71.90 (C-5c), 71.10 (C-3d, C H2 Ph), 70.80 (C-5d), 69.70 (C-4c), 69.30 (C-2d), 68.50 (C-6b), 68.10 (C-6a), 67.00 (C-4d), 62.80 (C-6c), 60.90 (C-6d), 56.20 (C-2c
+T604	Chemical 37439 37444	CDCl3
+T605	Spectral_Data 37884 37891	MALDIMS
+T606	Chemical 37908 37911	DHB
+T607	Chemical 37912 37915	THT
+R98	Associated_With Arg1:T586 Arg2:T602	
+R99	Associated_With Arg1:T597 Arg2:T602	
+R100	Associated_With Arg1:T586 Arg2:T603	
+R101	Associated_With Arg1:T586 Arg2:T605	
+R102	Associated_With Arg1:T597 Arg2:T603	
+R103	Associated_With Arg1:T597 Arg2:T605	

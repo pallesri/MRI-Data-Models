@@ -1,0 +1,57 @@
+T1	Biological_Activity 0 10	Anti-ulcer
+T2	Chemical 22 31	cetraxate
+T3	Biological_Activity 59 71	anti-plasmin
+T4	Biological_Activity 73 84	anti-casein
+T5	Biological_Activity 89 101	anti-trypsin
+T6	Species 174 178	rats
+T7	Chemical 180 189	Cetraxate
+T8	Biological_Activity 225 235	inhibitory
+T9	Chemical 321 328	aspirin
+T10	Chemical 330 344	phenylbutazone
+T11	Chemical 346 358	indomethacin
+T12	Chemical 461 470	gefarnate
+T17	Chemical 475 499	aluminum sucrose sulfate
+T18	Biological_Activity 532 542	protecting
+R1	Associated_With Arg1:T7 Arg2:T8	
+T19	Chemical 582 590	Ctraxate
+T20	Biological_Activity 619 629	inhibitory
+T21	Chemical 677 689	acetic acid,
+T22	Chemical 714 723	cortisone
+T23	Chemical 728 739	acetic acid
+T24	Chemical 761 770	cetraxate
+T25	Biological_Activity 806 816	inhibitory
+T27	Chemical 873 884	L-glutamine
+T30	Chemical 889 924	methylmethionine sulfonium chloride
+T31	Chemical 926 935	cetraxate
+T33	Protein 984 1002	beta-glucuronidase
+T35	Chemical 1088 1097	cetraxate
+T36	Protein 1207 1225	beta-glucuronidase
+R2	Associated_With Arg1:T2 Arg2:T1	
+R3	Associated_With Arg1:T2 Arg2:T3	
+R4	Associated_With Arg1:T2 Arg2:T4	
+R5	Associated_With Arg1:T2 Arg2:T5	
+R11	Associated_With Arg1:T24 Arg2:T25	
+R22	Associated_With Arg1:T7 Arg2:T18	
+R10	Associated_With Arg1:T19 Arg2:T20	
+R23	Associated_With Arg1:T21 Arg2:T20	
+R24	Associated_With Arg1:T22 Arg2:T20	
+R25	Associated_With Arg1:T19 Arg2:T20	
+T14	Biological_Activity 963 973	inhibitory
+R12	Associated_With Arg1:T31 Arg2:T14	
+R13	Associated_With Arg1:T30 Arg2:T14	
+R14	Associated_With Arg1:T27 Arg2:T14	
+T16	Protein 1181 1198	lysosomal enzymes
+T29	Protein 64 71	plasmin
+T32	Protein 78 84	casein
+T39	Protein 94 101	trypsin
+R9	Binds_With Arg1:T2 Arg2:T29	
+R15	Binds_With Arg1:T2 Arg2:T32	
+R16	Binds_With Arg1:T2 Arg2:T39	
+R17	Associated_With Arg1:T17 Arg2:T8	
+R18	Associated_With Arg1:T12 Arg2:T8	
+T13	Chemical 856 861	drugs
+R19	Binds_With Arg1:T35 Arg2:T36	
+R20	Binds_With Arg1:T31 Arg2:T33	
+R26	Binds_With Arg1:T30 Arg2:T33	
+R27	Binds_With Arg1:T27 Arg2:T33	
+T15	Biological_Activity 989 1002	glucuronidase

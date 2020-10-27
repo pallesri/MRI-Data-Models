@@ -1,0 +1,34 @@
+T1	Disease 47 53	cancer
+T2	Disease 100 111	lung cancer
+T3	Disease 219 225	cancer
+T4	Disease 316 319	ICD
+T5	Disease 797 803	cavity
+T6	Disease 808 825	pharyngeal cancer
+T7	Disease 876 892	laryngeal cancer
+T8	Disease 1049 1066	malignant cancers
+T9	Disease 1101 1112	lung cancer
+T10	Disease 1124 1137	larynx cancer
+T11	Disease 1149 1166	esophageal cancer
+T12	Disease 1182 1211	oral cavity/pharyngeal cancer
+T13	Disease 1288 1299	lung cancer
+T14	Disease 1534 1540	cancer
+T15	Disease 1626 1632	cancer
+T16	Disease 1738 1755	carotenoid intake
+T17	Disease 1889 1895	cancer
+T18	Plant 70 77	tobacco
+T19	Plant 240 247	tobacco
+T20	Plant 964 971	tobacco
+T21	Plant 1222 1229	tobacco
+T22	Plant 1508 1515	tobacco
+T23	Plant 1873 1880	tobacco
+T24	Plant 1961 1968	tobacco
+T25	Cause_of_disease 54 66	attributable
+E1	Cause_of_disease:T25 Cause:T18 Theme:T1
+T26	Cause_of_disease 226 236	associated
+E2	Cause_of_disease:T26 Cause:T19 Theme:T3
+T27	Cause_of_disease 1242 1257	correlated with
+E3	Cause_of_disease:T27 Theme:T13 Cause:T21
+T28	Cause_of_disease 1881 1888	related
+E4	Cause_of_disease:T28 Theme:T17 Cause:T23
+T29	Cause_of_disease 1614 1625	determining
+E5	Cause_of_disease:T29 

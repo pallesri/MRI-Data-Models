@@ -1,0 +1,18 @@
+T1	Disease 140 149	arthritis
+T2	Disease 198 207	arthritis
+T3	Disease 1113 1122	arthrosis
+T4	Disease 1388 1397	arthrosis
+T5	Disease 2230 2239	arthritis
+T6	Plant 89 99	Cinnamomum
+T10	Plant 121 128	borneol
+T11	Plant 416 423	borneol
+T12	Plant 530 537	borneol
+T13	Plant 966 972	thymus
+T14	Plant 1518 1525	borneol
+T15	Plant 1562 1569	borneol
+T16	Plant 1889 1896	borneol
+T17	Plant 1933 1940	borneol
+T18	Plant 2034 2040	thymus
+T19	Plant 2180 2188	camphora
+T7	Treatment_of_disease 2212 2218	effect
+E1	Treatment_of_disease:T7 Theme:T5 Cause:T19

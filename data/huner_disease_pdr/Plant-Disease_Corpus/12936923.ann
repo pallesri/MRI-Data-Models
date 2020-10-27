@@ -1,0 +1,27 @@
+T1	Disease 92 98	asthma
+T2	Disease 231 237	asthma
+T3	Disease 274 280	asthma
+T4	Disease 700 725	bronchial hyperreactivity
+T5	Disease 858 864	asthma
+T6	Disease 948 954	asthma
+T7	Disease 1012 1018	asthma
+T8	Disease 1167 1173	asthma
+T9	Disease 1211 1217	asthma
+T10	Disease 1319 1325	asthma
+T11	Disease 1346 1352	asthma
+T12	Disease 1546 1564	asthma definitions
+T13	Disease 1813 1819	asthma
+T14	Plant 1277 1282	pears
+T15	Plant 1479 1484	pears
+T16	Plant 1266 1272	Apples
+T17	Plant 1468 1474	apples
+T18	Treatment_of_disease 1295 1302	protect
+E1	Treatment_of_disease:T18 Cause:T14 Cause2:T16 Theme:T10 Theme2:T19 Theme3:T11
+T19	Disease 1377 1380	BHR
+T20	Disease 1039 1042	BHR
+T21	Disease 1067 1072	atopy
+T22	Plant 1449 1452	soy
+T23	Unknown 1519 1529	associated
+E2	Unknown:T23 Theme:T12 Cause:T15 Cause2:T17 Cause3:T22
+T24	Plant 1105 1108	soy
+T25	Disease 869 874	atopy

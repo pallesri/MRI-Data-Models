@@ -1,0 +1,17 @@
+T1	Chemical 0 6	IC202A
+T2	Metabolite 0 6	IC202A
+T3	Species 53 83	Streptoalloteichus sp. 1454-19
+T4	Spectral_Data 122 139	spectral analysis
+T5	Spectral_Data 163 182	two-dimentional NMR
+R1	Associated_With Arg1:T2 Arg2:T4	
+R2	Associated_With Arg1:T1 Arg2:T4	
+R3	Associated_With Arg1:T1 Arg2:T5	
+R4	Associated_With Arg1:T1 Arg2:T5	
+T6	Chemical 207 213	IC202A
+T7	Metabolite 207 213	IC202A
+T8	Chemical 219 231	ferrioxamine
+T9	Chemical 262 280	butylidene N-oxide
+R5	Isolated_From Arg1:T2 Arg2:T3	
+T10	Spectral_Data 187 205	FAB-MS experiments
+R6	Associated_With Arg1:T1 Arg2:T10	
+R7	Associated_With Arg1:T2 Arg2:T10	

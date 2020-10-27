@@ -1,0 +1,38 @@
+T1	Disease 82 94	H/N) cancers
+T2	Disease 161 167	cancer
+T3	Disease 453 459	cancer
+T4	Disease 540 546	cancer
+T5	Disease 636 643	cancers
+T6	Disease 675 686	H/N cancers
+T7	Disease 826 833	cancers
+T8	Disease 997 1003	cancer
+T9	Disease 1160 1166	cancer
+T10	Disease 1387 1398	Lung cancer
+T11	Disease 1462 1476	adenocarcinoma
+T12	Disease 1584 1616	adenocarcinoma esophageal cancer
+T13	Disease 1627 1637	H/N cancer
+T14	Disease 1699 1720	adenocarcinoma cancer
+T15	Disease 1815 1835	invasive lung cancer
+T16	Disease 1938 1964	esophageal and H/N cancers
+T17	Disease 2145 2151	cancer
+T18	Disease 2233 2239	cancer
+T19	Disease 2295 2306	lung cancer
+T20	Disease 2419 2425	cancer
+T21	Disease 2468 2474	cancer
+T22	Plant 287 294	tobacco
+T23	Plant 434 441	tobacco
+T24	Plant 512 519	tobacco
+T25	Plant 617 624	Tobacco
+T26	Plant 807 814	tobacco
+T27	Plant 2400 2407	tobacco
+T28	Plant 2578 2585	tobacco
+T29	Cause_of_disease 442 452	associated
+E1	Cause_of_disease:T29 Theme:T3 Cause:T23
+T30	Cause_of_disease 520 530	associated
+E2	Cause_of_disease:T30 Theme:T4 Cause:T24
+T31	Cause_of_disease 625 635	associated
+E3	Cause_of_disease:T31 Theme:T5 Cause:T25
+T32	Cause_of_disease 815 825	associated
+E4	Cause_of_disease:T32 Theme:T7 Cause:T26
+T33	Cause_of_disease 2408 2418	associated
+E5	Cause_of_disease:T33 Theme:T20 Cause:T27

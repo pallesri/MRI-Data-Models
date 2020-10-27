@@ -1,0 +1,19 @@
+T1	Disease 111 117	cancer
+T2	Disease 195 201	cancer
+T3	Disease 240 258	squamous carcinoma
+T4	Disease 834 849	B-cell lymphoma
+T5	Disease 895 903	leukemia
+T8	Plant 0 4	Aloe
+T9	Plant 212 216	aloe
+T10	Plant 299 303	aloe
+T11	Plant 433 437	aloe
+T12	Plant 569 573	Aloe
+T13	Plant 1040 1044	aloe
+T14	Plant 1071 1075	Aloe
+T15	Plant 1191 1195	Aloe
+T16	Treatment_of_disease 49 54	shown
+E1	Treatment_of_disease:T16 Cause:T8 Theme:T1
+T17	Disease 886 894	lymphoma
+T6	Disease 1273 1301	human tongue squamous cancer
+T7	Treatment_of_disease 1209 1211	be
+E2	Treatment_of_disease:T7 Cause:T15 Theme:T6

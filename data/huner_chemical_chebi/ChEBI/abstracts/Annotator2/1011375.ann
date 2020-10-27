@@ -1,0 +1,29 @@
+T1	Species 0 25	Aspergillus candidus Link
+T2	Species 64 80	cereal mycoflora
+#1	AnnotatorNotes T2	Species class
+T3	Biological_Activity 104 114	mycotoxins
+T4	Chemical 116 128	terphenyllin
+T5	Metabolite 116 128	terphenyllin
+T6	Chemical 133 144	xanthoascin
+T7	Metabolite 134 144	anthoascin
+T8	Biological_Activity 180 193	toxicological
+R1	Associated_With Arg1:T4 Arg2:T3	
+R2	Associated_With Arg1:T6 Arg2:T3	
+R3	Associated_With Arg1:T4 Arg2:T8	
+R4	Associated_With Arg1:T6 Arg2:T8	
+R5	Isolated_From Arg1:T5 Arg2:T1	
+R6	Isolated_From Arg1:T7 Arg2:T1	
+T9	Chemical 218 229	xanthoascin
+T10	Metabolite 218 229	xanthoascin
+T13	Species 337 341	mice
+T17	Biological_Activity 707 716	mycotoxin
+T19	Biological_Activity 896 910	mycotoxicology
+T20	Species 926 931	human
+R10	Associated_With Arg1:T5 Arg2:T3	
+R11	Associated_With Arg1:T7 Arg2:T3	
+R12	Associated_With Arg1:T5 Arg2:T8	
+R13	Associated_With Arg1:T7 Arg2:T8	
+T11	Biological_Activity 475 483	necrosis
+T12	Biological_Activity 298 306	necrosis
+R7	Associated_With Arg1:T9 Arg2:T12	
+R8	Associated_With Arg1:T10 Arg2:T12	

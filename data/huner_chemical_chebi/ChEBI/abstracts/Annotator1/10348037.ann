@@ -1,0 +1,24 @@
+T1	Chemical 17 23	NG-061
+T2	Metabolite 17 23	NG-061
+T3	Biological_Activity 31 42	potentiator
+T4	Species 87 117	Penicillium minioluteum F-4627
+T5	Spectral_Data 137 159	spectroscopic analysis
+T6	Spectral_Data 164 181	X-ray diffraction
+T7	Chemical 195 267	phenylacetic acid 2-(2-methoxy-4-oxocyclohexa-2,4-dienylidene)-hydrazide
+T8	Metabolite 195 267	phenylacetic acid 2-(2-methoxy-4-oxocyclohexa-2,4-dienylidene)-hydrazide
+R1	Associated_With Arg1:T1 Arg2:T3	
+R2	Associated_With Arg1:T2 Arg2:T3	
+R3	Isolated_From Arg1:T2 Arg2:T4	
+R4	Isolated_From Arg1:T8 Arg2:T4	
+R5	Associated_With Arg1:T7 Arg2:T3	
+R6	Associated_With Arg1:T8 Arg2:T3	
+R7	Associated_With Arg1:T7 Arg2:T5	
+R8	Associated_With Arg1:T7 Arg2:T6	
+R9	Associated_With Arg1:T8 Arg2:T5	
+R10	Associated_With Arg1:T8 Arg2:T6	
+R11	Associated_With Arg1:T2 Arg2:T5	
+R12	Associated_With Arg1:T2 Arg2:T6	
+R13	Associated_With Arg1:T1 Arg2:T5	
+R14	Associated_With Arg1:T1 Arg2:T6	
+T9	Protein 46 65	nerve growth factor
+T10	Protein 67 70	NGF

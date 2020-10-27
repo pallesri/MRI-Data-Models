@@ -1,0 +1,13 @@
+T1	Disease 142 168	vasospasm and vasculopathy
+T2	Disease 179 202	subarachnoid hemorrhage
+T3	Disease 272 298	vasospasm and vasculopathy
+T4	Disease 349 375	chronic cerebral vasospasm
+T5	Disease 1118 1144	proliferative vasculopathy
+T6	Disease 1450 1473	subarachnoid hemorrhage
+T11	Plant 454 467	Ginkgo biloba
+T15	Plant 1351 1364	Ginkgo biloba
+T19	Plant 1399 1412	Ginkgo biloba
+T8	Treatment_of_disease 1435 1441	effect
+E1	Treatment_of_disease:T8 Theme:T6 Cause:T19 Theme2:T7 Theme3:T9
+T7	Disease 1482 1491	vasospasm
+T9	Disease 1496 1508	vasculopathy

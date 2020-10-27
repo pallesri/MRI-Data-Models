@@ -1,0 +1,21 @@
+T1	Disease 705 744	breast, prostate, colon and lung cancer
+T3	Disease 966 981	prostate cancer
+T4	Disease 1146 1152	cancer
+T9	Plant 32 47	Punica granatum
+T13	Plant 457 474	pomegranate fruit
+T15	Plant 650 661	pomegranate
+T17	Plant 814 825	pomegranate
+T19	Plant 931 942	pomegranate
+T22	Plant 1125 1142	pomegranate fruit
+T5	Plant 0 17	Pomegranate fruit
+T6	Plant 87 92	fruit
+T7	Plant 27 31	tree
+T8	Plant 130 134	tree
+T10	Plant 240 245	tree,
+T11	Treatment_of_disease 683 690	inhibit
+E1	Treatment_of_disease:T11 Cause:T15 Theme:T1
+T2	Disease 854 891	lung, skin, colon and prostate tumors
+T12	Treatment_of_disease 834 843	inhibited
+E2	Treatment_of_disease:T12 Cause:T17 Theme:T2
+T14	Treatment_of_disease 1114 1121	effects
+E3	Treatment_of_disease:T14 Cause:T22 Theme:T4

@@ -1,0 +1,20 @@
+T7	Disease 305 343	intestinal ischemia-reperfusion injury
+T9	Disease 521 529	ischemia
+T10	Plant 689 691	NS
+T11	Disease 730 738	ischemia
+T13	Plant 1458 1460	NS
+T14	Disease 1517 1555	intestinal ischemia-reperfusion injury
+T17	Plant 63 77	Nigella Sativa
+T1	Plant 79 81	NS
+*	Equiv T17 T1
+T15	Treatment_of_disease 87 105	protective effects
+E1	Treatment_of_disease:T15 Cause:T17 Theme:T2
+T2	Disease 114 141	ischemia reperfusion injury
+T3	Disease 222 249	ischemia reperfusion injury
+T4	Plant 293 295	NS
+T5	Treatment_of_disease 296 304	prevents
+E2	Treatment_of_disease:T5 Theme:T7 Cause:T4
+T6	Plant 461 463	NS
+T8	Plant 1375 1377	NS
+T12	Treatment_of_disease 1471 1480	protected
+E3	Treatment_of_disease:T12 Theme:T14 Cause:T13

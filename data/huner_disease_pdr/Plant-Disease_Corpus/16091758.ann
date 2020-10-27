@@ -1,0 +1,23 @@
+T1	Disease 53 77	hepatocellular carcinoma
+T2	Disease 79 82	HCC
+T3	Disease 472 475	HCC
+T4	Disease 606 614	diabetes
+T5	Disease 619 633	liver diseases
+T6	Disease 696 699	HCC
+T7	Disease 1009 1012	HCC
+T8	Plant 33 39	coffee
+T10	Plant 285 291	coffee
+T13	Plant 382 388	coffee
+T15	Plant 495 501	coffee
+T16	Plant 737 743	coffee
+T18	Plant 771 777	coffee
+T20	Plant 986 992	coffee
+*	Equiv T1 T2
+T9	Cause_of_disease 958 977	inverse association
+E1	Cause_of_disease:T9 Cause:T20 Theme:T7
+T11	Cause_of_disease 683 695	death due to
+E2	Cause_of_disease:T11 Theme:T6 Cause:T16
+T12	Cause_of_disease 456 462	hazard
+E3	Cause_of_disease:T12 Theme:T3 Cause:T15
+R1	Neutral Arg1:T8 Arg2:T1	
+R2	Neutral Arg1:T8 Arg2:T2	

@@ -1,0 +1,27 @@
+T1	Disease 375 388	breast cancer
+T2	Disease 1161 1167	cancer
+T3	Disease 1626 1632	cancer
+T4	Plant 12 18	Ginger
+T5	Plant 221 227	ginger
+T6	Plant 448 454	ginger
+T7	Plant 704 710	ginger
+T9	Plant 1526 1532	ginger
+T10	Plant 54 59	crops
+T11	Plant 95 110	medicinal plant
+T12	Plant 239 247	Fulbaria
+T13	Plant 252 260	Syedpuri
+T14	Plant 682 690	Fulbaria
+T15	Plant 695 703	Syedpuri
+T16	Plant 990 998	rhizomes
+T17	Plant 1002 1010	Syedpuri
+T8	Plant 1084 1098	ginger extract
+T18	Plant 1100 1108	rhizomes
+T19	Plant 1218 1226	Fulbaria
+T20	Plant 1231 1239	Syedpuri
+T21	Plant 1323 1339	rhizomes extract
+T22	Plant 1343 1351	Fulbaria
+T23	Plant 1356 1364	Syedpuri
+T24	Plant 1391 1399	Fulbaria
+T25	Plant 1404 1412	Syedpuri
+T26	Treatment_of_disease 1598 1607	treatment
+E1	Treatment_of_disease:T26 Theme:T3 Cause:T9

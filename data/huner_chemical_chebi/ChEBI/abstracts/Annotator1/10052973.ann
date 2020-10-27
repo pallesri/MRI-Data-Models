@@ -1,0 +1,116 @@
+T1	Chemical 100 108;110 127;133 145;16 44	lysergol dihydrolysergol-I elymoclavine cycloalkanecarboxylic esters
+#1	AnnotatorNotes T1	A class of compounds
+T2	Chemical 82 99	clavine alkaloids
+#2	AnnotatorNotes T2	A class of compounds
+T3	Chemical 100 108	lysergol
+T4	Chemical 110 127	dihydrolysergol-I
+T5	Chemical 133 145	elymoclavine
+T6	Metabolite 100 108	lysergol
+T7	Metabolite 110 127	dihydrolysergol-I
+T8	Metabolite 133 145	elymoclavine
+#3	AnnotatorNotes T6	Must be a metabolite as it is described as a naturally occurring alkaloid
+#4	AnnotatorNotes T7	Must be a metabolite as it is described as a naturally occurring alkaloid
+#5	AnnotatorNotes T8	Must be a metabolite as it is described as a naturally occurring alkaloid
+T9	Protein 196 212	5-HT2A receptors
+T11	Protein 217 237	alpha1-adrenoceptors
+T13	Species 241 244	rat
+T14	Chemical 294 322;336 344	cycloalkanecarboxylic esters lysergol
+T15	Chemical 336 344	lysergol
+T16	Metabolite 336 344	lysergol
+T17	Biological_Activity 380 388	agonists
+T18	Biological_Activity 393 404	antagonists
+T19	Chemical 434 438	5-HT
+T20	Biological_Activity 483 490	agonist
+T22	Protein 467 482	5-HT2A receptor
+T23	Chemical 520 551	cyclopropanecarboxylic ester 6a
+#6	AnnotatorNotes T23	cyclopropanecarboxylic ester is a class of compounds; the 6a presumably defines one compound according to a figure in the paper
+T24	Chemical 626 640	alicyclic ring
+#7	AnnotatorNotes T24	describes a group/structural feature that is a part of a molecule
+T25	Biological_Activity 726 737	antagonists
+T26	Chemical 767 771	5-HT
+T27	Chemical 812 841	N-1-isopropyl homologue of 6a
+T29	Species 908 911	rat
+T31	Protein 912 928	5-HT2A receptors
+T33	Chemical 947 975	cycloalkanecarboxylic esters
+#9	AnnotatorNotes T33	Class of chemicals
+T34	Metabolite 989 1006	dihydrolysergol-I
+T35	Metabolite 1011 1023	elymoclavine
+T36	Chemical 989 1006	dihydrolysergol-I
+T37	Chemical 1011 1023	elymoclavine
+T38	Chemical 947 1023	cycloalkanecarboxylic esters derived from dihydrolysergol-I and elymoclavine
+T39	Chemical 1128 1143	cycloalkyl ring
+#10	AnnotatorNotes T39	name of a structural feature (i.e. part) of some molecules
+T40	Chemical 1152 1164	acyl portion
+#11	AnnotatorNotes T40	description of one portion of an ester compound
+T41	Chemical 1172 1193	isopropyl substituent
+#12	AnnotatorNotes T41	name of a structural group present in the molecule
+T42	Protein 1220 1235	5-HT2A receptor
+T45	Chemical 1265 1293;1307 1315;1317 1334;1341 1353	cycloalkanecarboxylic esters lysergol dihydrolysergol-I elymoclavine
+#13	AnnotatorNotes T45	Name of a class of compounds
+T46	Metabolite 1307 1315	lysergol
+T47	Metabolite 1317 1334	dihydrolysergol-I
+T48	Metabolite 1341 1353	elymoclavine
+T49	Chemical 1307 1315	lysergol
+T50	Chemical 1317 1334	dihydrolysergol-I
+T51	Chemical 1341 1353	elymoclavine
+T52	Chemical 1265 1353	cycloalkanecarboxylic esters derived from lysergol, dihydrolysergol-I, and  elymoclavine
+T54	Protein 1392 1412	alpha1-adrenoceptors
+T55	Chemical 1499 1503	acyl
+#14	AnnotatorNotes T55	Structural feature (group)
+T56	Chemical 1519 1525	esters
+#15	AnnotatorNotes T56	Class name
+T58	Protein 1539 1554	5-HT2A receptor
+T62	Chemical 1569 1585;1606 1633	parent  alcohols of N-1-isopropyl homologues
+#18	AnnotatorNotes T62	A series of compounds that contain an N-1-isopropyl group
+T63	Chemical 1635 1654	1-isopropyllysergol
+T64	Chemical 1661 1689	1-isopropyldihydrolysergol-I
+T65	Chemical 1700 1723	1-isopropylelymoclavine
+T66	Protein 1760 1776	5-HT2A receptors
+T69	Species 1921 1931	guinea-pig
+T70	Protein 1932 1947	5-HT1B receptor
+T72	Species 1953 1956	rat
+T75	Protein 1957 1977	alpha1-adrenoceptors
+T77	Species 2001 2004	rat
+T79	Protein 2005 2021	5-HT2A receptors
+T80	Metabolite 2040 2048	clavines
+T84	Chemical 1656 1658	1b
+T85	Chemical 1691 1693	2b
+T86	Chemical 1725 1727	3b
+T87	Chemical 1834 1846;1847 1849	Compounds 1b 3b
+#22	AnnotatorNotes T80	name of a class of naturally occurring compounds (mentioned at start of abstract)
+T89	Chemical 2040 2048	clavines
+#23	AnnotatorNotes T89	Class of chemicals
+T90	Chemical 2084 2086;2087 2089	1b 3b
+T92	Chemical 2091 2099;2101 2103	compound 4b
+T94	Protein 2129 2144	5-HT2A receptor
+T95	Biological_Activity 2145 2156	antagonists
+T96	Biological_Activity 2172 2182	antagonist
+T97	Chemical 2202 2210	clavines
+#24	AnnotatorNotes T97	Class of chemicals
+T99	Species 2226 2229	rat
+T100	Chemical 2212 2214;2215 2217	1b 5b
+T101	Chemical 2248 2271	indolo[4,3-fg]quinoline
+T102	Chemical 2286 2295	ergolines
+T103	Metabolite 2286 2295	ergolines
+T104	Chemical 2248 2295	indolo[4,3-fg]quinoline system of the ergolines
+#25	AnnotatorNotes T104	core skeleton of the class of alkaloids being discussed
+#26	AnnotatorNotes T102	name of a class of alkaloids whose members have a common core structure
+T106	Metabolite 82 99	clavine alkaloids
+#27	AnnotatorNotes T106	Class name
+R1	Associated_With Arg1:T23 Arg2:T20	
+T81	Chemical 2091 2099;2108 2110	compound 5b
+R16	Associated_With Arg1:T81 Arg2:T95	
+R17	Associated_With Arg1:T92 Arg2:T95	
+T28	Protein 2346 2362	5-HT2A  receptor
+R18	Binds_With Arg1:T23 Arg2:T22	
+R10	Binds_With Arg1:T27 Arg2:T31	
+T10	Chemical 843 854	compound 6b
+R2	Binds_With Arg1:T10 Arg2:T31	
+R3	Binds_With Arg1:T86 Arg2:T66	
+R4	Binds_With Arg1:T65 Arg2:T66	
+R5	Binds_With Arg1:T85 Arg2:T66	
+R6	Binds_With Arg1:T64 Arg2:T66	
+R11	Binds_With Arg1:T84 Arg2:T66	
+R13	Binds_With Arg1:T63 Arg2:T66	
+R14	Binds_With Arg1:T81 Arg2:T94	
+R19	Binds_With Arg1:T92 Arg2:T94	

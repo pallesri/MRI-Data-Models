@@ -1,0 +1,27 @@
+T1	Disease 249 264	type 2 diabetes
+T2	Disease 310 350	Rhodiola on glucose and lipid metabolism
+T3	Disease 358 396	metabolic syndrome and type 2 diabetes
+T4	Disease 622 635	hyperglycemia
+T5	Disease 666 686	hypertriglyceridemia
+T6	Disease 1405 1418	hyperglycemia
+T7	Disease 1455 1475	hypertriglyceridemia
+T8	Disease 1604 1642	metabolic syndrome and type 2 diabetes
+T9	Plant 32 40	Rhodiola
+T15	Plant 472 490	Rhodiola crenulata
+T17	Plant 648 653	olive
+T22	Plant 1431 1436	olive
+T23	Plant 1731 1737	plants
+T10	Cause_of_disease 658 665	induced
+E1	Cause_of_disease:T10 Theme:T5 Cause:T17
+T11	Cause_of_disease 1441 1448	induced
+E2	Cause_of_disease:T11 Theme:T7 Cause:T22
+T12	Plant 593 596	RCR
+T13	Plant 497 500	RCR
+*	Equiv T15 T13
+T16	Plant 802 805	RCR
+T18	Plant 1170 1173	RCR
+T19	Plant 1535 1538	RCR
+T14	Treatment_of_disease 582 589	effects
+E3	Treatment_of_disease:T14 Cause:T12 Theme:T4
+T20	Treatment_of_disease 1539 1548	treatment
+E4	Treatment_of_disease:T20 Cause:T19 Theme:T8

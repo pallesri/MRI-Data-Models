@@ -1,0 +1,754 @@
+T1	Chemical 1 10	Diltiazem
+T2	Chemical 12 29	d -cis -diltiazem
+T3	Chemical 34 49	benzothiazepine
+T4	Chemical 50 54	Ca2+
+T5	Biological_Activity 64 71	blocker
+R1	Associated_With Arg1:T2 Arg2:T5	
+R2	Associated_With Arg1:T1 Arg2:T5	
+T6	Biological_Activity 161 174	anti-ischemic
+T7	Chemical 185 202	d -cis -diltiazem
+R3	Associated_With Arg1:T7 Arg2:T6	
+T8	Biological_Activity 241 249	blocking
+R4	Associated_With Arg1:T7 Arg2:T8	
+T9	Chemical 440 457	l -cis -diltiazem
+T10	Protein 34 63	benzothiazepine Ca2+  channel
+R5	Binds_With Arg1:T2 Arg2:T10	
+R6	Binds_With Arg1:T1 Arg2:T10	
+T11	Protein 227 240	Ca2+  channel
+R7	Binds_With Arg1:T7 Arg2:T11	
+T12	Chemical 489 506	d -cis -diltiazem
+T13	Protein 533 546	Ca2+  channel
+T14	Biological_Activity 547 555	blocking
+T15	Chemical 566 583	d -cis -diltiazem
+R8	Associated_With Arg1:T9 Arg2:T14	
+R9	Binds_With Arg1:T9 Arg2:T13	
+T16	Chemical 633 650	d -cis -diltiazem
+T17	Biological_Activity 791 804	anti-ischemic
+T18	Chemical 815 832	d -cis -diltiazem
+T19	Protein 865 878	Ca2+  channel
+T20	Biological_Activity 879 887	blocking
+T21	Chemical 1017 1026;996 1004	diltiazem d -cis -
+T22	Chemical 1009 1026	l -cis -diltiazem
+T23	Biological_Activity 1065 1072	induced
+T24	Chemical 1076 1098	palmitoyl-l -carnitine
+R10	Associated_With Arg1:T24 Arg2:T23	
+T25	Chemical 1230 1253	reactive oxygen species
+T26	Chemical 1263 1279	superoxide anion
+T27	Chemical 1281 1297	hydroxyl radical
+T28	Chemical 1302 1319	hydrogen peroxide
+T29	Chemical 1321 1326	H2 O2
+T30	Chemical 1477 1500	reactive oxygen species
+T31	Chemical 1667 1692	oxygen radical scavengers
+T32	Biological_Activity 1682 1692	scavengers
+T33	Chemical 1697 1710	anti-oxidants
+T34	Biological_Activity 1697 1710	anti-oxidants
+T35	Biological_Activity 1711 1718	protect
+R11	Associated_With Arg1:T33 Arg2:T35	
+R12	Associated_With Arg1:T31 Arg2:T35	
+T36	Chemical 1930 1935	H2 O2
+T37	Chemical 2012 2022	phosphates
+T38	Species 2048 2051	rat
+T39	Metabolite 2012 2022	phosphates
+R13	Isolated_From Arg1:T39 Arg2:T38	
+T40	Chemical 2102 2107	H2 O2
+T41	Chemical 2154 2157	Na+
+T42	Chemical 2160 2167	[Na+ ]i
+T43	Chemical 2250 2253	Na+
+T44	Chemical 2346 2353	[Na+ ]i
+T45	Biological_Activity 2356 2365	activates
+T46	Chemical 2370 2373	Na+
+T47	Chemical 2375 2379	Ca2+
+T48	Chemical 2417 2421	Ca2+
+T49	Chemical 2565 2582	l -cis -diltiazem
+T50	Biological_Activity 2603 2616	anti-ischemic
+T51	Chemical 2642 2655	anti-ischemic
+T52	Protein 2670 2683	Ca2+  channel
+T53	Biological_Activity 2684 2692	blocking
+R14	Associated_With Arg1:T49 Arg2:T50	
+T54	Chemical 2829 2835;2849 2859	d -cis -diltiazem
+T55	Chemical 2842 2859	l -cis -diltiazem
+T56	Chemical 2867 2872	H2 O2
+T57	Biological_Activity 2874 2881	induced
+R15	Associated_With Arg1:T56 Arg2:T57	
+T58	Chemical 2951 2961	phosphates
+T59	Metabolite 2951 2961	phosphates
+T60	Chemical 3073 3081;3094 3103	d -cis - diltiazem
+T61	Chemical 3086 3103	l -cis -diltiazem
+T62	Chemical 3111 3116	H2 O2
+T63	Biological_Activity 3118 3125	induced
+T64	Chemical 3138 3145	[Na+ ]i
+T65	Species 3176 3182	animal
+T66	Species 3276 3282	Animal
+T67	Species 3353 3372	Sprague–Dawley rats
+T68	Species 3461 3465	rats
+T69	Chemical 3489 3509	sodium pentobarbital
+T70	Chemical 3561 3568	heparin
+T71	Biological_Activity 3471 3483	anesthetized
+R16	Associated_With Arg1:T69 Arg2:T71	
+T74	Chemical 3853 3857	NaCl
+T72	Chemical 3808 3819	bicarbonate
+T73	Chemical 3874 3881	KH2 PO4
+T75	Chemical 3889 3894	MgSO4
+T76	Chemical 3902 3907	CaCl2
+T77	Chemical 3915 3921	NaHCO3
+T78	Chemical 3932 3939	glucose
+T79	Chemical 3984 3986	O2
+T80	Chemical 3991 3996	CO2  
+T81	Chemical 4024 4030	oxygen
+T82	Chemical 4188 4193	water
+T83	Chemical 4285 4289	H2 O
+T84	Chemical 5434 5440	saline
+T85	Chemical 5448 5460	polyethylene
+T86	Chemical 5685 5702	l -cis -diltiazem
+T87	Chemical 5711 5728	l -cis -diltiazem
+T88	Chemical 5738 5755	l -cis -diltiazem
+T89	Chemical 5768 5785	d -cis -diltiazem
+T90	Chemical 5943 5960	d -cis -Diltiazem
+T91	Chemical 5962 5979	l -cis -diltiazem
+T92	Chemical 6012 6029	d -cis -diltiazem
+T93	Chemical 6034 6051	l -cis -diltiazem
+T94	Chemical 6229 6246	d -cis -diltiazem
+T95	Chemical 6293 6310	l -cis -diltiazem
+T96	Chemical 6355 6360	H2 O2
+T97	Chemical 6494 6511	d -cis -diltiazem
+T98	Chemical 6513 6530	l -cis -diltiazem
+T99	Chemical 6570 6575	H2 O2
+T100	Protein 6811 6832	lactate dehydrogenase
+T101	Protein 6834 6837	LDH
+T102	Chemical 6913 6923	phosphates
+T103	Metabolite 6913 6923	phosphates
+T104	Chemical 7021 7038	d -cis -diltiazem
+T105	Chemical 7042 7059	l -cis -diltiazem
+T106	Chemical 7111 7119	nitrogen
+T107	Chemical 7162 7179	d -cis -diltiazem
+T108	Chemical 7192 7209	l -cis -diltiazem
+T109	Chemical 7256 7261	H2 O2
+T110	Chemical 7320 7337	d -cis -diltiazem
+T111	Chemical 7341 7358	l -cis -diltiazem
+T112	Chemical 7413 7421	nitrogen
+T113	Chemical 7615 7623	nitrogen
+T114	Chemical 7757 7762	water
+T115	Chemical 7887 7890	ATP
+T116	Metabolite 7887 7890	ATP
+T117	Chemical 7892 7895	ADP
+T118	Metabolite 7892 7895	ADP
+T119	Chemical 7897 7900	AMP
+T120	Metabolite 7897 7900	AMP
+T121	Chemical 7905 7923	creatine phosphate
+T122	Metabolite 7905 7923	creatine phosphate
+T123	Chemical 7925 7928	ATP
+T124	Metabolite 7925 7928	ATP
+T125	Chemical 7930 7933	ADP
+T126	Metabolite 7930 7933	ADP
+T127	Chemical 7935 7938	AMP
+T128	Metabolite 7935 7938	AMP
+T129	Chemical 7943 7961	creatine phosphate
+T130	Metabolite 7943 7961	creatine phosphate
+T131	Biological_Activity 7998 8007	enzymatic
+T132	Protein 8140 8143	LDH
+T133	Biological_Activity 8140 8143	LDH
+T134	Spectral_Data 8191 8213	spectrophotometrically
+T135	Biological_Activity 8230 8239	enzymatic
+T136	Species 8377 8396	Sprague–Dawley rats
+T137	Chemical 8669 8673	H2 O
+T138	Spectral_Data 9021 9055;9062 9069	23 Na  -nuclear magnetic resonance spectra
+T139	Spectral_Data 9021 9029;9057 9060;9062 9069	23 Na  - NMR spectra
+T140	Chemical 9133 9218	thulium (III)-1,4,7,10-tetraazacyclododecane-1,4,7,10-tetrakis-(methylenephosphonate)
+T141	Chemical 9220 9230	Tm(DOTP)5−
+T142	Spectral_Data 9236 9247	23 Na  -NMR
+T143	Chemical 9303 9305	O2
+T144	Chemical 9310 9315	CO2  
+T145	Spectral_Data 9369 9388	23 Na  -NMR spectra
+T146	Chemical 9460 9464	NaCl
+T147	Chemical 9473 9484	Na4 HTmDOTP
+T148	Chemical 9496 9501	CaCl2
+T149	Chemical 9533 9540	CaCl2  
+T150	Chemical 9568 9575	CaCl2  
+T151	Chemical 9599 9603	Ca2+
+T152	Chemical 9248 9261	shift reagent
+T153	Chemical 9628 9641	shift reagent
+T154	Chemical 9701 9705	Ca2+
+T155	Chemical 9828 9841	shift reagent
+T156	Chemical 9959 9965	copper
+T157	Chemical 10270 10275	water
+T158	Spectral_Data 10470 10473	NMR
+T159	Spectral_Data 10539 10542	NMR
+T160	Spectral_Data 10628 10631	NMR
+T161	Spectral_Data 10684 10687	NMR
+T162	Species 10729 10733	rats
+T163	Spectral_Data 10840 10843	NMR
+T164	Chemical 10881 10884	air
+T165	Chemical 10998 11001	air
+T166	Spectral_Data 11020 11023	NMR
+T167	Spectral_Data 11069 11072	NMR
+T168	Spectral_Data 11170 11180	23 Na -NMR
+T169	Spectral_Data 11229 11244	23 Na  -spectra
+T170	Spectral_Data 11502 11505	NMR
+T171	Spectral_Data 11547 11550	NMR
+T172	Chemical 11618 11622	NaCl
+T173	Chemical 11648 11707	Tris form of dysprosium triethylenetetraminehexaacetic acid
+T174	Chemical 11709 11733	Tris3 Dy(TTHA)·3Tris–HCl
+T175	Spectral_Data 11744 11755	23 Na  -NMR
+T176	Chemical 11756 11769	shift reagent
+T177	Spectral_Data 11798 11801	NMR
+T178	Spectral_Data 11861 11880	23 Na  -NMR spectra
+T179	Chemical 12037 12044	[Na+ ]i
+T180	Chemical 12124 12131	[Na+ ]i
+T181	Chemical 12308 12325	d -cis -diltiazem
+T182	Chemical 12335 12352	l -cis -diltiazem
+T183	Chemical 12365 12377	tetrodotoxin
+T184	Chemical 12444 12454	Tm(DOTP)5−
+T185	Chemical 12605 12622	d -cis -diltiazem
+T186	Chemical 12624 12641	l -cis -diltiazem
+T187	Chemical 12674 12691	d -cis -diltiazem
+T188	Chemical 12696 12713	l -cis -diltiazem
+T189	Chemical 12831 12848	d -cis -diltiazem
+T190	Chemical 12853 12870	l -cis -diltiazem
+T191	Chemical 12936 12948	tetrodotoxin
+T192	Chemical 12983 12988	H2 O2
+T193	Chemical 13120 13137	l -cis -diltiazem
+T194	Chemical 13139 13156	d -cis -diltiazem
+T195	Chemical 13160 13172	tetrodotoxin
+T196	Chemical 13201 13206	H2 O2
+T197	Chemical 13269 13274	H2 O2
+T198	Chemical 13440 13445	H2 O2
+T199	Biological_Activity 13461 13467	induce
+R17	Associated_With Arg1:T198 Arg2:T199	
+T200	Chemical 13705 13710	water
+T201	Chemical 13801 13818	d -cis -diltiazem
+T202	Chemical 13823 13840	l -cis -diltiazem
+T203	Chemical 13848 13853	H2 O2
+T204	Chemical 13920 13928;13941 13950	d -cis - diltiazem
+T205	Chemical 13933 13950	l -cis -diltiazem
+T206	Biological_Activity 13965 13975	scavenging
+T207	Chemical 13986 13991	H2 O2
+T208	Chemical 14008 14025	d -cis -diltiazem
+T209	Chemical 14030 14047	l -cis -diltiazem
+T210	Chemical 14055 14060	H2 O2
+T211	Chemical 14119 14135	dimethylthiourea
+T212	Chemical 14150 14155	H2 O2
+T213	Biological_Activity 14157 14167	scavenging
+R18	Associated_With Arg1:T211 Arg2:T213	
+T214	Chemical 14213 14218	H2 O2
+T215	Chemical 14233 14241;14253 14262	d -cis - diltiazem
+T216	Chemical 14245 14262	l -cis -diltiazem
+T217	Chemical 14282 14287	H2 O2
+T218	Chemical 14302 14318	dimethylthiourea
+T219	Chemical 14336 14345	phosphate
+T220	Chemical 14400 14405	H2 O2
+T221	Spectral_Data 14463 14481	spectrophotometric
+R19	Associated_With Arg1:T220 Arg2:T221	
+T222	Chemical 14519 14524	Drugs
+T223	Chemical 14525 14542	d -cis -Diltiazem
+T224	Chemical 14552 14569	l -cis -diltiazem
+T225	Chemical 14686 14692	agents
+T226	Chemical 14833 14838	H2 O2
+T227	Chemical 14888 14894	saline
+T228	Chemical 14905 14910	H2 O2
+T229	Chemical 15011 15027	Dimethylthiourea
+T230	Chemical 15086 15094	reagents
+T231	Protein 15099 15106	enzymes
+T232	Chemical 15164 15175	Na4 HTmDOTP
+T233	Chemical 15239 15263	Tris3 Dy(TTHA)·3Tris–HCl
+T234	Chemical 15295 15307	DyCl3 ·6H2 O
+T235	Chemical 15329 15336	H6 TTHA
+T236	Chemical 15360 15364	Tris
+T237	Protein 15579 15582	LDH
+T238	Chemical 15595 15602	[Na+ ]i
+T239	Chemical 15647 15651	drug
+T240	Chemical 16030 16041	metabolites
+T241	Metabolite 16030 16041	metabolites
+T242	Chemical 16085 16090	H2 O2
+T243	Chemical 16106 16111	H2 O2
+T244	Chemical 16217 16228	metabolites
+T245	Metabolite 16217 16228	metabolites
+T246	Chemical 16237 16242	H2 O2
+T247	Chemical 16300 16304	drug
+T248	Chemical 16551 16559;16572 16581	d -cis - diltiazem
+T249	Chemical 16564 16581	l -cis -diltiazem
+T250	Chemical 16585 16590	H2 O2
+T251	Chemical 16691 16708	l -cis -diltiazem
+T252	Chemical 16733 16738	H2 O2
+T253	Biological_Activity 16740 16747	induced
+T254	Chemical 16808 16825	l -cis -diltiazem
+T255	Chemical 17012 17029	l -cis -diltiazem
+T256	Chemical 17058 17075	l -cis -diltiazem
+T257	Chemical 17207 17212	H2 O2
+T258	Chemical 17266 17271	H2 O2
+T259	Chemical 17438 17443	H2 O2
+T260	Biological_Activity 17668 17675	induced
+T261	Chemical 17679 17684	H2 O2
+T262	Chemical 17741 17758	l -cis -diltiazem
+T263	Chemical 17817 17834	l -cis -diltiazem
+T264	Chemical 17872 17877	H2 O2
+T265	Chemical 18019 18036	l -cis -diltiazem
+T266	Chemical 18114 18131	l -cis -diltiazem
+T267	Chemical 18156 18161	H2 O2
+T268	Chemical 18216 18226	phosphates
+T269	Metabolite 18216 18226	phosphates
+T270	Chemical 18250 18255	H2 O2
+T271	Chemical 18288 18291	ATP
+T272	Metabolite 18288 18291	ATP
+T273	Chemical 18293 18296	ADP
+T274	Metabolite 18293 18296	ADP
+T275	Chemical 18301 18319	creatine phosphate
+T276	Metabolite 18301 18319	creatine phosphate
+T277	Chemical 18354 18357	AMP
+T278	Metabolite 18354 18357	AMP
+T279	Chemical 18419 18429	phosphates
+T280	Metabolite 18419 18429	phosphates
+T281	Chemical 18477 18494	l -cis -diltiazem
+T282	Chemical 18542 18559	l -cis -diltiazem
+T283	Chemical 18597 18602	H2 O2
+T284	Biological_Activity 18604 18611	induced
+T285	Chemical 18644 18647	ATP
+T286	Metabolite 18644 18647	ATP
+T287	Chemical 18649 18652	AMP
+T288	Metabolite 18649 18652	AMP
+T289	Chemical 18657 18675	creatine phosphate
+T290	Metabolite 18657 18675	creatine phosphate
+T291	Chemical 18781 18798	l -cis -diltiazem
+T292	Chemical 18814 18819	H2 O2
+T293	Biological_Activity 18821 18828	induced
+T294	Biological_Activity 18844 18853	metabolic
+T295	Chemical 18901 18918	l -cis -diltiazem
+T296	Chemical 18953 18970	d -cis -diltiazem
+T297	Chemical 19010 19027	d -cis -diltiazem
+T298	Chemical 19040 19057	l -cis -diltiazem
+T299	Chemical 19073 19078	H2 O2
+T300	Biological_Activity 19080 19087	induced
+T301	Chemical 19202 19210;19222 19231	d -cis - diltiazem
+T302	Chemical 19214 19231	l -cis -diltiazem
+T303	Chemical 19409 19426	d -cis -diltiazem
+T304	Chemical 19431 19448	l -cis -diltiazem
+T305	Chemical 19468 19473	H2 O2
+T306	Chemical 19594 19611	d -cis -diltiazem
+T307	Chemical 19700 19717	l -cis -diltiazem
+T308	Chemical 19782 19799	d -cis -diltiazem
+T309	Chemical 19871 19876	H2 O2
+T310	Chemical 20055 20063;20076 20085	d -cis - diltiazem
+T311	Chemical 20068 20085	l -cis -diltiazem
+T312	Chemical 20115 20120	H2 O2
+T313	Chemical 20259 20276	d -cis -diltiazem
+T314	Chemical 20289 20306	l -cis -diltiazem
+T315	Chemical 20322 20327	H2 O2
+T316	Chemical 20513 20521;20533 20542	d -cis - diltiazem
+T317	Chemical 20525 20542	l -cis -diltiazem
+T318	Chemical 20673 20681;20694 20703	d -cis - diltiazem
+T319	Chemical 20686 20703	l -cis -diltiazem
+T320	Chemical 20723 20728	H2 O2
+T321	Chemical 20850 20867	d -cis -diltiazem
+T322	Chemical 20956 20973	l -cis -diltiazem
+T323	Chemical 20981 20998	d -cis -diltiazem
+T324	Chemical 21097 21102	H2 O2
+T325	Chemical 21180 21197	l -cis -Diltiazem
+T326	Chemical 21227 21232	H2 O2
+T327	Biological_Activity 21234 21241	induced
+T328	Chemical 21346 21363	d -cis -diltiazem
+T329	Biological_Activity 21410 21426	cardiodepressive
+R20	Associated_With Arg1:T328 Arg2:T329	
+T330	Chemical 21441 21458	l -cis -diltiazem
+T331	Chemical 21482 21487	H2 O2
+T332	Chemical 21630 21633	ATP
+T333	Metabolite 21630 21633	ATP
+T334	Chemical 21635 21638	ADP
+T335	Metabolite 21635 21638	ADP
+T336	Chemical 21640 21643	AMP
+T337	Metabolite 21640 21643	AMP
+T338	Chemical 21648 21666	creatine phosphate
+T339	Metabolite 21648 21666	creatine phosphate
+T340	Chemical 21683 21700	d -cis -diltiazem
+T341	Chemical 21713 21730	l -cis -diltiazem
+T342	Chemical 21753 21758	H2 O2
+T343	Chemical 21803 21808	H2 O2
+T344	Chemical 21861 21864	ATP
+T345	Metabolite 21861 21864	ATP
+T346	Chemical 21866 21869	ADP
+T347	Metabolite 21866 21869	ADP
+T348	Chemical 21871 21874	AMP
+T349	Metabolite 21871 21874	AMP
+T350	Chemical 21879 21897	creatine phosphate
+T351	Metabolite 21879 21897	creatine phosphate
+T352	Chemical 21905 21910	H2 O2
+T353	Chemical 21953 21970	d -cis -diltiazem
+T354	Chemical 21975 21992	l -cis -diltiazem
+T355	Chemical 22042 22047	H2 O2
+T356	Chemical 22080 22083	ATP
+T357	Metabolite 22080 22083	ATP
+T358	Chemical 22085 22088	ADP
+T359	Metabolite 22085 22088	ADP
+T360	Chemical 22093 22111	creatine phosphate
+T361	Metabolite 22093 22111	creatine phosphate
+T362	Chemical 22147 22150	AMP
+T363	Metabolite 22147 22150	AMP
+T364	Chemical 22207 22218	metabolites
+T365	Metabolite 22207 22218	metabolites
+T366	Chemical 22230 22235	H2 O2
+T367	Biological_Activity 22219 22226	induced
+T368	Chemical 22270 22287	d -cis -diltiazem
+T369	Chemical 22335 22352	l -cis -Diltiazem
+T370	Chemical 22373 22378	H2 O2
+T371	Biological_Activity 22380 22387	induced
+T372	Chemical 22420 22423	ATP
+T373	Metabolite 22420 22423	ATP
+T374	Chemical 22425 22428	AMP
+T375	Metabolite 22425 22428	AMP
+T376	Chemical 22433 22451	creatine phosphate
+T377	Metabolite 22433 22451	creatine phosphate
+T378	Chemical 22535 22540	H2 O2
+T379	Biological_Activity 22542 22549	induced
+T380	Chemical 22582 22585	ADP
+T381	Metabolite 22582 22585	ADP
+T382	Chemical 22619 22625;22640 22649	d -cis diltiazem
+T383	Chemical 22632 22649	l -cis -diltiazem
+T384	Chemical 22664 22669	H2 O2
+T385	Biological_Activity 22671 22678	induced
+T386	Chemical 22703 22713	phosphates
+T387	Metabolite 22703 22713	phosphates
+T388	Chemical 22758 22775	d -cis -diltiazem
+T389	Chemical 22788 22805	l -cis -diltiazem
+T390	Chemical 22821 22826	H2 O2
+T391	Protein 22847 22850	LDH
+T392	Biological_Activity 22828 22835	induced
+T393	Chemical 22868 22885	d -cis -diltiazem
+T394	Chemical 22890 22907	l -cis -diltiazem
+T395	Protein 22970 22973	LDH
+T396	Chemical 22981 22986	H2 O2
+T397	Chemical 23020 23025	H2 O2
+T398	Protein 23056 23059	LDH
+T399	Protein 23123 23126	LDH
+T400	Chemical 23179 23184	H2 O2
+T401	Protein 23220 23223	LDH
+T402	Chemical 23243 23248	H2 O2
+T403	Biological_Activity 23232 23239	induced
+T404	Chemical 23282 23290;23302 23311	d -cis - diltiazem
+T405	Chemical 23294 23311	l -cis -diltiazem
+T406	Chemical 23391 23399;23412 23421	d -cis - diltiazem
+T407	Chemical 23404 23421	l -cis -diltiazem
+T408	Chemical 23436 23441	H2 O2
+T409	Biological_Activity 23443 23450	induced
+T410	Chemical 23503 23511;23524 23533	d -cis - diltiazem
+T411	Chemical 23516 23533	l -cis -diltiazem
+T412	Chemical 23537 23542	H2 O2
+T413	Biological_Activity 23544 23551	induced
+T414	Chemical 23563 23570	[Na+ ]i
+T415	Spectral_Data 23596 23611	23 Na   spectra
+T416	Species 23620 23623	rat
+T417	Chemical 23653 23674	23 Na   shift reagent
+T418	Chemical 23675 23685	Tm(DOTP)5−
+T419	Chemical 23688 23693	H2 O2
+T420	Chemical 23808 23813	H2 O2
+T421	Chemical 23849 23856	[Na+ ]i
+T422	Chemical 23893 23910	d -cis -diltiazem
+T423	Chemical 23920 23937	l -cis -diltiazem
+T424	Chemical 23949 23961	tetrodotoxin
+T425	Chemical 24000 24017	d -cis -diltiazem
+T426	Chemical 24027 24044	l -cis -diltiazem
+T427	Chemical 24057 24069	tetrodotoxin
+T428	Chemical 24084 24089	H2 O2
+T429	Biological_Activity 24091 24098	induced
+T430	Chemical 24111 24118	[Na+ ]i
+T431	Chemical 24164 24169	H2 O2
+T432	Chemical 24188 24197	[Na+ ]i  
+T433	Chemical 24286 24291	H2 O2
+T434	Chemical 24339 24346	[Na+ ]i
+T435	Chemical 24360 24365	H2 O2
+T436	Biological_Activity 24389 24398	inhibited
+T437	Chemical 24402 24410;24422 24431	d -cis - diltiazem
+T438	Chemical 24414 24431	l -cis -diltiazem
+R21	Associated_With Arg1:T437 Arg2:T436	
+R22	Associated_With Arg1:T438 Arg2:T436	
+T439	Biological_Activity 24349 24356	induced
+T440	Chemical 24479 24491	Tetrodotoxin
+T441	Chemical 24512 24517	H2 O2
+T442	Biological_Activity 24519 24526	induced
+T443	Chemical 24539 24546	[Na+ ]i
+T444	Chemical 24628 24634;24648 24658	d -cis -diltiazem
+T445	Chemical 24641 24658	l -cis -diltiazem
+T446	Chemical 24717 24720	Na+
+T447	Biological_Activity 24722 24729	induced
+T448	Chemical 24733 24738	H2 O2
+T449	Chemical 24957 24962	H2 O2
+T450	Chemical 25072 25077	H2 O2
+T451	Biological_Activity 25079 25086	induced
+T452	Chemical 25157 25174	d -cis -diltiazem
+T453	Chemical 25184 25201	l -cis -diltiazem
+T454	Chemical 25213 25225	tetrodotoxin
+T455	Chemical 25247 25255;25268 25277	d -cis - diltiazem
+T456	Chemical 25260 25277	l -cis -diltiazem
+T457	Protein 25285 25297	Na+  channel
+T458	Biological_Activity 25298 25306	blocking
+T459	Chemical 25315 25322	[Na+ ]i
+T460	Chemical 25358 25363	H2 O2
+T461	Chemical 25416 25424;25436 25445	d -cis - diltiazem
+T462	Chemical 25428 25445	l -cis -diltiazem
+T463	Chemical 25464 25476	tetrodotoxin
+T464	Chemical 25482 25490;25503 25512	d -cis - diltiazem
+T465	Chemical 25495 25512	l -cis -diltiazem
+T466	Chemical 25521 25528	[Na+ ]i
+T467	Chemical 25560 25569	[Na+ ]i  
+T468	Chemical 25638 25646;25659 25668	d -cis - diltiazem
+T469	Chemical 25651 25668	l -cis -diltiazem
+T470	Chemical 25693 25698	H2 O2
+T471	Chemical 25752 25760;25773 25782	d -cis - diltiazem
+T472	Chemical 25765 25782	l -cis -diltiazem
+T473	Chemical 25797 25807	scavenging
+T474	Biological_Activity 25797 25807	scavenging
+T475	Chemical 25818 25823	H2 O2
+T476	Chemical 25835 25843;25855 25864	d -cis - Diltiazem
+T477	Chemical 25847 25864	l -cis -Diltiazem
+T478	Chemical 25894 25899	H2 O2
+T479	Chemical 25963 25979	dimethylthiourea
+T480	Chemical 25993 25998	H2 O2
+T481	Biological_Activity 26000 26010	scavenging
+T482	Chemical 26033 26038	H2 O2
+T483	Chemical 26099 26116	d -cis -diltiazem
+T484	Chemical 26121 26138	l -cis -diltiazem
+T485	Biological_Activity 26152 26162	scavenging
+T486	Chemical 26173 26178	H2 O2
+T487	Chemical 26253 26261;26274 26283	d -cis - diltiazem
+T488	Chemical 26266 26283	l -cis -diltiazem
+T489	Chemical 26291 26296	H2 O2
+T490	Biological_Activity 26298 26305	induced
+T491	Species 26355 26358	rat
+T492	Chemical 26366 26383	l -cis -Diltiazem
+T493	Chemical 26408 26425	d -cis -diltiazem
+T494	Chemical 26469 26486	d -cis -diltiazem
+T495	Protein 26494 26507	Ca2+  channel
+T496	Biological_Activity 26508 26516	blocking
+T497	Chemical 26577 26582	H2 O2
+T498	Chemical 26680 26685	H2 O2
+T499	Chemical 26695 26705	metabolite
+T500	Metabolite 26695 26705	metabolite
+T501	Chemical 26707 26723	hydroxyl radical
+T502	Metabolite 26707 26723	hydroxyl radical
+R23	Metabolite_Of Arg1:T502 Arg2:T498	
+T503	Biological_Activity 26757 26769	pathogenesis
+T504	Biological_Activity 26791 26798	induced
+R24	Associated_With Arg1:T498 Arg2:T503	
+R25	Associated_With Arg1:T502 Arg2:T503	
+R26	Associated_With Arg1:T501 Arg2:T503	
+T505	Chemical 26873 26878	H2 O2
+T506	Chemical 27053 27058	H2 O2
+T507	Chemical 27245 27248	ATP
+T508	Metabolite 27245 27248	ATP
+T509	Chemical 27253 27271	creatine phosphate
+T510	Metabolite 27253 27271	creatine phosphate
+T511	Chemical 27302 27305	AMP
+T512	Metabolite 27302 27305	AMP
+T513	Protein 27358 27361	LDH
+T514	Chemical 27444 27449	H2 O2
+T515	Biological_Activity 27433 27440	induced
+T516	Chemical 27470 27487	l -cis -diltiazem
+T517	Chemical 27512 27529	l -cis -diltiazem
+T518	Chemical 27531 27548	d -cis -diltiazem
+T519	Biological_Activity 27629 27636	induced
+T520	Chemical 27640 27645	H2 O2
+T521	Chemical 27656 27673	d -cis -diltiazem
+T522	Protein 27687 27700	Ca2+  channel
+T523	Biological_Activity 27701 27709	blocking
+T524	Biological_Activity 27777 27793	cardiodepressive
+T525	Chemical 27804 27821	d -cis -diltiazem
+T526	Chemical 27842 27847	H2 O2
+T527	Chemical 27891 27899;27912 27921	d -cis - diltiazem
+T528	Chemical 27904 27921	l -cis -diltiazem
+T529	Biological_Activity 27922 27929	protect
+R27	Associated_With Arg1:T528 Arg2:T529	
+R28	Associated_With Arg1:T527 Arg2:T529	
+T530	Chemical 27957 27962	H2 O2
+T531	Biological_Activity 27964 27971	induced
+T532	Biological_Activity 28001 28017	cardioprotective
+T533	Protein 28048 28061	Ca2+  channel
+T534	Biological_Activity 28062 28070	blocking
+R29	Associated_With Arg1:T528 Arg2:T532	
+R30	Associated_With Arg1:T527 Arg2:T532	
+T535	Biological_Activity 28092 28102	scavengers
+T536	Biological_Activity 28106 28119	anti-oxidants
+T537	Biological_Activity 28146 28153	protect
+T538	Biological_Activity 28177 28186	oxidative
+T539	Species 28319 28322	rat
+T540	Protein 28330 28338	catalase
+T541	Chemical 28342 28347	H2 O2
+T542	Biological_Activity 28349 28358	scavenger
+T543	Chemical 28384 28392	propofol
+T544	Biological_Activity 28409 28419	anesthetic
+T545	Chemical 28420 28424	drug
+T546	Biological_Activity 28433 28445	anti-oxidant
+R31	Associated_With Arg1:T543 Arg2:T544	
+R32	Associated_With Arg1:T543 Arg2:T546	
+T547	Chemical 28494 28499	H2 O2
+T548	Biological_Activity 28501 28508	induced
+T549	Chemical 28585 28595	phosphates
+T550	Metabolite 28585 28595	phosphates
+T551	Chemical 28628 28645	d -cis -diltiazem
+T552	Biological_Activity 28653 28665	anti-oxidant
+R33	Associated_With Arg1:T551 Arg2:T552	
+T553	Biological_Activity 28788 28800	anti-oxidant
+T554	Chemical 28811 28828	l -cis -diltiazem
+T555	Chemical 28851 28868	d -cis -diltiazem
+T556	Biological_Activity 28886 28898	anti-oxidant
+T557	Chemical 29017 29024	inhibit
+T558	Chemical 29032 29037	lipid
+T559	Biological_Activity 29059 29066	induced
+T560	Chemical 29070 29076	oxygen
+T561	Chemical 29070 29085	oxygen radicals
+T562	Chemical 29186 29203	d -cis -diltiazem
+T563	Chemical 29216 29233	l -cis -diltiazem
+T564	Chemical 29255 29260	H2 O2
+T565	Biological_Activity 29345 29355	protective
+T566	Chemical 29366 29374;29387 29396	d -cis - diltiazem
+T567	Chemical 29379 29396	l -cis -diltiazem
+T568	Chemical 29404 29409	H2 O2
+T569	Biological_Activity 29411 29418	induced
+T570	Biological_Activity 29454 29464	scavenging
+T571	Chemical 29446 29453	radical
+T572	Biological_Activity 29468 29480	anti-oxidant
+T573	Chemical 29539 29544	H2 O2
+T574	Chemical 29568 29571	Na+
+T575	Biological_Activity 29627 29634	blocked
+T576	Chemical 29638 29650	tetrodotoxin
+R34	Associated_With Arg1:T576 Arg2:T575	
+T577	Chemical 29754 29776	reactive oxygen specie
+T578	Chemical 29795 29798	Na+
+T579	Protein 29823 29836	Na+  channel,
+T580	Chemical 29862 29866	Ca2+
+T581	Chemical 29889 29892	Na+
+T582	Chemical 29894 29898	Ca2+
+T583	Chemical 29955 29960	H2 O2
+T584	Chemical 30009 30012	Na+
+T585	Chemical 30018 30022	Ca2+
+T586	Chemical 30088 30096;30109 30118	d -cis - diltiazem
+T587	Chemical 30101 30118	l -cis -diltiazem
+T588	Biological_Activity 30145 30150	block
+T589	Protein 30155 30167	Na+  channel
+R35	Associated_With Arg1:T586 Arg2:T588	
+R36	Associated_With Arg1:T587 Arg2:T588	
+R37	Binds_With Arg1:T586 Arg2:T589	
+R38	Binds_With Arg1:T587 Arg2:T589	
+T590	Chemical 30258 30266;30279 30288	d -cis - diltiazem
+T591	Chemical 30271 30288	l -cis -diltiazem
+T592	Species 30393 30396	rat
+T593	Biological_Activity 30289 30298	inhibited
+T594	Chemical 30303 30314	veratridine
+T595	Protein 30318 30330	Na+  channel
+T596	Biological_Activity 30331 30337	opener
+R39	Binds_With Arg1:T594 Arg2:T595	
+R40	Associated_With Arg1:T594 Arg2:T596	
+T597	Chemical 30359 30366	[Na+ ]i
+T598	Biological_Activity 30373 30389	hypercontracture
+R41	Associated_With Arg1:T590 Arg2:T593	
+R42	Associated_With Arg1:T591 Arg2:T593	
+R43	Associated_With Arg1:T591 Arg2:T598	
+R44	Associated_With Arg1:T590 Arg2:T598	
+T599	Chemical 30512 30518;30532 30542	d -cis -diltiazem
+T600	Chemical 30525 30542	l -cis -diltiazem
+T601	Chemical 30550 30555	H2 O2
+T602	Biological_Activity 30557 30564	induced
+T603	Biological_Activity 30594 30602	blocking
+T604	Protein 30617 30629	Na+  channel
+T605	Chemical 30688 30696;30709 30718	d -cis - diltiazem
+T606	Chemical 30701 30718	l -cis -diltiazem
+T607	Chemical 30726 30731	H2 O2
+T608	Biological_Activity 30339 30346	induced
+T609	Biological_Activity 30733 30740	induced
+T610	Chemical 30753 30760	[Na+ ]i
+T611	Spectral_Data 30790 30803	NMR technique
+T612	Chemical 30874 30879	H2 O2
+T613	Chemical 31000 31005	H2 O2
+T614	Chemical 31081 31086	H2 O2
+T615	Chemical 31184 31189	H2 O2
+T616	Biological_Activity 31205 31211	induce
+R45	Associated_With Arg1:T615 Arg2:T616	
+T618	Chemical 31343 31348	H2 O2
+T619	Chemical 31454 31458	Ca2+
+T620	Biological_Activity 31523 31539	cardioprotection
+T621	Chemical 31567 31571	Ca2+
+T622	Chemical 31587 31597	Tm(DOTP)5−
+T623	Spectral_Data 31801 31804	NMR
+T624	Chemical 31886 31891	water
+T625	Chemical 32010 32013	Na+
+T626	Chemical 32047 32050	Na+
+T627	Spectral_Data 32077 32096	23 Na  -NMR spectra
+T628	Chemical 32121 32134	shift reagent
+T629	Chemical 32179 32186	[Na+ ]i
+R47	Associated_With Arg1:T610 Arg2:T611	
+T630	Chemical 32266 32269	Na+
+T631	Chemical 32330 32337	[Na+ ]i
+T632	Chemical 32445 32453;32466 32475	d -cis - diltiazem
+T633	Chemical 32458 32475	l -cis -diltiazem
+T634	Chemical 32490 32495	H2 O2
+T635	Chemical 32517 32524	[Na+ ]i
+T636	Chemical 32541 32553	Tetrodotoxin
+T637	Biological_Activity 32573 32582	inhibitor
+T638	Protein 32586 32599	Na+  channels
+R48	Associated_With Arg1:T636 Arg2:T637	
+R49	Binds_With Arg1:T636 Arg2:T638	
+T639	Chemical 32642 32647	H2 O2
+T640	Biological_Activity 32649 32656	induced
+T641	Chemical 32669 32676	[Na+ ]i
+T642	Chemical 32700 32705	H2 O2
+T643	Biological_Activity 32707 32714	induced
+T644	Biological_Activity 32755 32765	protective
+T645	Chemical 32776 32784;32797 32806	d -cis - diltiazem
+T646	Chemical 32789 32806	l -cis -diltiazem
+T647	Biological_Activity 32838 32845	inhibit
+T648	Protein 32850 32862	Na+  channel
+T649	Chemical 32926 32938	tetrodotoxin
+T650	Chemical 32961 32970	lidocaine
+T651	Chemical 32996 33003	dilazep
+T652	Protein 33049 33061	Na+  channel
+T653	Biological_Activity 33062 33070	blocking
+R50	Binds_With Arg1:T651 Arg2:T652	
+R51	Binds_With Arg1:T650 Arg2:T652	
+R52	Associated_With Arg1:T651 Arg2:T653	
+R53	Associated_With Arg1:T650 Arg2:T653	
+T654	Chemical 33112 33117	H2 O2
+T617	Chemical 33199 33209	phosphates
+T655	Metabolite 33199 33209	phosphates
+T656	Chemical 33245 33253;33266 33275	d -cis - diltiazem
+T657	Chemical 33258 33275	l -cis -diltiazem
+T658	Chemical 33291 33296	H2 O2
+T659	Biological_Activity 33298 33305	induced
+T660	Biological_Activity 33321 33330	metabolic
+T661	Chemical 33388 33393	H2 O2
+T662	Biological_Activity 33395 33402	induced
+T663	Chemical 33415 33422	[Na+ ]i
+T664	Chemical 33489 33494	H2 O2
+T665	Biological_Activity 33528 33538	activation
+T666	Protein 33546 33563	fast Na+  channel
+T667	Biological_Activity 33607 33617	activation
+T668	Protein 33634 33649	cation channels
+T669	Biological_Activity 33677 33689	inactivation
+T670	Protein 33693 33708	creatine kinase
+R46	Associated_With Arg1:T664 Arg2:T665	
+R54	Binds_With Arg1:T664 Arg2:T666	
+R55	Associated_With Arg1:T664 Arg2:T667	
+R56	Binds_With Arg1:T664 Arg2:T668	
+R57	Associated_With Arg1:T664 Arg2:T669	
+R58	Binds_With Arg1:T664 Arg2:T670	
+T671	Chemical 33769 33786	d -cis -diltiazem
+T672	Chemical 33799 33816	l -cis -diltiazem
+T673	Biological_Activity 1138 1146	ischemia
+T674	Biological_Activity 1204 1212	ischemia
+T675	Biological_Activity 1566 1574	ischemia
+T676	Biological_Activity 1742 1750	ischemia
+T677	Biological_Activity 26802 26810	ischemia
+T678	Biological_Activity 33891 33899	ischemia
+T679	Biological_Activity 34113 34121	ischemia
+T680	Chemical 33984 33992;34005 34014	d -cis - diltiazem
+T681	Chemical 33997 34014	l -cis -diltiazem
+T682	Chemical 34022 34027	H2 O2
+T683	Biological_Activity 34029 34036	induced
+T684	Biological_Activity 34069 34079	protective
+T685	Chemical 34161 34169;34182 34191	d -cis - diltiazem
+T686	Chemical 34174 34191	l -cis -diltiazem
+T687	Biological_Activity 34192 34199	protect
+T688	Chemical 34227 34232	H2 O2
+T689	Biological_Activity 34234 34241	induced
+T690	Biological_Activity 34295 34305	protective
+T691	Chemical 34316 34324;34337 34346	d -cis - diltiazem
+T692	Chemical 34329 34346	l -cis -diltiazem
+T693	Biological_Activity 34361 34371	inhibition
+T694	Chemical 34379 34384	H2 O2
+T695	Chemical 34406 34413	[Na+ ]i
+T696	Chemical 34729 34760	l -cis -Diltiazem hydrochloride

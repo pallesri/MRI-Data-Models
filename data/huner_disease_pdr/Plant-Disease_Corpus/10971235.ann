@@ -1,0 +1,18 @@
+T1	Disease 80 97	colorectal cancer	D015179
+T2	Disease 150 167	colorectal cancer	D015179
+T3	Disease 336 350	colonic cancer	D003110
+T5	Disease 1562 1574	colon cancer	D003110
+T6	Plant 47 53	coffee
+T8	Plant 135 141	coffee	13442
+T10	Plant 230 236	coffee	13442
+T12	Plant 290 296	coffee	13442
+T15	Plant 648 654	coffee	13442
+T16	Plant 667 673	coffee	13442
+T18	Plant 812 818	coffee	13442
+T20	Plant 1106 1112	coffee	13442
+T22	Plant 1260 1266	coffee	13442
+T24	Plant 1291 1297	coffee	13442
+T7	Treatment_of_disease 64 71	protect
+E1	Treatment_of_disease:T7 Theme:T1 Cause:T6
+T11	Treatment_of_disease 269 275	effect
+E3	Treatment_of_disease:T11 Cause:T12 Theme:T3

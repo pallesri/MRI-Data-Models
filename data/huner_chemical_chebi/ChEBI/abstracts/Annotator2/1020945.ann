@@ -1,0 +1,22 @@
+T1	Biological_Activity 4 15	cardiotoxic
+T2	Chemical 26 38	karminomycin
+T3	Chemical 43 53	adriamycin
+T4	Biological_Activity 167 177	antibiotic
+T5	Chemical 167 177	antibiotic
+T6	Species 234 245	albino mice
+R1	Associated_With Arg1:T2 Arg2:T1	
+R2	Associated_With Arg1:T3 Arg2:T1	
+R3	Associated_With Arg1:T3 Arg2:T4	
+R4	Associated_With Arg1:T3 Arg2:T4	
+T7	Chemical 372 384	karminomycin
+T8	Chemical 389 399	adriamycin
+T10	Chemical 519 530	antibiotics
+T11	Biological_Activity 519 530	antibiotics
+T12	Chemical 664 668	drug
+T13	Biological_Activity 727 738	cardiotoxic
+T14	Chemical 753 758	drugs
+T15	Chemical 816 826	Adriamycin
+T16	Chemical 884 896	karminomycin
+T19	Species 936 940	mice
+T20	Chemical 990 1000	adriamycin
+T21	Species 766 770	mice

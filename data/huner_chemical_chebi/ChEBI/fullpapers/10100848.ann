@@ -1,0 +1,201 @@
+T1	Chemical 29 38;44 48	hepoxilin A3  
+T2	Chemical 40 42;44 48	Hx A3  
+T3	Protein 74 89	binding protein
+T4	Species 104 109	human
+T5	Chemical 163 170	calcium
+T6	Chemical 206 212;218 223	methyl ester
+T7	Chemical 214 216	Me
+T8	Chemical 232 236	DMSO
+T9	Chemical 263 272	free acid
+T10	Chemical 274 276	FA
+T11	Biological_Activity 330 337	binding
+T12	Chemical 342 349	calcium
+T13	Chemical 214 216;218 223	Me ester
+T14	Chemical 392 394	FA
+T15	Chemical 399 407	Me ester
+T16	Chemical 412 416	DMSO
+T17	Biological_Activity 442 449	binding
+R1	Associated_With Arg1:T14 Arg2:T17	
+R2	Associated_With Arg1:T15 Arg2:T17	
+T18	Chemical 514 516	FA
+T19	Protein 569 584	binding protein
+T20	Biological_Activity 703 710	binding
+T21	Chemical 711 718	calcium
+T22	Chemical 751 753	FA
+T23	Chemical 762 770	Me ester
+T24	Chemical 792 799	ethanol
+T25	Chemical 871 875	HxA3
+T26	Chemical 895 902	calcium
+T27	Chemical 953 960	calcium
+T28	Chemical 1013 1032	8(R)-HxA3  Me ester
+T29	Chemical 1097 1099	FA
+T30	Chemical 1134 1142	Me ester
+T31	Chemical 1152 1155	KOH
+T32	Chemical 1156 1163	ethanol
+T33	Chemical 1256 1282	[3 H6 ](8R)-HxA3  Me ester
+T34	Chemical 1325 1343	Lanthanum chloride
+T35	Species 1411 1416	human
+T36	Species 1429 1434	Human
+T37	Species 1569 1579	volunteers
+T38	Chemical 1650 1664	heparin sodium
+T39	Chemical 1736 1743	dextran
+T40	Chemical 1908 1925	ammonium chloride
+T41	Chemical 2006 2022	RPMI 1640 medium
+T42	Chemical 2137 2153	RPMI 1640 medium
+T43	Chemical 2174 2181	calcium
+T44	Chemical 2307 2326	acetoxymethyl ester
+T45	Chemical 2344 2351	calcium
+T46	Chemical 2363 2372	Indo-1-AM
+T47	Chemical 2507 2523	RPMI 1640 medium
+T48	Chemical 2670 2682	assay medium
+T49	Chemical 2719 2723	NaCl
+T50	Chemical 2729 2732	KCl
+T51	Chemical 2736 2743	MgCl2  
+T52	Chemical 2746 2753	CaCl2  
+T53	Chemical 2756 2773	HEPES sodium-free
+T54	Chemical 2781 2788	glucose
+T55	Chemical 2905 2912	Calcium
+T56	Chemical 2937 2944	calcium
+T57	Chemical 2954 2958	EGTA
+T58	Chemical 3456 3465	ionomycin
+T59	Chemical 3544 3551	MnCl2  
+T60	Chemical 3640 3644	DMSO
+T61	Chemical 3695 3702	ethanol
+T62	Chemical 3832 3853	[3 H6 ]HxA3  Me ester
+T63	Biological_Activity 3818 3828	Metabolism
+T64	Species 3871 3876	human
+T65	Chemical 3917 3929	assay medium
+T66	Chemical 3982 4006	[3 H](8R)-HxA3  Me ester
+T67	Chemical 4045 4064	unlabelled compound
+T68	Chemical 4157 4170	ethyl acetate
+T69	Chemical 4221 4223	Hx
+T70	Chemical 4221 4223;4242 4250	Hx products
+T71	Metabolite 4221 4223;4242 4250	Hx products
+R3	Metabolite_Of Arg1:T71 Arg2:T69	
+T72	Chemical 4322 4326	N2  
+T73	Chemical 4381 4394	ethyl acetate
+T74	Chemical 4415 4427	silica gel G
+T75	Chemical 4429 4442	ethyl acetate
+T76	Chemical 4443 4454	acetic acid
+T77	Chemical 4649 4663	HxA3  Me ester
+T78	Chemical 4668 4670	FA
+T79	Chemical 4686 4695;4712 4714	ω-hydroxy FA
+T80	Chemical 4697 4699;4712 4714	ωH FA
+T81	Metabolite 4686 4695;4712 4714	ω-hydroxy FA
+T82	Metabolite 4697 4699;4712 4714	ωH FA
+T83	Metabolite 4753 4777	trihydroxy metabolite FA
+T84	Chemical 4753 4777	trihydroxy metabolite FA
+T85	Protein 4790 4807	epoxide hydrolase
+T86	Chemical 4893 4901	HxA3  FA
+T87	Chemical 4914 4922	Me ester
+T88	Chemical 4979 4986	calcium
+T89	Species 5005 5010	human
+T90	Chemical 5075 5082	calcium
+T91	Chemical 5114 5128	HxA3  Me ester
+T92	Chemical 5147 5149	FA
+T93	Chemical 5167 5171	DMSO
+T94	Chemical 5238 5245	ethanol
+T95	Chemical 5337 5345	Me ester
+T96	Chemical 5447 5449	FA
+T97	Chemical 5478 5482	DMSO
+T98	Chemical 5511 5518	ethanol
+T99	Chemical 5600 5607	ethanol
+T100	Chemical 5651 5658	calcium
+T101	Chemical 5700 5707	calcium
+T102	Chemical 5743 5747	HxA3
+T103	Chemical 5776 5784	Me ester
+T104	Chemical 5835 5842	calcium
+T105	Chemical 5860 5862	FA
+T106	Chemical 5864 5866	Me
+T107	Chemical 5881 5883	FA
+T108	Chemical 5971 5973	FA
+T109	Chemical 5975 5977	Me
+T110	Chemical 5990 5992	FA
+T111	Chemical 6085 6092	calcium
+T112	Chemical 6119 6127	Me ester
+T113	Chemical 6166 6168	FA
+T114	Chemical 6236 6243	calcium
+T115	Chemical 6273 6291	lanthanum chloride
+T116	Chemical 6384 6388	HxA3
+T117	Chemical 6392 6410	Lanthanum chloride
+T118	Chemical 6431 6438	calcium
+T119	Biological_Activity 6442 6452	inhibiting
+T120	Chemical 6453 6460	calcium
+R4	Associated_With Arg1:T117 Arg2:T119	
+T121	Chemical 6479 6488	Lanthanum
+T122	Chemical 6535 6542	calcium
+T123	Chemical 6584 6592	Me ester
+T124	Chemical 6608 6610	FA
+T125	Chemical 6728 6735	calcium
+T126	Chemical 6748 6752	EGTA
+T127	Chemical 6759 6767	Me ester
+T128	Chemical 6779 6783	DMSO
+T129	Chemical 6787 6794	ethanol
+T130	Chemical 6851 6858	calcium
+T131	Chemical 6996 7002	HxA3  
+T132	Chemical 7049 7056	calcium
+T133	Chemical 7097 7107	FA of HxA3
+T134	Chemical 7144 7152	Me ester
+T135	Chemical 7186 7188	FA
+T136	Chemical 7190 7192	Me
+T137	Chemical 7207 7209	FA
+T138	Chemical 7280 7287	calcium
+T139	Chemical 7471 7477	HxA3  
+T140	Chemical 7559 7583	tritiated HxA3  Me ester
+T141	Species 7589 7594	human
+T142	Chemical 7710 7717	calcium
+T143	Chemical 7723 7736	ethyl acetate
+T144	Chemical 7859 7866	calcium
+T145	Chemical 7877 7885	Me ester
+T146	Chemical 7936 7938	FA
+T147	Protein 7956 7965	esterases
+T148	Metabolite 7936 7938	FA
+R5	Metabolite_Of Arg1:T148 Arg2:T145	
+T149	Chemical 7990 7998	Me ester
+T150	Chemical 8049 8056	calcium
+T151	Chemical 8062 8069	calcium
+T152	Chemical 8117 8125	Me ester
+T153	Chemical 8148 8150	FA
+T154	Metabolite 8148 8150	FA
+R6	Metabolite_Of Arg1:T154 Arg2:T152	
+T155	Chemical 8240 8247	calcium
+T156	Chemical 8263 8279	Me ester of HxA3
+T157	Chemical 8311 8319	Me ester
+T158	Chemical 8411 8413	FA
+T159	Metabolite 8411 8413	FA
+R7	Metabolite_Of Arg1:T159 Arg2:T156	
+T160	Chemical 8489 8491	FA
+T161	Chemical 8569 8576	calcium
+T162	Chemical 8639 8643	HxA3
+T163	Chemical 8658 8660	FA
+T164	Chemical 8676 8684	Me ester
+T165	Chemical 8732 8739	calcium
+T166	Chemical 8639 8643;8676 8684	HxA3 Me ester
+T167	Chemical 8639 8643;8658 8660	HxA3 FA
+T168	Chemical 8842 8856	tritiated HxA3
+T169	Chemical 8872 8880	Me ester
+T170	Chemical 8922 8924	FA
+T171	Metabolite 8922 8924	FA
+R8	Metabolite_Of Arg1:T171 Arg2:T169	
+T172	Chemical 8991 8998	calcium
+T173	Chemical 9063 9070	calcium
+T174	Chemical 9111 9113	FA
+T175	Chemical 9150 9157	calcium
+T176	Chemical 9258 9262	DMSO
+T177	Chemical 9282 9284	FA
+T178	Chemical 9293 9299	HxA3  
+T179	Chemical 9336 9349	hydrogen-bond
+T180	Chemical 9352 9369	DMSO-HxA3  adduct
+T181	Chemical 9440 9446	HxA3  
+T182	Chemical 9459 9466	ethanol
+T183	Chemical 9483 9485	FA
+T184	Chemical 9540 9547	calcium
+T185	Chemical 9625 9632	calcium
+T186	Chemical 9695 9697	Hx
+T187	Biological_Activity 9698 9705	binding
+T188	Chemical 9719 9721	FA
+T189	Chemical 9735 9739	DMSO
+T190	Biological_Activity 9783 9787	bind
+R9	Associated_With Arg1:T188 Arg2:T190	
+T191	Chemical 9833 9841	Me ester
+R10	Associated_With Arg1:T191 Arg2:T190	

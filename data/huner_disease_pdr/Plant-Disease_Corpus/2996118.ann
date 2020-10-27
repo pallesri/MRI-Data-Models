@@ -1,0 +1,8 @@
+T1	Disease 120 146	gastric and duodenal ulcer
+T2	Disease 338 351	gastric ulcer
+T3	Disease 402 428	gastric and duodenal ulcer
+T4	Disease 450 464	duodenal ulcer
+T5	Disease 607 628	gastric ulcer disease
+T6	Plant 532 537	wheat
+T7	Treatment_of_disease 543 550	reduced
+E1	Treatment_of_disease:T7 Cause:T6 Theme:T5

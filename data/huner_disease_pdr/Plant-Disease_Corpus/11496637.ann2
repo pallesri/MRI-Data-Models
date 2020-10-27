@@ -1,0 +1,25 @@
+T1	Disease 114 134	respiratory diseases
+T2	Disease 275 295	respiratory diseases
+T3	Disease 359 379	respiratory diseases
+T4	Disease 553 559	asthma
+T5	Disease 572 590	chronic bronchitis
+T6	Disease 595 604	emphysema
+T7	Disease 679 685	asthma
+T8	Disease 687 705	chronic bronchitis
+T9	Disease 710 719	emphysema
+T10	Disease 831 837	asthma
+T11	Disease 1248 1268	respiratory diseases
+T12	Plant 632 639	tobacco
+T13	Plant 1203 1210	tobacco
+T14	Disease 222 230	wheezing
+T15	Disease 511 519	wheezing
+T16	Disease 561 570	allergies
+T17	Disease 669 677	wheezing
+T18	Disease 757 765	wheezing
+T19	Disease 818 826	wheezing
+T20	Disease 878 887	asthmatic
+T21	Disease 894 902	allergic
+T22	Disease 987 995	wheezing
+T23	Cause_of_disease 653 663	associated
+E1	Cause_of_disease:T23 Cause:T12 Theme:T17 Theme2:T7 Theme3:T8 Theme4:T9
+T24	Disease 1149 1157	wheezing

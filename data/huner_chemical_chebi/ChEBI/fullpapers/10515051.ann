@@ -1,0 +1,504 @@
+T1	Species 36 54	Echinacea purpurea
+T2	Chemical 78 92	polysaccharide
+T3	Metabolite 78 92	polysaccharide
+R1	Isolated_From Arg1:T3 Arg2:T1	
+T4	Chemical 219 234	polysaccharides
+T5	Metabolite 219 234	polysaccharides
+T6	Species 238 256	Echinacea purpurea
+T7	Chemical 322 337	polysaccharides
+T8	Metabolite 322 337	polysaccharides
+T9	Chemical 342 375	4-O- methylglucuronoarabinoxylans
+T10	Metabolite 342 375	4-O- methylglucuronoarabinoxylans
+T11	Chemical 385 407	arabinorhamnogalactans
+T12	Metabolite 385 407	arabinorhamnogalactans
+R2	Isolated_From Arg1:T10 Arg2:T6	
+R3	Isolated_From Arg1:T12 Arg2:T6	
+T13	Chemical 431 446	arabinogalactan
+T14	Metabolite 431 446	arabinogalactan
+R4	Isolated_From Arg1:T14 Arg2:T6	
+T15	Chemical 586 595	galactose
+T16	Chemical 609 632	β-(1→6)-linked galactan
+T18	Chemical 660 681	α-l -arabinofuranosyl
+T17	Chemical 688 737	α-l -arabinofuranosyl-(1→5)-α-l -arabinofuranosyl
+T19	Chemical 844 858	polysaccharide
+T20	Metabolite 844 858	polysaccharide
+T21	Species 909 928	Acer pseudoplatanus
+R5	Isolated_From Arg1:T20 Arg2:T21	
+T22	Chemical 948 963	tetrasaccharide
+T23	Protein 1067 1088	monoclonal antibodies
+T24	Chemical 1107 1115	epitopes
+T25	Biological_Activity 1107 1115	epitopes
+T26	Chemical 1119 1134	polysaccharides
+T27	Metabolite 1119 1134	polysaccharides
+T28	Species 1149 1168	Acer pseudoplatanus
+T29	Chemical 1355 1371	oligosaccharides
+T30	Protein 1381 1402	monoclonal antibodies
+T31	Protein 1410 1420	antibodies
+T32	Species 1474 1479	plant
+T33	Chemical 1480 1495	polysaccharides
+T34	Metabolite 1480 1495	polysaccharides
+T35	Chemical 1630 1686	2,6-di-O- glycosylated β-d -galactopyranosyl derivatives
+T36	Chemical 1739 1755	oligosaccharides
+T37	Chemical 1855 1884	alkyl β-d -galactopyranosides
+T38	Chemical 1890 1910	2,2-dimethoxypropane
+T39	Chemical 1952 1975	p -toluenesulfonic acid
+T40	Chemical 1988 2068	alkyl 3,4-O- isopropylidene-6-O -(methoxydimethyl)methyl-β-d -galactopyranosides
+T41	Chemical 2158 2175	galactopyranoside
+T42	Chemical 2234 2263	(methoxydimethyl)methyl group
+T43	Chemical 2267 2270	MIP
+T44	Chemical 2272 2291	2-methoxy-isopropyl
+T45	Chemical 2365 2384	galactopyranos(e)yl
+T46	Chemical 2445 2460	galactosyl unit
+T47	Chemical 2484 2500	dimethoxypropane
+T48	Chemical 2504 2535	partially protected digalactose
+T49	Chemical 2673 2722	1,2:3,4-di-O- isopropylidene-α-d -galactopyranose
+T50	Chemical 2730 2731	1
+T51	Chemical 2756 2781	α-acetobromo-d -galactose
+T52	Chemical 2844 2946	6-O -(2,3,4,6-tetra-O -acetyl-β-d -galactopyranosyl)-1,2:3,4-di-O- isopropylidene-α-d -galactopyranose
+T53	Chemical 2954 2955	2
+T54	Chemical 2972 2982	Compound 2
+T55	Chemical 3009 3087	6-O -(β-d -galactopyranosyl)-1,2:3,4-di-O- isopropylidene-α-d -galactopyranose
+T56	Chemical 3095 3096	3
+T57	Chemical 3109 3121	disaccharide
+T58	Chemical 3162 3182	2,2-dimethoxypropane
+T59	Chemical 3202 3225	p -toluenesulfonic acid
+T60	Chemical 3266 3398	6-O- (3,4-O- isopropropylidene-6-O- (methoxydimethyl)methyl-β-d -galactopyranosyl)-1,2:3,4-di-O- isopropylidene-α-d -galactopyranose
+T61	Chemical 3400 3401	4
+T62	Chemical 3405 3415	Compound 5
+T63	Chemical 3492 3532	β-d -galactopyranosyl-(1→6)-d -galactose
+T64	Chemical 3534 3535	6
+T65	Chemical 3543 3563	2,2-dimethoxypropane
+T66	Chemical 3581 3591	compound 4
+T67	Chemical 3598 3613	MIP derivatives
+T68	Spectral_Data 3647 3650;3660 3663	1 H NMR
+T69	Spectral_Data 3655 3663	13 C NMR
+T70	Chemical 3676 3686	compound 4
+T71	Spectral_Data 3729 3810	1 H NMR spectrum between 1.50 and 1.30 ppm; the OCH3  group resonated at 3.12 ppm
+R6	Associated_With Arg1:T70 Arg2:T68	
+R7	Associated_With Arg1:T70 Arg2:T69	
+R8	Associated_With Arg1:T60 Arg2:T69	
+R9	Associated_With Arg1:T60 Arg2:T68	
+T73	Spectral_Data 3819 4028	13 C NMR spectrum the quaternary acetal carbon of the (methoxydimethyl)methyl group resonated at 100.1 ppm, the C-6 showed a rather strong upfield shift at 60.26 ppm, and the OCH3  signal appeared at 48.53 ppm
+T74	Chemical 3859 3865	carbon
+T75	Chemical 3873 3902	(methoxydimethyl)methyl group
+T76	Chemical 4105 4132	oligosaccharide derivatives
+T77	Chemical 4152 4165	trisaccharide
+T78	Chemical 4198 4208	compound 4
+T79	Chemical 4184 4195	structure I
+T80	Chemical 4247 4255	aglycone
+T81	Chemical 4276 4277	4
+T82	Chemical 4284 4334	2,3,5-tri-O- benzoyl-α-l -arabinofuranosyl bromide
+T83	Chemical 4342 4343	7
+T84	Chemical 4352 4359	Hg(CN)2
+T85	Chemical 4485 4494	MIP group
+T86	Chemical 4538 4694	6-O- [2,6-di-O- (2,3,5-tri-O- benzoyl-α-l -arabinofuranosyl)-3,4-O- isopropylidene-β-d -galactopyranosyl-]-1,2:3,4-di-O- isopropylidene-α-d -galactopyranose
+T87	Chemical 4696 4697	8
+T88	Chemical 4876 4885	MIP group
+T89	Chemical 4959 4969	compound 8
+T90	Chemical 5032 5047	trisaccharide 9
+T91	Chemical 4921 4927	carbon
+T92	Chemical 5069 5075	carbon
+T93	Chemical 5197 5218	isopropylidene groups
+T94	Chemical 5182 5191	dioxolane
+T95	Chemical 5280 5281	9
+T96	Chemical 5292 5313	monoacetyl derivative
+T97	Chemical 5315 5317	10
+T98	Chemical 5390 5398	OH group
+T99	Chemical 5560 5573	trisaccharide
+T100	Chemical 5575 5577	11
+T101	Chemical 5623 5629	acetal
+T102	Chemical 5689 5710	arabinofuranosyl unit
+T103	Chemical 5763 5776	trisaccharide
+T104	Chemical 5808 5811	MIP
+T105	Chemical 5826 5976	6-O- [2-O- (2,3,5-tri-O- benzoyl-α-l -arabinofuranosyl)-3,4-O- isopropylidene-β-d -galactopyranosyl]-1,2:3,4-di-O- isopropylidene-α-d -galactopyranose
+T106	Chemical 5978 5980	11
+T107	Chemical 6016 6020	acid
+T108	Chemical 6049 6064	MIP derivatives
+T109	Chemical 6093 6108;6111 6112	oligosaccharide 8
+T110	Chemical 6093 6108;6114 6115	oligosaccharide 9
+T111	Chemical 6093 6108;6121 6123	oligosaccharide 11
+T112	Chemical 6253 6256	MIP
+T113	Chemical 6268 6272	12  
+T114	Chemical 6320 6335	mercury bromide
+T115	Chemical 6375 6385	Lewis acid
+T116	Chemical 6401 6405	acid
+T117	Chemical 6416 6419;6429 6434	MIP group
+T118	Chemical 6498 6524	trisaccharide derivative 9
+T119	Chemical 6549 6563	glycosyl donor
+T120	Chemical 6587 6602;6616 6617	tetrasaccharide 8
+T121	Chemical 6640 6651	compound 11
+T122	Chemical 6669 6686	6-OMIP derivative
+T123	Chemical 6688 6690	12
+T124	Chemical 6717 6720	MIP
+T125	Chemical 6846 6851	Ag2 O
+T126	Chemical 6855 6862	Ag2 CO3
+T127	Chemical 6904 6913	MIP group
+T128	Chemical 6965 6970	AgOTf
+T129	Chemical 6990 7004	sym -collidine
+T130	Chemical 7006 7029	2,4,6-trimethylpyridine
+T131	Chemical 7095 7099	acid
+T132	Chemical 7125 7141	protecting group
+T133	Chemical 7208 7210	12
+T134	Chemical 7216 7218	13
+T135	Chemical 7309 7311	12
+T136	Chemical 7358 7360	13
+T137	Spectral_Data 7490 7493;7503 7514	1 H NMR spectra
+T138	Spectral_Data 7498 7514	13 C NMR spectra
+T139	Chemical 7573 7582	MIP group
+R10	Associated_With Arg1:T135 Arg2:T138	
+R11	Associated_With Arg1:T135 Arg2:T137	
+T140	Chemical 7664 7680	benzoyl moieties
+T141	Spectral_Data 7704 8143	13 C NMR spectrum was more informative; three dioxolane-type acetalic carbon signals could be assigned (δ : 110.15, 109.06 and 108.31), the three anomeric carbon atoms resonated at 103.82, 101.28 and 96.04 ppm, and the quaternary acetalic carbon atom of the MIP appeared at 100.10 ppm. The O-6′ contained the -O- C(CH3 )2 -OCH3  group, an upfield shift of ∼2 ppm could be detected (δ : 60.08 ppm) and the OC H3  group resonated at 48.49 pp
+T142	Chemical 7750 7759	dioxolane
+T143	Chemical 7774 7780	carbon
+T144	Chemical 7859 7865	carbon
+T145	Chemical 7943 7949	carbon
+T146	Chemical 7962 7965	MIP
+T147	Chemical 8151 8155	acid
+T148	Chemical 8174 8183	MIP group
+T149	Chemical 8187 8198	compound 12
+T150	Chemical 8187 8195;8212 8214	compound 11
+T151	Spectral_Data 8245 8248;8258 8269	1 H NMR spectra
+T152	Spectral_Data 8253 8269	13 C NMR spectra
+T153	Chemical 8299 8307;8309 8311	compound 13
+T154	Chemical 8323 8336	trisaccharide
+R12	Associated_With Arg1:T153 Arg2:T151	
+R13	Associated_With Arg1:T153 Arg2:T152	
+T155	Spectral_Data 8352 8359	spectra
+T156	Chemical 8376 8380	OCH3
+T157	Chemical 8420 8426	carbon
+T158	Chemical 8474 8480	carbon
+T159	Chemical 8564 8573	hydrogens
+T160	Chemical 8581 8587	methyl
+T161	Spectral_Data 8609 8622	spectral data
+T162	Chemical 8647 8668	isopropylidene acetal
+T163	Chemical 8692 8701	alcoholic
+T164	Chemical 8726 8739	trisaccharide
+T165	Chemical 8796 8798	13
+T166	Chemical 8109 8121	OC H3  group
+T167	Chemical 8013 8038	-O- C(CH3 )2 -OCH3  group
+T168	Chemical 8851 8866	monosaccharides
+T169	Chemical 8986 9004	β-mannopyranosides
+T170	Chemical 9023 9031	aglycone
+T171	Chemical 9067 9071	13  
+T172	Spectral_Data 9087 9099	MALDI-TOF MS
+R14	Associated_With Arg1:T171 Arg2:T172	
+T173	Chemical 9153 9164	compound 13
+T174	Chemical 9260 9262	11
+T175	Chemical 9291 9308	isopropenyl ether
+T176	Chemical 9312 9314	11
+R15	Associated_With Arg1:T174 Arg2:T172	
+T177	Chemical 9350 9361	compound 13
+T178	Chemical 9415 9418	MIP
+T179	Chemical 9406 9413	acetals
+T180	Chemical 9455 9464	dioxolane
+T181	Chemical 9470 9492	isopropylidene acetals
+T182	Chemical 9499 9503	acid
+T183	Chemical 9518 9522	13  
+T184	Chemical 9534 9538	11  
+T185	Chemical 9565 9576	Compound 11
+T186	Chemical 9601 9609	aglycone
+T187	Chemical 9651 9659	aglycone
+T188	Chemical 9686 9702	hexasaccharide I
+T189	Chemical 9757 9772	MIP derivatives
+T190	Chemical 9786 9795	aglycones
+T191	Chemical 9953 9968	MIP derivatives
+T192	Chemical 10058 10068	compound 4
+T193	Chemical 10107 10122	disaccharide 14
+T194	Chemical 10165 10168;10170 10175	MIP group
+T195	Chemical 10204 10316	6-O- (2-O- benzyl-3,4-O- isopropylidene-β-d -galactopyranosyl)-1,2:3,4-di-O- isopropylidene-α-d -galactopyranose
+T196	Chemical 10318 10320	15
+T197	Chemical 10351 10373	isopropylidene acetals
+T198	Chemical 10384 10386	14
+T199	Chemical 10391 10393	15
+T200	Chemical 10400 10453	6-O- (2-O- benzyl-β-d -galactopyranosyl)-d -galactose
+T201	Chemical 10455 10457	16
+T202	Chemical 10476 10478	16
+T203	Chemical 10493 10517;10519 10521	peracetylated derivative 17
+T204	Chemical 10558 10653	6-O- (3,4,6-tri-O- acetyl-β-d -galactopyranosyl)-1,2,3,4-tetra-O- acetyl-α,β-d -galactopyranose
+T205	Chemical 10655 10657	18
+T206	Chemical 10674 10685	Compound 18
+T207	Chemical 10716 10717	7
+T208	Chemical 10742 10758	trisaccharide 19
+T209	Chemical 10797 10818	isopropylidene groups
+T210	Chemical 10826 10841;10843 10844	oligosaccharide 8
+T211	Chemical 10826 10841;10851 10853	oligosaccharide 11
+T212	Chemical 10826 10841;10859 10861	oligosaccharide 13
+T213	Chemical 10826 10841;10847 10848	oligosaccharide 9
+T214	Chemical 10875 10895	trifluoroacetic acid
+T215	Chemical 10910 10921	acyl groups
+T216	Chemical 10981 10999	tetrasaccharide 20
+T217	Chemical 11006 11016	compound 8
+T218	Chemical 11026 11042	trisaccharide 21
+T219	Chemical 11063 11064	9
+T220	Chemical 11078 11094	trisaccharide 22
+T221	Chemical 11155 11157	11
+T222	Chemical 11160 11164	13  
+T223	Chemical 11168 11172	19  
+T224	Spectral_Data 11216 11219;11229 11232	1 H NMR
+T225	Spectral_Data 11224 11232	13 C NMR
+T226	Spectral_Data 11293 11301	13 C NMR
+T227	Chemical 11419 11435	oligosaccharides
+T228	Chemical 11448 11462	trisaccharides
+T229	Chemical 11551 11569	tetrasaccharide 20
+T230	Chemical 11585 11597	d -galactose
+T231	Chemical 11635 11637;11641 11649	α- pyranose
+T232	Chemical 11639 11649	β-pyranose
+T233	Chemical 11654 11656;11664 11672	α- furanose
+T234	Chemical 11662 11672	β-furanose
+T235	Chemical 11750 11756	carbon
+T236	Chemical 12194 12208	sulfuric acid.
+T237	Chemical 12248 12254	Silica
+T238	Chemical 12117 12126	Kieselgel
+T239	Chemical 12325 12330	MgSO4
+R16	Associated_With Arg1:T229 Arg2:T226	
+T240	Spectral_Data 12367 12370;12403 12406	1 H NMR
+T241	Spectral_Data 12398 12406	13 C NMR
+T242	Chemical 12528 12535	CDCl3  
+T243	Chemical 12567 12570	TMS
+T244	Chemical 12592 12599	CDCl3  
+T245	Chemical 12626 12725	2,3,4,6-Tetra-O-acetyl-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T246	Chemical 12727 12728	2
+T247	Chemical 12740 12747	Hg(CN)2
+T248	Chemical 12773 12793	4 Å molecular sieves
+T249	Chemical 12869 12875	CH3 CN
+T250	Chemical 12941 12994	2,3,4,6-tetra-O -acetyl-α-d -galactopyranosyl bromide
+T251	Chemical 13080 13087	CH2 Cl2
+T252	Chemical 13089 13096	acetone
+T253	Chemical 13149 13156	CH2 Cl2
+T254	Chemical 13173 13178	salts
+T255	Chemical 13282 13289	CH2 Cl2
+T256	Chemical 13306 13311	salts
+T257	Chemical 13372 13374	KI
+T258	Chemical 13400 13405	water
+T259	Chemical 13520 13527	CH2 Cl2
+T260	Chemical 13529 13536	acetone
+T261	Chemical 13604 13609	CHCl3
+T262	Chemical 13558 13559	2
+T263	Spectral_Data 13629 14151	1 H NMR (500 MHz, CDCl3 ): δ  5.51 (d, 1 H, H-1, J 1,2  4.9 Hz), 5.39 (dd, 1 H, H-4′, J 3′,4′  3.4 Hz, J 4′,5′  1.0 Hz), 5.22 (dd, 1 H, H-2′, J 1′,2′  7.9 Hz, J 2′,3′  10.5 Hz), 5.03 (dd, 1 H, H-3′), 4.59 (2 d, 2 H, H-1′, H-3, J 3,4  8.0 Hz), 4.30 (dd, 1 H, H-2, J 2,3  2.5 Hz), 4.16 (m, 3 H, H-5′, H-6′a,b, J gem   11.1 Hz), 4.04 (dd, 1 H, H-6a, J 5,6a  3.2 Hz, J gem   11.5 Hz), 3.95–3.85 (m, 2 H, H-4, H-5), 3.69 (dd, 1 H, H-6b, J 5,6b  7.6 Hz), 2.15–1.95 (4 s, each 3 H, 4 CH3acetyl ), 1.55–1.30 (4s, each 3 H, 4 CH3ip
+R17	Associated_With Arg1:T245 Arg2:T263	
+R18	Associated_With Arg1:T262 Arg2:T263	
+T264	Chemical 14245 14321	β-d -Galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T265	Chemical 14323 14324	3
+T266	Chemical 14352 14353	2
+T267	Chemical 14392 14396	MeOH
+T268	Chemical 14397 14402	NaOMe
+T269	Chemical 14458 14465	CH2 Cl2
+T270	Chemical 14467 14471	MeOH
+T271	Chemical 14546 14585	Amberlite IR-120 H+  ion-exchange resin
+T272	Chemical 14620 14621	3
+T273	Chemical 14682 14687	CHCl3
+T274	Chemical 14718 14722	TRIS
+T275	Chemical 13647 13652	CDCl3
+T276	Spectral_Data 14731 14882	1 H NMR (360 MHz, CDCl3 ): δ  5.50 (d, 1 H, H-1, J 1,2  5 Hz), 4.62 (d, 1 H, H-1′, J 1′,2′  8 Hz), 4.40–3.45 (m, 14 skeleton H), 1.45 (m, 12 H, 4 CH3ip
+T277	Chemical 14749 14754	CDCl3
+R19	Associated_With Arg1:T264 Arg2:T276	
+R20	Associated_With Arg1:T272 Arg2:T276	
+T278	Chemical 14976 15101	3,4-O-Isopropylidene-6-O-(methoxydimethyl)methyl-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T279	Chemical 15103 15104	4
+T280	Chemical 15111 15208	3,4-O-isopropylidene-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T281	Chemical 15210 15211	5
+T282	Chemical 15231 15232	3
+T283	Chemical 15257 15277	2,2-dimethoxypropane
+T284	Chemical 15317 15340	p -toluenesulfonic acid
+T285	Chemical 15393 15400	CH2 Cl2
+T286	Chemical 15402 15409	acetone
+T287	Chemical 15417 15422	Et3 N
+T288	Chemical 15459 15467;15469 15470	compound 4
+T289	Chemical 15459 15467;15489 15490	compound 5
+T290	Chemical 15554 15559	Et3 N
+T291	Chemical 15612 15619	CH2 Cl2
+T292	Chemical 15634 15639	water
+T293	Chemical 15711 15718	CH2 Cl2
+T294	Chemical 15720 15727	acetone
+T295	Chemical 15752 15757	Et3 N
+T296	Chemical 15766 15767	4
+T297	Chemical 15789 15790	5
+T298	Chemical 15862 15863	6
+T299	Chemical 15899 15920	2,2-dimethoxy-propane
+T300	Chemical 15945 15968	p -toluenesulfonic acid
+T301	Chemical 15970 15980	Compound 4
+T302	Chemical 16009 16014	CHCl3
+T303	Spectral_Data 16018 16514	1 H NMR (500 MHz, CDCl3 ): δ  5.54 (d, 1 H, H-1, J 1,2  5.0 Hz), 4.60 (dd, 1 H, H-3, J 2,3  2.4 Hz, J 3,4  7.9 Hz), 4.31 (dd, 1 H, H-2), 4.28 (dd, 1 H, H-1′, J 1′,2′  8.4 Hz), 4.24 (dd, 1 H, H-4, J 4,5  1.7 Hz), 4.16 (dd, 1 H, H-4′, J 3′,4′  5.4 Hz, J 4′,5′  2.1 Hz), 4.06 (m, 2 H, H-3′, H-6a , J 2′,3′  7.8 Hz), 4.00 (m, 1 H, H-5), 3.85 (dt, 1 H, H-5′, J 5′,6a′ =J 5′,6b′  6.2 Hz), 3.75–3.69 (m, 3 H, H-6a , H-6′a,b), 3.59 (dd, 1 H, H-2′), 3.25 (s, 3 H, OCH3 ), 1.50–1.27 (8 s, each 3 H, 8 CH3ip
+T304	Chemical 16036 16041	CDCl3
+R21	Associated_With Arg1:T301 Arg2:T303	
+R22	Associated_With Arg1:T278 Arg2:T303	
+T305	Chemical 16603 16613	Compound 5
+T306	Chemical 16642 16647	CHCl3
+T307	Spectral_Data 16651 16947	1 H NMR (500 MHz, CDCl3 ): δ  5.48 (d, 1 H, H-1, J 1,2  5.0 Hz), 4.55 (dd, 1 H, H-3, J 2,3  2.4 Hz, J 3,4  7.9 Hz), 4.26 (dd, 1 H, H-2), 4.22 (dd, 1 H, H-1′, J 1′,2′  8.0 Hz), 4.20 (dd, 1 H, H-4, J 4,5  1.7 Hz), 4.09–3.66 (m, 8 H), 3.49 (t, 1 H, H-2′ J 2′,3′  8.0 Hz), 1.50–1.27 (m, 18 H, 6 CH3ip
+T308	Chemical 16669 16674	CDCl3
+R23	Associated_With Arg1:T305 Arg2:T307	
+R24	Associated_With Arg1:T280 Arg2:T307	
+T309	Chemical 17042 17082	β-d -Galactopyranosyl-(1→6)-d -galactose
+T310	Chemical 17084 17085	6
+T311	Chemical 17102 17103	4
+T312	Chemical 17140 17160	trifluoroacetic acid
+T313	Chemical 17221 17234	Ethyl acetate
+T314	Chemical 17323 17336	ethyl acetate
+T315	Chemical 17346 17347	6
+T316	Chemical 17390 17394	H2 O
+T317	Chemical 17408 17423	dichloromethane
+T318	Chemical 17425 17433	methanol
+T319	Chemical 17435 17439	H2 O
+T320	Chemical 17541 17736	2,3,5-Tri-O-benzoyl-α-l -arabinofuranosyl-(1→2)-[2,3,5-tri-O-benzoyl-α-l -arabinofuranosyl-(1→6)]-3,4-O-isopropylidene-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T321	Chemical 17738 17739	8
+T322	Chemical 17743 17888	2,3,5-tri-O-benzoyl-α-l -arabinofuranosyl-(1→6)-3,4-O-isopropylidene-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T323	Chemical 17890 17891	9
+T324	Chemical 17898 18043	2,3,5-tri-O-benzoyl-α-l -arabinofuranosyl-(1→2)-3,4-O-isopropylidene-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T325	Chemical 18045 18047	11
+T326	Chemical 18067 18068	4
+T327	Chemical 18105 18111	CH3 CN
+T328	Chemical 18132 18139	Hg(CN)2
+T329	Chemical 18165 18185	4 Å molecular sieves
+T330	Chemical 18251 18252	7
+T331	Chemical 18294 18301	CH2 CL2
+T332	Chemical 18303 18310	acetone
+T333	Chemical 18352 18359	Hg(CN)2
+T334	Chemical 18471 18481	compound 2
+T335	Chemical 18549 18550	8
+T336	Chemical 18569 18570	9
+T337	Chemical 18592 18594	11
+T338	Chemical 18611 18621	Compound 8
+T339	Chemical 18743 18753	Compound 9
+T340	Chemical 18875 18886	Compound 11
+T341	Chemical 19014 19170	2,3,5-Tri-O-benzoyl-α-l -arabinofuranosyl-(1→6)-2-O-acetyl-3,4-O-isopropylidene-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T342	Chemical 19172 19174	10
+T343	Chemical 19194 19195	9
+T344	Chemical 19208 19216	pyridine
+T345	Chemical 19241 19257	acetic anhydride
+T346	Chemical 19299 19306	toluene
+T347	Chemical 19316 19318	10
+T348	Spectral_Data 19340 19356	NMR measurements
+R25	Associated_With Arg1:T347 Arg2:T348	
+T349	Chemical 19368 19541	2,3,5-Tri-O-benzoyl-α-l -arabinofuranosyl-(1→2)-3,4-O-isopropylidene-6-O-(methoxydimethyl)methyl-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T350	Chemical 19543 19545	12
+T351	Chemical 19552 19727	2-propanone bis-[2,3,5-tri-O-benzoyl-α-l -arabinofuranosyl-(1→2)-3,4-O-isopropylidene-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose]-6,6 acetale
+T352	Chemical 19729 19731	13
+T353	Chemical 19743 19763	4 Å molecular sieves
+T354	Chemical 19800 19801	4
+T355	Chemical 19969 19983	sym -collidine
+T356	Chemical 20008 20023	silver triflate
+T357	Chemical 20049 20056	toluene
+T358	Chemical 20153 20158	Et3 N
+T359	Chemical 20206 20213	CH2 Cl2
+T360	Chemical 20245 20251	Celite
+T361	Chemical 20289 20298	Na2 S2 O3
+T362	Chemical 20304 20309	water
+T363	Chemical 20392 20399	CH2 Cl2
+T364	Chemical 20401 20408	acetone
+T365	Chemical 20414 20419	Et3 N
+T366	Chemical 20429 20431	12
+T367	Chemical 20453 20455	13
+T368	Chemical 18649 18654	CHCl3
+T369	Chemical 18782 18787	CHCl3
+T370	Chemical 18916 18921	CHCl3
+T371	Chemical 20474 20485	Compound 12
+T372	Chemical 20515 20520	CHCl3
+T373	Chemical 20650 20661	Compound 13
+T374	Chemical 20690 20695	CHCl3
+T375	Chemical 20837 20973	2-O-Benzyl-3,4-O-isopropylidene-6-O-(methoxydimethyl)methyl-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T376	Chemical 20975 20977	14
+T377	Chemical 21005 21006	4
+T378	Chemical 21035 21059	N ,N -dimethyl formamide
+T379	Chemical 21072 21075	NaH
+T380	Chemical 21128 21142	benzyl bromide
+T381	Chemical 21259 21266	CH2 Cl2
+T382	Chemical 21386 21393	CH2 Cl2
+T383	Chemical 21395 21402	acetone
+T384	Chemical 21448 21452	MeOH
+T385	Chemical 21413 21415	14
+T386	Chemical 21481 21486	CHCl3
+T387	Spectral_Data 21490 21984	1 H NMR (360 MHz, CDCl3 ): δ  7.53–7.28 (m, 5 H, Ph), 5.63 (d, 1 H, H-1, J 1,2  5 Hz), 4.93 (dd, 2 H, CH2 -Ph, J gem   12 Hz), 4.67 (dd, 1 H, H-3, J 2,3  8 Hz, J 3,4  2.1 Hz), 4.44 (d, 1 H, H-1′, J 1′,2′  8 Hz), 4.38 (dd, 1 H, H-2), 4.32 (dd, 1 H, H-4, J 4,5  1.7 Hz), 4.21–4.10 (m, 4 H, H-3′, H-4′, H-5, H-6), 3.86 (dt, 1 H, H-5′, J 4′,5′  2 Hz, J 5′,6a′ =J 5′,6b′  6 Hz), 3.77 (m, 3 H, H-6, H-6′ab), 3.43 (dd, 1 H, H-2′, J 2′,3′  6 Hz), 3.28 (s, 3 H, OCH3 ), 1.61–1.32 (4 s, each 3 H, 4 CH3ip
+T388	Chemical 21508 21513	CDCl3
+R26	Associated_With Arg1:T385 Arg2:T387	
+R27	Associated_With Arg1:T375 Arg2:T387	
+T389	Chemical 22080 22188	2-O-Benzyl-3,4-O-isopropylidene-β-d -galactopyranosyl-(1→6)-1,2:3,4-di-O-isopropylidene-α-d -galactopyranose
+T390	Chemical 22190 22192	15
+T391	Chemical 22212 22214	14
+T392	Chemical 22245 22252	CH2 Cl2
+T393	Chemical 22267 22278	acetic acid
+T394	Chemical 22296 22301	water
+T395	Chemical 22402 22409	CH2 Cl2
+T396	Chemical 22427 22435	NaHCO3  
+T397	Chemical 22439 22444	water
+T398	Chemical 22516 22525	c -hexane
+T399	Chemical 22535 22539	15  
+T400	Chemical 22587 22594	CH2 Cl2
+T401	Chemical 22596 22603	acetone
+T402	Chemical 22631 22636	CHCl3
+T403	Chemical 22730 22833	3,4,6-Tri-O-acetyl-2-O-benzyl-β-d -galactopyranosyl-(1→6)-1,2,3,4-tetra-O-acetyl-α,β-d -galactopyranose
+T404	Chemical 22835 22837	17
+T405	Chemical 22865 22867	14
+T406	Chemical 22901 22908	CH2 Cl2
+T407	Chemical 22919 22939	trifluoroacetic acid
+T408	Chemical 22956 22961	water
+T409	Chemical 22985 22998	triethylamine
+T410	Chemical 23049 23051	16
+T411	Chemical 23072 23079	CH2 Cl2
+T412	Chemical 23081 23088	acetone
+T413	Chemical 23089 23094	water
+T414	Chemical 23162 23170	pyridine
+T415	Chemical 23183 23199	acetic anhydride
+T416	Chemical 23208 23210	17
+T417	Chemical 23275 23282	CH2 Cl2
+T418	Chemical 23284 23291	acetone
+T419	Chemical 23375 23380	CHCl3
+T420	Chemical 23474 23566	3,4,6-Tri-O-acetyl-β-d -galactopyranosyl-(1→6)-1,2,3,4-tetra-O-acetyl-α,β-d -galactopyranose
+T421	Chemical 23568 23570	18
+T422	Chemical 23573 23582	Palladium
+T423	Chemical 23596 23602	carbon
+T424	Chemical 23638 23640	17
+T425	Chemical 23654 23667	ethyl acetate
+T426	Chemical 23709 23711	H2
+T427	Chemical 23753 23766	ethyl acetate
+T428	Chemical 23796 23802	Celite
+T429	Chemical 23828 23830	18
+T430	Chemical 23908 24048	2,3,5-Tri-O-benzoyl-α-l -arabinofuranosyl-(1→2)-3,4,6-tri-O-acetyl-β-d -galactopyranosyl-(1→6)-1,2,3,4-tetra-O-acetyl-α,β-d -galactopyranose
+T431	Chemical 24050 24052	19
+T432	Chemical 24068 24072	18  
+T433	Chemical 24103 24110	Hg(CN)2
+T434	Chemical 24143 24163	4 Å molecular sieves
+T435	Chemical 24180 24186	CH3 CN
+T436	Chemical 24228 24229	7
+T437	Chemical 24267 24273	CH3 CN
+T438	Chemical 24380 24390	compound 2
+T439	Chemical 24449 24456	CH2 Cl2
+T440	Chemical 24458 24465	acetone
+T441	Chemical 24488 24492	19  
+T442	Chemical 24559 24657	α-l -Arabinofuranosyl-(1→2)-[α-l -arabinofuranosyl-(1→6)]-β-d -galactopyranosyl-(1→6)-d -galactose
+T443	Chemical 24659 24661	20
+T444	Chemical 24681 24682	8
+T445	Chemical 24712 24716	MeOH
+T446	Chemical 24747 24752	NaOMe
+T447	Chemical 24824 24863	Amberlite IR-120 H+  ion-exchange resin
+T448	Chemical 24926 24946	trifluoroacetic acid
+T449	Chemical 25003 25016	diethyl ether
+T450	Chemical 25050 25063	diethyl ether
+T451	Chemical 25073 25077	20  
+T452	Spectral_Data 25142 25333	13 C NMR (90 MHz) δ  108.79 (C-1″1″→2″ ), 108.49 (C-1″1″→6″ ), 103.75, 102.53 (C-1′), 97.32, 96.96 (C-1β), 93.13, 92.93 (C-1α), 70.06 (C-6α), 69.95 (C-6β), 67.87 (C-6′), 61.95, 61.75 (2×C-5″)
+R28	Associated_With Arg1:T451 Arg2:T452	
+R29	Associated_With Arg1:T442 Arg2:T452	
+T453	Chemical 25425 25493	α-l -Arabinofuranosyl-(1→6)-β-d -galactopyranosyl-(1→6)-d -galactose
+T454	Chemical 25495 25497	21
+T455	Chemical 25500 25511	Compound 21
+T456	Chemical 25531 25532	9
+T457	Chemical 25570 25572	20
+T458	Chemical 25575 25586	Compound 21
+T459	Chemical 25615 25619	H2 O
+T460	Spectral_Data 25622 25924	13 C NMR (90 MHz) δ  108.54 (C-1″), 103.80 (C-1′), 97.05 (C-1β), 92.96 (C-1α), 84.45 (C-4″), 81.63 (C-2), 77.03 (C-3″), 74.45 (C-5β, C-5′), 73.17 (C-3β, C-3′), 72.40 (C-2′), 71.31 (C-2β), 70.13 (C-6α), 70.11 (C-4α), 69.86 (C-6β, C-3α, C-5α), 69.38 (C-4β, C-4′), 68.89 (C-2α), 67.99 (C-6′), 61.94 (C-5″)
+R30	Associated_With Arg1:T458 Arg2:T460	
+R31	Associated_With Arg1:T453 Arg2:T460	
+T461	Chemical 26016 26084	α-l -Arabinofuranosyl-(1→2)-β-d -galactopyranosyl-(1→6)-d -galactose
+T462	Chemical 26086 26088	22
+T463	Chemical 26139 26143	MeOH
+T464	Chemical 26151 26156	NaOMe
+T465	Chemical 26241 26280	Amberlite IR-120 H+  ion-exchange resin
+T466	Chemical 26314 26318	22  
+T467	Chemical 26334 26345	Compound 22
+T468	Chemical 26379 26381	11
+T469	Chemical 26392 26394	13
+T470	Chemical 26447 26449	20
+T471	Chemical 26452 26463	Compound 22
+T472	Spectral_Data 26499 26835	13 C NMR (90 MHz): δ  108.81 (C-1″), 102.51 (C-1′), 97.00 (C-1β), 92.96 (C-1α), 84.80 (C-4″), 81.49 (C-2″), 77.44 (C-3″), 76.57 (C-2′), 75.66 (C-5′), 74.28 (C-5β), 73.50 (C-3β), 73.21 (C-2β), 72.37 (C-3′), 69.94 (C-4α), 69.87 (C-6α), 69.86 (C-3α), 69.74 (C-5α), 69.59 (C-6β), 69.39 (C-4β, C-4′), 68.86 (C-2α), 61.94 (C-5″), 61.48 (C-6′)
+R32	Associated_With Arg1:T471 Arg2:T472	
+R33	Associated_With Arg1:T461 Arg2:T472	

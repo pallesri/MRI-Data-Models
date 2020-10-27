@@ -1,0 +1,10 @@
+T1	Disease 172 208	pathologic precursors of lung cancer
+T2	Disease 334 340	cancer
+T3	Disease 421 443	basal cell hyperplasia
+T4	Disease 487 509	mucous cell metaplasia
+T5	Disease 1146 1157	lung cancer
+T6	Disease 1353 1364	lung cancer
+T8	Plant 1405 1412	tobacco
+T9	Cause_of_disease 1365 1369	risk
+E1	Cause_of_disease:T9 Cause:T8 Theme:T6
+T7	Disease 1483 1494	lung cancer

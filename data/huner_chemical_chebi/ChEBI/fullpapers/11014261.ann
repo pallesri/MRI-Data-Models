@@ -1,0 +1,375 @@
+T1	Species 74 90	brown-rot fungus
+T2	Species 91 108	Daedalea quercina
+T3	Species 127 144	Trametes quercina
+T4	Species 221 230	oak trees
+T5	Species 245 254	white-rot
+T6	Species 263 301	Daedaleopsis confragosa  var. tricolor
+T7	Species 330 347	Lenzites tricolor
+T8	Chemical 407 417	ergosterol
+T9	Metabolite 407 417	ergosterol
+T10	Chemical 419 443	ergosta-7, 22-dien-3β-ol
+T11	Metabolite 419 443	ergosta-7, 22-dien-3β-ol
+T12	Chemical 445 464	ergosterol peroxide
+T13	Metabolite 445 464	ergosterol peroxide
+T14	Chemical 466 503	5α,8α-epidioxyergosta-6,22-dien-3β-ol
+T15	Metabolite 466 503	5α,8α-epidioxyergosta-6,22-dien-3β-ol
+T16	Metabolite 509 540	3α-carboxyacetoxyquercinic acid
+T17	Chemical 509 540	3α-carboxyacetoxyquercinic acid
+T18	Chemical 542 599	3α-carboxyacetoxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T19	Metabolite 542 599	3α-carboxyacetoxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T20	Species 644 655	D. quercina
+R1	Isolated_From Arg1:T9 Arg2:T2	
+R2	Isolated_From Arg1:T11 Arg2:T2	
+R3	Isolated_From Arg1:T13 Arg2:T2	
+R4	Isolated_From Arg1:T15 Arg2:T2	
+R5	Isolated_From Arg1:T16 Arg2:T2	
+R6	Isolated_From Arg1:T19 Arg2:T2	
+T21	Chemical 707 726	Ergosterol peroxide
+T22	Species 785 813	D. confragosa  var. tricolor
+T23	Chemical 833 844	fatty acids
+T24	Metabolite 833 844	fatty acids
+T25	Chemical 1125 1140	liquid nitrogen
+T26	Chemical 1184 1193	n -hexane
+T27	Species 1223 1234	D. quercina
+T28	Chemical 1261 1269	methanol
+T29	Chemical 1324 1339	dichloromethane
+T30	Species 1341 1369	D. confragosa  var. tricolor
+T31	Chemical 1399 1414	dichloromethane
+T32	Chemical 1421 1436	dichloromethane
+T33	Chemical 1454 1463	n -hexane
+T34	Species 1475 1486	D. quercina
+T35	Chemical 1523 1533	silica gel
+T36	Chemical 1557 1572	petroleum ether
+T37	Chemical 1573 1586	ethyl acetate
+T38	Chemical 1591 1601	chloroform
+T39	Chemical 1602 1610	methanol
+T40	Species 1616 1633	Daedalea quercina
+T41	Spectral_Data 1667 1708	one- and two-dimensional NMR spectroscopy
+T42	Spectral_Data 1710 1727	mass spectrometry
+T43	Chemical 1767 1785	polyporenic acid C
+T44	Metabolite 1767 1785	polyporenic acid C
+T45	Chemical 1792 1845	16α-hydroxy-24-methylene-3-oxolanost-8-en-21-oic acid
+T46	Metabolite 1792 1845	16α-hydroxy-24-methylene-3-oxolanost-8-en-21-oic acid
+T47	Chemical 1852 1882	16-O -acetylpolyporenic acid C
+T48	Metabolite 1852 1882	16-O -acetylpolyporenic acid C
+T49	Chemical 1889 1942	16α-acetoxy-24-methylene-3-oxolanost-8-en-21-oic acid
+T50	Metabolite 1889 1942	16α-acetoxy-24-methylene-3-oxolanost-8-en-21-oic acid
+T51	Chemical 1949 1980	3α-carboxyacetoxyquercinic acid
+T52	Metabolite 1949 1980	3α-carboxyacetoxyquercinic acid
+T53	Chemical 1990 2009	ergosterol peroxide
+T54	Metabolite 1990 2009	ergosterol peroxide
+R7	Associated_With Arg1:T48 Arg2:T41	
+R8	Associated_With Arg1:T47 Arg2:T41	
+R9	Associated_With Arg1:T50 Arg2:T42	
+R10	Associated_With Arg1:T49 Arg2:T42	
+R12	Associated_With Arg1:T48 Arg2:T42	
+R11	Associated_With Arg1:T47 Arg2:T42	
+R13	Associated_With Arg1:T50 Arg2:T41	
+R14	Associated_With Arg1:T49 Arg2:T41	
+R15	Associated_With Arg1:T52 Arg2:T41	
+R16	Associated_With Arg1:T52 Arg2:T42	
+R17	Associated_With Arg1:T51 Arg2:T41	
+R18	Associated_With Arg1:T51 Arg2:T42	
+R19	Associated_With Arg1:T54 Arg2:T41	
+R20	Associated_With Arg1:T54 Arg2:T42	
+R21	Associated_With Arg1:T53 Arg2:T41	
+R22	Associated_With Arg1:T53 Arg2:T42	
+R23	Associated_With Arg1:T44 Arg2:T41	
+R24	Associated_With Arg1:T44 Arg2:T42	
+R25	Associated_With Arg1:T43 Arg2:T41	
+R26	Associated_With Arg1:T43 Arg2:T42	
+R27	Associated_With Arg1:T46 Arg2:T41	
+R28	Associated_With Arg1:T46 Arg2:T42	
+R29	Associated_With Arg1:T45 Arg2:T41	
+R30	Associated_With Arg1:T45 Arg2:T42	
+T55	Species 2169 2180	D. quercina
+T56	Spectral_Data 2191 2221	NMR data of compounds 2  and 4
+T57	Species 2310 2329	Fomitopsis pinicola
+R31	Isolated_From Arg1:T44 Arg2:T57	
+R32	Isolated_From Arg1:T44 Arg2:T40	
+R33	Isolated_From Arg1:T46 Arg2:T40	
+R34	Isolated_From Arg1:T48 Arg2:T40	
+R35	Isolated_From Arg1:T50 Arg2:T40	
+R36	Isolated_From Arg1:T52 Arg2:T40	
+R37	Isolated_From Arg1:T54 Arg2:T40	
+T58	Species 2469 2487	Daedalea dickinsii
+R38	Isolated_From Arg1:T46 Arg2:T58	
+T59	Spectral_Data 2517 2525	NMR data
+R39	Associated_With Arg1:T46 Arg2:T56	
+R40	Associated_With Arg1:T45 Arg2:T56	
+R41	Associated_With Arg1:T50 Arg2:T56	
+R42	Associated_With Arg1:T49 Arg2:T56	
+T60	Chemical 2353 2376	16-O -acetyl derivative
+T61	Spectral_Data 2646 3363	Compound 7  showed four olefinic carbons (δ  133.31, 135.16, 125.46, 148.05), one acid (δ  178.31) and two ketone carbon signals (δ  201.83, 217.90). The chemical shifts of the keto function at δ  201.83, the exocyclic methylene group at δ  125.46 and observed long-range correlations indicated a lanost-8-ene structure with a 23-oxo-24-methylene functionalized side-chain and an acid function in position 26 which is common to previously identified triterpenic acids from this species. Analysis of the NMR spectra (DEPT, HMQC, HMBC) and their comparison with the data of other isolated metabolites indicated the structure 24-methylene-3,23-dioxolanost-8-en-26-oic acid for which we propose the name quercinic acid B.
+T62	Chemical 3269 3315	24-methylene-3,23-dioxolanost-8-en-26-oic acid
+T63	Metabolite 3269 3315	24-methylene-3,23-dioxolanost-8-en-26-oic acid
+R43	Associated_With Arg1:T63 Arg2:T61	
+R44	Associated_With Arg1:T62 Arg2:T61	
+T64	Spectral_Data 3364 4412	Compound 8  showed two olefinic (δ  133.33, 136.74) and two hydroxylic methine carbons (δ  71.57, 74.64) as well as one ketone (δ  213.31) and one carboxylic function (δ  178.04). The hydroxylic methine proton at δ  71.57 showed long-range coupling with the quaternary carbons 13 and 14 (δ  52.04, 49.36) as well as with a methylene group at δ  34.62. Further analysis left carbon 12 as the only possible position for this hydroxy function. The other hydroxyl group could be assigned to carbon 3 as the proton showed long-range couplings with carbons 2, 4, 5 and with the methyl carbons 28 and 29. Futher analysis of the NMR data indicated presence of a 24-methyl-23-oxo side chain with an acid function in position 26. In the NOESY spectrum, the hydroxylic methine proton (δ  4.39) only showed a correlation with the methyl protons at carbon 30 (δ  0.94) indicating a β-configuration. The hydroxylic methine proton at carbon 3 (δ  3.63) only showed a correlation with the protons connected to carbon 28 (δ  0.92) also indicating a β-configuration.
+T65	Chemical 4442 4498	3β,12β-dihydroxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T66	Chemical 4529 4545	quercinic acid C
+T67	Metabolite 4442 4498	3β,12β-dihydroxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T68	Metabolite 4529 4545	quercinic acid C
+T69	Chemical 3346 3362	quercinic acid B
+T70	Metabolite 3346 3362	quercinic acid B
+R45	Associated_With Arg1:T70 Arg2:T61	
+R46	Associated_With Arg1:T69 Arg2:T61	
+R47	Associated_With Arg1:T67 Arg2:T64	
+R48	Associated_With Arg1:T65 Arg2:T64	
+R49	Associated_With Arg1:T68 Arg2:T64	
+R50	Associated_With Arg1:T66 Arg2:T64	
+T71	Spectral_Data 4547 5596	Compound 9  showed two olefinic (δ  133.84, 134.85) and two methine carbon signals (δ  75.79, 79.73) as well as one carboxylic carbon at δ  177.36. In addition, a quaternary carbon signal at δ  109.96 was found which corresponds to a semi-acetalic carbon atom. The latter showed long-range couplings with the hydrogen atoms at carbons 25 (δ  2.22), 24 (δ  2.12), 20 (δ  2.24) and with the hydroxylic methine proton at carbon 12 (δ  4.34) (HMBC). This led to the conclusion that formation of a cyclic acetal had taken place involving the oxygen at position 12 and the carbonyl group in position 23 of quercinic acid C (8 ). Comparison of the chemical shifts of the carbons in ring A of the triterpene skeleton with the data of many previously identified compounds indicated a 3α-configuration, so that this compound was not a simple artefact of compound 8 . Analysis of all spectral data led to the conclusion that compound 9  was 12β,23-epoxy-3α,23-dihydroxy-24-methyllanost-8-en-26-oic acid for which we propose the name 3α-oxepanoquercinic acid C.
+T72	Chemical 5569 5595	3α-oxepanoquercinic acid C
+T73	Metabolite 5569 5595	3α-oxepanoquercinic acid C
+T74	Chemical 5477 5538	12β,23-epoxy-3α,23-dihydroxy-24-methyllanost-8-en-26-oic acid
+T75	Metabolite 5477 5538	12β,23-epoxy-3α,23-dihydroxy-24-methyllanost-8-en-26-oic acid
+R51	Associated_With Arg1:T75 Arg2:T71	
+R52	Associated_With Arg1:T74 Arg2:T71	
+R53	Associated_With Arg1:T73 Arg2:T71	
+R54	Associated_With Arg1:T72 Arg2:T71	
+T76	Chemical 5606 5615	n -hexane
+T77	Chemical 5643 5648;5663 5688	(E )- methyl 4-methoxycinnamate
+T78	Metabolite 5643 5648;5663 5688	(E )- methyl 4-methoxycinnamate
+T79	Chemical 5658 5688	(Z )-methyl 4-methoxycinnamate
+T80	Metabolite 5658 5688	(Z )-methyl 4-methoxycinnamate
+R55	Isolated_From Arg1:T63 Arg2:T55	
+R56	Isolated_From Arg1:T67 Arg2:T55	
+R57	Isolated_From Arg1:T68 Arg2:T55	
+T81	Chemical 5147 5163	quercinic acid C
+T82	Metabolite 5147 5163	quercinic acid C
+R58	Isolated_From Arg1:T75 Arg2:T55	
+R59	Isolated_From Arg1:T73 Arg2:T55	
+T83	Species 5924 5941	Lentinus lepideus
+R60	Isolated_From Arg1:T78 Arg2:T83	
+T84	Chemical 5997 6020	(E )-4-methoxycinnamate
+T85	Chemical 6060 6087	(E )-4-methoxycinnamic acid
+T86	Chemical 6093 6105	diazomethane
+T87	Species 6174 6212	Daedaleopsis confragosa  var. tricolor
+R61	Isolated_From Arg1:T78 Arg2:T55	
+R62	Isolated_From Arg1:T80 Arg2:T55	
+T88	Chemical 6223 6238	dichloromethane
+T89	Chemical 6313 6335	triterpene derivatives
+T90	Spectral_Data 6455 7121	a mixture of compound 5  and a very similar compound was obtained. The latter one showed different carbon shifts for the side chain compared with compound 5 . The additional presence of an olefinic methylene carbon at δ  125.34 and a quaternary carbon at δ  148.05 as well as the upfield shift of the carbonyl carbon to δ  201.54 indicated that this compound was 3α-carboxyacetoxy-24-methylene-23-oxolanost-8-en-26-oic acid (12 ). This was confirmed by analysis of the two-dimensional NMR spectra. This compound has been isolated previously from an unidentified Indonesian Ganoderma  species (Chairul et al., 1990 ) but some NMR assignments appeared to be incorrect.
+R63	Associated_With Arg1:T52 Arg2:T90	
+R64	Isolated_From Arg1:T52 Arg2:T30	
+R65	Isolated_From Arg1:T54 Arg2:T30	
+T91	Chemical 6818 6878	3α-carboxyacetoxy-24-methylene-23-oxolanost-8-en-26-oic acid
+T92	Metabolite 6818 6878	3α-carboxyacetoxy-24-methylene-23-oxolanost-8-en-26-oic acid
+R66	Associated_With Arg1:T92 Arg2:T90	
+R67	Associated_With Arg1:T91 Arg2:T90	
+R68	Isolated_From Arg1:T92 Arg2:T87	
+T93	Species 7183 7200	Daedalea quercina
+T94	Species 7294 7332	Daedaleopsis confragosa  var. tricolor
+R69	Isolated_From Arg1:T92 Arg2:T94	
+T95	Species 7452 7469	Daedalea quercina
+T96	Chemical 7524 7539	liquid nitrogen
+T97	Chemical 7587 7596	n -hexane
+T98	Chemical 7634 7642	methanol
+T99	Chemical 7662 7670	methanol
+T100	Chemical 7733 7748	dichloromethane
+T101	Species 7817 7854	Daedaleopsis confragosa var. tricolor
+T102	Chemical 7902 7917	liquid nitrogen
+T103	Chemical 7965 7974	n -hexane
+T104	Chemical 8004 8019	dichloromethane
+T105	Chemical 8090 8098	methanol
+T106	Species 8136 8153	Daedalea quercina
+T107	Chemical 8158 8173	dichloromethane
+T108	Chemical 8230 8239	silica ge
+T109	Chemical 8269 8284	petroleum ether
+T110	Chemical 8285 8298	ethyl acetate
+T111	Chemical 8366 8376	silica gel
+T112	Chemical 8405 8420	petroleum ether
+T113	Chemical 8421 8434	ethyl acetate
+T114	Chemical 8463 8473	chloroform
+T115	Chemical 8474 8482	methanol
+T116	Chemical 8849 8858	n -hexane
+T117	Species 8964 9001	Daedaleopsis confragosa var. tricolor
+T118	Chemical 9006 9021	dichloromethane
+T119	Species 9102 9113	D. quercina
+T120	Chemical 9198 9215	Silica gel 60F254
+T121	Chemical 9233 9243	chloroform
+T122	Chemical 9244 9254	2-propanol
+T123	Chemical 9268 9283	petroleum ether
+T124	Chemical 9284 9298	ethyl acetate,
+T125	Chemical 9336 9350	sulphuric acid
+T126	Chemical 9359 9366	ethanol
+T127	Chemical 9422 9432	silica gel
+T128	Chemical 9693 9701	hydrogen
+T129	Chemical 9838 9844	helium
+T130	Chemical 10009 10012	TMS
+T131	Chemical 10209 10227	polyporenic acid C
+T132	Metabolite 10209 10227	polyporenic acid C
+T133	Chemical 10229 10291	16α-hydroxy-24-methylene-3-oxolanosta-7,9(11)-dien-21-oic acid
+T134	Metabolite 10229 10291	16α-hydroxy-24-methylene-3-oxolanosta-7,9(11)-dien-21-oic acid
+T135	Spectral_Data 10328 10336	13 C-NMR
+R70	Associated_With Arg1:T132 Arg2:T135	
+R71	Associated_With Arg1:T131 Arg2:T135	
+R72	Associated_With Arg1:T134 Arg2:T135	
+R73	Associated_With Arg1:T133 Arg2:T135	
+T136	Chemical 10399 10452	16α-hydroxy-24-methylene-3-oxolanost-8-en-21-oic acid
+T138	Chemical 10350 10361	pyridine-d5
+T139	Spectral_Data 10453 10732	1 H-NMR (400.13 MHz, pyridine-d5 ): δ  0.98 (3H, d , J =3.1 Hz), 0.99 (3H, d , J =3.1 Hz), 1.00 (3H, s , H-29), 1.05 (3H, s , H-18), 1.13 (3H, s , H-19), 1.14 (3H, s , H-28), 1.46 (3H, s , H-30), 4.53 (1H, dd , J=7.6, 6.6  Hz, H-16), 4.85 (1H, s , H-31a ), 4.98 (1H, s , H-31b ).
+T137	Metabolite 10399 10452	16α-hydroxy-24-methylene-3-oxolanost-8-en-21-oic acid
+R74	Associated_With Arg1:T137 Arg2:T139	
+R75	Associated_With Arg1:T136 Arg2:T139	
+T140	Spectral_Data 10733 10741	13 C-NMR
+R76	Associated_With Arg1:T137 Arg2:T140	
+R77	Associated_With Arg1:T136 Arg2:T140	
+T141	Chemical 10755 10766	pyridine-d5
+T142	Chemical 10803 10833	16-O -acetylpolyporenic acid C
+T143	Metabolite 10803 10833	16-O -acetylpolyporenic acid C
+T144	Chemical 10835 10897	16α-acetoxy-24-methylene-3-oxolanosta-7,9(11)-dien-21-oic acid
+T145	Metabolite 10835 10897	16α-acetoxy-24-methylene-3-oxolanosta-7,9(11)-dien-21-oic acid
+T146	Spectral_Data 10934 10942	13 C-NMR
+T147	Chemical 10956 10961	CDCl3
+R78	Associated_With Arg1:T143 Arg2:T146	
+R79	Associated_With Arg1:T142 Arg2:T146	
+R80	Associated_With Arg1:T145 Arg2:T146	
+R81	Associated_With Arg1:T144 Arg2:T146	
+T148	Chemical 10998 11051	16α-acetoxy-24-methylene-3-oxolanost-8-en-21-oic acid
+T149	Metabolite 10998 11051	16α-acetoxy-24-methylene-3-oxolanost-8-en-21-oic acid
+T150	Spectral_Data 11088 11096	13 C-NMR
+T151	Chemical 11110 11115	CDCl3
+R82	Associated_With Arg1:T149 Arg2:T150	
+R83	Associated_With Arg1:T148 Arg2:T150	
+T152	Chemical 11152 11183	3α-carboxyacetoxyquercinic acid
+T153	Metabolite 11152 11183	3α-carboxyacetoxyquercinic acid
+T154	Chemical 11185 11242	3α-carboxyacetoxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T155	Metabolite 11185 11242	3α-carboxyacetoxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T156	Spectral_Data 11243 11521	1 H-NMR (400.13 MHz, CDCl3 ): δ  0.74 (3H, s , H-18), 0.87 (3H, d , J =7.6 Hz, H-21), 0.89 (3H, s , H-29), 0.93 (3H, s , H-30), 0.94 (3H, s , H-28), 1.00 (3H, s , H-19), 1.09 (3H, d , J =7.1 Hz, H-31), 1.21 (3H, d , J =6.9 Hz, H-27), 3.45 (2H, s , H-2′), 4.76 (1H, br. s , H-3).
+R84	Associated_With Arg1:T153 Arg2:T156	
+R85	Associated_With Arg1:T155 Arg2:T156	
+R86	Associated_With Arg1:T152 Arg2:T156	
+R87	Associated_With Arg1:T154 Arg2:T156	
+T157	Spectral_Data 11522 11530	13 C-NMR
+R88	Associated_With Arg1:T153 Arg2:T157	
+R89	Associated_With Arg1:T152 Arg2:T157	
+R90	Associated_With Arg1:T155 Arg2:T157	
+R91	Associated_With Arg1:T154 Arg2:T157	
+T158	Chemical 11544 11549	CDCl3
+T159	Chemical 11264 11269	CDCl3
+T160	Spectral_Data 11567 11689	EI-MS m/z  (rel. int.): 528 [M − CO2 ]+  (9), 513 [M − CO2  − Me]+  (13), 453 (80), 435 (21), 309 (52), 153 (71), 43 (100)
+R92	Associated_With Arg1:T153 Arg2:T160	
+R93	Associated_With Arg1:T152 Arg2:T160	
+R94	Associated_With Arg1:T155 Arg2:T160	
+R95	Associated_With Arg1:T154 Arg2:T160	
+T161	Chemical 11710 11729	ergosterol peroxide
+T162	Metabolite 11710 11729	ergosterol peroxide
+T163	Chemical 11731 11768	5α,8α-epidioxyergosta-6,22-dien-3β-ol
+T164	Metabolite 11731 11768	5α,8α-epidioxyergosta-6,22-dien-3β-ol
+T165	Spectral_Data 11818 12181	1 H-NMR (400.13 MHz, CDCl3 ): δ  0.82 (3H, d , J =12.6 Hz, H-26), 0.82 (3H, s , H-18), 0.83 (3H, d , J =17.1 Hz, H-27), 0.88 (3H, s , H-19), 0.91 (3H, d , J =6.6 Hz, H-21), 1.00 (3H, d , J =6.6 Hz, H-28), 3.97 (1H, m , H-3), 5.14 (1H, dd , J =15.3, 8.2 Hz, H-23), 5.22 (1H, dd , J =15.2, 7.6 Hz, H-22), 6.24 (1H, d , J =8.7 Hz, H-7), 6.51 (1H, d , J =8.7 Hz, H-6)
+R96	Associated_With Arg1:T162 Arg2:T165	
+R97	Associated_With Arg1:T164 Arg2:T165	
+R98	Associated_With Arg1:T161 Arg2:T165	
+R99	Associated_With Arg1:T163 Arg2:T165	
+T166	Chemical 11801 11806	CHCl3
+T167	Chemical 11839 11844	CDCl3
+T168	Spectral_Data 12183 12191	13 C-NMR
+T169	Chemical 12205 12210	CDCl3
+R100	Associated_With Arg1:T162 Arg2:T168	
+R101	Associated_With Arg1:T161 Arg2:T168	
+R102	Associated_With Arg1:T164 Arg2:T168	
+R103	Associated_With Arg1:T163 Arg2:T168	
+T170	Spectral_Data 12228 12301	EI-MS m/z  (rel. int.): 396 [M − O2 ]+  (30), 363 (15), 81 (41), 69 (100)
+R104	Associated_With Arg1:T162 Arg2:T170	
+R105	Associated_With Arg1:T161 Arg2:T170	
+R106	Associated_With Arg1:T163 Arg2:T170	
+R107	Associated_With Arg1:T164 Arg2:T170	
+T171	Chemical 12322 12338	quercinic acid B
+T172	Metabolite 12322 12338	quercinic acid B
+T173	Chemical 12340 12386	24-methylene-3,23-dioxolanost-8-en-26-oic acid
+T174	Metabolite 12340 12386	24-methylene-3,23-dioxolanost-8-en-26-oic acid
+T175	Chemical 12420 12425	CHCl3
+T176	Chemical 12458 12463	CDCl3
+T177	Chemical 12707 12712	CDCl3
+T178	Spectral_Data 12437 12684	1 H-NMR (400.13 MHz, CDCl3 ): δ  0.77 (3H, s , H-18), 0.90 (3H, d , J =8.1 Hz, H-21), 0.91 (3H, s , H-30), 1.07 (3H, s , H-28), 1.10 (3H, s , H-29), 1.13 (3H, s , H-19), 1.36 (3H, d , J =7.2 Hz, H-27), 5.95 (1H, s , H-31a ), 6.20 (1H, s , H-31b ).
+R108	Associated_With Arg1:T172 Arg2:T178	
+R109	Associated_With Arg1:T171 Arg2:T178	
+R110	Associated_With Arg1:T174 Arg2:T178	
+R111	Associated_With Arg1:T173 Arg2:T178	
+T179	Spectral_Data 12685 12693	13 C-NMR
+R112	Associated_With Arg1:T172 Arg2:T179	
+R113	Associated_With Arg1:T171 Arg2:T179	
+R114	Associated_With Arg1:T174 Arg2:T179	
+R115	Associated_With Arg1:T173 Arg2:T179	
+T180	Spectral_Data 12730 12846	EI-MS m/z  (rel. int.): 482 [M]+  (8), 467 [M − Me]+  (23), 449 [M − Me − H2 O]+  (13), 325 (87), 151 (100), 69 (94)
+R116	Associated_With Arg1:T172 Arg2:T180	
+R117	Associated_With Arg1:T171 Arg2:T180	
+R118	Associated_With Arg1:T174 Arg2:T180	
+R119	Associated_With Arg1:T173 Arg2:T180	
+T181	Chemical 12867 12883	quercinic acid C
+T182	Metabolite 12867 12883	quercinic acid C
+T183	Chemical 12885 12941	3β,12β-dihydroxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T184	Metabolite 12885 12941	3β,12β-dihydroxy-24-methyl-23-oxolanost-8-en-26-oic acid
+T185	Spectral_Data 13004 13406	1 H-NMR (400.13 MHz, pyridine-d5 ): δ  0.92 (3H, s , H-28), 0.94 (3H, s , H-30), 1.05 (3H, s , H-18), 1.08 (3H, s , H-19), 1.15 (3H, d , J =6.9 Hz, H-31), 1.23 (3H, s , H-29), 1.34 (3H, d , J =7.2 Hz, H-27), 1.35 (3H, d , J =7.3 Hz, H-21), 2.57 (1H, dd , J =17.3, 10.1 Hz, H-20), 2.86 (1H, dd , J =17.6, 6.9 Hz, H-22a ), 3.17 (2H, m , H-24, H-25), 3.63 (1H, br. s , H-3), 4.39 (1H, t , J =7.9 Hz, H-12)
+R120	Associated_With Arg1:T182 Arg2:T185	
+R121	Associated_With Arg1:T181 Arg2:T185	
+R122	Associated_With Arg1:T184 Arg2:T185	
+R123	Associated_With Arg1:T183 Arg2:T185	
+T186	Spectral_Data 13408 13416	13 C-NMR
+T187	Chemical 13025 13036	pyridine-d5
+T188	Chemical 13430 13441	pyridine-d5
+R124	Associated_With Arg1:T182 Arg2:T186	
+R125	Associated_With Arg1:T181 Arg2:T186	
+R126	Associated_With Arg1:T184 Arg2:T186	
+R127	Associated_With Arg1:T183 Arg2:T186	
+T189	Spectral_Data 13459 13607	EI-MS m/z  (rel. int.): 502 [M]+  (7), 484 [M − H2 O]+  (11), 469 [M − H2 O − Me]+  (100), 451 [M − 2 H2 O − Me]+  (47), 325 (38), 309 (31), 69 (74)
+R128	Associated_With Arg1:T182 Arg2:T189	
+R129	Associated_With Arg1:T181 Arg2:T189	
+R130	Associated_With Arg1:T184 Arg2:T189	
+R131	Associated_With Arg1:T183 Arg2:T189	
+T190	Chemical 13628 13654	3α-oxepanoquercinic acid C
+T191	Metabolite 13628 13654	3α-oxepanoquercinic acid C
+T192	Chemical 13656 13717	12β,23-epoxy-3α,23-dihydroxy-24-methyllanost-8-en-26-oic acid
+T193	Metabolite 13656 13717	12β,23-epoxy-3α,23-dihydroxy-24-methyllanost-8-en-26-oic acid
+T194	Spectral_Data 13741 14053	1 H-NMR (400.13 MHz, CDCl3 ): δ  0.76 (3H, s , H-18), 0.84 (3H, s , H-29), 0.89 (3H, s , H-28), 0.98 (3H, d , J =8.2 Hz, H-21), 0.99 (3H, s , H-19), 0.99 (3H, s , H-30), 1.10 (3H, d , J =6.7 Hz, H-31), 1.24 (3H, d , J  = 7.1 Hz, H-27), 2.65 (1H, m , H-17), 4.34 (1H, t , J =8.1 Hz, H-12), 4.74 (1H, br. s , H-3).
+R132	Associated_With Arg1:T191 Arg2:T194	
+R133	Associated_With Arg1:T190 Arg2:T194	
+R134	Associated_With Arg1:T193 Arg2:T194	
+R135	Associated_With Arg1:T192 Arg2:T194	
+T195	Spectral_Data 14054 14062	13 C-NMR
+T196	Chemical 13762 13767	CDCl3
+T197	Chemical 14076 14081	CDCl3
+R136	Associated_With Arg1:T191 Arg2:T195	
+R137	Associated_With Arg1:T190 Arg2:T195	
+R138	Associated_With Arg1:T193 Arg2:T195	
+R139	Associated_With Arg1:T192 Arg2:T195	
+T198	Chemical 14119 14149	methyl (E )-4-methoxycinnamate
+T199	Metabolite 14119 14149	methyl (E )-4-methoxycinnamate
+T200	Chemical 14208 14213	CDCl3
+T201	Spectral_Data 14187 14409	1 H-NMR (400.13 MHz, CDCl3 ): δ  3.80 (3H, s , OMe), 3.85 (3H, s , COOMe), 6.32 (1H, d , J =16.2 Hz, H-8), 6.92 (2H, dt , J =9.1, 1.6 Hz, H-3, H-5), 7.49 (2H, dt , J =9.1, 1.6 Hz, H-2, H-6), 7.66 (1H, d , J =16.2 Hz, H-7).
+R140	Associated_With Arg1:T199 Arg2:T201	
+R141	Associated_With Arg1:T198 Arg2:T201	
+T202	Spectral_Data 14410 14615	13 C-NMR (100.61 MHz, CDCl3 ): δ  51.61 (q , COOMe), 55.41 (q , OMe), 114.36 (d , C-3, C-5), 115.31 (d , C-8), 127.16 (s , C-1), 129.75 (d , C-2, C-6), 144.56 (d , C-7), 153.74 (s , C-4), 161.43 (s , C-9).
+R142	Associated_With Arg1:T199 Arg2:T202	
+R143	Associated_With Arg1:T198 Arg2:T202	
+T203	Spectral_Data 14616 14721	EI-MS m/z  (rel. int.): 192 [M]+  (72), 161 [M − OMe]+  (100), 133 [M − COOMe]+  (38), 118 (13), 89 (18).
+R144	Associated_With Arg1:T199 Arg2:T203	
+R145	Associated_With Arg1:T198 Arg2:T203	
+T204	Chemical 14743 14773	methyl (E )-4-methoxycinnamate
+T205	Chemical 14797 14824	(E )-4-methoxycinnamic acid
+T206	Chemical 14849 14859	chloroform
+T207	Chemical 14887 14899	diazomethane
+T208	Chemical 14965 14977	diazomethane
+T209	Chemical 15008 15020	diazomethane
+T210	Chemical 15049 15057	nitrogen
+T211	Chemical 15072 15102	methyl (E )-4-methoxycinnamate
+T212	Chemical 15124 15154	methyl (Z )-4-methoxycinnamate
+T213	Metabolite 15124 15154	methyl (Z )-4-methoxycinnamate
+T214	Spectral_Data 15192 15401	1 H-NMR (400.13 MHz, CDCl3 ): δ  3.80 (3H, s , OMe), 3.85 (3H, s , COOMe), 5.85 (1H, d , J =12.7 Hz, H-8), 6.86 (1H, d , J =12.7 Hz, H-7), 6.90 (2H, d , J =8.7 Hz, H-3, H-5), 7.70 (2H, d , J =8.7 Hz, H-2, H-6)
+R146	Associated_With Arg1:T213 Arg2:T214	
+R147	Associated_With Arg1:T212 Arg2:T214	
+T215	Chemical 15213 15218	CDCl3
+T216	Spectral_Data 15403 15507	EI-MS m/z  (rel. int.): 192 [M]+  (69), 161 [M − OMe]+  (100), 133 [M − COOMe]+  (44), 118 (21), 89 (32)
+R148	Associated_With Arg1:T213 Arg2:T216	
+R149	Associated_With Arg1:T212 Arg2:T216	
+T217	Chemical 15529 15589	3α-carboxyacetoxy-24-methylene-23-oxolanost-8-en-26-oic acid
+T218	Metabolite 15529 15589	3α-carboxyacetoxy-24-methylene-23-oxolanost-8-en-26-oic acid
+T219	Spectral_Data 15626 15917	1 H-NMR (400.13 MHz, CDCl3 ): δ  0.74 (3H, s , H-18), 0.89 (3H, s , H-29), 0.90 (3H, d , J =7.6 Hz, H-21), 0.93 (3H, s , H-30), 0.94 (3H, s , H-28), 1.00 (3H, s , H-19), 1.36 (3H, d , J =7.2 Hz, H-27), 3.46 (2H, s , H-2′), 4.76 (1H, br. s , H-3), 5.94 (1H, s , H-31a ), 6.20 (1H, s , H-31b )
+T220	Chemical 15647 15652	CDCl3
+T221	Chemical 15941 15946	CDCl3
+R150	Associated_With Arg1:T218 Arg2:T219	
+R151	Associated_With Arg1:T217 Arg2:T219	
+T222	Spectral_Data 15919 15927	13 C-NMR
+R152	Associated_With Arg1:T218 Arg2:T222	
+R153	Associated_With Arg1:T217 Arg2:T222	
