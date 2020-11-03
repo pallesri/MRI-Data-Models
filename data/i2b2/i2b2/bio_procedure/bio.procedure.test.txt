@@ -1,0 +1,20658 @@
+Admission	O
+Date	O
+:	O
+
+2019-01-19	O
+
+Discharge	O
+Date	O
+:	O
+
+2019-01-24	O
+
+Date	O
+of	O
+Birth	O
+:	O
+
+1981-03-17	O
+
+Sex	O
+:	O
+
+M	O
+
+Service	O
+:	O
+MEDICINE	O
+
+Allergies	O
+:	O
+
+Patient	O
+recorded	O
+as	O
+having	O
+No	O
+Known	O
+Allergies	O
+to	O
+Drugs	B-procedure
+
+Attending	O
+:	O
+Antonio	O
+I	O
+Staples	O
+,	O
+M.D.	O
+
+Chief	O
+Complaint	O
+:	O
+
+nausea	O
+and	O
+vomiting	O
+
+Major	O
+Surgical	O
+or	O
+Invasive	O
+Procedure	O
+:	O
+
+01-23	O
+PORT	B-procedure
+line	I-procedure
+removal	I-procedure
+.	O
+
+01-23	O
+PICC	B-procedure
+placement	I-procedure
+.	O
+
+01-24	O
+PICC	B-procedure
+removal	I-procedure
+.	O
+
+History	O
+of	O
+Present	O
+Illness	O
+:	O
+
+This	O
+is	O
+a	O
+37	O
+y/o	O
+male	O
+patient	O
+with	O
+PMH	O
+Type	O
+I	O
+DM	O
+,	O
+HTN	O
+,	O
+gastroparesis	O
+,	O
+ESRD	O
+on	O
+HD	B-procedure
+(	O
+last	O
+in	O
+12/26	O
+per	O
+patient	O
+)	O
+who	O
+presents	O
+to	O
+CMED	O
+CCU	O
+with	O
+hypertensive	O
+urgency	O
+unable	O
+from	O
+the	O
+Larry	O
+.	O
+
+The	O
+patient	O
+early	O
+this	O
+morning	O
+to	O
+the	O
+Ruthie	O
+with	O
+his	O
+usual	O
+nausea	O
+,	O
+vomiting	O
+,	O
+abdominal	O
+pain	O
+and	O
+was	O
+found	O
+to	O
+be	O
+hypertensive	O
+to	O
+256/110	O
+,	O
+HR	B-procedure
+102	O
+,	O
+T	B-procedure
+99.2	O
+,	O
+RR	B-procedure
+22	O
+,	O
+92%	O
+RA	O
+.	O
+
+History	O
+is	O
+difficult	O
+to	O
+obtain	O
+from	O
+patient	O
+d/t	O
+somnolence	O
+and	O
+lack	O
+of	O
+desire	O
+to	O
+participate	O
+in	O
+interview	O
+,	O
+but	O
+per	O
+Frank	O
+note	O
+he	O
+was	O
+diaphoretic	O
+and	O
+'	O
+writing	O
+in	O
+pain	O
+',	O
+vomiting	O
+clear	O
+substance	O
+.	O
+
+He	O
+was	O
+given	O
+ativan	B-procedure
+a	O
+total	O
+of	O
+4	O
+mg	O
+of	O
+ativan	B-procedure
+,	O
+6	O
+mg	O
+of	O
+dilaudid	B-procedure
+,	O
+labetolol	B-procedure
+20	O
+mg	O
+IV	O
+x	O
+1	O
+and	O
+hydralazine	B-procedure
+10	O
+mg	O
+IV	O
+x	O
+1	O
+without	O
+good	O
+response	O
+(	O
+200/99	O
+).	O
+
+He	O
+recieved	O
+2L	B-procedure
+NS	I-procedure
+and	O
+was	O
+started	O
+on	O
+labetolol	B-procedure
+gtt	I-procedure
+and	O
+BP	B-procedure
+decreased	O
+to	O
+161/79	O
+.	O
+
+Tranferred	O
+to	O
+CMED	O
+CCU	O
+for	O
+further	O
+management	O
+while	O
+on	O
+labetolol	B-procedure
+gtt	I-procedure
+.	O
+
+Of	O
+note	O
+,	O
+the	O
+patient	O
+is	O
+admitted	O
+to	O
+hospital	O
+3	O
+times	O
+every	O
+month	O
+for	O
+similar	O
+complaints	O
+with	O
+last	O
+admission	O
+1/20-2/1/07	O
+.	O
+
+At	O
+that	O
+time	O
+BP	B-procedure
+was	O
+attributed	O
+to	O
+abdominal	O
+pain	O
+and	O
+inability	O
+to	O
+take	O
+PO	O
+meds	O
+d/t	O
+nausea	O
+/	O
+vomiting	O
+.	O
+
+Also	O
+had	O
+labile	O
+blood	O
+sugars	O
+with	O
+repeated	O
+episodes	O
+of	O
+hypoglycemia	O
+,	O
+and	O
+Strickland	O
+recommended	O
+sugars	B-procedure
+in	O
+the	O
+range	O
+of	O
+150-200	O
+.	O
+
+He	O
+eloped	O
+prior	O
+to	O
+formal	O
+discharge	O
+when	O
+his	B-procedure
+FS	I-procedure
+was	O
+found	O
+to	O
+be	O
+critically	O
+high	O
+-	O
+recommended	O
+to	O
+patient	O
+that	O
+he	O
+stay	O
+for	O
+repeat	O
+,	O
+but	O
+left	O
+AMA	O
+without	O
+signing	O
+any	O
+forms	O
+.	O
+
+Upon	O
+transfer	O
+to	O
+the	O
+CMED	O
+CCU	O
+the	O
+patient	O
+appears	O
+somewhat	O
+uncomfortable	O
+,	O
+reporting	O
+nausea	O
+and	O
+abdominal	O
+pain	O
+,	O
+but	O
+when	O
+questioned	O
+he	O
+was	O
+unable	O
+/	O
+unwilling	O
+to	O
+participate	O
+in	O
+HPI	O
+or	O
+exam	B-procedure
+d/t	O
+sleepiness	O
+.	O
+
+He	O
+denied	O
+CP	O
+,	O
+SOB	O
+,	O
+HA	O
+,	O
+vision	O
+changes	O
+,	O
+neck	O
+stiffness	O
+,	O
+dysuria	O
+,	O
+or	O
+other	O
+symptoms	O
+.	O
+
+In	O
+the	O
+CMED	O
+CCU	O
+he	O
+became	O
+hypotensive	O
+to	O
+SBP	B-procedure
+80	O
+s.	O
+
+Labetalol	B-procedure
+was	O
+stopped	O
+and	O
+he	O
+received	O
+a	B-procedure
+500	I-procedure
+cc	I-procedure
+fluid	I-procedure
+bolus	I-procedure
+and	O
+his	B-procedure
+blood	I-procedure
+pressure	I-procedure
+rose	O
+to	O
+SBP	B-procedure
+90	O
+s.	O
+
+Cardiac	O
+and	O
+infectious	O
+sources	O
+of	O
+hypotension	O
+were	O
+considered	O
+,	O
+but	O
+cardiac	B-procedure
+enzymes	I-procedure
+were	O
+not	O
+changed	O
+from	O
+prior	O
+studies	O
+and	O
+he	O
+had	O
+no	O
+localizing	O
+signs	O
+of	O
+infection	O
+;	O
+blood	B-procedure
+cultures	I-procedure
+were	O
+sent	O
+and	O
+a	B-procedure
+ultrasound	I-procedure
+of	O
+the	B-procedure
+L	I-procedure
+arm	I-procedure
+AVF	I-procedure
+ordered	O
+to	O
+rule	O
+out	O
+abscess	O
+at	O
+the	O
+site	O
+.	O
+
+He	O
+received	O
+a	B-procedure
+partial	I-procedure
+HD	I-procedure
+session	I-procedure
+,	O
+limited	O
+by	O
+hypotension	O
+.	O
+
+Over	O
+night	O
+,	O
+his	B-procedure
+blood	I-procedure
+pressure	I-procedure
+trended	O
+up	O
+to	O
+130	O
+s	O
+systolic	O
+.	O
+
+He	O
+was	O
+restarted	O
+on	O
+his	B-procedure
+home	I-procedure
+blood	I-procedure
+pressure	I-procedure
+regimen	I-procedure
+.	O
+
+Renal	O
+consult	O
+team	O
+saw	O
+him	O
+2019-01-20	O
+and	O
+plan	O
+to	O
+next	O
+dialyze	O
+him	O
+on	O
+2019-01-21	O
+.	O
+
+He	O
+was	O
+to	O
+be	O
+called	O
+out	O
+to	O
+the	O
+medical	O
+floor	O
+on	O
+2019-01-20	O
+but	O
+became	O
+somnolent	O
+after	O
+receiving	O
+pain	B-procedure
+and	I-procedure
+anti-nausea	I-procedure
+meds	I-procedure
+,	O
+so	O
+he	O
+stayed	O
+in	O
+the	O
+ICU	O
+for	O
+closer	O
+monitoring	O
+of	O
+respiratory	O
+status	O
+,	O
+which	O
+spontaneously	O
+improved	O
+.	O
+
+His	B-procedure
+blood	I-procedure
+sugar	I-procedure
+at	O
+10	O
+pm	O
+was	O
+low	O
+at	O
+22	O
+and	O
+he	O
+was	O
+disoriented	O
+,	O
+which	O
+resolved	O
+with	O
+two	O
+glasses	O
+of	O
+juice	O
+;	O
+he	O
+did	O
+not	O
+receive	O
+his	O
+standing	O
+dose	O
+of	O
+NPH	B-procedure
+that	O
+evening	O
+.	O
+
+Blood	B-procedure
+cultures	I-procedure
+returned	O
+positive	O
+with	O
+GPC	O
+in	O
+pairs	O
+and	O
+clusters	O
+,	O
+so	O
+a	B-procedure
+TTE	I-procedure
+and	O
+surveillance	B-procedure
+cultures	I-procedure
+were	O
+ordered	O
+and	O
+vancomycin	B-procedure
+was	O
+started	O
+.	O
+
+He	O
+was	O
+then	O
+called	O
+out	O
+to	O
+the	O
+medical	O
+floor	O
+on	O
+01-21	O
+.	O
+
+Past	O
+Medical	O
+History	O
+:	O
+
+1.	O
+DM	O
+type	O
+I	O
+
+2.	O
+ESRD	O
+on	O
+hemodialysis	B-procedure
+started	O
+2017-01-07	O
+on	O
+Tu	O
+,	O
+Th	O
+,	O
+Sat	O
+
+3.	O
+Severe	O
+autonomic	O
+dysfunction	O
+with	O
+multiple	O
+hospitalizations	O
+for	O
+hypertensive	O
+emergency	O
+,	O
+gastroparesis	O
+,	O
+and	O
+orthostatic	O
+hypotension	O
+.	O
+
+4.	O
+History	O
+of	O
+esophageal	O
+erosion	O
+,	O
+MW	O
+tear	O
+
+5.	O
+CAD	O
+with	O
+1-vessel	O
+disease	O
+(	O
+50%	O
+stenosis	O
+D1	O
+in	O
+2014-06-07	O
+),	O
+normal	O
+stress	O
+
+2015-10-07	O
+
+6.	O
+hx	O
+of	O
+Foot	O
+Ulcer	O
+
+7.	O
+h/o	O
+clot	O
+in	O
+AV	B-procedure
+graft	I-procedure
+x2	O
+(	O
+March	O
+and	O
+2018-07-07	O
+)	O
+
+Social	O
+History	O
+:	O
+
+Denies	O
+alcohol	O
+or	O
+tobacco	O
+use	O
+.	O
+
+Endorses	O
+occassional	O
+marijuana	O
+use	O
+.	O
+
+Lives	O
+with	O
+his	O
+Carney	O
+Hospital	O
+mother	O
+and	O
+their	O
+three	O
+children	O
+.	O
+
+Family	O
+History	O
+:	O
+
+His	O
+father	O
+recently	O
+died	O
+of	O
+ESRD	O
+and	O
+diabetes	O
+.	O
+
+His	O
+mother	O
+is	O
+in	O
+her	O
+50	O
+s	O
+and	O
+has	O
+hypertension	O
+.	O
+
+He	O
+has	O
+two	O
+sisters	O
+,	O
+one	O
+with	O
+diabetes	O
+,	O
+and	O
+six	O
+brothers	O
+,	O
+one	O
+with	O
+diabetes	O
+.	O
+
+Physical	O
+Exam	O
+:	O
+
+Vitals	B-procedure
+:	O
+97.4	O
+,	O
+164/90	O
+,	O
+102	O
+,	O
+10	O
+,	O
+97%	O
+4L	O
+
+General	O
+:	O
+sleepy	O
+,	O
+arouses	O
+to	O
+voice	O
+but	O
+limited	O
+participation	O
+with	O
+physical	B-procedure
+exam	I-procedure
+
+HEENT	O
+:	O
+PERRL	O
+,	O
+left	O
+pupil	O
+smaller	O
+than	O
+right	O
+,	O
+pt	O
+will	O
+not	O
+participate	O
+in	O
+EOMI	O
+,	O
+sclera	O
+anicteric	O
+,	O
+MM	O
+dry	O
+,	O
+No	O
+OP	O
+lesions	O
+
+Neck	O
+:	O
+Supple	O
+,	O
+no	O
+JVD	O
+
+CV	O
+:	O
+RRR	O
+,	O
+nl	O
+S1	O
+,	O
+S2	O
+,	O
+2/6	O
+systolic	O
+murmur	O
+at	O
+LUSB	O
+
+Lungs	O
+:	O
+CTAB	O
+post	O
+
+Chest	O
+:	O
+HD	B-procedure
+line	I-procedure
+in	O
+place	O
+without	O
+erythema	O
+
+Abd	O
+:	O
+Soft	O
+,	O
+ND	O
+,	O
+nontender	O
+,	O
++	O
+BS	O
+,	O
+no	O
+guarding	O
+,	O
+no	O
+rebound	O
+,	O
+multiple	O
+well	O
+healed	O
+scars	O
+
+Ext	O
+:	O
+no	O
+c/c/e	O
+,	O
+left	O
+arm	O
+with	O
+fistula	O
+with	O
+good	O
+thrill	O
+
+Skin	O
+:	O
+no	O
+rashes	O
+
+Brief	O
+Hospital	O
+Course	O
+:	O
+
+Pt	O
+admitted	O
+to	O
+medical	O
+floor	O
+in	O
+hemodynamically	O
+stable	O
+condition	O
+without	O
+specific	O
+complaints	O
+.	O
+
+#	O
+hypertensive	O
+urgency	O
+:	O
+
+Upon	O
+presentation	O
+it	O
+was	O
+unclear	O
+when	O
+last	O
+time	O
+was	O
+that	O
+patient	O
+took	O
+meds	B-procedure
+,	O
+but	O
+hypertension	O
+likely	O
+d/t	O
+inability	O
+to	O
+take	O
+meds	O
+in	O
+setting	O
+of	O
+N/V	O
+.	O
+
+Also	O
+contribution	O
+of	O
+autonomic	O
+dysfunction	O
+.	O
+
+No	O
+evidence	O
+of	O
+active	O
+end	O
+organ	O
+damage	O
+.	O
+
+Pt	O
+was	O
+treated	O
+with	O
+labetalol	B-procedure
+gtt	I-procedure
+in	O
+CMED	O
+CCU	O
+which	O
+was	O
+weaned	O
+off	O
+on	O
+01-20	O
+.	O
+
+carduac	O
+enzymes	O
+mildly	O
+elevated	O
+,	O
+felt	O
+02-08	O
+demand	O
+ischemia	O
+in	O
+setting	O
+of	O
+hypertensive	O
+urgency	O
+,	O
+CK	B-procedure
+and	O
+MB	B-procedure
+trended	O
+Mcewen	O
+at	O
+time	O
+of	O
+admission	O
+to	O
+medical	O
+floor	O
+.	O
+
+Pt	O
+'s	O
+hypertensive	O
+urgency	O
+was	O
+resolved	O
+upon	O
+admission	O
+to	O
+the	O
+medical	O
+floor	O
+.	O
+
+His	B-procedure
+SBP	I-procedure
+s	I-procedure
+ranged	O
+140	O
+s-	O
+170	O
+s	O
+.	O
+
+He	O
+was	O
+restarted	O
+on	O
+his	O
+home	O
+regimen	O
+of	O
+antihypertensives	B-procedure
+without	O
+difficulty	O
+(	O
+metoprolol	B-procedure
+75	O
+tid	O
+,	O
+clonidine	B-procedure
+patch	I-procedure
+and	I-procedure
+oral	I-procedure
+,	O
+nifedipine	B-procedure
+30	O
+SR	O
+q	O
+daily	O
+).	O
+
+he	O
+was	O
+discharged	O
+home	O
+with	O
+change	O
+in	O
+his	O
+regimen	O
+.	O
+
+#	O
+bacteremia	O
+:	O
+
+pt	O
+with	O
+2/4	O
+bottles	O
+coag	O
+neg	O
+staph	O
+on	O
+01-19	O
+and	O
+again	O
+on	O
+01-20	O
+.	O
+
+PORT	B-procedure
+was	O
+felt	O
+most	O
+likely	O
+source	O
+,	O
+and	O
+pt	O
+has	O
+had	O
+at	O
+least	O
+2	O
+sets	O
+of	O
++	O
+blood	O
+cultures	O
+since	O
+it	O
+was	O
+placed	O
+.	O
+
+TTE	B-procedure
+was	O
+obtained	O
+which	O
+was	O
+not	O
+concerning	O
+for	O
+endocarditis	O
+.	O
+
+pt	O
+without	O
+stigmata	O
+of	O
+SBE	O
+.	O
+
+ID	O
+consult	O
+obtained	O
+which	O
+recommended	O
+removal	B-procedure
+of	I-procedure
+PORT	I-procedure
+,	O
+which	O
+was	O
+taken	O
+out	O
+on	O
+01-23	O
+.	O
+
+Pt	O
+will	O
+compelete	O
+a	O
+2	O
+week	O
+course	O
+of	O
+vancomycin	B-procedure
+at	O
+hemodialysis	B-procedure
+,	O
+which	O
+has	O
+been	O
+arranged	O
+by	O
+renal	O
+service	O
+.	O
+
+A	B-procedure
+PICC	I-procedure
+was	O
+breifly	O
+placed	O
+,	O
+however	O
+removed	O
+as	O
+it	O
+is	O
+unclear	O
+if	O
+pt	O
+can	O
+reliably	O
+flush	O
+this	O
+.	O
+
+PORT	B-procedure
+will	O
+be	O
+replaced	O
+on	O
+2019-02-11	O
+per	O
+IR	O
+(	O
+Dr.	O
+Welsh	O
+placed	O
+last	O
+PORT	B-procedure
+,	O
+then	O
+removed	O
+it	O
+on	O
+01-23	O
+),	O
+ordered	O
+placed	O
+in	O
+OMR	O
+.	O
+
+Indication	O
+:	O
+
+diabetic	O
+gastropathy	O
+causing	O
+inability	O
+to	O
+toleral	O
+oral	O
+antihypertensive	O
+medication	O
+prompting	O
+repeated	O
+Donald	O
+presentation	O
+for	O
+hypertensive	O
+urgency	O
+.	O
+
+Pt	O
+with	O
+surveillance	B-procedure
+cultures	I-procedure
+and	O
+port	B-procedure
+tip	I-procedure
+cultures	I-procedure
+showing	O
+NGTD	O
+on	O
+01-24	O
+,	O
+he	O
+will	O
+have	O
+futher	B-procedure
+surveillance	I-procedure
+cultures	I-procedure
+drawn	O
+at	O
+hemodialysis	B-procedure
+and	O
+followed	O
+by	O
+his	O
+nephrologist	O
+.	O
+
+#	O
+n/v/	O
+abdominal	O
+pain	O
+:	O
+pt	O
+with	O
+multiple	O
+admissions	O
+with	O
+similar	O
+complaints	O
+,	O
+etiology	O
+02-08	O
+gastroparesis	O
+,	O
+improves	O
+considerably	O
+with	O
+ativan	B-procedure
+,	O
+dilaudid	B-procedure
+,	O
+reglan	B-procedure
+,	O
+pt	O
+was	O
+tolerating	O
+PO	B-procedure
+meds	I-procedure
+/	O
+diet	O
+at	O
+time	O
+of	O
+admission	O
+to	O
+medical	O
+service	O
+and	O
+was	O
+restarted	O
+on	O
+oral	B-procedure
+reglan	I-procedure
+.	O
+
+#	O
+DMI	O
+:	O
+Pt	O
+on	O
+sliding	B-procedure
+scale	I-procedure
+as	O
+inpatient	O
+and	O
+taking	O
+NPH	B-procedure
+2	O
+units	O
+BID	O
+at	O
+home	O
+.	O
+
+pt	O
+with	O
+two	O
+episodes	O
+of	O
+hypoglycemia	O
+(	O
+FSBS	B-procedure
+22	O
+and	O
+27	O
+),	O
+etiology	O
+unclear	O
+,	O
+pt	O
+followed	O
+by	O
+Strickland	O
+,	O
+who	O
+recommend	O
+no	O
+changes	O
+to	O
+current	B-procedure
+insulin	I-procedure
+regimen	I-procedure
+.	O
+
+will	O
+discharge	O
+pt	O
+with	O
+instructions	O
+to	O
+continue	O
+NPH	B-procedure
+2	O
+UNITS	O
+BID	O
+as	O
+Frederick	O
+Tracey	O
+recs	O
+.	O
+
+#	O
+CAD	O
+-	O
+pt	O
+denied	O
+cp	O
+/	O
+sob	O
+throughout	O
+hospitalization	O
+.	O
+
+Troponins	B-procedure
+rose	O
+at	O
+admission	O
+,	O
+however	O
+CK	B-procedure
+and	O
+MB	B-procedure
+trending	O
+Mcewen	O
+wat	O
+time	O
+of	O
+admission	O
+to	O
+medical	O
+service	O
+.	O
+
+Etiology	O
+felt	O
+most	O
+likely	O
+demand	O
+ischemia	O
+in	O
+setting	O
+of	O
+original	O
+hypertensive	O
+urgency	O
+with	O
+persistent	O
+elevation	O
+of	O
+trop	O
+02-08	O
+ESRD	O
+.	O
+
+Pt	O
+was	O
+continued	O
+on	O
+aspirin	B-procedure
+,	O
+metoprolol	B-procedure
+,	O
+nifedipine	B-procedure
+.	O
+
+#	O
+ESRD	O
+:	O
+etiology	O
+likely	O
+02-08	O
+DM	O
+and	O
+HTN	O
+,	O
+pt	O
+tolerating	O
+HD	B-procedure
+well	O
+,	O
+and	O
+underwent	O
+dialysis	B-procedure
+without	O
+difficulty	O
+on	O
+01-24	O
+.	O
+
+pt	O
+will	O
+be	O
+discharged	O
+home	O
+with	O
+plan	O
+to	O
+continue	O
+current	B-procedure
+dialysis	I-procedure
+schedule	I-procedure
+(	O
+Tue	O
+/	O
+Th	O
+/	O
+Sat	O
+).	O
+
+In	O
+addition	O
+pt	O
+will	O
+be	O
+given	O
+vancomycin	B-procedure
+at	O
+dialysis	O
+x	O
+2	O
+week	O
+course	O
+(	O
+last	O
+day	O
+2019-02-05	O
+)	O
+given	O
+his	O
+PORT	O
+line	O
+infection	O
+.	O
+
+He	O
+will	O
+have	O
+levels	B-procedure
+drawn	O
+at	O
+dialysis	B-procedure
+and	O
+be	O
+dosed	O
+with	O
+vancomycin	B-procedure
+as	O
+appropriate	O
+.	O
+
+Plan	O
+is	O
+for	O
+surveillance	B-procedure
+cultures	I-procedure
+to	O
+be	O
+drawn	O
+at	O
+dialysis	B-procedure
+.	O
+
+If	O
+negative	O
+,	O
+pt	O
+is	O
+scheduled	O
+for	O
+presumptively	B-procedure
+replacement	I-procedure
+of	I-procedure
+PORT	I-procedure
+on	O
+2019-02-11	O
+with	O
+interventional	B-procedure
+radiology	I-procedure
+(	O
+dr.	O
+Arevalo	O
+).	O
+
+Pt	O
+continued	O
+on	O
+home	O
+regimen	O
+of	O
+calcium	B-procedure
+acetate	I-procedure
+667	O
+mg	O
+,	O
+3	O
+capsules	O
+TID	O
+.	O
+
+#	O
+AV	B-procedure
+fistula	I-procedure
+:	O
+pt	O
+with	O
+h/o	O
+numerous	O
+clots	O
+in	O
+AV	B-procedure
+fistula	I-procedure
+.	O
+
+No	O
+signs	O
+of	O
+infection	O
+presently	O
+,	O
+and	O
+tolerating	O
+dialysis	B-procedure
+without	O
+difficulty	O
+.	O
+
+Pt	O
+was	O
+subtherapeuticon	O
+INR	O
+on	O
+admission	O
+,	O
+thus	O
+treated	O
+with	O
+heparin	B-procedure
+gtt	I-procedure
+.	O
+
+coumadin	B-procedure
+held	O
+on	O
+01-22	O
+for	O
+PORT	B-procedure
+removal	I-procedure
+,	O
+and	O
+restarted	O
+on	O
+01-24	O
+.	O
+
+Pt	O
+discharged	O
+with	O
+instructions	O
+to	O
+continue	O
+coumadin	B-procedure
+1.5	O
+mg	O
+po	O
+q	O
+daily	O
+with	O
+goal	B-procedure
+INR	I-procedure
+02-09	O
+.	O
+
+#	O
+DISPO	O
+:	O
+
+pt	O
+discharged	O
+home	O
+on	O
+01-24	O
+with	O
+instructions	O
+to	O
+complete	O
+2	O
+week	O
+course	O
+of	O
+vancomycin	B-procedure
+at	O
+hemodialysis	B-procedure
+for	O
+his	O
+PORT	O
+line	O
+infection	O
+.	O
+
+an	O
+appointment	O
+was	O
+made	O
+with	O
+interventional	O
+radiology	O
+on	O
+2019-02-11	O
+to	O
+replace	O
+his	B-procedure
+PORT	I-procedure
+,	O
+under	O
+the	O
+assumption	O
+that	O
+his	B-procedure
+surveillance	I-procedure
+cultures	I-procedure
+from	O
+dialysis	B-procedure
+remain	O
+negative	O
+.	O
+
+discussed	O
+this	O
+plan	O
+with	O
+renal	O
+service	O
+(	O
+Anthony	O
+Mcknight	O
+)	O
+who	O
+will	O
+communicate	O
+with	O
+pt	O
+'s	O
+outpatient	O
+dialysis	O
+service	O
+.	O
+
+Medications	O
+on	O
+Admission	O
+:	O
+
+Metoclopramide	B-procedure
+10	O
+mg	O
+PO	O
+Q6	O
+
+Metoprolol	B-procedure
+Tartrate	I-procedure
+75	O
+mg	O
+PO	O
+TID	O
+
+Calcium	B-procedure
+Acetate	I-procedure
+1340	O
+mg	O
+tid	O
+with	O
+meals	O
+
+Anzemet	B-procedure
+12.5	O
+IV	O
+prn	O
+
+Prochlorperazine	B-procedure
+10	O
+mg	O
+IV	O
+Q6H	O
+prn	O
+
+Ativan	B-procedure
+1	O
+mg	O
+PO	O
+Q6H	O
+prn	O
+
+Dilaudid	B-procedure
+4mg	O
+PO	O
+Q3-4H	O
+prn	O
+
+Insulin	B-procedure
+NPH	I-procedure
+2	O
+units	O
+Subcutaneous	O
+twice	O
+a	O
+day	O
+.	O
+
+Clonidine	B-procedure
+0.3	O
+mg	O
+/	O
+24	O
+hr	O
+Patch	O
+Weekly	O
+Transdermal	O
+QTHUR	O
+
+Clonidine	B-procedure
+0.2	O
+mg	O
+PO	O
+TID	O
+
+Prochlorperazine	B-procedure
+10	O
+mg	O
+q	O
+6	O
+h	O
+
+Coumadin	B-procedure
+1.5	O
+mg	O
+PO	O
+QHS	O
+
+Nifedipine	B-procedure
+30	O
+SR	O
+mg	O
+PO	O
+QD	O
+
+Bisacodyl	B-procedure
+prn	O
+
+Protonix	B-procedure
+40	O
+QD	O
+
+Discharge	O
+Medications	O
+:	O
+
+1.	O
+Metoclopramide	B-procedure
+10	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+Q6H	O
+(	O
+every	O
+6	O
+hours	O
+).	O
+
+2.	O
+Metoprolol	B-procedure
+Tartrate	I-procedure
+25	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+Three	O
+(	O
+3	O
+)	O
+Tablet	O
+PO	O
+TID	O
+(	O
+3	O
+times	O
+a	O
+day	O
+).	O
+
+3.	O
+Calcium	B-procedure
+Acetate	I-procedure
+667	O
+mg	O
+Capsule	O
+Sig	O
+:	O
+Three	O
+(	O
+3	O
+)	O
+Capsule	O
+PO	O
+TID	O
+W/	O
+MEALS	O
+(	O
+3	O
+TIMES	O
+A	O
+DAY	O
+WITH	O
+MEALS	O
+).	O
+
+4.	O
+Ativan	B-procedure
+1	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+q6h	O
+prn	O
+.	O
+
+5.	O
+Dilaudid	B-procedure
+4	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+q3-4hr	O
+prn	O
+.	O
+
+6.	O
+Clonidine	B-procedure
+0.3	O
+mg	O
+/	O
+24	O
+hr	O
+Patch	O
+Weekly	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Patch	O
+Weekly	O
+Transdermal	O
+Q	O
+WED	O
+(	O
+every	O
+Wednesday	O
+).	O
+
+7.	O
+Clonidine	B-procedure
+0.2	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+TID	O
+(	O
+3	O
+times	O
+a	O
+day	O
+).	O
+
+8.	O
+Warfarin	B-procedure
+1	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+1.5	O
+Tablets	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+9.	O
+Nifedipine	B-procedure
+30	O
+mg	O
+Tablet	O
+Sustained	O
+Release	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+Sustained	O
+Release	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+10.	O
+Pantoprazole	B-procedure
+40	O
+mg	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+PO	O
+Q24H	O
+(	O
+every	O
+24	O
+hours	O
+).	O
+
+11.	O
+Bisacodyl	B-procedure
+5	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+once	O
+a	O
+day	O
+as	O
+needed	O
+for	O
+constipation	O
+.	O
+
+12.	O
+Vancomycin	B-procedure
+in	I-procedure
+Dextrose	I-procedure
+1	O
+g	O
+/	O
+200	O
+mL	O
+Piggyback	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Intravenous	O
+QHD	O
+(	O
+each	O
+hemodialysis	B-procedure
+):	O
+2	O
+week	O
+course	O
+to	O
+be	O
+given	O
+at	O
+dialysis	O
+,	O
+last	O
+day	O
+2019-02-05	O
+.	O
+
+Disp	O
+:*	O
+qs	O
+*	O
+Refills	O
+:*	O
+2	O
+*	O
+
+13.	O
+Aspirin	B-procedure
+81	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+once	O
+a	O
+day	O
+.	O
+
+14.	O
+Humalog	B-procedure
+100	O
+unit	O
+/	O
+mL	O
+Solution	O
+Sig	O
+:	O
+USE	O
+AS	O
+DIRECTED	O
+Subcutaneous	O
+four	O
+times	O
+a	O
+day	O
+:	O
+please	O
+use	O
+attached	O
+sliding	B-procedure
+scale	I-procedure
+.	O
+
+Disp	O
+:*	O
+qs	O
+*	O
+Refills	O
+:*	O
+2	O
+*	O
+
+15.	O
+Insulin	B-procedure
+NPH	I-procedure
+Human	I-procedure
+Recomb	I-procedure
+100	O
+unit	O
+/	O
+mL	O
+Suspension	O
+Sig	O
+:	O
+2	O
+UNITS	O
+Subcutaneous	O
+twice	O
+a	O
+day	O
+.	O
+
+Disp	O
+:*	O
+qs	O
+*	O
+Refills	O
+:*	O
+2	O
+*	O
+
+Discharge	O
+Disposition	O
+:	O
+
+Home	O
+
+Discharge	O
+Diagnosis	O
+:	O
+
+primary	O
+:	O
+
+bacteremia	O
+02-08	O
+PORT	O
+line	O
+infection	O
+
+hypertensive	O
+urgency	O
+
+diabetic	O
+gastropathy	O
+
+Discharge	O
+Condition	O
+:	O
+
+stable	O
+.	O
+
+Discharge	O
+Instructions	O
+:	O
+
+please	O
+continue	O
+to	O
+take	O
+all	O
+of	O
+your	B-procedure
+medications	I-procedure
+as	O
+prescribed	O
+.	O
+
+you	O
+were	O
+started	O
+on	O
+a	O
+2	O
+week	O
+course	O
+of	O
+vancomycin	B-procedure
+to	O
+be	O
+given	O
+at	O
+hemodialysis	B-procedure
+for	O
+your	O
+line	O
+infection	O
+.	O
+
+you	O
+will	O
+have	O
+your	B-procedure
+PORT	I-procedure
+replaced	O
+after	O
+2	O
+weeks	O
+of	O
+antibiotics	B-procedure
+if	O
+your	B-procedure
+blood	I-procedure
+cultures	I-procedure
+remain	O
+negative	O
+.	O
+
+if	O
+you	O
+have	O
+recurrent	O
+fevers	O
+,	O
+chills	O
+,	O
+naseau	O
+,	O
+vomitting	O
+,	O
+chest	O
+pain	O
+,	O
+shortness	O
+of	O
+breath	O
+,	O
+or	O
+other	O
+worrisome	O
+symptoms	O
+,	O
+please	O
+contact	O
+your	O
+primary	O
+care	O
+physician	O
+or	O
+the	O
+emergency	O
+department	O
+.	O
+
+Followup	O
+Instructions	O
+:	O
+
+please	O
+follow	O
+up	O
+with	O
+your	O
+primary	O
+care	O
+doctor	O
+within	O
+4	O
+weeks	O
+.	O
+
+please	O
+follow-up	O
+with	O
+your	O
+dialysis	O
+physician	O
+regarding	O
+replacing	O
+your	B-procedure
+PORT	I-procedure
+.	O
+
+please	O
+follow-up	O
+with	O
+dr.	O
+Lillian	O
+becker	O
+in	O
+gastroenterology	O
+within	O
+1-2	O
+weeks	O
+,	O
+an	O
+appointment	O
+has	O
+been	O
+made	O
+for	O
+on	O
+you	O
+2019-02-11	O
+at	O
+3PM	O
+.	O
+
+(	O
+447	O
+)	O
+671-2034	O
+(	O
+Caldwell	O
+building	O
+,	O
+1st	O
+floor	O
+,	O
+1718	O
+S.	O
+Sixth	O
+Blvd.	O
+).	O
+
+upon	O
+arriving	O
+home	O
+please	O
+contact	O
+the	O
+King	O
+and	O
+arrange	O
+to	O
+be	O
+seen	O
+within	O
+1-2	O
+weeks	O
+.	O
+
+Adam	O
+Ruth	O
+MD	O
+61-358	O
+
+Completed	O
+by	O
+:	O
+Elwood	O
+Edmond	O
+MD	O
+68-884	O
+2019-01-31	O
+@	O
+1141	O
+
+Signed	O
+electronically	O
+by	O
+:	O
+DR.	O
+Pamula	O
+Pugh	O
+on	O
+:	O
+Russell	O
+2019-01-31	O
+12:12	O
+PM	O
+
+(	O
+End	O
+of	O
+Report	O
+)	O
+
+Admission	O
+Date	O
+:	O
+
+2015-11-09	O
+
+Discharge	O
+Date	O
+:	O
+
+2015-11-16	O
+
+Date	O
+of	O
+Birth	O
+:	O
+
+2015-11-09	O
+
+Sex	O
+:	O
+
+F	O
+
+Service	O
+:	O
+
+CMED	O
+CCU	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+Baby	O
+girl	O
+Fritsche	O
+is	O
+the	O
+1670	O
+gram	O
+product	O
+of	O
+a	O
+31	O
+and	O
+06-17	O
+week	O
+gestation	O
+born	O
+to	O
+a	O
+34	O
+-	O
+year-old	O
+G2	O
+P1	O
+now	O
+2	O
+woman	O
+.	O
+
+Fetal	B-procedure
+screens	I-procedure
+,	O
+O	O
+positive	O
+,	O
+antibody	B-procedure
+negative	O
+,	O
+RPR	B-procedure
+nonreactive	O
+,	O
+rubella	B-procedure
+immune	O
+,	O
+hepatitis	B-procedure
+surface	I-procedure
+antigen	I-procedure
+negative	O
+,	O
+GBS	B-procedure
+unknown	O
+.	O
+
+IVF	O
+pregnancy	O
+complicated	O
+by	O
+IUGR	O
+,	O
+2	O
+vessel	O
+cord	O
+,	O
+normal	O
+fetal	O
+echo	O
+reverse	O
+diastolic	O
+flow	O
+and	O
+demise	O
+of	O
+twin	O
+A	O
+at	O
+27	O
+weeks	O
+.	O
+
+Twin	O
+B	O
+with	O
+normal	O
+fetal	O
+survey	O
+was	O
+transferred	O
+to	O
+Boston	O
+Medical	O
+Center	O
+at	O
+26	O
+and	O
+2/7	O
+weeks	O
+with	O
+IUGR	O
+of	O
+twin	O
+A	O
+was	O
+first	O
+noted	O
+,	O
+presented	O
+with	O
+preterm	O
+labor	O
+at	O
+31	O
+weeks	O
+.	O
+
+Betamethasone	B-procedure
+complete	O
+at	O
+approximately	O
+26	O
+weeks	O
+and	O
+31	O
+weeks	O
+.	O
+
+Mother	O
+was	O
+on	O
+clindamycin	B-procedure
+since	O
+11-04	O
+.	O
+
+PPROM	O
+with	O
+bleeding	O
+and	O
+transverse	O
+lie	O
+prompted	O
+cesarean	B-procedure
+section	I-procedure
+.	O
+
+Abruption	O
+noted	O
+.	O
+
+Apgars	B-procedure
+were	O
+6	O
+and	O
+9	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+On	O
+admission	O
+weight	B-procedure
+1670	O
+grams	O
+approximately	O
+50	O
+th	O
+percentile	O
+,	O
+length	B-procedure
+43	O
+cm	O
+50	O
+th	O
+percentile	O
+,	O
+head	B-procedure
+circumference	I-procedure
+not	O
+done	O
+.	O
+
+Anterior	O
+fontanel	O
+soft	O
+,	O
+flat	O
+,	O
+cap	O
+and	O
+prong	B-procedure
+CPAP	I-procedure
+in	O
+place	O
+.	O
+
+Nondysmorphic	O
+intact	O
+Veliz	O
+.	O
+
+Comfortable	O
+with	O
+good	O
+aeration	O
+,	O
+clear	O
+breath	O
+sounds	O
+,	O
+does	O
+grunt	O
+intermittently	O
+when	O
+disturbed	O
+.	O
+
+No	O
+murmur	O
+.	O
+
+Normal	O
+pulses	O
+.	O
+
+Soft	O
+abdomen	O
+,	O
+3	O
+vessel	O
+cord	O
+.	O
+
+No	O
+hepatosplenomegaly	O
+.	O
+
+Normal	O
+female	O
+genitalia	O
+.	O
+
+Positive	O
+vaginal	O
+tag	O
+.	O
+
+Patent	O
+anus	O
+.	O
+
+No	O
+hip	O
+click	O
+.	O
+
+No	O
+sacral	O
+dimple	O
+.	O
+
+Moves	O
+all	O
+extremities	O
+.	O
+
+Decrease	O
+tone	O
+,	O
+ruddy	O
+,	O
+warm	O
+,	O
+well	O
+perfused	O
+with	O
+peripheral	B-procedure
+IV	I-procedure
+in	I-procedure
+left	I-procedure
+hand	I-procedure
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+Respiratory	O
+.	O
+
+Mills	O
+was	O
+admitted	O
+to	O
+the	O
+newborn	O
+intensive	O
+care	O
+unit	O
+with	O
+moderate	O
+respiratory	O
+distress	O
+.	O
+
+Infant	O
+placed	O
+on	O
+CPAP	B-procedure
+.	O
+
+X-ray	B-procedure
+revealed	O
+mild	O
+respiratory	O
+distress	O
+syndrome	O
+.	O
+
+She	O
+remained	O
+on	O
+CPAP	B-procedure
+for	O
+a	O
+total	O
+of	O
+24	O
+hours	O
+at	O
+which	O
+time	O
+she	O
+transitioned	O
+to	O
+room	O
+air	O
+and	O
+continues	O
+to	O
+be	O
+stable	O
+in	O
+room	O
+air	O
+.	O
+
+Caffeine	B-procedure
+citrate	I-procedure
+was	O
+initiated	O
+on	O
+11-14	O
+for	O
+apnea	O
+and	O
+bradycardia	O
+of	O
+prematurity	O
+.	O
+
+She	O
+is	O
+currently	O
+receiving	O
+11	O
+mg	O
+po	O
+every	O
+day	O
+.	O
+
+Cardiovascular	O
+.	O
+
+Has	O
+been	O
+cardiovascular	O
+stable	O
+throughout	O
+hospital	O
+course	O
+.	O
+
+Heart	B-procedure
+ranges	I-procedure
+130	O
+s	O
+to	O
+160	O
+s.	O
+
+Blood	B-procedure
+pressure	I-procedure
+most	O
+recently	O
+60/37	O
+with	O
+a	O
+mean	O
+of	O
+44	O
+.	O
+
+Fluid	O
+and	O
+electrolyte	O
+.	O
+
+Birth	B-procedure
+weight	I-procedure
+was	O
+1670	O
+grams	O
+50	O
+th	O
+percentile	O
+,	O
+length	B-procedure
+43	O
+cm	O
+50	O
+th	O
+percentile	O
+.	O
+
+Head	B-procedure
+circumference	I-procedure
+not	O
+done	O
+.	O
+
+Infant	O
+was	O
+initially	O
+started	O
+on	O
+80	O
+cc	O
+per	O
+kilo	O
+per	O
+day	O
+of	O
+D10W	B-procedure
+.	O
+
+Enteral	B-procedure
+feedings	I-procedure
+were	O
+initiated	O
+on	O
+day	O
+of	O
+life	O
+#1	O
+.	O
+
+Infant	O
+achieved	O
+full	B-procedure
+enteral	I-procedure
+feedings	I-procedure
+by	O
+day	O
+of	O
+life	O
+6	O
+.	O
+
+She	O
+is	O
+currently	O
+receiving	O
+150	O
+cc	O
+per	O
+kilo	O
+per	O
+day	O
+of	O
+Special	B-procedure
+Care	I-procedure
+20	I-procedure
+.	O
+
+Her	B-procedure
+discharge	I-procedure
+weight	I-procedure
+is	O
+1477	O
+gm	O
+.	O
+
+Her	O
+most	O
+recent	O
+set	O
+of	O
+electrolytes	O
+were	O
+on	O
+2015-11-13	O
+with	O
+a	B-procedure
+sodium	I-procedure
+of	O
+143	O
+,	O
+a	B-procedure
+potassium	I-procedure
+of	O
+6.3	O
+hemolyzed	O
+,	O
+a	B-procedure
+chloride	I-procedure
+of	O
+113	O
+and	O
+a	B-procedure
+total	I-procedure
+CO2	I-procedure
+of	O
+17	O
+.	O
+
+She	O
+will	O
+need	O
+advance	B-procedure
+calorie	I-procedure
+density	I-procedure
+for	O
+better	O
+growth	O
+.	O
+
+GI	B-procedure
+.	I-procedure
+Bilirubin	I-procedure
+peaked	O
+on	O
+day	O
+of	O
+life	O
+#2	O
+of	O
+9.0	O
+/	O
+0.3	O
+.	O
+
+Infant	O
+is	O
+under	O
+phototherapy	B-procedure
+,	O
+which	O
+was	O
+discontinued	O
+on	O
+11-13	O
+.	O
+
+Most	B-procedure
+recent	I-procedure
+bilirubin	I-procedure
+was	O
+on	O
+11-14	O
+of	O
+4.8	O
+/	O
+0.3	O
+.	O
+
+Hematology	O
+.	O
+
+Hematocrit	B-procedure
+on	O
+admission	O
+was	O
+53.7	O
+.	O
+
+She	O
+has	O
+not	O
+required	O
+any	B-procedure
+blood	I-procedure
+transfusions	I-procedure
+.	O
+
+Infectious	O
+disease	O
+.	O
+
+A	B-procedure
+CBC	I-procedure
+and	O
+blood	B-procedure
+culture	I-procedure
+obtained	O
+on	O
+admission	O
+.	O
+
+CBC	B-procedure
+had	O
+a	B-procedure
+white	I-procedure
+blood	I-procedure
+cell	I-procedure
+count	I-procedure
+of	O
+9	O
+,	O
+17	O
+polys	B-procedure
+,	O
+0	O
+bands	B-procedure
+,	O
+platelets	B-procedure
+of	O
+326	O
+.	O
+
+She	O
+received	O
+48	O
+hours	O
+of	O
+ampicillin	B-procedure
+and	O
+gentamycin	B-procedure
+with	O
+negative	O
+blood	B-procedure
+cultures	I-procedure
+and	O
+antibiotics	B-procedure
+were	O
+discontinued	O
+.	O
+
+Neurological	O
+.	O
+
+She	O
+has	O
+been	O
+appropriate	O
+for	O
+gestational	O
+age	O
+.	O
+
+Head	B-procedure
+ultrasound	I-procedure
+was	O
+performed	O
+on	O
+2015-11-16	O
+and	O
+was	O
+normal	O
+.	O
+
+Sensory	B-procedure
+,	I-procedure
+hearing	I-procedure
+screen	I-procedure
+has	O
+not	O
+yet	O
+been	O
+performed	O
+,	O
+but	O
+should	O
+be	O
+done	O
+prior	O
+to	O
+discharge	O
+.	O
+
+CONDITION	O
+AT	O
+DISCHARGE	O
+:	O
+
+Stable	O
+.	O
+
+DISCHARGE	O
+DISPOSITION	O
+:	O
+
+To	O
+Boston	O
+Medical	O
+Center	O
+.	O
+
+PRIMARY	O
+PEDIATRICIAN	O
+:	O
+
+Dr.	O
+Kim	O
+Adams	O
+.	O
+
+Telephone	O
+number	O
+is	O
+(	O
+261	O
+)	O
+564-6894	O
+.	O
+
+CARE	O
+AND	O
+RECOMMENDATIONS	O
+:	O
+
+Continue	O
+150	O
+cc	O
+per	O
+kilo	O
+per	O
+day	O
+of	O
+Special	B-procedure
+Care	I-procedure
+20	I-procedure
+calories	I-procedure
+advancing	O
+caloric	O
+intake	O
+as	O
+required	O
+to	O
+maintain	O
+weight	O
+gain	O
+of	O
+3	O
+grams	O
+per	O
+kilogram	O
+per	O
+day	O
+.	O
+
+Medications	B-procedure
+,	O
+continue	O
+caffeine	B-procedure
+citrate	I-procedure
+of	O
+11	O
+mg	O
+po	O
+every	O
+day	O
+.	O
+
+Car	B-procedure
+seat	I-procedure
+position	I-procedure
+screening	I-procedure
+has	O
+not	O
+yet	O
+been	O
+done	O
+.	O
+
+State	B-procedure
+newborn	I-procedure
+screen	I-procedure
+was	O
+sent	O
+on	O
+day	O
+of	O
+life	O
+#3	O
+and	O
+at	O
+discharge	O
+.	O
+
+Initial	O
+results	O
+were	O
+within	O
+normal	O
+limits	O
+.	O
+
+Immunizations	B-procedure
+received	O
+,	O
+infant	O
+has	O
+not	O
+received	O
+any	B-procedure
+immunizations	I-procedure
+to	O
+date	O
+.	O
+
+State	B-procedure
+newborn	I-procedure
+screen	I-procedure
+was	O
+sent	O
+on	O
+2015-11-12	O
+.	O
+
+Immunizations	B-procedure
+:	O
+recommended	O
+Synagis	B-procedure
+RSV	I-procedure
+prophylaxis	I-procedure
+should	O
+be	O
+considered	O
+from	O
+November	O
+through	O
+March	O
+for	O
+infants	O
+who	O
+meet	O
+any	O
+of	O
+the	O
+following	O
+3	O
+criteria	O
+,	O
+born	O
+at	O
+less	O
+than	O
+32	O
+weeks	O
+,	O
+born	O
+between	O
+32	O
+and	O
+35	O
+weeks	O
+with	O
+2	O
+of	O
+the	O
+following	O
+,	O
+daycare	O
+during	O
+RSV	O
+season	O
+,	O
+a	O
+smoker	O
+in	O
+the	O
+household	O
+,	O
+neuromuscular	O
+disease	O
+and	O
+weight	O
+abnormalities	O
+or	O
+school	O
+age	O
+siblings	O
+with	O
+chronic	O
+lung	O
+disease	O
+.	O
+
+Influenza	B-procedure
+immunization	I-procedure
+is	O
+recommended	O
+annually	O
+in	O
+the	O
+fall	O
+for	O
+all	O
+infants	O
+once	O
+they	O
+reach	O
+6	O
+months	O
+of	O
+age	O
+.	O
+
+Before	O
+this	O
+age	O
+and	O
+for	O
+the	O
+first	O
+24	O
+months	O
+of	O
+the	B-procedure
+child	I-procedure
+'s	I-procedure
+life	I-procedure
+immunizations	I-procedure
+against	O
+influenza	O
+is	O
+recommended	O
+for	O
+household	O
+contacts	O
+and	O
+out	O
+of	O
+home	O
+care	O
+givers	O
+.	O
+
+DISCHARGE	O
+DIAGNOSES	O
+:	O
+
+Premature	O
+infant	O
+born	O
+at	O
+31	O
+and	O
+6/7	O
+weeks	O
+gestation	O
+,	O
+resolved	O
+respiratory	O
+distress	O
+syndrome	O
+.	O
+
+Rule	O
+out	O
+sepsis	O
+with	O
+antibiotic	B-procedure
+.	O
+
+Hyperbilirubinemia	O
+resolving	O
+.	O
+
+Apnea	O
+and	O
+bradycardia	O
+of	O
+prematurity	O
+.	O
+
+Tai	O
+Pamela	O
+Wendell	O
+,	O
+Oklahoma	O
+05158	O
+
+Dictated	O
+By	O
+:	O
+Kurt	O
+S	O
+Imperato	O
+,	O
+M.D.	O
+
+MEDQUIST36	O
+
+D	O
+:	O
+2015-11-15	O
+21:17:13	O
+
+T	O
+:	O
+2015-11-16	O
+06:38:42	O
+
+Job	O
+#:	O
+
+82694	O
+
+Signed	O
+electronically	O
+by	O
+:	O
+DR.	O
+Debbie	O
+TRAN	O
+on	O
+:	O
+MON	O
+2015-11-16	O
+9:57	O
+AM	O
+
+(	O
+End	O
+of	O
+Report	O
+)	O
+
+242460787	O
+DH	O
+
+5950242	O
+
+67766054	O
+
+86004855	O
+
+09/26/2004	O
+12:00:00	O
+AM	O
+
+Face	O
+Sheet	O
+/	O
+Discharge	O
+Order	O
+
+SIGNED	O
+
+DIS	O
+
+[	O
+report	O
+_	O
+end	O
+]	O
+
+544907529	O
+RWH	O
+
+2746299	O
+
+006349	O
+
+700114	O
+
+4/4/2002	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+
+JESCWIERST	O
+,	O
+MA	O
+
+MRN	O
+:	O
+
+2746299	O
+
+Age	O
+:	O
+
+55y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+04/04/2002	O
+01:09	O
+AM	O
+
+PRELIMINARY	O
+REPORT	O
+
+This	O
+is	O
+to	O
+notify	O
+you	O
+that	O
+your	O
+patient	O
+,	O
+JESCWIERST	O
+,	O
+MA	O
+arrived	O
+in	O
+the	O
+Emergency	O
+Department	O
+at	O
+Ro	O
+Woodma	O
+Healthcare	O
+on	O
+04/04/2002	O
+01:09	O
+AM	O
+.	O
+
+The	O
+patient	O
+presented	O
+with	O
+a	O
+chief	O
+complaint	O
+of	O
+EPIGASTRIC	O
+PAIN	O
+/	O
+ABD	O
+PAIN	O
+.	O
+
+Following	O
+evaluation	B-procedure
+and	O
+treatment	B-procedure
+,	O
+the	O
+patient	O
+&apos;s	O
+disposition	O
+at	O
+the	O
+end	O
+of	O
+the	O
+visit	O
+was	O
+ADMITTED	O
+AS	O
+AN	O
+INPATIENT	O
+TO	O
+RO	O
+WOODMA	O
+HEALTHCARE	O
+.	O
+
+The	O
+patient	O
+&apos;s	O
+preliminary	O
+admitting	O
+physician	O
+is	O
+PRIESDOUET	O
+,	O
+CH	O
+J	O
+and	O
+the	O
+preliminary	O
+diagnosis	O
+is	O
+CHOLECYSTITIS	O
+.	O
+
+Please	O
+note	O
+this	O
+information	O
+may	O
+have	O
+been	O
+updated	O
+on	O
+the	O
+inpatient	O
+unit	O
+.	O
+
+If	O
+you	O
+need	O
+additional	O
+information	O
+please	O
+call	O
+662-747-1199	O
+.	O
+
+PCP	O
+Name	O
+:	O
+
+GRENDZISKLEEB	O
+,	O
+FACISA	O
+T	O
+
+Provider	O
+Number	O
+:	O
+
+11181	O
+
+037945397	O
+RWH	O
+
+2690633	O
+
+194867	O
+
+151887	O
+
+10/17/2001	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+/	O
+SUMMARY	O
+
+FYFEVAIA	O
+,	O
+LORERINDIL	O
+
+MRN	O
+:	O
+
+2690633	O
+
+Age	O
+:	O
+
+77y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+10/17/2001	O
+01:36	O
+PM	O
+
+Provider	O
+:	O
+
+CH	O
+KOTEKOLL	O
+
+PRELIMINARY	O
+REPORT	O
+
+PCP	O
+notified	O
+by	O
+
+MD	O
+:	O
+
+Yes	O
+-	O
+Direct	O
+contact	O
+with	O
+PCP	O
+
+Benefits	O
+Assigned	O
+:	O
+
+N	O
+
+Discharge	O
+Date	O
+/	O
+Time	O
+:	O
+
+10/17/2001	O
+16:28	O
+
+Discharge	O
+Status	O
+:	O
+
+Discharged	O
+
+Condition	O
+on	O
+Discharge	O
+:	O
+
+Stable	O
+
+Patient	O
+States	O
+Complaint	O
+:	O
+
+NEAR	O
+SYNCOPE	O
+Standardized	O
+Discharge	O
+Instructions	O
+:	O
+
+The	O
+patient	O
+was	O
+given	O
+printed	O
+instructions	O
+for	O
+dizziness	O
+(	O
+English	O
+)	O
+.	O
+
+Diagnosis	O
+:	O
+
+near	O
+syncope	O
+,	O
+dehydration	O
+vs	O
+cardiogenic	O
+
+Treatment	O
+Rendered	O
+:	O
+
+IVF	B-procedure
+,	O
+cbc	B-procedure
+(	O
+hct	B-procedure
+36	O
+)	O
+,	O
+normal	O
+chem	O
+7	O
+,	O
+negative	O
+cardiac	O
+enzymes	O
+,	O
+negative	O
+stool	O
+guaiac	O
+,	O
+normal	O
+CXR	O
+
+Discharge	O
+Medications	O
+:	O
+
+none	O
+
+Disposition	O
+,	O
+Follow	O
+up	O
+and	O
+Instructions	O
+to	O
+Patient	O
+:	O
+
+Patient	O
+will	O
+follow-up	O
+with	O
+his	O
+PCP	O
+,	O
+Dr.	O
+Foutchner	O
+,	O
+on	O
+Monday	O
+.	O
+
+Dr.	O
+Foutchner	O
+will	O
+arrange	O
+for	O
+an	B-procedure
+outpatient	I-procedure
+Holter	I-procedure
+monitor	I-procedure
+.	O
+
+The	O
+patient	O
+is	O
+to	O
+return	O
+to	O
+the	O
+ED	O
+for	O
+recurrent	O
+dizziness	O
+,	O
+chest	O
+pain	O
+,	O
+shortness	O
+of	O
+breath	O
+or	O
+weakness	O
+.	O
+
+PCP	O
+Name	O
+:	O
+
+SUMCHIRDKAYSMAVVEINDREPS	O
+,	O
+YERTREY	O
+
+Provider	O
+Number	O
+:	O
+
+12298	O
+
+This	O
+report	O
+was	O
+created	O
+by	O
+KOTEKOLL	O
+,	O
+CH	O
+10/17/2001	O
+07:08	O
+PM	O
+
+348301810	O
+
+CTMC	O
+
+65055310	O
+
+421501	O
+
+2/19/1991	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Admission	O
+Date	O
+:	O
+
+02/19/1991	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+Discharge	O
+Date	O
+:	O
+
+02/25/1991	O
+
+ADMISSION	O
+DIAGNOSIS	O
+:	O
+
+ENDOMETRIAL	O
+CANCER	O
+.	O
+
+OPERATION	O
+:	O
+
+Total	B-procedure
+abdominal	I-procedure
+hysterectomy	I-procedure
+,	O
+bilateral	B-procedure
+salpingo	I-procedure
+oophorectomy	I-procedure
+2-19-91	O
+by	O
+Dr.	O
+Lako	O
+Coma	O
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+This	O
+is	O
+an	O
+81-year-old	O
+who	O
+presented	O
+with	O
+postmenopausal	O
+spotting	O
+and	O
+had	O
+an	B-procedure
+endometrial	I-procedure
+biopsy	I-procedure
+which	O
+was	O
+read	O
+at	O
+the	O
+Etearal	O
+Etsystems/	O
+Hospital	O
+as	O
+showing	O
+grade	O
+I	O
+adenocarcinoma	O
+.	O
+
+Accordingly	O
+she	O
+presents	O
+for	O
+operative	B-procedure
+therapy	I-procedure
+at	O
+this	O
+time	O
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+Negative	O
+.	O
+
+PAST	O
+SURGICAL	O
+HISTORY	O
+:	O
+
+None	O
+.	O
+
+MEDICATIONS	O
+:	O
+
+None	O
+.	O
+
+ALLERGIES	O
+:	O
+
+None	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+She	O
+is	O
+somewhat	O
+obese	O
+elderly	O
+female	O
+.	O
+
+HEENT	O
+unremarkable	O
+.	O
+
+Lungs	O
+clear	O
+.	O
+
+Abdomen	O
+obese	O
+,	O
+no	O
+scars	O
+.	O
+
+Pelvic	B-procedure
+exam	I-procedure
+showed	O
+a	O
+small	O
+mobile	O
+uterus	O
+.	O
+
+Extremities	O
+show	O
+no	O
+edema	O
+.	O
+
+LABORATORY	O
+DATA	O
+:	O
+
+All	O
+within	O
+normal	O
+limits	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+was	O
+brought	O
+to	O
+the	O
+Operating	O
+Room	O
+on	O
+2-19-91	O
+where	O
+she	O
+had	O
+an	B-procedure
+exploratory	I-procedure
+laparotomy	I-procedure
+,	O
+TAH	B-procedure
+/	I-procedure
+BSO	I-procedure
+,	O
+and	O
+omental	B-procedure
+biopsy	I-procedure
+.	O
+
+She	O
+had	O
+a	B-procedure
+normal	I-procedure
+abdominal	I-procedure
+exploration	I-procedure
+of	O
+a	O
+small	O
+uterus	O
+with	O
+superficial	O
+invasion	O
+on	O
+gross	B-procedure
+examination	I-procedure
+,	O
+normal	O
+ovaries	O
+.	O
+
+Washings	B-procedure
+were	O
+sent	O
+.	O
+
+A	B-procedure
+subfascial	I-procedure
+J-P	I-procedure
+was	O
+left	O
+.	O
+
+The	O
+patient	O
+did	O
+well	O
+postoperatively	O
+and	O
+had	O
+a	O
+regular	O
+diet	O
+by	O
+the	O
+third	O
+postoperative	O
+day	O
+.	O
+
+Subfascia	B-procedure
+drain	I-procedure
+was	O
+discontinued	O
+.	O
+
+The	O
+patient	O
+&apos;s	O
+postoperative	B-procedure
+Hct	I-procedure
+was	O
+34	O
+.	O
+
+DISPOSITION	O
+:	O
+
+She	O
+will	O
+have	O
+follow-up	O
+with	O
+Dr.	O
+Lako	O
+Coma	O
+.	O
+
+YM263/3597	O
+LAKO	O
+C.	O
+COMA	O
+,	O
+M.D.	O
+TH0	O
+
+D	O
+:	O
+
+02/25/91	O
+
+Batch	O
+:	O
+
+4620	O
+
+Report	O
+:	O
+
+A5427C65	O
+
+T	O
+:	O
+
+02/27/91	O
+
+Dicatated	O
+By	O
+:	O
+
+TA	O
+K.	O
+JESC	O
+,	O
+M.D.	O
+
+176318078_a	O
+
+FIH	O
+
+4189699	O
+
+28872/d70h	O
+
+094756	O
+
+11/03/1993	O
+12:00:00	O
+AM	O
+
+MITRAL	O
+STENOSIS	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ADMISSION	O
+DATE	O
+:	O
+
+11-03-93	O
+
+DISCHARGE	O
+DATE	O
+:	O
+
+11-06-93	O
+
+PRINCIPAL	O
+DIAGNOSIS	O
+:	O
+
+Mitral	O
+stenosis	O
+
+ASSOCIATED	O
+DIAGNOSIS	O
+:	O
+
+Tricuspid	O
+regurgitation	O
+,	O
+heart	O
+failure	O
+,	O
+chronic	O
+atrial	O
+fibrillation	O
+,	O
+chronic	O
+ventricular	O
+ectopy	O
+,	O
+chronic	O
+obstructive	O
+lung	O
+disease	O
+.	O
+
+ADVERSE	O
+DRUG	O
+REACTIONS	O
+:	O
+
+Epistaxis	O
+to	O
+Coumadin	B-procedure
+in	O
+the	O
+past	O
+.	O
+
+PRINCIPAL	O
+PROCEDURE	O
+:	O
+
+Cardiac	B-procedure
+catheterization	I-procedure
+11/03	O
+.	O
+
+OTHER	O
+PROCEDURE	O
+:	O
+
+Pulmonary	B-procedure
+function	I-procedure
+test	I-procedure
+11/04	O
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+This	O
+68-year-old	O
+patient	O
+of	O
+Dr.	O
+Naka	O
+Jesc	O
+had	O
+two	O
+episodes	O
+of	O
+rheumatic	O
+fever	O
+as	O
+a	O
+teenager	O
+.	O
+
+She	O
+has	O
+had	O
+chronic	O
+atrial	O
+fibrillation	O
+.	O
+
+Coumadin	B-procedure
+has	O
+caused	O
+bleeding	O
+from	O
+the	O
+mouth	O
+and	O
+nose	O
+on	O
+two	O
+occasions	O
+,	O
+on	O
+one	O
+occasion	O
+with	O
+prothrombin	B-procedure
+time	I-procedure
+13	O
+,	O
+and	O
+has	O
+been	O
+replaced	O
+by	O
+anti-platelet	B-procedure
+agents	I-procedure
+.	O
+
+She	O
+has	O
+had	O
+recurrent	O
+syncope	O
+since	O
+age	O
+6	O
+.	O
+
+She	O
+has	O
+now	O
+had	O
+progressive	O
+heart	O
+failure	O
+.	O
+
+A	B-procedure
+Holter	I-procedure
+showed	O
+atrial	O
+fibrillation	O
+with	O
+period	O
+of	O
+ventricular	O
+bigemini	O
+.	O
+
+She	O
+cut	O
+down	O
+dramatically	O
+on	O
+smoking	O
+two	O
+years	O
+ago	O
+,	O
+but	O
+has	O
+continued	O
+to	O
+smoke	O
+,	O
+although	O
+,	O
+very	O
+recently	O
+,	O
+she	O
+admits	O
+to	O
+only	O
+&quot;	O
+two	O
+puffs	O
+&quot;	O
+per	O
+day	O
+.	O
+
+She	O
+has	O
+not	O
+had	O
+hypertension	O
+or	O
+diabetes	O
+,	O
+and	O
+says	O
+he	O
+has	O
+lowered	O
+her	B-procedure
+cholesterol	I-procedure
+from	O
+333	O
+to	O
+197	O
+by	O
+changing	O
+her	O
+diet	O
+.	O
+
+There	O
+is	O
+no	O
+family	O
+history	O
+of	O
+heart	O
+disease	O
+.	O
+
+She	O
+has	O
+been	O
+treated	O
+with	O
+Vanceril	B-procedure
+for	O
+chronic	O
+obstructive	O
+pulmonary	O
+disease	O
+.	O
+
+She	O
+has	O
+had	O
+one	O
+gram	O
+per	O
+day	O
+proteinuria	B-procedure
+with	O
+normal	O
+creatinine	O
+.	O
+
+She	O
+had	O
+a	B-procedure
+partial	I-procedure
+gastrectomy	I-procedure
+in	O
+1972	O
+for	O
+a	O
+&quot;	O
+tumor	O
+&quot;	O
+.	O
+
+She	O
+has	O
+had	O
+an	B-procedure
+appendectomy	I-procedure
+and	O
+cholecystectomy	B-procedure
+.	O
+
+MEDICATIONS	O
+ON	O
+ADMISSION	O
+:	O
+
+Digoxin	B-procedure
+0.125	O
+mg	O
+po	O
+q.d.	O
+,	O
+Lasix	B-procedure
+40	O
+mg	O
+b.i.d.	O
+,	O
+aspirin	B-procedure
+held	O
+,	O
+and	O
+Vanceril	B-procedure
+three	O
+puffs	O
+b.i.d.	O
+
+ALLERGIES	O
+:	O
+
+Transdermal	B-procedure
+nitroglycerin	I-procedure
+caused	O
+headache	O
+.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+
+She	O
+does	O
+not	O
+drink	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+Heart	B-procedure
+rate	I-procedure
+86	O
+,	O
+irregularly	O
+irregular	O
+,	O
+blood	B-procedure
+pressure	I-procedure
+142/86	O
+.	O
+
+Neck	O
+veins	O
+distended	O
+.	O
+
+Carotids	O
+normal	O
+.	O
+
+Chest	O
+clear	O
+.	O
+
+Apical	B-procedure
+impulse	I-procedure
+not	O
+palpable	O
+.	O
+
+Right	O
+ventricular	O
+heave	O
+.	O
+
+S1	O
+normal	O
+.	O
+
+S2	O
+narrowly	O
+physiologically	O
+split	O
+with	O
+accentuation	O
+of	O
+P2	O
+.	O
+
+No	O
+S3	O
+or	O
+opening	O
+snap	O
+.	O
+
+Grade	O
+II	O
+systolic	O
+murmur	O
+at	O
+the	O
+left	O
+lower	O
+sternal	O
+border	O
+.	O
+
+Grade	O
+II	O
+decrescendo	O
+diastolic	O
+murmur	O
+at	O
+the	O
+left	O
+lower	O
+sternal	O
+border	O
+.	O
+
+Diastolic	O
+rumble	O
+at	O
+the	O
+apex	O
+.	O
+
+Liver	O
+slightly	O
+pulsatile	O
+but	O
+no	O
+enlarged	O
+.	O
+
+Pulses	B-procedure
+normal	O
+to	O
+the	O
+femorals	O
+with	O
+weak	O
+dorsalis	O
+pedis	O
+pulses	O
+.	O
+
+Superficial	O
+varicose	O
+veins	O
+.	O
+
+No	O
+edema	O
+.	O
+
+LABORATORY	O
+DATA	O
+:	O
+
+Hematocrit	B-procedure
+44	O
+,	O
+potassium	B-procedure
+4.0	O
+,	O
+BUN	B-procedure
+23	O
+,	O
+creatinine	B-procedure
+1.2	O
+,	O
+blood	B-procedure
+sugar	I-procedure
+115	O
+,	O
+Digoxin	B-procedure
+1.4	O
+.	O
+
+Electrocardiogram	B-procedure
+showed	O
+atrial	O
+fibrillation	O
+,	O
+moderate	O
+ventricular	O
+response	O
+,	O
+incomplete	O
+right	O
+bundle	O
+branch	O
+block	O
+,	O
+right	O
+axis	O
+deviation	O
+,	O
+right	O
+ventricular	O
+hypertrophy	O
+and	O
+possible	O
+apical	O
+infarction	O
+.	O
+
+Chest	B-procedure
+x-ray	I-procedure
+showed	O
+left	O
+atrial	O
+,	O
+right	O
+ventricular	O
+and	O
+pulmonary	O
+arterial	O
+enlargement	O
+and	O
+interstitial	O
+edema	O
+with	O
+small	O
+,	O
+bilateral	O
+effusions	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+Cardiac	B-procedure
+catheterization	I-procedure
+was	O
+performed	O
+without	O
+complication	O
+from	O
+the	O
+right	O
+neck	O
+and	O
+right	O
+groin	O
+on	O
+the	O
+day	O
+of	O
+admission	O
+.	O
+
+Right	B-procedure
+atrial	I-procedure
+pressure	I-procedure
+was	O
+12	O
+with	O
+a	O
+wave	O
+form	O
+consistent	O
+with	O
+tricuspid	O
+regurgitation	O
+.	O
+
+There	O
+was	O
+no	O
+tricuspid	O
+valve	O
+gradient	O
+.	O
+
+Pulmonary	B-procedure
+artery	I-procedure
+pressure	I-procedure
+was	O
+markedly	O
+elevated	O
+at	O
+120/60	O
+.	O
+
+Pulmonary	B-procedure
+capillary	I-procedure
+wedge	I-procedure
+pressure	I-procedure
+was	O
+markedly	O
+elevated	O
+at	O
+38	O
+,	O
+with	O
+a	O
+very	O
+large	O
+mitral	O
+valve	O
+gradient	O
+.	O
+
+There	O
+was	O
+little	O
+or	O
+no	O
+aortic	O
+valve	O
+gradient	O
+.	O
+
+Fich	B-procedure
+cardiac	I-procedure
+output	I-procedure
+was	O
+3.0	O
+and	O
+indexed	O
+2.0	O
+.	O
+
+Arterial	B-procedure
+oxygen	I-procedure
+saturation	I-procedure
+was	O
+85	O
+percent	O
+.	O
+
+There	O
+was	O
+minimal	O
+mitral	O
+valve	O
+calcification	O
+,	O
+normal	O
+left	O
+ventricular	O
+contraction	O
+,	O
+and	O
+2+	O
+mitral	O
+regurgitation	O
+into	O
+a	O
+large	O
+left	O
+atrium	O
+.	O
+
+There	O
+was	O
+minimal	O
+aortic	O
+valve	O
+calcification	O
+,	O
+mild	O
+______________	O
+thickening	O
+,	O
+normal	O
+open	O
+,	O
+and	O
+mild	O
+aortic	O
+regurgitation	O
+.	O
+
+There	O
+was	O
+mild	O
+atherosclerosis	O
+of	O
+the	O
+mid	O
+left	O
+anterior	O
+descending	O
+.	O
+
+FVC	B-procedure
+was	O
+1.6	O
+or	O
+58	O
+percent	O
+of	O
+predicted	O
+and	O
+FEV1	B-procedure
+0.95	O
+or	O
+45	O
+percent	O
+of	O
+predicted	O
+.	O
+
+Room	B-procedure
+air	I-procedure
+arterial	I-procedure
+blood	I-procedure
+gas	I-procedure
+was	O
+56/40/7.45	O
+.	O
+
+Because	O
+it	O
+would	O
+be	O
+ideal	O
+to	O
+place	O
+a	B-procedure
+mechanical	I-procedure
+valve	I-procedure
+if	O
+valve	B-procedure
+replacement	I-procedure
+rather	O
+that	O
+commissurotomy	B-procedure
+is	O
+needed	O
+,	O
+she	O
+was	O
+seen	O
+by	O
+Dr.	O
+Ca	O
+Shuff	O
+of	O
+ENT	O
+for	O
+her	O
+history	O
+of	O
+epistaxis	O
+.	O
+
+He	O
+identified	O
+no	O
+bleeding	O
+source	O
+,	O
+but	O
+felt	O
+that	O
+the	O
+risk	O
+of	O
+nasal	O
+hemorrhage	O
+on	O
+Coumadin	B-procedure
+could	O
+be	O
+minimized	O
+interventional	B-procedure
+neuroradiology	I-procedure
+occlusion	I-procedure
+of	O
+the	O
+arteries	O
+to	O
+the	O
+nose	O
+bilaterally	O
+.	O
+
+The	O
+patient	O
+was	O
+therefore	O
+referred	O
+to	O
+the	O
+Dr.	O
+A	O
+Eu	O
+Wave	O
+.	O
+
+The	B-procedure
+procedure	I-procedure
+could	O
+not	O
+be	O
+scheduled	O
+during	O
+this	O
+admission	O
+.	O
+
+The	O
+patient	O
+is	O
+,	O
+therefore	O
+,	O
+discharged	O
+after	O
+a	O
+three	O
+day	O
+hospitalization	O
+,	O
+with	O
+plans	O
+for	O
+re-admission	O
+for	O
+the	B-procedure
+neuroradiology	I-procedure
+procedure	I-procedure
+.	O
+
+This	O
+will	O
+be	O
+followed	O
+by	O
+a	O
+trial	O
+of	O
+Coumadin	B-procedure
+,	O
+and	O
+then	O
+by	O
+mitral	B-procedure
+commissurotomy	I-procedure
+or	O
+replacement	B-procedure
+and	O
+probable	O
+tricuspid	B-procedure
+annuloplasty	I-procedure
+by	O
+Dr.	O
+Riemund	O
+C.	O
+Wave	O
+.	O
+
+In	O
+the	O
+meantime	O
+,	O
+Lasix	B-procedure
+dosage	O
+is	O
+increased	O
+.	O
+
+Potassium	B-procedure
+replacement	I-procedure
+has	O
+caused	O
+,	O
+according	O
+to	O
+the	O
+patient	O
+,	O
+marked	O
+hyperkalemia	O
+in	O
+the	O
+past	O
+.	O
+
+DISCHARGE	O
+REGIMEN	O
+:	O
+
+Digoxin	B-procedure
+0.125	O
+mg	O
+q.d.	O
+,	O
+Lasix	B-procedure
+80	O
+mg	O
+q.a.m.	O
+and	O
+40	O
+mg	O
+q.p.m.	O
+aspirin	B-procedure
+1	O
+q.d.	O
+,	O
+and	O
+Vanceril	B-procedure
+three	O
+puffs	O
+b.i.d.	O
+
+CA	O
+SHUFF	O
+,	O
+M.D.	O
+
+TR	O
+:	O
+
+vw	O
+/	O
+bmot	O
+
+DD	O
+:	O
+
+11-06-93	O
+
+TD	O
+:	O
+
+11/07/93	O
+
+CC	O
+:	O
+
+Copies	O
+to	O
+Dr.	O
+Bodejove	O
+at	O
+Valtawnprinceel	O
+Community	O
+Memorial	O
+Hospital	O
+,	O
+Dr.	O
+A	O
+Eu	O
+Wave	O
+,	O
+Dr.	O
+Riemund	O
+C.	O
+Wave	O
+,	O
+and	O
+three	O
+copies	O
+to	O
+Dr.	O
+Ca	O
+Shuff	O
+edited	O
+12/31/93	O
+qm	O
+
+699905656	O
+SC	O
+
+06100044	O
+
+921737	O
+
+1/17/1993	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Signed	O
+
+DIS	O
+
+Admission	O
+Date	O
+:	O
+
+01/17/1993	O
+
+Report	O
+Status	O
+:	O
+
+Signed	O
+
+Discharge	O
+Date	O
+:	O
+
+01/21/1993	O
+
+DISCHARGE	O
+DIAGNOSIS	O
+:	O
+
+1.	O
+RIGHT	B-procedure
+SIDED	I-procedure
+SCIATICA	I-procedure
+PROCEDURE	I-procedure
+:	O
+
+Right	B-procedure
+laminectomy	I-procedure
+and	O
+discectomy	B-procedure
+by	O
+Dr.	O
+Small	O
+,	O
+Neurosurgery	O
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+The	O
+patient	O
+is	O
+a	O
+42	O
+year	O
+old	O
+gentleman	O
+who	O
+suffered	O
+lower	O
+back	O
+pain	O
+during	O
+an	O
+accident	O
+at	O
+work	O
+in	O
+1990	O
+.	O
+
+This	O
+gradually	O
+increased	O
+until	O
+June	O
+1992	O
+where	O
+he	O
+had	O
+recurrent	O
+severe	O
+right	O
+sided	O
+sciatica	O
+.	O
+
+In	O
+September	O
+1992	O
+CT	B-procedure
+myelogram	I-procedure
+showed	O
+a	O
+lateral	O
+L-1	O
+S-1	O
+disc	O
+bulge	O
+and	O
+small	O
+L-4-4	O
+bulge	O
+.	O
+
+He	O
+has	O
+had	O
+no	O
+change	O
+in	O
+pain	O
+in	O
+the	O
+last	O
+few	O
+months	O
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+Negative	O
+.	O
+
+ALLERGIES	O
+:	O
+
+None	O
+.	O
+
+MEDICATIONS	O
+:	O
+
+None	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+He	O
+was	O
+found	O
+to	O
+be	O
+healthy	O
+.	O
+
+His	B-procedure
+examination	I-procedure
+was	O
+completely	O
+unremarkable	O
+.	O
+
+He	O
+had	O
+5	O
+out	O
+of	O
+5	O
+strength	O
+diffusely	O
+,	O
+normal	O
+deep	O
+tendon	O
+reflexes	O
+and	O
+normal	O
+sensation	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+He	O
+was	O
+admitted	O
+,	O
+taken	O
+to	O
+the	O
+operating	O
+room	O
+where	O
+he	O
+underwent	O
+L5-S1	B-procedure
+right	I-procedure
+hemilaminectomy	I-procedure
+and	O
+discectomy	B-procedure
+.	O
+
+He	O
+tolerated	O
+the	O
+procedure	O
+well	O
+,	O
+was	O
+taken	O
+to	O
+the	O
+floor	O
+in	O
+stable	O
+condition	O
+.	O
+
+Over	O
+the	O
+next	O
+three	O
+days	O
+he	O
+increased	O
+his	O
+activity	O
+gradually	O
+,	O
+was	O
+able	O
+to	O
+do	O
+stairs	O
+with	O
+Physical	B-procedure
+Therapy	I-procedure
+and	O
+had	O
+pain	O
+which	O
+could	O
+be	O
+controlled	O
+with	O
+oral	B-procedure
+analgesics	I-procedure
+.	O
+
+DISPOSITION	O
+:	O
+
+MEDICATIONS	O
+:	O
+
+He	O
+is	O
+discharged	O
+on	O
+Percocet	B-procedure
+,	O
+Colace	B-procedure
+and	O
+Motrin	B-procedure
+.	O
+
+Dictated	O
+By	O
+:	O
+
+NASA	O
+R.	O
+SMALL	O
+,	O
+M.D.	O
+IX97	O
+
+Attending	O
+:	O
+
+VIENNIEZUTACHANT	O
+WAVE	O
+,	O
+M.D.	O
+NN08	O
+QM838/6096	O
+
+Batch	O
+:	O
+
+8704	O
+
+Index	O
+No.	O
+AFUFB928WZ	O
+
+D	O
+:	O
+
+01/20/93	O
+
+T	O
+:	O
+
+01/22/93	O
+
+176746010	O
+WGH	O
+
+0014633	O
+
+546385	O
+
+8603421	O
+
+12/7/2004	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+/	O
+SUMMARY	O
+
+GLOTZASRHALT	O
+,	O
+SHIRLH	O
+
+MRN	O
+:	O
+
+0014633	O
+
+Age	O
+:	O
+
+25y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+12/07/2004	O
+10:08	O
+PM	O
+
+Provider	O
+:	O
+
+Gram	O
+Meedner	O
+
+PRELIMINARY	O
+REPORT	O
+
+Benefits	O
+Assigned	O
+:	O
+
+Y	O
+
+Discharge	O
+Date	O
+/	O
+Time	O
+:	O
+
+12/07/2004	O
+22:57	O
+
+Discharge	O
+Status	O
+:	O
+
+Discharged	O
+
+Condition	O
+on	O
+Discharge	O
+:	O
+
+Stable	O
+
+Patient	O
+States	O
+Complaint	O
+:	O
+
+FLANK	O
+PAIN	O
+URI	O
+?	O
+
+Standardized	O
+Discharge	O
+Instructions	O
+:	O
+
+The	O
+patient	O
+was	O
+given	O
+printed	O
+instructions	O
+for	O
+urinary	O
+tract	O
+infection	O
+(	O
+Portugese	O
+)	O
+.	O
+
+Diagnosis	O
+:	O
+
+Urinary	O
+Tract	O
+Infection	O
+
+Treatment	O
+Rendered	O
+:	O
+
+Exam	B-procedure
+,	O
+urinalysis	B-procedure
+,	O
+medication	B-procedure
+
+Discharge	O
+Medications	O
+:	O
+
+Levofloxacin	B-procedure
+500	O
+mg	O
+every	O
+day	O
+for	O
+7	O
+days	O
+
+Follow	O
+up	O
+Service	O
+:	O
+
+If	O
+you	O
+do	O
+not	O
+have	O
+a	O
+primary	O
+care	O
+physician	O
+,	O
+it	O
+is	O
+recommended	O
+that	O
+you	O
+select	O
+one	O
+.	O
+
+If	O
+you	O
+would	O
+like	O
+an	O
+WGH	O
+primary	O
+care	O
+physician	O
+,	O
+please	O
+call	O
+the	O
+Eghelas	O
+Medical	O
+Centers	O
+at	O
+265-573-2272	O
+.	O
+
+Disposition	O
+,	O
+Follow	O
+up	O
+and	O
+Instructions	O
+to	O
+Patient	O
+:	O
+
+Return	O
+to	O
+the	O
+ER	O
+for	O
+high	O
+fevers	O
+,	O
+vomiting	O
+,	O
+uncontrolled	O
+pains	O
+or	O
+other	O
+concerns	O
+as	O
+needed	O
+.	O
+
+PCP	O
+Name	O
+:	O
+
+NONE	O
+,	O
+PHYSICIAN	O
+
+Provider	O
+Number	O
+:	O
+
+51669	O
+
+This	O
+report	O
+was	O
+created	O
+by	O
+Meedner	O
+,	O
+Shaza	O
+12/07/2004	O
+10:59	O
+PM	O
+
+262912613	O
+
+CTMC	O
+
+43279523	O
+
+551881	O
+
+6/25/1990	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Signed	O
+
+DIS	O
+
+Admission	O
+Date	O
+:	O
+
+06/25/1990	O
+
+Report	O
+Status	O
+:	O
+
+Signed	O
+
+Discharge	O
+Date	O
+:	O
+
+07/05/1990	O
+
+PRINCIPLE	O
+DIAGNOSIS	O
+:	O
+
+LEFT	O
+KNEE	O
+OSTEOARTHRITIS	O
+.	O
+
+PROCEDURE	O
+:	O
+
+LEFT	B-procedure
+TOTAL	I-procedure
+KNEE	I-procedure
+ARTHROPLASTY	I-procedure
+ON	O
+6/26/90	O
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+The	O
+patient	O
+is	O
+a	O
+78-year-old	O
+female	O
+who	O
+has	O
+had	O
+osteoarthritis	O
+and	O
+noted	O
+the	O
+sudden	O
+onset	O
+of	O
+left	O
+knee	O
+pain	O
+in	O
+09/89	O
+.	O
+
+Since	O
+that	O
+time	O
+,	O
+she	O
+has	O
+used	O
+a	B-procedure
+cane	I-procedure
+and	O
+she	O
+was	O
+referred	O
+to	O
+Dr.	O
+Koors	O
+.	O
+
+MRI	B-procedure
+demonstrated	O
+a	O
+left	O
+femoral	O
+condyle	O
+osteonecrotic	O
+defect	O
+and	O
+degenerative	O
+meniscus	O
+.	O
+
+She	O
+climbs	O
+stairs	O
+one	O
+at	O
+a	O
+time	O
+and	O
+denied	O
+rest	O
+pain	O
+.	O
+
+She	O
+can	O
+one	O
+walk	O
+without	O
+difficulties	O
+.	O
+
+She	O
+presented	O
+for	O
+an	B-procedure
+elective	I-procedure
+left	I-procedure
+total	I-procedure
+knee	I-procedure
+arthroplasty	I-procedure
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+Pneumonia	O
+one	O
+and	O
+a	O
+half	O
+years	O
+ago	O
+.	O
+
+Hepatitis	O
+35	O
+years	O
+ago	O
+.	O
+
+Anxiety	O
+neurosis	O
+for	O
+which	O
+she	O
+has	O
+received	O
+shock	B-procedure
+therapy	I-procedure
+in	O
+the	O
+past	O
+.	O
+
+PAST	O
+SURGICAL	O
+HISTORY	O
+:	O
+
+Total	B-procedure
+abdominal	I-procedure
+hysterectomy	I-procedure
+.	O
+
+MEDICATIONS	O
+:	O
+
+On	O
+admission	O
+included	O
+Tylenol	B-procedure
+.	O
+
+ALLERGIES	O
+:	O
+
+DOXEPIN	B-procedure
+CAUSES	O
+ITCHING	O
+.	O
+
+HABITS	O
+:	O
+
+The	O
+patient	O
+does	O
+not	O
+smoke	O
+.	O
+
+She	O
+drinks	O
+one	O
+to	O
+two	O
+glasses	O
+of	O
+scotch	O
+per	O
+day	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+On	O
+admission	O
+was	O
+only	O
+significant	O
+for	O
+her	B-procedure
+orthopaedic	I-procedure
+exam	I-procedure
+.	O
+
+Her	O
+left	O
+knee	O
+had	O
+5	O
+degrees	O
+of	O
+valgus	O
+,	O
+120	O
+degrees	O
+of	O
+flexion	O
+,	O
+full	O
+extension	O
+and	O
+slight	O
+valgus	O
+instability	O
+.	O
+
+She	O
+had	O
+no	O
+Lachmann	O
+or	O
+anterior	O
+drawer	O
+,	O
+she	O
+did	O
+have	O
+a	O
+mild	O
+effusion	O
+.	O
+
+She	O
+had	O
+normal	O
+sensation	O
+and	O
+pulses	O
+in	O
+both	O
+legs	O
+.	O
+
+LABORATORY	O
+DATA	O
+:	O
+
+On	O
+admission	O
+included	O
+a	B-procedure
+hematocrit	I-procedure
+of	O
+34.2	O
+.	O
+
+Potassium	B-procedure
+4.4	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+was	O
+cleared	O
+for	O
+surgery	B-procedure
+by	O
+Dr.	O
+Lupevickette	O
+Ca	O
+.	O
+
+Her	B-procedure
+EKG	I-procedure
+was	O
+normal	O
+.	O
+
+She	O
+was	O
+therefore	O
+taken	O
+to	O
+the	O
+Operating	O
+Room	O
+on	O
+6/26	O
+and	O
+underwent	O
+a	B-procedure
+left	I-procedure
+total	I-procedure
+knee	I-procedure
+arthroplasty	I-procedure
+losing	O
+200	O
+cc	O
+of	O
+blood	O
+in	O
+the	B-procedure
+procedure	I-procedure
+with	O
+two	B-procedure
+drains	I-procedure
+left	O
+in	O
+which	O
+were	O
+removed	O
+on	O
+the	O
+first	O
+postoperative	O
+day	O
+.	O
+
+She	O
+was	O
+slightly	O
+agitated	O
+on	O
+the	O
+first	O
+postoperative	O
+day	O
+but	O
+this	O
+resolved	O
+by	O
+the	O
+second	O
+postoperative	O
+day	O
+.	O
+
+Her	B-procedure
+epidural	I-procedure
+catheter	I-procedure
+was	O
+removed	O
+on	O
+6/29	O
+.	O
+
+The	B-procedure
+Foley	I-procedure
+catheter	I-procedure
+was	O
+removed	O
+on	O
+6/29	O
+and	O
+she	O
+had	O
+no	O
+difficulties	O
+voiding	O
+.	O
+
+Psychiatry	O
+Service	O
+saw	O
+her	O
+on	O
+6/28	O
+and	O
+recommended	O
+avoiding	O
+benzodiazepines	B-procedure
+and	O
+Haldol	B-procedure
+for	O
+agitation	O
+.	O
+
+She	O
+was	O
+prophylaxed	O
+with	O
+Kefzol	B-procedure
+perioperatively	O
+and	O
+with	O
+Coumadin	B-procedure
+postoperatively	O
+.	O
+
+She	O
+was	O
+also	O
+given	O
+whiskey	B-procedure
+spirits	I-procedure
+because	O
+of	O
+the	O
+fact	O
+that	O
+she	O
+drank	O
+one	O
+to	O
+two	O
+drinks	O
+of	O
+scotch	O
+per	O
+day	O
+.	O
+
+Her	B-procedure
+hematocrit	I-procedure
+was	O
+31.4	O
+on	O
+6/29	O
+with	O
+a	B-procedure
+PT	I-procedure
+of	O
+18.2	O
+
+Her	B-procedure
+PT	I-procedure
+drifted	O
+down	O
+to	O
+a	O
+level	O
+of	O
+12.9	O
+by	O
+7/3	O
+and	O
+therefore	O
+she	O
+will	O
+be	O
+discharged	O
+with	O
+4	O
+mg	O
+of	O
+Coumadin	B-procedure
+per	O
+day	O
+to	O
+be	O
+followed	O
+by	O
+the	O
+Coumadin	O
+Clinic	O
+at	O
+Cowerin	O
+Tonli	O
+Medical	O
+Center	O
+.	O
+
+She	O
+was	O
+discharged	O
+with	O
+a	O
+prescription	O
+for	O
+Tylenol	B-procedure
+#3	I-procedure
+with	O
+Physical	B-procedure
+Therapy	I-procedure
+.	O
+
+She	O
+did	O
+quite	O
+well	O
+with	O
+Physical	B-procedure
+Therapy	I-procedure
+and	O
+was	O
+ambulating	O
+with	O
+a	B-procedure
+walker	I-procedure
+and	O
+crutches	B-procedure
+by	O
+7/3/90	O
+.	O
+
+She	O
+was	O
+able	O
+to	O
+flex	O
+her	O
+knees	O
+to	O
+90	O
+degrees	O
+by	O
+that	O
+time	O
+.	O
+
+She	O
+developed	O
+no	O
+problems	O
+with	O
+edema	O
+or	O
+with	O
+her	O
+wound	O
+during	O
+her	O
+hospital	O
+stay	O
+.	O
+
+She	O
+will	O
+follow-up	O
+with	O
+Dr.	O
+Koors	O
+in	O
+approximately	O
+five	O
+weeks	O
+.	O
+
+________________________________	O
+
+IA605/6041	O
+DE	O
+KOORS	O
+,	O
+M.D.	O
+CU2	O
+
+D	O
+:	O
+
+07/03/90	O
+
+Batch	O
+:	O
+
+1726	O
+
+Report	O
+:	O
+
+J0929X49	O
+
+T	O
+:	O
+
+07/04/90	O
+
+Dicatated	O
+By	O
+:	O
+
+LENTNY	O
+FARSTNAPPSSHEE	O
+,	O
+M.D.	O
+
+Admission	O
+Date	O
+:	O
+
+2019-09-27	O
+
+Discharge	O
+Date	O
+:	O
+
+2019-10-07	O
+
+Date	O
+of	O
+Birth	O
+:	O
+
+1959-01-27	O
+
+Sex	O
+:	O
+
+M	O
+
+Service	O
+:	O
+
+CARDIOTHORACIC	O
+
+Allergies	O
+:	O
+
+Patient	O
+recorded	O
+as	O
+having	O
+No	O
+Known	O
+Allergies	O
+to	O
+Drugs	O
+
+Attending	O
+:	O
+Luis	O
+JG	O
+Lavoie	O
+,	O
+M.D.	O
+
+Chief	O
+Complaint	O
+:	O
+
+exertional	O
+angina	O
+
+Major	O
+Surgical	O
+or	O
+Invasive	O
+Procedure	O
+:	O
+
+10-01	O
+CABG	B-procedure
+x	O
+3	O
+
+History	O
+of	O
+Present	O
+Illness	O
+:	O
+
+60	O
+yo	O
+M	O
+with	O
+exertional	O
+angina	O
+->	O
+positive	O
+ETT	O
+->	O
+cath	B-procedure
+with	O
+severe	O
+3VD	O
+
+Past	O
+Medical	O
+History	O
+:	O
+
+HTN	O
+
+DM	O
+
+cataracts	O
+s/p	O
+removal	B-procedure
+of	O
+in	O
+Mayotte	O
+c/b	O
+enucleated	O
+CMED	O
+CSRU	O
+
+urinary	O
+incontinence	O
+
+Social	O
+History	O
+:	O
+
+farmer	O
+in	O
+Mayotte	O
+
+-	O
+tob	O
+
+-	O
+etoh	O
+
+lives	O
+with	O
+wife	O
+and	O
+oldest	O
+son	O
+
+Family	O
+History	O
+:	O
+
+father	O
+with	O
+?	O
+Mi	O
+at	O
+unknown	O
+age	O
+
+Physical	O
+Exam	O
+:	O
+
+NAD	B-procedure
+76	O
+184/87	O
+18	O
+
+Teeth	O
+in	O
+poor	O
+repair	O
+
+lungs	O
+ctab	O
+ant	O
+/	O
+lat	O
+
+distant	O
+heart	O
+sounds	O
+,	O
+RRR	O
+
+Abdomen	O
+benign	O
+
+extrem	O
+warm	O
+,	O
+no	O
+edema	O
+,	O
+no	O
+varicosities	O
+,	O
+2+	O
+pedal	B-procedure
+pulses	I-procedure
+
+Pertinent	O
+Results	O
+:	O
+
+2019-10-07	O
+05:30	O
+AM	O
+BLOOD	B-procedure
+WBC	B-procedure
+-	O
+6.5	O
+RBC	B-procedure
+-	O
+3.23	O
+*	O
+Hgb	B-procedure
+-	O
+9.5	O
+*	O
+Hct	B-procedure
+-	O
+27.6	O
+*	O
+MCV	B-procedure
+-	O
+86	O
+MCH	B-procedure
+-	O
+29.4	O
+MCHC	B-procedure
+-	O
+34.4	O
+RDW	B-procedure
+-	O
+14.0	O
+Plt	B-procedure
+Ct	I-procedure
+-	O
+356	O
+#	O
+
+2019-10-07	O
+05:30	O
+AM	O
+BLOOD	B-procedure
+Plt	B-procedure
+Ct	I-procedure
+-	O
+356	O
+#	O
+
+2019-10-04	O
+06:50	O
+AM	O
+BLOOD	B-procedure
+PT	B-procedure
+-	O
+13.2	O
+*	O
+PTT	B-procedure
+-	O
+32.1	O
+INR(PT)	B-procedure
+-	O
+1.2	O
+*	O
+
+2019-10-07	O
+05:30	O
+AM	O
+BLOOD	B-procedure
+Glucose	B-procedure
+-	O
+156	O
+*	O
+UreaN	B-procedure
+-	O
+20	O
+Creat	B-procedure
+-	O
+1.0	O
+Na	B-procedure
+-	O
+140	O
+K	B-procedure
+-	O
+3.8	O
+Cl	B-procedure
+-	O
+99	O
+HCO3	B-procedure
+-	O
+31	O
+AnGap	B-procedure
+-	O
+14	O
+
+Brief	O
+Hospital	O
+Course	O
+:	O
+
+He	O
+was	O
+taken	O
+to	O
+the	O
+operating	O
+room	O
+on	O
+2019-10-01	O
+where	O
+he	O
+underwent	O
+a	B-procedure
+CABG	I-procedure
+x	O
+3	O
+.	O
+
+He	O
+was	O
+transferred	O
+to	O
+the	O
+CMED	O
+CCU	O
+in	O
+critical	O
+but	O
+stable	O
+condition	O
+.	O
+
+He	O
+was	O
+extubated	O
+by	O
+POD	O
+#1	O
+.	O
+
+He	O
+was	O
+weaned	O
+from	O
+his	B-procedure
+vasoactive	I-procedure
+drips	I-procedure
+and	O
+transferred	O
+to	O
+the	O
+floor	O
+on	O
+POD	O
+#2	O
+.	O
+
+He	O
+was	O
+seen	O
+by	O
+speech	O
+and	O
+swallowing	O
+who	O
+recommended	O
+NPO	B-procedure
+,	O
+he	O
+then	O
+underwent	O
+a	B-procedure
+video	I-procedure
+swallow	I-procedure
+after	O
+which	O
+he	O
+was	O
+changed	O
+to	O
+a	B-procedure
+diet	I-procedure
+of	I-procedure
+thin	I-procedure
+liquids	I-procedure
+and	I-procedure
+soft	I-procedure
+solids	I-procedure
+,	O
+and	O
+felt	O
+that	O
+his	O
+eeating	O
+may	O
+be	O
+limited	O
+by	O
+his	O
+loose	O
+teeth	O
+.	O
+
+Dentistry	O
+and	O
+OMFS	O
+were	O
+consulted	O
+,	O
+and	O
+he	O
+had	O
+four	O
+front	O
+teeth	O
+removed	O
+on	O
+10-04	O
+.	O
+
+He	O
+did	O
+well	O
+post	O
+operatively	O
+and	O
+he	O
+was	O
+ready	O
+for	O
+discharge	O
+on	O
+2019-10-07	O
+.	O
+
+Medications	O
+on	O
+Admission	O
+:	O
+
+lisinopril	B-procedure
+,	O
+protonix	B-procedure
+,	O
+glipizide	B-procedure
+,	O
+metformin	B-procedure
+,	O
+asa	B-procedure
+
+Discharge	O
+Medications	O
+:	O
+
+1.	O
+Aspirin	B-procedure
+81	O
+mg	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+2.	O
+Pantoprazole	B-procedure
+40	O
+mg	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+PO	O
+Q24H	O
+(	O
+every	O
+24	O
+hours	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+3.	O
+Metoprolol	B-procedure
+Tartrate	I-procedure
+50	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+BID	O
+(	O
+2	O
+times	O
+a	O
+day	O
+).	O
+
+Disp	O
+:*	O
+60	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+4.	O
+Docusate	B-procedure
+Sodium	I-procedure
+150	O
+mg	O
+/	O
+15	O
+mL	O
+Liquid	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+PO	O
+BID	O
+(	O
+2	O
+times	O
+a	O
+day	O
+).	O
+
+Disp	O
+:*	O
+QS	O
+1	O
+month	O
+*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+5.	O
+Oxycodone	B-procedure
+-	O
+Acetaminophen	B-procedure
+5-325	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+1-2	O
+Tablets	O
+PO	O
+every	O
+4-6	O
+hours	O
+as	O
+needed	O
+for	O
+pain	O
+.	O
+
+Disp	O
+:*	O
+50	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+6.	O
+Clopidogrel	B-procedure
+75	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+7.	O
+Atorvastatin	B-procedure
+10	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+8.	O
+Glipizide	B-procedure
+5	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+BID	O
+(	O
+2	O
+times	O
+a	O
+day	O
+).	O
+
+Disp	O
+:*	O
+60	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+9.	O
+Lisinopril	B-procedure
+10	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+10.	O
+Hydrochlorothiazide	B-procedure
+25	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+once	O
+a	O
+day	O
+.	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+Discharge	O
+Disposition	O
+:	O
+
+Home	O
+with	O
+Service	O
+
+Discharge	O
+Diagnosis	O
+:	O
+
+CAD	O
+
+HTN	O
+
+DM	O
+
+cataracts	O
+s/p	O
+removal	B-procedure
+c/b	O
+enucleated	O
+left	O
+CMED	O
+CSRU	O
+
+urinary	O
+incontinence	O
+
+?	O
+TIA	O
+
+Discharge	O
+Condition	O
+:	O
+
+Good	O
+.	O
+
+Discharge	O
+Instructions	O
+:	O
+
+Call	O
+with	O
+fever	O
+,	O
+redness	O
+or	O
+drainage	O
+from	O
+incision	O
+or	O
+weight	O
+gain	O
+more	O
+than	O
+2	O
+pounds	O
+in	O
+one	O
+day	O
+or	O
+five	O
+in	O
+one	O
+week	O
+.	O
+
+Shower	O
+,	O
+no	O
+baths	O
+,	O
+no	O
+lotions	B-procedure
+,	O
+creams	B-procedure
+or	O
+powders	B-procedure
+to	O
+incisions	O
+.	O
+
+No	O
+lifting	O
+more	O
+than	O
+10	O
+pounds	O
+or	O
+driving	O
+until	O
+follow	O
+up	O
+with	O
+surgeon	O
+.	O
+
+Followup	O
+Instructions	O
+:	O
+
+Dr.	O
+Dewhurst	O
+2	O
+weeks	O
+
+Dr.	O
+Burns	O
+4	O
+weeks	O
+
+Chad	O
+Barbara	O
+MD	O
+49-703	O
+
+Completed	O
+by	O
+:	O
+Theresa	O
+Leonore	O
+NP	O
+80-BXH	O
+2019-10-07	O
+@	O
+1229	O
+
+Signed	O
+electronically	O
+by	O
+:	O
+DR.	O
+Eugene	O
+Offutt	O
+on	O
+:	O
+MON	O
+2019-10-07	O
+12:44	O
+PM	O
+
+(	O
+End	O
+of	O
+Report	O
+)	O
+
+156406283	O
+
+HLGMC	O
+
+7213645	O
+
+64723/51cy	O
+
+5/28/1993	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ADMISSION	O
+DATE	O
+:	O
+
+5-28-93	O
+
+DISCHARGE	O
+DATE	O
+:	O
+
+6-4-93	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+The	O
+patient	O
+is	O
+a	O
+58	O
+year	O
+old	O
+right	O
+hand	O
+dominant	O
+white	O
+male	O
+with	O
+a	O
+long	O
+history	O
+of	O
+hypertension	O
+,	O
+changed	O
+his	B-procedure
+medications	I-procedure
+from	O
+Aldomet	B-procedure
+to	O
+Clonidine	B-procedure
+six	O
+weeks	O
+ago	O
+.	O
+
+The	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+adult	O
+onset	O
+diabetes	O
+mellitus	O
+,	O
+ankylosing	O
+spondylitis	O
+,	O
+status	O
+post	O
+myocardial	O
+infarction	O
+in	O
+&apos;96	O
+(	O
+?	O
+)	O
+now	O
+with	O
+acute	O
+onset	O
+of	O
+left	O
+face	O
+and	O
+arm	O
+greater	O
+than	O
+leg	O
+hemiplegia	O
+and	O
+primary	O
+hemisensory	O
+loss	O
+on	O
+the	O
+left	O
+.	O
+
+Briefly	O
+,	O
+he	O
+was	O
+talking	O
+to	O
+a	O
+friend	O
+at	O
+5:30	O
+p.m.	O
+the	O
+day	O
+prior	O
+to	O
+admission	O
+,	O
+when	O
+he	O
+had	O
+to	O
+grab	O
+his	O
+locker	O
+and	O
+sit	O
+down	O
+.	O
+
+His	O
+voice	O
+became	O
+slurred	O
+and	O
+he	O
+had	O
+a	O
+mild	O
+central	O
+dull	O
+headache	O
+.	O
+
+He	O
+was	O
+unable	O
+to	O
+move	O
+the	O
+left	O
+side	O
+of	O
+his	O
+body	O
+and	O
+felt	O
+numb	O
+on	O
+that	O
+side	O
+.	O
+
+He	O
+was	O
+taken	O
+to	O
+Wayskemedcalltown	O
+Talmi	O
+and	O
+transferred	O
+to	O
+Heaonboburg	O
+Linpack	O
+Grant	O
+Medical	O
+Center	O
+with	O
+a	B-procedure
+computerized	I-procedure
+tomography	I-procedure
+scan	I-procedure
+showing	O
+a	O
+1x2	O
+thalamic	O
+capsular	O
+hemorrhage	O
+without	O
+superficial	O
+mass	O
+effect	O
+.	O
+
+His	B-procedure
+blood	I-procedure
+pressure	I-procedure
+was	O
+220/110	O
+there	O
+.	O
+
+He	O
+denies	O
+any	O
+visual	O
+symptoms	O
+or	O
+cortical-type	O
+symptoms	O
+.	O
+
+He	O
+is	O
+a	O
+heavy	O
+smoker	O
+and	O
+drinks	O
+2-3	O
+shots	O
+per	O
+day	O
+at	O
+times	O
+.	O
+
+MEDICATIONS	O
+ON	O
+ADMISSION	O
+:	O
+
+Vasotec	B-procedure
+40	O
+mg	O
+q.day	O
+,	O
+Soma	B-procedure
+1	O
+tablet	O
+q.day	O
+,	O
+Demerolprn	B-procedure
+,	O
+Clonidine	B-procedure
+.	O
+
+ALLERGIES	O
+:	O
+
+The	O
+patient	O
+has	O
+no	O
+known	O
+drug	O
+allergies	O
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+As	O
+described	O
+above	O
+.	O
+
+FAMILY	O
+HISTORY	O
+:	O
+
+The	O
+family	O
+history	O
+is	O
+positive	O
+for	O
+diabetes	O
+mellitus	O
+,	O
+positive	O
+for	O
+cancer	O
+.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+
+The	O
+patient	O
+lives	O
+with	O
+two	O
+people	O
+in	O
+Cinglendda	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+On	B-procedure
+physical	I-procedure
+examination	I-procedure
+,	O
+patient	O
+is	O
+in	O
+no	O
+acute	O
+distress	O
+,	O
+afebrile	O
+,	O
+blood	B-procedure
+pressure	I-procedure
+134/80	O
+,	O
+heart	B-procedure
+rate	I-procedure
+80	O
+and	O
+regular	O
+,	O
+no	O
+bruits	O
+.	O
+
+Cardiovascular	B-procedure
+exam	I-procedure
+:	O
+
+regular	O
+rate	O
+and	O
+rhythm	O
+with	O
+a	O
+I/VI	O
+systolic	O
+ejection	O
+murmur	O
+.	O
+
+His	O
+lungs	O
+were	O
+clear	O
+to	O
+auscultation	B-procedure
+and	O
+percussion	B-procedure
+.	O
+
+The	O
+abdomen	O
+was	O
+soft	O
+and	O
+non-tender	O
+,	O
+obese	O
+,	O
+with	O
+normal	O
+bowel	O
+sounds	O
+.	O
+
+Back	O
+and	O
+neck	O
+were	O
+stiff	O
+and	O
+sore	O
+,	O
+without	O
+localizing	O
+tenderness	O
+.	O
+
+On	O
+neurological	B-procedure
+examination	I-procedure
+,	O
+mental	O
+status	O
+alert	O
+and	O
+oriented	O
+x	O
+three	O
+,	O
+good	O
+memory	O
+,	O
+fluent	O
+speech	O
+,	O
+good	O
+repetition	O
+and	O
+naming	O
+.	O
+
+Able	O
+to	O
+describe	O
+two	O
+routes	O
+from	O
+house	O
+to	O
+the	O
+CMH	O
+.	O
+
+The	O
+cranial	O
+nerves	O
+showed	O
+full	O
+visual	O
+fields	O
+without	O
+extinction	O
+,	O
+pupils	O
+5	O
+to	O
+3	O
+bilaterally	O
+and	O
+equal	O
+,	O
+disks	O
+flat	O
+,	O
+lower	O
+left	O
+facial	O
+decreased	O
+sensation	O
+to	O
+temperature	O
+,	O
+pin	B-procedure
+prick	I-procedure
+on	O
+the	O
+left	O
+V1	O
+through	O
+V3	O
+,	O
+tongue	O
+deviates	O
+to	O
+the	O
+left	O
+,	O
+good	O
+gag	O
+,	O
+decreased	O
+shrug	O
+on	O
+the	O
+left	O
+.	O
+
+Motor	B-procedure
+examination	I-procedure
+showed	O
+full	O
+power	O
+on	O
+the	O
+right	O
+arm	O
+and	O
+leg	O
+,	O
+could	O
+barely	O
+flex	O
+fingers	O
+of	O
+the	O
+left	O
+hand	O
+,	O
+pulls	O
+left	O
+arm	O
+medially	O
+only	O
+.	O
+
+Left	O
+leg	O
+could	O
+flex	O
+2/5	O
+and	O
+wiggle	O
+toes	O
+.	O
+
+On	O
+sensory	B-procedure
+examination	I-procedure
+,	O
+had	O
+decreased	O
+pin	O
+prick	O
+,	O
+temperature	O
+,	O
+vibration	O
+in	O
+the	O
+left	O
+side	O
+of	O
+the	O
+body	O
+.	O
+
+The	B-procedure
+finger-to-nose	I-procedure
+was	O
+okay	O
+on	O
+the	O
+right	O
+.	O
+
+On	O
+reflex	B-procedure
+examination	I-procedure
+,	O
+2	O
+on	O
+the	O
+right	O
+upper	O
+extremity	O
+,	O
+2+	O
+on	O
+the	O
+left	O
+upper	O
+extremity	O
+,	O
+2	O
+on	O
+the	O
+right	O
+knee	O
+,	O
+0	O
+on	O
+the	O
+right	O
+ankle	O
+,	O
+with	O
+down	O
+going	O
+toe	O
+on	O
+the	O
+right	O
+.	O
+
+Three	O
+on	O
+the	O
+left	O
+knee	O
+,	O
+4	O
+on	O
+the	O
+left	O
+ankle	O
+with	O
+upgoing	O
+toe	O
+and	O
+clonus	O
+on	O
+the	O
+left	O
+.	O
+
+LABORATORY	O
+DATA	O
+:	O
+
+Electrolytes	B-procedure
+were	O
+within	O
+normal	O
+limits	O
+,	O
+glucose	B-procedure
+192	O
+,	O
+BUN	B-procedure
+and	O
+creatinine	B-procedure
+9/0.7	O
+,	O
+hematocrit	B-procedure
+49.5	O
+,	O
+white	B-procedure
+blood	I-procedure
+count	I-procedure
+7.9	O
+,	O
+platelet	B-procedure
+count	I-procedure
+166,000	O
+,	O
+65%	O
+polys	B-procedure
+,	O
+3	O
+bands	B-procedure
+,	O
+24%	O
+lymphs	B-procedure
+.	O
+
+The	B-procedure
+electrocardiogram	I-procedure
+showed	O
+normal	O
+sinus	O
+rhythm	O
+with	O
+old	O
+Q	O
+wave	O
+inferior	O
+myocardial	O
+infarction	O
+.	O
+
+Head	B-procedure
+computerized	I-procedure
+tomography	I-procedure
+scan	I-procedure
+showed	O
+1.5	O
+to	O
+2	O
+centimeter	O
+bleed	O
+in	O
+the	O
+right	O
+thalamus	O
+extending	O
+to	O
+the	O
+internal	O
+capsule	O
+with	O
+mild	O
+distortion	O
+only	O
+,	O
+no	O
+shift	O
+.	O
+
+The	B-procedure
+chest	I-procedure
+X-ray	I-procedure
+was	O
+clear	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+the	O
+floor	O
+for	O
+observation	O
+.	O
+
+The	B-procedure
+neurological	I-procedure
+examination	I-procedure
+on	O
+discharge	O
+was	O
+no	O
+movement	O
+in	O
+the	O
+hand	O
+on	O
+the	O
+left	O
+or	O
+arm	O
+.	O
+
+Slight	O
+abductive	O
+and	O
+adductive	O
+movement	O
+on	O
+the	O
+left	O
+only	O
+in	O
+the	O
+upper	O
+extremity	O
+.	O
+
+On	O
+the	O
+lower	O
+extremity	O
+,	O
+could	O
+wiggle	B-procedure
+toes	I-procedure
+,	O
+flexor	B-procedure
+and	O
+plantar	B-procedure
+,	O
+3+/5	O
+,	O
+quadriceps	O
+4/5	O
+on	O
+the	O
+left	O
+.	O
+
+2.	O
+hypertension	O
+.	O
+
+The	O
+patient	O
+was	O
+managed	O
+with	O
+Vasotec	B-procedure
+,	O
+Nifedipine	B-procedure
+and	O
+Clonidine	B-procedure
+with	O
+blood	B-procedure
+pressure	I-procedure
+under	O
+good	O
+control	O
+at	O
+the	O
+time	O
+of	O
+discharge	O
+,	O
+average	O
+125	O
+systolic	B-procedure
+,	O
+70	O
+diastolic	B-procedure
+,	O
+heart	B-procedure
+rate	I-procedure
+of	O
+72	O
+.	O
+
+Also	O
+managed	O
+with	O
+Valium	B-procedure
+5	O
+mg	O
+PO	O
+t.i.d.	O
+
+Muscle	O
+spasms	O
+were	O
+managed	O
+with	O
+Flexeril	B-procedure
+10	O
+PO	O
+t.i.d.	O
+
+3.	O
+diabetes	O
+mellitus	O
+.	O
+
+The	O
+patient	O
+was	O
+started	O
+on	O
+2.5	O
+of	O
+Micronase	B-procedure
+with	O
+resulting	B-procedure
+sugars	I-procedure
+as	O
+low	O
+as	O
+63	O
+,	O
+decreased	O
+to	O
+1.25	O
+mg	O
+q.day	O
+.	O
+
+The	O
+patient	O
+is	O
+discharged	O
+in	O
+fair	O
+condition	O
+with	O
+medical	O
+approval	O
+to	O
+the	O
+Pasi	O
+.	O
+
+MEDICATIONS	O
+ON	O
+DISCHARGE	O
+:	O
+
+Vasotec	B-procedure
+20	O
+mg	O
+PO	O
+b.i.d.	O
+,	O
+Clonidine	B-procedure
+0.2	O
+mg	O
+PO	O
+b.i.d.	O
+,	O
+Nifedipine	B-procedure
+20	O
+mg	O
+PO	O
+t.i.d.	O
+,	O
+Flexeril	B-procedure
+10	O
+mg	O
+PO	O
+t.i.d.	O
+,	O
+Valium	B-procedure
+5	O
+mg	O
+PO	O
+t.i.d.	O
+,	O
+Micronase	B-procedure
+1.25	O
+mg	O
+q.day	O
+.	O
+
+ADVERSE	O
+DRUG	O
+REACTIONS	O
+:	O
+
+The	O
+patient	O
+was	O
+found	O
+to	O
+be	O
+allergic	O
+to	O
+Percocet	B-procedure
+and	O
+Percodan	B-procedure
+during	O
+his	O
+hospital	O
+course	O
+.	O
+
+DISCHARGE	O
+DIAGNOSIS	O
+:	O
+
+Right	O
+thalamic	O
+hemorrhage	O
+,	O
+hypertension	O
+,	O
+diabetes	O
+mellitus	O
+.	O
+
+ROBTHER	O
+TIMES	O
+,	O
+M.D.	O
+
+DICTATING	O
+FOR	O
+:	O
+
+SHAA	O
+LEFT	O
+,	O
+M.D.	O
+
+TR	O
+:	O
+
+nj	O
+/	O
+bmot	O
+
+DD	O
+:	O
+
+6-4-93	O
+
+TD	O
+:	O
+
+06/04/93	O
+
+CC	O
+:	O
+
+Dr.	O
+Namarce	O
+Aldridge	O
+Pasi	O
+STAT	O
+
+245317863	O
+WGH	O
+
+9156109	O
+
+780576	O
+
+0720567	O
+
+04/20/2005	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+/	O
+SUMMARY	O
+
+KOORSKOTE	O
+,	O
+RETCO	O
+
+MRN	O
+:	O
+
+9156109	O
+
+Age	O
+:	O
+
+26y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+04/20/2005	O
+10:30	O
+PM	O
+
+Provider	O
+:	O
+
+HE	O
+HERDES	O
+
+PRELIMINARY	O
+REPORT	O
+
+PCP	O
+notified	O
+by	O
+MD	O
+:	O
+
+E-mail	O
+PCP	O
+
+Benefits	O
+Assigned	O
+:	O
+
+Y	O
+
+Discharge	O
+Note	O
+Date	O
+/	O
+Time	O
+:	O
+
+04/21/2005	O
+05:25	O
+
+Discharge	O
+Status	O
+:	O
+
+Discharged	O
+
+Condition	O
+on	O
+Discharge	O
+:	O
+
+Stable	O
+
+Patient	O
+States	O
+Complaint	O
+:	O
+
+RLQ	O
+PAIN	O
+
+Standardized	O
+Discharge	O
+Instructions	O
+:	O
+
+The	O
+patient	O
+was	O
+given	O
+printed	O
+instructions	O
+for	O
+kidney	O
+stones	O
+(	O
+English	O
+)	O
+.	O
+
+Diagnosis	O
+:	O
+
+likely	O
+recently	O
+passed	O
+kidney	O
+stone	O
+
+Treatment	O
+Rendered	O
+:	O
+
+history	O
+,	O
+physical	B-procedure
+,	O
+lab	B-procedure
+,	O
+Abdominal	B-procedure
+CT	I-procedure
+scan	I-procedure
+
+Discharge	O
+Medications	O
+:	O
+
+Motrin	B-procedure
+as	O
+needed	O
+
+Follow	O
+up	O
+Service	O
+:	O
+
+Please	O
+follow	O
+up	O
+with	O
+your	O
+primary	O
+care	O
+physician	O
+within	O
+the	O
+next	O
+week	O
+.	O
+
+Also	O
+please	O
+follow	O
+up	O
+with	O
+urology	O
+regarding	O
+management	B-procedure
+of	O
+your	O
+kidney	O
+stones	O
+.	O
+
+Disposition	O
+,	O
+Follow	O
+up	O
+and	O
+Instructions	O
+to	O
+Patient	O
+:	O
+
+Please	O
+return	O
+if	O
+your	O
+symptoms	O
+return	O
+,	O
+you	O
+develop	O
+a	O
+fever	O
+.	O
+
+PCP	O
+Name	O
+:	O
+
+KOTEKOTEPRUESS	O
+,	O
+SUSNUM	O
+
+Provider	O
+Number	O
+:	O
+
+43264	O
+
+This	O
+report	O
+was	O
+created	O
+by	O
+HERDES	O
+,	O
+NEWSHALIE	O
+04/21/2005	O
+06:47	O
+AM	O
+
+596437842	O
+
+CTMC	O
+
+63056604	O
+
+547591	O
+
+02/08/1991	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Signed	O
+
+DIS	O
+
+Admission	O
+Date	O
+:	O
+
+02/08/1991	O
+
+Report	O
+Status	O
+:	O
+
+Signed	O
+
+Discharge	O
+Date	O
+:	O
+
+02/18/1991	O
+
+DISCHARGE	O
+DIAGNOSES	O
+:	O
+
+1)	O
+ACQUIRED	O
+IMMUNODEFICIENCY	O
+SYNDROME	O
+.	O
+
+2)	O
+PNEUMOCYSTIS	O
+CARINII	O
+PNEUMONIA	O
+.	O
+
+3)	O
+ADULT	O
+RESPIRATORY	O
+DISTRESS	O
+SYNDROME	O
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+Mr.	O
+Breutzfarstxei	O
+is	O
+a	O
+30	O
+year	O
+old	O
+man	O
+with	O
+recently	O
+diagnosed	O
+acquired	O
+immunodeficiency	O
+syndrome	O
+and	O
+Pneumocystis	O
+carinii	O
+pneumonia	O
+who	O
+presented	O
+with	O
+pneumonia	O
+,	O
+developed	O
+adult	O
+respiratory	O
+distress	O
+syndrome	O
+,	O
+and	O
+died	O
+in	O
+the	O
+hospital	O
+after	O
+failed	O
+efforts	O
+of	O
+ventilatory	B-procedure
+support	I-procedure
+.	O
+
+Mr.	O
+Breutzfarstxei	O
+was	O
+recently	O
+diagnosed	O
+with	O
+acquired	O
+immunodeficiency	O
+syndrome	O
+when	O
+he	O
+had	O
+Pneumocystis	O
+carinii	O
+pneumonia	O
+on	O
+01/17/91	O
+.	O
+
+He	O
+was	O
+admitted	O
+to	O
+the	O
+Retelk	O
+County	O
+Medical	O
+Center	O
+at	O
+that	O
+time	O
+and	O
+was	O
+treated	O
+with	O
+Bactrim	B-procedure
+and	O
+steroids	B-procedure
+.	O
+
+He	O
+was	O
+actually	O
+intubated	O
+and	O
+underwent	O
+bronchoscopy	B-procedure
+where	O
+the	O
+diagnosis	O
+was	O
+made	O
+with	O
+a	O
+positive	O
+toluidine	O
+blue	O
+study	O
+.	O
+
+He	O
+initially	O
+did	O
+well	O
+after	O
+extubation	B-procedure
+and	O
+completed	O
+approximately	O
+two	O
+weeks	O
+of	O
+Bactrim	B-procedure
+and	O
+a	B-procedure
+steroid	I-procedure
+taper	I-procedure
+.	O
+
+At	O
+discharge	O
+after	O
+about	O
+two	O
+weeks	O
+post-extubation	O
+,	O
+he	O
+had	O
+an	O
+O2	B-procedure
+saturation	I-procedure
+of	O
+approximately	O
+95%	O
+on	O
+room	O
+air	O
+.	O
+
+He	O
+was	O
+seen	O
+by	O
+Dr.	O
+Seen	O
+and	O
+Dr.	O
+Seen	O
+as	O
+an	O
+out-patient	O
+.	O
+
+On	O
+02/06/91	O
+,	O
+he	O
+was	O
+seen	O
+in	O
+FLFDMC	O
+and	O
+at	O
+that	O
+point	O
+,	O
+his	B-procedure
+temperature	I-procedure
+was	O
+noted	O
+to	O
+be	O
+101.4	O
+and	O
+he	O
+had	O
+malaise	O
+and	O
+diarrhea	O
+.	O
+
+He	O
+was	O
+evaluated	O
+in	O
+the	O
+Emergency	O
+Room	O
+.	O
+
+At	O
+that	O
+time	O
+,	O
+his	B-procedure
+oxygen	I-procedure
+saturation	I-procedure
+was	O
+only	O
+90%	O
+on	O
+room	O
+air	O
+and	O
+his	B-procedure
+chest	I-procedure
+X-Ray	I-procedure
+showed	O
+no	O
+change	O
+.	O
+
+Cultures	B-procedure
+were	O
+taken	O
+and	O
+he	O
+was	O
+sent	O
+out	O
+.	O
+
+On	O
+02/08/91	O
+,	O
+the	O
+patient	O
+called	O
+Dr.	O
+Seen	O
+because	O
+of	O
+increased	O
+shortness	O
+of	O
+breath	O
+and	O
+malaise	O
+.	O
+
+He	O
+was	O
+seen	O
+in	O
+FLFDMC	O
+where	O
+he	O
+was	O
+noted	O
+to	O
+have	O
+jaundice	O
+and	O
+newly	O
+palpable	O
+liver	O
+edge	O
+.	O
+
+Review	O
+of	O
+liver	B-procedure
+function	I-procedure
+tests	I-procedure
+revealed	O
+a	O
+cholestatic	O
+picture	O
+which	O
+was	O
+not	O
+previously	O
+found	O
+and	O
+it	O
+was	O
+felt	O
+that	O
+this	O
+was	O
+secondary	O
+to	O
+the	B-procedure
+Bactrim	I-procedure
+which	O
+had	O
+been	O
+recently	O
+stopped	O
+anyway	O
+.	O
+
+His	B-procedure
+oxygen	I-procedure
+saturation	I-procedure
+at	O
+that	O
+time	O
+was	O
+only	O
+86%	O
+on	O
+room	O
+air	O
+and	O
+he	O
+was	O
+admitted	O
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+1)	O
+HIV	O
+positive	O
+with	O
+a	B-procedure
+CD4	I-procedure
+count	I-procedure
+of	O
+74	O
+.	O
+
+2)	O
+Recent	O
+PCP	O
+.	O
+
+3)	O
+Status	O
+post	O
+right	B-procedure
+elbow	I-procedure
+surgery	I-procedure
+.	O
+
+4)	O
+Venereal	O
+disease	O
+history	O
+.	O
+
+5)	O
+PPD	O
+anergic	O
+.	O
+
+The	O
+patient	O
+&apos;s	O
+HIV	O
+risk	O
+factors	O
+include	O
+history	O
+of	O
+intravenous	O
+drug	O
+abuse	O
+,	O
+prostitution	O
+,	O
+and	O
+a	O
+former	O
+prisoner	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+On	O
+presentation	O
+,	O
+the	O
+patient	O
+was	O
+a	O
+young	O
+appearing	O
+Hispanic	O
+male	O
+in	O
+mild	O
+respiratory	O
+distress	O
+with	O
+a	B-procedure
+blood	I-procedure
+pressure	I-procedure
+of	O
+140/90	O
+,	O
+heart	B-procedure
+rate	I-procedure
+120	O
+,	O
+respirations	B-procedure
+32	O
+,	O
+and	O
+temperature	B-procedure
+101	O
+.	O
+
+SKIN	O
+:	O
+
+Jaundiced	O
+.	O
+
+HEENT	O
+:	O
+
+Revealed	O
+icteric	O
+sclerae	O
+,	O
+the	O
+oropharynx	O
+with	O
+extensive	O
+thrush	O
+,	O
+and	O
+an	O
+ulcer	O
+under	O
+his	O
+tongue	O
+.	O
+
+NECK	O
+:	O
+
+He	O
+had	O
+no	O
+cervical	O
+adenopathy	O
+and	O
+his	O
+neck	O
+was	O
+supple	O
+.	O
+
+LUNGS	O
+:	O
+
+Had	O
+tubular	O
+breath	O
+sounds	O
+especially	O
+in	O
+the	O
+lower	O
+lung	O
+fields	O
+.	O
+
+CARDIAC	O
+:	O
+
+Showed	O
+regular	O
+rate	O
+and	O
+rhythm	O
+without	O
+murmurs	O
+,	O
+rubs	O
+,	O
+or	O
+gallops	O
+.	O
+
+There	O
+was	O
+no	O
+costovertebral	O
+angle	O
+tenderness	O
+.	O
+
+ABDOMEN	O
+:	O
+
+Soft	O
+with	O
+bowel	O
+sounds	O
+and	O
+there	O
+was	O
+mid	O
+epigastric	O
+and	O
+right	O
+upper	O
+quadrant	O
+tenderness	O
+.	O
+
+His	O
+liver	O
+was	O
+10	O
+cm	O
+and	O
+was	O
+felt	O
+three	O
+finger	O
+breadths	O
+below	O
+the	O
+costal	O
+margin	O
+.	O
+
+His	O
+spleen	O
+was	O
+not	O
+palpable	O
+.	O
+
+RECTAL	O
+:	O
+
+He	O
+had	O
+guaiac	O
+positive	O
+stools	O
+.	O
+
+EXTREMITIES	O
+:	O
+
+Unremarkable	O
+.	O
+
+GENITOURINARY	O
+:	O
+
+His	O
+penis	O
+had	O
+a	O
+1/2	O
+cm	O
+ulcer	O
+with	O
+yellowish	O
+discharge	O
+.	O
+
+NEUROLOGICAL	O
+:	O
+
+Non-focal	O
+.	O
+
+LABORATORY	O
+EXAMINATION	O
+:	O
+
+On	O
+admission	O
+,	O
+white	B-procedure
+count	I-procedure
+was	O
+7.2	O
+with	O
+57%	O
+neutrophils	B-procedure
+,	O
+40%	O
+lymphocytes	B-procedure
+,	O
+l	O
+mononuclear	B-procedure
+cell	I-procedure
+,	O
+and	O
+1.6	O
+eosinophils	B-procedure
+.	O
+
+PT	B-procedure
+was	O
+12.6	O
+and	O
+PTT	B-procedure
+was	O
+29	O
+.	O
+
+Sodium	B-procedure
+was	O
+133	O
+,	O
+potassium	B-procedure
+was	O
+4.2	O
+,	O
+chloride	B-procedure
+100	O
+,	O
+CO2	B-procedure
+19	O
+,	O
+BUN	B-procedure
+21	O
+,	O
+creatinine	B-procedure
+1.2	O
+,	O
+and	O
+glucose	B-procedure
+122	O
+.	O
+
+ALT	B-procedure
+was	O
+181	O
+,	O
+AST	B-procedure
+was	O
+156	O
+,	O
+LDH	B-procedure
+was	O
+336	O
+,	O
+alkaline	B-procedure
+phosphatase	I-procedure
+was	O
+214	O
+,	O
+and	O
+bilirubin	B-procedure
+was	O
+12.7	O
+total	O
+.	O
+
+(	O
+On	O
+02/06	O
+,	O
+his	B-procedure
+bilirubin	I-procedure
+had	O
+been	O
+7.2	O
+with	O
+6	O
+direct	O
+)	O
+.	O
+
+His	B-procedure
+arterial	I-procedure
+blood	I-procedure
+gas	I-procedure
+on	O
+50%	O
+was	O
+pO2	B-procedure
+92	O
+,	O
+pCO2	B-procedure
+24	O
+,	O
+and	O
+pH	B-procedure
+7.46	O
+.	O
+
+His	B-procedure
+chest	I-procedure
+X-Ray	I-procedure
+showed	O
+bilateral	O
+nodular	O
+infiltrates	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+was	O
+admitted	O
+for	O
+work-up	B-procedure
+of	O
+his	O
+cholestatic	O
+jaundice	O
+picture	O
+along	O
+with	O
+work-up	B-procedure
+for	O
+his	O
+pulmonary	O
+process	O
+and	O
+treatment	B-procedure
+of	O
+both	O
+.	O
+
+In	O
+terms	O
+of	O
+pulmonary	O
+function	O
+,	O
+it	O
+was	O
+felt	O
+that	O
+one	O
+possibility	O
+was	O
+that	O
+the	O
+patient	O
+was	O
+a	O
+Bactrim	O
+failure	O
+for	O
+PCP	O
+although	O
+this	O
+was	O
+unusual	O
+.	O
+
+He	O
+was	O
+started	O
+on	O
+Pentamidine	B-procedure
+,	O
+especially	O
+in	O
+light	O
+of	O
+the	O
+fact	O
+that	O
+it	O
+was	O
+felt	O
+that	O
+his	B-procedure
+liver	I-procedure
+function	I-procedure
+tests	I-procedure
+were	O
+due	O
+possibly	O
+to	O
+Bactrim	B-procedure
+.	O
+
+The	O
+patient	O
+was	O
+also	O
+covered	O
+with	O
+Erythromycin	B-procedure
+and	O
+Gentamicin	B-procedure
+for	O
+coverage	O
+of	O
+community	O
+acquired	O
+pneumonias	O
+and	O
+gram	O
+negative	O
+rods	O
+.	O
+
+He	O
+was	O
+given	O
+supplemental	B-procedure
+oxygen	I-procedure
+.	O
+
+In	O
+terms	O
+of	O
+his	O
+liver	O
+abnormalities	O
+,	O
+it	O
+was	O
+felt	O
+that	O
+viral	O
+hepatitis	O
+was	O
+in	O
+the	O
+differential	O
+as	O
+well	O
+as	O
+several	O
+opportunistic	O
+infections	O
+of	O
+the	O
+liver	O
+but	O
+also	O
+was	O
+felt	O
+that	O
+Bactrim	B-procedure
+could	O
+be	O
+a	O
+cause	O
+of	O
+these	O
+abnormalities	O
+.	O
+
+Titers	B-procedure
+for	O
+CMV	O
+and	O
+Epstein-Barr	O
+virus	O
+were	O
+sent	O
+and	O
+a	B-procedure
+titer	I-procedure
+for	O
+toxoplasma	O
+was	O
+sent	O
+.	O
+
+Stool	B-procedure
+was	O
+sent	O
+for	O
+ova	O
+and	O
+parasites	O
+.	O
+
+Gastrointestinal	O
+was	O
+consulted	O
+.	O
+
+Initially	O
+,	O
+the	O
+patient	O
+did	O
+well	O
+in	O
+terms	O
+of	O
+his	O
+pre-status	O
+and	O
+required	O
+less	O
+oxygen	B-procedure
+.	O
+
+However	O
+,	O
+on	O
+02/10/91	O
+,	O
+his	B-procedure
+respiratory	I-procedure
+rate	I-procedure
+increased	O
+and	O
+his	B-procedure
+oxygen	I-procedure
+saturation	I-procedure
+decreased	O
+.	O
+
+Actually	O
+in	O
+reviewing	O
+the	O
+records	O
+at	O
+this	O
+point	O
+,	O
+it	O
+appears	O
+that	O
+Pentamidine	B-procedure
+was	O
+not	O
+started	O
+initially	O
+so	O
+on	O
+the	B-procedure
+antibiotics	I-procedure
+of	O
+Erythromycin	B-procedure
+and	O
+Gentamicin	B-procedure
+,	O
+the	O
+patient	O
+&apos;s	O
+respiratory	O
+status	O
+worsened	O
+and	O
+his	B-procedure
+LDH	I-procedure
+climbed	O
+so	O
+he	O
+began	O
+Pentamidine	B-procedure
+on	O
+02/10/91	O
+.	O
+
+On	O
+02/11/91	O
+,	O
+the	O
+patient	O
+again	O
+appeared	O
+more	O
+comfortable	O
+this	O
+time	O
+with	O
+50%	B-procedure
+facemask	I-procedure
+but	O
+then	O
+required	O
+more	O
+oxygen	B-procedure
+,	O
+dropped	O
+his	B-procedure
+O2	I-procedure
+saturations	I-procedure
+,	O
+and	O
+was	O
+intubated	O
+on	O
+02/11/91	O
+.	O
+
+He	O
+was	O
+transferred	O
+to	O
+the	O
+Intensive	O
+Care	O
+Unit	O
+on	O
+12/12/90	O
+on	O
+Gentamicin	B-procedure
+,	O
+Vancomycin	B-procedure
+,	O
+Pentamidine	B-procedure
+,	O
+and	O
+Prednisone	B-procedure
+.	O
+
+Also	O
+of	O
+note	O
+at	O
+that	O
+point	O
+,	O
+hepatitis	B-procedure
+C	I-procedure
+virus	I-procedure
+serologies	I-procedure
+had	O
+come	O
+back	O
+positive	O
+.	O
+
+However	O
+,	O
+at	O
+this	O
+point	O
+,	O
+his	O
+liver	O
+function	O
+test	O
+abnormalities	O
+appeared	O
+more	O
+consistent	O
+with	O
+a	O
+cholestatic	O
+picture	O
+with	O
+his	B-procedure
+direct	I-procedure
+bilirubin	I-procedure
+being	O
+12.1	O
+and	O
+total	B-procedure
+being	O
+14.1	O
+.	O
+
+The	B-procedure
+patient	I-procedure
+&apos;s	I-procedure
+abdominal	I-procedure
+CT	I-procedure
+scan	I-procedure
+showed	O
+no	O
+liver	O
+disease	O
+and	O
+no	O
+obstruction	O
+.	O
+
+The	B-procedure
+patient	I-procedure
+&apos;s	I-procedure
+liver	I-procedure
+function	I-procedure
+tests	I-procedure
+appeared	O
+to	O
+improve	O
+.	O
+
+The	O
+patient	O
+&apos;s	O
+penile	O
+ulcer	O
+was	O
+cultured	O
+and	O
+grew	O
+positive	O
+herpes	O
+simplex	O
+virus	O
+and	O
+the	O
+patient	O
+was	O
+started	O
+on	O
+Acyclovir	B-procedure
+.	O
+
+On	O
+02/13/91	O
+,	O
+the	O
+patient	O
+had	O
+a	B-procedure
+bronchoalveolar	I-procedure
+lavage	I-procedure
+performed	O
+which	O
+showed	O
+a	O
+toluidine	O
+blue	O
+with	O
+many	O
+pneumocysts	O
+noted	O
+.	O
+
+No	O
+other	B-procedure
+cultures	I-procedure
+grew	O
+out	O
+and	O
+the	O
+patient	O
+&apos;s	O
+clinical	O
+status	O
+deteriorated	O
+.	O
+
+The	O
+patient	O
+required	O
+100%	B-procedure
+oxygen	I-procedure
+to	O
+maintain	O
+adequate	O
+oxygen	O
+saturations	O
+on	O
+the	B-procedure
+ventilator	I-procedure
+.	O
+
+He	O
+required	O
+elevated	B-procedure
+ventilatory	I-procedure
+pressures	I-procedure
+with	O
+PIPS	B-procedure
+often	O
+above	O
+60	O
+.	O
+
+Fortunately	O
+,	O
+no	O
+evidence	O
+of	O
+baratroma	O
+was	O
+ever	O
+discerned	O
+.	O
+
+However	O
+,	O
+the	O
+patient	O
+&apos;s	O
+respiratory	O
+status	O
+continued	O
+to	O
+decline	O
+and	O
+we	O
+were	O
+unable	O
+to	O
+maintain	O
+oxygen	B-procedure
+saturations	I-procedure
+above	O
+80%	O
+even	O
+using	O
+reverse	B-procedure
+I	I-procedure
+to	I-procedure
+E	I-procedure
+ventilation	I-procedure
+,	O
+paralysis	B-procedure
+,	O
+sedation	B-procedure
+,	O
+and	O
+other	B-procedure
+modes	I-procedure
+of	I-procedure
+ventilation	I-procedure
+.	O
+
+Patient	O
+underwent	O
+liver	B-procedure
+biopsy	I-procedure
+on	O
+02/16/91	O
+and	O
+the	O
+results	O
+of	O
+this	O
+were	O
+pending	O
+when	O
+the	O
+patient	O
+died	O
+.	O
+
+The	O
+patient	O
+actually	O
+developed	O
+decreasing	O
+counts	O
+with	O
+white	B-procedure
+count	I-procedure
+as	O
+low	O
+as	O
+1.75	O
+,	O
+hematocrit	B-procedure
+as	O
+low	O
+as	O
+26	O
+,	O
+and	O
+platelets	B-procedure
+as	O
+low	O
+as	O
+68	O
+noted	O
+on	O
+02/15/91	O
+.	O
+
+These	O
+were	O
+supported	O
+with	O
+blood	B-procedure
+products	I-procedure
+and	O
+Hematology	O
+was	O
+consulted	O
+.	O
+
+They	O
+felt	O
+that	O
+it	O
+was	O
+most	O
+likely	O
+secondary	O
+to	O
+Bactrim	B-procedure
+and	O
+these	O
+actually	O
+were	O
+getting	O
+better	O
+when	O
+the	O
+patient	O
+died	O
+.	O
+
+Bone	B-procedure
+marrow	I-procedure
+biopsy	I-procedure
+was	O
+not	O
+attempted	O
+.	O
+
+Discussions	O
+were	O
+begun	O
+with	O
+the	O
+family	O
+regarding	O
+limits	O
+of	O
+supportive	B-procedure
+care	I-procedure
+.	O
+
+Due	O
+to	O
+continued	O
+worsening	O
+pulmonary	O
+status	O
+and	O
+an	O
+overall	O
+grim	O
+prognosis	O
+,	O
+the	O
+family	O
+decided	O
+,	O
+in	O
+consultation	O
+with	O
+the	O
+Medical	O
+Team	O
+,	O
+to	O
+withdraw	O
+ventilatory	B-procedure
+support	I-procedure
+.	O
+
+This	O
+was	O
+done	O
+on	O
+the	O
+evening	O
+of	O
+02/18/91	O
+.	O
+
+Patient	O
+expired	O
+after	O
+the	B-procedure
+endotracheal	I-procedure
+tube	I-procedure
+was	O
+withdrawn	O
+at	O
+6:40	O
+p.m.	O
+
+DISPOSITION	O
+:	O
+
+The	O
+patient	O
+died	O
+in	O
+hospital	O
+.	O
+
+An	B-procedure
+autopsy	I-procedure
+will	O
+be	O
+performed	O
+.	O
+
+An	B-procedure
+autopsy	I-procedure
+was	O
+performed	O
+as	O
+per	O
+the	O
+family	O
+&apos;s	O
+wishes	O
+.	O
+
+WE221/9850	O
+TAKO	O
+C.	O
+INSKE	O
+,	O
+M.D.	O
+,	O
+PH.	O
+JT2	O
+FF2	O
+
+D	O
+:	O
+
+02/18/91	O
+
+Batch	O
+:	O
+
+8600	O
+
+Report	O
+:	O
+
+V7238B57	O
+
+T	O
+:	O
+
+02/20/91	O
+
+Dicatated	O
+By	O
+:	O
+
+LATO	O
+L.	O
+TIKFREIERM	O
+,	O
+M.D.	O
+
+cc	O
+:	O
+
+1.	O
+LERMA	O
+N.	O
+WYNBRANTESXELL	O
+,	O
+M.D.	O
+
+2.	O
+ANA	O
+V.	O
+A	O
+,	O
+M.D.	O
+
+3.	O
+DALLI	O
+A.	O
+SEEN	O
+,	O
+M.D	O
+
+4.	O
+ARC	O
+N.	O
+SEEN	O
+,	O
+M.D.	O
+
+498710998	O
+
+CMC	O
+
+14172445	O
+
+04/29/1992	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Signed	O
+
+DIS	O
+
+Admission	O
+Date	O
+:	O
+
+04/29/1992	O
+
+Report	O
+Status	O
+:	O
+
+Signed	O
+
+Discharge	O
+Date	O
+:	O
+
+05/28/1992	O
+
+DISCHARGE	O
+DIAGNOSES	O
+:	O
+
+1.	O
+Carotid	O
+stenosis	O
+.	O
+
+2.	O
+Aortic	O
+stenosis	O
+.	O
+
+3.	O
+Coronary	O
+artery	O
+disease	O
+.	O
+
+PRESENT	O
+ILLNESS	O
+:	O
+
+The	O
+patient	O
+is	O
+a	O
+76-year-old	O
+female	O
+who	O
+was	O
+admitted	O
+to	O
+the	O
+medicine	O
+service	O
+on	O
+04-29-92	O
+with	O
+a	O
+past	O
+history	O
+significant	O
+for	O
+aortic	O
+stenosis	O
+and	O
+chest	O
+pain	O
+who	O
+presented	O
+for	O
+evaluation	B-procedure
+for	O
+aortic	B-procedure
+valve	I-procedure
+replace-ment	I-procedure
+.	O
+
+The	O
+patient	O
+has	O
+a	O
+history	O
+of	O
+exertional	O
+angina	O
+and	O
+chest	O
+pain	O
+associated	O
+with	O
+light-headedness	O
+for	O
+nine	O
+years	O
+which	O
+was	O
+noted	O
+to	O
+increase	O
+in	O
+frequency	O
+over	O
+the	O
+past	O
+year	O
+,	O
+then	O
+upon	O
+admission	O
+had	O
+light-headedness	O
+and	O
+chest	O
+pain	O
+with	O
+a	O
+dull	O
+pressure	O
+in	O
+her	O
+neck	O
+to	O
+her	O
+substernal	O
+area	O
+,	O
+with	O
+only	O
+minimal	O
+exertion	O
+such	O
+as	O
+&quot;	O
+walking	O
+across	O
+the	O
+room	O
+&quot;	O
+.	O
+
+She	O
+states	O
+this	O
+light-headedness	O
+is	O
+often	O
+associated	O
+with	O
+shortness	O
+of	O
+breath	O
+and	O
+diaphoresis	O
+occasionally	O
+with	O
+nausea	O
+.	O
+
+She	O
+denies	O
+any	O
+vomiting	O
+,	O
+states	O
+that	O
+the	O
+episodes	O
+usually	O
+last	O
+about	O
+five	O
+minutes	O
+and	O
+are	O
+relieved	O
+with	O
+rest	O
+.	O
+
+The	O
+pain	O
+and	O
+light-headedness	O
+is	O
+now	O
+severely	O
+lifestyle	O
+limiting	O
+and	O
+the	O
+patient	O
+requested	O
+evaluation	B-procedure
+for	O
+possible	O
+aortic	B-procedure
+valve	I-procedure
+replacement	I-procedure
+.	O
+
+Cardiac	O
+risk	O
+factors	O
+hypercholesterolemia	O
+,	O
+hypertension	O
+,	O
+no	O
+history	O
+of	O
+tobacco	O
+use	O
+,	O
+diabetes	O
+or	O
+family	O
+history	O
+.	O
+
+Past	O
+medical	O
+history	O
+is	O
+as	O
+stated	O
+above	O
+,	O
+aortic	O
+stenosis	O
+,	O
+found	O
+to	O
+be	O
+critical	O
+on	O
+echocardiogram	B-procedure
+on	O
+4-13-92	O
+,	O
+done	O
+in	O
+Otte	O
+A	O
+,	O
+New	O
+Jersey	O
+and	O
+was	O
+found	O
+to	O
+have	O
+left	O
+ventricular	O
+hypertrophy	O
+and	O
+ejection	B-procedure
+fraction	I-procedure
+of	O
+58%	O
+,	O
+no	O
+right	O
+heart	O
+wall	O
+motion	O
+abnormali-ties	O
+and	O
+an	B-procedure
+aortic	I-procedure
+valve	I-procedure
+gradient	I-procedure
+of	O
+greater	O
+than	O
+100	O
+.	O
+
+She	O
+also	O
+has	O
+a	O
+history	O
+of	O
+uterine	O
+fibroids	O
+,	O
+status	O
+post	O
+total	B-procedure
+abdominal	I-procedure
+hysterectomy	I-procedure
+.	O
+
+She	O
+has	O
+known	O
+bilateral	O
+carotid	O
+disease	O
+,	O
+stated	O
+to	O
+be	O
+greater	O
+than	O
+70%	O
+bilaterally	O
+.	O
+
+She	O
+has	O
+a	O
+history	O
+of	O
+glaucoma	O
+and	O
+a	O
+questionable	O
+history	O
+of	O
+claudication	O
+in	O
+her	O
+legs	O
+as	O
+well	O
+as	O
+a	O
+history	O
+of	O
+hypertension	O
+.	O
+
+Medications	B-procedure
+on	I-procedure
+admission	I-procedure
+were	O
+only	O
+aspirin	B-procedure
+p.r.n.	O
+and	O
+Timoptic	B-procedure
+solution	I-procedure
+0.5%	I-procedure
+to	O
+the	O
+left	O
+eye	O
+twice	O
+a	O
+day	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+On	O
+physical	B-procedure
+examination	I-procedure
+she	O
+was	O
+afebrile	O
+with	O
+a	O
+blood	B-procedure
+pressure	I-procedure
+of	O
+170/100	O
+,	O
+heart	B-procedure
+rate	I-procedure
+of	O
+70	O
+.	O
+
+HEENT	B-procedure
+examination	I-procedure
+notable	O
+for	O
+bilateral	O
+arcussenilis	O
+but	O
+otherwise	O
+unremarkable	O
+.	O
+
+Her	O
+neck	O
+showed	O
+no	O
+JVD	O
+,	O
+there	O
+was	O
+a	O
+slow	O
+carotid	O
+upstroke	O
+bilaterally	O
+,	O
+there	O
+were	O
+bilateral	O
+carotid	O
+bruits	O
+versus	O
+transmitted	O
+murmur	O
+.	O
+
+Chest	O
+was	O
+clear	O
+to	O
+auscultation	B-procedure
+bilaterally	O
+.	O
+
+Cardiac	B-procedure
+examination	I-procedure
+revealed	O
+a	O
+regular	O
+rate	O
+and	O
+rhythm	O
+with	O
+a	O
+normal	O
+S1	O
+and	O
+S2	O
+,	O
+3/6	O
+systolic	O
+murmur	O
+at	O
+the	O
+right	O
+upper	O
+sternal	O
+border	O
+,	O
+no	O
+gallop	O
+was	O
+detected	O
+.	O
+
+Her	O
+abdomen	O
+was	O
+soft	O
+,	O
+nontender	O
+with	O
+good	O
+bowel	O
+sounds	O
+.	O
+
+Extremi-ties	O
+:	O
+
+There	O
+is	O
+no	O
+clubbing	O
+,	O
+cyanosis	O
+or	O
+edema	O
+and	O
+her	B-procedure
+peripheral	I-procedure
+pulses	I-procedure
+were	O
+trace	O
+palpable	O
+.	O
+
+LAB	O
+/	O
+X-RAY	O
+DATA	O
+:	O
+
+Labs	O
+on	O
+admission	O
+:	O
+
+Sodium	B-procedure
+141	O
+,	O
+potassium	B-procedure
+5.0	O
+,	O
+BUN	B-procedure
+18	O
+,	O
+creatinine	B-procedure
+1.0	O
+,	O
+PT	B-procedure
+12.3	O
+,	O
+PTT	B-procedure
+24	O
+,	O
+WBC	B-procedure
+7.6	O
+,	O
+hematocrit	B-procedure
+41	O
+,	O
+platelets	B-procedure
+278,000	O
+.	O
+
+EKG	B-procedure
+revealed	O
+a	O
+normal	O
+sinus	O
+rhythm	O
+with	O
+a	O
+rate	O
+of	O
+69	O
+,	O
+left	O
+ventricular	O
+hyper-trophy	O
+with	O
+poor	O
+anterior	O
+progression	O
+of	O
+R-waves	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+She	O
+was	O
+admitted	O
+and	O
+evaluated	O
+by	O
+the	O
+cardiac	O
+surgery	O
+service	O
+after	O
+having	O
+undergone	O
+cardiac	B-procedure
+catheterization	I-procedure
+which	O
+revealed	O
+a	O
+70%	O
+stenosis	O
+of	O
+her	O
+left	O
+circumflex	O
+artery	O
+,	O
+50%	O
+stenosis	O
+of	O
+the	O
+left	O
+anterior	O
+descending	O
+and	O
+10%	O
+stenosis	O
+of	O
+the	O
+right	O
+coronary	O
+artery	O
+.	O
+
+Carotid	B-procedure
+angiography	I-procedure
+revealed	O
+left	O
+internal	O
+carotid	O
+stenosis	O
+of	O
+90%	O
+,	O
+right	O
+internal	O
+carotid	O
+artery	O
+&quot;	O
+critical	O
+stenosis	O
+&quot;	O
+.	O
+
+On	O
+05-01-92	O
+she	O
+was	O
+taken	O
+to	O
+the	O
+operating	O
+room	O
+at	O
+which	O
+time	O
+she	O
+underwent	O
+an	B-procedure
+aortic	I-procedure
+valve	I-procedure
+replacement	I-procedure
+with	O
+a	O
+#	B-procedure
+19	I-procedure
+St.	I-procedure
+Jude	I-procedure
+valve	I-procedure
+,	O
+coronary	B-procedure
+artery	I-procedure
+bypass	I-procedure
+graft	I-procedure
+times	O
+one	O
+with	O
+saphenous	B-procedure
+vein	I-procedure
+graft	I-procedure
+from	O
+the	O
+posterior	O
+descending	O
+artery	O
+to	O
+the	O
+obtuse	O
+marginal	O
+and	O
+right	B-procedure
+carotid	I-procedure
+endarterectomy	I-procedure
+.	O
+
+This	O
+was	O
+performed	O
+by	O
+Dr.	O
+Medicine	O
+and	O
+Dr.	O
+Room	O
+.	O
+
+The	O
+patient	O
+tolerated	O
+the	B-procedure
+procedure	I-procedure
+well	O
+and	O
+was	O
+found	O
+postoperatively	O
+to	O
+have	O
+some	O
+left	O
+upper	O
+extremity	O
+weakness	O
+on	O
+proximal	O
+greater	O
+than	O
+distal	O
+musculature	O
+.	O
+
+She	O
+was	O
+extubated	O
+on	O
+postoperative	O
+day	O
+number	O
+one	O
+and	O
+otherwise	O
+had	O
+an	O
+unremarkable	O
+postoperative	O
+course	O
+with	O
+the	O
+exception	O
+of	O
+her	O
+left	O
+upper	O
+extremity	O
+weakness	O
+.	O
+
+On	O
+05-04-92	O
+she	O
+was	O
+evaluated	O
+by	O
+the	O
+neurology	O
+service	O
+,	O
+who	O
+recommended	O
+a	B-procedure
+CT	I-procedure
+scan	I-procedure
+,	O
+however	O
+no	O
+evidence	O
+of	O
+infarction	O
+was	O
+detected	O
+.	O
+
+There	O
+was	O
+only	O
+diffuse	O
+small	O
+vessel	O
+disease	O
+noted	O
+.	O
+
+On	O
+05-05-92	O
+she	O
+was	O
+noted	O
+to	O
+convert	O
+to	O
+atrial	O
+fibrillation	O
+which	O
+resolved	O
+spontaneously	O
+a	O
+few	O
+days	O
+later	O
+.	O
+
+However	O
+,	O
+on	O
+05-07-92	O
+there	O
+was	O
+a	O
+a	O
+question	O
+of	O
+a	O
+new	O
+event	O
+with	O
+addition	O
+to	O
+the	O
+left	O
+upper	O
+extremity	O
+weakness	O
+,	O
+some	O
+noted	O
+right	O
+upper	O
+and	O
+right	O
+lower	O
+extremity	O
+discoordination	O
+.	O
+
+She	O
+was	O
+begun	O
+on	O
+a	B-procedure
+heparin	I-procedure
+drip	I-procedure
+.	O
+
+On	O
+5-9-92	O
+the	O
+right-sided	O
+symptoms	O
+worsened	O
+and	O
+she	O
+also	O
+had	O
+some	O
+elements	O
+of	O
+aphasia	O
+.	O
+
+She	O
+underwent	O
+angiography	B-procedure
+on	O
+5-9-92	O
+which	O
+showed	O
+the	O
+right	O
+internal	O
+carotid	O
+artery	O
+to	O
+be	O
+patent	O
+,	O
+however	O
+there	O
+was	O
+highly	O
+significant	O
+stenosis	O
+of	O
+the	O
+left	O
+carotid	O
+artery	O
+and	O
+she	O
+was	O
+taken	O
+to	O
+the	O
+operating	O
+room	O
+later	O
+that	O
+day	O
+for	O
+a	B-procedure
+left	I-procedure
+carotid	I-procedure
+endarterectomy	I-procedure
+.	O
+
+She	O
+was	O
+taken	O
+postoperatively	O
+the	O
+ICU	O
+where	O
+she	O
+was	O
+extubated	O
+on	O
+postoperative	O
+day	O
+number	O
+one	O
+and	O
+by	O
+5-11-92	O
+she	O
+was	O
+noted	O
+to	O
+have	O
+markedly	O
+increased	O
+use	O
+of	O
+her	O
+right	O
+side	O
+,	O
+resolving	O
+aphasia	O
+and	O
+she	O
+was	O
+transferred	O
+to	O
+the	O
+floor	O
+with	O
+the	O
+residual	O
+deficit	O
+only	O
+noted	O
+to	O
+be	O
+some	O
+left	O
+upper	O
+extremity	O
+weakness	O
+.	O
+
+She	O
+was	O
+worked	O
+up	O
+aggressively	O
+with	O
+the	O
+physical	O
+therapy	O
+and	O
+occupational	O
+services	O
+,	O
+made	O
+good	O
+progress	O
+and	O
+began	O
+ambulating	O
+with	O
+assistance	O
+with	O
+a	B-procedure
+walker	I-procedure
+but	O
+with	O
+minimal	O
+assistance	O
+from	O
+an	O
+aid	O
+.	O
+
+She	O
+was	O
+feeding	O
+herself	O
+and	O
+was	O
+very	O
+enthusiastic	O
+and	O
+energetic	O
+in	O
+her	O
+participation	O
+in	O
+her	B-procedure
+rehabilitation	I-procedure
+activities	I-procedure
+.	O
+
+She	O
+was	O
+maintained	O
+on	O
+heparin	B-procedure
+therapy	I-procedure
+initially	O
+but	O
+this	O
+was	O
+quickly	O
+switched	O
+over	O
+to	O
+Coumadin	B-procedure
+anticoagulation	I-procedure
+therapy	I-procedure
+which	O
+she	O
+will	O
+need	O
+to	O
+be	O
+on	O
+long-term	O
+for	O
+her	B-procedure
+aortic	I-procedure
+valve	I-procedure
+replacement	I-procedure
+.	O
+
+DISPOSITION	O
+:	O
+
+She	O
+is	O
+transferred	O
+to	O
+Rockdempbanri	O
+Hospital	O
+on	O
+05-28-92	O
+to	O
+continue	O
+her	B-procedure
+rehabilitation	I-procedure
+.	O
+
+Discharge	O
+medications	O
+:	O
+
+Lopressor	B-procedure
+100	O
+mg	O
+p.o.	O
+b.i.d.	O
+;	O
+Nifedipine	B-procedure
+10	O
+mg	O
+p.o.	O
+t.i.d.	O
+;	O
+Timoptic	B-procedure
+solution	I-procedure
+0.5%	O
+OS	O
+b.i.d.	O
+;	O
+Coumadin	B-procedure
+1	O
+mg	O
+alternating	O
+with	O
+1.5	O
+mg	O
+q.o.d.	O
+at	O
+q.h.s.	O
+and	O
+Haldol	B-procedure
+2	O
+mg	O
+p.o.	O
+q.h.s.	O
+p.r.n.	O
+in	O
+the	O
+evening	O
+,	O
+only	O
+for	O
+agitation	O
+associated	O
+with	O
+confusion	O
+.	O
+
+Upon	O
+discharge	O
+it	O
+was	O
+the	O
+recommendation	O
+of	O
+the	O
+cardiology	O
+team	O
+that	O
+the	B-procedure
+patient	I-procedure
+&apos;s	I-procedure
+prothrombin	I-procedure
+time	I-procedure
+be	O
+monitored	O
+weekly	O
+and	O
+be	O
+kept	O
+at	O
+a	O
+ratio	O
+of	O
+3-4	O
+IU	O
+.	O
+
+Dictated	O
+By	O
+:	O
+
+NIEIE	O
+FREIERM	O
+,	O
+M.D.	O
+ZX	O
+681	O
+/	O
+0201	O
+/	O
+RISHAN	O
+MISHON	O
+ROOM	O
+,	O
+M.D.	O
+
+BREUNTIK	O
+
+D	O
+:	O
+
+05/26/92	O
+
+T	O
+:	O
+
+05/27/92	O
+
+Batch	O
+:	O
+
+U886	O
+
+Report	O
+:	O
+
+LH486L9	O
+
+455343475	O
+PUMC	O
+
+4322324	O
+
+195078	O
+
+781135	O
+
+6/15/2000	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+
+KOTE	O
+,	O
+YGA	O
+
+MRN	O
+:	O
+
+4322324	O
+
+Age	O
+:	O
+
+43y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+06/15/2000	O
+01:09	O
+PM	O
+
+PRELIMINARY	O
+REPORT	O
+
+This	O
+is	O
+to	O
+notify	O
+you	O
+that	O
+your	O
+patient	O
+,	O
+KOTE	O
+,	O
+YGA	O
+arrived	O
+in	O
+the	O
+Emergency	O
+Department	O
+at	O
+Ponta,itri-	O
+University	O
+Medical	O
+Center	O
+on	O
+06/15/2000	O
+01:09	O
+PM	O
+.	O
+
+The	O
+patient	O
+presented	O
+with	O
+a	O
+chief	O
+complaint	O
+of	O
+R	O
+THUMB	O
+INJURY	O
+.	O
+
+Following	O
+triage	B-procedure
+,	O
+the	O
+patient	O
+LEFT	O
+WITHOUT	O
+TREATMENT	B-procedure
+.	O
+
+If	O
+you	O
+need	O
+additional	O
+information	O
+please	O
+call	O
+937-599-6520	O
+.	O
+
+333521954	O
+
+FIH	O
+
+9558642	O
+
+616751	O
+
+7916543	O
+
+2/23/2005	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+/	O
+SUMMARY	O
+
+WIEGNEIGH	O
+,	O
+YLA	O
+
+MRN	O
+:	O
+
+9558642	O
+
+Age	O
+:	O
+
+53y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+02/23/2005	O
+05:41	O
+AM	O
+
+Provider	O
+:	O
+
+GETZSIEH	O
+,	O
+M.D.	O
+WORK	O
+
+PRELIMINARY	O
+REPORT	O
+PCP	O
+notified	O
+by	O
+
+MD	O
+:	O
+
+Yes-Direct	O
+contact	O
+with	O
+PCP	O
+
+Discharge	O
+Date	O
+/	O
+Time	O
+:	O
+
+02/23/2005	O
+13:38	O
+
+Discharge	O
+Status	O
+:	O
+
+Discharged	O
+Condition	O
+on	O
+Discharge	O
+:	O
+
+Stable	O
+
+Patient	O
+States	O
+Complaint	O
+:	O
+
+CHEST	O
+PAIN	O
+/	O
+SOB	O
+
+Diagnosis	O
+:	O
+
+R	O
+Lung	O
+Mass	O
+,	O
+likely	O
+cancer	O
+
+Treatment	O
+Rendered	O
+:	O
+
+Physical	B-procedure
+Examination	I-procedure
+,	O
+Laboratory	B-procedure
+Evaluation	I-procedure
+,	O
+CXR	B-procedure
+,	O
+Chest	B-procedure
+CT	I-procedure
+
+Discharge	O
+Medications	O
+:	O
+
+Vicodin	B-procedure
+1-2	O
+TABS	O
+PO	O
+Q6H	O
+PRN	O
+pain	O
+,	O
+#	O
+50	O
+,	O
+no	O
+refills	O
+
+Disposition	O
+,	O
+Follow	O
+up	O
+and	O
+Instructions	O
+to	O
+Patient	O
+:	O
+
+Oncologist	O
+,	O
+Dr.	O
+Ala	O
+Aixknoleskaysneighslemteelenortkote	O
+,	O
+will	O
+call	O
+you	O
+will	O
+your	O
+appt	O
+.	O
+
+You	O
+can	O
+call	O
+576-598-7570	O
+if	O
+you	O
+need	O
+to	O
+reschedule	O
+.	O
+
+We	O
+are	O
+scheduling	O
+you	O
+for	O
+a	B-procedure
+needle	I-procedure
+biopsy	I-procedure
+by	O
+interventional	O
+radiology	O
+for	O
+some	O
+time	O
+in	O
+the	O
+next	O
+week	O
+.	O
+
+they	O
+will	O
+call	O
+you	O
+to	O
+set	O
+up	O
+appt	O
+.	O
+
+PCP	O
+Name	O
+:	O
+
+NIQUE	O
+,	O
+TOYA	O
+N	O
+
+Provider	O
+Number	O
+:	O
+
+21636	O
+
+This	O
+report	O
+was	O
+created	O
+by	O
+WORK	O
+,	O
+SHELLBETHA	O
+,	O
+M.D.	O
+02/23/2005	O
+01:59	O
+PM	O
+
+Admission	O
+Date	O
+:	O
+
+2012-04-30	O
+
+Discharge	O
+Date	O
+:	O
+
+2012-05-14	O
+
+Date	O
+of	O
+Birth	O
+:	O
+
+1956-11-04	O
+
+Sex	O
+:	O
+
+M	O
+
+Service	O
+:	O
+
+O-CMED	O
+CCU	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+The	O
+patient	O
+is	O
+a	O
+55	O
+-	O
+year-old	O
+male	O
+with	O
+recently	O
+diagnosed	O
+abdominal	O
+carcinomatosis	O
+.	O
+
+The	O
+patient	O
+presented	O
+with	O
+abdominal	O
+pain	O
+and	O
+bloating	O
+and	O
+was	O
+found	O
+to	O
+have	O
+a	O
+large	O
+omental	O
+mass	O
+.	O
+
+Biopsy	B-procedure
+revealed	O
+adenocarcinoma	O
+.	O
+
+Histochemical	B-procedure
+stains	I-procedure
+are	O
+consistent	O
+with	O
+hepatobiliary	O
+origin	O
+.	O
+
+Endoscopies	B-procedure
+were	O
+negative	O
+except	O
+for	O
+an	O
+extrinsic	O
+mass	O
+present	O
+on	O
+the	O
+stomach	O
+.	O
+
+The	O
+patient	O
+presents	O
+with	O
+increased	O
+abdominal	O
+pain	O
+and	O
+poor	O
+oral	O
+intake	O
+as	O
+well	O
+as	O
+generalized	O
+weakness	O
+.	O
+
+On	O
+presentation	O
+,	O
+the	O
+patient	O
+denied	O
+chest	O
+pain	O
+,	O
+shortness	O
+of	O
+breath	O
+,	O
+and	O
+cough	O
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+1.	O
+Benign	O
+prostatic	O
+hypertrophy	O
+.	O
+
+2.	O
+Osteoarthritis	O
+.	O
+
+3.	O
+Gastrointestinal	O
+adenocarcinoma	O
+(	O
+as	O
+noted	O
+in	O
+History	O
+of	O
+Present	O
+Illness	O
+)	O
+.	O
+
+MEDICATIONS	O
+ON	O
+ADMISSION	O
+:	O
+
+Colace	B-procedure
+,	O
+Senna	B-procedure
+,	O
+Dulcolax	B-procedure
+,	O
+Tylenol	B-procedure
+,	O
+oxycodone	B-procedure
+as	O
+needed	O
+,	O
+Ambien	B-procedure
+,	O
+and	O
+Protonix	B-procedure
+.	O
+
+ALLERGIES	O
+:	O
+
+No	O
+known	O
+drug	O
+allergies	O
+.	O
+
+FAMILY	O
+HISTORY	O
+:	O
+
+Mother	O
+had	O
+adrenal	O
+cancer	O
+.	O
+
+Father	O
+had	O
+coronary	O
+artery	O
+disease	O
+.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+
+The	O
+patient	O
+was	O
+employed	O
+as	O
+a	O
+salesman	O
+.	O
+
+He	O
+denied	O
+the	O
+use	O
+of	O
+tobacco	O
+and	O
+drugs	O
+.	O
+
+He	O
+uses	O
+alcohol	O
+occasionally	O
+.	O
+
+The	O
+patient	O
+is	O
+married	O
+with	O
+two	O
+children	O
+.	O
+
+REVIEW	O
+OF	O
+SYSTEMS	O
+:	O
+
+Review	B-procedure
+of	I-procedure
+systems	I-procedure
+was	O
+significant	O
+for	O
+progressive	O
+abdominal	O
+discomfort	O
+,	O
+decreased	O
+oral	O
+intake	O
+,	O
+and	O
+weakness	O
+in	O
+the	O
+past	O
+nine	O
+weeks	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+ON	O
+PRESENTATION	O
+:	O
+
+Physical	B-procedure
+examination	I-procedure
+revealed	O
+temperature	B-procedure
+was	O
+96.9	O
+,	O
+heart	B-procedure
+rate	I-procedure
+was	O
+121	O
+,	O
+blood	B-procedure
+pressure	I-procedure
+was	O
+122/86	O
+,	O
+respiratory	B-procedure
+rate	I-procedure
+was	O
+22	O
+,	O
+and	O
+oxygen	B-procedure
+saturation	I-procedure
+was	O
+96%	O
+on	O
+room	O
+air	O
+.	O
+
+In	O
+general	O
+,	O
+the	O
+patient	O
+looked	O
+acutely	O
+and	O
+chronically	O
+ill	O
+.	O
+
+Head	B-procedure
+,	I-procedure
+eyes	I-procedure
+,	I-procedure
+ears	I-procedure
+,	I-procedure
+nose	I-procedure
+,	I-procedure
+and	I-procedure
+throat	I-procedure
+examination	I-procedure
+revealed	O
+the	O
+oropharynx	O
+was	O
+clear	O
+.	O
+
+Sclerae	O
+were	O
+anicteric	O
+.	O
+
+Mucous	O
+membranes	O
+were	O
+moist	O
+.	O
+
+Cardiovascular	B-procedure
+examination	I-procedure
+revealed	O
+tachycardic	O
+first	O
+heart	O
+sound	O
+and	O
+second	O
+heart	O
+sound	O
+.	O
+
+No	O
+murmurs	O
+,	O
+rubs	O
+,	O
+or	O
+gallops	O
+.	O
+
+Lungs	O
+revealed	O
+decreased	O
+breath	O
+sounds	O
+and	O
+dullness	O
+to	O
+percussion	B-procedure
+in	O
+the	O
+left	O
+lung	O
+base	O
+.	O
+
+The	O
+abdomen	O
+was	O
+distended	O
+and	O
+firm	O
+.	O
+
+Positive	O
+bowel	O
+sounds	O
+.	O
+
+Extremity	B-procedure
+examination	I-procedure
+revealed	O
+no	O
+clubbing	O
+,	O
+cyanosis	O
+,	O
+or	O
+edema	O
+.	O
+
+IMPRESSION	O
+:	O
+
+This	O
+was	O
+a	O
+55	O
+-	O
+year-old	O
+gentleman	O
+with	O
+recently	O
+diagnosed	O
+abdominal	O
+carcinomatosis	O
+admitted	O
+with	O
+increased	O
+abdominal	O
+pain	O
+and	O
+poor	O
+oral	O
+intake	O
+.	O
+
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+the	O
+O-CMED	O
+Service	O
+for	O
+further	B-procedure
+management	I-procedure
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+the	O
+O-CMED	O
+
+Service	O
+.	O
+
+He	O
+was	O
+placed	O
+on	O
+a	B-procedure
+patient-controlled	I-procedure
+analgesia	I-procedure
+for	O
+pain	B-procedure
+control	I-procedure
+.	O
+
+He	O
+was	O
+administered	O
+intravenous	B-procedure
+fluids	I-procedure
+and	O
+oral	O
+diet	O
+as	O
+tolerated	O
+.	O
+
+On	O
+the	O
+night	O
+of	O
+05-01	O
+,	O
+the	O
+patient	O
+complained	O
+of	O
+increased	O
+vomiting	O
+.	O
+
+He	O
+also	O
+complained	O
+of	O
+increased	O
+shortness	O
+of	O
+breath	O
+and	O
+"	O
+difficulty	O
+catching	O
+his	O
+breath	O
+."	O
+
+On	O
+room	O
+air	O
+,	O
+the	B-procedure
+patient	I-procedure
+'s	I-procedure
+oxygen	I-procedure
+saturation	I-procedure
+was	O
+80%	O
+.	O
+
+His	B-procedure
+saturation	I-procedure
+increased	O
+to	O
+87%	O
+on	O
+a	B-procedure
+nonrebreather	I-procedure
+.	O
+
+A	B-procedure
+chest	I-procedure
+x-ray	I-procedure
+disclosed	O
+a	O
+left	O
+pleural	O
+effusion	O
+.	O
+
+The	O
+patient	O
+was	O
+bolused	O
+with	O
+intravenous	B-procedure
+heparin	I-procedure
+due	O
+to	O
+concern	O
+for	O
+pulmonary	O
+embolism	O
+.	O
+
+The	O
+patient	O
+expressed	O
+a	O
+desire	O
+to	O
+be	O
+full	O
+code	O
+,	O
+so	O
+he	O
+was	O
+transferred	O
+to	O
+the	O
+Intensive	O
+Care	O
+Unit	O
+.	O
+
+The	O
+patient	O
+became	O
+more	O
+comfortable	O
+being	O
+seated	O
+upright	O
+with	O
+nebulizer	B-procedure
+treatments	I-procedure
+.	O
+
+An	B-procedure
+angiogram	I-procedure
+was	O
+done	O
+which	O
+disclosed	O
+possible	O
+subsegmental	O
+pulmonary	O
+emboli	O
+of	O
+the	O
+upper	O
+lobes	O
+as	O
+well	O
+as	O
+infiltrates	O
+consistent	O
+with	O
+aspiration	O
+pneumonia	O
+.	O
+
+The	O
+patient	O
+was	O
+placed	O
+on	O
+Flagyl	B-procedure
+and	O
+Levaquin	B-procedure
+for	O
+treatment	B-procedure
+of	O
+pneumonia	O
+.	O
+
+He	O
+was	O
+continued	O
+on	O
+heparin	B-procedure
+for	O
+treatment	B-procedure
+of	O
+the	O
+pulmonary	O
+emboli	O
+.	O
+
+While	O
+in	O
+the	O
+Intensive	O
+Care	O
+Unit	O
+,	O
+the	O
+patient	O
+was	O
+noted	O
+to	O
+have	O
+increasing	O
+abdominal	O
+distention	O
+.	O
+
+On	O
+05-03	O
+the	O
+patient	O
+underwent	O
+an	B-procedure
+abdominal	I-procedure
+ultrasound	I-procedure
+with	O
+paracentesis	B-procedure
+,	O
+and	O
+5	O
+liters	O
+of	O
+fluid	O
+were	O
+removed	O
+.	O
+
+On	O
+05-04	O
+,	O
+the	O
+patient	O
+was	O
+transferred	O
+back	O
+to	O
+the	O
+O-CMED	O
+CSRU	O
+
+Service	O
+.	O
+
+Due	O
+to	O
+persistent	O
+gastric	O
+secretions	O
+,	O
+an	B-procedure
+nasogastric	I-procedure
+tube	I-procedure
+was	O
+placed	O
+for	O
+decompression	B-procedure
+.	O
+
+The	O
+patient	O
+was	O
+noted	O
+to	O
+have	O
+a	O
+functional	O
+ileus	O
+.	O
+
+Octreotide	B-procedure
+was	O
+initiated	O
+in	O
+an	O
+attempt	O
+to	O
+decrease	O
+the	O
+gastric	O
+secretions	O
+.	O
+
+On	O
+05-13	O
+,	O
+the	O
+patient	O
+'s	O
+respiratory	O
+status	O
+declined	O
+further	O
+.	O
+
+He	O
+was	O
+noted	O
+not	O
+have	O
+an	O
+increasing	O
+left-sided	O
+pleural	O
+effusion	O
+.	O
+
+A	B-procedure
+thoracentesis	I-procedure
+was	O
+done	O
+with	O
+removal	B-procedure
+of	O
+1.5	O
+liters	O
+of	O
+fluid	O
+.	O
+
+A	B-procedure
+paracentesis	I-procedure
+was	O
+repeated	O
+with	O
+removal	B-procedure
+of	O
+2.5	O
+liters	O
+of	O
+fluid	O
+.	O
+
+On	O
+the	O
+night	O
+of	O
+05-13	O
+,	O
+the	O
+patient	O
+continued	O
+to	O
+decline	O
+.	O
+
+The	O
+family	O
+decided	O
+to	O
+pursue	O
+comfort	B-procedure
+measures	I-procedure
+.	O
+
+Morphine	B-procedure
+was	O
+administered	O
+to	O
+insure	O
+patient	O
+'s	O
+comfort	O
+.	O
+
+The	O
+patient	O
+expired	O
+at	O
+6	O
+p.m.	O
+on	O
+05-14	O
+.	O
+
+FINAL	O
+DISCHARGE	O
+DIAGNOSES	O
+:	O
+
+1.	O
+Gastrointestinal	O
+adenocarcinoma	O
+;	O
+primary	O
+unknown	O
+(	O
+likely	O
+hepatobiliary	O
+)	O
+.	O
+
+2.	O
+Aspiration	O
+pneumonia	O
+.	O
+
+3.	O
+Pulmonary	O
+emboli	O
+.	O
+
+4.	O
+Hypoxia	O
+.	O
+
+5.	O
+Dehydration	O
+.	O
+
+6.	O
+Ileus	O
+.	O
+
+Pearl	O
+Y.	O
+Simmons	O
+,	O
+M.D.	O
+68-957	O
+
+Dictated	O
+By	O
+:	O
+Lynn	O
+J	O
+Crump	O
+,	O
+M.D.	O
+
+MEDQUIST36	O
+
+D	O
+:	O
+2012-05-14	O
+19:24	O
+
+T	O
+:	O
+2012-05-19	O
+05:00	O
+
+JOB	O
+#	O
+:	O
+79196	O
+
+Signed	O
+electronically	O
+by	O
+:	O
+DR.	O
+Catherine	O
+GOLDSTEIN	O
+on	O
+:	O
+Andrea	O
+2012-06-07	O
+8:18	O
+AM	O
+
+(	O
+End	O
+of	O
+Report	O
+)	O
+
+500472963	O
+
+PUOMC	O
+
+9506800	O
+
+464389	O
+
+651486	O
+
+9/20/2000	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+
+FYFEUARDFEL	O
+,	O
+TADE	O
+
+MRN	O
+:	O
+
+9506800	O
+
+Age	O
+:	O
+
+65y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+09/20/2000	O
+12:41	O
+PM	O
+
+PRELIMINARY	O
+REPORT	O
+
+This	O
+is	O
+to	O
+notify	O
+you	O
+that	O
+your	O
+patient	O
+,	O
+FYFEUARDFEL	O
+,	O
+TADE	O
+arrived	O
+in	O
+the	O
+Emergency	O
+Department	O
+at	O
+Ph	O
+University	O
+Of	O
+Medical	O
+Center	O
+on	O
+09/20/2000	O
+12:41	O
+PM	O
+.	O
+
+The	O
+patient	O
+presented	O
+with	O
+a	O
+chief	O
+complaint	O
+of	O
+ABD	O
+PAIN	O
+.	O
+
+Following	O
+evaluation	B-procedure
+and	O
+treatment	B-procedure
+,	O
+the	O
+patient	O
+&apos;s	O
+disposition	O
+at	O
+the	O
+end	O
+of	O
+the	O
+visit	O
+was	O
+ADMITTED	O
+AS	O
+AN	O
+INPATIENT	O
+TO	O
+PH	O
+UNIVERSITY	O
+OF	O
+MEDICAL	O
+CENTER	O
+.	O
+
+Your	O
+patient	O
+was	O
+admitted	O
+under	O
+the	O
+care	O
+of	O
+FONG	O
+,	O
+CONEY	O
+N	O
+with	O
+a	O
+preliminary	O
+diagnosis	O
+of	O
+PERFORATION	O
+.	O
+
+If	O
+you	O
+need	O
+additional	O
+information	O
+please	O
+call	O
+639-873-2993	O
+.	O
+
+Admission	O
+Date	O
+:	O
+
+2013-02-12	O
+
+Discharge	O
+Date	O
+:	O
+
+2013-02-16	O
+
+Date	O
+of	O
+Birth	O
+:	O
+
+1937-03-25	O
+
+Sex	O
+:	O
+
+F	O
+
+Service	O
+:	O
+
+CARDIOTHORACIC	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+The	O
+patient	O
+was	O
+referred	O
+from	O
+an	O
+outside	O
+hospital	O
+with	O
+a	O
+chief	O
+complaint	O
+of	O
+increasing	O
+shortness	O
+of	O
+breath	O
+and	O
+tires	O
+easily	O
+with	O
+exertion	O
+.	O
+
+Admitted	O
+to	O
+Bay	O
+State	O
+Medical	O
+Center	O
+Hospital	O
+in	O
+2012-10-22	O
+in	O
+congestive	O
+heart	O
+failure	O
+at	O
+that	O
+time	O
+.	O
+
+Via	O
+echocardiogram	B-procedure
+,	O
+found	O
+to	O
+have	O
+aortic	O
+stenosis	O
+.	O
+
+Referred	O
+to	O
+Memorial	O
+Hospital	O
+(	O
+Worcester	O
+)	O
+for	O
+cardiac	B-procedure
+catheterization	I-procedure
+to	O
+further	O
+evaluate	O
+her	O
+aortic	O
+stenosis	O
+.	O
+
+Cardiac	B-procedure
+catheterization	I-procedure
+done	O
+on	O
+01-07	O
+showed	O
+an	B-procedure
+aortic	I-procedure
+valve	I-procedure
+area	I-procedure
+of	O
+.38	O
+cm.sq.	O
+,	O
+with	O
+a	B-procedure
+mean	I-procedure
+gradient	I-procedure
+of	O
+62	O
+,	O
+and	O
+a	B-procedure
+peak	I-procedure
+gradient	I-procedure
+of	O
+85	O
+.	O
+
+Moderate	O
+pulmonary	O
+hypertension	O
+,	O
+PA	B-procedure
+pressure	I-procedure
+48/24	O
+,	O
+1+	O
+mitral	O
+regurgitation	O
+,	O
+severe	O
+aortic	O
+stenosis	O
+with	O
+an	B-procedure
+LVEDP	I-procedure
+of	O
+19	O
+and	O
+an	B-procedure
+ejection	I-procedure
+fraction	I-procedure
+of	O
+43%	O
+.	O
+
+She	O
+was	O
+then	O
+referred	O
+to	O
+Cardiothoracic	O
+Surgery	O
+for	O
+aortic	B-procedure
+valve	I-procedure
+replacement	I-procedure
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+1.	O
+Aortic	O
+stenosis	O
+
+2.	O
+Diabetes	O
+mellitus	O
+Type	O
+2	O
+
+3.	O
+Right	B-procedure
+hip	I-procedure
+replacement	I-procedure
+
+4.	O
+Noninsulin	O
+dependent	O
+diabetes	O
+mellitus	O
+
+MEDICATIONS	O
+ON	O
+ADMISSION	O
+:	O
+
+Include	O
+Glucovance	B-procedure
+5/500	O
+one	O
+tablet	O
+twice	O
+a	O
+day	O
+,	O
+Univasc	B-procedure
+7.5	O
+mg	O
+once	O
+daily	O
+,	O
+lasix	B-procedure
+20	O
+mg	O
+every	O
+other	O
+day	O
+,	O
+and	O
+aspirin	B-procedure
+325	O
+mg	O
+once	O
+daily	O
+.	O
+
+ALLERGIES	O
+:	O
+
+No	O
+known	O
+drug	O
+allergies	O
+.	O
+
+FAMILY	O
+HISTORY	O
+:	O
+
+Significant	O
+for	O
+her	O
+father	O
+,	O
+who	O
+died	O
+at	O
+50	O
+years	O
+from	O
+myocarditis	O
+.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+
+She	O
+lives	O
+alone	O
+in	O
+Methuen	O
+with	O
+five	O
+stairs	O
+.	O
+
+She	O
+has	O
+a	O
+remote	O
+tobacco	O
+history	O
+,	O
+quit	O
+in	O
+October	O
+,	O
+one	O
+pack	O
+per	O
+day	O
+for	O
+50	O
+years	O
+.	O
+
+No	O
+alcohol	O
+use	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+Vital	O
+signs	O
+:	O
+
+Heart	B-procedure
+rate	I-procedure
+108	O
+and	O
+regular	O
+,	O
+blood	B-procedure
+pressure	I-procedure
+145/76	O
+,	O
+respiratory	B-procedure
+rate	I-procedure
+20	O
+,	O
+height	B-procedure
+5'2"	O
+,	O
+weight	B-procedure
+141	O
+pounds	O
+.	O
+
+General	O
+:	O
+
+Healthy-appearing	O
+woman	O
+,	O
+in	O
+no	O
+acute	O
+distress	O
+.	O
+
+Skin	O
+:	O
+
+No	O
+lesions	O
+or	O
+rashes	O
+.	O
+
+Head	O
+,	O
+eyes	O
+,	O
+ears	O
+,	O
+nose	O
+and	O
+throat	O
+:	O
+
+Pupils	O
+equal	O
+,	O
+round	O
+and	O
+reactive	O
+to	O
+light	O
+,	O
+extraocular	O
+movements	O
+intact	O
+,	O
+anicteric	O
+,	O
+not	O
+injected	O
+.	O
+
+Oropharynx	O
+:	O
+
+Mucous	O
+membranes	O
+moist	O
+.	O
+
+Neck	O
+:	O
+
+Supple	O
+,	O
+no	O
+lymphadenopathy	O
+,	O
+no	O
+jugular	O
+venous	O
+distention	O
+,	O
+no	O
+thyromegaly	O
+.	O
+
+Chest	O
+:	O
+
+Clear	O
+to	O
+auscultation	B-procedure
+bilaterally	O
+.	O
+
+Heart	O
+:	O
+
+Regular	O
+rate	O
+and	O
+rhythm	O
+,	O
+S1	O
+,	O
+S2	O
+,	O
+with	O
+III/VI	O
+blowing	O
+murmur	O
+.	O
+
+Abdomen	O
+:	O
+
+Soft	O
+,	O
+nontender	O
+,	O
+nondistended	O
+,	O
+normal	O
+active	O
+bowel	O
+sounds	O
+,	O
+no	O
+hepatosplenomegaly	O
+.	O
+
+Extremities	O
+:	O
+
+Warm	O
+and	O
+well	O
+perfused	O
+,	O
+with	O
+no	O
+cyanosis	O
+,	O
+clubbing	O
+or	O
+edema	O
+,	O
+no	O
+varicosities	O
+.	O
+
+Neurological	O
+:	O
+
+Cranial	O
+nerves	O
+II	O
+through	O
+XII	O
+grossly	O
+intact	O
+.	O
+
+Moves	O
+all	O
+extremities	O
+.	O
+
+Strength	B-procedure
+5/5	O
+in	O
+upper	O
+and	O
+lower	O
+extremities	O
+.	O
+
+Sensation	O
+intact	O
+in	O
+all	O
+dermatomes	O
+.	O
+
+Pulses	B-procedure
+:	O
+
+Femoral	B-procedure
+2	O
++	O
+bilaterally	O
+,	O
+dorsalis	B-procedure
+pedis	I-procedure
+1	O
++	O
+bilaterally	O
+,	O
+posterior	B-procedure
+tibial	I-procedure
+1	O
++	O
+bilaterally	O
+,	O
+and	O
+radial	B-procedure
+2	O
++	O
+bilaterally	O
+.	O
+
+No	O
+carotid	O
+bruits	O
+were	O
+noted	O
+.	O
+
+LABORATORY	O
+DATA	O
+:	O
+
+White	B-procedure
+count	I-procedure
+5.3	O
+,	O
+hematocrit	B-procedure
+43	O
+,	O
+platelets	B-procedure
+200	O
+.	O
+
+Sodium	B-procedure
+138	O
+,	O
+potassium	B-procedure
+4.9	O
+,	O
+chloride	B-procedure
+102	O
+,	O
+CO2	B-procedure
+25	O
+,	O
+BUN	B-procedure
+24	O
+,	O
+creatinine	B-procedure
+0.9	O
+,	O
+glucose	B-procedure
+309	O
+.	O
+
+Electrocardiogram	B-procedure
+:	O
+
+Rate	B-procedure
+of	O
+91	O
+,	O
+first	O
+degree	O
+AV	O
+block	O
+,	O
+intervals	B-procedure
+.22	O
+,	O
+.92	O
+,	O
+.36	O
+,	O
+with	O
+left	O
+ventricular	O
+hypertrophy	O
+.	O
+
+Chest	B-procedure
+x-ray	I-procedure
+is	O
+pending	O
+at	O
+the	O
+time	O
+of	O
+physical	B-procedure
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+was	O
+a	O
+direct	O
+admission	O
+to	O
+the	O
+operating	O
+room	O
+on	O
+02-12	O
+,	O
+at	O
+which	O
+time	O
+she	O
+underwent	O
+an	O
+
+aortic	B-procedure
+valve	I-procedure
+replacement	I-procedure
+.	O
+
+Please	O
+see	O
+the	O
+operative	O
+report	O
+for	O
+full	O
+details	O
+.	O
+
+In	O
+summary	O
+,	O
+she	O
+had	O
+an	B-procedure
+aortic	I-procedure
+valve	I-procedure
+replacement	I-procedure
+with	O
+a	B-procedure
+#21	I-procedure
+mosaic	I-procedure
+porcine	I-procedure
+valve	I-procedure
+.	O
+
+She	O
+tolerated	O
+the	B-procedure
+operation	I-procedure
+well	O
+,	O
+and	O
+was	O
+transferred	O
+from	O
+the	O
+operating	O
+room	O
+to	O
+the	O
+Cardiothoracic	O
+Intensive	O
+Care	O
+Unit	O
+.	O
+
+The	O
+patient	O
+did	O
+well	O
+in	O
+the	O
+immediate	O
+postoperative	O
+period	O
+,	O
+however	O
+,	O
+her	B-procedure
+blood	I-procedure
+pressure	I-procedure
+remained	O
+somewhat	O
+labile	O
+.	O
+
+Therefore	O
+,	O
+she	O
+was	O
+continued	O
+on	O
+a	B-procedure
+Neo-Synephrine	I-procedure
+drip	I-procedure
+to	O
+maintain	O
+a	B-procedure
+systolic	I-procedure
+blood	I-procedure
+pressure	I-procedure
+greater	O
+than	O
+110	O
+.	O
+
+In	O
+addition	O
+,	O
+she	O
+was	O
+slow	O
+to	O
+awaken	O
+after	O
+her	B-procedure
+anesthesia	I-procedure
+was	O
+reversed	O
+,	O
+and	O
+in	O
+several	O
+attempts	O
+to	O
+wean	O
+from	O
+the	B-procedure
+ventilator	I-procedure
+,	O
+she	O
+developed	O
+a	O
+respiratory	O
+acidosis	O
+.	O
+
+She	O
+therefore	O
+remained	O
+on	O
+the	B-procedure
+ventilator	I-procedure
+throughout	O
+the	O
+day	O
+of	O
+postoperative	O
+day	O
+one	O
+.	O
+
+On	O
+postoperative	O
+day	O
+two	O
+,	O
+the	O
+patient	O
+remained	O
+hemodynamically	O
+stable	O
+.	O
+
+Her	B-procedure
+Neo-Synephrine	I-procedure
+drip	I-procedure
+was	O
+weaned	O
+to	O
+off	O
+.	O
+
+She	O
+was	O
+again	O
+weaned	O
+from	O
+the	B-procedure
+ventilator	I-procedure
+,	O
+and	O
+successfully	O
+extubated	O
+.	O
+
+Her	B-procedure
+chest	I-procedure
+tubes	I-procedure
+were	O
+discontinued	O
+and	O
+,	O
+at	O
+the	O
+end	O
+of	O
+the	O
+day	O
+,	O
+she	O
+was	O
+transferred	O
+from	O
+the	O
+Cardiothoracic	O
+Intensive	O
+Care	O
+Unit	O
+to	O
+the	O
+floor	O
+for	O
+continuing	B-procedure
+postoperative	I-procedure
+care	I-procedure
+and	O
+cardiac	B-procedure
+rehabilitation	I-procedure
+.	O
+
+After	O
+being	O
+transferred	O
+to	O
+the	O
+floor	O
+,	O
+the	O
+patient	O
+did	O
+well	O
+.	O
+
+Over	O
+the	O
+next	O
+several	O
+days	O
+,	O
+her	O
+activity	O
+level	O
+was	O
+increased	O
+with	O
+the	O
+assistance	O
+of	O
+Physical	O
+Therapy	O
+and	O
+the	O
+nursing	O
+staff	O
+.	O
+
+She	O
+remained	O
+hemodynamically	O
+stable	O
+.	O
+
+Her	O
+respiratory	O
+condition	O
+remained	O
+stable	O
+and	O
+,	O
+on	O
+postoperative	O
+day	O
+four	O
+,	O
+she	O
+was	O
+deemed	O
+stable	O
+and	O
+ready	O
+to	O
+be	O
+transferred	O
+to	O
+rehabilitation	O
+for	O
+continuing	B-procedure
+postoperative	I-procedure
+care	I-procedure
+and	O
+physical	O
+
+therapy	B-procedure
+.	O
+
+At	O
+the	O
+time	O
+of	O
+transfer	O
+,	O
+the	B-procedure
+patient	I-procedure
+'s	I-procedure
+physical	I-procedure
+examination	I-procedure
+is	O
+as	O
+follows	O
+:	O
+
+Vital	O
+signs	O
+:	O
+
+Temperature	B-procedure
+98.4	O
+,	O
+heart	B-procedure
+rate	I-procedure
+78	O
+and	O
+sinus	B-procedure
+rhythm	I-procedure
+,	O
+blood	B-procedure
+pressure	I-procedure
+106/50	O
+,	O
+respiratory	B-procedure
+rate	I-procedure
+18	O
+,	O
+oxygen	B-procedure
+saturation	I-procedure
+97%	O
+on	O
+room	O
+air	O
+.	O
+
+Weight	B-procedure
+preoperatively	O
+was	O
+67	O
+kg	O
+,	O
+at	O
+discharge	O
+is	O
+70.9	O
+kg	O
+.	O
+
+Laboratory	B-procedure
+data	I-procedure
+on	O
+02-15	O
+:	O
+
+White	B-procedure
+count	I-procedure
+4.1	O
+,	O
+hematocrit	B-procedure
+23	O
+,	O
+platelets	B-procedure
+144	O
+.	O
+
+Sodium	B-procedure
+141	O
+,	O
+potassium	B-procedure
+4.3	O
+,	O
+chloride	B-procedure
+108	O
+,	O
+CO2	B-procedure
+25	O
+,	O
+BUN	B-procedure
+24	O
+,	O
+creatinine	B-procedure
+0.8	O
+,	O
+glucose	B-procedure
+140	O
+.	O
+
+Physical	O
+examination	O
+:	O
+
+Alert	O
+and	O
+oriented	O
+x	O
+3	O
+,	O
+moves	O
+all	O
+extremities	O
+,	O
+conversant	O
+.	O
+
+Respiratory	O
+:	O
+
+Scattered	O
+rhonchi	O
+with	O
+diminished	O
+breath	O
+sounds	O
+in	O
+the	O
+bases	O
+.	O
+
+Cor	O
+:	O
+
+Regular	O
+rate	O
+and	O
+rhythm	O
+,	O
+S1	O
+,	O
+S2	O
+,	O
+with	O
+soft	O
+systolic	O
+ejection	O
+murmur	O
+.	O
+
+Sternum	O
+is	O
+stable	O
+.	O
+
+Incision	O
+with	O
+staples	B-procedure
+,	O
+open	O
+to	O
+air	O
+,	O
+clean	O
+and	O
+dry	O
+.	O
+
+Abdomen	O
+:	O
+
+Soft	O
+,	O
+nontender	O
+,	O
+nondistended	O
+,	O
+normal	O
+active	O
+bowel	O
+sounds	O
+.	O
+
+Extremities	O
+:	O
+
+Warm	O
+and	O
+well	O
+perfused	O
+,	O
+with	O
+no	O
+cyanosis	O
+,	O
+clubbing	O
+or	O
+edema	O
+.	O
+
+DISCHARGE	O
+MEDICATIONS	O
+:	O
+
+Ranitidine	B-procedure
+150	O
+mg	O
+twice	O
+a	O
+day	O
+,	O
+enteric-coated	B-procedure
+aspirin	I-procedure
+325	O
+mg	O
+once	O
+daily	O
+,	O
+Glucovance	B-procedure
+5/500	O
+one	O
+tablet	O
+twice	O
+a	O
+day	O
+,	O
+metoprolol	B-procedure
+25	O
+mg	O
+twice	O
+a	O
+day	O
+,	O
+Furosemide	B-procedure
+20	O
+mg	O
+once	O
+daily	O
+for	O
+14	O
+days	O
+,	O
+potassium	B-procedure
+chloride	I-procedure
+20	O
+mEq	O
+once	O
+daily	O
+for	O
+14	O
+days	O
+,	O
+Colace	B-procedure
+100	O
+mg	O
+twice	O
+a	O
+day	O
+,	O
+Niferex	B-procedure
+150	O
+mg	O
+once	O
+daily	O
+,	O
+Percocet	B-procedure
+5/325	O
+one	O
+to	O
+two	O
+tablets	O
+every	O
+four	O
+hours	O
+as	O
+needed	O
+,	O
+ibuprofen	B-procedure
+400	O
+mg	O
+every	O
+six	O
+hours	O
+as	O
+needed	O
+.	O
+
+DISCHARGE	O
+DIAGNOSIS	O
+:	O
+
+1.	O
+Aortic	O
+stenosis	O
+status	O
+post	O
+aortic	B-procedure
+valve	I-procedure
+replacement	I-procedure
+with	O
+a	B-procedure
+#21	I-procedure
+mosaic	I-procedure
+porcine	I-procedure
+valve	I-procedure
+
+2.	O
+Diabetes	O
+mellitus	O
+Type	O
+2	O
+
+3.	O
+Right	B-procedure
+hip	I-procedure
+replacement	I-procedure
+
+CONDITION	O
+ON	O
+TRANSFER	O
+:	O
+
+Stable	O
+.	O
+
+DISCHARGE	O
+INSTRUCTIONS	O
+:	O
+
+She	O
+is	O
+to	O
+have	O
+follow	O
+up	O
+with	O
+Dr.	O
+Bloomfield	O
+in	O
+one	O
+month	O
+,	O
+and	O
+follow	O
+up	O
+in	O
+the	O
+Wound	O
+Clinic	O
+in	O
+two	O
+
+weeks	O
+.	O
+
+Alice	O
+S.	O
+Shadle	O
+,	O
+M.D.	O
+
+37-538	O
+
+Dictated	O
+By	O
+:	O
+James	O
+F.	O
+Buchanan	O
+,	O
+M.D.	O
+
+MEDQUIST36	O
+
+D	O
+:	O
+2013-02-15	O
+18:35	O
+
+T	O
+:	O
+2013-02-16	O
+01:03	O
+
+JOB	O
+#:	O
+
+59205	O
+
+Signed	O
+electronically	O
+by	O
+:	O
+DR.	O
+Richard	O
+Gray	O
+on	O
+:	O
+Tommy	O
+2013-02-17	O
+12:05	O
+AM	O
+
+(	O
+End	O
+of	O
+Report	O
+)	O
+
+745431641	O
+WGH	O
+
+2464448	O
+
+333887	O
+
+3473372	O
+
+9/16/2004	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+/	O
+SUMMARY	O
+
+KOTEA	O
+,	O
+TORTHEOA	O
+
+MRN	O
+:	O
+
+2464448	O
+
+Age	O
+:	O
+
+59y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+09/16/2004	O
+09:22	O
+AM	O
+
+Provider	O
+:	O
+
+YERTREY	O
+SUMCHIRDKAYSMAVVEINDREPS	O
+
+PRELIMINARY	O
+REPORT	O
+
+PCP	O
+notified	O
+by	O
+MD	O
+:	O
+
+Yes	O
+-	O
+Direct	O
+contact	O
+with	O
+PCP	O
+
+Benefits	O
+Assigned	O
+:	O
+
+N	O
+
+Discharge	O
+Date	O
+/	O
+Time	O
+:	O
+
+09/16/2004	O
+17:48	O
+
+Discharge	O
+Status	O
+:	O
+
+Discharged	O
+
+Condition	O
+on	O
+Discharge	O
+:	O
+
+Stable	O
+
+Patient	O
+States	O
+Complaint	O
+:	O
+
+CP	O
+
+Standardized	O
+Discharge	O
+Instructions	O
+:	O
+
+The	O
+patient	O
+was	O
+given	O
+printed	O
+instructions	O
+for	O
+chest	O
+pain	O
+(	O
+English	O
+)	O
+.	O
+
+Diagnosis	O
+:	O
+
+Noncardiac	O
+chest	O
+pain	O
+
+Treatment	O
+Rendered	O
+:	O
+
+Labs	B-procedure
+stable	O
+,	O
+NTG	B-procedure
+sublingual	I-procedure
+,	O
+stress	B-procedure
+MIBI	I-procedure
+was	O
+negative	O
+for	O
+ischemia	O
+.	O
+
+Discharge	O
+Medications	O
+:	O
+
+Continue	O
+current	B-procedure
+medication	I-procedure
+
+Disposition	O
+,	O
+Follow	O
+up	O
+and	O
+Instructions	O
+to	O
+Patient	O
+:	O
+
+Follow	O
+up	O
+as	O
+scheduled	O
+with	O
+Dr.	O
+Fyfechird	O
+.	O
+
+Return	O
+to	O
+the	O
+ED	O
+for	O
+worsening	O
+chest	O
+pain	O
+,	O
+shortness	O
+of	O
+breath	O
+,	O
+nausea	O
+/	O
+vomiting	O
+,	O
+fever	O
+/	O
+chills	O
+,	O
+weakness	O
+/	O
+dizziness/numbness	O
+,	O
+or	O
+any	O
+other	O
+problems	O
+.	O
+
+PCP	O
+Name	O
+:	O
+
+SLANDTIF	O
+,	O
+ASTHEO	O
+D	O
+
+Provider	O
+Number	O
+:	O
+
+49422	O
+
+This	O
+report	O
+was	O
+created	O
+by	O
+SUMCHIRDKAYSMAVVEINDREPS	O
+,	O
+YERTREY	O
+09/16/2004	O
+05:53	O
+PM	O
+
+320422564	O
+
+CTMC	O
+
+09300549	O
+
+340424	O
+
+06/16/1997	O
+12:00:00	O
+AM	O
+
+BILIARY	O
+OBSTRUCTION	O
+
+Signed	O
+
+DIS	O
+
+Admission	O
+Date	O
+:	O
+
+06/16/1997	O
+
+Report	O
+Status	O
+:	O
+
+Signed	O
+
+Discharge	O
+Date	O
+:	O
+
+06/18/1997	O
+
+PROBLEM	O
+LIST	O
+:	O
+
+1.	O
+RECTAL	O
+CARCINOMA	O
+,	O
+STATUS	O
+POST	O
+PARTIAL	B-procedure
+COLECTOMY	I-procedure
+.	O
+
+2.	O
+METASTATIC	O
+COLON	O
+CARCINOMA	O
+.	O
+
+3.	O
+HYPERTENSION	O
+.	O
+
+4.	O
+AORTIC	O
+STENOSIS	O
+WITH	O
+PORCINE	B-procedure
+VALVE	I-procedure
+.	O
+
+5.	O
+URINARY	O
+TRACT	O
+INFECTION	O
+.	O
+
+6.	O
+CHOLANGITIS	O
+.	O
+
+7.	O
+ANEMIA	O
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+This	O
+is	O
+a	O
+70	O
+year	O
+old	O
+gentleman	O
+with	O
+metastatic	O
+rectal	O
+cancer	O
+who	O
+presented	O
+with	O
+biliary	O
+obstruction	O
+.	O
+
+In	O
+the	O
+past	O
+,	O
+he	O
+had	O
+biliary	B-procedure
+stents	I-procedure
+placed	O
+which	O
+clotted	O
+off	O
+.	O
+
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+the	O
+Short	O
+Stay	O
+Unit	O
+for	O
+further	B-procedure
+evaluation	I-procedure
+.	O
+
+The	O
+day	O
+prior	O
+,	O
+the	O
+patient	O
+had	O
+endoscopic	B-procedure
+retrograde	I-procedure
+cholangiopancreatography	I-procedure
+done	O
+with	O
+dilated	O
+ducts	O
+times	O
+two	O
+and	O
+eventually	O
+had	O
+interventional	B-procedure
+radiology	I-procedure
+attempt	O
+to	O
+place	O
+percutaneous	B-procedure
+drains	I-procedure
+to	O
+decompress	O
+his	O
+biliary	O
+tree	O
+.	O
+
+The	O
+patient	O
+had	O
+two	B-procedure
+drains	I-procedure
+placed	O
+after	O
+a	B-procedure
+prolonged	I-procedure
+course	I-procedure
+and	O
+difficult	B-procedure
+procedure	I-procedure
+.	O
+
+After	O
+being	O
+transferred	O
+from	O
+the	O
+interventional	O
+radiology	O
+table	O
+to	O
+the	O
+stretcher	O
+,	O
+one	O
+of	O
+his	B-procedure
+lateral	I-procedure
+percutaneous	I-procedure
+drains	I-procedure
+had	O
+been	O
+pulled	O
+out	O
+inadvertently	O
+.	O
+
+He	O
+was	O
+admitted	O
+to	O
+the	O
+Short	O
+Stay	O
+Unit	O
+,	O
+given	O
+Ancef	B-procedure
+and	O
+Gentamicin	B-procedure
+per	O
+the	O
+team	O
+for	O
+antibiotic	B-procedure
+prophylaxis	I-procedure
+and	O
+observed	O
+overnight	O
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+As	O
+above	O
+.	O
+
+ALLERGIES	O
+:	O
+
+None	O
+.	O
+
+MEDICATIONS	O
+ON	O
+ADMISSION	O
+:	O
+
+Cipro	B-procedure
+500	O
+mg	O
+p.o.	O
+b.i.d.	O
+,	O
+Vasotec	B-procedure
+10	O
+mg	O
+q.d.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+
+The	O
+patient	O
+denies	O
+any	O
+alcohol	O
+or	O
+tobacco	O
+.	O
+
+FAMILY	O
+HISTORY	O
+:	O
+
+Significant	O
+for	O
+colon	O
+carcinoma	O
+.	O
+
+REVIEW	O
+OF	O
+SYSTEMS	O
+:	O
+
+Unremarkable	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+Temperature	B-procedure
+was	O
+99.1	O
+,	O
+blood	B-procedure
+pressure	I-procedure
+132/74	O
+,	O
+heart	B-procedure
+rate	I-procedure
+80	O
+,	O
+respirations	B-procedure
+18	O
+,	O
+02	B-procedure
+sat	I-procedure
+99%	O
+on	O
+room	O
+air	O
+.	O
+
+The	O
+patient	O
+was	O
+an	O
+alert	O
+,	O
+jaundiced	O
+gentleman	O
+in	O
+no	O
+acute	O
+distress	O
+.	O
+
+LUNGS	O
+:	O
+
+were	O
+clear	O
+to	O
+auscultation	B-procedure
+.	O
+
+HEART	O
+:	O
+
+had	O
+a	O
+regular	O
+rate	O
+and	O
+rhythm	O
+with	O
+a	O
+II	O
+/	O
+VI	O
+systolic	O
+murmur	O
+at	O
+the	O
+right	O
+sternal	O
+border	O
+.	O
+
+ABDOMEN	O
+:	O
+
+was	O
+soft	O
+,	O
+nontender	O
+,	O
+with	O
+good	O
+bowel	O
+sounds	O
+.	O
+
+He	O
+had	O
+midline	B-procedure
+catheter	I-procedure
+that	O
+was	O
+still	O
+in	O
+place	O
+and	O
+was	O
+draining	O
+bile	O
+.	O
+
+EXTREMITIES	O
+:	O
+
+were	O
+without	O
+edema	O
+.	O
+
+NEUROLOGICAL	O
+:	O
+
+exam	B-procedure
+within	O
+normal	O
+limits	O
+.	O
+
+LABORATORY	O
+:	O
+
+White	B-procedure
+count	I-procedure
+was	O
+8.2	O
+,	O
+hematocrit	B-procedure
+35	O
+.	O
+
+AST	B-procedure
+was	O
+175	O
+,	O
+ALT	B-procedure
+76	O
+,	O
+LDH	B-procedure
+454	O
+.	O
+
+Total	B-procedure
+bilirubin	I-procedure
+was	O
+12	O
+and	O
+direct	B-procedure
+bilirubin	I-procedure
+8	O
+.	O
+
+Alkaline	B-procedure
+phosphatase	I-procedure
+was	O
+372	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+the	O
+Short	O
+Stay	O
+Unit	O
+and	O
+continued	O
+to	O
+receive	O
+antibiotics	B-procedure
+overnight	O
+.	O
+
+The	O
+next	O
+morning	O
+,	O
+he	O
+was	O
+doing	O
+well	O
+with	O
+the	B-procedure
+intact	I-procedure
+drain	I-procedure
+draining	O
+bilious	O
+material	O
+without	O
+any	O
+difficulty	O
+.	O
+
+The	O
+patient	O
+was	O
+doing	O
+well	O
+with	O
+minimal	O
+to	O
+no	O
+belly	O
+pain	O
+and	O
+no	O
+nausea	O
+or	O
+vomiting	O
+.	O
+
+The	O
+patient	O
+was	O
+taken	O
+back	O
+to	O
+surgery	O
+by	O
+the	O
+interventional	O
+radiology	O
+team	O
+and	O
+had	O
+a	B-procedure
+second	I-procedure
+drain	I-procedure
+placed	O
+without	O
+any	O
+difficulty	O
+and	O
+was	O
+transferred	O
+back	O
+to	O
+the	O
+Short	O
+Stay	O
+Unit	O
+.	O
+
+The	O
+patient	O
+was	O
+observed	O
+overnight	O
+without	O
+any	O
+problems	O
+.	O
+
+He	O
+was	O
+tolerating	O
+p.o.	O
+and	O
+feeling	O
+back	O
+to	O
+his	O
+baseline	O
+.	O
+
+He	O
+was	O
+discharged	O
+in	O
+stable	O
+condition	O
+.	O
+
+DISCHARGE	O
+MEDICATIONS	O
+:	O
+
+Same	O
+as	O
+admission	O
+.	O
+
+He	O
+will	O
+continue	O
+Cipro	B-procedure
+p.o.	I-procedure
+for	O
+prophylaxis	B-procedure
+.	O
+
+FOLLOW-UP	O
+:	O
+
+Follow-up	O
+with	O
+Dr.	O
+Loydsadd	O
+in	O
+one	O
+to	O
+two	O
+weeks	O
+.	O
+
+He	O
+is	O
+also	O
+to	O
+have	O
+AH	B-procedure
+for	O
+his	B-procedure
+home	I-procedure
+stent	I-procedure
+care	I-procedure
+.	O
+
+Dictated	O
+By	O
+:	O
+
+Attending	O
+:	O
+
+LILLBI	O
+FYFEBREUN	O
+,	O
+M.D.	O
+KE15	O
+TB326/0625	O
+
+Batch	O
+:	O
+
+56777	O
+
+Index	O
+No.	O
+M2ZRS51Y3Q	O
+
+D	O
+:	O
+
+06/18/97	O
+
+T	O
+:	O
+
+06/21/97	O
+
+262182942	O
+
+BH	O
+
+2513486	O
+
+923091	O
+
+05/08/2000	O
+12:00:00	O
+AM	O
+
+ED	O
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+ED	O
+DISCHARGE	O
+NOTIFICATION	O
+
+JEM	O
+,	O
+ON	O
+
+MRN	O
+:	O
+
+2513486	O
+
+Age	O
+:	O
+
+74y	O
+
+REGISTRATION	O
+DATE	O
+:	O
+
+05/08/2000	O
+07:57	O
+PM	O
+
+PRELIMINARY	O
+REPORT	O
+
+This	O
+is	O
+to	O
+notify	O
+you	O
+that	O
+your	O
+patient	O
+,	O
+JEM	O
+,	O
+ON	O
+arrived	O
+in	O
+the	O
+Emergency	O
+Department	O
+at	O
+Bri	O
+Health	O
+on	O
+05/08/2000	O
+07:57	O
+PM	O
+.	O
+
+The	O
+patient	O
+presented	O
+with	O
+a	O
+chief	O
+complaint	O
+of	O
+IV	B-procedure
+FLUIDS	I-procedure
+.	O
+
+Following	O
+triage	B-procedure
+,	O
+the	O
+patient	O
+LEFT	O
+WITHOUT	O
+TREATMENT	B-procedure
+.	O
+
+If	O
+you	O
+need	O
+additional	O
+information	O
+please	O
+call	O
+442-025-0303	O
+.	O
+
+PCP	O
+Name	O
+:	O
+
+ACKCA	O
+,	O
+SLAINEAEE	O
+L	O
+
+Provider	O
+Number	O
+:	O
+
+78369	O
+
+910458031	O
+
+NVH	O
+
+23238893	O
+
+1/12/1991	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Signed	O
+
+DIS	O
+
+Admission	O
+Date	O
+:	O
+
+01/12/1991	O
+
+Report	O
+Status	O
+:	O
+
+Signed	O
+
+Discharge	O
+Date	O
+:	O
+
+01/20/1991	O
+
+PRINCIPAL	O
+DIAGNOSIS	O
+:	O
+
+METASTATIC	O
+ADENOCARCINOMA	O
+OF	O
+UNKNOWN	O
+PRIMARY	O
+.	O
+
+SECONDARY	O
+DIAGNOSIS	O
+:	O
+
+INTRAUTERINE	O
+PREGNANCY	O
+AT	O
+23	O
+WEEKS	O
+.	O
+
+HYPERCALCEMIA	O
+.	O
+
+INFERIOR	O
+VENA	O
+CAVA	O
+OBSTRUCTION	O
+.	O
+
+IMPENDING	O
+SPINAL	O
+CORD	O
+COMPRESSION	O
+.	O
+
+IDENTIFICATION	O
+DATA	O
+:	O
+
+The	O
+patient	O
+is	O
+a	O
+34-year-old	O
+female	O
+with	O
+a	O
+22	O
+week	O
+intrauterine	O
+pregnancy	O
+who	O
+was	O
+transferred	O
+from	O
+Bri	O
+Health	O
+with	O
+diffuse	O
+metastatic	O
+adenocarcinoma	O
+of	O
+unknown	O
+primary	O
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+
+The	O
+patient	O
+was	O
+in	O
+her	O
+usual	O
+state	O
+of	O
+excellent	O
+health	O
+until	O
+July	O
+of	O
+1991	O
+when	O
+she	O
+first	O
+noted	O
+a	O
+left	O
+clavicular	O
+mass	O
+.	O
+
+Subsequently	O
+,	O
+the	O
+mass	O
+continued	O
+to	O
+increase	O
+in	O
+size	O
+.	O
+
+On	O
+12/23	O
+,	O
+she	O
+was	O
+seen	O
+by	O
+Dr.	O
+Stonge	O
+at	O
+Bri	O
+Health	O
+where	O
+a	O
+3	O
+x	O
+7	O
+cm	O
+left	O
+mid	O
+clavicular	O
+mass	O
+was	O
+noted	O
+.	O
+
+A	B-procedure
+fine	I-procedure
+needle	I-procedure
+aspirate	I-procedure
+of	O
+this	O
+mass	O
+reportedly	O
+revealed	O
+giant	O
+cell	O
+tumor	O
+.	O
+
+The	O
+patient	O
+was	O
+initially	O
+told	O
+that	O
+this	O
+was	O
+a	O
+benign	O
+tumor	O
+and	O
+that	O
+it	O
+could	O
+simply	O
+be	O
+watched	O
+and	O
+definitively	O
+treated	O
+after	O
+the	B-procedure
+delivery	I-procedure
+of	I-procedure
+her	I-procedure
+baby	I-procedure
+.	O
+
+Subsequently	O
+,	O
+the	O
+mass	O
+progressively	O
+increased	O
+in	O
+size	O
+and	O
+the	O
+patient	O
+had	O
+developed	O
+significant	O
+discomfort	O
+in	O
+this	O
+region	O
+.	O
+
+On	O
+1/5	O
+,	O
+the	O
+patient	O
+underwent	O
+a	B-procedure
+local	I-procedure
+tumor	I-procedure
+debulking	I-procedure
+at	O
+Bri	O
+Health	O
+under	O
+local	B-procedure
+anesthesia	I-procedure
+.	O
+
+The	B-procedure
+pathology	I-procedure
+,	O
+unfortunately	O
+,	O
+revealed	O
+an	O
+aggressive	O
+adenocarcinoma	O
+(	O
+micropapillary	O
+type	O
+;	O
+mucin	O
+producing	O
+)	O
+.	O
+
+This	O
+prompted	O
+further	B-procedure
+staging	I-procedure
+work-up	I-procedure
+.	O
+
+The	O
+patient	O
+subsequently	O
+had	O
+a	B-procedure
+limited	I-procedure
+chest	I-procedure
+CT	I-procedure
+at	O
+Bri	O
+Health	O
+which	O
+showed	O
+diffuse	O
+bilateral	O
+pulmonary	O
+metastases	O
+,	O
+metastases	O
+to	O
+the	O
+sternum	O
+,	O
+rib	O
+,	O
+multiple	O
+spinal	O
+levels	O
+;	O
+internal	O
+mammary	O
+lymphadenopathy	O
+.	O
+
+The	O
+poor	O
+prognosis	O
+for	O
+the	O
+patient	O
+and	O
+child	O
+were	O
+discussed	O
+and	O
+after	O
+the	O
+patient	O
+decided	O
+to	O
+have	O
+an	B-procedure
+elective	I-procedure
+abortion	I-procedure
+,	O
+an	B-procedure
+abdominal	I-procedure
+CT	I-procedure
+scan	I-procedure
+was	O
+obtained	O
+which	O
+revealed	O
+diffuse	O
+metastatic	O
+lesions	O
+of	O
+the	O
+liverspine	O
+,	O
+ribs	O
+and	O
+most	O
+of	O
+the	O
+lymph	O
+nodes	O
+.	O
+
+There	O
+was	O
+no	O
+obvious	O
+GIor	O
+pancreatic	O
+tumor	O
+identified	O
+.	O
+
+The	O
+patient	O
+had	O
+a	O
+very	O
+firm	O
+nodule	O
+at	O
+the	O
+vertex	O
+of	O
+her	O
+calvarium	O
+.	O
+
+A	O
+specimen	O
+was	O
+obtained	O
+by	O
+fine	B-procedure
+needle	I-procedure
+aspiration	I-procedure
+and	O
+the	B-procedure
+pathology	I-procedure
+of	O
+this	O
+was	O
+consistent	O
+with	O
+adenocarcinoma	O
+.	O
+
+The	O
+patient	O
+was	O
+transferred	O
+to	O
+Nimaconwood	O
+Valley	O
+Hospital	O
+for	O
+management	B-procedure
+of	O
+her	O
+cancer	O
+and	O
+termination	B-procedure
+of	O
+the	O
+pregnancy	O
+.	O
+
+Over	O
+the	O
+past	O
+four	O
+weeks	O
+,	O
+the	O
+patient	O
+reported	O
+progressive	O
+shortness	O
+of	O
+breath	O
+and	O
+mid	O
+thoracic	O
+back	O
+pain	O
+.	O
+
+She	O
+has	O
+had	O
+no	O
+motor	O
+weakness	O
+,	O
+abnormal	O
+sensation	O
+,	O
+numbness	O
+,	O
+tingling	O
+or	O
+incontinence	O
+of	O
+bowel	O
+or	O
+bladder	O
+.	O
+
+She	O
+denied	O
+fevers	O
+,	O
+chills	O
+or	O
+sweats	O
+.	O
+
+There	O
+has	O
+been	O
+no	O
+GI	O
+or	O
+GU	O
+symptoms	O
+except	O
+for	O
+constipation	O
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+Unremarkable	O
+.	O
+
+MEDICATIONS	O
+:	O
+
+On	O
+admission	O
+included	O
+Percocet	B-procedure
+for	O
+pain	O
+and	O
+multivitamins	B-procedure
+.	O
+
+ALLERGIES	O
+:	O
+
+NO	O
+KNOWN	O
+DRUG	O
+ALLERGIES	O
+.	O
+
+FAMILY	O
+HISTORY	O
+:	O
+
+The	O
+patient	O
+&apos;s	O
+father	O
+died	O
+at	O
+age	O
+69	O
+with	O
+metastatic	O
+prostate	O
+cancer	O
+.	O
+
+The	O
+patient	O
+&apos;s	O
+sister	O
+has	O
+a	O
+history	O
+of	O
+cervical	O
+cancer	O
+.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+
+The	O
+patient	O
+is	O
+married	O
+and	O
+lives	O
+with	O
+her	O
+husband	O
+.	O
+
+She	O
+has	O
+no	O
+children	O
+.	O
+
+She	O
+is	O
+a	O
+nonsmoker	O
+.	O
+
+She	O
+drinks	O
+socially	O
+.	O
+
+She	O
+has	O
+not	O
+had	O
+any	O
+alcoholic	O
+beverages	O
+during	O
+this	O
+pregnancy	O
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+On	O
+admission	O
+revealed	O
+a	O
+pleasant	O
+,	O
+comfortable	O
+,	O
+tired	O
+appearing	O
+female	O
+.	O
+
+The	O
+patient	O
+was	O
+afebrile	O
+.	O
+
+Blood	B-procedure
+pressure	I-procedure
+was	O
+98/64	O
+.	O
+
+Pulse	B-procedure
+82	O
+.	O
+
+Respiratory	B-procedure
+rate	I-procedure
+20	O
+.	O
+
+Skin	B-procedure
+exam	I-procedure
+revealed	O
+a	O
+right	O
+posterior	O
+parietal	O
+scalp	O
+nodle	O
+measuring	O
+2	O
+x	O
+3	O
+cm	O
+which	O
+was	O
+very	O
+firm	O
+.	O
+
+There	O
+was	O
+a	O
+1	O
+cm	O
+firm	O
+nodule	O
+at	O
+the	O
+left	O
+upper	O
+thoracic	O
+region	O
+of	O
+the	O
+back	O
+between	O
+the	O
+midline	O
+and	O
+the	O
+scapula	O
+.	O
+
+There	O
+was	O
+a	O
+1	O
+cm	O
+firm	O
+nodule	O
+in	O
+the	O
+right	O
+upper	O
+quadrant	O
+of	O
+the	O
+abdomen	O
+.	O
+
+HEENT	B-procedure
+exam	I-procedure
+was	O
+unremarkable	O
+.	O
+
+Neck	O
+was	O
+supple	O
+.	O
+
+There	O
+was	O
+no	O
+jugular	O
+venous	O
+distention	O
+.	O
+
+There	O
+was	O
+no	O
+lymphadenopathy	O
+.	O
+
+Back	O
+was	O
+without	O
+CVA	O
+tenderness	O
+.	O
+
+There	O
+was	O
+no	O
+scapular	O
+tenderness	O
+.	O
+
+There	O
+was	O
+mild	O
+lower	O
+thoracic	O
+tenderness	O
+.	O
+
+Lungs	O
+were	O
+clear	O
+to	O
+auscultation	B-procedure
+.	O
+
+There	O
+were	O
+no	O
+rales	O
+or	O
+wheezes	O
+.	O
+
+There	O
+was	O
+no	O
+egophony	O
+.	O
+
+Cardiac	B-procedure
+exam	I-procedure
+was	O
+tachycardic	O
+and	O
+regular	O
+,	O
+normal	O
+S1	O
+and	O
+S2	O
+.	O
+
+There	O
+was	O
+a	O
+II	O
+/	O
+VI	O
+systolic	O
+ejection	O
+murmur	O
+loudest	O
+at	O
+the	O
+left	O
+upper	O
+sternal	O
+border	O
+.	O
+
+There	O
+was	O
+no	O
+heave	O
+.	O
+
+Abdomen	O
+was	O
+gravid	O
+.	O
+
+Bowel	O
+sounds	O
+were	O
+present	O
+.	O
+
+The	O
+abdomen	O
+was	O
+tympanitic	O
+and	O
+nontender	O
+.	O
+
+The	O
+liver	O
+was	O
+11	O
+cm	O
+by	O
+percussion	B-procedure
+.	O
+
+There	O
+was	O
+no	O
+liver	O
+edge	O
+palpable	O
+,	O
+no	O
+spleen	O
+tip	O
+palpable	O
+.	O
+
+Rectal	O
+revealed	O
+normal	O
+muscle	O
+tone	O
+,	O
+heme	O
+negative	O
+stool	O
+.	O
+
+Extremities	O
+revealed	O
+1+	O
+bipedal	O
+edema	O
+on	O
+admission	O
+.	O
+
+Neurological	B-procedure
+examination	I-procedure
+revealed	O
+the	O
+patient	O
+to	O
+be	O
+alert	O
+and	O
+oriented	O
+times	O
+three	O
+.	O
+
+Cranial	O
+nerves	O
+II	O
+-	O
+XII	O
+were	O
+intact	O
+.	O
+
+Motor	O
+was	O
+5/5	O
+.	O
+
+Sensation	O
+was	O
+intact	O
+to	O
+light	B-procedure
+touch	I-procedure
+.	O
+
+Deep	B-procedure
+tendon	I-procedure
+reflexes	I-procedure
+were	O
+1-2+	O
+and	O
+symmetric	O
+bilaterally	O
+.	O
+
+Toes	O
+were	O
+downgoing	O
+.	O
+
+LABORATORY	O
+DATA	O
+:	O
+
+On	O
+admission	O
+included	O
+an	B-procedure
+ALT	I-procedure
+of	O
+108	O
+,	O
+AST	B-procedure
+of	O
+286	O
+.	O
+
+Total	B-procedure
+bilirubin	I-procedure
+3.0	O
+,	O
+direct	B-procedure
+bilirubin	I-procedure
+of	O
+2.0	O
+.	O
+
+Alkaline	B-procedure
+phosphatase	I-procedure
+1148	O
+.	O
+
+LDH	B-procedure
+806	O
+.	O
+
+Calcium	B-procedure
+11.8	O
+.	O
+
+Albumin	B-procedure
+2.3	O
+.	O
+
+Hematocrit	B-procedure
+was	O
+30.6	O
+.	O
+
+White	B-procedure
+blood	I-procedure
+cell	I-procedure
+count	I-procedure
+was	O
+11.14	O
+.	O
+
+PT	B-procedure
+was	O
+13.2	O
+.	O
+
+PTT	B-procedure
+was	O
+29.8	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+had	O
+an	B-procedure
+elective	I-procedure
+termination	I-procedure
+of	O
+her	O
+pregnancy	O
+on	O
+1/13/91	O
+.	O
+
+The	B-procedure
+work-up	I-procedure
+for	O
+the	O
+extent	O
+of	O
+the	O
+patient	O
+&apos;s	O
+disease	O
+included	O
+MRI	B-procedure
+scan	I-procedure
+of	I-procedure
+the	I-procedure
+cervical	I-procedure
+and	I-procedure
+thoracic	I-procedure
+spine	I-procedure
+which	O
+revealed	O
+multiple	O
+metastatic	O
+lesions	O
+in	O
+the	O
+vertebral	O
+bodies	O
+;	O
+a	O
+T3	O
+lesion	O
+extending	O
+from	O
+the	O
+body	O
+to	O
+the	O
+right	O
+neural	O
+for	O
+amina	O
+with	O
+foraminal	O
+obstruction	O
+.	O
+
+An	O
+epidural	O
+mass	O
+was	O
+present	O
+at	O
+T10	O
+which	O
+was	O
+extending	O
+from	O
+the	O
+lamina	O
+or	O
+spinous	O
+process	O
+anteriorly	O
+and	O
+almost	O
+compressing	O
+the	O
+spinal	O
+cord	O
+.	O
+
+An	B-procedure
+abdominal	I-procedure
+and	I-procedure
+pelvic	I-procedure
+CT	I-procedure
+scan	I-procedure
+with	I-procedure
+IV	I-procedure
+contrast	I-procedure
+revealed	O
+bilateral	O
+pulmonary	O
+nodules	O
+and	O
+bilateral	O
+pleural	O
+effusions	O
+,	O
+extensive	O
+liver	O
+metastases	O
+,	O
+narrowing	O
+of	O
+the	O
+intra	O
+hepatic	O
+IVC	O
+and	O
+distention	O
+of	O
+the	O
+azygous	O
+system	O
+suggestive	O
+of	O
+IVC	O
+obstruction	O
+by	O
+liver	O
+metastases	O
+;	O
+ascites	O
+;	O
+multiple	O
+bony	O
+metastases	O
+;	O
+and	O
+an	O
+isolated	O
+splenic	O
+metastases	O
+.	O
+
+A	B-procedure
+bone	I-procedure
+scan	I-procedure
+revealed	O
+increased	O
+uptake	O
+in	O
+the	O
+left	O
+chest	O
+wall	O
+,	O
+left	O
+anterior	O
+ribs	O
+four	O
+to	O
+six	O
+,	O
+and	O
+increased	O
+uptake	O
+in	O
+the	O
+left	O
+and	O
+right	O
+lateral	O
+skull	O
+in	O
+the	O
+area	O
+of	O
+the	O
+parotids	O
+.	O
+
+Ahead	B-procedure
+CT	I-procedure
+scan	I-procedure
+revealed	O
+a	O
+metastatic	O
+lesion	O
+in	O
+the	O
+right	O
+vertex	O
+of	O
+the	O
+calvarium	O
+but	O
+no	O
+intracranial	O
+abnormalities	O
+.	O
+
+Work-up	B-procedure
+for	O
+the	O
+source	O
+of	O
+the	O
+primary	O
+tumor	O
+which	O
+is	O
+still	O
+unknown	O
+included	O
+a	B-procedure
+mammogram	I-procedure
+which	O
+identified	O
+no	O
+suspicious	O
+microcalcifications	O
+and	O
+no	O
+dominant	O
+masses	O
+.	O
+
+The	B-procedure
+abdominal	I-procedure
+and	I-procedure
+pelvic	I-procedure
+CT	I-procedure
+scans	I-procedure
+showed	O
+no	O
+suspicious	O
+GI	O
+masses	O
+,	O
+no	O
+pancreatic	O
+mass	O
+;	O
+a	O
+2	O
+cm	O
+ovarian	O
+cyst	O
+.	O
+
+The	O
+review	O
+of	O
+the	B-procedure
+pathology	I-procedure
+from	O
+Bri	O
+Health	O
+confirmed	O
+a	O
+high	O
+grade	O
+adenocarcinoma	O
+.	O
+
+Erica	B-procedure
+and	I-procedure
+basic	I-procedure
+cystic	I-procedure
+protein	I-procedure
+stains	I-procedure
+are	O
+still	O
+pending	O
+.	O
+
+Serum	B-procedure
+markers	I-procedure
+were	O
+normal	O
+.	O
+
+The	B-procedure
+CEA	I-procedure
+was	O
+less	O
+than	O
+0.7	O
+.	O
+
+The	B-procedure
+hCG	I-procedure
+on	I-procedure
+admission	I-procedure
+was	O
+30,710	O
+and	O
+on	O
+1/19	O
+was	O
+805	O
+.	O
+
+The	B-procedure
+CA-125	I-procedure
+was	O
+still	O
+pending	O
+and	O
+alphafeto	B-procedure
+protein	I-procedure
+is	O
+still	O
+pending	O
+.	O
+
+Hypercalcemia	O
+:	O
+
+The	O
+patient	O
+presented	O
+with	O
+a	B-procedure
+serum	I-procedure
+calcium	I-procedure
+of	O
+11.8	O
+and	O
+an	B-procedure
+albumin	I-procedure
+of	O
+2.3	O
+on	O
+admission	O
+.	O
+
+She	O
+received	O
+three	O
+days	O
+of	O
+intravenous	B-procedure
+etidronate	I-procedure
+with	O
+normal	B-procedure
+saline	I-procedure
+diuresis	I-procedure
+and	O
+the	B-procedure
+serum	I-procedure
+calcium	I-procedure
+subsequently	O
+decreased	O
+to	O
+9.0	O
+.	O
+
+The	O
+patient	O
+was	O
+then	O
+switched	O
+to	O
+po	B-procedure
+etidronate	I-procedure
+.	O
+
+IVC	O
+obstruction	O
+:	O
+
+The	O
+patient	O
+has	O
+extensive	O
+hepatic	O
+metastases	O
+and	O
+by	O
+CT	B-procedure
+scan	I-procedure
+there	O
+is	O
+obstruction	O
+of	O
+the	O
+intrahepatic	O
+IVC	O
+.	O
+
+This	O
+has	O
+resulted	O
+in	O
+marked	O
+bilateral	O
+lower	O
+extremity	O
+and	O
+presacral	O
+edema	O
+with	O
+ascites	O
+.	O
+
+The	O
+patient	O
+&apos;s	O
+low	O
+serum	O
+albumin	O
+is	O
+also	O
+contributing	O
+to	O
+her	O
+extensive	O
+edema	O
+.	O
+
+Hypoxia	O
+and	O
+shortness	O
+of	O
+breath	O
+:	O
+
+Although	O
+the	B-procedure
+patient	I-procedure
+&apos;s	I-procedure
+room	I-procedure
+air	I-procedure
+saturation	I-procedure
+was	O
+96%	O
+during	O
+this	O
+admission	O
+,	O
+she	O
+subjectively	O
+complained	O
+of	O
+increased	O
+shortness	O
+of	O
+breath	O
+.	O
+
+It	O
+was	O
+felt	O
+that	O
+the	O
+patient	O
+&apos;s	O
+extensive	O
+pulmonary	O
+metastases	O
+and	O
+bilateral	O
+pleural	O
+effusions	O
+resulted	O
+in	O
+increased	O
+work	O
+of	O
+respiration	O
+and	O
+a	O
+sensation	O
+of	O
+shortness	O
+of	O
+breath	O
+.	O
+
+Impending	O
+spinal	O
+cord	O
+compression	O
+:	O
+
+The	O
+patient	O
+had	O
+back	O
+pain	O
+on	O
+admission	O
+without	O
+any	O
+focal	O
+neurological	O
+signs	O
+.	O
+
+The	B-procedure
+MRI	I-procedure
+scan	I-procedure
+on	I-procedure
+admission	I-procedure
+revealed	O
+an	O
+impending	O
+cord	O
+compression	O
+at	O
+the	O
+level	O
+of	O
+T10	O
+.	O
+
+She	O
+was	O
+started	O
+on	O
+Decadron	B-procedure
+and	O
+on	O
+1/17	O
+began	O
+the	O
+first	O
+of	O
+ten	B-procedure
+radiation	I-procedure
+treatments	I-procedure
+to	O
+two	O
+fields	O
+(	O
+T2	O
+to	O
+T5	O
+and	O
+T9	O
+to	O
+T11	O
+)	O
+.	O
+
+Per	O
+the	O
+patient	O
+&apos;s	O
+wishes	O
+,	O
+Dr.	O
+Dalywoo	O
+Droreite	O
+the	O
+Windgo	O
+Hospital	O
+was	O
+consulted	O
+for	O
+a	O
+second	O
+opinion	O
+regarding	O
+the	B-procedure
+management	I-procedure
+of	O
+her	O
+malignancy	O
+.	O
+
+Dr.	O
+Linke	O
+recommended	O
+chemotherapy	B-procedure
+with	I-procedure
+PFL	I-procedure
+.	O
+
+Per	O
+the	O
+patient	O
+&apos;s	O
+wishes	O
+,	O
+she	O
+was	O
+transferred	O
+to	O
+the	O
+Windgo	O
+Hospital	O
+for	O
+chemotherapy	B-procedure
+.	O
+
+ALT	B-procedure
+was	O
+53	O
+.	O
+
+AST	B-procedure
+was	O
+89	O
+.	O
+
+Her	B-procedure
+LDH	I-procedure
+was	O
+394	O
+.	O
+
+Her	B-procedure
+alkaline	I-procedure
+phosphatase	I-procedure
+was	O
+1514	O
+.	O
+
+Total	B-procedure
+bilirubin	I-procedure
+was	O
+2.1	O
+.	O
+
+Direct	B-procedure
+bilirubin	I-procedure
+was	O
+1.4	O
+.	O
+
+Albumin	B-procedure
+was	O
+2.3	O
+.	O
+
+Calcium	B-procedure
+9.1	O
+.	O
+
+Hematocrit	B-procedure
+was	O
+32.5	O
+.	O
+
+White	B-procedure
+blood	I-procedure
+cell	I-procedure
+count	I-procedure
+was	O
+16.89	O
+.	O
+
+PT	B-procedure
+was	O
+12.9	O
+.	O
+
+PTT	B-procedure
+was	O
+27.3	O
+.	O
+
+DISPOSITION	O
+:	O
+
+MEDICATIONS	O
+:	O
+
+On	O
+discharge	O
+included	O
+etidronate	B-procedure
+,	O
+475	O
+mg	O
+IV	O
+q	O
+day	O
+;	O
+heparin	B-procedure
+,	O
+5000	O
+units	O
+subcutaneously	O
+b.i.d.	O
+;	O
+Decadron	B-procedure
+,	O
+4	O
+mg	O
+po	O
+q	O
+six	O
+hours	O
+;	O
+MS	B-procedure
+Contin	I-procedure
+,	O
+45	O
+mg	O
+po	O
+b.i.d.	O
+;	O
+Pepcid	B-procedure
+,	O
+20	O
+mg	O
+po	O
+b.i.d.	O
+;	O
+Senekot	B-procedure
+,	O
+one	O
+tablet	O
+po	O
+t.i.d.	O
+;	O
+Bronkosol	B-procedure
+,	O
+0.25	O
+cc	O
+q	O
+four	O
+hours	O
+.	O
+
+It	O
+was	O
+decided	O
+to	O
+have	O
+the	O
+patient	O
+&apos;s	O
+medical	O
+and	O
+oncological	O
+issues	O
+managed	O
+at	O
+Windgo	O
+Hospital	O
+.	O
+
+At	O
+the	O
+time	O
+of	O
+discharge	O
+,	O
+the	B-procedure
+patient	I-procedure
+&apos;s	I-procedure
+electrolytes	I-procedure
+were	O
+within	O
+normal	O
+limits	O
+.	O
+
+BD452/5255	O
+
+RUTHU	O
+PAIN	O
+,	O
+M.D.	O
+KW25	O
+
+D	O
+:	O
+
+01/20/91	O
+
+Batch	O
+:	O
+
+8050	O
+
+Report	O
+:	O
+
+H7691U2	O
+
+T	O
+:	O
+
+01/24/91	O
+
+Dictated	O
+By	O
+:	O
+
+CEALME	O
+PAIN	O
+,	O
+M.D.	O
+
+814743340	O
+RWH	O
+
+3393103	O
+
+501370	O
+
+9041109	O
+
+5/13/2006	O
+12:00:00	O
+AM	O
+
+Discharge	O
+Summary	O
+
+Unsigned	O
+
+DIS	O
+
+Report	O
+Status	O
+:	O
+
+Unsigned	O
+
+DISCHARGE	O
+SUMMARY	O
+
+NAME	O
+:	O
+
+TRICHEPRAKEJESC	O
+,	O
+BETLA	O
+
+UNIT	O
+NUMBER	O
+:	O
+
+381-75-78	O
+
+ADMISSION	O
+DATE	O
+:	O
+
+05/13/2006	O
+
+DISCHARGE	O
+DATE	O
+:	O
+
+05/16/2006	O
+
+PRINCIPAL	O
+DIAGNOSIS	O
+:	O
+
+Chest	O
+pain	O
+.	O
+
+ASSOCIATED	O
+DIAGNOSIS	O
+:	O
+
+Coronary	O
+artery	O
+disease	O
+;	O
+hypertension	O
+;	O
+hyperlipidemia	O
+;	O
+sleep	O
+apnea	O
+;	O
+diabetes	O
+type	O
+2	O
+.	O
+
+PROCEDURES	O
+:	O
+
+Adenosine	B-procedure
+stress	I-procedure
+test	I-procedure
+.	O
+
+Part	B-procedure
+1	I-procedure
+of	I-procedure
+a	I-procedure
+sleep	I-procedure
+study	I-procedure
+.	O
+
+Coronary	B-procedure
+angiogram	I-procedure
+.	O
+
+Chest	B-procedure
+CT	I-procedure
+.	O
+
+Chest	B-procedure
+x-ray	I-procedure
+.	O
+
+HISTORY	O
+AND	O
+REASON	O
+FOR	O
+HOSPITALIZATION	O
+:	O
+
+The	O
+patient	O
+is	O
+a	O
+55-year-old	O
+gentleman	O
+with	O
+a	O
+history	O
+of	O
+CAD	O
+status	O
+post	O
+non	O
+ST	O
+elevation	O
+MI	O
+in	O
+11/17	O
+who	O
+presents	O
+with	O
+chest	O
+pain	O
+X	O
+48	O
+hours	O
+.	O
+
+He	O
+went	O
+to	O
+Padrugmoff	O
+Hospital	O
+Emergency	O
+Room	O
+.	O
+
+He	O
+has	O
+a	O
+history	O
+of	O
+hypertension	O
+,	O
+diabetes	O
+,	O
+and	O
+high	O
+cholesterol	O
+.	O
+
+In	O
+2003	O
+,	O
+he	O
+had	O
+a	O
+non	O
+ST	O
+elevation	O
+MI	O
+,	O
+came	O
+to	O
+the	O
+RWH	O
+,	O
+and	O
+had	O
+a	B-procedure
+cath	I-procedure
+done	O
+,	O
+which	O
+showed	O
+a	O
+40%	O
+RCA	O
+,	O
+which	O
+was	O
+hazy	O
+.	O
+
+An	B-procedure
+IVUS	I-procedure
+was	O
+done	O
+,	O
+and	O
+it	O
+was	O
+felt	O
+that	O
+it	O
+was	O
+more	O
+severe	O
+.	O
+
+He	O
+underwent	O
+a	B-procedure
+PTC	I-procedure
+stenting	I-procedure
+of	I-procedure
+an	I-procedure
+RCA	I-procedure
+with	O
+a	B-procedure
+Vision	I-procedure
+stent	I-procedure
+,	O
+3	O
+x	O
+18	O
+.	O
+
+Diagonal	O
+1	O
+also	O
+had	O
+a	O
+99%	O
+stenosis	O
+.	O
+
+There	O
+was	O
+no	O
+other	O
+noted	O
+disease	O
+.	O
+
+Since	O
+then	O
+,	O
+the	O
+patient	O
+has	O
+occasional	O
+chest	O
+pain	O
+with	O
+emotional	O
+stress	O
+,	O
+when	O
+he	O
+is	O
+angry	O
+or	O
+upset	O
+.	O
+
+Yesterday	O
+morning	O
+,	O
+he	O
+developed	O
+intermittent	O
+substernal	O
+chest	O
+pain	O
+with	O
+radiation	O
+to	O
+the	O
+left	O
+shoulder	O
+that	O
+worsened	O
+with	O
+any	O
+activity	O
+and	O
+any	O
+motion	O
+of	O
+his	O
+shoulders	O
+.	O
+
+It	O
+progressed	O
+over	O
+the	O
+course	O
+of	O
+the	O
+day	O
+requiring	O
+less	O
+movement	O
+.	O
+
+He	O
+also	O
+became	O
+short	O
+of	O
+breath	O
+with	O
+climbing	O
+a	O
+flight	O
+of	O
+stairs	O
+.	O
+
+He	O
+denies	O
+diaphoresis	O
+or	O
+nausea	O
+.	O
+
+He	O
+went	O
+to	O
+the	O
+Padrugmoff	O
+Hospital	O
+Emergency	O
+Room	O
+after	O
+trying	O
+nitroglycerin	B-procedure
+at	O
+home	O
+.	O
+
+However	O
+,	O
+his	B-procedure
+nitroglycerin	I-procedure
+was	O
+old	O
+and	O
+the	B-procedure
+script	I-procedure
+was	O
+expired	O
+.	O
+
+In	O
+the	O
+ER	O
+,	O
+he	O
+received	O
+3	B-procedure
+sublingual	I-procedure
+nitroglycerins	I-procedure
+and	O
+1	O
+mg	O
+of	O
+Dilaudid	B-procedure
+.	O
+
+After	O
+that	O
+,	O
+he	O
+was	O
+pain-free	O
+.	O
+
+Lopressor	B-procedure
+IV	I-procedure
+was	O
+given	O
+to	O
+control	O
+his	B-procedure
+heart	I-procedure
+rate	I-procedure
+.	O
+
+He	O
+also	O
+received	O
+Lipitor	B-procedure
+80	O
+mg	O
+,	O
+Plavix	B-procedure
+300	O
+,	O
+heparin	B-procedure
+IV	I-procedure
+,	O
+integrelin	B-procedure
+double	I-procedure
+bolus	I-procedure
+,	O
+followed	O
+by	O
+a	B-procedure
+drip	I-procedure
+.	O
+
+Apparently	O
+once	O
+his	O
+pain	O
+was	O
+free	O
+,	O
+his	B-procedure
+EKG	I-procedure
+was	O
+noted	O
+to	O
+have	O
+hyperacute	O
+T-wave	O
+anteriorly	O
+without	O
+progression	O
+.	O
+
+He	O
+was	O
+transferred	O
+to	O
+the	O
+Ro	O
+Woodma	O
+Healthcare	O
+for	O
+further	B-procedure
+cardiac	I-procedure
+care	I-procedure
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+
+Diabetes	O
+;	O
+hypertension	O
+;	O
+hyperlipidemia	O
+.	O
+
+MEDICATIONS	O
+AT	O
+HOME	O
+:	O
+
+Include	O
+Lisinopril	B-procedure
+5	O
+mg	O
+p.o.	O
+every	O
+day	O
+;	O
+nitroglycerin	B-procedure
+sublingual	I-procedure
+p.r.n.;	O
+Toprol	B-procedure
+XL	I-procedure
+100	O
+mg	O
+p.o.	O
+every	O
+day	O
+;	O
+Plavix	B-procedure
+75	O
+mg	O
+p.o.	O
+every	O
+day	O
+;	O
+Avandia	B-procedure
+4	O
+mg	O
+p.o.	O
+every	O
+day	O
+;	O
+Lipitor	B-procedure
+40	O
+mg	O
+p.o.	O
+every	O
+day	O
+;	O
+TriCor	B-procedure
+145	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+
+He	O
+is	O
+married	O
+.	O
+
+He	O
+does	O
+have	O
+a	O
+lot	O
+of	O
+anxiety	O
+.	O
+
+Socially	O
+he	O
+drinks	O
+alcohol	O
+.	O
+
+He	O
+does	O
+not	O
+smoke	O
+.	O
+
+He	O
+has	O
+2	O
+daughters	O
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+
+The	O
+patient	O
+ruled	O
+out	O
+for	O
+an	O
+MI	O
+with	O
+negative	O
+CK	O
+X4	O
+and	O
+negative	O
+troponin	O
+X4	O
+.	O
+
+He	O
+was	O
+taken	O
+to	O
+the	O
+Cardiac	O
+Catheterization	O
+Lab	O
+where	O
+cath	B-procedure
+showed	O
+top-normal	O
+LVEDP	O
+at	O
+12	O
+;	O
+no	O
+AF	O
+;	O
+widely	O
+patent	O
+RCA	O
+stent	O
+;	O
+mild	O
+CAD	O
+in	O
+the	O
+left	O
+coronary	O
+artery	O
+symptom	O
+;	O
+widely	O
+patent	O
+diagonal	O
+1	O
+at	O
+the	O
+site	O
+of	O
+prior	B-procedure
+PTCA	I-procedure
+.	O
+
+He	O
+received	O
+an	B-procedure
+Angio-Seal	I-procedure
+to	I-procedure
+the	I-procedure
+right	I-procedure
+common	I-procedure
+femoral	I-procedure
+artery	I-procedure
+.	O
+
+He	O
+then	O
+underwent	O
+a	B-procedure
+CT	I-procedure
+scan	I-procedure
+to	O
+rule	O
+out	O
+a	O
+PE	O
+.	O
+
+That	O
+test	O
+was	O
+negative	O
+.	O
+
+He	O
+underwent	O
+lower	B-procedure
+extremity	I-procedure
+study	I-procedure
+to	O
+rule	O
+out	O
+a	O
+DVT	O
+in	O
+both	O
+legs	O
+.	O
+
+That	O
+was	O
+negative	O
+.	O
+
+He	O
+was	O
+noted	O
+to	O
+have	O
+an	O
+episode	O
+of	O
+desaturation	O
+into	O
+the	O
+80%	O
+range	O
+while	O
+sleeping	O
+.	O
+
+Pulmonary	B-procedure
+consult	I-procedure
+was	O
+done	O
+,	O
+and	O
+it	O
+was	O
+felt	O
+that	O
+the	O
+patient	O
+should	O
+undergo	O
+a	B-procedure
+formal	I-procedure
+sleep	I-procedure
+study	I-procedure
+,	O
+full	B-procedure
+PFTs	I-procedure
+,	O
+and	O
+a	B-procedure
+repeat	I-procedure
+CT	I-procedure
+scan	I-procedure
+in	O
+1	O
+year	O
+to	O
+assess	O
+for	O
+pulmonary	O
+nodule	O
+that	O
+was	O
+seen	O
+.	O
+
+However	O
+,	O
+please	O
+note	O
+that	O
+this	O
+nodule	O
+has	O
+been	O
+stable	O
+over	O
+time	O
+.	O
+
+The	O
+patient	O
+also	O
+complained	O
+of	O
+intermittent	O
+right	O
+neck	O
+swelling	O
+,	O
+and	O
+recommendations	O
+are	O
+to	O
+consider	O
+a	B-procedure
+CT	I-procedure
+scan	I-procedure
+with	I-procedure
+contrast	I-procedure
+to	O
+evaluate	O
+nodes	O
+in	O
+his	O
+neck	O
+.	O
+
+On	O
+physical	B-procedure
+exam	I-procedure
+today	O
+,	O
+the	O
+patient	O
+did	O
+not	O
+have	O
+any	O
+swelling	O
+,	O
+and	O
+he	O
+states	O
+that	O
+he	O
+did	O
+not	O
+feel	O
+the	O
+swelling	O
+was	O
+present	O
+.	O
+
+The	O
+patient	O
+underwent	O
+an	B-procedure
+adenosine	I-procedure
+stress	I-procedure
+test	I-procedure
+,	O
+where	O
+he	O
+exercised	O
+for	O
+4	O
+minutes	O
+,	O
+reaching	O
+65%	O
+of	O
+predicted	O
+heart	O
+rate	O
+.	O
+
+He	O
+did	O
+not	O
+have	O
+chest	O
+pain	O
+.	O
+
+EKG	B-procedure
+was	O
+negative	O
+for	O
+ischemia	O
+.	O
+
+The	B-procedure
+myocardial	I-procedure
+perfusion	I-procedure
+images	I-procedure
+show	O
+no	O
+definite	O
+evidence	O
+of	O
+ischemia	O
+.	O
+
+The	B-procedure
+LV	I-procedure
+contractile	I-procedure
+function	I-procedure
+was	O
+normal	O
+.	O
+
+There	O
+was	O
+mild	O
+posterior	O
+vasal	O
+thinning	O
+.	O
+
+It	O
+is	O
+not	O
+clearly	O
+outside	O
+normal	O
+limits	O
+.	O
+
+He	O
+underwent	O
+an	B-procedure
+echocardiogram	I-procedure
+,	O
+which	O
+showed	O
+an	B-procedure
+EF	I-procedure
+of	O
+60%	O
+.	O
+
+There	O
+was	O
+no	O
+evidence	O
+of	O
+MVP	O
+.	O
+
+There	O
+was	O
+trace	O
+mitral	O
+regurgitation	O
+.	O
+
+There	O
+was	O
+no	O
+evidence	O
+of	O
+LA	O
+dilatation	O
+.	O
+
+There	O
+was	O
+no	O
+aortic	O
+stenosis	O
+.	O
+
+There	O
+was	O
+trace	O
+aortic	O
+insufficiency	O
+.	O
+
+The	O
+LV	O
+cavity	O
+size	O
+was	O
+normal	O
+.	O
+
+The	B-procedure
+systolic	I-procedure
+function	I-procedure
+was	O
+within	O
+normal	O
+limits	O
+.	O
+
+There	O
+was	O
+no	O
+evidence	O
+of	O
+LV	O
+hypertrophy	O
+.	O
+
+There	O
+was	O
+no	O
+obvious	O
+segmental	O
+wall-motion	O
+abnormality	O
+.	O
+
+There	O
+was	O
+no	O
+evidence	O
+of	O
+pericardial	O
+effusion	O
+.	O
+
+The	O
+right	O
+ventricle	O
+was	O
+not	O
+dilated	O
+.	O
+
+The	B-procedure
+systolic	I-procedure
+function	I-procedure
+was	O
+within	O
+normal	O
+limits	O
+.	O
+
+The	O
+patient	O
+underwent	O
+a	B-procedure
+sleep	I-procedure
+study	I-procedure
+,	O
+the	O
+first	O
+part	O
+,	O
+which	O
+showed	O
+that	O
+he	O
+had	O
+75	O
+respiratory	O
+events	O
+observed	O
+with	O
+apnea	O
+,	O
+hypopnea	B-procedure
+index	I-procedure
+of	O
+11	O
+an	O
+hour	O
+.	O
+
+The	B-procedure
+mean	I-procedure
+heart	I-procedure
+rate	I-procedure
+was	O
+68	O
+.	O
+
+They	O
+felt	O
+that	O
+there	O
+was	O
+obstruction	O
+and	O
+possible	O
+obstruction	O
+to	O
+airflow	O
+generating	O
+some	O
+obstructive	O
+apnea	O
+,	O
+as	O
+well	O
+as	O
+partial	O
+obstructive	O
+events	O
+.	O
+
+They	O
+recommended	O
+that	O
+the	O
+patient	O
+may	O
+benefit	O
+from	O
+a	O
+trial	O
+of	O
+continuous	B-procedure
+positive	I-procedure
+pressure	I-procedure
+at	I-procedure
+the	I-procedure
+bedside	I-procedure
+.	O
+
+The	O
+patient	O
+has	O
+been	O
+scheduled	O
+to	O
+have	O
+the	O
+second	O
+part	O
+of	O
+the	B-procedure
+sleep	I-procedure
+study	I-procedure
+done	O
+on	O
+June	O
+18	O
+,	O
+2006	O
+,	O
+at	O
+8:30	O
+p.m.	O
+at	O
+RWH	O
+in	O
+the	O
+Esley	O
+Community	O
+Hospital	O
+,	O
+10th	O
+floor	O
+sleep	O
+lab	O
+,	O
+phone	O
+number	O
+133-225-1257	O
+.	O
+
+Prior	O
+to	O
+discharge	O
+today	O
+,	O
+he	O
+underwent	O
+PFTs	B-procedure
+.	O
+
+The	O
+results	O
+of	O
+the	B-procedure
+PFTs	I-procedure
+are	O
+unavailable	O
+at	O
+the	O
+time	O
+of	O
+this	O
+dictation	O
+.	O
+
+Based	O
+on	O
+all	B-procedure
+the	I-procedure
+tests	I-procedure
+above	I-procedure
+,	O
+it	O
+was	O
+felt	O
+that	O
+the	O
+patient	O
+was	O
+stable	O
+for	O
+discharge	O
+home	O
+.	O
+
+His	B-procedure
+blood	I-procedure
+pressure	I-procedure
+was	O
+114	O
+to	O
+123/62	O
+.	O
+
+Heart	B-procedure
+rate	I-procedure
+69	O
+to	O
+80	O
+.	O
+
+Room	B-procedure
+air	I-procedure
+saturation	I-procedure
+96%	O
+.	O
+
+Temperature	B-procedure
+97.9	O
+.	O
+
+Lung	B-procedure
+sounds	I-procedure
+clear	O
+bilaterally	O
+.	O
+
+Heart	O
+sounds	O
+:	O
+
+Regular	O
+rate	O
+and	O
+rhythm	O
+;	O
+S1-S2	O
+;	O
+positive	O
+S4	O
+;	O
+no	O
+murmur	O
+.	O
+
+Abdomen	O
+:	O
+
+Soft	O
+,	O
+nontender	O
+,	O
+nondistended	O
+;	O
+no	O
+guarding	O
+;	O
+no	O
+masses	O
+;	O
+positive	O
+bowel	B-procedure
+sounds	I-procedure
+X4	O
+.	O
+
+Right	O
+groin	O
+status	O
+post	O
+catheterization	O
+showed	O
+no	O
+hematoma	O
+or	O
+bruit	O
+.	O
+
+Lower	B-procedure
+extremity	I-procedure
+pulses	I-procedure
+were	O
+intact	O
+without	O
+any	O
+edema	O
+.	O
+
+Lab	O
+values	O
+:	O
+
+Sodium	B-procedure
+139	O
+;	O
+potassium	B-procedure
+4.1	O
+;	O
+BUN	B-procedure
+15	O
+;	O
+creatinine	B-procedure
+1.1	O
+;	O
+magnesium	B-procedure
+1.6	O
+;	O
+SGPT	B-procedure
+19	O
+;	O
+SGOT	B-procedure
+20	O
+;	O
+alkaline	B-procedure
+phosphatase	I-procedure
+66	O
+;	O
+total	B-procedure
+bilirubin	I-procedure
+0.6	O
+;	O
+direct	B-procedure
+bilirubin	I-procedure
+0.2	O
+;	O
+total	B-procedure
+cholesterol	I-procedure
+234	O
+;	O
+triglycerides	B-procedure
+274	O
+;	O
+HDL	B-procedure
+44	O
+;	O
+LDL	B-procedure
+135	O
+;	O
+hemoglobin	B-procedure
+A1c	B-procedure
+6.7	O
+;	O
+white	B-procedure
+cell	I-procedure
+count	I-procedure
+6.1	O
+;	O
+hematocrit	B-procedure
+36.4	O
+;	O
+platelet	B-procedure
+count	I-procedure
+201	O
+.	O
+
+During	O
+the	O
+hospital	O
+course	O
+,	O
+the	O
+patient	O
+was	O
+started	O
+on	O
+a	B-procedure
+PPI	I-procedure
+,	O
+Nexium	B-procedure
+,	O
+for	O
+concerns	O
+of	O
+acid	O
+reflux	O
+.	O
+
+Also	O
+,	O
+a	O
+long	O
+discussion	O
+was	O
+taken	O
+with	O
+the	O
+patient	O
+as	O
+most	O
+of	O
+his	O
+chest	O
+discomfort	O
+happens	O
+when	O
+he	O
+is	O
+quite	O
+anxious	O
+.	O
+
+He	O
+used	O
+Ativan	B-procedure
+in	O
+the	O
+hospital	O
+,	O
+which	O
+helped	O
+him	O
+.	O
+
+The	O
+patient	O
+was	O
+advised	O
+that	O
+he	O
+needs	O
+to	O
+speak	O
+with	O
+his	O
+PCP	O
+about	O
+medication	B-procedure
+for	I-procedure
+antianxiety	I-procedure
+and	O
+/	O
+or	O
+further	B-procedure
+testing	I-procedure
+or	O
+counseling	B-procedure
+to	O
+help	O
+control	O
+his	O
+anxiety	O
+level	O
+.	O
+
+MEDICATIONS	O
+ON	O
+DISCHARGE	O
+:	O
+
+Nitroglycerin	B-procedure
+1	O
+tablet	O
+sublingual	O
+q.	O
+5	O
+minutes	O
+X3	O
+p.r.n.	O
+chest	O
+pain	O
+.	O
+
+TriCor	B-procedure
+145	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Lipitor	B-procedure
+40	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Plavix	B-procedure
+75	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Aspirin	B-procedure
+325	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Lisinopril	B-procedure
+5	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Avandia	B-procedure
+4	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Toprol	B-procedure
+XL	I-procedure
+100	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Prilosec	B-procedure
+20	O
+mg	O
+p.o.	O
+every	O
+day	O
+.	O
+
+Ativan	B-procedure
+0.5	O
+mg	O
+p.o.	O
+b.i.d.	O
+p.r.n.	O
+anxiety	O
+.	O
+
+The	O
+patient	O
+was	O
+asked	O
+to	O
+follow	O
+up	O
+with	O
+his	O
+PCP	O
+,	O
+Dr.	O
+Cora	O
+Belbsnil	O
+,	O
+at	O
+Necrestneysagiles	O
+Medical	O
+Center	O
+in	O
+a	O
+period	O
+of	O
+1	O
+to	O
+2	O
+weeks	O
+.	O
+
+He	O
+was	O
+asked	O
+to	O
+follow	O
+up	O
+with	O
+Dr.	O
+Riale	O
+Tables	O
+,	O
+his	O
+cardiologist	O
+,	O
+in	O
+a	O
+period	O
+of	O
+1	O
+to	O
+2	O
+weeks	O
+;	O
+he	O
+also	O
+works	O
+at	O
+Necrestneysagiles	O
+Medical	O
+Center	O
+.	O
+
+The	O
+patient	O
+was	O
+told	O
+that	O
+he	O
+should	O
+discus	O
+with	O
+his	O
+PCP	O
+further	B-procedure
+GI	I-procedure
+testing	I-procedure
+,	O
+as	O
+well	O
+as	O
+medications	B-procedure
+for	O
+anxiety	O
+.	O
+
+The	O
+patient	O
+will	O
+need	O
+to	O
+have	O
+a	B-procedure
+followup	I-procedure
+sleep	I-procedure
+study	I-procedure
+done	O
+as	O
+above	O
+per	O
+the	O
+recommendations	O
+based	O
+on	O
+the	O
+results	O
+.	O
+
+CONDITION	O
+ON	O
+DISCHARGE	O
+:	O
+
+Stable	O
+.	O
+
+RYROL	O
+DALEDAE	O
+,	O
+NP	O
+
+DICTATING	O
+FOR	O
+:	O
+
+Unreviewed	O
+
+_____________________________	O
+NAA	O
+NARICHA	O
+EARLY	O
+,	O
+M.D.	O
+
+TR	O
+:	O
+
+so	O
+
+DD	O
+:	O
+
+05/16/2006	O
+
+TD	O
+:	O
+
+05/17/2006	O
+7:29	O
+A	O
+501370	O
+
+cc	O
+:	O
+
+NAA	O
+NARICHA	O
+EARLY	O
+,	O
+M.D.	O
+
+Admission	O
+Date	O
+:	O
+
+2015-10-28	O
+
+Discharge	O
+Date	O
+:	O
+
+2015-11-13	O
+
+Date	O
+of	O
+Birth	O
+:	O
+
+1941-08-30	O
+
+Sex	O
+:	O
+
+F	O
+
+Service	O
+:	O
+CARDIOTHORACIC	O
+
+Allergies	O
+:	O
+
+Tape	O
+/	O
+Benadryl	B-procedure
+
+Attending	O
+:Jordan	O
+U	O
+Kostohryz	O
+,	O
+M.D.	O
+
+Chief	O
+Complaint	O
+:	O
+
+Chest	O
+discomfort	O
+
+Major	O
+Surgical	O
+or	O
+Invasive	O
+Procedure	O
+:	O
+
+2015-10-30	O
+Left	B-procedure
+Carotid	I-procedure
+Stenting	I-procedure
+
+2015-11-02	O
+Coronary	B-procedure
+Artery	I-procedure
+Bypass	I-procedure
+Graft	I-procedure
+x	O
+2	O
+(	O
+Lima	B-procedure
+to	I-procedure
+LAD	I-procedure
+,	O
+SVG	B-procedure
+to	I-procedure
+OM	I-procedure
+)	O
+
+History	O
+of	O
+Present	O
+Illness	O
+:	O
+
+Ms.	O
+Bridge	O
+is	O
+a	O
+74	O
+y/o	O
+female	O
+admitted	O
+to	O
+outside	O
+hospital	O
+on	O
+2015-10-21	O
+with	O
+chest	O
+discomfort	O
+,	O
+vomiting	O
+and	O
+shortness	O
+of	O
+breath	O
+.	O
+
+Initial	B-procedure
+EKG	I-procedure
+showed	O
+ST	O
+depressions	O
+,	O
+but	O
+cardiac	B-procedure
+enzymes	I-procedure
+were	O
+not	O
+elevated	O
+.	O
+
+She	O
+eventually	O
+underwent	O
+a	B-procedure
+cardiac	I-procedure
+cath	I-procedure
+to	O
+assess	O
+coronary	O
+disease	O
+which	O
+revealed	O
+three	O
+vessel	O
+coronary	O
+artery	O
+disease	O
+.	O
+
+She	O
+was	O
+then	O
+transferred	O
+to	O
+The	O
+Hospital	O
+for	O
+Orthopedics	O
+for	O
+surgical	B-procedure
+intervention	I-procedure
+.	O
+
+Past	O
+Medical	O
+History	O
+:	O
+
+Coronary	O
+Artery	O
+Disease	O
+,	O
+Hypertension	O
+,	O
+Hyperlipidemia	O
+,	O
+Diabetes	O
+Mellitus	O
+,	O
+Hypothyroid	O
+,	O
+h/o	O
+Bilateral	O
+DVT	O
+'s	O
+(	O
+on	O
+chronic	B-procedure
+coumadin	I-procedure
+therapy	I-procedure
+),	O
+Pleural	O
+disorder	O
+?	O
+Sarcoidosis	O
+,	O
+Gastritis	O
+,	O
+B12	O
+deficiency	O
+,	O
+Chronic	O
+renal	O
+insufficiency	O
+,	O
+s/p	O
+Appendectomy	B-procedure
+,	O
+s/p	O
+Lap	B-procedure
+cholectomy	I-procedure
+,	O
+s/p	O
+Total	B-procedure
+abdominal	I-procedure
+hysterectomy	I-procedure
+
+Social	O
+History	O
+:	O
+
+Denies	O
+tobacco	O
+or	O
+ETOH	O
+use	O
+.	O
+
+Lives	O
+wth	O
+husband	O
+.	O
+
+Family	O
+History	O
+:	O
+
+Mother	O
+died	O
+of	O
+MI	O
+at	O
+age	O
+55	O
+.	O
+
+Brother	O
+w/	O
+CAD	O
+since	O
+age	O
+40	O
+and	O
+died	O
+in	O
+70	O
+'s	O
+after	O
+cardiac	B-procedure
+surgery	I-procedure
+.	O
+
+Son	O
+died	O
+at	O
+14	O
+d/t	O
+ASD	O
+.	O
+
+Physical	O
+Exam	O
+:	O
+
+Gen	O
+:	O
+NAD	O
+
+Neck	O
+:	O
+Supple	O
+,	O
+-	O
+JVD	O
+,	O
+-	O
+Bruits	O
+
+Heart	O
+:	O
+RRR	O
+-	O
+c/r/m/g	O
+
+Lungs	O
+:	O
+CTAB	O
+,	O
+coarse	O
+
+Abd	O
+:	O
+Soft	O
+,	O
+NT/NT	O
++	O
+BS	O
+
+Ext	O
+:	O
+Cool	O
+,	O
+1	O
++	O
+pedal	B-procedure
+pulses	I-procedure
+,	O
+-	O
+varicosities	O
+,	O
+-	O
+edema	O
+
+Neuro	O
+:	O
+A&O	O
+x	O
+3	O
+,	O
+MAE	O
+,	O
+non-focal	O
+
+Some	O
+rashes	O
+on	O
+ACW	O
+around	O
+EKG	B-procedure
+leads	I-procedure
+
+Pertinent	O
+Results	O
+:	O
+
+CNIS	B-procedure
+10-29	O
+:	O
+
+1.	O
+60-69%	O
+stenosis	O
+of	O
+the	O
+right	O
+internal	O
+carotid	O
+artery	O
+.	O
+
+2.	O
+80-99%	O
+stenosis	O
+of	O
+the	O
+left	O
+internal	O
+carotid	O
+artery	O
+.	O
+
+Echo	B-procedure
+11-02	O
+:	O
+PRE-BYPASS	O
+:	O
+Left	O
+ventricular	O
+wall	O
+thickness	O
+,	O
+cavity	O
+size	O
+,	O
+and	O
+systolic	O
+function	O
+are	O
+normal	O
+(	O
+LVEF>55%	B-procedure
+).	O
+
+Resting	O
+regional	O
+wall	O
+motion	O
+abnormalities	O
+include	O
+mild	O
+apical	O
+hypokinesis	O
+.	O
+
+The	O
+aortic	O
+valve	O
+leaflets	O
+(	O
+3	O
+)	O
+appear	O
+structurally	O
+normal	O
+with	O
+good	O
+leaflet	O
+excursion	O
+and	O
+no	O
+aortic	O
+regurgitation	O
+.	O
+
+The	O
+mitral	O
+valve	O
+appears	O
+structurally	O
+normal	O
+with	O
+trivial	O
+mitral	O
+regurgitation	O
+.	O
+
+There	O
+are	O
+complex	O
+(>	O
+4	O
+mm	O
+)	O
+atheroma	O
+in	O
+the	O
+descending	O
+thoracic	O
+aorta	O
+.	O
+
+Mild	O
+tricuspid	O
+regurgitation	O
+.	O
+
+POST-BYPASS	O
+:	O
+Preserved	O
+Kindred	O
+/	O
+North	O
+Shore	O
+-	O
+ventricular	O
+systolic	O
+fxn	O
+.	O
+
+Trivial	O
+MR	O
+.	O
+
+Edith	O
+AI	O
+.	O
+
+Aorta	O
+intact	O
+.	O
+
+CT	B-procedure
+11-04	O
+:	O
+No	O
+acute	O
+intracranial	O
+hemorrhage	O
+.	O
+
+Findings	O
+consistent	O
+with	O
+small	O
+vessel	O
+ischemic	O
+changes	O
+.	O
+
+MRI	B-procedure
+would	O
+be	O
+more	O
+sensitive	O
+for	O
+the	O
+detection	O
+of	O
+acute	O
+infarction	O
+.	O
+
+CT	B-procedure
+angiogram	I-procedure
+demonstrates	O
+no	O
+stenosis	O
+or	O
+aneurysm	O
+in	O
+the	O
+intracranial	O
+circulation	O
+.	O
+
+Slight	O
+irregularity	O
+of	O
+the	O
+origin	O
+of	O
+the	O
+right	O
+vertebral	O
+artery	O
+may	O
+be	O
+atherosclerotic	O
+in	O
+nature	O
+.	O
+
+Normal	O
+contrast	O
+enhancement	O
+seen	O
+in	O
+the	B-procedure
+left	I-procedure
+common/internal	I-procedure
+carotid	I-procedure
+artery	I-procedure
+stent	I-procedure
+.	O
+
+Mild	O
+stenosis	O
+of	O
+the	O
+proximal	O
+right	O
+internal	O
+carotid	O
+artery	O
+.	O
+
+4	O
+mm	O
+left	O
+upper	O
+lobe	O
+lung	O
+nodule	O
+.	O
+
+In	O
+the	O
+absence	O
+of	O
+history	O
+of	O
+malignancy	O
+,	O
+this	O
+is	O
+statistically	O
+benign	O
+.	O
+
+One-year	O
+followup	O
+may	O
+be	O
+considered	O
+.	O
+
+CXR	B-procedure
+11-06	O
+:	O
+Allowing	O
+for	O
+technical	O
+changes	O
+,	O
+no	O
+major	O
+adverse	O
+interval	O
+change	O
+has	O
+occurred	O
+.	O
+
+Bibasilar	O
+subsegmental	O
+atelectasis	O
+together	O
+with	O
+bilateral	O
+pleural	O
+effusions	O
+appear	O
+relatively	O
+unchanged	O
+.	O
+
+The	O
+mediastinum	O
+appears	O
+unchanged	O
+.	O
+
+Left-sided	B-procedure
+subclavian	I-procedure
+line	I-procedure
+is	O
+unchanged	O
+in	O
+position	O
+.	O
+
+There	O
+is	O
+evidence	O
+of	O
+prior	B-procedure
+cardiac	I-procedure
+surgery	I-procedure
+.	O
+
+2015-11-13	O
+06:15	O
+AM	O
+BLOOD	O
+WBC	B-procedure
+-	O
+8.8	O
+RBC	B-procedure
+-	O
+2.79	O
+*	O
+Hgb	B-procedure
+-	O
+8.6	O
+*	O
+Hct	B-procedure
+-	O
+25.4	O
+*	O
+MCV	B-procedure
+-	O
+91	O
+MCH	B-procedure
+-	O
+30.9	O
+MCHC	B-procedure
+-	O
+33.8	O
+RDW	B-procedure
+-	O
+15.6	O
+*	O
+Plt	B-procedure
+Ct	I-procedure
+-	O
+583	O
+*	O
+
+2015-11-12	O
+06:00	O
+AM	O
+BLOOD	O
+WBC	B-procedure
+-	O
+7.7	O
+RBC	B-procedure
+-	O
+2.73	O
+*	O
+Hgb	B-procedure
+-	O
+8.3	O
+*	O
+Hct	B-procedure
+-	I-procedure
+25.1	O
+*	O
+MCV	B-procedure
+-	O
+92	O
+MCH	B-procedure
+-	O
+30.4	O
+MCHC	B-procedure
+-	O
+33.1	O
+RDW	B-procedure
+-	O
+15.5	O
+Plt	B-procedure
+Ct	I-procedure
+-	O
+528	O
+*	O
+
+2015-11-13	O
+06:15	O
+AM	O
+BLOOD	O
+Plt	B-procedure
+Ct	I-procedure
+-	O
+583	O
+*	O
+
+2015-11-13	O
+06:15	O
+AM	O
+BLOOD	O
+PT	B-procedure
+-	O
+18.0	O
+*	O
+PTT	B-procedure
+-	O
+62.3	O
+*	O
+INR(PT)	B-procedure
+-	O
+1.7	O
+*	O
+
+2015-11-12	O
+06:00	O
+AM	O
+BLOOD	O
+PT	B-procedure
+-	O
+15.5	O
+*	O
+PTT	B-procedure
+-	O
+62.4	O
+*	O
+INR(PT)	B-procedure
+-	O
+1.4	O
+*	O
+
+2015-11-11	O
+05:45	O
+AM	O
+BLOOD	O
+PT	B-procedure
+-	O
+14.5	O
+*	O
+PTT	B-procedure
+-	O
+51.4	O
+*	O
+INR(PT)	B-procedure
+-	O
+1.3	O
+*	O
+
+2015-11-13	O
+06:15	O
+AM	O
+BLOOD	O
+Glucose	B-procedure
+-	O
+96	O
+UreaN	B-procedure
+-	O
+20	O
+Creat	B-procedure
+-	O
+1.6	O
+*	O
+Na	B-procedure
+-	O
+141	O
+K	B-procedure
+-	O
+4.3	O
+Cl	B-procedure
+-	O
+106	O
+HCO3	B-procedure
+-	O
+24	O
+AnGap	B-procedure
+-	O
+15	O
+
+2015-11-12	O
+06:00	O
+AM	O
+BLOOD	O
+Glucose	B-procedure
+-	O
+85	O
+UreaN	B-procedure
+-	O
+19	O
+Creat	B-procedure
+-	O
+1.6	O
+*	O
+Na	B-procedure
+-	O
+140	O
+K	B-procedure
+-	I-procedure
+4.4	O
+Cl	B-procedure
+-	O
+105	O
+HCO3	B-procedure
+-	O
+24	O
+AnGap	B-procedure
+-	I-procedure
+15	O
+
+2015-11-11	O
+05:45	O
+AM	O
+BLOOD	O
+Creat	B-procedure
+-	O
+1.6	O
+*	O
+K	B-procedure
+-	O
+4.7	O
+
+2015-10-28	O
+03:30	O
+PM	O
+BLOOD	O
+Glucose	B-procedure
+-	O
+98	O
+UreaN	B-procedure
+-	O
+26	O
+*	O
+Creat	B-procedure
+-	O
+1.6	O
+*	O
+Na	B-procedure
+-	O
+140	O
+K	B-procedure
+-	O
+4.6	O
+Cl	B-procedure
+-	O
+104	O
+HCO3	B-procedure
+-	O
+27	O
+AnGap	B-procedure
+-	O
+14	O
+
+Brief	O
+Hospital	O
+Course	O
+:	O
+
+Ms.	O
+Bridge	O
+was	O
+admitted	O
+from	O
+OSH	O
+for	O
+coronary	B-procedure
+artery	I-procedure
+bypass	I-procedure
+surgery	I-procedure
+.	O
+
+She	O
+underwent	O
+usual	B-procedure
+pre-operative	I-procedure
+testing	I-procedure
+along	O
+with	O
+carotid	B-procedure
+ultrasound	I-procedure
+.	O
+
+CNIS	B-procedure
+revealed	O
+carotid	O
+stenosis	O
+and	O
+she	O
+ultimately	O
+underwent	O
+left	B-procedure
+carotid	I-procedure
+stenting	I-procedure
+by	O
+vascular	O
+surgery	O
+on	O
+10-30	O
+.	O
+
+Please	O
+see	O
+report	O
+for	O
+details	O
+.	O
+
+On	O
+11-02	O
+she	O
+was	O
+brought	O
+to	O
+the	O
+operating	O
+room	O
+where	O
+she	O
+underwent	O
+a	B-procedure
+coronary	I-procedure
+artery	I-procedure
+bypass	I-procedure
+graft	I-procedure
+x	O
+2	O
+.	O
+
+Please	O
+see	O
+operative	O
+report	O
+for	O
+surgical	O
+details	O
+.	O
+
+She	O
+tolerated	O
+the	B-procedure
+procedure	I-procedure
+well	O
+and	O
+was	O
+transferred	O
+to	O
+the	O
+CSRU	O
+for	O
+invasive	B-procedure
+monitoring	I-procedure
+in	O
+stable	O
+condition	O
+.	O
+
+Later	O
+on	O
+op	O
+day	O
+sedation	B-procedure
+was	O
+weaned	O
+,	O
+she	O
+awoke	O
+neurologically	O
+intact	O
+and	O
+was	O
+extubated	B-procedure
+.	O
+
+On	O
+post-op	O
+day	O
+one	O
+chest	B-procedure
+tubes	I-procedure
+were	O
+removed	O
+and	O
+beta	B-procedure
+blockers	I-procedure
+and	O
+diuretics	B-procedure
+were	O
+initiated	O
+.	O
+
+She	O
+was	O
+gently	O
+diuresed	O
+towards	O
+her	O
+pre-op	O
+weight	O
+.	O
+
+Also	O
+on	O
+this	O
+day	O
+she	O
+was	O
+transferred	O
+to	O
+the	O
+SDU	O
+.	O
+
+Early	O
+on	O
+post-op	O
+day	O
+two	O
+Ms.	O
+Bridge	O
+had	O
+an	O
+episode	O
+of	O
+aphasia	O
+.	O
+
+She	O
+underwent	O
+an	B-procedure
+immediate	I-procedure
+head	I-procedure
+CT	I-procedure
+and	O
+Neuro	O
+consult	O
+and	O
+was	O
+transferred	O
+back	O
+to	O
+the	O
+CSRU	O
+.	O
+
+CT	B-procedure
+was	O
+negative	O
+and	O
+she	O
+returned	O
+to	O
+baseline	O
+neuro	O
+status	O
+without	O
+deficits	O
+by	O
+arrival	O
+to	O
+CSRU	O
+.	O
+
+Neurology	O
+concluded	O
+episode	O
+was	O
+most	O
+concerning	O
+for	O
+TIA	O
+.	O
+
+Epicardial	B-procedure
+pacing	I-procedure
+wires	I-procedure
+were	O
+removed	O
+on	O
+post-op	O
+day	O
+four	O
+.	O
+
+After	O
+remaining	O
+stable	O
+in	O
+the	O
+CSRU	O
+for	O
+several	O
+days	O
+without	O
+change	O
+in	O
+neuro	O
+status	O
+she	O
+was	O
+transferred	O
+back	O
+to	O
+the	O
+SDU	O
+on	O
+post-op	O
+day	O
+four	O
+.	O
+
+She	O
+was	O
+then	O
+started	O
+on	O
+Heparin	B-procedure
+with	O
+transition	O
+to	O
+Coumadin	B-procedure
+(	O
+goal	O
+INR	B-procedure
+of	O
+2-3	O
+secondary	O
+to	O
+h/o	O
+bilateral	O
+DVT	O
+'s).	O
+
+During	O
+entire	O
+post-op	O
+course	O
+she	O
+was	O
+followed	O
+by	O
+physical	O
+therapy	O
+for	O
+strength	O
+and	O
+mobility	O
+.	O
+
+She	O
+continued	O
+to	O
+improve	O
+steadily	O
+over	O
+the	O
+next	O
+several	O
+days	O
+without	O
+any	O
+other	O
+post-op	O
+
+complications	O
+.	O
+
+She	O
+was	O
+discharged	O
+on	O
+post-op	O
+day	O
+11	O
+.	O
+
+Medications	O
+on	O
+Admission	O
+:	O
+
+Meds	B-procedure
+at	O
+home	O
+:	O
+Coumadin	B-procedure
+,	O
+Levoxyl	B-procedure
+,	O
+Folate	B-procedure
+,	O
+Colace	B-procedure
+,	O
+Byetta	B-procedure
+,	O
+Verapamil	B-procedure
+,	O
+Lisinopril	B-procedure
+,	O
+Pravachol	B-procedure
+,	O
+Nexium	B-procedure
+,	O
+Lasix	B-procedure
+,	O
+Celexa	B-procedure
+
+Meds	B-procedure
+at	O
+transfer	O
+:	O
+Levoxyl	B-procedure
+,	O
+Celexa	B-procedure
+,	O
+Folate	B-procedure
+,	O
+Lopressor	B-procedure
+,	O
+Colace	B-procedure
+,	O
+RISS	B-procedure
+,	O
+B12	B-procedure
+,	O
+Protonix	B-procedure
+,	O
+Lasix	B-procedure
+,	O
+Zocor	B-procedure
+,	O
+Verapamil	B-procedure
+,	O
+Lovenox	B-procedure
+,	O
+Lisinopril	B-procedure
+
+Discharge	O
+Medications	O
+:	O
+
+1.	O
+Aspirin	B-procedure
+81	O
+mg	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+2.	O
+Pantoprazole	B-procedure
+40	O
+mg	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)	O
+PO	O
+Q24H	O
+(	O
+every	O
+24	O
+hours	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+,	O
+Delayed	O
+Release	O
+(	O
+E.C.	O
+)(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+3.	O
+Levothyroxine	B-procedure
+125	O
+mcg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+4.	O
+Simvastatin	B-procedure
+40	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+5.	O
+Citalopram	B-procedure
+20	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+0.5	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+6.	O
+Clopidogrel	B-procedure
+75	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+7.	O
+Ferrous	B-procedure
+Gluconate	I-procedure
+300	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+8.	O
+Ascorbic	B-procedure
+Acid	I-procedure
+500	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+BID	O
+(	O
+2	O
+times	O
+a	O
+day	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+9.	O
+Folic	B-procedure
+Acid	I-procedure
+1	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+DAILY	O
+(	O
+Daily	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+10.	O
+Metoprolol	B-procedure
+Tartrate	I-procedure
+25	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+BID	O
+(	O
+2	O
+times	O
+a	O
+day	O
+).	O
+
+Disp	O
+:*	O
+60	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+11.	O
+Docusate	B-procedure
+Sodium	I-procedure
+100	O
+mg	O
+Capsule	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Capsule	O
+PO	O
+BID	O
+(	O
+2	O
+times	O
+a	O
+day	O
+).	O
+
+Disp	O
+:*	O
+30	O
+Capsule	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+12.	O
+Coumadin	B-procedure
+5	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+once	O
+a	O
+day	O
+:	O
+Check	O
+INR	B-procedure
+11-15	O
+with	O
+results	O
+called	O
+to	O
+Dr.	O
+Lynn	O
+.	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+13.	O
+Tramadol	B-procedure
+50	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+Q4-6H	O
+(	O
+every	O
+4	O
+to	O
+6	O
+hours	O
+)	O
+as	O
+needed	O
+.	O
+
+Disp	O
+:*	O
+50	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+14.	O
+Lasix	B-procedure
+40	O
+mg	O
+Tablet	O
+Sig	O
+:	O
+One	O
+(	O
+1	O
+)	O
+Tablet	O
+PO	O
+once	O
+a	O
+day	O
+:	O
+40	O
+mg	O
+daily	O
+x	O
+1	O
+week	O
+then	O
+40	O
+mg	O
+every	O
+other	O
+day	O
+as	O
+prior	O
+to	O
+surgery	B-procedure
+.	O
+
+Disp	O
+:*	O
+30	O
+Tablet	O
+(s)*	O
+Refills	O
+:*	O
+0	O
+*	O
+
+Discharge	O
+Disposition	O
+:	O
+
+Extended	O
+Care	O
+
+Discharge	O
+Diagnosis	O
+:	O
+
+Coronary	O
+Artery	O
+Disease	O
+s/p	O
+Coronary	B-procedure
+Artery	I-procedure
+Bypass	I-procedure
+Graft	I-procedure
+x	O
+2	O
+
+Post-operative	O
+Transient	O
+Ischemic	O
+Attack	O
+
+Carotid	O
+Stenosis	O
+s/p	O
+Left	B-procedure
+Carotid	I-procedure
+Stenting	I-procedure
+
+PMH	O
+:	O
+Hypertension	O
+,	O
+Hyperlipidemia	O
+,	O
+Diabetes	O
+Mellitus	O
+,	O
+Hypothyroid	O
+,	O
+h/o	O
+Bilateral	O
+DVT	O
+'s,	O
+Pleural	O
+disorder	O
+?	O
+Sarcoidosis	O
+,	O
+Gastritis	O
+,	O
+B12	O
+deficiency	O
+,	O
+Chronic	O
+renal	O
+insufficiency	O
+,	O
+s/p	O
+Appendectomy	B-procedure
+,	O
+s/p	O
+Lap	B-procedure
+cholectomy	I-procedure
+,	O
+s/p	O
+Total	B-procedure
+abdominal	I-procedure
+hysterectomy	I-procedure
+
+Discharge	O
+Condition	O
+:	O
+
+good	O
+
+Discharge	O
+Instructions	O
+:	O
+
+Patient	O
+may	O
+shower	O
+,	O
+no	O
+baths	O
+.	O
+
+No	O
+creams	B-procedure
+,	O
+lotions	B-procedure
+or	O
+ointments	B-procedure
+to	O
+incisions	O
+.	O
+
+No	O
+driving	O
+for	O
+at	O
+least	O
+one	O
+month	O
+.	O
+
+No	O
+lifting	O
+more	O
+than	O
+10	O
+lbs	O
+for	O
+at	O
+least	O
+10	O
+weeks	O
+from	O
+the	O
+date	O
+of	O
+surgery	B-procedure
+.	O
+
+Monitor	O
+wounds	O
+for	O
+signs	O
+of	O
+infection	O
+.	O
+Please	O
+call	O
+with	O
+any	O
+concerns	O
+or	O
+questions	O
+.	O
+
+VVp	O
+Instructions	O
+:	O
+
+Dr.	O
+von	O
+Sampson	O
+in	O
+4	O
+weeks	O
+
+Dr	O
+Royer	O
+in	O
+2-3	O
+weeks	O
+
+Dr.	O
+Lynn	O
+in	O
+1-2	O
+weeks	O
+
+Peterson	O
+ver	O
+Vasquez	O
+MD	O
+07-506	O
+
+Completed	O
+by	O
+:	O
+Theresa	O
+Leonore	O
+NP	O
+80-BXH	O
+2015-11-13	O
+@	O
+1100	O
+
+Signed	O
+electronically	O
+by	O
+:	O
+DR.	O
+Ruby	O
+von	O
+der	O
+Smith	O
+on:	O
+WED	O
+2015-12-09	O
+3:34	O
+PM	O
+
+(	O
+End	O
+of	O
+Report	O
+)	O
+
