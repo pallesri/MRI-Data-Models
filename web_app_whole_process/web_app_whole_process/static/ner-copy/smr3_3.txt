@@ -1,0 +1,108 @@
+personal info
+============================================================
+subjective
+============================================================
+hpi
+[<Disease-span (13): "htn">, <Disease-span (18,19,20,21,22): "ascites bilateral lower extremity edema">, <Disease-span (24): "pain">]
+[<Disease-span (8,9,10): "migratory joint pain">]
+[<Disease-span (1,2): "ascites edema">]
+[<Disease-span (4,5,6,7,8): "upper extremity and facial swelling">]
+[<Disease-span (6): "cough">]
+[<Disease-span (1): "dyspnea">, <Disease-span (6,7): "orthopnea claudication">]
+[<Disease-span (3,4,5): "diaphoresis fevers chills">]
+[<Disease-span (1,2,3,4,5,6,7,8,9,10): "sweats chest pain pressure palpitations syncope asthma wheezing pneumonia tb">]
+[<Disease-span (1,2,3,4,5): "varicose veins leg foot ulcers">]
+[<Disease-span (3,4,5): "dysphagia nausea vomiting">]
+[<Disease-span (1,2,3,4,5,6,7,8): "reflux heartburn diarrhea constipation melena hematuria incontinence dysuria">, <Disease-span (10): "hematuria">]
+[<Disease-span (5): "nocturia">]
+[<Disease-span (1,2): "joint pain">, <Disease-span (6,7): "migratory pain">]
+[<Disease-span (3): "spasms">]
+[<Disease-span (4,5): "joint swelling">]
+[<Disease-span (4): "swelling">]
+[<Disease-span (1,2,3,4,5,6,7,8,9,10,11): "elbow hand wrist finger hip pain foot toe pain erythema tenderness">, <Disease-span (18): "gout">, <Disease-span (20): "arthritis">]
+[<Disease-span (3,4): "fever anemia">, <Disease-span (6): "lymphadenopathy">]
+[<Disease-span (3,4,5,6,7,8): "rash petechiae pruritus abnormal bruising bleeding">]
+[<Disease-span (2,3): "cold intolerance">]
+[<Disease-span (3,4,5,6,7,8,9,10): "head pain nasal obstruction post nasal drip epistaxis">]
+[<Disease-span (1,2): "oral abscesses">, <Disease-span (4,5): "gum lesions">]
+[<Disease-span (5,6,7,8,9): "vertigo dizziness peripheral numbness paresthesia">]
+[<Disease-span (3,4): "joint pain">]
+[<Disease-span (6,7): "joint swelling">]
+[<Disease-span (1,2): "swelling edema">]
+[<Disease-span (3,4,5,6,7): "memory loss confusion apprehension anxiety">]
+[<Disease-span (4): "depression">]
+============================================================
+pmh
+============================================================
+allergies
+[<Disease-span (1): "allergies">, <Disease-span (5): "allergies">]
+[<Disease-span (8): "depression">]
+============================================================
+immunizations
+[<Disease-span (15,16): "joint pain">]
+[<Disease-span (3): "chickenpox">]
+============================================================
+fh
+[<Disease-span (8): "autoimmune">]
+[<Disease-span (3): "depression">]
+============================================================
+objective
+[<Disease-span (2,3,4): "pallor jaundice cyanosis">, <Disease-span (6): "clubbing">]
+[<Disease-span (5,6): "scleral jaundice">]
+[<Disease-span (1,2): "lesions inflammation">]
+[<Disease-span (3,4,5): "lesions scars papules">]
+[<Disease-span (11): "wheezing">]
+[<Disease-span (6): "heaves">]
+[<Disease-span (4,5): "pitting edema">]
+[<Disease-span (3,4,5): "tenderness deformities effusion">, <Disease-span (7): "crepitus">]
+[<Disease-span (1,2,3): "elbow nodular masses">]
+[<Disease-span (1): "crepitus">]
+[<Disease-span (3,4): "tenderness effusion">, <Disease-span (6,7,8,9,10,11,12,13,14,15): "crepitus of bilateral wrist anterior posterior medial and lateral joints">]
+[<Disease-span (3,4,5): "tenderness warmth deformities">]
+[<Disease-span (1): "crepitus">]
+[<Disease-span (2,3): "tenderness deformities">, <Disease-span (5): "crepitus">]
+[<Disease-span (1,2): "tenderness effusion">, <Disease-span (4,5,6,7,8): "crepitus of bilateral metatarsal heads">]
+[<Disease-span (1,2): "hallux valgus">]
+[<Disease-span (2,3,4,5,6,7): "lower extremity edema 1 to knees">]
+============================================================
+assessment
+[<Disease-span (19): "ascites">]
+[<Disease-span (2,3): "pitting edema">, <Disease-span (8,9): "fatigue dyspnea">, <Disease-span (13): "cough">]
+[<Disease-span (1,2,3,4): "pain pressure palpitations diaphoresis">, <Disease-span (6,7): "nausea vomiting">]
+============================================================
+assessment
+[<Disease-span (5,6,7,8): "chf exacerbation ascites edema">]
+[<Disease-span (4,5,6): "migratory joint pain">, <Disease-span (14): "edema">]
+[<Disease-span (7,8,9,10,11,12): "bony deformities of right 1st mcp">, <Disease-span (14,15,16): "bilateral hallux valgus">]
+[<Disease-span (2,3): "tophaceous gout">, <Disease-span (11,12): "joint pain">, <Disease-span (15,16): "olecranon nodules">]
+[<Disease-span (7,8,9): "acute gouty arthritis">]
+[<Disease-span (3): "tophi">]
+[<Disease-span (2): "osteoarthritis">, <Disease-span (7,8): "joint pain">]
+[<Disease-span (7,8): "joint pain">, <Disease-span (12,13): "olecranon nodules">]
+[<Disease-span (2,3): "rheumatoid arthritis">, <Disease-span (14): "pain">]
+[<Disease-span (1,2): "bony deformities">]
+[<Disease-span (2,3): "tophaceous gout">, <Disease-span (6,7): "rheumatoid nodules">]
+============================================================
+plan
+[<Disease-span (10): "gout">]
+[<Disease-span (7): "gout">]
+[<Disease-span (6): "gout">]
+[<Disease-span (3,4): "bony deformities">]
+[<Disease-span (9,10): "thiazide diuretics">]
+[<Disease-span (6): "gout">]
+[<Disease-span (2,3): "excess alcohol">]
+[<Disease-span (3): "rheumatology">]
+[<Disease-span (2): "gout">]
+[<Disease-span (2,3): "olecranon nodules">]
+[<Disease-span (2,3): "bony deformities">]
+[<Disease-span (2,3): "le edema">]
+[<Disease-span (2): "ascites">]
+[<Disease-span (2): "dyspnea">]
+[<Disease-span (2): "cough">]
+[<Disease-span (2): "depression">]
+[<Disease-span (1,2): "crystal arthropathies">]
+[<Disease-span (5): "gout">]
+[<Disease-span (1): "gout">, <Disease-span (3): "pseudogout">]
+[<Disease-span (1): "osteoarthritis">]
+[<Disease-span (1,2): "rheumatoid arthritis">]
+============================================================

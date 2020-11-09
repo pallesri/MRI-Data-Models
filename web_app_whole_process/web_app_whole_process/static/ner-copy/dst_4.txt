@@ -1,0 +1,13 @@
+personal info
+[<PERSON-span (2,3,4): "Ken Cure, MD">]
+[<PERSON-span (4): "XA728302">]
+============================================================
+history of present illness
+[<DATE-span (7,8,9): "70 year old">]
+[<DATE-span (2,3,4): "the mid 70's">]
+[<DATE-span (4,5,6): "the late 80's">]
+[<DATE-span (8,9,10): "the mid 90's">]
+[<DATE-span (7,8,9): "approximately four days">]
+[<PERSON-span (6): "Follow">, <DATE-span (8,9): "three weeks">]
+[<PERSON-span (3,4,5): "Ken Cure, MD">, <DATE-span (7,8,9): "30 Oct 1998">]
+============================================================

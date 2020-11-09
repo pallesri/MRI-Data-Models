@@ -1,0 +1,2707 @@
+{
+    "anatomy": {
+        "personal info": [
+            {
+                "text": "12 24 2019 sample medical record  monica latte  agency for health research and quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24",
+                        "start_pos": 0,
+                        "end_pos": 5,
+                        "type": "DATE",
+                        "confidence": 0.6483189910650253
+                    }
+                ]
+            },
+            {
+                "text": "practice facilitation handbook",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "sample medical record  monica latte",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "monica",
+                        "start_pos": 23,
+                        "end_pos": 29,
+                        "type": "PERSON",
+                        "confidence": 0.9759773015975952
+                    }
+                ]
+            },
+            {
+                "text": "previous page next page",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "table of contents",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "use for april 2011 abstraction",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "april 2011",
+                        "start_pos": 8,
+                        "end_pos": 18,
+                        "type": "DATE",
+                        "confidence": 0.6255992650985718
+                    }
+                ]
+            },
+            {
+                "text": "weserveeveryone clinic",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "1111 first street california",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "california",
+                        "start_pos": 18,
+                        "end_pos": 28,
+                        "type": "GPE",
+                        "confidence": 0.9398458003997803
+                    }
+                ]
+            },
+            {
+                "text": "111 111 11111   fax  111 111 1111 chart summary",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "monica latte",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "monica",
+                        "start_pos": 0,
+                        "end_pos": 6,
+                        "type": "PERSON",
+                        "confidence": 0.9893007874488831
+                    }
+                ]
+            },
+            {
+                "text": "home  444 444 4444",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "female  dob  04 04 1950 0000 44444 ins  commercial xxxxx",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "1950",
+                        "start_pos": 19,
+                        "end_pos": 23,
+                        "type": "DATE",
+                        "confidence": 0.887359619140625
+                    }
+                ]
+            },
+            {
+                "text": "patient information",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "name  monica latte home phone  444 444 4444",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "address  4444 coffee ave office phone",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "chocolate  california",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "california",
+                        "start_pos": 11,
+                        "end_pos": 21,
+                        "type": "GPE",
+                        "confidence": 0.9911289215087891
+                    }
+                ]
+            },
+            {
+                "text": "patient id  0000 44444 fax",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "birth date  04 04 1950 status  active",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "04 04",
+                        "start_pos": 12,
+                        "end_pos": 17,
+                        "type": "DATE",
+                        "confidence": 0.6453457921743393
+                    },
+                    {
+                        "text": "1950",
+                        "start_pos": 18,
+                        "end_pos": 22,
+                        "type": "DATE",
+                        "confidence": 0.8825276494026184
+                    }
+                ]
+            },
+            {
+                "text": "gender  female marital status  divorced",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "contact by  phone race  black",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "soc sec no  444 444 4444 language  english",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "444",
+                        "start_pos": 12,
+                        "end_pos": 15,
+                        "type": "CARDINAL",
+                        "confidence": 0.8392083048820496
+                    }
+                ]
+            },
+            {
+                "text": "resp prov  carl savem mrn  mr 111 1111",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "1111",
+                        "start_pos": 34,
+                        "end_pos": 38,
+                        "type": "CARDINAL",
+                        "confidence": 0.8124526143074036
+                    }
+                ]
+            },
+            {
+                "text": "referred by  emp",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "status  full time",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "email  sens chart  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "home loc weserveeveryone external id  mr 111 1111",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "111",
+                        "start_pos": 41,
+                        "end_pos": 44,
+                        "type": "CARDINAL",
+                        "confidence": 0.8301324844360352
+                    }
+                ]
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "problems": [
+            {
+                "text": "problems",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "diabetes mellitus icd 250",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "250",
+                        "start_pos": 22,
+                        "end_pos": 25,
+                        "type": "CARDINAL",
+                        "confidence": 0.9939929842948914
+                    }
+                ]
+            },
+            {
+                "text": "hypertension  benign essential icd 401 1",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "401",
+                        "start_pos": 35,
+                        "end_pos": 38,
+                        "type": "CARDINAL",
+                        "confidence": 0.9397244453430176
+                    }
+                ]
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "medications": [
+            {
+                "text": "medications",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "https   www ahrq gov ncepcr tools pf handbook mod8 app b monica latte html 1 5",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "5",
+                        "start_pos": 77,
+                        "end_pos": 78,
+                        "type": "CARDINAL",
+                        "confidence": 0.9781566858291626
+                    }
+                ]
+            },
+            {
+                "text": "12 24 2019 sample medical record  monica latte  agency for health research and quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24",
+                        "start_pos": 0,
+                        "end_pos": 5,
+                        "type": "DATE",
+                        "confidence": 0.6483189910650253
+                    }
+                ]
+            },
+            {
+                "text": "prinivil tabs 20 mg lisinopril 1 po qd",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "20 mg",
+                        "start_pos": 14,
+                        "end_pos": 19,
+                        "type": "QUANTITY",
+                        "confidence": 0.9278684258460999
+                    },
+                    {
+                        "text": "1",
+                        "start_pos": 31,
+                        "end_pos": 32,
+                        "type": "CARDINAL",
+                        "confidence": 0.8414965271949768
+                    }
+                ]
+            },
+            {
+                "text": "last refill  30 x 2   carl savem md 08 27 2010",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "30",
+                        "start_pos": 13,
+                        "end_pos": 15,
+                        "type": "CARDINAL",
+                        "confidence": 0.690526008605957
+                    },
+                    {
+                        "text": "2",
+                        "start_pos": 18,
+                        "end_pos": 19,
+                        "type": "CARDINAL",
+                        "confidence": 0.942493736743927
+                    },
+                    {
+                        "text": "08 27 2010",
+                        "start_pos": 36,
+                        "end_pos": 46,
+                        "type": "DATE",
+                        "confidence": 0.461022287607193
+                    }
+                ]
+            },
+            {
+                "text": "humulin inj 70 30 insulin reg   isophane human 20 units ac breakfast",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "70",
+                        "start_pos": 12,
+                        "end_pos": 14,
+                        "type": "CARDINAL",
+                        "confidence": 0.8540195822715759
+                    },
+                    {
+                        "text": "30",
+                        "start_pos": 15,
+                        "end_pos": 17,
+                        "type": "CARDINAL",
+                        "confidence": 0.4952864944934845
+                    },
+                    {
+                        "text": "20",
+                        "start_pos": 47,
+                        "end_pos": 49,
+                        "type": "CARDINAL",
+                        "confidence": 0.827547550201416
+                    }
+                ]
+            },
+            {
+                "text": "last refill  600 u x 0   carl savem md 08 27 2010",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "0",
+                        "start_pos": 21,
+                        "end_pos": 22,
+                        "type": "CARDINAL",
+                        "confidence": 0.8209180235862732
+                    },
+                    {
+                        "text": "08 27 2010",
+                        "start_pos": 39,
+                        "end_pos": 49,
+                        "type": "DATE",
+                        "confidence": 0.4798088272412618
+                    }
+                ]
+            },
+            {
+                "text": "directives",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "allergies and adverse reactions   critical",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "services due",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "flu vax  pneumovax  microalb urn",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "3 18 2011   office visit  f u diabetes",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "3 18",
+                        "start_pos": 0,
+                        "end_pos": 4,
+                        "type": "DATE",
+                        "confidence": 0.6170504540205002
+                    }
+                ]
+            },
+            {
+                "text": "provider  carl savem md",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "location of care  weserveeveryone clinic",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "office visit",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "history of present illness": [
+            {
+                "text": "history of present illness",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "reason for visit  routine follow up",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "chief complaint  no complaints",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "history",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "diabetes management",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "hyperglycemic symptoms",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "polyuria  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "polydipsia  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "blurred vision  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "sympathomimetic symptoms",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "diaphoresis  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "agitation  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "tremor  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "palpitations  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "insomnia  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "neuroglycopenic symptoms",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "confusion  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "lethargy  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "somnolence  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "amnesia  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "stupor  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "seizures  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "review of systems": [
+            {
+                "text": "review of systems",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "general  denies fatigue  malaise  fever  weight loss",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "eyes  denies blurring  diplopia  irritation  discharge",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "ear nose throat  denies ear pain or discharge  nasal obstruction or discharge  sore throat",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "cardiovascular  denies chest pain  palpitations  paroxysmal nocturnal dyspnea  orthopnea  edema respiratory  denies",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "coughing  wheezing  dyspnea  hemoptysis",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "gastrointestinal  denies abdominal pain  dysphagia  nausea  vomiting  diarrhea  constipation",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "genitourinary  denies hematuria  frequency  urgency  dysuria  discharge  impotence  incontinence",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "musculoskeletal  denies back pain  joint swelling  joint stiffness  joint pain",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "skin  denies rashes  itching  lumps  sores  lesions  color change",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "neurologic  denies syncope  seizures  transient paralysis  weakness  paresthesias",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "psychiatric  denies depression  anxiety  mental disturbance  difficulty sleeping  suicidal ideation  hallucinations  paranoia",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "endocrine  denies polyuria  polydipsia  polyphagia  weight change  heat or cold intolerance",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "https   www ahrq gov ncepcr tools pf handbook mod8 app b monica latte html 2 5",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "5",
+                        "start_pos": 77,
+                        "end_pos": 78,
+                        "type": "CARDINAL",
+                        "confidence": 0.965552031993866
+                    }
+                ]
+            },
+            {
+                "text": "12 24 2019 sample medical record  monica latte  agency for health research and quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24",
+                        "start_pos": 0,
+                        "end_pos": 5,
+                        "type": "DATE",
+                        "confidence": 0.6483189910650253
+                    }
+                ]
+            },
+            {
+                "text": "heme lymphatic  denies easy or excessive bruising  history of blood transfusions  anemia  bleeding disorders  adenopathy",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "chills  sweats",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "allergic immunologic  denies urticaria  hay fever  frequent utis  denies hiv high risk behaviors",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "vital signs": [
+            {
+                "text": "vital signs",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "weserveeveryone clinic march 24  2011",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "march 24  2011",
+                        "start_pos": 23,
+                        "end_pos": 37,
+                        "type": "DATE",
+                        "confidence": 0.7636908491452535
+                    }
+                ]
+            },
+            {
+                "text": "1111 first street california page 2",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "111 111 11111   fax  111 111 1111 chart summary",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "ht  64 in",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "64",
+                        "start_pos": 4,
+                        "end_pos": 6,
+                        "type": "CARDINAL",
+                        "confidence": 0.9959281086921692
+                    }
+                ]
+            },
+            {
+                "text": "wt  140 lbs t  98 0 degf",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "140 lbs",
+                        "start_pos": 4,
+                        "end_pos": 11,
+                        "type": "QUANTITY",
+                        "confidence": 0.9496074318885803
+                    },
+                    {
+                        "text": "98 0 degf",
+                        "start_pos": 15,
+                        "end_pos": 24,
+                        "type": "QUANTITY",
+                        "confidence": 0.8392067352930704
+                    }
+                ]
+            },
+            {
+                "text": "t site   oral p  72 rhythm  regular r  16 bp  158 90",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "72",
+                        "start_pos": 17,
+                        "end_pos": 19,
+                        "type": "CARDINAL",
+                        "confidence": 0.9981696605682373
+                    },
+                    {
+                        "text": "16",
+                        "start_pos": 39,
+                        "end_pos": 41,
+                        "type": "CARDINAL",
+                        "confidence": 0.9198989272117615
+                    },
+                    {
+                        "text": "158",
+                        "start_pos": 46,
+                        "end_pos": 49,
+                        "type": "CARDINAL",
+                        "confidence": 0.9998903274536133
+                    },
+                    {
+                        "text": "90",
+                        "start_pos": 50,
+                        "end_pos": 52,
+                        "type": "CARDINAL",
+                        "confidence": 0.9982178807258606
+                    }
+                ]
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "physical exam": [
+            {
+                "text": "physical exam",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "general appearance   well developed  well nourished  no acute distress",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "eyes  conjunctiva and lids normal  perrla  eomi  fundi wnl",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "ears  nose  mouth  throat  tm clear  nares clear  oral exam wnl",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "respiratory  clear to auscultation and percussion  respiratory effort normal",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "cardiovascular  regular rate and rhythm  s1 s2  no murmur  rub or gallop  no bruits  peripheral pulses normal and",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "s2",
+                        "start_pos": 44,
+                        "end_pos": 46,
+                        "type": "CARDINAL",
+                        "confidence": 0.9166228771209717
+                    }
+                ]
+            },
+            {
+                "text": "symmetric  no cyanosis  clubbing  edema or varicosities",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "skin  clear  good turgor  color wnl  no rashes  lesions  or ulcerations",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "problems including changes  blood pressure is lower",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "feet are inspected and there are no callouses  no compromised",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "skin",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "no vision complaints",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "impression  sub optimal sugar  control with retinopathy and neuropathy  high glucometer readings",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "will work harder on diet",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "will increase insulin by 2 units",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "2",
+                        "start_pos": 25,
+                        "end_pos": 26,
+                        "type": "CARDINAL",
+                        "confidence": 0.9815939664840698
+                    }
+                ]
+            },
+            {
+                "text": "home glucose monitoring",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "ac breakfast 110 to 220",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "110",
+                        "start_pos": 13,
+                        "end_pos": 16,
+                        "type": "CARDINAL",
+                        "confidence": 0.9906761646270752
+                    },
+                    {
+                        "text": "220",
+                        "start_pos": 20,
+                        "end_pos": 23,
+                        "type": "CARDINAL",
+                        "confidence": 0.9940055012702942
+                    }
+                ]
+            },
+            {
+                "text": "ac breakfast mean 142",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "142",
+                        "start_pos": 18,
+                        "end_pos": 21,
+                        "type": "CARDINAL",
+                        "confidence": 0.8139705657958984
+                    }
+                ]
+            },
+            {
+                "text": "ac dinner 100 to 250",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "100",
+                        "start_pos": 10,
+                        "end_pos": 13,
+                        "type": "CARDINAL",
+                        "confidence": 0.9486338496208191
+                    },
+                    {
+                        "text": "250",
+                        "start_pos": 17,
+                        "end_pos": 20,
+                        "type": "CARDINAL",
+                        "confidence": 0.9845812916755676
+                    }
+                ]
+            },
+            {
+                "text": "ac dinner mean 120",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "120",
+                        "start_pos": 15,
+                        "end_pos": 18,
+                        "type": "CARDINAL",
+                        "confidence": 0.8702946305274963
+                    }
+                ]
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "plan": [
+            {
+                "text": "plan",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "medications",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "humulin inj 70 30 20 u ac breakfast",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "30 20 u",
+                        "start_pos": 15,
+                        "end_pos": 22,
+                        "type": "QUANTITY",
+                        "confidence": 0.8461487690607706
+                    }
+                ]
+            },
+            {
+                "text": "prinivil tabs 20 mg 1 qd",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "20 mg 1 qd",
+                        "start_pos": 14,
+                        "end_pos": 24,
+                        "type": "QUANTITY",
+                        "confidence": 0.6622230112552643
+                    }
+                ]
+            },
+            {
+                "text": "treatment  will have annual foot exam at next visit",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "orders",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "ua",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "metabolic panel",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "education counseling time  5 minutes",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "5 minutes",
+                        "start_pos": 27,
+                        "end_pos": 36,
+                        "type": "TIME",
+                        "confidence": 0.9508367478847504
+                    }
+                ]
+            },
+            {
+                "text": "coordination of care time  20 minutes",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "20 minutes",
+                        "start_pos": 27,
+                        "end_pos": 37,
+                        "type": "TIME",
+                        "confidence": 0.9371503293514252
+                    }
+                ]
+            },
+            {
+                "text": "follow up return visit  3 months",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "3 months",
+                        "start_pos": 24,
+                        "end_pos": 32,
+                        "type": "DATE",
+                        "confidence": 0.8972267806529999
+                    }
+                ]
+            },
+            {
+                "text": "disposition  return to clinic",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "weserveeveryone clinic march 24  2011",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "march 24  2011",
+                        "start_pos": 23,
+                        "end_pos": 37,
+                        "type": "DATE",
+                        "confidence": 0.7636908491452535
+                    }
+                ]
+            },
+            {
+                "text": "https   www ahrq gov ncepcr tools pf handbook mod8 app b monica latte html 3 5",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "5",
+                        "start_pos": 77,
+                        "end_pos": 78,
+                        "type": "CARDINAL",
+                        "confidence": 0.9626893401145935
+                    }
+                ]
+            },
+            {
+                "text": "12 24 2019 sample medical record  monica latte  agency for health research and quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24",
+                        "start_pos": 0,
+                        "end_pos": 5,
+                        "type": "DATE",
+                        "confidence": 0.6483189910650253
+                    }
+                ]
+            },
+            {
+                "text": "1111 first street california page 2",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "111 111 11111   fax  111 111 1111 chart summary",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "03 18 2011   lab report  metabolic panel provider  carl savem md",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "03 18",
+                        "start_pos": 0,
+                        "end_pos": 5,
+                        "type": "DATE",
+                        "confidence": 0.658909797668457
+                    },
+                    {
+                        "text": "2011",
+                        "start_pos": 6,
+                        "end_pos": 10,
+                        "type": "DATE",
+                        "confidence": 0.760738730430603
+                    }
+                ]
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "tests": [
+            {
+                "text": "tests",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "1 metabolic panelml 03chem",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "1",
+                        "start_pos": 0,
+                        "end_pos": 1,
+                        "type": "CARDINAL",
+                        "confidence": 0.9614003896713257
+                    }
+                ]
+            },
+            {
+                "text": "alk phos 72 35 100",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "35",
+                        "start_pos": 12,
+                        "end_pos": 14,
+                        "type": "CARDINAL",
+                        "confidence": 0.9209066033363342
+                    },
+                    {
+                        "text": "100",
+                        "start_pos": 15,
+                        "end_pos": 18,
+                        "type": "CARDINAL",
+                        "confidence": 0.6973584890365601
+                    }
+                ]
+            },
+            {
+                "text": "bg  random 125  mg dl 70 125",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "125",
+                        "start_pos": 11,
+                        "end_pos": 14,
+                        "type": "CARDINAL",
+                        "confidence": 0.8327157497406006
+                    },
+                    {
+                        "text": "70",
+                        "start_pos": 22,
+                        "end_pos": 24,
+                        "type": "CARDINAL",
+                        "confidence": 0.9982249140739441
+                    },
+                    {
+                        "text": "125",
+                        "start_pos": 25,
+                        "end_pos": 28,
+                        "type": "CARDINAL",
+                        "confidence": 0.9829444289207458
+                    }
+                ]
+            },
+            {
+                "text": "bun 16  mg dl 7 25",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "7",
+                        "start_pos": 14,
+                        "end_pos": 15,
+                        "type": "CARDINAL",
+                        "confidence": 0.9819343090057373
+                    },
+                    {
+                        "text": "25",
+                        "start_pos": 16,
+                        "end_pos": 18,
+                        "type": "CARDINAL",
+                        "confidence": 0.9566222429275513
+                    }
+                ]
+            },
+            {
+                "text": "calcium  9 6  mg dl 8 2 10 2",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "6",
+                        "start_pos": 11,
+                        "end_pos": 12,
+                        "type": "CARDINAL",
+                        "confidence": 0.6191911101341248
+                    },
+                    {
+                        "text": "8",
+                        "start_pos": 20,
+                        "end_pos": 21,
+                        "type": "CARDINAL",
+                        "confidence": 0.9939693212509155
+                    },
+                    {
+                        "text": "2",
+                        "start_pos": 22,
+                        "end_pos": 23,
+                        "type": "CARDINAL",
+                        "confidence": 0.9533683657646179
+                    },
+                    {
+                        "text": "10",
+                        "start_pos": 24,
+                        "end_pos": 26,
+                        "type": "CARDINAL",
+                        "confidence": 0.9698889255523682
+                    },
+                    {
+                        "text": "2",
+                        "start_pos": 27,
+                        "end_pos": 28,
+                        "type": "CARDINAL",
+                        "confidence": 0.9856528043746948
+                    }
+                ]
+            },
+            {
+                "text": "chloride   101  mmol l  96 109",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "96",
+                        "start_pos": 24,
+                        "end_pos": 26,
+                        "type": "CARDINAL",
+                        "confidence": 0.9982640147209167
+                    },
+                    {
+                        "text": "109",
+                        "start_pos": 27,
+                        "end_pos": 30,
+                        "type": "CARDINAL",
+                        "confidence": 0.9950202703475952
+                    }
+                ]
+            },
+            {
+                "text": "co2 27  mmol l  23 29",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "23",
+                        "start_pos": 16,
+                        "end_pos": 18,
+                        "type": "CARDINAL",
+                        "confidence": 0.9689870476722717
+                    },
+                    {
+                        "text": "29",
+                        "start_pos": 19,
+                        "end_pos": 21,
+                        "type": "CARDINAL",
+                        "confidence": 0.5965477824211121
+                    }
+                ]
+            },
+            {
+                "text": "creatinine  0 7  mg dl    0 6 1 2",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "0",
+                        "start_pos": 26,
+                        "end_pos": 27,
+                        "type": "CARDINAL",
+                        "confidence": 0.9962557554244995
+                    },
+                    {
+                        "text": "6",
+                        "start_pos": 28,
+                        "end_pos": 29,
+                        "type": "CARDINAL",
+                        "confidence": 0.9822401404380798
+                    },
+                    {
+                        "text": "1",
+                        "start_pos": 30,
+                        "end_pos": 31,
+                        "type": "CARDINAL",
+                        "confidence": 0.9856590628623962
+                    },
+                    {
+                        "text": "2",
+                        "start_pos": 32,
+                        "end_pos": 33,
+                        "type": "CARDINAL",
+                        "confidence": 0.9996713399887085
+                    }
+                ]
+            },
+            {
+                "text": "po4  2 9  mg dl  2 5 4 5",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "2",
+                        "start_pos": 17,
+                        "end_pos": 18,
+                        "type": "CARDINAL",
+                        "confidence": 0.9911050200462341
+                    },
+                    {
+                        "text": "5",
+                        "start_pos": 19,
+                        "end_pos": 20,
+                        "type": "CARDINAL",
+                        "confidence": 0.9721552133560181
+                    },
+                    {
+                        "text": "4",
+                        "start_pos": 21,
+                        "end_pos": 22,
+                        "type": "CARDINAL",
+                        "confidence": 0.9783023595809937
+                    },
+                    {
+                        "text": "5",
+                        "start_pos": 23,
+                        "end_pos": 24,
+                        "type": "CARDINAL",
+                        "confidence": 0.9981628060340881
+                    }
+                ]
+            },
+            {
+                "text": "potassium  4 5  mmol l  3 5 5 3",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "3",
+                        "start_pos": 24,
+                        "end_pos": 25,
+                        "type": "CARDINAL",
+                        "confidence": 0.965415894985199
+                    },
+                    {
+                        "text": "5",
+                        "start_pos": 26,
+                        "end_pos": 27,
+                        "type": "CARDINAL",
+                        "confidence": 0.8595530986785889
+                    },
+                    {
+                        "text": "5",
+                        "start_pos": 28,
+                        "end_pos": 29,
+                        "type": "CARDINAL",
+                        "confidence": 0.8600336909294128
+                    },
+                    {
+                        "text": "3",
+                        "start_pos": 30,
+                        "end_pos": 31,
+                        "type": "CARDINAL",
+                        "confidence": 0.9712178707122803
+                    }
+                ]
+            },
+            {
+                "text": "sgot  ast  31  u l   0 40",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "31",
+                        "start_pos": 11,
+                        "end_pos": 13,
+                        "type": "CARDINAL",
+                        "confidence": 0.6112515330314636
+                    },
+                    {
+                        "text": "0",
+                        "start_pos": 21,
+                        "end_pos": 22,
+                        "type": "CARDINAL",
+                        "confidence": 0.993420422077179
+                    },
+                    {
+                        "text": "40",
+                        "start_pos": 23,
+                        "end_pos": 25,
+                        "type": "CARDINAL",
+                        "confidence": 0.9921201467514038
+                    }
+                ]
+            },
+            {
+                "text": "bili  total 0 7  mg dl 0 0 1 3",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "7",
+                        "start_pos": 14,
+                        "end_pos": 15,
+                        "type": "CARDINAL",
+                        "confidence": 0.7673642039299011
+                    },
+                    {
+                        "text": "0",
+                        "start_pos": 23,
+                        "end_pos": 24,
+                        "type": "CARDINAL",
+                        "confidence": 0.9964728951454163
+                    },
+                    {
+                        "text": "0",
+                        "start_pos": 25,
+                        "end_pos": 26,
+                        "type": "CARDINAL",
+                        "confidence": 0.9827682375907898
+                    },
+                    {
+                        "text": "1",
+                        "start_pos": 27,
+                        "end_pos": 28,
+                        "type": "CARDINAL",
+                        "confidence": 0.9993402361869812
+                    },
+                    {
+                        "text": "3",
+                        "start_pos": 29,
+                        "end_pos": 30,
+                        "type": "CARDINAL",
+                        "confidence": 0.9998881816864014
+                    }
+                ]
+            },
+            {
+                "text": "uric  acid   4 8  mg dl 3 4 7 0",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "8",
+                        "start_pos": 15,
+                        "end_pos": 16,
+                        "type": "CARDINAL",
+                        "confidence": 0.7144194841384888
+                    },
+                    {
+                        "text": "3",
+                        "start_pos": 24,
+                        "end_pos": 25,
+                        "type": "CARDINAL",
+                        "confidence": 0.997723400592804
+                    },
+                    {
+                        "text": "4",
+                        "start_pos": 26,
+                        "end_pos": 27,
+                        "type": "CARDINAL",
+                        "confidence": 0.9659098386764526
+                    },
+                    {
+                        "text": "7",
+                        "start_pos": 28,
+                        "end_pos": 29,
+                        "type": "CARDINAL",
+                        "confidence": 0.9821287393569946
+                    },
+                    {
+                        "text": "0",
+                        "start_pos": 30,
+                        "end_pos": 31,
+                        "type": "CARDINAL",
+                        "confidence": 0.9633567333221436
+                    }
+                ]
+            },
+            {
+                "text": "ldh   total     136  iu l   0 200",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "136",
+                        "start_pos": 16,
+                        "end_pos": 19,
+                        "type": "CARDINAL",
+                        "confidence": 0.9910228252410889
+                    },
+                    {
+                        "text": "200",
+                        "start_pos": 30,
+                        "end_pos": 33,
+                        "type": "CARDINAL",
+                        "confidence": 0.9527217149734497
+                    }
+                ]
+            },
+            {
+                "text": "sodium 135  mmol l 135 145",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "135",
+                        "start_pos": 19,
+                        "end_pos": 22,
+                        "type": "CARDINAL",
+                        "confidence": 0.9837684035301208
+                    },
+                    {
+                        "text": "145",
+                        "start_pos": 23,
+                        "end_pos": 26,
+                        "type": "CARDINAL",
+                        "confidence": 0.9610787630081177
+                    }
+                ]
+            },
+            {
+                "text": "2 hba1c test",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "2",
+                        "start_pos": 0,
+                        "end_pos": 1,
+                        "type": "CARDINAL",
+                        "confidence": 0.7586585283279419
+                    }
+                ]
+            },
+            {
+                "text": "hba1c level 6 0",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "6",
+                        "start_pos": 12,
+                        "end_pos": 13,
+                        "type": "CARDINAL",
+                        "confidence": 0.9377654194831848
+                    }
+                ]
+            },
+            {
+                "text": "3 lipid profile",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "3",
+                        "start_pos": 0,
+                        "end_pos": 1,
+                        "type": "CARDINAL",
+                        "confidence": 0.9733538627624512
+                    }
+                ]
+            },
+            {
+                "text": "cholesterol  total   210 mg dl",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "210 mg",
+                        "start_pos": 21,
+                        "end_pos": 27,
+                        "type": "QUANTITY",
+                        "confidence": 0.7860600352287292
+                    }
+                ]
+            },
+            {
+                "text": "triglycerides           236 mg dl",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "236 mg",
+                        "start_pos": 24,
+                        "end_pos": 30,
+                        "type": "QUANTITY",
+                        "confidence": 0.6697061657905579
+                    }
+                ]
+            },
+            {
+                "text": "hdl cholesterol    36",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "36",
+                        "start_pos": 19,
+                        "end_pos": 21,
+                        "type": "CARDINAL",
+                        "confidence": 0.9720829129219055
+                    }
+                ]
+            },
+            {
+                "text": "ldl cholesterol     107",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "107",
+                        "start_pos": 20,
+                        "end_pos": 23,
+                        "type": "CARDINAL",
+                        "confidence": 0.9796789884567261
+                    }
+                ]
+            },
+            {
+                "text": "weserveeveryone clinic march 24  2011",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "march 24  2011",
+                        "start_pos": 23,
+                        "end_pos": 37,
+                        "type": "DATE",
+                        "confidence": 0.7636908491452535
+                    }
+                ]
+            },
+            {
+                "text": "1111 first street california",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "california",
+                        "start_pos": 18,
+                        "end_pos": 28,
+                        "type": "GPE",
+                        "confidence": 0.939845085144043
+                    }
+                ]
+            }
+        ]
+    },
+    "drug&chem": {
+        "personal info": [
+            {
+                "text": "12 24 2019 Sample Medical Record  Monica Latte  Agency for Health Research and Quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24 2019",
+                        "start_pos": 0,
+                        "end_pos": 10,
+                        "type": "DATE",
+                        "confidence": 0.6951163212458292
+                    }
+                ]
+            },
+            {
+                "text": "Practice Facilitation Handbook",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Sample Medical Record  Monica Latte",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "Monica Latte",
+                        "start_pos": 23,
+                        "end_pos": 35,
+                        "type": "PERSON",
+                        "confidence": 0.855559915304184
+                    }
+                ]
+            },
+            {
+                "text": "Previous Page Next Page",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Table of Contents",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Use for April 2011 abstraction",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "April 2011",
+                        "start_pos": 8,
+                        "end_pos": 18,
+                        "type": "DATE",
+                        "confidence": 0.8116828501224518
+                    }
+                ]
+            },
+            {
+                "text": "WeServeEveryone Clinic",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "1111 First Street California",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "111 111 11111   Fax  111 111 1111 Chart Summary",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Monica Latte",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "Monica Latte",
+                        "start_pos": 0,
+                        "end_pos": 12,
+                        "type": "PERSON",
+                        "confidence": 0.7920570373535156
+                    }
+                ]
+            },
+            {
+                "text": "Home  444 444 4444",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Female  DOB  04 04 1950 0000 44444 Ins  Commercial xxxxx",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "04 04",
+                        "start_pos": 13,
+                        "end_pos": 18,
+                        "type": "DATE",
+                        "confidence": 0.6293659508228302
+                    },
+                    {
+                        "text": "1950",
+                        "start_pos": 19,
+                        "end_pos": 23,
+                        "type": "DATE",
+                        "confidence": 0.9705666899681091
+                    }
+                ]
+            },
+            {
+                "text": "Patient Information",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Name  Monica Latte Home Phone  444 444 4444",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Address  4444 Coffee Ave Office Phone",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Chocolate, California",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "California",
+                        "start_pos": 11,
+                        "end_pos": 21,
+                        "type": "GPE",
+                        "confidence": 0.9954565763473511
+                    }
+                ]
+            },
+            {
+                "text": "Patient ID  0000 44444 Fax",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Birth Date  04 04 1950 Status  Active",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "04 04",
+                        "start_pos": 12,
+                        "end_pos": 17,
+                        "type": "DATE",
+                        "confidence": 0.6969377100467682
+                    },
+                    {
+                        "text": "1950",
+                        "start_pos": 18,
+                        "end_pos": 22,
+                        "type": "DATE",
+                        "confidence": 0.9576654434204102
+                    }
+                ]
+            },
+            {
+                "text": "Gender  Female Marital Status  Divorced",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Contact By  Phone Race  Black",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Soc Sec No  444 444 4444 Language  English",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Resp Prov  Carl Savem MRN  MR 111 1111",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Referred by  Emp.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Status  Full time",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Email  Sens Chart  No",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Home LOC WeServeEveryone External ID  MR 111 1111",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "problems": [
+            {
+                "text": "Problems",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "DIABETES MELLITUS ICD 250.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "HYPERTENSION, BENIGN ESSENTIAL ICD 401.1",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "medications": [
+            {
+                "text": "Medications",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "https   www.ahrq.gov ncepcr tools pf handbook mod8 app b monica latte.html 1 5",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "12 24 2019 Sample Medical Record  Monica Latte  Agency for Health Research and Quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24 2019",
+                        "start_pos": 0,
+                        "end_pos": 10,
+                        "type": "DATE",
+                        "confidence": 0.6951163212458292
+                    }
+                ]
+            },
+            {
+                "text": "PRINIVIL TABS 20 MG LISINOPRIL 1 po qd",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Last Refill  30 x 2   Carl Savem MD 08 27 2010",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "08 27",
+                        "start_pos": 36,
+                        "end_pos": 41,
+                        "type": "DATE",
+                        "confidence": 0.5409980267286301
+                    },
+                    {
+                        "text": "2010",
+                        "start_pos": 42,
+                        "end_pos": 46,
+                        "type": "DATE",
+                        "confidence": 0.7890641689300537
+                    }
+                ]
+            },
+            {
+                "text": "HUMULIN INJ 70 30 INSULIN REG   ISOPHANE HUMAN 20 units ac breakfast",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Last Refill  600 u x 0   Carl Savem MD 08 27 2010",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "08 27",
+                        "start_pos": 39,
+                        "end_pos": 44,
+                        "type": "DATE",
+                        "confidence": 0.5630630850791931
+                    },
+                    {
+                        "text": "2010",
+                        "start_pos": 45,
+                        "end_pos": 49,
+                        "type": "DATE",
+                        "confidence": 0.6727082133293152
+                    }
+                ]
+            },
+            {
+                "text": "Directives",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Allergies and Adverse Reactions   critical",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Services Due",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "FLU VAX, PNEUMOVAX, MICROALB URN",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "3 18 2011   Office Visit  F u Diabetes",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "3 18",
+                        "start_pos": 0,
+                        "end_pos": 4,
+                        "type": "DATE",
+                        "confidence": 0.6003783941268921
+                    },
+                    {
+                        "text": "2011",
+                        "start_pos": 5,
+                        "end_pos": 9,
+                        "type": "DATE",
+                        "confidence": 0.5038672089576721
+                    }
+                ]
+            },
+            {
+                "text": "Provider  Carl Savem MD",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "Carl Savem",
+                        "start_pos": 10,
+                        "end_pos": 20,
+                        "type": "PERSON",
+                        "confidence": 0.677024781703949
+                    }
+                ]
+            },
+            {
+                "text": "Location of Care  WeServeEveryone Clinic",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "OFFICE VISIT",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "history of present illness": [
+            {
+                "text": "History of Present Illness",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Reason for visit  Routine follow up",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Chief Complaint  No complaints",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "History",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Diabetes Management",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Hyperglycemic Symptoms",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Polyuria  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Polydipsia  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Blurred vision  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Sympathomimetic Symptoms",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Diaphoresis  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Agitation  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Tremor  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Palpitations  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Insomnia  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Neuroglycopenic Symptoms",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Confusion  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Lethargy  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Somnolence  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Amnesia  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Stupor  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Seizures  no",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "review of systems": [
+            {
+                "text": "Review of Systems",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "General  denies fatigue, malaise, fever, weight loss",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Eyes  denies blurring, diplopia, irritation, discharge",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Ear Nose Throat  denies ear pain or discharge, nasal obstruction or discharge, sore throat",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "Ear Nose Throat",
+                        "start_pos": 0,
+                        "end_pos": 15,
+                        "type": "PERSON",
+                        "confidence": 0.9476513465245565
+                    }
+                ]
+            },
+            {
+                "text": "Cardiovascular  denies chest pain, palpitations, paroxysmal nocturnal dyspnea, orthopnea, edema Respiratory  denies",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "coughing, wheezing, dyspnea, hemoptysis",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Gastrointestinal  denies abdominal pain, dysphagia, nausea, vomiting, diarrhea, constipation",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Genitourinary  denies hematuria, frequency, urgency, dysuria, discharge, impotence, incontinence",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Musculoskeletal  denies back pain, joint swelling, joint stiffness, joint pain",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Skin  denies rashes, itching, lumps, sores, lesions, color change",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Neurologic  denies syncope, seizures, transient paralysis, weakness, paresthesias",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Psychiatric  denies depression, anxiety, mental disturbance, difficulty sleeping, suicidal ideation, hallucinations, paranoia",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Endocrine  denies polyuria, polydipsia, polyphagia, weight change, heat or cold intolerance",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "https   www.ahrq.gov ncepcr tools pf handbook mod8 app b monica latte.html 2 5",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "12 24 2019 Sample Medical Record  Monica Latte  Agency for Health Research and Quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24 2019",
+                        "start_pos": 0,
+                        "end_pos": 10,
+                        "type": "DATE",
+                        "confidence": 0.6951163212458292
+                    }
+                ]
+            },
+            {
+                "text": "Heme Lymphatic  denies easy or excessive bruising, history of blood transfusions, anemia, bleeding disorders, adenopathy,",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "chills, sweats",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Allergic Immunologic  denies urticaria, hay fever, frequent UTIs  denies HIV high risk behaviors",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "vital signs": [
+            {
+                "text": "Vital Signs",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "WeServeEveryone Clinic March 24, 2011",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "March 24, 2011",
+                        "start_pos": 23,
+                        "end_pos": 37,
+                        "type": "DATE",
+                        "confidence": 0.6914292772610983
+                    }
+                ]
+            },
+            {
+                "text": "1111 First Street California Page 2",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "111 111 11111   Fax  111 111 1111 Chart Summary",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Ht  64 in.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Wt  140 lbs.T  98.0 degF.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "T site   oral P  72 Rhythm  regular R  16 BP  158 90",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "physical exam": [
+            {
+                "text": "Physical Exam",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "General Appearance   well developed, well nourished, no acute distress",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Eyes  conjunctiva and lids normal, PERRLA, EOMI, fundi WNL",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Ears, Nose, Mouth, Throat  TM clear, nares clear, oral exam WNL",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Respiratory  clear to auscultation and percussion, respiratory effort normal",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Cardiovascular  regular rate and rhythm, S1 S2, no murmur, rub or gallop, no bruits, peripheral pulses normal and",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "symmetric, no cyanosis, clubbing, edema or varicosities",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Skin  clear, good turgor, color WNL, no rashes, lesions, or ulcerations",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Problems including changes  Blood pressure is lower.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Feet are inspected and there are no callouses, no compromised",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "skin.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "No vision complaints.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Impression  Sub optimal sugar, control with retinopathy and neuropathy, high glucometer readings.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Will work harder on diet.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Will increase insulin by 2 units.",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Home Glucose Monitoring",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "AC breakfast 110 to 220",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "AC breakfast mean 142",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "AC dinner 100 to 250",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "AC dinner mean 120",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "plan": [
+            {
+                "text": "Plan",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Medications",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "HUMULIN INJ 70 30 20 u ac breakfast",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "PRINIVIL TABS 20 MG 1 qd",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Treatment  Will have annual foot exam at next visit.",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "annual",
+                        "start_pos": 21,
+                        "end_pos": 27,
+                        "type": "DATE",
+                        "confidence": 0.9851678609848022
+                    }
+                ]
+            },
+            {
+                "text": "Orders",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "UA",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Metabolic Panel",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Education Counseling time  5 minutes",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Coordination of Care time  20 minutes",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Follow up Return Visit  3 months",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "3 months",
+                        "start_pos": 24,
+                        "end_pos": 32,
+                        "type": "DATE",
+                        "confidence": 0.9522397220134735
+                    }
+                ]
+            },
+            {
+                "text": "Disposition  return to clinic",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "WeServeEveryone Clinic March 24, 2011",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "March 24, 2011",
+                        "start_pos": 23,
+                        "end_pos": 37,
+                        "type": "DATE",
+                        "confidence": 0.6914292772610983
+                    }
+                ]
+            },
+            {
+                "text": "https   www.ahrq.gov ncepcr tools pf handbook mod8 app b monica latte.html 3 5",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "12 24 2019 Sample Medical Record  Monica Latte  Agency for Health Research and Quality",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "12 24 2019",
+                        "start_pos": 0,
+                        "end_pos": 10,
+                        "type": "DATE",
+                        "confidence": 0.6951163212458292
+                    }
+                ]
+            },
+            {
+                "text": "1111 First Street California Page 2",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "111 111 11111   Fax  111 111 1111 Chart Summary",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "03 18 2011   Lab Report  Metabolic Panel Provider  Carl Savem MD",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "03 18",
+                        "start_pos": 0,
+                        "end_pos": 5,
+                        "type": "DATE",
+                        "confidence": 0.6153467148542404
+                    },
+                    {
+                        "text": "2011",
+                        "start_pos": 6,
+                        "end_pos": 10,
+                        "type": "DATE",
+                        "confidence": 0.8927255272865295
+                    }
+                ]
+            },
+            {
+                "text": "",
+                "labels": [],
+                "entities": []
+            }
+        ],
+        "tests": [
+            {
+                "text": "Tests",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "1 Metabolic PanelML 03CHEM",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "ALK PHOS 72 35 100",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "BG  RANDOM 125  mg dl 70 125",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "BUN 16  mg dl 7 25",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "CALCIUM  9.6  mg dl 8.2 10.2",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "CHLORIDE   101  mmol l  96 109",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "CO2 27  mmol l  23 29",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "CREATININE  0.7  mg dl    0.6 1.2",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "PO4  2.9  mg dl  2.5 4.5",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "POTASSIUM  4.5  mmol l  3.5 5.3",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "SGOT  AST  31  U L   0 40",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "BILI  TOTAL 0.7  mg dl 0.0 1.3",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "URIC  ACID   4.8  mg dl 3.4 7.0",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "LDH,  TOTAL     136  IU L   0 200",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "SODIUM 135  mmol l 135 145",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "2 HbA1c Test",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "HbA1c level 6.0",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "3 Lipid Profile",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Cholesterol, Total   210 mg dl",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "Triglycerides           236 mg dl",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "HDL Cholesterol    36",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "LDL Cholesterol     107",
+                "labels": [],
+                "entities": []
+            },
+            {
+                "text": "WeServeEveryone Clinic March 24, 2011",
+                "labels": [],
+                "entities": [
+                    {
+                        "text": "March 24, 2011",
+                        "start_pos": 23,
+                        "end_pos": 37,
+                        "type": "DATE",
+                        "confidence": 0.6914292772610983
+                    }
+                ]
+            },
+            {
+                "text": "1111 First Street California",
+                "labels": [],
+                "entities": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+personal info
+============================================================
+problem list
+[<Anatomy-span (2,3): "brain tumor">, <Anatomy-span (17): "tumor">]
+[<Anatomy-span (3): "brain">]
+[<Anatomy-span (1,2): "brain tumor">]
+[<Anatomy-span (1): "meningeal">]
+============================================================
+hpi
+[<Anatomy-span (2): "head">, <Anatomy-span (6): "back">, <Anatomy-span (8): "head">]
+[<Anatomy-span (6): "back">, <Anatomy-span (9): "head">]
+============================================================
+past medical history
+============================================================
+medications
+============================================================
+social history
+============================================================
+ros
+[<Anatomy-span (4): "skin">]
+[<Anatomy-span (1): "hair">]
+[<Anatomy-span (1,2): "lymph nodes">]
+[<Anatomy-span (1,2,3): "bones joints muscles">]
+[<Anatomy-span (2): "joint">]
+[<Anatomy-span (1): "endocrine">]
+[<Anatomy-span (1): "head">]
+[<Anatomy-span (1): "eyes">]
+[<Anatomy-span (1): "ears">]
+[<Anatomy-span (1): "nose">]
+[<Anatomy-span (1): "mouth">]
+[<Anatomy-span (1): "throat">, <Anatomy-span (4,5): "throat voice">]
+[<Anatomy-span (1): "neck">]
+[<Anatomy-span (1): "respiratory">]
+[<Anatomy-span (1): "cardiovascular">]
+[<Anatomy-span (2): "edema">, <Anatomy-span (7): "heart">]
+[<Anatomy-span (2): "abdominal">, <Anatomy-span (6): "bowel">, <Anatomy-span (9): "stools">, <Anatomy-span (11): "rectal">]
+[<Anatomy-span (1): "genitourinary">]
+[<Anatomy-span (1): "neurologic">]
+[<Anatomy-span (2,3): "brain tumor">]
+============================================================
+objective
+============================================================
+physical exam
+[<Anatomy-span (1): "head">, <Anatomy-span (5): "hematomas">]
+[<Anatomy-span (1): "neck">]
+[<Anatomy-span (1): "eyes">, <Anatomy-span (3): "lids">, <Anatomy-span (5): "conjunctiva">]
+[<Anatomy-span (2,3): "optic discs">, <Anatomy-span (6,7): "papilledema macula">]
+[<Anatomy-span (1): "facial">]
+[<Anatomy-span (2,3): "facial motor">]
+[<Anatomy-span (1,2): "external ears">]
+[<Anatomy-span (1,2,3): "auricle tragus mastoid">]
+[<Anatomy-span (1,2): "ear canal">, <Anatomy-span (4,5): "tympanic membrance">]
+[<Anatomy-span (4): "tongue">]
+[<Anatomy-span (2): "lymphadenopathy">]
+[<Anatomy-span (2): "extremities">]
+[<Anatomy-span (4): "finger">, <Anatomy-span (6): "nose">]
+[<Anatomy-span (1): "plantar">]
+[<Anatomy-span (2,3): "brain tumor">]
+[<Anatomy-span (8): "intracranial">]
+[<Anatomy-span (4): "nuchal">]
+[<Anatomy-span (12): "nuchal">]
+[<Anatomy-span (10): "brain">]
+[<Anatomy-span (3,4): "subdural hematoma">, <Anatomy-span (6,7): "brain tumor">]
+[<Anatomy-span (4): "pelvic">]
+[<Anatomy-span (8,9): "fruits vegetables">]
+[<Anatomy-span (9,10): "fruits vegetables">]
+[<Anatomy-span (4): "neurological">]
+============================================================

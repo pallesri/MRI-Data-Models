@@ -1,0 +1,66 @@
+personal info
+[<PERSON-span (5,6): "Anthony Ambrose">]
+[<PERSON-span (3): "B.">]
+============================================================
+subjective
+[<DATE-span (9,10): "2 months">]
+============================================================
+hpi
+[<PERSON-span (2): "B.">, <DATE-span (5,6,7): "60 year old">]
+[<PERSON-span (5): "B.">, <DATE-span (14,15,16,17): "the past 2 years">]
+[<DATE-span (7,8,9,10): "the past 2 months.">]
+[<DATE-span (3,4,5): "about 1 month">]
+[<DATE-span (1,2,3): "Two weeks ago">, <PERSON-span (5): "B.">]
+[<DATE-span (2,3,4,5): "the past 2 months,">]
+[<DATE-span (7,8,9): "1 year ago.">]
+[<DATE-span (3,4,5,6): "the past 2 years.">]
+[<DATE-span (17,18,19): "2 3 days">]
+[<DATE-span (10,11,12): "a few days.">]
+[<PERSON-span (1,2): "H e">]
+[<DATE-span (10,11): "2 year">]
+[<DATE-span (12,13,14): "the past month.">]
+[<PERSON-span (5,6): "Anthony Ambrose">]
+============================================================
+pmh
+============================================================
+allergies
+[<DATE-span (4,5): "2010, 2013.">]
+============================================================
+immunizations
+============================================================
+fh
+[<DATE-span (4,5,6): "18 pack year">, <DATE-span (10,11,12): "12 years ago,">]
+[<DATE-span (16,17,18,19): "about 2 years ago.">]
+[<DATE-span (9,10): "many years.">]
+[<DATE-span (5): "66">]
+[<DATE-span (4): "86,">]
+[<DATE-span (5,6): "1 year">, <DATE-span (19): "1976">]
+============================================================
+objective
+[<DATE-span (3,4,5): "60 year old">]
+[<PERSON-span (1): "Lung">]
+[<PERSON-span (5,6): "Anthony Ambrose">]
+[<PERSON-span (1): "Ankles:">]
+============================================================
+assessment
+[<PERSON-span (2): "B.">, <DATE-span (5,6,7): "60 year old">]
+[<DATE-span (15,16): "2 months.">]
+============================================================
+assessment
+[<DATE-span (5,6,7,8): "the past 2 years.">]
+============================================================
+plan
+[<PERSON-span (5,6): "Anthony Ambrose">]
+[<DATE-span (7,8): "3 days">, <DATE-span (12,13): "2 weeks">]
+[<PERSON-span (1,2): "b. Bony">]
+[<PERSON-span (1,2): "b. Ascites">]
+[<DATE-span (10,11,12): "12 years ago">]
+[<PERSON-span (1,2): "Andreoli, Thomas">, <PERSON-span (4,5,6,7): "Benjamin, Ivor J., Griggs,">, <PERSON-span (8,9): "Robert C.,">, <PERSON-span (10,11,12,13,14): "Wing, Edward J. Chapter 87.">]
+[<PERSON-span (2): "Andreoli">]
+[<DATE-span (5): "2010.">]
+[<PERSON-span (5,6): "Anthony Ambrose">]
+[<PERSON-span (1,2,3): "Pittman JR, Bross">]
+[<DATE-span (2,3,4): "13 May 2014">]
+[<DATE-span (2,3,4): "13 May 2014">]
+[<DATE-span (2,3,4): "13 May 2014">]
+============================================================

@@ -1,0 +1,27 @@
+personal info
+[<Anatomy-span (3,4): "malignant neoplasm">, <Anatomy-span (7): "breast">, <Anatomy-span (10): "sites">, <Anatomy-span (13): "breast">]
+[<Anatomy-span (5): "sites">, <Anatomy-span (7): "pleura">]
+[<Anatomy-span (5): "chest">]
+============================================================
+history of present illness
+[<Anatomy-span (15,16): "breast cancer">]
+[<Anatomy-span (2,3): "chest wall">]
+[<Anatomy-span (11,12): "bone metastases">, <Anatomy-span (17,18,19): "sacroiliac joint right">]
+[<Anatomy-span (1): "trochanter">, <Anatomy-span (3,4,5): "left sacral area">]
+[<Anatomy-span (14,15): "pleural effusion">]
+[<Anatomy-span (15): "respiratory">]
+[<Anatomy-span (2): "adenopathy">]
+[<Anatomy-span (4): "breath">]
+[<Anatomy-span (2,3): "left lung">]
+[<Anatomy-span (1): "cardiac">]
+[<Anatomy-span (11): "edema">]
+[<Anatomy-span (2): "chest">, <Anatomy-span (8,9): "pleural effusion">, <Anatomy-span (12): "right">]
+[<Anatomy-span (12): "lung">, <Anatomy-span (16): "tumor">]
+[<Anatomy-span (1,2): "pleural peel">, <Anatomy-span (4): "tumor">, <Anatomy-span (7): "adhesions">]
+[<Anatomy-span (2): "chest">]
+[<Anatomy-span (19): "chest">]
+[<Anatomy-span (5,6): "pleural peel">, <Anatomy-span (10): "lungs">]
+[<Anatomy-span (10): "cancer">, <Anatomy-span (16): "pulmonary">]
+[<Anatomy-span (16): "lungs">]
+[<Anatomy-span (12): "chest">]
+============================================================

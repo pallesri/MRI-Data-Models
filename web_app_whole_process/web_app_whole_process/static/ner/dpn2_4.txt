@@ -1,0 +1,24 @@
+personal info
+[<GPE-span (1): "Chicago">, <GPE-span (3): "IL">]
+[<PERSON-span (1,2,3): "Arthur Bach DOB">, <DATE-span (5,6,7,8,9,10,11,12,13,14,15): "1 / 23 / 1967 Wednesday , July 11 , 2012">]
+============================================================
+subjective
+[<PERSON-span (10): "Arthur">]
+============================================================
+objective
+[<PERSON-span (5): "Arthur">]
+[<PERSON-span (4): "Nachlas">, <PERSON-span (8): "Yeoman">]
+[<PERSON-span (5): "Laguerre">, <PERSON-span (11): "Hibb">]
+============================================================
+examination
+============================================================
+assessment
+[<PERSON-span (12): "Arthur">]
+[<PERSON-span (2): "Graston">]
+[<PERSON-span (11): "Arthur">]
+[<PERSON-span (1): "Arthur">]
+[<DATE-span (12,13): "two days">]
+[<PERSON-span (2,3,4): "Michael L. Silbert">, <PERSON-span (5,6): "Arthur Bach">]
+[<PERSON-span (1): "Arthur">, <DATE-span (13,14): "two days">]
+[<DATE-span (5,6,7,8,9,10): "Tuesday , July 03 , 2012">]
+============================================================

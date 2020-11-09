@@ -1,0 +1,26 @@
+personal info
+============================================================
+subjective
+============================================================
+objective
+============================================================
+physical exam
+[<Anatomy-span (1): "lung">]
+[<Anatomy-span (1): "cardiac">]
+[<Anatomy-span (1): "abdominal">]
+[<Anatomy-span (1): "extremities">]
+============================================================
+a/p
+============================================================
+assessment and plan
+[<Anatomy-span (2): "chest">]
+[<Anatomy-span (5): "chest">]
+[<Anatomy-span (16): "cardiac">]
+[<Anatomy-span (6): "musculoskeltal">]
+[<Anatomy-span (1): "chest">]
+============================================================
+plan
+[<Anatomy-span (2): "cardiac">]
+[<Anatomy-span (2): "cardio">]
+[<Anatomy-span (1): "blood">, <Anatomy-span (9): "stools">]
+============================================================

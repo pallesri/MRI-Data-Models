@@ -1,0 +1,61 @@
+personal info
+[<PERSON-span (1): "E.S.">, <DATE-span (4,5,6): "21 year old">]
+[<DATE-span (6,7): "4 weeks">]
+============================================================
+problem list
+[<DATE-span (3,4,5,6,7): "8 / 28 / 01">]
+[<PERSON-span (7): "E.S.">, <DATE-span (10,11,12): "21 year old">]
+[<PERSON-span (7): "Ive">, <DATE-span (12,13): "4 weeks">]
+[<PERSON-span (8,9): "Meredith Horan">, <DATE-span (11): "2000">]
+[<DATE-span (10,11): "4 weeks">]
+[<PERSON-span (3,4): "Meredith Horan">, <DATE-span (6): "2000">]
+[<DATE-span (11,12): "4 weeks">]
+============================================================
+hpi
+[<DATE-span (1,2,3): "21 year old">, <DATE-span (13,14): "4 weeks">]
+[<DATE-span (1,2): "weeks ago">]
+[<DATE-span (12,13,14): "4 weeks ago">]
+[<DATE-span (11,12,13): "3 weeks ago">]
+============================================================
+past medical history
+============================================================
+medications
+============================================================
+social history
+============================================================
+ros
+[<PERSON-span (6): "Skin">]
+[<PERSON-span (1): "Mouth">]
+[<PERSON-span (1): "Throat">]
+[<PERSON-span (1): "Neck">]
+[<PERSON-span (1): "GI">]
+[<DATE-span (2,3): "2 weeks">]
+[<DATE-span (6,7): "the summer">]
+============================================================
+objective
+============================================================
+physical exam
+[<GPE-span (1): "PERRLA">]
+[<PERSON-span (1): "Romberg">]
+[<PERSON-span (2,3): "Meredith Horan">, <DATE-span (5): "2000">]
+[<PERSON-span (10): "Patten">]
+[<DATE-span (1): "1996.">]
+[<DATE-span (1): "months">, <DATE-span (10): "1999">]
+[<DATE-span (1): "months">, <PERSON-span (7): "Midrin">]
+[<DATE-span (4,5,6): "the following week">]
+[<DATE-span (7,8): "3 years">]
+[<DATE-span (8): "1998">]
+[<DATE-span (14): "18">]
+[<PERSON-span (3): "Graham">, <DATE-span (5): "1998">]
+[<DATE-span (12,13,14): "the last year">]
+[<PERSON-span (1): "Goetz">]
+[<DATE-span (1): "1999.">]
+[<PERSON-span (1): "Meredith">, <PERSON-span (3,4): "P. Horan">, <DATE-span (6,7): "N. 2000.">]
+[<GPE-span (1): "Philadelphia">, <GPE-span (3): "Pennsylvania">]
+[<PERSON-span (1): "Patten">, <DATE-span (3,4): "J. 1996.">]
+[<GPE-span (1,2,3): "Great Britain :">]
+[<DATE-span (7,8): "2nd ed">]
+[<DATE-span (1): "1998.">, <GPE-span (2): "McLean">, <GPE-span (4): "VA">]
+[<PERSON-span (3,4): "C.R. Graham">, <DATE-span (6,7): "M.V. 1998.">]
+[<GPE-span (1): "Gainesville">, <GPE-span (3): "Florida">]
+============================================================

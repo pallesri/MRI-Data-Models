@@ -1,0 +1,42 @@
+personal info
+============================================================
+subjective
+============================================================
+hpi
+[<B-span (7): "lasix">]
+[<B-span (8): "ibuprofen">]
+============================================================
+pmh
+============================================================
+allergies
+============================================================
+immunizations
+[<B-span (3): "furosemide">, <B-span (9): "isosorbide">, <I-span (10): "dinitrate">, <B-span (14): "chf">, <I-span (15): "torsemide">]
+[<B-span (4): "carvedilol">, <B-span (6): "losartan">, <B-span (12): "ibuprofen">, <I-span (13): "prn">]
+============================================================
+fh
+[<B-span (14): "alcohol">]
+============================================================
+objective
+============================================================
+assessment
+============================================================
+assessment
+[<B-span (3): "ddx">]
+============================================================
+plan
+[<B-span (2): "uric">, <I-span (3): "acid">]
+[<B-span (4): "uric">, <I-span (5): "acid">]
+[<B-span (2): "prednisone">]
+[<B-span (11): "uric">, <I-span (12): "acid">]
+[<B-span (2): "uric">, <I-span (3): "acid">, <B-span (6): "probenecid">]
+[<B-span (2): "uric">, <I-span (3): "acid">, <B-span (6): "allopurinol">]
+[<B-span (9): "uric">, <I-span (10): "acid">]
+[<B-span (1): "probenecid">]
+[<B-span (1): "allopurinol">]
+[<B-span (9): "thiazide">]
+[<B-span (5): "uric">, <I-span (6): "acid">, <B-span (12): "purine">]
+[<B-span (2): "purine">]
+[<B-span (3): "alcohol">]
+[<B-span (8): "fructose">]
+============================================================

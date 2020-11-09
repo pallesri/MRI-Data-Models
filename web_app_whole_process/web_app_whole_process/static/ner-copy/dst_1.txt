@@ -1,0 +1,8 @@
+personal info
+============================================================
+history of present illness
+[<B-span (5): "tamoxifen">]
+[<B-span (13): "talc">]
+[<B-span (4): "arimidex">]
+[<B-span (6): "tylenol">, <B-span (8): "codeine">, <B-span (16): "multivitamin">]
+============================================================

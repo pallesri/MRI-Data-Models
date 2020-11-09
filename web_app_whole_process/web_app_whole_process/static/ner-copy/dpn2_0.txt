@@ -1,0 +1,30 @@
+personal info
+============================================================
+subjective
+[<Anatomy-span (12): "right">]
+============================================================
+objective
+[<Anatomy-span (12,13): "lumbar right">]
+[<Anatomy-span (5): "right">]
+[<Anatomy-span (1,2): "lower lumbars">]
+[<Anatomy-span (1,2): "right piriformis">]
+[<Anatomy-span (10,11): "taut fibers">]
+[<Anatomy-span (1,2,3): "right sacroiliac region">]
+============================================================
+examination
+[<Anatomy-span (2,3): "right leg">]
+============================================================
+assessment
+[<Anatomy-span (14): "blood">]
+[<Anatomy-span (3): "muscle">]
+[<Anatomy-span (4,5,6): "right sacroiliac region">, <Anatomy-span (9): "muscle">, <Anatomy-span (11): "ligament">]
+[<Anatomy-span (4,5): "peripheral nerve">]
+[<Anatomy-span (2,3): "vertebral segments">, <Anatomy-span (6,7): "lumbar sacral">, <Anatomy-span (9,10): "pelvis regions">]
+[<Anatomy-span (14): "sacral">]
+[<Anatomy-span (1): "cranial">, <Anatomy-span (11,12): "cerebrospinal fluid">]
+[<Anatomy-span (15): "lumbar">]
+[<Anatomy-span (1,2,3): "piriformis psoas hamstrings">, <Anatomy-span (6,7): "adductors musculature">]
+[<Anatomy-span (12,13): "lumbar gluteal">]
+[<Anatomy-span (1,2): "piriformis region">, <Anatomy-span (7): "musculature">]
+[<Anatomy-span (1): "ligament">, <Anatomy-span (5): "muscle">]
+============================================================

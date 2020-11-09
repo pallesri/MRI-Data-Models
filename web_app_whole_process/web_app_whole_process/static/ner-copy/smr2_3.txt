@@ -1,0 +1,54 @@
+personal info
+============================================================
+patient information
+============================================================
+problems
+[<Disease-span (1,2): "diabetes mellitus">]
+============================================================
+medications
+[<Disease-span (1): "allergies">]
+[<Disease-span (8): "diabetes">]
+============================================================
+history of present illness
+[<Disease-span (1): "diabetes">]
+[<Disease-span (1,2): "hyperglycemic symptoms">]
+[<Disease-span (1): "polyuria">]
+[<Disease-span (1): "polydipsia">]
+[<Disease-span (1): "tremor">]
+[<Disease-span (1): "insomnia">]
+[<Disease-span (1,2): "neuroglycopenic symptoms">]
+[<Disease-span (1): "lethargy">]
+[<Disease-span (1): "amnesia">]
+============================================================
+review of systems
+[<Disease-span (3,4,5): "fatigue malaise fever">]
+[<Disease-span (4,5): "diplopia irritation">]
+[<Disease-span (1,2,3): "ear nose throat">, <Disease-span (5,6): "ear pain">, <Disease-span (9,10): "nasal obstruction">, <Disease-span (13,14): "sore throat">]
+[<Disease-span (3,4,5,6,7,8,9,10,11): "chest pain palpitations paroxysmal nocturnal dyspnea orthopnea edema respiratory">]
+[<Disease-span (1,2,3): "coughing wheezing dyspnea">, <Disease-span (4): "hemoptysis">]
+[<Disease-span (3,4,5,6,7,8,9): "abdominal pain dysphagia nausea vomiting diarrhea constipation">]
+[<Disease-span (3): "hematuria">, <Disease-span (6,7,8,9): "dysuria discharge impotence incontinence">]
+[<Disease-span (3,4,5,6,7,8,9,10): "back pain joint swelling joint stiffness joint pain">]
+[<Disease-span (3,4,5,6,7): "rashes itching lumps sores lesions">]
+[<Disease-span (3,4,5,6,7,8): "syncope seizures transient paralysis weakness paresthesias">]
+[<Disease-span (3,4,5,6): "depression anxiety mental disturbance">, <Disease-span (9,10,11,12): "suicidal ideation hallucinations paranoia">]
+[<Disease-span (3,4,5): "polyuria polydipsia polyphagia">, <Disease-span (10,11): "cold intolerance">]
+[<Disease-span (6,7): "excessive bruising">, <Disease-span (10,11,12,13,14): "blood transfusions anemia bleeding disorders">]
+[<Disease-span (1,2,3): "adenopathy chills sweats">]
+[<Disease-span (4,5,6): "urticaria hay fever">]
+============================================================
+vital signs
+============================================================
+physical exam
+[<Disease-span (3,4,5): "cyanosis clubbing edema">, <Disease-span (7): "varicosities">]
+[<Disease-span (8,9): "rashes lesions">, <Disease-span (11): "ulcerations">]
+============================================================
+assessment
+============================================================
+complaints
+[<Disease-span (7): "retinopathy">, <Disease-span (9): "neuropathy">]
+============================================================
+plan
+============================================================
+tests
+============================================================

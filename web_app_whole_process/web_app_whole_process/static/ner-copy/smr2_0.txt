@@ -1,0 +1,43 @@
+personal info
+============================================================
+patient information
+============================================================
+problems
+============================================================
+medications
+============================================================
+history of present illness
+============================================================
+review of systems
+[<Anatomy-span (1): "eyes">]
+[<Anatomy-span (1,2,3): "ear nose throat">, <Anatomy-span (5): "ear">, <Anatomy-span (9): "nasal">, <Anatomy-span (14): "throat">]
+[<Anatomy-span (1): "cardiovascular">, <Anatomy-span (3): "chest">, <Anatomy-span (11): "respiratory">]
+[<Anatomy-span (1): "gastrointestinal">, <Anatomy-span (3): "abdominal">]
+[<Anatomy-span (1): "genitourinary">]
+[<Anatomy-span (1): "musculoskeletal">, <Anatomy-span (3): "back">, <Anatomy-span (5): "joint">, <Anatomy-span (7): "joint">, <Anatomy-span (9): "joint">]
+[<Anatomy-span (1): "skin">, <Anatomy-span (3): "rashes">, <Anatomy-span (5,6,7): "lumps sores lesions">]
+[<Anatomy-span (1): "neurologic">]
+[<Anatomy-span (2): "lymphatic">, <Anatomy-span (10): "blood">]
+[<Anatomy-span (8): "utis">]
+============================================================
+vital signs
+[<Anatomy-span (3): "oral">]
+============================================================
+physical exam
+[<Anatomy-span (1,2): "eyes conjunctiva">, <Anatomy-span (4): "lids">]
+[<Anatomy-span (1,2,3,4): "ears nose mouth throat">, <Anatomy-span (7): "nares">, <Anatomy-span (9): "oral">]
+[<Anatomy-span (1): "respiratory">, <Anatomy-span (7): "respiratory">]
+[<Anatomy-span (1): "cardiovascular">]
+[<Anatomy-span (5): "edema">, <Anatomy-span (7): "varicosities">]
+[<Anatomy-span (1): "skin">, <Anatomy-span (8,9): "rashes lesions">, <Anatomy-span (11): "ulcerations">]
+============================================================
+assessment
+[<Anatomy-span (4): "feet">, <Anatomy-span (14): "skin">]
+============================================================
+complaints
+============================================================
+plan
+[<Anatomy-span (5): "foot">]
+============================================================
+tests
+============================================================

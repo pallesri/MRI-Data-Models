@@ -1,0 +1,42 @@
+personal info
+============================================================
+vitals
+============================================================
+past medical history
+============================================================
+medications
+============================================================
+family history
+[<P-span (5): "therap">]
+============================================================
+objective
+============================================================
+assessment
+[<P-span (1,2): "differential diagnoses">]
+[<P-span (5): "treatment">]
+[<P-span (11): "treatment">]
+[<P-span (5): "treatment">]
+[<P-span (1): "biopsy">, <P-span (12): "treatment">]
+[<P-span (5,6): "skin biopsy">]
+[<P-span (2): "treatment">]
+[<P-span (2): "treatment">]
+[<P-span (4,5): "ystemic treatment">, <P-span (12,13): "topical therap">]
+[<P-span (14): "treatment">]
+[<P-span (8,9): "lipid panel">]
+[<P-span (11,12): "pharmacological interventions">]
+[<P-span (1): "treat">]
+[<P-span (1,2): "treated with">]
+[<P-span (6): "treatment">]
+[<P-span (11,12): "treated with">]
+[<P-span (9): "therap">]
+[<P-span (4): "regimen">]
+[<P-span (10): "treatment">]
+[<P-span (11): "treatment">]
+[<P-span (13): "phototherapy">]
+[<P-span (1,2): "b phototherapy">]
+[<P-span (8): "phototherapy">]
+[<P-span (1): "treated">, <P-span (3): "phototherapy">]
+[<P-span (4): "treatments">]
+[<P-span (8,9): "social culture">]
+[<P-span (1,2): "revision deletions">]
+============================================================

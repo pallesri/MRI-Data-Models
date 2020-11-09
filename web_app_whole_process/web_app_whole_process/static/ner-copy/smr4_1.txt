@@ -1,0 +1,54 @@
+personal info
+============================================================
+vitals
+[<B-span (2): "prednisone">]
+[<B-span (4): "soriatane">]
+[<B-span (7): "soriatane">]
+============================================================
+past medical history
+============================================================
+medications
+[<B-span (1): "albuterol">]
+============================================================
+family history
+[<B-span (6): "smoking">, <B-span (8): "alcohol">]
+============================================================
+objective
+============================================================
+assessment
+[<B-span (5): "onychol">]
+[<B-span (8): "usatine">]
+[<B-span (2): "usatine">]
+[<B-span (1): "cholesterol">, <I-span (2): "trigl">, <I-span (3): "yceride">]
+[<B-span (4): "soriatane">]
+[<B-span (5): "soriatane">]
+[<B-span (8): "soriatane">, <B-span (10): "methotrexate">]
+[<B-span (5): "soriatane">]
+[<B-span (1): "soriatane">]
+[<B-span (1): "soriatane">]
+[<B-span (1): "calcipotriene">, <I-span (2): "dovonex">, <I-span (3): "0">, <I-span (4): "005">]
+[<B-span (1): "coal">, <I-span (2): "tar">, <I-span (3): "salicyclic">, <I-span (4): "acid">, <I-span (5): "triamcinolone">]
+[<B-span (10): "clobetasol">, <I-span (11): "0">, <I-span (12): "05">]
+[<B-span (4): "desonide">, <I-span (5): "0">, <I-span (6): "05">]
+[<B-span (5): "dovonex">, <B-span (9): "betamethasone">]
+[<B-span (4): "clobetasol">]
+[<B-span (2): "betamethasone">, <B-span (6): "dovonex">]
+[<B-span (8): "calcipotriene">]
+[<B-span (3): "betamethasone">]
+[<B-span (5): "calcipotriene">, <B-span (7): "betamethasone">]
+[<B-span (1): "ultraviolet">, <I-span (2): "light">]
+[<B-span (3): "levine">]
+[<B-span (10): "soriatane">, <B-span (12): "methotrexate">]
+[<B-span (12): "soriatane">]
+[<B-span (1): "alcohol">]
+[<B-span (3): "steroids">]
+[<B-span (4): "alcohol">]
+[<B-span (1): "alcohol">]
+[<B-span (13): "alcohol">]
+[<B-span (1): "alcohol">]
+[<B-span (9): "alcohol">]
+[<B-span (5): "alcohol">]
+[<B-span (1): "levine">]
+[<B-span (3): "usatine">]
+[<B-span (1): "usatine">]
+============================================================

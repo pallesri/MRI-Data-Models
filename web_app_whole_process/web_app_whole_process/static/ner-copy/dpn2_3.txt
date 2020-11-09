@@ -1,0 +1,14 @@
+personal info
+============================================================
+subjective
+============================================================
+objective
+[<Disease-span (9): "pain">]
+============================================================
+examination
+============================================================
+assessment
+[<Disease-span (4,5,6): "peripheral nerve impingement">]
+[<Disease-span (1,2): "cranial distortions">]
+[<Disease-span (1,2): "ligament sprain">, <Disease-span (5,6): "muscle spasm">]
+============================================================

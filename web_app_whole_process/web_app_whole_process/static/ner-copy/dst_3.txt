@@ -1,0 +1,18 @@
+personal info
+[<Disease-span (3,4,5,6,7): "malignant neoplasm of female breast">]
+============================================================
+history of present illness
+[<Disease-span (15,16): "breast cancer">]
+[<Disease-span (11,12): "bone metastases">]
+[<Disease-span (4,5,6): "shortness of breath">]
+[<Disease-span (17): "pleurodesis">]
+[<Disease-span (15,16): "respiratory distress">]
+[<Disease-span (2): "adenopathy">]
+[<Disease-span (2): "murmurs">]
+[<Disease-span (4): "hepatosplenomegaly">, <Disease-span (7,8,9): "peripheral clubbing cyanosis">, <Disease-span (11): "edema">]
+[<Disease-span (8,9): "pleural effusion">]
+[<Disease-span (16): "tumor">]
+[<Disease-span (4): "tumor">]
+[<Disease-span (16): "nausea">]
+[<Disease-span (10): "cancer">, <Disease-span (16,17): "pulmonary symptomatology">]
+============================================================

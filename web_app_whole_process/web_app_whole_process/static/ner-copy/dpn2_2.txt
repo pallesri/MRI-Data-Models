@@ -1,0 +1,21 @@
+personal info
+============================================================
+subjective
+[<P-span (3): "therapies">]
+============================================================
+objective
+[<P-span (1,2): "orthopedic testing">]
+[<P-span (1): "test">, <P-span (10,11,12): "hibb s test">]
+============================================================
+examination
+============================================================
+assessment
+[<P-span (5): "ultrasound">]
+[<P-span (4,5,6): "chiropractic adjusting technique">]
+[<P-span (6,7,8): "x ray analysis">, <P-span (10,11): "motion palpation">]
+[<P-span (1,2): "point therapy">]
+[<P-span (3): "treatment">]
+[<P-span (10): "treatment">]
+[<P-span (11): "treatment">]
+[<P-span (5,6): "manual therapy">]
+============================================================

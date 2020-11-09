@@ -1,0 +1,23 @@
+personal info
+[<GPE-span (1): "Chicago,">]
+[<PERSON-span (1,2): "Arthur Bach">, <DATE-span (4,5,6): "Wednesday, July 11,">, <DATE-span (7): "2012">]
+============================================================
+subjective
+[<PERSON-span (9): "Arthur">]
+============================================================
+objective
+[<GPE-span (5): "Arthur's">]
+[<PERSON-span (4): "Nachlas">, <PERSON-span (7): "Yeoman's">]
+============================================================
+examination
+============================================================
+assessment
+[<PERSON-span (2): "Graston">]
+[<PERSON-span (11): "Arthur">]
+[<PERSON-span (1): "Arthur">]
+[<DATE-span (12,13): "two days.">]
+[<PERSON-span (2,3,4): "Michael L. Silbert">, <PERSON-span (5,6): "Arthur Bach">]
+[<PERSON-span (1): "NPI:">]
+[<PERSON-span (1): "Arthur">, <DATE-span (13,14): "two days.">]
+[<DATE-span (5,6,7,8): "Tuesday, July 03, 2012">]
+============================================================

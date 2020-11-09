@@ -1,0 +1,38 @@
+personal info
+============================================================
+problem list
+[<P-span (1,2): "differential diagnoses">]
+============================================================
+hpi
+============================================================
+past medical history
+============================================================
+medications
+============================================================
+social history
+============================================================
+ros
+[<P-span (2): "diagnosis">]
+[<P-span (2): "diagnosis">]
+[<P-span (2): "diagnosis">]
+[<P-span (6): "diagnosis">]
+============================================================
+objective
+============================================================
+physical exam
+[<P-span (9): "palpation">]
+[<P-span (6): "drainage">]
+[<P-span (1): "palpation">]
+[<P-span (2): "diagnosis">]
+[<P-span (3): "diagnosis">]
+[<P-span (11,12): "treated with">]
+[<P-span (3,4): "prophylactic medications">]
+[<P-span (9): "scan">]
+[<P-span (1): "immunization">]
+[<P-span (4,5): "pelvic exam">, <P-span (7,8): "pap smear">]
+[<P-span (1,2): "std prevention">]
+[<P-span (9,10): "pap smear">]
+[<P-span (1): "prevention">]
+[<P-span (2): "immunizations">]
+[<P-span (5,6): "differential diagnosis">]
+============================================================

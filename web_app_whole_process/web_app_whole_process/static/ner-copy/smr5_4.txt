@@ -1,0 +1,51 @@
+personal info
+[<PERSON-span (1): "E.S.">, <DATE-span (4,5,6): "21 year old">]
+[<DATE-span (6,7): "4 weeks.">]
+============================================================
+problem list
+[<DATE-span (7,8,9): "21 year old">]
+[<PERSON-span (6): "Ive">, <DATE-span (11,12): "4 weeks,">]
+[<PERSON-span (8,9): "Meredith Horan,">, <DATE-span (10): "2000.">]
+[<DATE-span (10,11): "4 weeks,">]
+[<PERSON-span (3,4): "Meredith Horan,">, <DATE-span (5): "2000.">]
+[<DATE-span (10,11): "4 weeks,">]
+============================================================
+hpi
+[<DATE-span (1,2,3): "21 year old">, <DATE-span (13,14): "4 weeks.">]
+[<DATE-span (12,13,14): "4 weeks ago,">]
+[<DATE-span (10,11,12): "3 weeks ago,">]
+============================================================
+past medical history
+============================================================
+medications
+============================================================
+social history
+============================================================
+ros
+[<PERSON-span (1): "Mouth">]
+[<PERSON-span (1): "Throat">]
+[<PERSON-span (1): "Neck">]
+[<DATE-span (2,3): "2 weeks">]
+[<DATE-span (6,7): "the summer,">]
+============================================================
+objective
+============================================================
+physical exam
+[<PERSON-span (1): "Romberg">]
+[<PERSON-span (2,3): "Meredith Horan,">, <DATE-span (4): "2000.">]
+[<DATE-span (1): "1996.">]
+[<DATE-span (8): "1999.">]
+[<PERSON-span (6): "Midrin">]
+[<DATE-span (4,5,6): "the following week">]
+[<DATE-span (6,7): "3 years">]
+[<DATE-span (7): "1998.">]
+[<DATE-span (12,13): "age 18.">]
+[<DATE-span (4): "1998.">]
+[<DATE-span (11,12,13): "the last year,">]
+[<DATE-span (1): "1999.">]
+[<DATE-span (4,5): "N. 2000.">]
+[<GPE-span (1,2): "Philadelphia, Pennsylvania:">]
+[<GPE-span (1,2): "Great Britain:">]
+[<DATE-span (1): "1998.">]
+[<PERSON-span (2,3): "C.R. Graham,">, <DATE-span (5): "1998.">]
+============================================================

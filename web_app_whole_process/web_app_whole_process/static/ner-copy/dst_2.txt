@@ -1,0 +1,16 @@
+personal info
+[<P-span (3): "thoracoscopy">, <P-span (5,6,7): "chest tube placement">, <P-span (9): "pleurodesis">]
+============================================================
+history of present illness
+[<P-span (7,8): "radical mastectomy">, <P-span (11): "radiotherapy">]
+[<P-span (7,8): "treated with">, <P-span (10,11): "radiation therapy">]
+[<P-span (15): "thoracoscopy">, <P-span (17): "pleurodesis">]
+[<P-span (2,3,4): "chest x ray">]
+[<P-span (2,3): "ct scan">]
+[<P-span (5): "thoracoscopy">]
+[<P-span (16): "infused">]
+[<P-span (1): "pleurodesis">]
+[<P-span (1): "pleurodesis">]
+[<P-span (7): "pleurodesis">]
+[<P-span (12,13,14): "chest x ray">]
+============================================================
